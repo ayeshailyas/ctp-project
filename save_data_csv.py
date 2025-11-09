@@ -1,10 +1,17 @@
 from pyalex import Topics, Funders, Works, config
 from typing import List, Dict
-from collections import Counter
+import pandas as pd
+from datetime import datetime
+import os
 
 config.email = "arunsisarrancs@gmail.com"
 
+DATA_DIR = "data"
+os.makedirs(DATA_DIR, exist_ok=True)
+
+
 def get_fields_in_domain(domain_id: int = 3) -> List[Dict]:
+    print("Fetching fields...")
     try:
         grouped_results = Topics().filter(**{'domain.id': domain_id}).group_by('field.id').get()
         
@@ -25,6 +32,7 @@ def get_fields_in_domain(domain_id: int = 3) -> List[Dict]:
 
 
 def get_top_subfields_in_domain_by_us_works(domain_id: int = 3, top_n: int = 10) -> List[Dict]:
+    print("Fetching top US subfields...")
     try:
         grouped_results = Works().filter(
             **{
@@ -52,7 +60,7 @@ def get_top_subfields_in_domain_by_us_works(domain_id: int = 3, top_n: int = 10)
 
 
 def get_top_topics_in_domain_by_us_works(domain_id: int = 3, top_n: int = 10) -> List[Dict]:
-    """Get top topics in a domain based on US works count."""
+    print("Fetching top US topics...")
     try:
         grouped_results = Works().filter(
             **{
@@ -66,6 +74,7 @@ def get_top_topics_in_domain_by_us_works(domain_id: int = 3, top_n: int = 10) ->
             if group.get('key') and group.get('key_display_name'):
                 topic_id = group['key'].split('/')[-1]
                 
+                # Fetch the topic to get field information
                 try:
                     topic_details = Topics().filter(**{'openalex': f"https://openalex.org/{topic_id}"}).get()[0]
                     field_name = topic_details.get('field', {}).get('display_name', 'Unknown')
@@ -88,7 +97,8 @@ def get_top_topics_in_domain_by_us_works(domain_id: int = 3, top_n: int = 10) ->
         return []
 
 
-def get_top_us_funder_for_subfield(subfield_id: str) -> Dict:
+def get_top_us_funder_for_subfield(subfield_id: str, subfield_name: str) -> Dict:
+    print(f"  Fetching top funder for {subfield_name}...")
     try:
         grouped_results = Works().filter(**{
             'topics.subfield.id': subfield_id,
@@ -113,88 +123,103 @@ def get_top_us_funder_for_subfield(subfield_id: str) -> Dict:
                         if funder_details:
                             funder = funder_details[0]
                             top_funder = {
-                                'id': funder_id,
-                                'name': funder.get('display_name', group['key_display_name']),
+                                'subfield_id': subfield_id,
+                                'subfield_name': subfield_name,
+                                'funder_id': funder_id,
+                                'funder_name': funder.get('display_name', group['key_display_name']),
                                 'subfield_works_count': works_count,
                                 'total_works_count': funder.get('works_count', 0),
                                 'country_code': funder.get('country_code', 'Unknown')
                             }
                         else:
                             top_funder = {
-                                'id': funder_id,
-                                'name': group['key_display_name'],
+                                'subfield_id': subfield_id,
+                                'subfield_name': subfield_name,
+                                'funder_id': funder_id,
+                                'funder_name': group['key_display_name'],
                                 'subfield_works_count': works_count,
-                                'total_works_count': 'N/A',
+                                'total_works_count': 0,
                                 'country_code': 'Unknown'
                             }
                     except:
                         top_funder = {
-                            'id': funder_id,
-                            'name': group['key_display_name'],
+                            'subfield_id': subfield_id,
+                            'subfield_name': subfield_name,
+                            'funder_id': funder_id,
+                            'funder_name': group['key_display_name'],
                             'subfield_works_count': works_count,
-                            'total_works_count': 'N/A',
+                            'total_works_count': 0,
                             'country_code': 'Unknown'
                         }
         
         return top_funder
     
     except Exception as e:
-        print(f"Error in get_top_us_funder_for_subfield: {e}")
+        print(f"  Error in get_top_us_funder_for_subfield: {e}")
         return None
 
 
-if __name__ == "__main__":
+def main():
     domain_id = 3  # Physical Sciences
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     
     print("=" * 80)
-    print(f"ANALYSIS OF DOMAIN {domain_id}: PHYSICAL SCIENCES (United States Focus)")
+    print(f"FETCHING DATA FROM OPENALEX API - Domain {domain_id}: Physical Sciences")
+    print(f"Timestamp: {timestamp}")
     print("=" * 80)
     print()
     
-    # Get all fields
-    print("ALL FIELDS IN DOMAIN (Global):")
-    print("-" * 80)
     fields = get_fields_in_domain(domain_id)
-    
-    for i, field in enumerate(fields, 1):
-        print(f"{i:2d}. {field['name']:40s} (ID: {field['id']:10s}) Topics: {field['topics_count']:,}")
+    if fields:
+        df_fields = pd.DataFrame(fields)
+        df_fields['fetch_date'] = timestamp
+        csv_path = os.path.join(DATA_DIR, 'fields.csv')
+        df_fields.to_csv(csv_path, index=False)
+        print(f"✓ Saved {len(fields)} fields to {csv_path}")
     
     print()
-    print("=" * 80)
     
-    print("TOP 10 SUBFIELDS (by US works count):")
-    print("-" * 80)
     top_subfields = get_top_subfields_in_domain_by_us_works(domain_id, top_n=10)
-    
-    for i, subfield in enumerate(top_subfields, 1):
-        print(f"{i:2d}. {subfield['name']:50s} (ID: {subfield['id']:10s}) US Works: {subfield['us_works_count']:,}")
-    
-    print()
-    print("=" * 80)
-    
-    print("TOP US FUNDER FOR EACH SUBFIELD:")
-    print("-" * 80)
-    
-    for i, subfield in enumerate(top_subfields, 1):
-        print(f"\n{i:2d}. Subfield: {subfield['name']}")
-        top_funder = get_top_us_funder_for_subfield(subfield['id'])
-        
-        if top_funder:
-            print(f"    Top US Funder: {top_funder['name']}")
-            print(f"    Works in this subfield: {top_funder['subfield_works_count']:,}")
-            print(f"    Total works funded: {top_funder['total_works_count']:,} | Country: {top_funder['country_code']}")
-        else:
-            print(f"    No US funder data available")
+    if top_subfields:
+        df_subfields = pd.DataFrame(top_subfields)
+        df_subfields['fetch_date'] = timestamp
+        csv_path = os.path.join(DATA_DIR, 'top_subfields_us.csv')
+        df_subfields.to_csv(csv_path, index=False)
+        print(f"✓ Saved {len(top_subfields)} subfields to {csv_path}")
     
     print()
-    print("=" * 80)
     
-    print("TOP 10 TOPICS (by US works count):")
-    print("-" * 80)
+    print("Fetching top US funders for each subfield:")
+    funders_data = []
+    for subfield in top_subfields:
+        funder = get_top_us_funder_for_subfield(subfield['id'], subfield['name'])
+        if funder:
+            funders_data.append(funder)
+    
+    if funders_data:
+        df_funders = pd.DataFrame(funders_data)
+        df_funders['fetch_date'] = timestamp
+        csv_path = os.path.join(DATA_DIR, 'subfield_funders_us.csv')
+        df_funders.to_csv(csv_path, index=False)
+        print(f"✓ Saved {len(funders_data)} funder records to {csv_path}")
+    
+    print()
+    
     top_topics = get_top_topics_in_domain_by_us_works(domain_id, top_n=10)
+    if top_topics:
+        df_topics = pd.DataFrame(top_topics)
+        df_topics['fetch_date'] = timestamp
+        csv_path = os.path.join(DATA_DIR, 'top_topics_us.csv')
+        df_topics.to_csv(csv_path, index=False)
+        print(f"✓ Saved {len(top_topics)} topics to {csv_path}")
     
-    for i, topic in enumerate(top_topics, 1):
-        print(f"{i:2d}. {topic['name']:50s}")
-        print(f"     Field: {topic['field']}")
-        print(f"     ID: {topic['id']:10s} | US Works: {topic['us_works_count']:,}")
-        print()
+    print()
+    print("=" * 80)
+    print("DATA FETCH COMPLETE!")
+    print("=" * 80)
+    print(f"\nAll CSV files saved to '{DATA_DIR}/' directory")
+    print(f"Last updated: {timestamp}")
+
+
+if __name__ == "__main__":
+    main()
