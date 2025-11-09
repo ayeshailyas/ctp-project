@@ -1,22 +1,9 @@
-from pyalex import Works, Topics, Funders, config
-from collections import Counter
+from pyalex import Topics, config
 from typing import List, Dict
 
 config.email = "arunsisarrancs@gmail.com"
 
-def find_research_areas(search_term, max_results:int=5):
-    topics = Topics().search(search_term).get()
-    results = []
-    for topic in topics[:max_results]:
-            results.append({
-                'id': topic['id'].split('/')[-1],
-                'display_name': topic['display_name'],
-                'works_count': topic.get('works_count', 0),
-                'cited_by_count': topic.get('cited_by_count', 0),
-            })
-    return results
-
-def get_fields_in_domain(domain_id):
+def get_fields_in_domain(domain_id: int = 3) -> List[Dict]:
     try:
         grouped_results = Topics().filter(**{'domain.id': domain_id}).group_by('field.id').get()
         
@@ -35,9 +22,10 @@ def get_fields_in_domain(domain_id):
         print(f"Error in get_fields_in_domain: {e}")
         return []
 
-def get_subfields_in_field(field_id: str):
+
+def get_top_subfields_in_domain(domain_id: int = 3, top_n: int = 10) -> List[Dict]:
     try:
-        grouped_results = Topics().filter(**{'field.id': field_id}).group_by('subfield.id').get()
+        grouped_results = Topics().filter(**{'domain.id': domain_id}).group_by('subfield.id').get()
         
         subfields_list = []
         for group in grouped_results:
@@ -48,74 +36,74 @@ def get_subfields_in_field(field_id: str):
                     'topics_count': group['count']
                 })
         
-        return sorted(subfields_list, key=lambda x: x['name'])
+        subfields_list.sort(key=lambda x: x['topics_count'], reverse=True)
+        
+        return subfields_list[:top_n]
     
     except Exception as e:
-        print(f"Error in get_subfields_in_field: {e}")
+        print(f"Error in get_top_subfields_in_domain: {e}")
         return []
 
-def get_topics_in_field(field_id: str, sort_by: str = 'works_count', top_n: int = None):
-    topics_pager = Topics().filter(**{'field.id': field_id})
-    all_topics = topics_pager.get()
 
-    results = []
-    for topic in all_topics:
-        results.append({
-            'id': topic['id'].split('/')[-1],
-            'name': topic['display_name'],
-            'works_count': topic.get('works_count', 0),
-            'cited_by_count': topic.get('cited_by_count', 0)
-        })
-
-    if not results:
-        return []
-
-    if sort_by in results[0]:
-        reverse_sort = (sort_by != 'name')
-        results.sort(key=lambda x: x[sort_by], reverse=reverse_sort)
-    
-    if top_n:
+def get_top_topics_in_domain(domain_id: int = 3, top_n: int = 10) -> List[Dict]:
+    try:
+        # Get all topics in the domain
+        topics_pager = Topics().filter(**{'domain.id': domain_id})
+        all_topics = topics_pager.get()
+        
+        results = []
+        
+        for topic in all_topics:
+            field_name = "Unknown"
+            if topic.get('field') and topic['field'].get('display_name'):
+                field_name = topic['field']['display_name']
+            
+            results.append({
+                'id': topic['id'].split('/')[-1],
+                'name': topic['display_name'],
+                'field': field_name,
+                'works_count': topic.get('works_count', 0),
+                'cited_by_count': topic.get('cited_by_count', 0)
+            })
+        
+        results.sort(key=lambda x: x['works_count'], reverse=True)
+        
         return results[:top_n]
     
-    return results
+    except Exception as e:
+        print(f"Error in get_top_topics_in_domain: {e}")
+        return []
 
 
 if __name__ == "__main__":
+    domain_id = 3  
     
-    domain_id = 3 
-    
-    print("Fields in Domain (ID: 3 'Physical Sciences')")
+    print("ALL FIELDS IN DOMAIN:")
+    print("-" * 80)
     fields = get_fields_in_domain(domain_id)
-
-    print("-" * 75)
+    
     for i, field in enumerate(fields, 1):
-        print(f"{i:2d}. {field['name']:35s} (ID: {str(field['id']):15s}) (Topics: {field['topics_count']:,})")
-
-    field_id_to_test = "17" 
-    print(f"Subfields in ID: {field_id_to_test}")
+        print(f"{i:2d}. {field['name']:40s} (ID: {field['id']:10s}) Topics: {field['topics_count']:,}")
     
-    subfields = get_subfields_in_field(field_id_to_test)
+    print()
+    print("=" * 80)
     
-    if not subfields:
-        print(f"No subfields found for Field ID: {field_id_to_test}")
-    else:
-        print("-" * 75)
-        for i, subfield in enumerate(subfields, 1):
-            print(f"{i:2d}. {subfield['name']:45s} (ID: {subfield['id']:15s}) ({subfield['topics_count']})")
-
-
-    print(f"Top 10 Topics ID: {field_id_to_test}")
+    print("TOP 10 SUBFIELDS (by number of topics):")
+    print("-" * 80)
+    top_subfields = get_top_subfields_in_domain(domain_id, top_n=10)
     
-    try:
-        top_topics = get_topics_in_field(field_id_to_test, 
-                                         sort_by='works_count', 
-                                         top_n=10)
-        if not top_topics:
-            print(f"No topics found for Field ID: {field_id_to_test}")
-        else:
-            print("-" * 75)
-            for i, topic in enumerate(top_topics, 1):
-                print(f"{i:2d}. {topic['name']:45s} (ID: {topic['id']:15s}) ({topic['works_count']:,})")
+    for i, subfield in enumerate(top_subfields, 1):
+        print(f"{i:2d}. {subfield['name']:50s} (ID: {subfield['id']:10s}) Topics: {subfield['topics_count']:,}")
     
-    except Exception as e:
-        print(f"Could not fetch topics for ID {field_id_to_test}: {e}")
+    print()
+    print("=" * 80)
+    
+    print("TOP 10 MOST POPULAR TOPICS (by number of papers):")
+    print("-" * 80)
+    top_topics = get_top_topics_in_domain(domain_id, top_n=10)
+    
+    for i, topic in enumerate(top_topics, 1):
+        print(f"{i:2d}. {topic['name']:50s}")
+        print(f"     Field: {topic['field']}")
+        print(f"     ID: {topic['id']:10s} | Works: {topic['works_count']:,} | Citations: {topic['cited_by_count']:,}")
+        print()
