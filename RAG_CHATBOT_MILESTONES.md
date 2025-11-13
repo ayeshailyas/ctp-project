@@ -87,22 +87,27 @@ The chatbot should be able to answer questions about the Physical Sciences resea
 
 ---
 
-## Milestone 1: Load CSV Data and Create Text Documents
+## Milestone 1: Load CSV Data and Create Document Objects
 
-**Goal**: Convert CSV data into text documents that can be embedded.
+**Goal**: Read CSV files and convert rows into LangChain Document objects (in memory) ready for embedding.
 
 **What you'll build**:
 
-- A script that reads all CSV files from `data/` directory
-- Converts each row into a readable text document with metadata
-- Saves documents in a format ready for embedding
+- A script that reads all CSV files from `data/` directory using pandas
+- Converts each row into a LangChain `Document` object with:
+  - `page_content`: Human-readable text representation of the row data
+  - `metadata`: Dictionary with source file, data type, and relevant fields (ID, name, etc.)
+- Documents are created in memory (no intermediate text files needed)
+- Documents are ready to be passed directly to the embedding/vector store creation
+
+**Note**: Unlike the reference files that load from `.txt` files, we work directly with CSV data. We create Document objects in memory without saving intermediate text files.
 
 **Verification**:
 
 - Run the script and see printed output showing:
   - Number of documents created from each CSV
-  - Sample document content
-  - Document metadata (source file, row type)
+  - Sample document content (page_content)
+  - Document metadata (source file, data type, IDs, etc.)
 
 **Files to create**:
 
@@ -119,30 +124,33 @@ Loading CSV data...
 Total documents: 42
 
 Sample document:
-Field: Chemistry (ID: 16) has 101 topics.
-Source: fields.csv
+Page Content: "Field: Chemistry (ID: 16) has 101 topics."
+Metadata: {'source': 'fields.csv', 'type': 'field', 'id': '16', 'name': 'Chemistry'}
 ```
 
 ---
 
 ## Milestone 2: Create Vector Store with Embeddings
 
-**Goal**: Generate embeddings and create a persistent Chroma vector store.
+**Goal**: Generate embeddings from Document objects and create a persistent Chroma vector store.
 
 **What you'll build**:
 
-- Script that loads documents from Milestone 1
-- Splits documents into chunks (if needed)
-- Creates embeddings using OpenAI embeddings
-- Persists vector store to disk (similar to `2a_rag_basics_metadata.py`)
+- Script that:
+  1. Loads CSV data and creates Document objects (using code from Milestone 1, or import the function)
+  2. Splits documents into chunks (if needed - for CSV rows, each row is typically one chunk)
+  3. Creates embeddings using OpenAI embeddings
+  4. Persists vector store to disk using `Chroma.from_documents()` (similar structure to `2a_rag_basics_metadata.py`)
+
+**Note**: We embed directly from Document objects created from CSV data. No intermediate text files are created or saved.
 
 **Verification**:
 
 - Run the script and see:
   - Vector store created in `db/chroma_db_research/`
-  - Number of chunks created
+  - Number of document chunks created
   - Confirmation message when complete
-- Re-run script and see it detects existing vector store
+- Re-run script and see it detects existing vector store (checks if directory exists)
 
 **Files to create**:
 
@@ -152,6 +160,9 @@ Source: fields.csv
 
 ```
 Creating vector store...
+Loading CSV data and creating documents...
+✓ Loaded 42 documents from CSV files
+
 --- Document Chunks Information ---
 Number of document chunks: 42
 
@@ -308,6 +319,13 @@ Follow the structure from reference files:
 - Persistent vector store in `db/` directory
 - Clear print statements for verification
 - Error handling for missing files
+
+**Important**: While the reference files (`2a_rag_basics_metadata.py`, etc.) load from `.txt` files, our implementation works directly with CSV data:
+
+- Read CSV files with `pandas`
+- Convert rows to LangChain `Document` objects in memory
+- Embed directly without creating intermediate text files
+- This approach is more efficient and better suited for structured CSV data
 
 ### GROQ API Setup
 
