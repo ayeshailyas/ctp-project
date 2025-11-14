@@ -290,7 +290,11 @@
         
         <!-- Control Panel -->
         <div id="control-panel">
-            <h2>📊 Graph Controls</h2>
+            <h2 id="view-title">📊 Graph Controls</h2>
+            
+            <div class="control-group" id="back-button-group" style="display: none;">
+                <button id="back-to-subfields">← Back to Subfields</button>
+            </div>
             
             <div class="control-group">
                 <button id="reset-view">Reset View</button>
@@ -304,6 +308,7 @@
             <p>Nodes are sized by US works count. Similar subfields are positioned closer together based on semantic similarity.</p>
             <p style="margin-top: 10px; font-size: 12px; color: #888;">
                 Click and drag to move nodes.<br>
+                <strong>Click on a subfield to view its topics.</strong><br>
                 Hover over nodes for details.
             </p>
         </div>
@@ -337,12 +342,15 @@
     <script>
         // Configuration
         const API_URL = 'http://localhost:5000/api/subfields/graph';
+        const TOPICS_API_BASE = 'http://localhost:5000/api/topics/subfield';
         let showLabels = true; // Start with labels shown by default
         let graphData = null;
         let simulation = null;
         let svg = null;
         let g = null;
         let initialPositions = null; // Store initial node positions
+        let currentView = 'subfields'; // Track current view: 'subfields' or 'topics'
+        let subfieldsGraphState = null; // Store subfields graph state for returning
         
         // Initialize visualization
         async function init() {
@@ -367,6 +375,11 @@
         
         function createVisualization() {
             const container = d3.select('#graph-container');
+            
+            // Stop existing simulation if running
+            if (simulation) {
+                simulation.stop();
+            }
             
             // Clear existing
             container.selectAll('*').remove();
@@ -451,11 +464,13 @@
                     const connectedIds = new Set();
                     connectedIds.add(d.id);
                     graphData.links.forEach(l => {
-                        if (l.source.id === d.id || (typeof l.source === 'string' && l.source === d.id)) {
-                            connectedIds.add(typeof l.target === 'object' ? l.target.id : l.target);
+                        const sourceId = typeof l.source === 'object' ? l.source.id : l.source;
+                        const targetId = typeof l.target === 'object' ? l.target.id : l.target;
+                        if (sourceId === d.id) {
+                            connectedIds.add(targetId);
                         }
-                        if (l.target.id === d.id || (typeof l.target === 'string' && l.target === d.id)) {
-                            connectedIds.add(typeof l.source === 'object' ? l.source.id : l.source);
+                        if (targetId === d.id) {
+                            connectedIds.add(sourceId);
                         }
                     });
                     
@@ -476,18 +491,79 @@
                     d3.select('#tooltip').style('display', 'none');
                     node.style('opacity', 1);
                     link.style('opacity', 0.6);
-                });
+                })
+                .on('click', function(event, d) {
+                    event.stopPropagation(); // Prevent event bubbling
+                    if (currentView === 'subfields') {
+                        // Store current graph state before switching
+                        if (simulation && graphData) {
+                            // Convert links to use IDs (not objects) for storage
+                            const linksForStorage = graphData.links.map(l => ({
+                                source: typeof l.source === 'object' ? l.source.id : l.source,
+                                target: typeof l.target === 'object' ? l.target.id : l.target,
+                                similarity: l.similarity,
+                                strength: l.strength
+                            }));
+                            
+                            subfieldsGraphState = {
+                                nodes: graphData.nodes.map(n => ({
+                                    id: n.id,
+                                    name: n.name,
+                                    us_works_count: n.us_works_count,
+                                    size: n.size,
+                                    x: n.x,
+                                    y: n.y,
+                                    fx: n.fx,
+                                    fy: n.fy
+                                })),
+                                links: linksForStorage,
+                                min_works_count: graphData.min_works_count,
+                                max_works_count: graphData.max_works_count
+                            };
+                        }
+                        // Load topics for this subfield
+                        loadTopicsForSubfield(d.id, d.name);
+                    }
+                })
+                .style('cursor', currentView === 'subfields' ? 'pointer' : 'default');
             
             // Track ticks to capture initial positions
             let tickCount = 0;
             
             // Update positions on tick
             simulation.on('tick', () => {
+                // D3 forceLink should have converted source/target to node objects by now
+                // But handle both cases for safety
                 link
-                    .attr('x1', d => d.source.x)
-                    .attr('y1', d => d.source.y)
-                    .attr('x2', d => d.target.x)
-                    .attr('y2', d => d.target.y);
+                    .attr('x1', d => {
+                        if (typeof d.source === 'object' && d.source.x !== undefined) {
+                            return d.source.x;
+                        }
+                        // Fallback: find node by ID if still a string
+                        const sourceNode = graphData.nodes.find(n => n.id === (typeof d.source === 'object' ? d.source.id : d.source));
+                        return sourceNode && sourceNode.x !== undefined ? sourceNode.x : 0;
+                    })
+                    .attr('y1', d => {
+                        if (typeof d.source === 'object' && d.source.y !== undefined) {
+                            return d.source.y;
+                        }
+                        const sourceNode = graphData.nodes.find(n => n.id === (typeof d.source === 'object' ? d.source.id : d.source));
+                        return sourceNode && sourceNode.y !== undefined ? sourceNode.y : 0;
+                    })
+                    .attr('x2', d => {
+                        if (typeof d.target === 'object' && d.target.x !== undefined) {
+                            return d.target.x;
+                        }
+                        const targetNode = graphData.nodes.find(n => n.id === (typeof d.target === 'object' ? d.target.id : d.target));
+                        return targetNode && targetNode.x !== undefined ? targetNode.x : 0;
+                    })
+                    .attr('y2', d => {
+                        if (typeof d.target === 'object' && d.target.y !== undefined) {
+                            return d.target.y;
+                        }
+                        const targetNode = graphData.nodes.find(n => n.id === (typeof d.target === 'object' ? d.target.id : d.target));
+                        return targetNode && targetNode.y !== undefined ? targetNode.y : 0;
+                    });
                 
                 node
                     .attr('cx', d => d.x)
@@ -559,7 +635,123 @@
                 .on('end', dragended);
         }
         
+        // Load topics for a specific subfield
+        async function loadTopicsForSubfield(subfieldId, subfieldName) {
+            try {
+                document.getElementById('loading').style.display = 'block';
+                const response = await fetch(`${TOPICS_API_BASE}/${subfieldId}`);
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                const topicsData = await response.json();
+                
+                if (topicsData.error) {
+                    alert(topicsData.error);
+                    document.getElementById('loading').style.display = 'none';
+                    return;
+                }
+                
+                // Update view state
+                currentView = 'topics';
+                initialPositions = null; // Reset initial positions for topics view
+                
+                // Update UI
+                document.getElementById('view-title').textContent = `📚 Topics in ${subfieldName}`;
+                document.getElementById('back-button-group').style.display = 'block';
+                document.getElementById('info-panel').innerHTML = `
+                    <h3>Topics in ${subfieldName}</h3>
+                    <p>Showing ${topicsData.nodes.length} topics. Nodes are sized by US works count.</p>
+                    <p style="margin-top: 10px; font-size: 12px; color: #888;">
+                        Click and drag to move nodes.<br>
+                        Hover over nodes for details.
+                    </p>
+                `;
+                
+                // Transform topics data to match graph structure
+                graphData = {
+                    nodes: topicsData.nodes,
+                    links: topicsData.links,
+                    min_works_count: topicsData.min_works_count,
+                    max_works_count: topicsData.max_works_count
+                };
+                
+                // Create visualization with new data
+                createVisualization();
+                
+                document.getElementById('loading').style.display = 'none';
+            } catch (error) {
+                console.error('Error loading topics:', error);
+                document.getElementById('loading').innerHTML = 
+                    '<div style="color: #ff6b6b;">Error loading topics data.</div>';
+            }
+        }
+        
+        // Return to subfields view
+        function returnToSubfields() {
+            currentView = 'subfields';
+            
+            // Restore subfields graph data
+            if (subfieldsGraphState) {
+                // Deep copy nodes to avoid reference issues
+                const restoredNodes = subfieldsGraphState.nodes.map(n => ({
+                    id: n.id,
+                    name: n.name,
+                    us_works_count: n.us_works_count,
+                    size: n.size,
+                    x: n.x || Math.random() * window.innerWidth,
+                    y: n.y || Math.random() * window.innerHeight,
+                    fx: n.fx || null,
+                    fy: n.fy || null
+                }));
+                
+                // Deep copy links (they should already be using IDs)
+                const restoredLinks = subfieldsGraphState.links.map(l => ({
+                    source: l.source,
+                    target: l.target,
+                    similarity: l.similarity,
+                    strength: l.strength
+                }));
+                
+                graphData = {
+                    nodes: restoredNodes,
+                    links: restoredLinks,
+                    min_works_count: subfieldsGraphState.min_works_count,
+                    max_works_count: subfieldsGraphState.max_works_count
+                };
+            } else {
+                // Reload from API if state not stored
+                init();
+                return;
+            }
+            
+            // Update UI
+            document.getElementById('view-title').textContent = '📊 Graph Controls';
+            document.getElementById('back-button-group').style.display = 'none';
+            document.getElementById('info-panel').innerHTML = `
+                <h3>Top 10 US Subfields</h3>
+                <p>Nodes are sized by US works count. Similar subfields are positioned closer together based on semantic similarity.</p>
+                <p style="margin-top: 10px; font-size: 12px; color: #888;">
+                    Click and drag to move nodes.<br>
+                    Click on a subfield to view its topics.<br>
+                    Hover over nodes for details.
+                </p>
+            `;
+            
+            // Reset initial positions for subfields view
+            initialPositions = null;
+            
+            // Recreate visualization - this will let D3 forceLink convert IDs to objects
+            createVisualization();
+        }
+        
         function setupControls() {
+            // Back to subfields button
+            d3.select('#back-to-subfields').on('click', function() {
+                returnToSubfields();
+            });
+            
             // Reset view - restore initial positions and reset zoom
             d3.select('#reset-view').on('click', function() {
                 if (simulation && svg) {

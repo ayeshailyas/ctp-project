@@ -27,6 +27,12 @@ def load_data():
             'funders': pd.read_csv(os.path.join(DATA_DIR, 'subfield_funders_us.csv')),
             'topics': pd.read_csv(os.path.join(DATA_DIR, 'top_topics_us.csv'))
         }
+        
+        # Load top 50 popular topics if available
+        top_50_path = os.path.join(DATA_DIR, 'top_50_popular_topics.csv')
+        if os.path.exists(top_50_path):
+            data_cache['top_50_topics'] = pd.read_csv(top_50_path)
+        
         print("✓ Data loaded successfully")
         return data_cache
     except Exception as e:
@@ -58,7 +64,9 @@ def home():
             '/api/search/topic?q=<query>': 'Search topics by name',
             '/api/summary': 'Get complete data summary',
             '/api/reload': 'Reload data from CSV files',
-            '/api/subfields/graph': 'Get subfields graph data with semantic similarity'
+            '/api/subfields/graph': 'Get subfields graph data with semantic similarity',
+            '/api/topics/popular': 'Get top 50 most popular topics for US',
+            '/api/topics/subfield/<subfield_id>': 'Get topics graph for a specific subfield'
         }
     })
 
@@ -83,7 +91,8 @@ def health():
             'fields': len(data['fields']),
             'subfields': len(data['subfields']),
             'funders': len(data['funders']),
-            'topics': len(data['topics'])
+            'topics': len(data['topics']),
+            'top_50_topics': len(data.get('top_50_topics', pd.DataFrame()))
         }
     })
 
@@ -273,6 +282,122 @@ def reload():
             'status': 'error',
             'message': str(e)
         }), 500
+
+
+@app.route('/api/topics/popular')
+def get_popular_topics():
+    """
+    Get top 50 most popular topics based on US works count.
+    """
+    data = load_data()
+    if data is None:
+        return jsonify({'error': 'Data not loaded'}), 500
+    
+    if 'top_50_topics' not in data:
+        return jsonify({
+            'error': 'Top 50 topics data not found. Run save_data_csv.py to fetch the data.'
+        }), 404
+    
+    topics = data['top_50_topics'].to_dict('records')
+    return jsonify({
+        'count': len(topics),
+        'data': topics
+    })
+
+
+@app.route('/api/topics/subfield/<subfield_id>')
+def get_topics_by_subfield(subfield_id):
+    """
+    Get topics for a specific subfield based on US works count.
+    Returns graph data with semantic similarity for visualization.
+    """
+    data = load_data()
+    if data is None:
+        return jsonify({'error': 'Data not loaded'}), 500
+    
+    if 'top_50_topics' not in data:
+        return jsonify({
+            'error': 'Top 50 topics data not found. Run save_data_csv.py to fetch the data.'
+        }), 404
+    
+    try:
+        subfield_id_int = int(subfield_id)
+    except ValueError:
+        return jsonify({'error': 'Invalid subfield ID'}), 400
+    
+    # Filter topics by subfield ID (need to check if subfield matches)
+    # Since we don't have subfield ID in topics CSV directly, we'll use the subfield name
+    # First get the subfield name
+    subfields_df = data['subfields']
+    subfield = subfields_df[subfields_df['id'] == subfield_id_int]
+    
+    if subfield.empty:
+        return jsonify({'error': 'Subfield not found'}), 404
+    
+    subfield_name = subfield.iloc[0]['name']
+    
+    # Get topics that match this subfield (case-insensitive partial match)
+    topics_df = data['top_50_topics']
+    matching_topics = topics_df[topics_df['subfield'].str.contains(subfield_name, case=False, na=False)]
+    
+    if len(matching_topics) == 0:
+        return jsonify({
+            'error': f'No topics found for subfield: {subfield_name}',
+            'subfield_name': subfield_name
+        }), 404
+    
+    # Prepare node data
+    nodes = []
+    topic_names = []
+    min_works = matching_topics['us_works_count'].min()
+    max_works = matching_topics['us_works_count'].max()
+    works_range = max_works - min_works if max_works != min_works else 1
+    
+    for idx, row in matching_topics.iterrows():
+        # Normalize size based on us_works_count (for visualization)
+        normalized_size = 10 + ((row['us_works_count'] - min_works) / works_range) * 40
+        
+        nodes.append({
+            'id': str(row['id']),
+            'name': row['name'],
+            'us_works_count': int(row['us_works_count']),
+            'field': row['field'],
+            'size': float(normalized_size)
+        })
+        topic_names.append(row['name'])
+    
+    # Compute semantic similarity using TF-IDF and cosine similarity
+    links = []
+    try:
+        if len(topic_names) > 1:
+            vectorizer = TfidfVectorizer(stop_words='english', lowercase=True, ngram_range=(1, 2))
+            tfidf_matrix = vectorizer.fit_transform(topic_names)
+            similarity_matrix = cosine_similarity(tfidf_matrix)
+            
+            # Create links based on similarity threshold
+            similarity_threshold = 0.15
+            for i in range(len(nodes)):
+                for j in range(i + 1, len(nodes)):
+                    similarity = float(similarity_matrix[i][j])
+                    if similarity > similarity_threshold:
+                        links.append({
+                            'source': nodes[i]['id'],
+                            'target': nodes[j]['id'],
+                            'similarity': similarity,
+                            'strength': similarity
+                        })
+    except Exception as e:
+        print(f"Error computing similarity: {e}")
+        links = []
+    
+    return jsonify({
+        'subfield_id': subfield_id_int,
+        'subfield_name': subfield_name,
+        'nodes': nodes,
+        'links': links,
+        'min_works_count': int(min_works),
+        'max_works_count': int(max_works)
+    })
 
 
 @app.route('/api/subfields/graph')

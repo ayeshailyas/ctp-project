@@ -88,6 +88,47 @@ def get_top_topics_in_domain_by_us_works(domain_id: int = 3, top_n: int = 10) ->
         return []
 
 
+def get_top_50_popular_topics(domain_id: int = 3, top_n: int = 50) -> List[Dict]:
+    """Get top 50 most popular topics in a domain based on US works count."""
+    try:
+        # Get topics grouped by works count for US specifically
+        grouped_results = Works().filter(
+            **{
+                'topics.domain.id': domain_id,
+                'authorships.institutions.country_code': 'US'
+            }
+        ).group_by('topics.id').get()
+        
+        topics_list = []
+        for group in grouped_results:
+            if group.get('key') and group.get('key_display_name'):
+                topic_id = group['key'].split('/')[-1]
+                
+                try:
+                    topic_details = Topics().filter(**{'openalex': f"https://openalex.org/{topic_id}"}).get()[0]
+                    field_name = topic_details.get('field', {}).get('display_name', 'Unknown')
+                    subfield_name = topic_details.get('subfield', {}).get('display_name', 'Unknown') if topic_details.get('subfield') else 'Unknown'
+                except:
+                    field_name = 'Unknown'
+                    subfield_name = 'Unknown'
+                
+                topics_list.append({
+                    'id': topic_id,
+                    'name': group['key_display_name'],
+                    'field': field_name,
+                    'subfield': subfield_name,
+                    'us_works_count': group['count']
+                })
+        
+        topics_list.sort(key=lambda x: x['us_works_count'], reverse=True)
+        
+        return topics_list[:top_n]
+    
+    except Exception as e:
+        print(f"Error in get_top_50_popular_topics: {e}")
+        return []
+
+
 def get_top_us_funder_for_subfield(subfield_id: str) -> Dict:
     try:
         grouped_results = Works().filter(**{
