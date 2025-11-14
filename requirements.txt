@@ -12,11 +12,11 @@ tzdata==2025.2
 urllib3==2.5.0
 
 # RAG Chatbot dependencies
-langchain-core  # For Document objects (Milestone 1)
-langchain  # For chains (Milestone 4)
-langchain-community  # For Chroma vector store and HuggingFace embeddings (Milestone 2)
-langchain-groq  # For GROQ LLM (Milestone 4)
-chromadb  # For Chroma vector database (Milestone 2)
-python-dotenv  # For loading .env file (Milestone 2)
-sentence-transformers  # For free embeddings (Milestone 2)
-torch  # Required by sentence-transformers (Milestone 2)
+langchain-core
+langchain
+langchain-community
+langchain-groq
+chromadb
+python-dotenv
+sentence-transformers
+torch
