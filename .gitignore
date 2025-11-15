@@ -3,3 +3,4 @@ venv/
 __pycache__
 __init__.py
 RAG_CHATBOT_MILESTONES.md
+.env
