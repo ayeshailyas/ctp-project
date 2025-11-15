@@ -1,5 +1,6 @@
 import os
 import sys
+import shutil
 from dotenv import load_dotenv
 from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
@@ -9,6 +10,9 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.messages import HumanMessage, AIMessage
 from langchain_groq import ChatGroq
 
+# Import vector store creation functions
+from rag_chatbot_2_create_vectorstore import create_vectorstore, check_if_rebuild_needed
+
 # Load environment variables from .env
 load_dotenv()
 
@@ -17,11 +21,28 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 db_dir = os.path.join(current_dir, "db")
 persistent_directory = os.path.join(db_dir, "chroma_db_research")
 
-# Check if vector store exists
+# Check if vector store exists or needs to be rebuilt
 if not os.path.exists(persistent_directory):
-    print(f"Error: Vector store not found at {persistent_directory}")
-    print("Please run rag_chatbot_2_create_vectorstore.py first to create the vector store.")
-    sys.exit(1)
+    print(f"Vector store not found at {persistent_directory}")
+    print("Creating vector store...")
+    create_vectorstore()
+else:
+    # Check if rebuild is needed
+    needs_rebuild, reason = check_if_rebuild_needed()
+    if needs_rebuild:
+        print("=" * 80)
+        print("⚠ Vector Store Update Needed")
+        print("=" * 80)
+        print(f"Reason: {reason}")
+        print("\nRebuilding vector store...")
+        # Remove existing vector store
+        if os.path.exists(persistent_directory):
+            shutil.rmtree(persistent_directory)
+            print("✓ Removed old vector store")
+        # Rebuild
+        create_vectorstore()
+    else:
+        print("✓ Vector store is up to date.")
 
 # Define the embedding model (must match the one used in Milestone 2)
 print("Loading embedding model...")
