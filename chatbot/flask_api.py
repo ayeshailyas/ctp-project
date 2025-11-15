@@ -130,7 +130,16 @@ def initialize_rag_chain():
         "research data. Use the following pieces of retrieved context to answer the "
         "question. You are specifically asked to list all the fields in the Physical "
         "Sciences data. Do not summarize or omit any of the fields. If there are "
-        "multiple fields, list them all. Context:\n{context}"
+        "multiple fields, list them all.\n\n"
+        "IMPORTANT FORMATTING INSTRUCTIONS:\n"
+        "- Write responses in natural, conversational sentences. Do NOT use markdown "
+        "formatting like **, # .\n"
+        "- Do NOT include IDs (like 'ID: 22' or 'ID: 2208') in your responses. "
+        "Only mention names and relevant numbers.\n"
+        "- Express information in complete sentences when summarize, not lists or structured formats.\n"
+        "- Make the response flow naturally as if you're explaining to someone in "
+        "conversation.\n"
+        "Context:\n{context}"
     )
 
     # Create a prompt template for answering questions
