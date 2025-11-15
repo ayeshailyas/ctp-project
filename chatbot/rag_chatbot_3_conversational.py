@@ -10,14 +10,19 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.messages import HumanMessage, AIMessage
 from langchain_groq import ChatGroq
 
+# Add parent directory to path for imports
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir = os.path.dirname(current_dir)
+if parent_dir not in sys.path:
+    sys.path.insert(0, parent_dir)
+
 # Import vector store creation functions
-from rag_chatbot_2_create_vectorstore import create_vectorstore, check_if_rebuild_needed
+from chatbot.rag_chatbot_2_create_vectorstore import create_vectorstore, check_if_rebuild_needed
 
 # Load environment variables from .env
 load_dotenv()
 
 # Define the persistent directory (must match Milestone 2)
-current_dir = os.path.dirname(os.path.abspath(__file__))
 db_dir = os.path.join(current_dir, "db")
 persistent_directory = os.path.join(db_dir, "chroma_db_research")
 

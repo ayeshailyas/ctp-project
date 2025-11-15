@@ -4,7 +4,8 @@ from langchain_core.documents import Document
 
 # Define the data directory
 current_dir = os.path.dirname(os.path.abspath(__file__))
-data_dir = os.path.join(current_dir, "data")
+parent_dir = os.path.dirname(current_dir)
+data_dir = os.path.join(parent_dir, "data")
 
 print(f"Data directory: {data_dir}")
 

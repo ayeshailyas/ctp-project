@@ -1,14 +1,22 @@
 import os
+import sys
 import json
 import shutil
 from datetime import datetime
 from dotenv import load_dotenv
 from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
-from rag_chatbot_1_load_data import load_all_csv_documents
+
+# Add parent directory to path for imports
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir = os.path.dirname(current_dir)
+if parent_dir not in sys.path:
+    sys.path.insert(0, parent_dir)
+
+from chatbot.rag_chatbot_1_load_data import load_all_csv_documents
 
 # Import data directory and CSV files config from the load_data module
-import rag_chatbot_1_load_data
+import chatbot.rag_chatbot_1_load_data as rag_chatbot_1_load_data
 data_dir = rag_chatbot_1_load_data.data_dir
 csv_files = rag_chatbot_1_load_data.csv_files
 
@@ -16,7 +24,6 @@ csv_files = rag_chatbot_1_load_data.csv_files
 load_dotenv()
 
 # Define the persistent directory
-current_dir = os.path.dirname(os.path.abspath(__file__))
 db_dir = os.path.join(current_dir, "db")
 persistent_directory = os.path.join(db_dir, "chroma_db_research")
 metadata_file = os.path.join(db_dir, "vectorstore_metadata.json")
