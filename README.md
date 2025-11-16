@@ -24,24 +24,27 @@
    cd ctp-project
    ```
 
-2. **Install dependencies**
+2. Create a virtual environment and activate it
+   ```bash
+   python -m venv venv
+   source venv/bin/activate
+   ```
+
+3. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Configure environment variables**
+4. **Configure environment variables**
    ```bash
    # Create .env file with your OpenAlex API email
    echo "OPENALEX_EMAIL=your-email@example.com" > .env
    ```
 
-4. **Fetch the data**
+5. **Fetch the data**
    ```bash
    # Fetch base datasets
    python save_data_csv.py
-   
-   # Fetch subfield-specific topics (this may take a few minutes)
-   python fetch_subfield_topics.py
    ```
 
 5. **Start the application**
@@ -49,8 +52,9 @@
    python flask_api.py
    ```
 
-6. **Open in browser**
-   Navigate to `http://localhost:5000/subfields.html`
+7. **Open in browser**
+
+Open `subfields.html` in your browser
 
 ## Data Sources
 
