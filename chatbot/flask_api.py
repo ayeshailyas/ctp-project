@@ -127,9 +127,9 @@ def initialize_rag_chain():
     qa_system_prompt = (
         "You are an assistant for question-answering tasks about Physical Sciences "
         "research data. Use the following pieces of retrieved context to answer the "
-        "question. You are specifically asked to list all the fields in the Physical "
-        "Sciences data. Do not summarize or omit any of the fields. If there are "
-        "multiple fields, list them all.\n\n"
+        "question. You are specifically asked to list all the fields, subfields, topics, founders in the Physical "
+        "Sciences data. Do not summarize or omit any of the fields, subfields, topics, founders. If there are "
+        "multiple fields, subfields, topics, founders, list them all.\n\n"
         "IMPORTANT FORMATTING INSTRUCTIONS:\n"
         "- Write responses in natural, conversational sentences. Do NOT use markdown "
         "formatting like **, # .\n"
