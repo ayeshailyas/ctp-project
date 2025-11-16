@@ -399,20 +399,21 @@
                 .domain(graphData.nodes.map(d => d.id))
                 .range(d3.schemeCategory10);
             
-            // Create force simulation with sensible defaults
+            // Create force simulation with adjusted parameters for balanced layout
             const linkForce = d3.forceLink(graphData.links)
                 .id(d => d.id)
                 .distance(d => {
                     // Distance based on similarity: more similar = closer
-                    // Base distance of 120, reduced by similarity (max reduction 90)
-                    return 120 - (d.similarity * 90);
-                });
+                    // Base distance of 100, with similarity-based adjustment
+                    return 100 - (d.similarity * 50);
+                })
+                .strength(d => d.similarity * 0.5 + 0.1); // Dynamic strength based on similarity
             
             simulation = d3.forceSimulation(graphData.nodes)
                 .force('link', linkForce)
-                .force('charge', d3.forceManyBody().strength(-400))
+                .force('charge', d3.forceManyBody().strength(-300))  // Moderate charge
                 .force('center', d3.forceCenter(width / 2, height / 2))
-                .force('collision', d3.forceCollide().radius(d => d.size + 10));
+                .force('collision', d3.forceCollide().radius(d => d.size + 8));  // Moderate padding
             
             // Create links
             const link = g.append('g')

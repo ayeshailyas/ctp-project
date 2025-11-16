@@ -392,12 +392,23 @@ def get_topics_by_subfield(subfield_id):
     links = []
     try:
         if len(topic_names) > 1:
-            vectorizer = TfidfVectorizer(stop_words='english', lowercase=True, ngram_range=(1, 2))
+            vectorizer = TfidfVectorizer(
+                stop_words='english', 
+                lowercase=True, 
+                ngram_range=(1, 3),  # Include trigrams for better semantic matching
+                max_df=0.8,  # Ignore terms that appear in more than 80% of documents
+                min_df=1,   # Include terms that appear in at least 1 document
+                norm='l2',  # Use L2 normalization
+                use_idf=True,
+                smooth_idf=True,
+                sublinear_tf=True  # Use sublinear TF scaling
+            )
             tfidf_matrix = vectorizer.fit_transform(topic_names)
             similarity_matrix = cosine_similarity(tfidf_matrix)
             
             # Create links based on similarity threshold
-            similarity_threshold = 0.15
+            # Use moderate threshold for balanced connectivity
+            similarity_threshold = 0.12
             for i in range(len(nodes)):
                 for j in range(i + 1, len(nodes)):
                     similarity = float(similarity_matrix[i][j])
@@ -459,13 +470,24 @@ def get_subfields_graph():
     
     # Compute semantic similarity using TF-IDF and cosine similarity
     try:
-        vectorizer = TfidfVectorizer(stop_words='english', lowercase=True, ngram_range=(1, 2))
+        vectorizer = TfidfVectorizer(
+            stop_words='english', 
+            lowercase=True, 
+            ngram_range=(1, 3),  # Include trigrams for better semantic matching
+            max_df=0.8,  # Ignore terms that appear in more than 80% of documents
+            min_df=1,   # Include terms that appear in at least 1 document
+            norm='l2',  # Use L2 normalization
+            use_idf=True,
+            smooth_idf=True,
+            sublinear_tf=True  # Use sublinear TF scaling
+        )
         tfidf_matrix = vectorizer.fit_transform(subfield_names)
         similarity_matrix = cosine_similarity(tfidf_matrix)
         
         # Create links based on similarity threshold
         # Only connect subfields with similarity above threshold
-        similarity_threshold = 0.15  # Adjust this to control edge density
+        # Use moderate threshold for balanced connectivity
+        similarity_threshold = 0.12  # Adjust this to control edge density
         links = []
         
         for i in range(len(nodes)):
