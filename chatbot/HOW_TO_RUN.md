@@ -131,3 +131,4 @@ ctp-project/
 - The chatbot uses conversation history (stored in memory, resets when server restarts)
 - Vector store is created automatically if it doesn't exist
 - The chatbot connects to `http://localhost:5000/api/chat` by default
+
