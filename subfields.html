@@ -195,6 +195,43 @@
         color: #64ffda;
       }
 
+      .info-panel-title-container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 10px;
+        gap: 10px;
+      }
+
+      .info-panel-title-container h3 {
+        margin: 0;
+        flex: 1;
+      }
+
+      .globe-view-btn {
+        padding: 8px 16px;
+        background: rgba(100, 255, 218, 0.2);
+        border: 1px solid #64ffda;
+        border-radius: 6px;
+        color: #64ffda;
+        cursor: pointer;
+        font-size: 12px;
+        transition: all 0.3s;
+        white-space: nowrap;
+        text-decoration: none;
+        display: block;
+        text-align: center;
+      }
+
+      .globe-view-btn:hover {
+        background: rgba(100, 255, 218, 0.3);
+        transform: translateY(-2px);
+      }
+
+      .globe-view-btn:active {
+        transform: translateY(0);
+      }
+
       #info-panel p {
         margin: 5px 0;
         font-size: 13px;
@@ -301,14 +338,20 @@
       <!-- Control Panel -->
       <div id="control-panel">
         <h2 id="view-title">📊 Graph Controls</h2>
-
         <div class="control-group" id="back-button-group" style="display: none">
           <button id="back-to-subfields">← Back to Subfields</button>
         </div>
 
         <div class="control-group">
           <button id="reset-view">Reset View</button>
+          <button
+          id="globe-view-button"
+          onclick="window.location.href='index.html'"
+        >
+          🌍 Globe View
+        </button>
           <button id="toggle-labels" class="active">Hide Labels</button>
+        </div>
         </div>
       </div>
 
