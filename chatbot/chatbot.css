@@ -23,6 +23,8 @@
   box-shadow: 0 4px 20px rgba(100, 255, 218, 0.4),
     0 0 0 0 rgba(100, 255, 218, 0.5);
   backdrop-filter: blur(10px);
+  min-width: 69px;
+  min-height: 69px;
 }
 
 .chat-button:hover {
