@@ -3,9 +3,6 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Enhanced Globe Visualization</title>
     <style>
       * {
@@ -360,19 +357,13 @@
     <link rel="stylesheet" href="chatbot/chatbot.css" />
   </head>
   <body>
-  </head>
-  <body>
     <div id="canvas-container"></div>
-
 
     <!-- Loading Screen -->
     <div id="loading">
       <div class="spinner"></div>
       <div>Loading Globe Data...</div>
-      <div class="spinner"></div>
-      <div>Loading Globe Data...</div>
     </div>
-
 
     <!-- Control Panel -->
     <div id="control-panel" class="collapsed">
@@ -413,12 +404,6 @@
 
       <div class="control-group button-group">
         <button id="toggle-atmosphere">Atmosphere</button>
-        <button
-          id="graph-view-button"
-          onclick="window.location.href='subfields.html'"
-        >
-          📊 Graph View
-        </button>
       </div>
     </div>
 
@@ -468,21 +453,15 @@
       </div>
     </div>
 
-
     <!-- Tooltip -->
     <div id="tooltip"></div>
-
 
     <!-- Stats Panel -->
     <div id="stats-panel">
       <div>FPS: <span id="fps">0</span></div>
       <div>Countries: <span id="country-count">0</span></div>
       <div>Markers: <span id="marker-count">0</span></div>
-      <div>FPS: <span id="fps">0</span></div>
-      <div>Countries: <span id="country-count">0</span></div>
-      <div>Markers: <span id="marker-count">0</span></div>
     </div>
-
 
     <!-- Legend -->
     <div id="legend">
@@ -527,7 +506,6 @@
     <!-- Chatbot Container -->
     <div id="chatbot-container"></div>
 
-
     <script type="importmap">
       {
         "imports": {
@@ -535,10 +513,8 @@
           "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
         }
       }
-
     </script>
     <script type="module" src="globe.js"></script>
     <script src="chatbot/chatbot.js"></script>
   </body>
 </html>
-
