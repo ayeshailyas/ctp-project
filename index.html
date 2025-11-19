@@ -413,6 +413,12 @@
 
       <div class="control-group button-group">
         <button id="toggle-atmosphere">Atmosphere</button>
+        <button
+          id="graph-view-button"
+          onclick="window.location.href='subfields.html'"
+        >
+          📊 Graph View
+        </button>
       </div>
     </div>
 
@@ -529,14 +535,10 @@
           "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
         }
       }
-      {
-        "imports": {
-          "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
-          "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
-        }
-      }
+
     </script>
     <script type="module" src="globe.js"></script>
+    <script src="chatbot/chatbot.js"></script>
   </body>
 </html>
 
