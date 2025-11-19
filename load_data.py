@@ -11,7 +11,8 @@ def check_data_exists():
         'fields.csv',
         'top_subfields_us.csv',
         'subfield_funders_us.csv',
-        'top_topics_us.csv'
+        'top_topics_us.csv',
+        'subfield_topics_us.csv'
     ]
     
     missing_files = []
@@ -36,6 +37,7 @@ def load_all_data():
     data['subfields'] = pd.read_csv(os.path.join(DATA_DIR, 'top_subfields_us.csv'))
     data['funders'] = pd.read_csv(os.path.join(DATA_DIR, 'subfield_funders_us.csv'))
     data['topics'] = pd.read_csv(os.path.join(DATA_DIR, 'top_topics_us.csv'))
+    data['subfield_topics'] = pd.read_csv(os.path.join(DATA_DIR, 'subfield_topics_us.csv'))
     
     return data
 
@@ -86,6 +88,18 @@ def display_summary(data):
         print(f"     Field: {row['field']}")
         print(f"     ID: {str(row['id']):10s} | US Works: {row['us_works_count']:,}")
         print()
+    
+    print()
+    print("=" * 80)
+    
+    print("SUBFIELD TOPICS SUMMARY:")
+    print("-" * 80)
+    subfield_counts = data['subfield_topics']['subfield_id'].value_counts()
+    for subfield_id, count in subfield_counts.items():
+        subfield_name = data['subfield_topics'][data['subfield_topics']['subfield_id'] == subfield_id]['subfield'].iloc[0]
+        print(f"Subfield {subfield_id} ({subfield_name}): {count} topics")
+    print(f"Total topics across all subfields: {len(data['subfield_topics'])}")
+    print()
 
 
 def get_subfield_info(data, subfield_name):

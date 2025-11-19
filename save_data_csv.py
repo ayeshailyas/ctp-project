@@ -3,8 +3,12 @@ from typing import List, Dict
 import pandas as pd
 from datetime import datetime
 import os
+from dotenv import load_dotenv
 
-config.email = "arunsisarrancs@gmail.com"
+# Load environment variables from .env file
+load_dotenv()
+
+config.email = os.getenv('OPENALEX_EMAIL', 'arunsisarrancs@gmail.com')
 
 DATA_DIR = "data"
 os.makedirs(DATA_DIR, exist_ok=True)
@@ -159,6 +163,65 @@ def get_top_us_funder_for_subfield(subfield_id: str, subfield_name: str) -> Dict
         return None
 
 
+def get_top_topics_for_subfields(domain_id: int = 3, top_n_subfields: int = 10, top_n_topics: int = 20):
+    """
+    Get top N topics for each of the top M subfields in a domain.
+    Returns a dictionary with subfield IDs as keys and lists of topics as values.
+    """
+    try:
+        # First get the top subfields
+        print("Fetching top US subfields...")
+        top_subfields = get_top_subfields_in_domain_by_us_works(domain_id, top_n_subfields)
+        
+        if not top_subfields:
+            print("No subfields found!")
+            return {}
+        
+        print(f"Found {len(top_subfields)} top subfields")
+        subfield_topics = {}
+        
+        for i, subfield in enumerate(top_subfields, 1):
+            subfield_id = subfield['id']
+            subfield_name = subfield['name']
+            
+            print(f"[{i}/{len(top_subfields)}] Fetching top {top_n_topics} topics for subfield: {subfield_name}")
+            
+            # Get topics specifically for this subfield
+            grouped_results = Works().filter(
+                **{
+                    'topics.domain.id': domain_id,
+                    'topics.subfield.id': subfield_id,
+                    'authorships.institutions.country_code': 'US'
+                }
+            ).group_by('topics.id').get()
+            
+            topics_list = []
+            for group in grouped_results:
+                if group.get('key') and group.get('key_display_name'):
+                    # Extract field and subfield info from the group data
+                    topic_info = group.get('primary_topic', {})
+                    field_name = topic_info.get('field', {}).get('display_name', 'Unknown')
+                    subfield_name_from_topic = topic_info.get('subfield', {}).get('display_name', 'Unknown')
+                    
+                    topics_list.append({
+                        'id': group['key'].split('/')[-1],
+                        'name': group['key_display_name'],
+                        'field': field_name,
+                        'subfield': subfield_name_from_topic,
+                        'us_works_count': group['count']
+                    })
+            
+            topics_list.sort(key=lambda x: x['us_works_count'], reverse=True)
+            subfield_topics[subfield_id] = topics_list[:top_n_topics]
+            print(f"  ✓ Found {len(topics_list)} topics, keeping top {len(topics_list[:top_n_topics])}")
+        
+        return subfield_topics
+    
+    except Exception as e:
+        print(f"Error in get_top_topics_for_subfields: {e}")
+        return {}
+
+
 def main():
     domain_id = 3  # Physical Sciences
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -214,11 +277,53 @@ def main():
         print(f"✓ Saved {len(top_topics)} topics to {csv_path}")
     
     print()
+    
+    print()
+    
+    # Fetch and save subfield-specific topics
+    print("Fetching subfield-specific topics:")
+    subfield_topics_data = get_top_topics_for_subfields(domain_id, top_n_subfields=10, top_n_topics=20)
+    
+    if subfield_topics_data:
+        print(f"\nSuccessfully fetched topics for {len(subfield_topics_data)} subfields")
+        
+        # Save each subfield's topics to separate CSV files
+        for subfield_id, topics_list in subfield_topics_data.items():
+            if topics_list:
+                df_topics = pd.DataFrame(topics_list)
+                df_topics['fetch_date'] = timestamp
+                csv_path = os.path.join(DATA_DIR, f'topics_subfield_{subfield_id}.csv')
+                df_topics.to_csv(csv_path, index=False)
+                print(f"✓ Saved {len(topics_list)} topics for subfield {subfield_id} to {csv_path}")
+        
+        # Also create a combined file with all subfield topics
+        all_topics = []
+        for subfield_id, topics_list in subfield_topics_data.items():
+            for topic in topics_list:
+                topic['subfield_id'] = subfield_id
+                all_topics.append(topic)
+        
+        if all_topics:
+            df_all_topics = pd.DataFrame(all_topics)
+            df_all_topics['fetch_date'] = timestamp
+            csv_path = os.path.join(DATA_DIR, 'subfield_topics_us.csv')
+            df_all_topics.to_csv(csv_path, index=False)
+            print(f"✓ Saved {len(all_topics)} total topics across all subfields to {csv_path}")
+    
+    print()
     print("=" * 80)
     print("DATA FETCH COMPLETE!")
     print("=" * 80)
     print(f"\nAll CSV files saved to '{DATA_DIR}/' directory")
     print(f"Last updated: {timestamp}")
+    
+    # Show summary
+    print(f"\nSummary:")
+    print(f"- Fields: {len(fields) if fields else 0}")
+    print(f"- Subfields: {len(top_subfields) if 'top_subfields' in locals() else 0}")
+    print(f"- Funders: {len(funders_data) if 'funders_data' in locals() else 0}")
+    print(f"- Topics: {len(top_topics) if 'top_topics' in locals() else 0}")
+    print(f"- Subfield Topics: {len(all_topics) if 'all_topics' in locals() else 0}")
 
 
 if __name__ == "__main__":
