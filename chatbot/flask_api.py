@@ -92,7 +92,7 @@ def initialize_rag_chain():
     # Increased k to 100 to ensure all documents can be retrieved
     retriever = db.as_retriever(
         search_type="similarity",
-        search_kwargs={"k": 50},
+        search_kwargs={"k": 100},
         filter={"category": "Physical Sciences"}
     )
 
@@ -176,42 +176,6 @@ def initialize_rag_chain():
             formatted_docs.append(content)
         return "\n\n".join(formatted_docs)
 
-    # Helper function to get top document by metric
-    def get_top_document_by_metric(doc_type, metric_field, display_name, metric_label):
-        """
-        Retrieve the document with the highest value for a given metric.
-
-        Args:
-            doc_type: Type of document (e.g., "field", "subfield", "topic", "funder")
-            metric_field: Name of the metric field in metadata (e.g., "topics_count", "us_works_count")
-            display_name: Display name for the document type (e.g., "field", "subfield")
-            metric_label: Display label for the metric (e.g., "topics", "US works", "total works")
-
-        Returns:
-            List of Document objects (single top document) or None if not found
-        """
-        filter_metadata = {"$and": [{"category": "Physical Sciences"}, {"type": doc_type}]}
-        all_docs = vector_db.get(where=filter_metadata)
-
-        if not all_docs or "documents" not in all_docs or "metadatas" not in all_docs:
-            return None
-
-        top_doc = None
-        max_value = -1
-
-        for i, doc_content in enumerate(all_docs["documents"]):
-            metadata = all_docs["metadatas"][i] if i < len(all_docs["metadatas"]) else {}
-            metric_value = int(metadata.get(metric_field, 0))
-
-            if metric_value > max_value:
-                max_value = metric_value
-                top_doc = Document(page_content=doc_content, metadata=metadata)
-
-        if top_doc:
-            print(f"Retrieved top {display_name} with {max_value:,} {metric_label}")
-            return [top_doc]
-        return None
-
     # Create a history-aware retriever function
     def get_contextualized_retrieval(input_data):
         """Retrieve documents, reformulating query based on chat history if needed."""
@@ -234,104 +198,43 @@ def initialize_rag_chain():
         is_list_all_query = any(phrase in query_lower for phrase in [
             "list all", "all fields", "all subfields", "all topics",
             "all funders", "show all", "what are all", "every field",
-            "every subfield", "every topic", "count of", "how many", "all"
+            "every subfield", "every topic", "count of", "how many"
         ])
 
-        # Define top query configurations
-        top_query_configs = [
-            {
-                "check": lambda q: any(phrase in q for phrase in [
-                    "top field", "highest field", "field with most", "field with highest",
-                    "which field has the most", "what is the top field", "top field by",
-                    "field with the most topics", "field with highest topics"
-                ]) and "field" in q and "subfield" not in q,
-                "doc_type": "field",
-                "metric_field": "topics_count",
-                "display_name": "field",
-                "metric_label": "topics"
-            },
-            {
-                "check": lambda q: any(phrase in q for phrase in [
-                    "top subfield", "highest subfield", "subfield with most", "subfield with highest",
-                    "which subfield has the most", "what is the top subfield", "top subfield by",
-                    "subfield with the most works", "subfield with highest works", "subfield with most us works"
-                ]) and "subfield" in q,
-                "doc_type": "subfield",
-                "metric_field": "us_works_count",
-                "display_name": "subfield",
-                "metric_label": "US works"
-            },
-            {
-                "check": lambda q: any(phrase in q for phrase in [
-                    "top topic", "highest topic", "topic with most", "topic with highest",
-                    "which topic has the most", "what is the top topic", "top topic by",
-                    "topic with the most works", "topic with highest works", "topic with most us works"
-                ]) and "topic" in q,
-                "doc_type": "topic",
-                "metric_field": "us_works_count",
-                "display_name": "topic",
-                "metric_label": "US works"
-            },
-            {
-                "check": lambda q: any(phrase in q for phrase in [
-                    "top funder", "highest funder", "funder with most", "funder with highest",
-                    "which funder has the most", "what is the top funder", "top funder by",
-                    "funder with the most works", "funder with highest works", "funder with most total works"
-                ]) and "funder" in q,
-                "doc_type": "funder",
-                "metric_field": "total_works_count",
-                "display_name": "funder",
-                "metric_label": "total works"
-            }
-        ]
+        if is_list_all_query:
+            # Determine document type from query
+            doc_type = None
+            if "field" in query_lower and "subfield" not in query_lower:
+                doc_type = "field"
+            elif "subfield" in query_lower:
+                doc_type = "subfield"
+            elif "topic" in query_lower:
+                doc_type = "topic"
+            elif "funder" in query_lower:
+                doc_type = "funder"
 
-        # Check for top queries
-        retrieved_docs = None
-        for config in top_query_configs:
-            if config["check"](query_lower):
-                retrieved_docs = get_top_document_by_metric(
-                    config["doc_type"],
-                    config["metric_field"],
-                    config["display_name"],
-                    config["metric_label"]
-                )
-                break
-
-        if retrieved_docs is None:
-            if is_list_all_query:
-                # Determine document type from query
-                doc_type = None
-                if "field" in query_lower and "subfield" not in query_lower:
-                    doc_type = "field"
-                elif "subfield" in query_lower:
-                    doc_type = "subfield"
-                elif "topic" in query_lower:
-                    doc_type = "topic"
-                elif "funder" in query_lower:
-                    doc_type = "funder"
-
-                # If we can identify a specific type, retrieve all documents of that type
-                if doc_type:
-                    filter_metadata = {"category": "Physical Sciences", "type": doc_type}
-                    # Use get() method to retrieve all documents matching the filter
-                    all_docs = vector_db.get(where=filter_metadata)
-                    # Convert to Document objects
-                    retrieved_docs = []
-                    if all_docs and "documents" in all_docs:
-                        for i, doc_content in enumerate(all_docs["documents"]):
-                            metadata = {}
-                            if "metadatas" in all_docs and i < len(all_docs["metadatas"]):
-                                metadata = all_docs["metadatas"][i]
-                            retrieved_docs.append(Document(page_content=doc_content, metadata=metadata))
-                    print(f"Retrieved all {len(retrieved_docs)} {doc_type} documents")
-                else:
-                    # Fallback to similarity search with high k
-                    retrieved_docs = retriever.invoke(reformulated_query)
-                    print(f"Retrieved {len(retrieved_docs)} documents (similarity search)")
+            # If we can identify a specific type, retrieve all documents of that type
+            if doc_type:
+                filter_metadata = {"category": "Physical Sciences", "type": doc_type}
+                # Use get() method to retrieve all documents matching the filter
+                all_docs = vector_db.get(where=filter_metadata)
+                # Convert to Document objects
+                retrieved_docs = []
+                if all_docs and "documents" in all_docs:
+                    for i, doc_content in enumerate(all_docs["documents"]):
+                        metadata = {}
+                        if "metadatas" in all_docs and i < len(all_docs["metadatas"]):
+                            metadata = all_docs["metadatas"][i]
+                        retrieved_docs.append(Document(page_content=doc_content, metadata=metadata))
+                print(f"Retrieved all {len(retrieved_docs)} {doc_type} documents")
             else:
-                # Regular similarity search (filter already configured in retriever)
+                # Fallback to similarity search with high k
                 retrieved_docs = retriever.invoke(reformulated_query)
                 print(f"Retrieved {len(retrieved_docs)} documents (similarity search)")
+        else:
+            # Regular similarity search (filter already configured in retriever)
+            retrieved_docs = retriever.invoke(reformulated_query)
+            print(f"Retrieved {len(retrieved_docs)} documents (similarity search)")
 
         # Store whether this is a list query for use in prompt
         input_data["_is_list_query"] = is_list_all_query
