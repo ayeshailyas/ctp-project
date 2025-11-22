@@ -92,7 +92,7 @@ def initialize_rag_chain():
     # Increased k to 100 to ensure all documents can be retrieved
     retriever = db.as_retriever(
         search_type="similarity",
-        search_kwargs={"k": 100},
+        search_kwargs={"k": 50},
         filter={"category": "Physical Sciences"}
     )
 
@@ -176,6 +176,47 @@ def initialize_rag_chain():
             formatted_docs.append(content)
         return "\n\n".join(formatted_docs)
 
+    # Helper function to extract specific field/subfield/topic names from query
+    def extract_specific_filters(query_text, doc_type):
+        """
+        Extract specific field, subfield, or topic names from query to add to filters.
+        Returns a dictionary with additional filter conditions.
+        """
+        query_lower = query_text.lower()
+        additional_filters = {}
+        
+        # Get all field names from vector store for matching
+        try:
+            field_docs = vector_db.get(where={"$and": [{"category": "Physical Sciences"}, {"type": "field"}]})
+            if field_docs and "metadatas" in field_docs:
+                field_names = [meta.get("name", "").lower() for meta in field_docs["metadatas"] if meta.get("name")]
+                # Check if any field name appears in the query
+                for i, field_name in enumerate(field_names):
+                    if field_name in query_lower:
+                        if doc_type == "topic":
+                            # For topics, filter by field
+                            additional_filters["field"] = field_docs["metadatas"][i].get("name")
+                        break
+        except Exception as e:
+            print(f"Warning: Could not extract field names: {e}")
+        
+        # Get all subfield names for matching
+        try:
+            subfield_docs = vector_db.get(where={"$and": [{"category": "Physical Sciences"}, {"type": "subfield"}]})
+            if subfield_docs and "metadatas" in subfield_docs:
+                subfield_names = [meta.get("name", "").lower() for meta in subfield_docs["metadatas"] if meta.get("name")]
+                # Check if any subfield name appears in the query
+                for i, subfield_name in enumerate(subfield_names):
+                    if subfield_name in query_lower:
+                        if doc_type == "funder":
+                            # For funders, filter by subfield_name
+                            additional_filters["subfield_name"] = subfield_docs["metadatas"][i].get("name")
+                        break
+        except Exception as e:
+            print(f"Warning: Could not extract subfield names: {e}")
+        
+        return additional_filters
+
     # Create a history-aware retriever function
     def get_contextualized_retrieval(input_data):
         """Retrieve documents, reformulating query based on chat history if needed."""
@@ -201,7 +242,173 @@ def initialize_rag_chain():
             "every subfield", "every topic", "count of", "how many"
         ])
 
-        if is_list_all_query:
+         # Check if this is a "top field" query - if so, retrieve the field with highest topics_count
+        is_top_field_query = any(phrase in query_lower for phrase in [
+            "top field", "highest field", "field with most", "field with highest",
+            "which field has the most", "what is the top field", "top field by",
+            "field with the most topics", "field with highest topics"
+        ]) and "field" in query_lower
+
+                # Check if this is a "top subfield" query - if so, retrieve the subfield with highest us_works_count
+        is_top_subfield_query = any(phrase in query_lower for phrase in [
+            "top subfield", "highest subfield", "subfield with most", "subfield with highest",
+            "which subfield has the most", "what is the top subfield", "top subfield by",
+            "subfield with the most works", "subfield with highest works", "subfield with most us works"
+        ]) and "subfield" in query_lower
+
+        # Check if this is a "top topic" query - if so, retrieve the topic with highest us_works_count
+        is_top_topic_query = any(phrase in query_lower for phrase in [
+            "top topic", "highest topic", "topic with most", "topic with highest",
+            "which topic has the most", "what is the top topic", "top topic by",
+            "topic with the most works", "topic with highest works", "topic with most us works"
+        ]) and "topic" in query_lower
+
+        # Check if this is a "top funder" query - if so, retrieve the funder with highest total_works_count
+        is_top_funder_query = any(phrase in query_lower for phrase in [
+            "top funder", "highest funder", "funder with most", "funder with highest",
+            "which funder has the most", "what is the top funder", "top funder by",
+            "funder with the most works", "funder with highest works", "funder with most total works"
+        ]) and "funder" in query_lower
+
+        if is_top_field_query:
+            # Retrieve all field documents to find the one with highest topics_count
+            doc_type = "field"  # Top field query is specifically about fields
+            # Extract additional filters from query if needed
+            additional_filters = extract_specific_filters(reformulated_query, doc_type)
+            filter_conditions = [{"category": "Physical Sciences"}, {"type": doc_type}]
+            if additional_filters:
+                filter_conditions.extend([{k: v} for k, v in additional_filters.items()])
+            filter_metadata = {"$and": filter_conditions}
+            all_docs = vector_db.get(where=filter_metadata)
+
+            retrieved_docs = []
+            if all_docs and "documents" in all_docs and "metadatas" in all_docs:
+                # Find the field with the highest topics_count
+                top_field_doc = None
+                max_topics = -1
+
+                for i, doc_content in enumerate(all_docs["documents"]):
+                    metadata = all_docs["metadatas"][i] if i < len(all_docs["metadatas"]) else {}
+                    # Get topics_count from metadata
+                    topics_count = int(metadata.get("topics_count", 0))
+
+                    if topics_count > max_topics:
+                        max_topics = topics_count
+                        top_field_doc = Document(page_content=doc_content, metadata=metadata)
+
+                if top_field_doc:
+                    retrieved_docs = [top_field_doc]
+                    print(f"Retrieved top field with {max_topics} topics")
+            else:
+                # Fallback to similarity search
+                retrieved_docs = retriever.invoke(reformulated_query)
+                print(f"Retrieved {len(retrieved_docs)} documents (similarity search fallback)")
+
+        elif is_top_subfield_query:
+            # Retrieve all subfield documents to find the one with highest us_works_count
+            doc_type = "subfield"  # Top subfield query is specifically about subfields
+            # Extract additional filters from query if needed
+            additional_filters = extract_specific_filters(reformulated_query, doc_type)
+            filter_conditions = [{"category": "Physical Sciences"}, {"type": doc_type}]
+            if additional_filters:
+                filter_conditions.extend([{k: v} for k, v in additional_filters.items()])
+            filter_metadata = {"$and": filter_conditions}
+            all_docs = vector_db.get(where=filter_metadata)
+
+            retrieved_docs = []
+            if all_docs and "documents" in all_docs and "metadatas" in all_docs:
+                # Find the subfield with the highest us_works_count
+                top_subfield_doc = None
+                max_works = -1
+
+                for i, doc_content in enumerate(all_docs["documents"]):
+                    metadata = all_docs["metadatas"][i] if i < len(all_docs["metadatas"]) else {}
+                    # Get us_works_count from metadata
+                    us_works_count = int(metadata.get("us_works_count", 0))
+
+                    if us_works_count > max_works:
+                        max_works = us_works_count
+                        top_subfield_doc = Document(page_content=doc_content, metadata=metadata)
+
+                if top_subfield_doc:
+                    retrieved_docs = [top_subfield_doc]
+                    print(f"Retrieved top subfield with {max_works:,} US works")
+            else:
+                # Fallback to similarity search
+                retrieved_docs = retriever.invoke(reformulated_query)
+                print(f"Retrieved {len(retrieved_docs)} documents (similarity search fallback)")
+
+        elif is_top_topic_query:
+            doc_type = "topic"  # Top topic query is specifically about topics
+            # Retrieve all topic documents to find the one with highest us_works_count
+            # Extract additional filters from query (e.g., field name)
+            additional_filters = extract_specific_filters(reformulated_query, doc_type)
+            filter_conditions = [{"category": "Physical Sciences"}, {"type": doc_type}]
+            if additional_filters:
+                filter_conditions.extend([{k: v} for k, v in additional_filters.items()])
+            filter_metadata = {"$and": filter_conditions}
+
+            all_docs = vector_db.get(where=filter_metadata)
+
+            retrieved_docs = []
+            if all_docs and "documents" in all_docs and "metadatas" in all_docs:
+                # Find the topic with the highest us_works_count
+                top_topic_doc = None
+                max_works = -1
+
+                for i, doc_content in enumerate(all_docs["documents"]):
+                    metadata = all_docs["metadatas"][i] if i < len(all_docs["metadatas"]) else {}
+                    # Get us_works_count from metadata
+                    us_works_count = int(metadata.get("us_works_count", 0))
+
+                    if us_works_count > max_works:
+                        max_works = us_works_count
+                        top_topic_doc = Document(page_content=doc_content, metadata=metadata)
+
+                if top_topic_doc:
+                    retrieved_docs = [top_topic_doc]
+                    print(f"Retrieved top topic with {max_works:,} US works")
+            else:
+                # Fallback to similarity search
+                retrieved_docs = retriever.invoke(reformulated_query)
+                print(f"Retrieved {len(retrieved_docs)} documents (similarity search fallback)")
+
+        elif is_top_funder_query:
+            # Retrieve all funder documents to find the one with highest total_works_count
+            doc_type = "funder"  # Top funder query is specifically about funders
+            # Extract additional filters from query (e.g., subfield name)
+            additional_filters = extract_specific_filters(reformulated_query, doc_type)
+            filter_conditions = [{"category": "Physical Sciences"}, {"type": doc_type}]
+            if additional_filters:
+                filter_conditions.extend([{k: v} for k, v in additional_filters.items()])
+            filter_metadata = {"$and": filter_conditions}
+
+            all_docs = vector_db.get(where=filter_metadata)
+
+            retrieved_docs = []
+            if all_docs and "documents" in all_docs and "metadatas" in all_docs:
+                # Find the funder with the highest total_works_count
+                top_funder_doc = None
+                max_works = -1
+
+                for i, doc_content in enumerate(all_docs["documents"]):
+                    metadata = all_docs["metadatas"][i] if i < len(all_docs["metadatas"]) else {}
+                    # Get total_works_count from metadata
+                    total_works_count = int(metadata.get("total_works_count", 0))
+
+                    if total_works_count > max_works:
+                        max_works = total_works_count
+                        top_funder_doc = Document(page_content=doc_content, metadata=metadata)
+
+                if top_funder_doc:
+                    retrieved_docs = [top_funder_doc]
+                    print(f"Retrieved top funder with {max_works:,} total works")
+            else:
+                # Fallback to similarity search
+                retrieved_docs = retriever.invoke(reformulated_query)
+                print(f"Retrieved {len(retrieved_docs)} documents (similarity search fallback)")
+
+        elif is_list_all_query:
             # Determine document type from query
             doc_type = None
             if "field" in query_lower and "subfield" not in query_lower:
@@ -215,7 +422,12 @@ def initialize_rag_chain():
 
             # If we can identify a specific type, retrieve all documents of that type
             if doc_type:
-                filter_metadata = {"category": "Physical Sciences", "type": doc_type}
+                # Extract additional filters from query (e.g., subfield name)
+                additional_filters = extract_specific_filters(reformulated_query, doc_type)
+                filter_conditions = [{"category": "Physical Sciences"}, {"type": doc_type}]
+                if additional_filters:
+                    filter_conditions.extend([{k: v} for k, v in additional_filters.items()])
+                filter_metadata = {"$and": filter_conditions}
                 # Use get() method to retrieve all documents matching the filter
                 all_docs = vector_db.get(where=filter_metadata)
                 # Convert to Document objects
