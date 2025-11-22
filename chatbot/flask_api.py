@@ -190,7 +190,7 @@ def initialize_rag_chain():
         Returns:
             List of Document objects (single top document) or None if not found
         """
-        filter_metadata = {"category": "Physical Sciences", "type": doc_type}
+        filter_metadata = {"$and": [{"category": "Physical Sciences"}, {"type": doc_type}]}
         all_docs = vector_db.get(where=filter_metadata)
 
         if not all_docs or "documents" not in all_docs or "metadatas" not in all_docs:
