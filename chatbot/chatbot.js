@@ -323,11 +323,11 @@ function initChatbot() {
             <!-- Suggested Questions -->
             <div class="suggested-questions" id="suggestedQuestions">
                 <div class="suggested-question-row">
-                    <button class="suggested-question-btn" onclick="useSuggestedQuestion('What fields are in Physical Sciences?')">What fields are in Physical Sciences?</button>
-                    <button class="suggested-question-btn" onclick="useSuggestedQuestion('What are the top subfields in Physical Sciences?')">What are the top subfields?</button>
+                    <button class="suggested-question-btn" onclick="useSuggestedQuestion('What is the top field in Physical Sciences?')">What is the top field?</button>
+                    <button class="suggested-question-btn" onclick="useSuggestedQuestion('What is the top subfield in Physical Sciences?')">What is the top subfield?</button>
                 </div>
                 <div class="suggested-question-row">
-                    <button class="suggested-question-btn" onclick="useSuggestedQuestion('What are the top topics in Physical Sciences?')">What are the top topics?</button>
+                    <button class="suggested-question-btn" onclick="useSuggestedQuestion('What is the top topic in Physical Sciences?')">What is the top topic?</button>
                     <button class="suggested-question-btn" onclick="useSuggestedQuestion('Summarize the Physical Sciences research data')">Summarize the research data</button>
                 </div>
             </div>
