@@ -158,85 +158,6 @@ def initialize_rag_chain():
             formatted_docs.append(content)
         return "\n\n".join(formatted_docs)
 
-    # Improved helper function to extract specific field/subfield/topic/funder names from query
-    def extract_specific_filters(query_text, doc_type):
-        """
-        Extract specific field, subfield, or topic names from query to add to filters.
-        Prioritizes subfield matches over field matches and uses word-boundary matching.
-        Returns a dictionary with additional filter conditions.
-        """
-        query_lower = query_text.lower()
-        additional_filters = {}
-
-        # helper to check full-word occurrence
-        def contains_whole_word(name):
-            if not name:
-                return False
-            return re.search(rf"\b{re.escape(name.lower())}\b", query_lower) is not None
-
-        # 1) Subfield names first (priority)
-        try:
-            subfield_docs = vector_db.get(where={"$and": [{"category": "Physical Sciences"}, {"type": "subfield"}]})
-            if subfield_docs and "metadatas" in subfield_docs:
-                for meta in subfield_docs["metadatas"]:
-                    name = meta.get("name", "")
-                    if contains_whole_word(name):
-                        # If query is about subfields, we want the exact subfield name
-                        if doc_type == "subfield":
-                            additional_filters["name"] = name
-                        # If querying for a topic/funder, filter by subfield_name
-                        elif doc_type in ("topic", "funder"):
-                            # Some docs use "subfield_name" key in metadata to indicate parent subfield
-                            additional_filters["subfield_name"] = name
-                        break
-        except Exception as e:
-            print(f"Warning: Could not extract subfield names: {e}")
-
-        # 2) Field names next (if no subfield matched or doc_type == "field")
-        # Only add field filter if we didn't already identify a subfield, or if doc_type is field
-        try:
-            field_docs = vector_db.get(where={"$and": [{"category": "Physical Sciences"}, {"type": "field"}]})
-            if field_docs and "metadatas" in field_docs:
-                for meta in field_docs["metadatas"]:
-                    name = meta.get("name", "")
-                    if contains_whole_word(name):
-                        if doc_type in ("topic", "subfield", "funder"):
-                            # For topics/subfields/funders, attaching the field helps filter
-                            additional_filters.setdefault("field", name)
-                        elif doc_type == "field":
-                            additional_filters["name"] = name
-                        break
-        except Exception as e:
-            print(f"Warning: Could not extract field names: {e}")
-
-        # 3) Topic names (explicit)
-        try:
-            topic_docs = vector_db.get(where={"$and": [{"category": "Physical Sciences"}, {"type": "topic"}]})
-            if topic_docs and "metadatas" in topic_docs:
-                for meta in topic_docs["metadatas"]:
-                    name = meta.get("name", "")
-                    if contains_whole_word(name):
-                        if doc_type == "topic":
-                            additional_filters["name"] = name
-                        elif doc_type == "funder":
-                            additional_filters["topic_name"] = name
-                        break
-        except Exception as e:
-            print(f"Warning: Could not extract topic names: {e}")
-
-        # 4) Funder names (explicit)
-        try:
-            funder_docs = vector_db.get(where={"$and": [{"category": "Physical Sciences"}, {"type": "funder"}]})
-            if funder_docs and "metadatas" in funder_docs:
-                for meta in funder_docs["metadatas"]:
-                    name = meta.get("name", "")
-                    if contains_whole_word(name) and doc_type == "funder":
-                        additional_filters["name"] = name
-                        break
-        except Exception as e:
-            print(f"Warning: Could not extract funder names: {e}")
-
-        return additional_filters
 
     # Create a history-aware retriever function
     def get_contextualized_retrieval(input_data):
@@ -308,15 +229,11 @@ def initialize_rag_chain():
             else:
                 doc_type = None
 
-        # Extract additional filters (only if doc_type known)
-        additional_filters = extract_specific_filters(query, doc_type) if doc_type else {}
-
         # Build filter conditions
         filter_conditions = [{"category": "Physical Sciences"}]
         if doc_type:
             filter_conditions.append({"type": doc_type})
-        if additional_filters:
-            filter_conditions.extend([{k: v} for k, v in additional_filters.items()])
+
         filter_metadata = {"$and": filter_conditions} if filter_conditions else {}
 
         # Retrieve documents using get() when we want all items of a type (list or top), otherwise similarity
