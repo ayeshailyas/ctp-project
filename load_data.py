@@ -12,7 +12,10 @@ def check_data_exists():
         'top_subfields_us.csv',
         'subfield_funders_us.csv',
         'top_topics_us.csv',
-        'subfield_topics_us.csv'
+        'subfield_topics_us.csv',
+        # NEW FILES
+        'yearly_subfields.csv',
+        'yearly_subfield_topics.csv'
     ]
     
     missing_files = []
@@ -33,11 +36,21 @@ def check_data_exists():
 def load_all_data():
     data = {}
     
+    # Standard Data
     data['fields'] = pd.read_csv(os.path.join(DATA_DIR, 'fields.csv'))
     data['subfields'] = pd.read_csv(os.path.join(DATA_DIR, 'top_subfields_us.csv'))
     data['funders'] = pd.read_csv(os.path.join(DATA_DIR, 'subfield_funders_us.csv'))
     data['topics'] = pd.read_csv(os.path.join(DATA_DIR, 'top_topics_us.csv'))
     data['subfield_topics'] = pd.read_csv(os.path.join(DATA_DIR, 'subfield_topics_us.csv'))
+    
+    # New Yearly Data
+    yearly_sf_path = os.path.join(DATA_DIR, 'yearly_subfields.csv')
+    if os.path.exists(yearly_sf_path):
+        data['yearly_subfields'] = pd.read_csv(yearly_sf_path)
+        
+    yearly_tp_path = os.path.join(DATA_DIR, 'yearly_subfield_topics.csv')
+    if os.path.exists(yearly_tp_path):
+        data['yearly_topics'] = pd.read_csv(yearly_tp_path)
     
     return data
 
@@ -60,7 +73,7 @@ def display_summary(data):
     print()
     print("=" * 80)
     
-    print("TOP 10 SUBFIELDS (by US works count):")
+    print("TOP 10 SUBFIELDS (All-Time Accumulation):")
     print("-" * 80)
     for idx, row in data['subfields'].iterrows():
         print(f"{idx+1:2d}. {row['name']:50s} (ID: {str(row['id']):10s}) US Works: {row['us_works_count']:,}")
@@ -68,79 +81,26 @@ def display_summary(data):
     print()
     print("=" * 80)
     
-    print("TOP US FUNDER FOR EACH SUBFIELD:")
-    print("-" * 80)
-    for idx, row in data['funders'].iterrows():
-        print(f"\n{idx+1:2d}. Subfield: {row['subfield_name']}")
-        print(f"    Top US Funder: {row['funder_name']}")
-        print(f"    Works in this subfield: {row['subfield_works_count']:,}")
-        total = row['total_works_count']
-        total_str = f"{int(total):,}" if pd.notna(total) and total != 0 else "N/A"
-        print(f"    Total works funded: {total_str} | Country: {row['country_code']}")
-    
+    # --- NEW SUMMARY SECTION FOR YEARLY DATA ---
+    if 'yearly_subfields' in data:
+        print("YEARLY TRENDS DATA:")
+        print("-" * 80)
+        df = data['yearly_subfields']
+        years = sorted(df['year'].unique())
+        print(f"Years Available: {min(years)} to {max(years)}")
+        print(f"Total Data Points: {len(df)} subfield records")
+        
+        # Show sample of latest year
+        latest_year = max(years)
+        print(f"\nTop Subfields in {latest_year}:")
+        latest_df = df[df['year'] == latest_year].head(5)
+        for idx, row in latest_df.iterrows():
+             print(f"  - {row['name']} ({row['us_works_count']:,} works)")
+    else:
+        print("YEARLY TRENDS DATA: MISSING")
+
     print()
     print("=" * 80)
-    
-    print("TOP 10 TOPICS (by US works count):")
-    print("-" * 80)
-    for idx, row in data['topics'].iterrows():
-        print(f"{idx+1:2d}. {row['name']:50s}")
-        print(f"     Field: {row['field']}")
-        print(f"     ID: {str(row['id']):10s} | US Works: {row['us_works_count']:,}")
-        print()
-    
-    print()
-    print("=" * 80)
-    
-    print("SUBFIELD TOPICS SUMMARY:")
-    print("-" * 80)
-    subfield_counts = data['subfield_topics']['subfield_id'].value_counts()
-    for subfield_id, count in subfield_counts.items():
-        subfield_name = data['subfield_topics'][data['subfield_topics']['subfield_id'] == subfield_id]['subfield'].iloc[0]
-        print(f"Subfield {subfield_id} ({subfield_name}): {count} topics")
-    print(f"Total topics across all subfields: {len(data['subfield_topics'])}")
-    print()
-
-
-def get_subfield_info(data, subfield_name):
-    subfield = data['subfields'][data['subfields']['name'].str.contains(subfield_name, case=False)]
-    
-    if subfield.empty:
-        print(f"No subfield found matching '{subfield_name}'")
-        return None
-    
-    subfield = subfield.iloc[0]
-    funder = data['funders'][data['funders']['subfield_id'] == subfield['id']]
-    
-    print(f"\nSubfield: {subfield['name']}")
-    print(f"ID: {subfield['id']}")
-    print(f"US Works Count: {subfield['us_works_count']:,}")
-    
-    if not funder.empty:
-        funder = funder.iloc[0]
-        print(f"\nTop US Funder: {funder['funder_name']}")
-        print(f"Works in this subfield: {funder['subfield_works_count']:,}")
-        print(f"Total works funded: {funder['total_works_count']:,}")
-        print(f"Country: {funder['country_code']}")
-    
-    return subfield
-
-
-def get_topic_info(data, topic_name):
-    topic = data['topics'][data['topics']['name'].str.contains(topic_name, case=False)]
-    
-    if topic.empty:
-        print(f"No topic found matching '{topic_name}'")
-        return None
-    
-    topic = topic.iloc[0]
-    
-    print(f"\nTopic: {topic['name']}")
-    print(f"ID: {topic['id']}")
-    print(f"Field: {topic['field']}")
-    print(f"US Works Count: {topic['us_works_count']:,}")
-    
-    return topic
 
 
 def main():

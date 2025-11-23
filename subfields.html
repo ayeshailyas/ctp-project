@@ -3,941 +3,639 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Top 10 US Subfields Visualization</title>
+    <title>Research Trends | Timeline View</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="chatbot/chatbot.css" />
+
     <style>
-      * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
+      :root {
+        --bg-color: #0f172a;
+        --panel-bg: rgba(15, 23, 42, 0.85);
+        --accent-primary: #38bdf8;
+        --accent-secondary: #818cf8;
+        --text-main: #f1f5f9;
+        --text-muted: #94a3b8;
+        --border-color: rgba(148, 163, 184, 0.15);
       }
+
+      * { margin: 0; padding: 0; box-sizing: border-box; outline: none; }
 
       body {
         margin: 0;
-        padding: 0;
         overflow: hidden;
-        background: linear-gradient(
-          135deg,
-          #0a0e27 0%,
-          #1a1a2e 50%,
-          #16213e 100%
-        );
-        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-        color: #fff;
+        background-color: var(--bg-color);
+        background-image: radial-gradient(circle at 50% 50%, #1e293b 0%, #0f172a 100%);
+        font-family: 'Inter', sans-serif;
+        color: var(--text-main);
       }
 
-      #container {
-        width: 100vw;
-        height: 100vh;
-        position: relative;
-      }
+      /* --- LAYOUT --- */
+      #graph-container { width: 100vw; height: 100vh; }
 
-      #graph-container {
-        width: 100%;
-        height: 100%;
-        position: relative;
-      }
-
-      svg {
-        width: 100%;
-        height: 100%;
-        cursor: grab;
-      }
-
-      svg:active {
-        cursor: grabbing;
-      }
-
-      /* Node styling */
-      .node {
-        cursor: pointer;
-        transition: r 0.3s ease;
-      }
-
-      .node:hover {
-        filter: brightness(1.2);
-      }
-
-      /* Link styling */
-      .link {
-        stroke: rgba(100, 255, 218, 0.3);
-        stroke-width: 1.5px;
-        fill: none;
-        pointer-events: none;
-      }
-
-      .link.high-similarity {
-        stroke: rgba(100, 255, 218, 0.5);
-        stroke-width: 2px;
-      }
-
-      /* Label styling */
-      .label {
-        font-size: 12px;
-        fill: #fff;
-        text-anchor: middle;
-        pointer-events: none;
-        font-weight: 500;
-        text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
-      }
-
-      /* Control Panel */
-      #control-panel {
+      /* --- PANELS --- */
+      .panel {
         position: absolute;
-        top: 20px;
-        left: 20px;
-        background: rgba(20, 20, 40, 0.9);
+        background: var(--panel-bg);
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+        border: 1px solid var(--border-color);
+        border-radius: 16px;
         padding: 20px;
-        border-radius: 12px;
-        backdrop-filter: blur(10px);
-        border: 1px solid rgba(255, 255, 255, 0.1);
-        z-index: 100;
-        max-width: 300px;
         box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+        transition: all 0.3s ease;
       }
 
-      #control-panel h2 {
-        margin: 0 0 15px 0;
-        font-size: 18px;
-        color: #64ffda;
+      /* Top Left: Controls */
+      #control-panel { top: 24px; left: 24px; width: 240px; z-index: 10; }
+      
+      /* Top Right: Info */
+      #info-panel { top: 24px; right: 24px; width: 280px; z-index: 10; }
+
+      /* Bottom Center: Timeline */
+      #timeline-panel {
+        bottom: 30px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 600px;
+        max-width: 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        z-index: 20;
+        padding: 15px 25px;
       }
 
-      .control-group {
-        margin-bottom: 15px;
+      /* Bottom Left: Legend */
+      #legend-panel {
+        bottom: 30px;
+        left: 24px;
+        width: 200px;
+        z-index: 10;
+        padding: 15px;
       }
 
-      .control-group label {
-        display: block;
-        margin-bottom: 5px;
-        font-size: 12px;
-        color: #aaa;
-        text-transform: uppercase;
-        letter-spacing: 0.5px;
-      }
+      /* Headings & Text */
+      h2 { font-size: 14px; text-transform: uppercase; letter-spacing: 1px; color: var(--text-muted); margin-bottom: 12px; font-weight: 600; display: flex; align-items: center; gap: 8px; }
+      h2::before { content: ''; width: 6px; height: 6px; background: var(--accent-primary); border-radius: 50%; box-shadow: 0 0 8px var(--accent-primary); }
+      p { font-size: 13px; color: var(--text-muted); line-height: 1.5; margin-bottom: 8px; }
+      .metric-row { display: flex; justify-content: space-between; padding: 6px 0; border-bottom: 1px solid var(--border-color); font-size: 12px; }
+      .metric-val { color: var(--text-main); font-weight: 600; font-family: monospace; }
 
-      .control-group input[type="range"] {
+      /* --- SLIDER UI --- */
+      .timeline-header {
         width: 100%;
-        accent-color: #64ffda;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10px;
+      }
+      #current-year-display {
+        font-size: 24px;
+        font-weight: 700;
+        color: var(--accent-primary);
+        text-shadow: 0 0 15px rgba(56, 189, 248, 0.4);
+        font-variant-numeric: tabular-nums;
+      }
+      
+      input[type=range] {
+        -webkit-appearance: none;
+        width: 100%;
+        background: transparent;
+      }
+      input[type=range]::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        height: 20px;
+        width: 20px;
+        border-radius: 50%;
+        background: var(--accent-primary);
+        cursor: pointer;
+        margin-top: -8px;
+        box-shadow: 0 0 10px var(--accent-primary);
+        transition: transform 0.1s;
+      }
+      input[type=range]::-webkit-slider-thumb:hover { transform: scale(1.2); }
+      input[type=range]::-webkit-slider-runnable-track {
+        width: 100%;
+        height: 4px;
+        cursor: pointer;
+        background: rgba(255,255,255,0.1);
+        border-radius: 2px;
+      }
+      
+      .timeline-labels {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 8px;
+        font-size: 10px;
+        color: var(--text-muted);
       }
 
-      button {
-        padding: 8px 16px;
-        background: rgba(100, 255, 218, 0.2);
-        border: 1px solid #64ffda;
-        border-radius: 6px;
-        color: #64ffda;
+      /* --- LEGEND UI --- */
+      .legend-item { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; font-size: 11px; color: var(--text-muted); }
+      .legend-dot { width: 10px; height: 10px; border-radius: 50%; }
+      .legend-line { width: 20px; height: 2px; background: var(--text-muted); opacity: 0.5; }
+      .legend-section { margin-top: 12px; padding-top: 8px; border-top: 1px solid var(--border-color); }
+      .legend-title { font-size: 10px; text-transform: uppercase; color: var(--accent-secondary); margin-bottom: 6px; letter-spacing: 0.5px; }
+
+      /* --- BUTTONS --- */
+      button.ctrl-btn {
+        width: 100%;
+        padding: 10px;
+        background: rgba(255,255,255,0.05);
+        border: 1px solid var(--border-color);
+        border-radius: 8px;
+        color: var(--text-main);
         cursor: pointer;
         font-size: 12px;
-        transition: all 0.3s;
-        width: 100%;
         margin-top: 8px;
+        transition: all 0.2s;
+        font-family: 'Inter', sans-serif;
       }
+      button.ctrl-btn:hover { background: rgba(255,255,255,0.1); transform: translateY(-1px); }
+      button.ctrl-btn.primary { background: rgba(56, 189, 248, 0.15); border-color: var(--accent-primary); color: var(--accent-primary); }
+      button.ctrl-btn.primary:hover { background: rgba(56, 189, 248, 0.25); }
+      
+      /* --- LOADING --- */
+      #loading {
+        position: absolute; inset: 0; background: var(--bg-color);
+        display: flex; flex-direction: column; align-items: center; justify-content: center;
+        z-index: 100; transition: opacity 0.5s;
+      }
+      .loader {
+        width: 40px; height: 40px; border: 2px solid var(--border-color);
+        border-top-color: var(--accent-primary); border-radius: 50%;
+        animation: spin 0.8s linear infinite; margin-bottom: 16px;
+      }
+      @keyframes spin { to { transform: rotate(360deg); } }
 
-      button:hover {
-        background: rgba(100, 255, 218, 0.3);
-        transform: translateY(-2px);
-      }
-
-      button:active {
-        transform: translateY(0);
-      }
-
-      button.active {
-        background: #64ffda;
-        color: #0a0e27;
-      }
+      /* --- D3 GRAPH --- */
+      .node { stroke: var(--bg-color); stroke-width: 1.5px; transition: all 0.3s; cursor: pointer; }
+      .node:hover { stroke: #fff; stroke-width: 2px; filter: drop-shadow(0 0 8px var(--accent-primary)); }
+      .link { stroke: var(--text-muted); stroke-opacity: 0.2; transition: stroke-opacity 0.3s; pointer-events: none; }
+      .label { font-size: 10px; fill: var(--text-muted); text-anchor: middle; pointer-events: none; font-weight: 500; text-shadow: 0 2px 4px #000; font-family: 'Inter', sans-serif; }
 
       /* Tooltip */
       #tooltip {
-        position: absolute;
-        background: rgba(20, 20, 40, 0.95);
-        padding: 12px 18px;
-        border-radius: 8px;
-        border: 1px solid rgba(100, 255, 218, 0.3);
-        pointer-events: none;
-        z-index: 200;
-        display: none;
-        font-size: 14px;
-        backdrop-filter: blur(10px);
-        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
-        max-width: 300px;
+        position: absolute; background: rgba(15, 23, 42, 0.95);
+        padding: 12px; border-radius: 8px; border: 1px solid var(--border-color);
+        pointer-events: none; display: none; z-index: 200; min-width: 160px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.5); backdrop-filter: blur(4px);
       }
 
-      #tooltip h3 {
-        margin: 0 0 8px 0;
-        color: #64ffda;
-        font-size: 16px;
+      /* --- CHATBOT THEME OVERRIDES --- */
+      /* These styles force the chatbot to match the Graph View theme */
+      .chat-button {
+        background-color: var(--accent-primary) !important;
+        box-shadow: 0 0 15px rgba(56, 189, 248, 0.4) !important;
+        bottom: 30px !important;
+        right: 30px !important;
       }
-
-      #tooltip p {
-        margin: 4px 0;
-        color: #ccc;
-        font-size: 13px;
+      .chat-modal {
+        background: var(--panel-bg) !important;
+        backdrop-filter: blur(12px) !important;
+        -webkit-backdrop-filter: blur(12px) !important;
+        border: 1px solid var(--border-color) !important;
+        border-radius: 16px !important;
+        font-family: 'Inter', sans-serif !important;
+        box-shadow: 0 20px 40px rgba(0,0,0,0.4) !important;
       }
-
-      /* Info Panel */
-      #info-panel {
-        position: absolute;
-        top: 20px;
-        right: 20px;
-        background: rgba(20, 20, 40, 0.9);
-        padding: 20px;
-        border-radius: 12px;
-        backdrop-filter: blur(10px);
-        border: 1px solid rgba(255, 255, 255, 0.1);
-        z-index: 100;
-        max-width: 300px;
-        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+      .chat-modal-header {
+        border-bottom: 1px solid var(--border-color) !important;
       }
-
-      #info-panel h3 {
-        margin: 0 0 10px 0;
-        font-size: 16px;
-        color: #64ffda;
+      .chat-modal-header h3 {
+        color: var(--text-main) !important;
+        font-weight: 600 !important;
       }
-
-      .info-panel-title-container {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        margin-bottom: 10px;
-        gap: 10px;
+      .chat-input {
+        background: rgba(255,255,255,0.05) !important;
+        border: 1px solid var(--border-color) !important;
+        color: var(--text-main) !important;
+        border-radius: 8px !important;
       }
-
-      .info-panel-title-container h3 {
-        margin: 0;
-        flex: 1;
+      .chat-input:focus {
+        border-color: var(--accent-primary) !important;
       }
-
-      .globe-view-btn {
-        padding: 8px 16px;
-        background: rgba(100, 255, 218, 0.2);
-        border: 1px solid #64ffda;
-        border-radius: 6px;
-        color: #64ffda;
-        cursor: pointer;
-        font-size: 12px;
-        transition: all 0.3s;
-        white-space: nowrap;
-        text-decoration: none;
-        display: block;
-        text-align: center;
+      .chat-send-btn {
+        background: var(--accent-primary) !important;
+        color: #0f172a !important;
+        font-weight: 600 !important;
+        border-radius: 8px !important;
       }
-
-      .globe-view-btn:hover {
-        background: rgba(100, 255, 218, 0.3);
-        transform: translateY(-2px);
+      .message.user .message-bubble {
+        background: var(--accent-primary) !important;
+        color: #0f172a !important;
       }
-
-      .globe-view-btn:active {
-        transform: translateY(0);
+      .message.ai .message-bubble {
+        background: rgba(255,255,255,0.05) !important;
+        border: 1px solid var(--border-color) !important;
+        color: var(--text-main) !important;
       }
-
-      #info-panel p {
-        margin: 5px 0;
-        font-size: 13px;
-        color: #aaa;
-        line-height: 1.6;
+      .suggested-question-btn {
+        background: rgba(255,255,255,0.05) !important;
+        border: 1px solid var(--border-color) !important;
+        color: var(--accent-primary) !important;
+        border-radius: 6px !important;
       }
-
-      /* Loading */
-      #loading {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        background: rgba(20, 20, 40, 0.9);
-        padding: 30px 40px;
-        border-radius: 12px;
-        backdrop-filter: blur(10px);
-        border: 1px solid rgba(255, 255, 255, 0.1);
-        z-index: 300;
-        text-align: center;
-      }
-
-      .spinner {
-        border: 3px solid rgba(255, 255, 255, 0.1);
-        border-top: 3px solid #64ffda;
-        border-radius: 50%;
-        width: 40px;
-        height: 40px;
-        animation: spin 1s linear infinite;
-        margin: 0 auto 15px;
-      }
-
-      @keyframes spin {
-        0% {
-          transform: rotate(0deg);
-        }
-        100% {
-          transform: rotate(360deg);
-        }
-      }
-
-      /* Legend */
-      #legend {
-        position: absolute;
-        bottom: 20px;
-        left: 20px;
-        background: rgba(20, 20, 40, 0.9);
-        padding: 15px;
-        border-radius: 12px;
-        backdrop-filter: blur(10px);
-        border: 1px solid rgba(255, 255, 255, 0.1);
-        z-index: 100;
-        max-width: 250px;
-      }
-
-      #legend h4 {
-        margin: 0 0 10px 0;
-        font-size: 14px;
-        color: #64ffda;
-      }
-
-      .legend-item {
-        display: flex;
-        align-items: center;
-        margin: 5px 0;
-        font-size: 12px;
-      }
-
-      .legend-color {
-        width: 20px;
-        height: 12px;
-        margin-right: 8px;
-        border-radius: 3px;
-      }
-
-      .legend-size {
-        display: flex;
-        align-items: center;
-        margin: 5px 0;
-        font-size: 11px;
-        color: #aaa;
-      }
-
-      .legend-size-example {
-        display: inline-block;
-        background: #64ffda;
-        border-radius: 50%;
-        margin-right: 8px;
+      .suggested-question-btn:hover {
+        background: rgba(56, 189, 248, 0.1) !important;
+        border-color: var(--accent-primary) !important;
       }
     </style>
-    <link rel="stylesheet" href="chatbot/chatbot.css" />
   </head>
   <body>
-    <div id="container">
-      <!-- Loading Screen -->
-      <div id="loading">
-        <div class="spinner"></div>
-        <div>Loading Subfields Data...</div>
-      </div>
 
-      <!-- Graph Container -->
-      <div id="graph-container"></div>
+    <div id="loading">
+      <div class="loader"></div>
+      <div style="font-size: 12px; letter-spacing: 1px; color: var(--text-muted);">LOADING TIMELINE DATA</div>
+    </div>
 
-      <!-- Control Panel -->
-      <div id="control-panel">
-        <h2 id="view-title">📊 Graph Controls</h2>
-        <div class="control-group" id="back-button-group" style="display: none">
-          <button id="back-to-subfields">← Back to Subfields</button>
-        </div>
+    <div id="graph-container"></div>
 
-        <div class="control-group">
-          <button id="reset-view">Reset View</button>
-          <button
-          id="globe-view-button"
-          onclick="window.location.href='http://localhost:8000/index.html'"
-        >
-          🌍 Globe View
-        </button>
-          <button id="toggle-labels" class="active">Hide Labels</button>
-        </div>
-        </div>
-      </div>
+    <div id="control-panel" class="panel">
+      <h2>Controls</h2>
+      <button id="back-btn" class="ctrl-btn primary" style="display:none;">← Back to Overview</button>
+      <button id="reset-cam" class="ctrl-btn">Reset Camera</button>
+      <button id="toggle-labels" class="ctrl-btn">Toggle Labels</button>
+      <button class="ctrl-btn" onclick="window.location.href='/index.html'">Switch to Globe View</button>
+    </div>
 
-      <!-- Info Panel -->
-      <div id="info-panel">
-        <h3>Top 10 US Subfields</h3>
-        <p>
-          Nodes are sized by US works count. Similar subfields are positioned
-          closer together based on semantic similarity.
-        </p>
-        <p style="margin-top: 10px; font-size: 12px; color: #888">
-          Click and drag to move nodes.<br />
-          <strong>Click on a subfield to view its topics.</strong><br />
-          Hover over nodes for details.
-        </p>
-      </div>
-
-      <!-- Tooltip -->
-      <div id="tooltip"></div>
-
-      <!-- Legend -->
-      <div id="legend">
-        <h4>Legend</h4>
-        <div class="legend-item">
-          <div class="legend-color" style="background: #64ffda"></div>
-          <span>Subfield Node</span>
+    <div id="info-panel" class="panel">
+      <h2 id="info-title">Analysis</h2>
+      <div id="info-content">
+        <p id="info-desc">Exploring the evolution of research subfields over time.</p>
+        <div class="metric-row">
+           <span>Active Nodes</span>
+           <span class="metric-val" id="stat-nodes">0</span>
         </div>
-        <div class="legend-item">
-          <div
-            class="legend-color"
-            style="
-              background: rgba(100, 255, 218, 0.3);
-              border: 1px solid rgba(100, 255, 218, 0.5);
-            "
-          ></div>
-          <span>Similarity Link</span>
-        </div>
-        <div class="legend-size">
-          <div
-            class="legend-size-example"
-            style="width: 10px; height: 10px"
-          ></div>
-          <span>Small = Fewer works</span>
-        </div>
-        <div class="legend-size">
-          <div
-            class="legend-size-example"
-            style="width: 30px; height: 30px"
-          ></div>
-          <span>Large = More works</span>
+        <div class="metric-row">
+           <span>Total Works (Year)</span>
+           <span class="metric-val" id="stat-works">0</span>
         </div>
       </div>
     </div>
 
-    <!-- Chatbot Container -->
+    <div id="timeline-panel" class="panel">
+      <div class="timeline-header">
+        <span style="font-size: 11px; color: var(--text-muted); font-weight: 600;">YEAR SELECTOR</span>
+        <div id="current-year-display">2024</div>
+      </div>
+      
+      <input type="range" id="year-slider" min="2005" max="2024" step="1" value="2024">
+      
+      <div class="timeline-labels">
+        <span id="min-year-label">2005</span>
+        <span id="max-year-label">2024</span>
+      </div>
+    </div>
+
+    <div id="legend-panel" class="panel">
+      <h2>Legend</h2>
+      
+      <div class="legend-title">Volume</div>
+      <div class="legend-item">
+        <div class="legend-dot" style="background: #38bdf8; box-shadow: 0 0 8px #38bdf8;"></div>
+        <span>High (>50k Works)</span>
+      </div>
+      <div class="legend-item">
+        <div class="legend-dot" style="background: #818cf8;"></div>
+        <span>Mid (>20k Works)</span>
+      </div>
+      <div class="legend-item">
+        <div class="legend-dot" style="background: #64748b;"></div>
+        <span>Standard</span>
+      </div>
+
+      <div class="legend-section">
+        <div class="legend-title">Relations</div>
+        <div class="legend-item">
+          <div class="legend-line"></div>
+          <span>Semantic Similarity</span>
+        </div>
+      </div>
+      
+      <div class="legend-section">
+        <div class="legend-title">Interaction</div>
+        <div class="legend-item">
+          <span style="font-size: 10px;">Click Subfield to see Topics</span>
+        </div>
+      </div>
+    </div>
+
+    <div id="tooltip">
+      <div style="color: var(--accent-primary); font-weight: 600; margin-bottom: 4px;" id="tooltip-title"></div>
+      <div style="font-size: 12px; color: var(--text-main);">Works: <span id="tooltip-val" style="font-family: monospace;"></span></div>
+    </div>
+
     <div id="chatbot-container"></div>
 
     <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script>
-      // Configuration
-      const API_URL = "http://localhost:5000/api/subfields/graph";
-      const TOPICS_API_BASE = "http://localhost:5000/api/topics/subfield";
-      let showLabels = true; // Start with labels shown by default
-      let graphData = null;
-      let simulation = null;
-      let svg = null;
-      let g = null;
-      let initialPositions = null; // Store initial node positions
-      let currentView = "subfields"; // Track current view: 'subfields' or 'topics'
-      let subfieldsGraphState = null; // Store subfields graph state for returning
 
-      // Initialize visualization
+    <script src="chatbot/chatbot.js"></script>
+
+    <script>
+      const API_BASE = "http://localhost:5000/api";
+      
+      // State
+      let svg, g, simulation;
+      let width, height;
+      let currentYear = 2024;
+      let currentView = 'subfields'; // 'subfields' or 'topics'
+      let showLabels = true;
+      let nodeData = [], linkData = [];
+      let yearCache = {}; // Cache for SUBFIELDS view only
+      
+      // --- INIT ---
       async function init() {
         try {
-          const response = await fetch(API_URL);
-          if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-          }
-          graphData = await response.json();
+          const res = await fetch(`${API_BASE}/trends/years`);
+          if(!res.ok) throw new Error("API Error");
+          const data = await res.json();
+          const years = data.years;
+          
+          if(!years || years.length === 0) throw new Error("No yearly data found");
 
-          // Hide loading
-          document.getElementById("loading").style.display = "none";
+          const slider = document.getElementById('year-slider');
+          const minYear = Math.min(...years);
+          const maxYear = Math.max(...years);
+          
+          slider.min = minYear;
+          slider.max = maxYear;
+          slider.value = maxYear;
+          currentYear = maxYear;
+          
+          document.getElementById('min-year-label').textContent = minYear;
+          document.getElementById('max-year-label').textContent = maxYear;
+          document.getElementById('current-year-display').textContent = maxYear;
 
-          // Create visualization
-          createVisualization();
-        } catch (error) {
-          console.error("Error loading data:", error);
-          document.getElementById("loading").innerHTML =
-            '<div style="color: #ff6b6b;">Error loading data. Make sure Flask API is running on port 5000.</div>';
+          setupGraph();
+          await loadYearData(maxYear);
+
+          slider.addEventListener('input', (e) => {
+            const year = parseInt(e.target.value);
+            document.getElementById('current-year-display').textContent = year;
+            currentYear = year;
+          });
+
+          slider.addEventListener('change', (e) => {
+            const year = parseInt(e.target.value);
+            if(currentView === 'subfields') {
+                loadYearData(year);
+            } else {
+                document.getElementById('back-btn').click();
+                loadYearData(year);
+            }
+          });
+
+          document.getElementById('loading').style.opacity = 0;
+          setTimeout(() => document.getElementById('loading').style.display = 'none', 500);
+
+        } catch (e) {
+          console.error(e);
+          document.getElementById('loading').innerHTML = `<div style="color:#f87171">DATA ERROR<br><small>${e.message}</small></div>`;
         }
       }
 
-      function createVisualization() {
-        const container = d3.select("#graph-container");
-
-        // Stop existing simulation if running
-        if (simulation) {
-          simulation.stop();
+      // --- DATA LOADING (SUBFIELDS) ---
+      async function loadYearData(year) {
+        if(yearCache[year]) {
+          updateGraph(yearCache[year]);
+          return;
         }
+        try {
+          const res = await fetch(`${API_BASE}/trends/graph?year=${year}`);
+          const data = await res.json();
+          if(data.error) return;
+          yearCache[year] = data;
+          updateGraph(data);
+        } catch(e) {
+          console.error("Fetch error", e);
+        }
+      }
 
-        // Clear existing
-        container.selectAll("*").remove();
+      // --- DATA LOADING (TOPICS DRILL DOWN) ---
+      async function drillDown(node) {
+          const loading = document.getElementById('loading');
+          loading.style.display = 'flex';
+          loading.style.opacity = 1;
+          loading.querySelector('div:last-child').textContent = `FETCHING TOPICS (${currentYear})`;
 
-        // Create SVG
-        const width = window.innerWidth;
-        const height = window.innerHeight;
+          try {
+              const res = await fetch(`${API_BASE}/trends/topics?year=${currentYear}&subfield_id=${node.id}`);
+              const data = await res.json();
+              
+              if (data.error) throw new Error(data.error);
 
-        svg = container
-          .append("svg")
-          .attr("width", width)
-          .attr("height", height);
+              currentView = 'topics';
+              document.getElementById('back-btn').style.display = 'block';
+              
+              // Update Info
+              document.getElementById('info-title').textContent = 'Drill Down';
+              document.getElementById('info-desc').innerHTML = `Topics within <strong>${node.name}</strong> in <strong>${currentYear}</strong>.`;
+
+              updateGraph(data);
+
+          } catch(e) {
+              console.error(e);
+              alert("No topic data available for this year/subfield combination.");
+          } finally {
+              loading.style.opacity = 0;
+              setTimeout(() => loading.style.display = 'none', 500);
+          }
+      }
+
+      // --- GRAPH SETUP ---
+      function setupGraph() {
+        width = window.innerWidth;
+        height = window.innerHeight;
+        const container = document.getElementById('graph-container');
+
+        svg = d3.select(container).append("svg")
+            .attr("width", width)
+            .attr("height", height)
+            .on("click", (e) => {
+               if(e.target.tagName === 'svg') resetHighlights();
+            });
 
         g = svg.append("g");
 
-        // Create color scale
-        const color = d3
-          .scaleOrdinal()
-          .domain(graphData.nodes.map((d) => d.id))
-          .range(d3.schemeCategory10);
-
-        // Create force simulation with adjusted parameters for balanced layout
-        const linkForce = d3
-          .forceLink(graphData.links)
-          .id((d) => d.id)
-          .distance((d) => {
-            // Distance based on similarity: more similar = closer
-            // Base distance of 100, with similarity-based adjustment
-            return 100 - d.similarity * 50;
-          })
-          .strength((d) => d.similarity * 0.5 + 0.1); // Dynamic strength based on similarity
-
-        simulation = d3
-          .forceSimulation(graphData.nodes)
-          .force("link", linkForce)
-          .force("charge", d3.forceManyBody().strength(-300)) // Moderate charge
-          .force("center", d3.forceCenter(width / 2, height / 2))
-          .force(
-            "collision",
-            d3.forceCollide().radius((d) => d.size + 8)
-          ); // Moderate padding
-
-        // Create links
-        const link = g
-          .append("g")
-          .selectAll("line")
-          .data(graphData.links)
-          .enter()
-          .append("line")
-          .attr("class", (d) =>
-            d.similarity > 0.3 ? "link high-similarity" : "link"
-          )
-          .attr("stroke-width", (d) => Math.sqrt(d.similarity) * 3);
-
-        // Create nodes
-        const node = g
-          .append("g")
-          .selectAll("circle")
-          .data(graphData.nodes)
-          .enter()
-          .append("circle")
-          .attr("class", "node")
-          .attr("r", (d) => d.size)
-          .attr("fill", (d) => color(d.id))
-          .attr("stroke", "#64ffda")
-          .attr("stroke-width", 2)
-          .call(drag(simulation));
-
-        // Create labels
-        const label = g
-          .append("g")
-          .selectAll("text")
-          .data(graphData.nodes)
-          .enter()
-          .append("text")
-          .attr("class", "label")
-          .attr("dy", (d) => d.size + 15)
-          .text((d) => d.name)
-          .style("display", showLabels ? "block" : "none"); // Labels shown by default
-
-        // Add tooltips
-        node
-          .append("title")
-          .text(
-            (d) => `${d.name}\nUS Works: ${d.us_works_count.toLocaleString()}`
-          );
-
-        // Mouse events
-        node
-          .on("mouseover", function (event, d) {
-            const tooltip = d3.select("#tooltip");
-            tooltip.style("display", "block").html(`
-                            <h3>${d.name}</h3>
-                            <p><strong>US Works Count:</strong> ${d.us_works_count.toLocaleString()}</p>
-                            <p><strong>ID:</strong> ${d.id}</p>
-                        `);
-
-            // Highlight connected nodes
-            const connectedIds = new Set();
-            connectedIds.add(d.id);
-            graphData.links.forEach((l) => {
-              const sourceId =
-                typeof l.source === "object" ? l.source.id : l.source;
-              const targetId =
-                typeof l.target === "object" ? l.target.id : l.target;
-              if (sourceId === d.id) {
-                connectedIds.add(targetId);
-              }
-              if (targetId === d.id) {
-                connectedIds.add(sourceId);
-              }
-            });
-
-            node.style("opacity", (n) => (connectedIds.has(n.id) ? 1 : 0.2));
-            link.style("opacity", (l) => {
-              const sourceId =
-                typeof l.source === "object" ? l.source.id : l.source;
-              const targetId =
-                typeof l.target === "object" ? l.target.id : l.target;
-              return connectedIds.has(sourceId) && connectedIds.has(targetId)
-                ? 1
-                : 0.1;
-            });
-          })
-          .on("mousemove", function (event) {
-            const tooltip = d3.select("#tooltip");
-            tooltip
-              .style("left", event.pageX + 10 + "px")
-              .style("top", event.pageY - 10 + "px");
-          })
-          .on("mouseout", function () {
-            d3.select("#tooltip").style("display", "none");
-            node.style("opacity", 1);
-            link.style("opacity", 0.6);
-          })
-          .on("click", function (event, d) {
-            event.stopPropagation(); // Prevent event bubbling
-            if (currentView === "subfields") {
-              // Store current graph state before switching
-              if (simulation && graphData) {
-                // Convert links to use IDs (not objects) for storage
-                const linksForStorage = graphData.links.map((l) => ({
-                  source: typeof l.source === "object" ? l.source.id : l.source,
-                  target: typeof l.target === "object" ? l.target.id : l.target,
-                  similarity: l.similarity,
-                  strength: l.strength,
-                }));
-
-                subfieldsGraphState = {
-                  nodes: graphData.nodes.map((n) => ({
-                    id: n.id,
-                    name: n.name,
-                    us_works_count: n.us_works_count,
-                    size: n.size,
-                    x: n.x,
-                    y: n.y,
-                    fx: n.fx,
-                    fy: n.fy,
-                  })),
-                  links: linksForStorage,
-                  min_works_count: graphData.min_works_count,
-                  max_works_count: graphData.max_works_count,
-                };
-              }
-              // Load topics for this subfield
-              loadTopicsForSubfield(d.id, d.name);
-            }
-          })
-          .style("cursor", currentView === "subfields" ? "pointer" : "default");
-
-        // Track ticks to capture initial positions
-        let tickCount = 0;
-
-        // Update positions on tick
-        simulation.on("tick", () => {
-          // D3 forceLink should have converted source/target to node objects by now
-          // But handle both cases for safety
-          link
-            .attr("x1", (d) => {
-              if (typeof d.source === "object" && d.source.x !== undefined) {
-                return d.source.x;
-              }
-              // Fallback: find node by ID if still a string
-              const sourceNode = graphData.nodes.find(
-                (n) =>
-                  n.id ===
-                  (typeof d.source === "object" ? d.source.id : d.source)
-              );
-              return sourceNode && sourceNode.x !== undefined
-                ? sourceNode.x
-                : 0;
-            })
-            .attr("y1", (d) => {
-              if (typeof d.source === "object" && d.source.y !== undefined) {
-                return d.source.y;
-              }
-              const sourceNode = graphData.nodes.find(
-                (n) =>
-                  n.id ===
-                  (typeof d.source === "object" ? d.source.id : d.source)
-              );
-              return sourceNode && sourceNode.y !== undefined
-                ? sourceNode.y
-                : 0;
-            })
-            .attr("x2", (d) => {
-              if (typeof d.target === "object" && d.target.x !== undefined) {
-                return d.target.x;
-              }
-              const targetNode = graphData.nodes.find(
-                (n) =>
-                  n.id ===
-                  (typeof d.target === "object" ? d.target.id : d.target)
-              );
-              return targetNode && targetNode.x !== undefined
-                ? targetNode.x
-                : 0;
-            })
-            .attr("y2", (d) => {
-              if (typeof d.target === "object" && d.target.y !== undefined) {
-                return d.target.y;
-              }
-              const targetNode = graphData.nodes.find(
-                (n) =>
-                  n.id ===
-                  (typeof d.target === "object" ? d.target.id : d.target)
-              );
-              return targetNode && targetNode.y !== undefined
-                ? targetNode.y
-                : 0;
-            });
-
-          node.attr("cx", (d) => d.x).attr("cy", (d) => d.y);
-
-          label.attr("x", (d) => d.x).attr("y", (d) => d.y);
-
-          // Store initial positions after 300 ticks (simulation should be stable)
-          tickCount++;
-          if (!initialPositions && tickCount > 300) {
-            initialPositions = new Map();
-            graphData.nodes.forEach((d) => {
-              initialPositions.set(d.id, { x: d.x, y: d.y });
-            });
-            console.log("Initial positions stored");
-          }
-        });
-
-        // Also store initial positions when simulation cools down (alpha reaches 0)
-        simulation.on("end", () => {
-          if (!initialPositions) {
-            initialPositions = new Map();
-            graphData.nodes.forEach((d) => {
-              initialPositions.set(d.id, { x: d.x, y: d.y });
-            });
-            console.log("Initial positions stored (on end)");
-          }
-        });
-
-        // Zoom and pan
-        const zoom = d3
-          .zoom()
-          .scaleExtent([0.1, 4])
-          .on("zoom", (event) => {
-            g.attr("transform", event.transform);
-          });
-
+        const zoom = d3.zoom()
+            .scaleExtent([0.1, 4])
+            .on("zoom", (e) => g.attr("transform", e.transform));
         svg.call(zoom);
 
-        // Store zoom behavior reference for reset (make it accessible globally)
-        window.zoomBehavior = zoom;
-
-        // Control handlers
-        setupControls();
+        simulation = d3.forceSimulation()
+            .force("link", d3.forceLink().id(d => d.id).distance(120))
+            .force("charge", d3.forceManyBody().strength(-400))
+            .force("center", d3.forceCenter(width / 2, height / 2))
+            .force("collide", d3.forceCollide().radius(d => d.size + 10).iterations(2))
+            .alphaDecay(0.04)
+            .velocityDecay(0.4);
+            
+        window.resetCamera = () => svg.transition().duration(750).call(zoom.transform, d3.zoomIdentity);
       }
 
-      function drag(simulation) {
-        function dragstarted(event, d) {
-          if (!event.active) simulation.alphaTarget(0.3).restart();
-          d.fx = d.x;
-          d.fy = d.y;
-        }
+      // --- GRAPH UPDATE ---
+      function updateGraph(data) {
+        nodeData = data.nodes;
+        linkData = data.links;
 
-        function dragged(event, d) {
-          d.fx = event.x;
-          d.fy = event.y;
-        }
+        document.getElementById('stat-nodes').textContent = nodeData.length;
+        const totalWorks = nodeData.reduce((sum, n) => sum + n.us_works_count, 0);
+        document.getElementById('stat-works').textContent = totalWorks.toLocaleString();
 
-        function dragended(event, d) {
-          if (!event.active) simulation.alphaTarget(0);
-          d.fx = null;
-          d.fy = null;
-        }
+        // LINKS
+        const links = g.selectAll(".link")
+            .data(linkData, d => `${d.source.id || d.source}-${d.target.id || d.target}`);
 
-        return d3
-          .drag()
-          .on("start", dragstarted)
-          .on("drag", dragged)
-          .on("end", dragended);
+        links.exit().transition().duration(300).style("opacity", 0).remove();
+
+        const linksEnter = links.enter().append("line")
+            .attr("class", "link")
+            .attr("stroke-width", d => Math.sqrt(d.similarity) * 3);
+
+        const allLinks = linksEnter.merge(links);
+
+        // NODES
+        const nodes = g.selectAll(".node")
+            .data(nodeData, d => d.id);
+
+        nodes.exit().transition().duration(500).attr("r", 0).style("opacity", 0).remove();
+
+        const nodesEnter = nodes.enter().append("circle")
+            .attr("class", "node")
+            .attr("r", 0)
+            .attr("fill", d => getNodeColor(d.us_works_count))
+            .call(d3.drag()
+                .on("start", dragstarted)
+                .on("drag", dragged)
+                .on("end", dragended));
+        
+        nodesEnter.on("mouseover", handleMouseOver)
+                  .on("mouseout", handleMouseOut)
+                  .on("click", (event, d) => {
+                      if(currentView === 'subfields') drillDown(d);
+                  });
+
+        const allNodes = nodesEnter.merge(nodes);
+        allNodes.transition().duration(750)
+            .attr("r", d => d.size)
+            .attr("fill", d => getNodeColor(d.us_works_count));
+
+        // LABELS
+        const labels = g.selectAll(".label")
+            .data(nodeData, d => d.id);
+
+        labels.exit().remove();
+
+        const labelsEnter = labels.enter().append("text")
+            .attr("class", "label")
+            .text(d => d.name)
+            .attr("dy", d => d.size + 15)
+            .style("opacity", 0);
+
+        const allLabels = labelsEnter.merge(labels);
+        allLabels.text(d => d.name)
+            .transition().duration(750)
+            .attr("dy", d => d.size + 15)
+            .style("opacity", showLabels ? 0.8 : 0);
+
+        // RESTART SIM
+        simulation.nodes(nodeData).on("tick", ticked);
+        simulation.force("link").links(linkData);
+        simulation.alpha(0.5).restart();
+
+        function ticked() {
+            allLinks
+                .attr("x1", d => d.source.x)
+                .attr("y1", d => d.source.y)
+                .attr("x2", d => d.target.x)
+                .attr("y2", d => d.target.y);
+
+            allNodes
+                .attr("cx", d => d.x)
+                .attr("cy", d => d.y);
+
+            allLabels
+                .attr("x", d => d.x)
+                .attr("y", d => d.y);
+        }
       }
 
-      // Load topics for a specific subfield
-      async function loadTopicsForSubfield(subfieldId, subfieldName) {
-        try {
-          document.getElementById("loading").style.display = "block";
-          const response = await fetch(`${TOPICS_API_BASE}/${subfieldId}`);
-
-          if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-          }
-
-          const topicsData = await response.json();
-
-          if (topicsData.error) {
-            alert(topicsData.error);
-            document.getElementById("loading").style.display = "none";
-            return;
-          }
-
-          // Update view state
-          currentView = "topics";
-          initialPositions = null; // Reset initial positions for topics view
-
-          // Update UI
-          document.getElementById(
-            "view-title"
-          ).textContent = `📚 Topics in ${subfieldName}`;
-          document.getElementById("back-button-group").style.display = "block";
-          document.getElementById("info-panel").innerHTML = `
-                    <h3>Topics in ${subfieldName}</h3>
-                    <p>Showing ${topicsData.nodes.length} topics. Nodes are sized by US works count.</p>
-                    <p style="margin-top: 10px; font-size: 12px; color: #888;">
-                        Click and drag to move nodes.<br>
-                        Hover over nodes for details.
-                    </p>
-                `;
-
-          // Transform topics data to match graph structure
-          graphData = {
-            nodes: topicsData.nodes,
-            links: topicsData.links,
-            min_works_count: topicsData.min_works_count,
-            max_works_count: topicsData.max_works_count,
-          };
-
-          // Create visualization with new data
-          createVisualization();
-
-          document.getElementById("loading").style.display = "none";
-        } catch (error) {
-          console.error("Error loading topics:", error);
-          document.getElementById("loading").innerHTML =
-            '<div style="color: #ff6b6b;">Error loading topics data.</div>';
-        }
-      }
-
-      // Return to subfields view
-      function returnToSubfields() {
-        currentView = "subfields";
-
-        // Restore subfields graph data
-        if (subfieldsGraphState) {
-          // Deep copy nodes to avoid reference issues
-          const restoredNodes = subfieldsGraphState.nodes.map((n) => ({
-            id: n.id,
-            name: n.name,
-            us_works_count: n.us_works_count,
-            size: n.size,
-            x: n.x || Math.random() * window.innerWidth,
-            y: n.y || Math.random() * window.innerHeight,
-            fx: n.fx || null,
-            fy: n.fy || null,
-          }));
-
-          // Deep copy links (they should already be using IDs)
-          const restoredLinks = subfieldsGraphState.links.map((l) => ({
-            source: l.source,
-            target: l.target,
-            similarity: l.similarity,
-            strength: l.strength,
-          }));
-
-          graphData = {
-            nodes: restoredNodes,
-            links: restoredLinks,
-            min_works_count: subfieldsGraphState.min_works_count,
-            max_works_count: subfieldsGraphState.max_works_count,
-          };
-        } else {
-          // Reload from API if state not stored
-          init();
-          return;
-        }
-
-        // Update UI
-        document.getElementById("view-title").textContent = "📊 Graph Controls";
-        document.getElementById("back-button-group").style.display = "none";
-        document.getElementById("info-panel").innerHTML = `
-                <h3>Top 10 US Subfields</h3>
-                <p>Nodes are sized by US works count. Similar subfields are positioned closer together based on semantic similarity.</p>
-                <p style="margin-top: 10px; font-size: 12px; color: #888;">
-                    Click and drag to move nodes.<br>
-                    Click on a subfield to view its topics.<br>
-                    Hover over nodes for details.
-                </p>
-            `;
-
-        // Reset initial positions for subfields view
-        initialPositions = null;
-
-        // Recreate visualization - this will let D3 forceLink convert IDs to objects
-        createVisualization();
-      }
-
-      function setupControls() {
-        // Back to subfields button
-        d3.select("#back-to-subfields").on("click", function () {
-          returnToSubfields();
+      // --- INTERACTIONS ---
+      function handleMouseOver(event, d) {
+        d3.selectAll(".node").style("opacity", 0.2);
+        d3.selectAll(".link").style("opacity", 0.05);
+        d3.selectAll(".label").style("opacity", 0.1);
+        
+        const connected = new Set([d.id]);
+        linkData.forEach(l => {
+            if(l.source.id === d.id) connected.add(l.target.id);
+            if(l.target.id === d.id) connected.add(l.source.id);
         });
 
-        // Reset view - restore initial positions and reset zoom
-        d3.select("#reset-view").on("click", function () {
-          if (simulation && svg) {
-            // Restore initial positions if they were stored
-            if (initialPositions && initialPositions.size > 0) {
-              graphData.nodes.forEach((d) => {
-                const initial = initialPositions.get(d.id);
-                if (initial) {
-                  // Restore to initial position
-                  d.fx = initial.x;
-                  d.fy = initial.y;
-                }
-              });
-
-              // After the simulation settles, release fixed positions gradually
-              setTimeout(() => {
-                graphData.nodes.forEach((d) => {
-                  d.fx = null;
-                  d.fy = null;
-                });
-              }, 1000);
-            } else {
-              // If initial positions not stored yet, just release fixed positions
-              graphData.nodes.forEach((d) => {
-                d.fx = null;
-                d.fy = null;
-              });
-            }
-
-            // Reset zoom and pan transform with smooth transition
-            if (window.zoomBehavior) {
-              svg
-                .transition()
-                .duration(750)
-                .call(window.zoomBehavior.transform, d3.zoomIdentity);
-            } else {
-              // Fallback if zoom behavior not stored
-              g.transition().duration(750).attr("transform", d3.zoomIdentity);
-            }
-
-            // Restart simulation gently to restore positions
-            simulation.alpha(0.3).restart();
-          }
-        });
-
-        // Toggle labels
-        d3.select("#toggle-labels").on("click", function () {
-          showLabels = !showLabels;
-          this.textContent = showLabels ? "Hide Labels" : "Show Labels";
-          this.classList.toggle("active", showLabels);
-          g.selectAll(".label").style("display", showLabels ? "block" : "none");
-        });
+        d3.selectAll(".node").filter(n => connected.has(n.id)).style("opacity", 1);
+        d3.selectAll(".label").filter(n => connected.has(n.id)).style("opacity", 1);
+        
+        const tooltip = document.getElementById('tooltip');
+        tooltip.style.display = 'block';
+        tooltip.style.left = (event.pageX + 15) + 'px';
+        tooltip.style.top = (event.pageY + 15) + 'px';
+        document.getElementById('tooltip-title').textContent = d.name;
+        document.getElementById('tooltip-val').textContent = d.us_works_count.toLocaleString();
       }
 
-      // Handle window resize
-      window.addEventListener("resize", function () {
-        if (svg && simulation) {
-          const width = window.innerWidth;
-          const height = window.innerHeight;
-          svg.attr("width", width).attr("height", height);
-          simulation.force("center", d3.forceCenter(width / 2, height / 2));
-          simulation.alpha(1).restart();
-        }
-      });
+      function handleMouseOut() {
+        resetHighlights();
+        document.getElementById('tooltip').style.display = 'none';
+      }
 
-      // Initialize on load
+      function resetHighlights() {
+        d3.selectAll(".node").style("opacity", 1);
+        d3.selectAll(".link").style("opacity", null);
+        d3.selectAll(".label").style("opacity", showLabels ? 0.8 : 0);
+      }
+
+      function getNodeColor(count) {
+        if(count > 50000) return "#38bdf8"; 
+        if(count > 20000) return "#818cf8"; 
+        return "#64748b"; 
+      }
+
+      function dragstarted(event, d) {
+        if (!event.active) simulation.alphaTarget(0.3).restart();
+        d.fx = d.x; d.fy = d.y;
+      }
+      function dragged(event, d) { d.fx = event.x; d.fy = event.y; }
+      function dragended(event, d) {
+        if (!event.active) simulation.alphaTarget(0);
+        d.fx = null; d.fy = null;
+      }
+
+      document.getElementById('back-btn').onclick = () => {
+          currentView = 'subfields';
+          document.getElementById('back-btn').style.display = 'none';
+          document.getElementById('info-title').textContent = 'Overview';
+          document.getElementById('info-desc').textContent = 'Exploring the evolution of research subfields over time.';
+          loadYearData(currentYear);
+      };
+      
+      document.getElementById('reset-cam').onclick = window.resetCamera;
+      document.getElementById('toggle-labels').onclick = () => {
+        showLabels = !showLabels;
+        d3.selectAll(".label").style("display", showLabels ? "block" : "none");
+      };
+      window.onresize = () => {
+        width = window.innerWidth; height = window.innerHeight;
+        d3.select("svg").attr("width", width).attr("height", height);
+        simulation.force("center", d3.forceCenter(width / 2, height / 2)).restart();
+      };
+
       init();
     </script>
-    <script src="chatbot/chatbot.js"></script>
   </body>
 </html>
