@@ -104,8 +104,8 @@ def get_top_subfields(country_code: str, domain_id: int = 3, top_n: int = 10) ->
 
 def fetch_yearly_trends_for_country(country_code: str, country_name: str, domain_id: int = 3):
     """
-    Runs the deep yearly analysis for a single country.
-    Saves to data/{COUNTRY_CODE}/yearly_....csv
+    Fetches yearly stats ONLY for the subfields that are in the All-Time Top 10.
+    This ensures the graphs never cut off.
     """
     current_year = datetime.now().year
     start_year = current_year - YEARS_BACK
@@ -116,17 +116,31 @@ def fetch_yearly_trends_for_country(country_code: str, country_name: str, domain
     
     print(f"\n  > Starting Yearly Analysis for {country_name} ({country_code})...")
     
-    all_subfields = []
-    all_topics = []
+    # 1. First, find out WHO the top 10 are (All-Time)
+    top_sf_data = get_top_subfields(country_code, domain_id, top_n=10)
+    top_sf_ids = [item['id'] for item in top_sf_data] # ["subfield-id-1", "subfield-id-2", ...]
+    
+    if not top_sf_ids:
+        print("    x No subfields found. Skipping.")
+        return
 
-    # Iterate through years
+    all_yearly_data = []
+
+    # 2. Iterate through years
     for year in range(start_year, current_year + 1):
-        # 1. Top 10 Subfields for this Country + Year
+        # Instead of asking "What is popular this year?", we ask:
+        # "How did our Top 10 specific subfields perform in this year?"
+        
+        # We can filter by the specific subfield IDs using the pipe | operator (OR)
+        # OpenAlex API allows: topics.subfield.id:id1|id2|id3
+        ids_string = "|".join(top_sf_ids)
+        
         sf_query = Works().filter(
             **{
                 'topics.domain.id': domain_id,
                 'authorships.institutions.country_code': country_code,
-                'publication_year': year
+                'publication_year': year,
+                'topics.subfield.id': ids_string # <--- CRITICAL CHANGE
             }
         ).group_by('topics.subfield.id')
         
@@ -135,11 +149,9 @@ def fetch_yearly_trends_for_country(country_code: str, country_name: str, domain
         if not sf_groups:
             continue
 
-        # Process Subfields
-        year_subfields = []
         for g in sf_groups:
             if g.get('key'):
-                year_subfields.append({
+                all_yearly_data.append({
                     'year': year,
                     'id': g['key'].split('/')[-1],
                     'name': g['key_display_name'],
@@ -147,56 +159,17 @@ def fetch_yearly_trends_for_country(country_code: str, country_name: str, domain
                     'country': country_code
                 })
         
-        year_subfields.sort(key=lambda x: x['works_count'], reverse=True)
-        top_10 = year_subfields[:10]
-        all_subfields.extend(top_10)
+        # Small sleep to be polite
+        time.sleep(0.1)
 
-        # 2. Top 20 Topics for each of these Subfields (Country + Year)
-        for sf in top_10:
-            sf_id = sf['id']
-            
-            t_query = Works().filter(
-                **{
-                    'topics.domain.id': domain_id,
-                    'topics.subfield.id': sf_id,
-                    'authorships.institutions.country_code': country_code,
-                    'publication_year': year
-                }
-            ).group_by('topics.id')
-            
-            t_groups = safe_get(t_query)
-            
-            year_topics = []
-            for g in t_groups:
-                if g.get('key'):
-                    year_topics.append({
-                        'year': year,
-                        'subfield_id': sf_id,
-                        'subfield_name': sf['name'],
-                        'id': g['key'].split('/')[-1],
-                        'name': g['key_display_name'],
-                        'works_count': g['count'],
-                        'country': country_code
-                    })
-            
-            year_topics.sort(key=lambda x: x['works_count'], reverse=True)
-            all_topics.extend(year_topics[:20])
-            
-            # Small politeness sleep between topics to avoid hammering the API
-            time.sleep(0.1)
-
-    # Save Country-Specific Files
-    if all_subfields:
-        df = pd.DataFrame(all_subfields)
+    # Save to CSV
+    if all_yearly_data:
+        df = pd.DataFrame(all_yearly_data)
         df['fetch_date'] = timestamp
+        # We overwrite the old file
         df.to_csv(os.path.join(country_dir, 'yearly_subfields.csv'), index=False)
         
-    if all_topics:
-        df = pd.DataFrame(all_topics)
-        df['fetch_date'] = timestamp
-        df.to_csv(os.path.join(country_dir, 'yearly_subfield_topics.csv'), index=False)
-        
-    print(f"    ✓ Saved {len(all_subfields)} subfield rows and {len(all_topics)} topic rows to {country_dir}/")
+    print(f"    ✓ Saved {len(all_yearly_data)} rows (All-Time Top 10 History) to {country_dir}/")
 
 def main():
     domain_id = 3 # Physical Sciences
