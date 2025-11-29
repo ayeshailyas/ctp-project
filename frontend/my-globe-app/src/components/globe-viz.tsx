@@ -7,7 +7,7 @@ import type Globe from "react-globe.gl"
 
 interface GlobeVizProps {
   onCountryClick: (countryCode: string, countryName: string) => void
-  selectedCountryCode?: string | null // <--- NEW PROP
+  selectedCountryCode?: string | null
 }
 
 interface CountryFeature {
@@ -26,7 +26,8 @@ interface GeoJsonData {
 }
 
 export default function GlobeViz({ onCountryClick, selectedCountryCode }: GlobeVizProps) {
-  const globeRef = useRef<React.ComponentRef<typeof Globe> | null>(null)
+  const globeRef = useRef<any>(null)
+  
   const [countries, setCountries] = useState<GeoJsonData>({ type: "FeatureCollection", features: [] })
   const [hoveredCountry, setHoveredCountry] = useState<string | null>(null)
   const [GlobeComponent, setGlobeComponent] = useState<typeof Globe | null>(null)
@@ -96,7 +97,6 @@ export default function GlobeViz({ onCountryClick, selectedCountryCode }: GlobeV
     setHoveredCountry(feature?.properties?.ISO_A2 || null)
   }, [])
 
-  // UPDATED: Check for Hover OR Selection
   const getPolygonCapColor = useCallback(
     (polygon: object) => {
       const feature = polygon as CountryFeature
@@ -181,7 +181,6 @@ export default function GlobeViz({ onCountryClick, selectedCountryCode }: GlobeV
         polygonCapColor={getPolygonCapColor}
         polygonSideColor={getPolygonSideColor}
         polygonStrokeColor={getPolygonStrokeColor}
-        // UPDATED: Pop out if Hovered OR Selected
         polygonAltitude={(d) => {
           const feature = d as CountryFeature
           const code = feature.properties?.ISO_A2
