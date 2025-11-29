@@ -1,0 +1,3046 @@
+year,id,name,works_count,country,fetch_date
+2005,2208,Electrical and Electronic Engineering,380,BY,2025-11-28 17:32:00
+2005,2505,Materials Chemistry,350,BY,2025-11-28 17:32:00
+2005,3107,"Atomic and Molecular Physics, and Optics",314,BY,2025-11-28 17:32:00
+2005,2204,Biomedical Engineering,194,BY,2025-11-28 17:32:00
+2005,2210,Mechanical Engineering,170,BY,2025-11-28 17:32:00
+2005,1605,Organic Chemistry,130,BY,2025-11-28 17:32:00
+2005,2504,"Electronic, Optical and Magnetic Materials",122,BY,2025-11-28 17:32:00
+2005,1312,Molecular Biology,105,BY,2025-11-28 17:32:00
+2005,2211,Mechanics of Materials,104,BY,2025-11-28 17:32:00
+2005,2206,Computational Mechanics,101,BY,2025-11-28 17:32:00
+2005,3104,Condensed Matter Physics,54,BY,2025-11-28 17:32:00
+2005,1607,Spectroscopy,41,BY,2025-11-28 17:32:00
+2005,1606,Physical and Theoretical Chemistry,37,BY,2025-11-28 17:32:00
+2005,2202,Aerospace Engineering,34,BY,2025-11-28 17:32:00
+2005,2500,General Materials Science,30,BY,2025-11-28 17:32:00
+2005,2507,Polymers and Plastics,30,BY,2025-11-28 17:32:00
+2005,1604,Inorganic Chemistry,29,BY,2025-11-28 17:32:00
+2005,2209,Industrial and Manufacturing Engineering,28,BY,2025-11-28 17:32:00
+2005,2503,Ceramics and Composites,24,BY,2025-11-28 17:32:00
+2005,1705,Computer Networks and Communications,23,BY,2025-11-28 17:32:00
+2005,1702,Artificial Intelligence,22,BY,2025-11-28 17:32:00
+2005,2741,"Radiology, Nuclear Medicine and Imaging",22,BY,2025-11-28 17:32:00
+2005,2207,Control and Systems Engineering,21,BY,2025-11-28 17:32:00
+2005,2730,Oncology,19,BY,2025-11-28 17:32:00
+2005,2205,Civil and Structural Engineering,18,BY,2025-11-28 17:32:00
+2005,1304,Biophysics,17,BY,2025-11-28 17:32:00
+2005,2508,"Surfaces, Coatings and Films",17,BY,2025-11-28 17:32:00
+2005,3109,Statistical and Nonlinear Physics,17,BY,2025-11-28 17:32:00
+2005,3106,Nuclear and High Energy Physics,16,BY,2025-11-28 17:32:00
+2005,2740,Pulmonary and Respiratory Medicine,15,BY,2025-11-28 17:32:00
+2005,2212,Ocean Engineering,14,BY,2025-11-28 17:32:00
+2005,3108,Radiation,14,BY,2025-11-28 17:32:00
+2005,1502,Bioengineering,13,BY,2025-11-28 17:32:00
+2005,1902,Atmospheric Science,13,BY,2025-11-28 17:32:00
+2005,2804,Cellular and Molecular Neuroscience,13,BY,2025-11-28 17:32:00
+2005,2105,"Renewable Energy, Sustainability and the Environment",12,BY,2025-11-28 17:32:00
+2005,2311,Industrial and Manufacturing Engineering,12,BY,2025-11-28 17:32:00
+2005,1703,Computational Theory and Mathematics,11,BY,2025-11-28 17:32:00
+2005,1707,Computer Vision and Pattern Recognition,11,BY,2025-11-28 17:32:00
+2005,2312,Water Science and Technology,11,BY,2025-11-28 17:32:00
+2005,2737,Physiology,11,BY,2025-11-28 17:32:00
+2005,1110,Plant Science,10,BY,2025-11-28 17:32:00
+2005,1503,Catalysis,10,BY,2025-11-28 17:32:00
+2005,1908,Geophysics,10,BY,2025-11-28 17:32:00
+2005,2502,Biomaterials,9,BY,2025-11-28 17:32:00
+2005,2612,Numerical Analysis,9,BY,2025-11-28 17:32:00
+2005,2731,Ophthalmology,9,BY,2025-11-28 17:32:00
+2005,3003,Pharmaceutical Science,9,BY,2025-11-28 17:32:00
+2005,1311,Genetics,8,BY,2025-11-28 17:32:00
+2005,1507,Fluid Flow and Transfer Processes,8,BY,2025-11-28 17:32:00
+2005,2604,Applied Mathematics,7,BY,2025-11-28 17:32:00
+2005,1106,Food Science,6,BY,2025-11-28 17:32:00
+2005,1305,Biotechnology,6,BY,2025-11-28 17:32:00
+2005,1602,Analytical Chemistry,6,BY,2025-11-28 17:32:00
+2005,2104,Nuclear Energy and Engineering,6,BY,2025-11-28 17:32:00
+2005,2610,Mathematical Physics,6,BY,2025-11-28 17:32:00
+2005,3005,Toxicology,6,BY,2025-11-28 17:32:00
+2005,3103,Astronomy and Astrophysics,6,BY,2025-11-28 17:32:00
+2005,1307,Cell Biology,5,BY,2025-11-28 17:32:00
+2005,1314,Physiology,5,BY,2025-11-28 17:32:00
+2005,1603,Electrochemistry,5,BY,2025-11-28 17:32:00
+2005,2203,Automotive Engineering,5,BY,2025-11-28 17:32:00
+2005,2215,Building and Construction,5,BY,2025-11-28 17:32:00
+2005,2305,Environmental Engineering,5,BY,2025-11-28 17:32:00
+2005,2736,Pharmacology,5,BY,2025-11-28 17:32:00
+2005,1404,Management Information Systems,4,BY,2025-11-28 17:32:00
+2005,1906,Geochemistry and Petrology,4,BY,2025-11-28 17:32:00
+2005,2213,"Safety, Risk, Reliability and Quality",4,BY,2025-11-28 17:32:00
+2005,2303,Ecology,4,BY,2025-11-28 17:32:00
+2005,2310,Pollution,4,BY,2025-11-28 17:32:00
+2005,2403,Immunology,4,BY,2025-11-28 17:32:00
+2005,2607,Discrete Mathematics and Combinatorics,4,BY,2025-11-28 17:32:00
+2005,2704,Biochemistry,4,BY,2025-11-28 17:32:00
+2005,3004,Pharmacology,4,BY,2025-11-28 17:32:00
+2005,1109,Insect Science,3,BY,2025-11-28 17:32:00
+2005,1306,Cancer Research,3,BY,2025-11-28 17:32:00
+2005,1313,Molecular Medicine,3,BY,2025-11-28 17:32:00
+2005,1508,Process Chemistry and Technology,3,BY,2025-11-28 17:32:00
+2005,2214,Media Technology,3,BY,2025-11-28 17:32:00
+2005,2304,Environmental Chemistry,3,BY,2025-11-28 17:32:00
+2005,2306,Global and Planetary Change,3,BY,2025-11-28 17:32:00
+2005,2705,Cardiology and Cardiovascular Medicine,3,BY,2025-11-28 17:32:00
+2005,2725,Infectious Diseases,3,BY,2025-11-28 17:32:00
+2005,2746,Surgery,3,BY,2025-11-28 17:32:00
+2005,1204,Archeology,2,BY,2025-11-28 17:32:00
+2005,1303,Biochemistry,2,BY,2025-11-28 17:32:00
+2005,1315,Structural Biology,2,BY,2025-11-28 17:32:00
+2005,1704,Computer Graphics and Computer-Aided Design,2,BY,2025-11-28 17:32:00
+2005,1708,Hardware and Architecture,2,BY,2025-11-28 17:32:00
+2005,1904,Earth-Surface Processes,2,BY,2025-11-28 17:32:00
+2005,2712,"Endocrinology, Diabetes and Metabolism",2,BY,2025-11-28 17:32:00
+2005,2734,Pathology and Forensic Medicine,2,BY,2025-11-28 17:32:00
+2005,2738,Psychiatry and Mental health,2,BY,2025-11-28 17:32:00
+2005,2807,Endocrine and Autonomic Systems,2,BY,2025-11-28 17:32:00
+2005,1104,Aquatic Science,1,BY,2025-11-28 17:32:00
+2005,1105,"Ecology, Evolution, Behavior and Systematics",1,BY,2025-11-28 17:32:00
+2005,1111,Soil Science,1,BY,2025-11-28 17:32:00
+2005,1206,Conservation,1,BY,2025-11-28 17:32:00
+2005,1408,Strategy and Management,1,BY,2025-11-28 17:32:00
+2005,1804,"Statistics, Probability and Uncertainty",1,BY,2025-11-28 17:32:00
+2005,1907,Geology,1,BY,2025-11-28 17:32:00
+2005,1910,Oceanography,1,BY,2025-11-28 17:32:00
+2005,2102,Energy Engineering and Power Technology,1,BY,2025-11-28 17:32:00
+2005,2302,Ecological Modeling,1,BY,2025-11-28 17:32:00
+2005,2406,Virology,1,BY,2025-11-28 17:32:00
+2005,2506,Metals and Alloys,1,BY,2025-11-28 17:32:00
+2005,2608,Geometry and Topology,1,BY,2025-11-28 17:32:00
+2005,2720,Hematology,1,BY,2025-11-28 17:32:00
+2005,2728,Neurology,1,BY,2025-11-28 17:32:00
+2005,2735,"Pediatrics, Perinatology and Child Health",1,BY,2025-11-28 17:32:00
+2005,2739,"Public Health, Environmental and Occupational Health",1,BY,2025-11-28 17:32:00
+2005,2742,Rehabilitation,1,BY,2025-11-28 17:32:00
+2005,2743,Reproductive Medicine,1,BY,2025-11-28 17:32:00
+2005,2745,Rheumatology,1,BY,2025-11-28 17:32:00
+2005,2916,Nutrition and Dietetics,1,BY,2025-11-28 17:32:00
+2005,3312,Sociology and Political Science,1,BY,2025-11-28 17:32:00
+2005,3320,Political Science and International Relations,1,BY,2025-11-28 17:32:00
+2006,2208,Electrical and Electronic Engineering,346,BY,2025-11-28 17:32:00
+2006,2505,Materials Chemistry,300,BY,2025-11-28 17:32:00
+2006,3107,"Atomic and Molecular Physics, and Optics",294,BY,2025-11-28 17:32:00
+2006,2204,Biomedical Engineering,173,BY,2025-11-28 17:32:00
+2006,2210,Mechanical Engineering,168,BY,2025-11-28 17:32:00
+2006,1605,Organic Chemistry,134,BY,2025-11-28 17:32:00
+2006,1312,Molecular Biology,130,BY,2025-11-28 17:32:00
+2006,2504,"Electronic, Optical and Magnetic Materials",120,BY,2025-11-28 17:32:00
+2006,2211,Mechanics of Materials,95,BY,2025-11-28 17:32:00
+2006,2206,Computational Mechanics,79,BY,2025-11-28 17:32:00
+2006,1607,Spectroscopy,49,BY,2025-11-28 17:32:00
+2006,3104,Condensed Matter Physics,47,BY,2025-11-28 17:32:00
+2006,2209,Industrial and Manufacturing Engineering,43,BY,2025-11-28 17:32:00
+2006,2202,Aerospace Engineering,38,BY,2025-11-28 17:32:00
+2006,1606,Physical and Theoretical Chemistry,37,BY,2025-11-28 17:32:00
+2006,2212,Ocean Engineering,31,BY,2025-11-28 17:32:00
+2006,1604,Inorganic Chemistry,29,BY,2025-11-28 17:32:00
+2006,2741,"Radiology, Nuclear Medicine and Imaging",27,BY,2025-11-28 17:32:00
+2006,2500,General Materials Science,26,BY,2025-11-28 17:32:00
+2006,2205,Civil and Structural Engineering,25,BY,2025-11-28 17:32:00
+2006,2507,Polymers and Plastics,24,BY,2025-11-28 17:32:00
+2006,3109,Statistical and Nonlinear Physics,21,BY,2025-11-28 17:32:00
+2006,1110,Plant Science,18,BY,2025-11-28 17:32:00
+2006,1902,Atmospheric Science,16,BY,2025-11-28 17:32:00
+2006,2207,Control and Systems Engineering,16,BY,2025-11-28 17:32:00
+2006,2503,Ceramics and Composites,16,BY,2025-11-28 17:32:00
+2006,1503,Catalysis,15,BY,2025-11-28 17:32:00
+2006,1702,Artificial Intelligence,15,BY,2025-11-28 17:32:00
+2006,2730,Oncology,15,BY,2025-11-28 17:32:00
+2006,3106,Nuclear and High Energy Physics,15,BY,2025-11-28 17:32:00
+2006,1304,Biophysics,14,BY,2025-11-28 17:32:00
+2006,2105,"Renewable Energy, Sustainability and the Environment",14,BY,2025-11-28 17:32:00
+2006,1705,Computer Networks and Communications,13,BY,2025-11-28 17:32:00
+2006,2740,Pulmonary and Respiratory Medicine,13,BY,2025-11-28 17:32:00
+2006,1106,Food Science,12,BY,2025-11-28 17:32:00
+2006,2736,Pharmacology,12,BY,2025-11-28 17:32:00
+2006,1311,Genetics,11,BY,2025-11-28 17:32:00
+2006,3103,Astronomy and Astrophysics,11,BY,2025-11-28 17:32:00
+2006,2737,Physiology,10,BY,2025-11-28 17:32:00
+2006,3108,Radiation,10,BY,2025-11-28 17:32:00
+2006,1502,Bioengineering,9,BY,2025-11-28 17:32:00
+2006,1603,Electrochemistry,9,BY,2025-11-28 17:32:00
+2006,1707,Computer Vision and Pattern Recognition,9,BY,2025-11-28 17:32:00
+2006,1908,Geophysics,9,BY,2025-11-28 17:32:00
+2006,1303,Biochemistry,8,BY,2025-11-28 17:32:00
+2006,1507,Fluid Flow and Transfer Processes,8,BY,2025-11-28 17:32:00
+2006,1703,Computational Theory and Mathematics,8,BY,2025-11-28 17:32:00
+2006,2214,Media Technology,8,BY,2025-11-28 17:32:00
+2006,2502,Biomaterials,8,BY,2025-11-28 17:32:00
+2006,2804,Cellular and Molecular Neuroscience,8,BY,2025-11-28 17:32:00
+2006,2604,Applied Mathematics,7,BY,2025-11-28 17:32:00
+2006,1307,Cell Biology,6,BY,2025-11-28 17:32:00
+2006,1404,Management Information Systems,6,BY,2025-11-28 17:32:00
+2006,1602,Analytical Chemistry,6,BY,2025-11-28 17:32:00
+2006,2731,Ophthalmology,6,BY,2025-11-28 17:32:00
+2006,1305,Biotechnology,5,BY,2025-11-28 17:32:00
+2006,1708,Hardware and Architecture,5,BY,2025-11-28 17:32:00
+2006,2203,Automotive Engineering,5,BY,2025-11-28 17:32:00
+2006,2215,Building and Construction,5,BY,2025-11-28 17:32:00
+2006,2311,Industrial and Manufacturing Engineering,5,BY,2025-11-28 17:32:00
+2006,2610,Mathematical Physics,5,BY,2025-11-28 17:32:00
+2006,3102,Acoustics and Ultrasonics,5,BY,2025-11-28 17:32:00
+2006,3105,Instrumentation,5,BY,2025-11-28 17:32:00
+2006,1306,Cancer Research,4,BY,2025-11-28 17:32:00
+2006,2103,Fuel Technology,4,BY,2025-11-28 17:32:00
+2006,2213,"Safety, Risk, Reliability and Quality",4,BY,2025-11-28 17:32:00
+2006,2310,Pollution,4,BY,2025-11-28 17:32:00
+2006,2508,"Surfaces, Coatings and Films",4,BY,2025-11-28 17:32:00
+2006,2712,"Endocrinology, Diabetes and Metabolism",4,BY,2025-11-28 17:32:00
+2006,2739,"Public Health, Environmental and Occupational Health",4,BY,2025-11-28 17:32:00
+2006,2746,Surgery,4,BY,2025-11-28 17:32:00
+2006,3003,Pharmaceutical Science,4,BY,2025-11-28 17:32:00
+2006,3004,Pharmacology,4,BY,2025-11-28 17:32:00
+2006,1105,"Ecology, Evolution, Behavior and Systematics",3,BY,2025-11-28 17:32:00
+2006,1308,Clinical Biochemistry,3,BY,2025-11-28 17:32:00
+2006,1906,Geochemistry and Petrology,3,BY,2025-11-28 17:32:00
+2006,2305,Environmental Engineering,3,BY,2025-11-28 17:32:00
+2006,2612,Numerical Analysis,3,BY,2025-11-28 17:32:00
+2006,2705,Cardiology and Cardiovascular Medicine,3,BY,2025-11-28 17:32:00
+2006,2916,Nutrition and Dietetics,3,BY,2025-11-28 17:32:00
+2006,1204,Archeology,2,BY,2025-11-28 17:32:00
+2006,1314,Physiology,2,BY,2025-11-28 17:32:00
+2006,1506,Filtration and Separation,2,BY,2025-11-28 17:32:00
+2006,1508,Process Chemistry and Technology,2,BY,2025-11-28 17:32:00
+2006,1704,Computer Graphics and Computer-Aided Design,2,BY,2025-11-28 17:32:00
+2006,1804,"Statistics, Probability and Uncertainty",2,BY,2025-11-28 17:32:00
+2006,2002,Economics and Econometrics,2,BY,2025-11-28 17:32:00
+2006,2303,Ecology,2,BY,2025-11-28 17:32:00
+2006,2308,"Management, Monitoring, Policy and Law",2,BY,2025-11-28 17:32:00
+2006,2309,Nature and Landscape Conservation,2,BY,2025-11-28 17:32:00
+2006,2312,Water Science and Technology,2,BY,2025-11-28 17:32:00
+2006,2403,Immunology,2,BY,2025-11-28 17:32:00
+2006,2406,Virology,2,BY,2025-11-28 17:32:00
+2006,2704,Biochemistry,2,BY,2025-11-28 17:32:00
+2006,2716,Genetics,2,BY,2025-11-28 17:32:00
+2006,2745,Rheumatology,2,BY,2025-11-28 17:32:00
+2006,2807,Endocrine and Autonomic Systems,2,BY,2025-11-28 17:32:00
+2006,3005,Toxicology,2,BY,2025-11-28 17:32:00
+2006,3320,Political Science and International Relations,2,BY,2025-11-28 17:32:00
+2006,3404,Small Animals,2,BY,2025-11-28 17:32:00
+2006,3504,Oral Surgery,2,BY,2025-11-28 17:32:00
+2006,1104,Aquatic Science,1,BY,2025-11-28 17:32:00
+2006,1109,Insect Science,1,BY,2025-11-28 17:32:00
+2006,1111,Soil Science,1,BY,2025-11-28 17:32:00
+2006,1206,Conservation,1,BY,2025-11-28 17:32:00
+2006,1710,Information Systems,1,BY,2025-11-28 17:32:00
+2006,1711,Signal Processing,1,BY,2025-11-28 17:32:00
+2006,1712,Software,1,BY,2025-11-28 17:32:00
+2006,1803,Management Science and Operations Research,1,BY,2025-11-28 17:32:00
+2006,1904,Earth-Surface Processes,1,BY,2025-11-28 17:32:00
+2006,1907,Geology,1,BY,2025-11-28 17:32:00
+2006,1910,Oceanography,1,BY,2025-11-28 17:32:00
+2006,2104,Nuclear Energy and Engineering,1,BY,2025-11-28 17:32:00
+2006,2404,Microbiology,1,BY,2025-11-28 17:32:00
+2006,2607,Discrete Mathematics and Combinatorics,1,BY,2025-11-28 17:32:00
+2006,2611,Modeling and Simulation,1,BY,2025-11-28 17:32:00
+2006,2613,Statistics and Probability,1,BY,2025-11-28 17:32:00
+2006,2703,Anesthesiology and Pain Medicine,1,BY,2025-11-28 17:32:00
+2006,2706,Critical Care and Intensive Care Medicine,1,BY,2025-11-28 17:32:00
+2006,2708,Dermatology,1,BY,2025-11-28 17:32:00
+2006,2713,Epidemiology,1,BY,2025-11-28 17:32:00
+2006,2725,Infectious Diseases,1,BY,2025-11-28 17:32:00
+2006,2732,Orthopedics and Sports Medicine,1,BY,2025-11-28 17:32:00
+2006,2738,Psychiatry and Mental health,1,BY,2025-11-28 17:32:00
+2006,2806,Developmental Neuroscience,1,BY,2025-11-28 17:32:00
+2006,2808,Neurology,1,BY,2025-11-28 17:32:00
+2006,3202,Applied Psychology,1,BY,2025-11-28 17:32:00
+2006,3312,Sociology and Political Science,1,BY,2025-11-28 17:32:00
+2006,3505,Orthodontics,1,BY,2025-11-28 17:32:00
+2006,3614,Radiological and Ultrasound Technology,1,BY,2025-11-28 17:32:00
+2007,2208,Electrical and Electronic Engineering,398,BY,2025-11-28 17:32:00
+2007,3107,"Atomic and Molecular Physics, and Optics",347,BY,2025-11-28 17:32:00
+2007,2505,Materials Chemistry,327,BY,2025-11-28 17:32:00
+2007,2204,Biomedical Engineering,227,BY,2025-11-28 17:32:00
+2007,2210,Mechanical Engineering,198,BY,2025-11-28 17:32:00
+2007,1312,Molecular Biology,130,BY,2025-11-28 17:32:00
+2007,2211,Mechanics of Materials,119,BY,2025-11-28 17:32:00
+2007,1605,Organic Chemistry,114,BY,2025-11-28 17:32:00
+2007,2504,"Electronic, Optical and Magnetic Materials",107,BY,2025-11-28 17:32:00
+2007,2206,Computational Mechanics,95,BY,2025-11-28 17:32:00
+2007,3104,Condensed Matter Physics,59,BY,2025-11-28 17:32:00
+2007,2202,Aerospace Engineering,51,BY,2025-11-28 17:32:00
+2007,1607,Spectroscopy,50,BY,2025-11-28 17:32:00
+2007,2209,Industrial and Manufacturing Engineering,43,BY,2025-11-28 17:32:00
+2007,2500,General Materials Science,40,BY,2025-11-28 17:32:00
+2007,1606,Physical and Theoretical Chemistry,35,BY,2025-11-28 17:32:00
+2007,1604,Inorganic Chemistry,32,BY,2025-11-28 17:32:00
+2007,2507,Polymers and Plastics,29,BY,2025-11-28 17:32:00
+2007,1702,Artificial Intelligence,28,BY,2025-11-28 17:32:00
+2007,2741,"Radiology, Nuclear Medicine and Imaging",27,BY,2025-11-28 17:32:00
+2007,2212,Ocean Engineering,25,BY,2025-11-28 17:32:00
+2007,1902,Atmospheric Science,23,BY,2025-11-28 17:32:00
+2007,2205,Civil and Structural Engineering,23,BY,2025-11-28 17:32:00
+2007,2207,Control and Systems Engineering,21,BY,2025-11-28 17:32:00
+2007,2503,Ceramics and Composites,21,BY,2025-11-28 17:32:00
+2007,2740,Pulmonary and Respiratory Medicine,20,BY,2025-11-28 17:32:00
+2007,1304,Biophysics,19,BY,2025-11-28 17:32:00
+2007,2737,Physiology,19,BY,2025-11-28 17:32:00
+2007,2508,"Surfaces, Coatings and Films",18,BY,2025-11-28 17:32:00
+2007,1110,Plant Science,17,BY,2025-11-28 17:32:00
+2007,2105,"Renewable Energy, Sustainability and the Environment",17,BY,2025-11-28 17:32:00
+2007,3109,Statistical and Nonlinear Physics,17,BY,2025-11-28 17:32:00
+2007,1705,Computer Networks and Communications,15,BY,2025-11-28 17:32:00
+2007,3108,Radiation,15,BY,2025-11-28 17:32:00
+2007,2730,Oncology,14,BY,2025-11-28 17:32:00
+2007,2804,Cellular and Molecular Neuroscience,13,BY,2025-11-28 17:32:00
+2007,1503,Catalysis,11,BY,2025-11-28 17:32:00
+2007,1602,Analytical Chemistry,11,BY,2025-11-28 17:32:00
+2007,2311,Industrial and Manufacturing Engineering,11,BY,2025-11-28 17:32:00
+2007,2731,Ophthalmology,11,BY,2025-11-28 17:32:00
+2007,3003,Pharmaceutical Science,11,BY,2025-11-28 17:32:00
+2007,3106,Nuclear and High Energy Physics,11,BY,2025-11-28 17:32:00
+2007,2203,Automotive Engineering,10,BY,2025-11-28 17:32:00
+2007,1106,Food Science,9,BY,2025-11-28 17:32:00
+2007,1305,Biotechnology,9,BY,2025-11-28 17:32:00
+2007,1306,Cancer Research,9,BY,2025-11-28 17:32:00
+2007,2215,Building and Construction,9,BY,2025-11-28 17:32:00
+2007,2305,Environmental Engineering,9,BY,2025-11-28 17:32:00
+2007,3102,Acoustics and Ultrasonics,9,BY,2025-11-28 17:32:00
+2007,1105,"Ecology, Evolution, Behavior and Systematics",8,BY,2025-11-28 17:32:00
+2007,1307,Cell Biology,8,BY,2025-11-28 17:32:00
+2007,1502,Bioengineering,8,BY,2025-11-28 17:32:00
+2007,1703,Computational Theory and Mathematics,8,BY,2025-11-28 17:32:00
+2007,1707,Computer Vision and Pattern Recognition,8,BY,2025-11-28 17:32:00
+2007,2214,Media Technology,8,BY,2025-11-28 17:32:00
+2007,2607,Discrete Mathematics and Combinatorics,8,BY,2025-11-28 17:32:00
+2007,1603,Electrochemistry,7,BY,2025-11-28 17:32:00
+2007,1908,Geophysics,7,BY,2025-11-28 17:32:00
+2007,2502,Biomaterials,7,BY,2025-11-28 17:32:00
+2007,2736,Pharmacology,7,BY,2025-11-28 17:32:00
+2007,1303,Biochemistry,6,BY,2025-11-28 17:32:00
+2007,1708,Hardware and Architecture,6,BY,2025-11-28 17:32:00
+2007,2312,Water Science and Technology,6,BY,2025-11-28 17:32:00
+2007,3103,Astronomy and Astrophysics,6,BY,2025-11-28 17:32:00
+2007,3105,Instrumentation,6,BY,2025-11-28 17:32:00
+2007,1314,Physiology,5,BY,2025-11-28 17:32:00
+2007,1507,Fluid Flow and Transfer Processes,5,BY,2025-11-28 17:32:00
+2007,2310,Pollution,5,BY,2025-11-28 17:32:00
+2007,2403,Immunology,5,BY,2025-11-28 17:32:00
+2007,2604,Applied Mathematics,5,BY,2025-11-28 17:32:00
+2007,1311,Genetics,4,BY,2025-11-28 17:32:00
+2007,1404,Management Information Systems,4,BY,2025-11-28 17:32:00
+2007,2103,Fuel Technology,4,BY,2025-11-28 17:32:00
+2007,2610,Mathematical Physics,4,BY,2025-11-28 17:32:00
+2007,2720,Hematology,4,BY,2025-11-28 17:32:00
+2007,2725,Infectious Diseases,4,BY,2025-11-28 17:32:00
+2007,2746,Surgery,4,BY,2025-11-28 17:32:00
+2007,1104,Aquatic Science,3,BY,2025-11-28 17:32:00
+2007,1804,"Statistics, Probability and Uncertainty",3,BY,2025-11-28 17:32:00
+2007,1904,Earth-Surface Processes,3,BY,2025-11-28 17:32:00
+2007,2303,Ecology,3,BY,2025-11-28 17:32:00
+2007,2306,Global and Planetary Change,3,BY,2025-11-28 17:32:00
+2007,2308,"Management, Monitoring, Policy and Law",3,BY,2025-11-28 17:32:00
+2007,2712,"Endocrinology, Diabetes and Metabolism",3,BY,2025-11-28 17:32:00
+2007,2732,Orthopedics and Sports Medicine,3,BY,2025-11-28 17:32:00
+2007,2808,Neurology,3,BY,2025-11-28 17:32:00
+2007,2916,Nutrition and Dietetics,3,BY,2025-11-28 17:32:00
+2007,1204,Archeology,2,BY,2025-11-28 17:32:00
+2007,1711,Signal Processing,2,BY,2025-11-28 17:32:00
+2007,2002,Economics and Econometrics,2,BY,2025-11-28 17:32:00
+2007,2304,Environmental Chemistry,2,BY,2025-11-28 17:32:00
+2007,2612,Numerical Analysis,2,BY,2025-11-28 17:32:00
+2007,2704,Biochemistry,2,BY,2025-11-28 17:32:00
+2007,2713,Epidemiology,2,BY,2025-11-28 17:32:00
+2007,2734,Pathology and Forensic Medicine,2,BY,2025-11-28 17:32:00
+2007,2739,"Public Health, Environmental and Occupational Health",2,BY,2025-11-28 17:32:00
+2007,2802,Behavioral Neuroscience,2,BY,2025-11-28 17:32:00
+2007,3004,Pharmacology,2,BY,2025-11-28 17:32:00
+2007,3005,Toxicology,2,BY,2025-11-28 17:32:00
+2007,1109,Insect Science,1,BY,2025-11-28 17:32:00
+2007,1308,Clinical Biochemistry,1,BY,2025-11-28 17:32:00
+2007,1310,Endocrinology,1,BY,2025-11-28 17:32:00
+2007,1315,Structural Biology,1,BY,2025-11-28 17:32:00
+2007,1405,Management of Technology and Innovation,1,BY,2025-11-28 17:32:00
+2007,1408,Strategy and Management,1,BY,2025-11-28 17:32:00
+2007,1506,Filtration and Separation,1,BY,2025-11-28 17:32:00
+2007,1508,Process Chemistry and Technology,1,BY,2025-11-28 17:32:00
+2007,1704,Computer Graphics and Computer-Aided Design,1,BY,2025-11-28 17:32:00
+2007,1712,Software,1,BY,2025-11-28 17:32:00
+2007,1803,Management Science and Operations Research,1,BY,2025-11-28 17:32:00
+2007,1910,Oceanography,1,BY,2025-11-28 17:32:00
+2007,2100,General Energy,1,BY,2025-11-28 17:32:00
+2007,2102,Energy Engineering and Power Technology,1,BY,2025-11-28 17:32:00
+2007,2213,"Safety, Risk, Reliability and Quality",1,BY,2025-11-28 17:32:00
+2007,2307,"Health, Toxicology and Mutagenesis",1,BY,2025-11-28 17:32:00
+2007,2309,Nature and Landscape Conservation,1,BY,2025-11-28 17:32:00
+2007,2602,Algebra and Number Theory,1,BY,2025-11-28 17:32:00
+2007,2705,Cardiology and Cardiovascular Medicine,1,BY,2025-11-28 17:32:00
+2007,2707,Complementary and alternative medicine,1,BY,2025-11-28 17:32:00
+2007,2708,Dermatology,1,BY,2025-11-28 17:32:00
+2007,2711,Emergency Medicine,1,BY,2025-11-28 17:32:00
+2007,2728,Neurology,1,BY,2025-11-28 17:32:00
+2007,2735,"Pediatrics, Perinatology and Child Health",1,BY,2025-11-28 17:32:00
+2007,2745,Rheumatology,1,BY,2025-11-28 17:32:00
+2007,3204,Developmental and Educational Psychology,1,BY,2025-11-28 17:32:00
+2007,3302,Archeology,1,BY,2025-11-28 17:32:00
+2007,3312,Sociology and Political Science,1,BY,2025-11-28 17:32:00
+2007,3505,Orthodontics,1,BY,2025-11-28 17:32:00
+2008,2208,Electrical and Electronic Engineering,268,BY,2025-11-28 17:32:00
+2008,2505,Materials Chemistry,264,BY,2025-11-28 17:32:00
+2008,3107,"Atomic and Molecular Physics, and Optics",228,BY,2025-11-28 17:32:00
+2008,2204,Biomedical Engineering,174,BY,2025-11-28 17:32:00
+2008,2210,Mechanical Engineering,161,BY,2025-11-28 17:32:00
+2008,1312,Molecular Biology,109,BY,2025-11-28 17:32:00
+2008,2211,Mechanics of Materials,94,BY,2025-11-28 17:32:00
+2008,2504,"Electronic, Optical and Magnetic Materials",87,BY,2025-11-28 17:32:00
+2008,1605,Organic Chemistry,85,BY,2025-11-28 17:32:00
+2008,2206,Computational Mechanics,55,BY,2025-11-28 17:32:00
+2008,3104,Condensed Matter Physics,46,BY,2025-11-28 17:32:00
+2008,2202,Aerospace Engineering,44,BY,2025-11-28 17:32:00
+2008,2500,General Materials Science,33,BY,2025-11-28 17:32:00
+2008,2209,Industrial and Manufacturing Engineering,30,BY,2025-11-28 17:32:00
+2008,1606,Physical and Theoretical Chemistry,29,BY,2025-11-28 17:32:00
+2008,1607,Spectroscopy,27,BY,2025-11-28 17:32:00
+2008,2507,Polymers and Plastics,23,BY,2025-11-28 17:32:00
+2008,3109,Statistical and Nonlinear Physics,23,BY,2025-11-28 17:32:00
+2008,2207,Control and Systems Engineering,21,BY,2025-11-28 17:32:00
+2008,2205,Civil and Structural Engineering,18,BY,2025-11-28 17:32:00
+2008,2741,"Radiology, Nuclear Medicine and Imaging",18,BY,2025-11-28 17:32:00
+2008,3108,Radiation,18,BY,2025-11-28 17:32:00
+2008,2503,Ceramics and Composites,15,BY,2025-11-28 17:32:00
+2008,1604,Inorganic Chemistry,14,BY,2025-11-28 17:32:00
+2008,1702,Artificial Intelligence,14,BY,2025-11-28 17:32:00
+2008,2212,Ocean Engineering,14,BY,2025-11-28 17:32:00
+2008,1110,Plant Science,13,BY,2025-11-28 17:32:00
+2008,1908,Geophysics,13,BY,2025-11-28 17:32:00
+2008,3106,Nuclear and High Energy Physics,13,BY,2025-11-28 17:32:00
+2008,1503,Catalysis,12,BY,2025-11-28 17:32:00
+2008,2105,"Renewable Energy, Sustainability and the Environment",12,BY,2025-11-28 17:32:00
+2008,2730,Oncology,12,BY,2025-11-28 17:32:00
+2008,1703,Computational Theory and Mathematics,11,BY,2025-11-28 17:32:00
+2008,1705,Computer Networks and Communications,11,BY,2025-11-28 17:32:00
+2008,2508,"Surfaces, Coatings and Films",11,BY,2025-11-28 17:32:00
+2008,1307,Cell Biology,10,BY,2025-11-28 17:32:00
+2008,1902,Atmospheric Science,10,BY,2025-11-28 17:32:00
+2008,2203,Automotive Engineering,10,BY,2025-11-28 17:32:00
+2008,2740,Pulmonary and Respiratory Medicine,10,BY,2025-11-28 17:32:00
+2008,1311,Genetics,9,BY,2025-11-28 17:32:00
+2008,2612,Numerical Analysis,8,BY,2025-11-28 17:32:00
+2008,3103,Astronomy and Astrophysics,8,BY,2025-11-28 17:32:00
+2008,1602,Analytical Chemistry,7,BY,2025-11-28 17:32:00
+2008,2305,Environmental Engineering,7,BY,2025-11-28 17:32:00
+2008,2604,Applied Mathematics,7,BY,2025-11-28 17:32:00
+2008,2607,Discrete Mathematics and Combinatorics,7,BY,2025-11-28 17:32:00
+2008,2704,Biochemistry,7,BY,2025-11-28 17:32:00
+2008,3003,Pharmaceutical Science,7,BY,2025-11-28 17:32:00
+2008,1603,Electrochemistry,6,BY,2025-11-28 17:32:00
+2008,3105,Instrumentation,6,BY,2025-11-28 17:32:00
+2008,1502,Bioengineering,5,BY,2025-11-28 17:32:00
+2008,1507,Fluid Flow and Transfer Processes,5,BY,2025-11-28 17:32:00
+2008,1906,Geochemistry and Petrology,5,BY,2025-11-28 17:32:00
+2008,2312,Water Science and Technology,5,BY,2025-11-28 17:32:00
+2008,2608,Geometry and Topology,5,BY,2025-11-28 17:32:00
+2008,2731,Ophthalmology,5,BY,2025-11-28 17:32:00
+2008,2736,Pharmacology,5,BY,2025-11-28 17:32:00
+2008,2737,Physiology,5,BY,2025-11-28 17:32:00
+2008,2746,Surgery,5,BY,2025-11-28 17:32:00
+2008,2916,Nutrition and Dietetics,5,BY,2025-11-28 17:32:00
+2008,1104,Aquatic Science,4,BY,2025-11-28 17:32:00
+2008,1106,Food Science,4,BY,2025-11-28 17:32:00
+2008,1304,Biophysics,4,BY,2025-11-28 17:32:00
+2008,1708,Hardware and Architecture,4,BY,2025-11-28 17:32:00
+2008,2310,Pollution,4,BY,2025-11-28 17:32:00
+2008,2311,Industrial and Manufacturing Engineering,4,BY,2025-11-28 17:32:00
+2008,2502,Biomaterials,4,BY,2025-11-28 17:32:00
+2008,2734,Pathology and Forensic Medicine,4,BY,2025-11-28 17:32:00
+2008,2804,Cellular and Molecular Neuroscience,4,BY,2025-11-28 17:32:00
+2008,1105,"Ecology, Evolution, Behavior and Systematics",3,BY,2025-11-28 17:32:00
+2008,1306,Cancer Research,3,BY,2025-11-28 17:32:00
+2008,1314,Physiology,3,BY,2025-11-28 17:32:00
+2008,1707,Computer Vision and Pattern Recognition,3,BY,2025-11-28 17:32:00
+2008,2102,Energy Engineering and Power Technology,3,BY,2025-11-28 17:32:00
+2008,2214,Media Technology,3,BY,2025-11-28 17:32:00
+2008,2304,Environmental Chemistry,3,BY,2025-11-28 17:32:00
+2008,2307,"Health, Toxicology and Mutagenesis",3,BY,2025-11-28 17:32:00
+2008,2406,Virology,3,BY,2025-11-28 17:32:00
+2008,2610,Mathematical Physics,3,BY,2025-11-28 17:32:00
+2008,2725,Infectious Diseases,3,BY,2025-11-28 17:32:00
+2008,2805,Cognitive Neuroscience,3,BY,2025-11-28 17:32:00
+2008,1109,Insect Science,2,BY,2025-11-28 17:32:00
+2008,1303,Biochemistry,2,BY,2025-11-28 17:32:00
+2008,1305,Biotechnology,2,BY,2025-11-28 17:32:00
+2008,1315,Structural Biology,2,BY,2025-11-28 17:32:00
+2008,1404,Management Information Systems,2,BY,2025-11-28 17:32:00
+2008,1506,Filtration and Separation,2,BY,2025-11-28 17:32:00
+2008,1508,Process Chemistry and Technology,2,BY,2025-11-28 17:32:00
+2008,1904,Earth-Surface Processes,2,BY,2025-11-28 17:32:00
+2008,2213,"Safety, Risk, Reliability and Quality",2,BY,2025-11-28 17:32:00
+2008,2303,Ecology,2,BY,2025-11-28 17:32:00
+2008,2306,Global and Planetary Change,2,BY,2025-11-28 17:32:00
+2008,2308,"Management, Monitoring, Policy and Law",2,BY,2025-11-28 17:32:00
+2008,2309,Nature and Landscape Conservation,2,BY,2025-11-28 17:32:00
+2008,2403,Immunology,2,BY,2025-11-28 17:32:00
+2008,2602,Algebra and Number Theory,2,BY,2025-11-28 17:32:00
+2008,2708,Dermatology,2,BY,2025-11-28 17:32:00
+2008,2720,Hematology,2,BY,2025-11-28 17:32:00
+2008,2739,"Public Health, Environmental and Occupational Health",2,BY,2025-11-28 17:32:00
+2008,2745,Rheumatology,2,BY,2025-11-28 17:32:00
+2008,2806,Developmental Neuroscience,2,BY,2025-11-28 17:32:00
+2008,3004,Pharmacology,2,BY,2025-11-28 17:32:00
+2008,3005,Toxicology,2,BY,2025-11-28 17:32:00
+2008,3102,Acoustics and Ultrasonics,2,BY,2025-11-28 17:32:00
+2008,1100,General Agricultural and Biological Sciences,1,BY,2025-11-28 17:32:00
+2008,1302,Aging,1,BY,2025-11-28 17:32:00
+2008,1710,Information Systems,1,BY,2025-11-28 17:32:00
+2008,1711,Signal Processing,1,BY,2025-11-28 17:32:00
+2008,1803,Management Science and Operations Research,1,BY,2025-11-28 17:32:00
+2008,1804,"Statistics, Probability and Uncertainty",1,BY,2025-11-28 17:32:00
+2008,1907,Geology,1,BY,2025-11-28 17:32:00
+2008,2002,Economics and Econometrics,1,BY,2025-11-28 17:32:00
+2008,2103,Fuel Technology,1,BY,2025-11-28 17:32:00
+2008,2104,Nuclear Energy and Engineering,1,BY,2025-11-28 17:32:00
+2008,2215,Building and Construction,1,BY,2025-11-28 17:32:00
+2008,2302,Ecological Modeling,1,BY,2025-11-28 17:32:00
+2008,2404,Microbiology,1,BY,2025-11-28 17:32:00
+2008,2611,Modeling and Simulation,1,BY,2025-11-28 17:32:00
+2008,2702,Anatomy,1,BY,2025-11-28 17:32:00
+2008,2705,Cardiology and Cardiovascular Medicine,1,BY,2025-11-28 17:32:00
+2008,2712,"Endocrinology, Diabetes and Metabolism",1,BY,2025-11-28 17:32:00
+2008,2713,Epidemiology,1,BY,2025-11-28 17:32:00
+2008,2716,Genetics,1,BY,2025-11-28 17:32:00
+2008,2723,Immunology and Allergy,1,BY,2025-11-28 17:32:00
+2008,2728,Neurology,1,BY,2025-11-28 17:32:00
+2008,2735,"Pediatrics, Perinatology and Child Health",1,BY,2025-11-28 17:32:00
+2008,2743,Reproductive Medicine,1,BY,2025-11-28 17:32:00
+2008,2748,Urology,1,BY,2025-11-28 17:32:00
+2008,2807,Endocrine and Autonomic Systems,1,BY,2025-11-28 17:32:00
+2008,3504,Oral Surgery,1,BY,2025-11-28 17:32:00
+2008,3612,"Physical Therapy, Sports Therapy and Rehabilitation",1,BY,2025-11-28 17:32:00
+2008,3614,Radiological and Ultrasound Technology,1,BY,2025-11-28 17:32:00
+2009,2505,Materials Chemistry,295,BY,2025-11-28 17:32:00
+2009,2208,Electrical and Electronic Engineering,293,BY,2025-11-28 17:32:00
+2009,3107,"Atomic and Molecular Physics, and Optics",265,BY,2025-11-28 17:32:00
+2009,2204,Biomedical Engineering,179,BY,2025-11-28 17:32:00
+2009,2210,Mechanical Engineering,158,BY,2025-11-28 17:32:00
+2009,1312,Molecular Biology,125,BY,2025-11-28 17:32:00
+2009,2504,"Electronic, Optical and Magnetic Materials",94,BY,2025-11-28 17:32:00
+2009,2211,Mechanics of Materials,92,BY,2025-11-28 17:32:00
+2009,1605,Organic Chemistry,91,BY,2025-11-28 17:32:00
+2009,2206,Computational Mechanics,67,BY,2025-11-28 17:32:00
+2009,3104,Condensed Matter Physics,39,BY,2025-11-28 17:32:00
+2009,2209,Industrial and Manufacturing Engineering,35,BY,2025-11-28 17:32:00
+2009,2500,General Materials Science,34,BY,2025-11-28 17:32:00
+2009,2202,Aerospace Engineering,33,BY,2025-11-28 17:32:00
+2009,1607,Spectroscopy,28,BY,2025-11-28 17:32:00
+2009,1606,Physical and Theoretical Chemistry,26,BY,2025-11-28 17:32:00
+2009,1702,Artificial Intelligence,25,BY,2025-11-28 17:32:00
+2009,2212,Ocean Engineering,24,BY,2025-11-28 17:32:00
+2009,2507,Polymers and Plastics,22,BY,2025-11-28 17:32:00
+2009,3109,Statistical and Nonlinear Physics,22,BY,2025-11-28 17:32:00
+2009,1705,Computer Networks and Communications,21,BY,2025-11-28 17:32:00
+2009,2741,"Radiology, Nuclear Medicine and Imaging",20,BY,2025-11-28 17:32:00
+2009,2105,"Renewable Energy, Sustainability and the Environment",19,BY,2025-11-28 17:32:00
+2009,2207,Control and Systems Engineering,19,BY,2025-11-28 17:32:00
+2009,2205,Civil and Structural Engineering,18,BY,2025-11-28 17:32:00
+2009,2503,Ceramics and Composites,16,BY,2025-11-28 17:32:00
+2009,1703,Computational Theory and Mathematics,15,BY,2025-11-28 17:32:00
+2009,2740,Pulmonary and Respiratory Medicine,15,BY,2025-11-28 17:32:00
+2009,1604,Inorganic Chemistry,14,BY,2025-11-28 17:32:00
+2009,3106,Nuclear and High Energy Physics,14,BY,2025-11-28 17:32:00
+2009,1902,Atmospheric Science,13,BY,2025-11-28 17:32:00
+2009,2607,Discrete Mathematics and Combinatorics,13,BY,2025-11-28 17:32:00
+2009,3108,Radiation,13,BY,2025-11-28 17:32:00
+2009,1110,Plant Science,12,BY,2025-11-28 17:32:00
+2009,2804,Cellular and Molecular Neuroscience,12,BY,2025-11-28 17:32:00
+2009,1307,Cell Biology,11,BY,2025-11-28 17:32:00
+2009,1311,Genetics,11,BY,2025-11-28 17:32:00
+2009,2203,Automotive Engineering,11,BY,2025-11-28 17:32:00
+2009,2508,"Surfaces, Coatings and Films",11,BY,2025-11-28 17:32:00
+2009,2736,Pharmacology,10,BY,2025-11-28 17:32:00
+2009,2737,Physiology,10,BY,2025-11-28 17:32:00
+2009,1303,Biochemistry,9,BY,2025-11-28 17:32:00
+2009,2215,Building and Construction,9,BY,2025-11-28 17:32:00
+2009,2713,Epidemiology,9,BY,2025-11-28 17:32:00
+2009,1503,Catalysis,8,BY,2025-11-28 17:32:00
+2009,2502,Biomaterials,8,BY,2025-11-28 17:32:00
+2009,2730,Oncology,8,BY,2025-11-28 17:32:00
+2009,1304,Biophysics,7,BY,2025-11-28 17:32:00
+2009,1306,Cancer Research,7,BY,2025-11-28 17:32:00
+2009,1502,Bioengineering,7,BY,2025-11-28 17:32:00
+2009,1603,Electrochemistry,7,BY,2025-11-28 17:32:00
+2009,1908,Geophysics,7,BY,2025-11-28 17:32:00
+2009,1305,Biotechnology,6,BY,2025-11-28 17:32:00
+2009,1404,Management Information Systems,6,BY,2025-11-28 17:32:00
+2009,1507,Fluid Flow and Transfer Processes,6,BY,2025-11-28 17:32:00
+2009,2214,Media Technology,6,BY,2025-11-28 17:32:00
+2009,2403,Immunology,6,BY,2025-11-28 17:32:00
+2009,2725,Infectious Diseases,6,BY,2025-11-28 17:32:00
+2009,2746,Surgery,6,BY,2025-11-28 17:32:00
+2009,2916,Nutrition and Dietetics,6,BY,2025-11-28 17:32:00
+2009,3103,Astronomy and Astrophysics,6,BY,2025-11-28 17:32:00
+2009,1106,Food Science,5,BY,2025-11-28 17:32:00
+2009,1602,Analytical Chemistry,5,BY,2025-11-28 17:32:00
+2009,1707,Computer Vision and Pattern Recognition,5,BY,2025-11-28 17:32:00
+2009,2305,Environmental Engineering,5,BY,2025-11-28 17:32:00
+2009,2306,Global and Planetary Change,5,BY,2025-11-28 17:32:00
+2009,2604,Applied Mathematics,5,BY,2025-11-28 17:32:00
+2009,2704,Biochemistry,5,BY,2025-11-28 17:32:00
+2009,2705,Cardiology and Cardiovascular Medicine,5,BY,2025-11-28 17:32:00
+2009,2712,"Endocrinology, Diabetes and Metabolism",5,BY,2025-11-28 17:32:00
+2009,1105,"Ecology, Evolution, Behavior and Systematics",4,BY,2025-11-28 17:32:00
+2009,2406,Virology,4,BY,2025-11-28 17:32:00
+2009,2612,Numerical Analysis,4,BY,2025-11-28 17:32:00
+2009,3003,Pharmaceutical Science,4,BY,2025-11-28 17:32:00
+2009,1104,Aquatic Science,3,BY,2025-11-28 17:32:00
+2009,1314,Physiology,3,BY,2025-11-28 17:32:00
+2009,1708,Hardware and Architecture,3,BY,2025-11-28 17:32:00
+2009,1906,Geochemistry and Petrology,3,BY,2025-11-28 17:32:00
+2009,2103,Fuel Technology,3,BY,2025-11-28 17:32:00
+2009,2104,Nuclear Energy and Engineering,3,BY,2025-11-28 17:32:00
+2009,2303,Ecology,3,BY,2025-11-28 17:32:00
+2009,2304,Environmental Chemistry,3,BY,2025-11-28 17:32:00
+2009,2312,Water Science and Technology,3,BY,2025-11-28 17:32:00
+2009,2610,Mathematical Physics,3,BY,2025-11-28 17:32:00
+2009,2732,Orthopedics and Sports Medicine,3,BY,2025-11-28 17:32:00
+2009,3004,Pharmacology,3,BY,2025-11-28 17:32:00
+2009,1204,Archeology,2,BY,2025-11-28 17:32:00
+2009,1315,Structural Biology,2,BY,2025-11-28 17:32:00
+2009,1710,Information Systems,2,BY,2025-11-28 17:32:00
+2009,1907,Geology,2,BY,2025-11-28 17:32:00
+2009,1910,Oceanography,2,BY,2025-11-28 17:32:00
+2009,2309,Nature and Landscape Conservation,2,BY,2025-11-28 17:32:00
+2009,2311,Industrial and Manufacturing Engineering,2,BY,2025-11-28 17:32:00
+2009,2731,Ophthalmology,2,BY,2025-11-28 17:32:00
+2009,2738,Psychiatry and Mental health,2,BY,2025-11-28 17:32:00
+2009,2745,Rheumatology,2,BY,2025-11-28 17:32:00
+2009,2748,Urology,2,BY,2025-11-28 17:32:00
+2009,3005,Toxicology,2,BY,2025-11-28 17:32:00
+2009,3102,Acoustics and Ultrasonics,2,BY,2025-11-28 17:32:00
+2009,1109,Insect Science,1,BY,2025-11-28 17:32:00
+2009,1111,Soil Science,1,BY,2025-11-28 17:32:00
+2009,1202,History,1,BY,2025-11-28 17:32:00
+2009,1308,Clinical Biochemistry,1,BY,2025-11-28 17:32:00
+2009,1313,Molecular Medicine,1,BY,2025-11-28 17:32:00
+2009,1506,Filtration and Separation,1,BY,2025-11-28 17:32:00
+2009,1508,Process Chemistry and Technology,1,BY,2025-11-28 17:32:00
+2009,1704,Computer Graphics and Computer-Aided Design,1,BY,2025-11-28 17:32:00
+2009,1711,Signal Processing,1,BY,2025-11-28 17:32:00
+2009,1803,Management Science and Operations Research,1,BY,2025-11-28 17:32:00
+2009,1804,"Statistics, Probability and Uncertainty",1,BY,2025-11-28 17:32:00
+2009,2213,"Safety, Risk, Reliability and Quality",1,BY,2025-11-28 17:32:00
+2009,2302,Ecological Modeling,1,BY,2025-11-28 17:32:00
+2009,2310,Pollution,1,BY,2025-11-28 17:32:00
+2009,2506,Metals and Alloys,1,BY,2025-11-28 17:32:00
+2009,2608,Geometry and Topology,1,BY,2025-11-28 17:32:00
+2009,2702,Anatomy,1,BY,2025-11-28 17:32:00
+2009,2706,Critical Care and Intensive Care Medicine,1,BY,2025-11-28 17:32:00
+2009,2716,Genetics,1,BY,2025-11-28 17:32:00
+2009,2717,Geriatrics and Gerontology,1,BY,2025-11-28 17:32:00
+2009,2728,Neurology,1,BY,2025-11-28 17:32:00
+2009,2735,"Pediatrics, Perinatology and Child Health",1,BY,2025-11-28 17:32:00
+2009,2739,"Public Health, Environmental and Occupational Health",1,BY,2025-11-28 17:32:00
+2009,2742,Rehabilitation,1,BY,2025-11-28 17:32:00
+2009,2743,Reproductive Medicine,1,BY,2025-11-28 17:32:00
+2009,2805,Cognitive Neuroscience,1,BY,2025-11-28 17:32:00
+2009,2806,Developmental Neuroscience,1,BY,2025-11-28 17:32:00
+2009,2807,Endocrine and Autonomic Systems,1,BY,2025-11-28 17:32:00
+2009,2808,Neurology,1,BY,2025-11-28 17:32:00
+2009,2809,Sensory Systems,1,BY,2025-11-28 17:32:00
+2009,3504,Oral Surgery,1,BY,2025-11-28 17:32:00
+2009,3600,General Health Professions,1,BY,2025-11-28 17:32:00
+2009,3614,Radiological and Ultrasound Technology,1,BY,2025-11-28 17:32:00
+2009,3616,Speech and Hearing,1,BY,2025-11-28 17:32:00
+2010,2208,Electrical and Electronic Engineering,302,BY,2025-11-28 17:32:00
+2010,2505,Materials Chemistry,278,BY,2025-11-28 17:32:00
+2010,3107,"Atomic and Molecular Physics, and Optics",225,BY,2025-11-28 17:32:00
+2010,2204,Biomedical Engineering,167,BY,2025-11-28 17:32:00
+2010,2210,Mechanical Engineering,154,BY,2025-11-28 17:32:00
+2010,1312,Molecular Biology,110,BY,2025-11-28 17:32:00
+2010,1605,Organic Chemistry,86,BY,2025-11-28 17:32:00
+2010,2211,Mechanics of Materials,85,BY,2025-11-28 17:32:00
+2010,2504,"Electronic, Optical and Magnetic Materials",83,BY,2025-11-28 17:32:00
+2010,2206,Computational Mechanics,52,BY,2025-11-28 17:32:00
+2010,2202,Aerospace Engineering,43,BY,2025-11-28 17:32:00
+2010,3104,Condensed Matter Physics,36,BY,2025-11-28 17:32:00
+2010,2209,Industrial and Manufacturing Engineering,32,BY,2025-11-28 17:32:00
+2010,2212,Ocean Engineering,30,BY,2025-11-28 17:32:00
+2010,2500,General Materials Science,30,BY,2025-11-28 17:32:00
+2010,2207,Control and Systems Engineering,28,BY,2025-11-28 17:32:00
+2010,1607,Spectroscopy,26,BY,2025-11-28 17:32:00
+2010,2507,Polymers and Plastics,26,BY,2025-11-28 17:32:00
+2010,1606,Physical and Theoretical Chemistry,24,BY,2025-11-28 17:32:00
+2010,1702,Artificial Intelligence,24,BY,2025-11-28 17:32:00
+2010,2105,"Renewable Energy, Sustainability and the Environment",17,BY,2025-11-28 17:32:00
+2010,3106,Nuclear and High Energy Physics,17,BY,2025-11-28 17:32:00
+2010,2205,Civil and Structural Engineering,15,BY,2025-11-28 17:32:00
+2010,1503,Catalysis,14,BY,2025-11-28 17:32:00
+2010,1604,Inorganic Chemistry,14,BY,2025-11-28 17:32:00
+2010,1705,Computer Networks and Communications,14,BY,2025-11-28 17:32:00
+2010,1902,Atmospheric Science,13,BY,2025-11-28 17:32:00
+2010,2730,Oncology,13,BY,2025-11-28 17:32:00
+2010,1502,Bioengineering,12,BY,2025-11-28 17:32:00
+2010,2502,Biomaterials,12,BY,2025-11-28 17:32:00
+2010,2503,Ceramics and Composites,12,BY,2025-11-28 17:32:00
+2010,2607,Discrete Mathematics and Combinatorics,12,BY,2025-11-28 17:32:00
+2010,2741,"Radiology, Nuclear Medicine and Imaging",12,BY,2025-11-28 17:32:00
+2010,3109,Statistical and Nonlinear Physics,11,BY,2025-11-28 17:32:00
+2010,1304,Biophysics,10,BY,2025-11-28 17:32:00
+2010,1507,Fluid Flow and Transfer Processes,10,BY,2025-11-28 17:32:00
+2010,2737,Physiology,10,BY,2025-11-28 17:32:00
+2010,2740,Pulmonary and Respiratory Medicine,10,BY,2025-11-28 17:32:00
+2010,1110,Plant Science,9,BY,2025-11-28 17:32:00
+2010,3103,Astronomy and Astrophysics,9,BY,2025-11-28 17:32:00
+2010,1106,Food Science,8,BY,2025-11-28 17:32:00
+2010,1311,Genetics,8,BY,2025-11-28 17:32:00
+2010,1603,Electrochemistry,8,BY,2025-11-28 17:32:00
+2010,1707,Computer Vision and Pattern Recognition,8,BY,2025-11-28 17:32:00
+2010,2203,Automotive Engineering,8,BY,2025-11-28 17:32:00
+2010,1303,Biochemistry,7,BY,2025-11-28 17:32:00
+2010,2303,Ecology,7,BY,2025-11-28 17:32:00
+2010,2310,Pollution,7,BY,2025-11-28 17:32:00
+2010,2508,"Surfaces, Coatings and Films",7,BY,2025-11-28 17:32:00
+2010,3108,Radiation,7,BY,2025-11-28 17:32:00
+2010,1307,Cell Biology,6,BY,2025-11-28 17:32:00
+2010,2214,Media Technology,6,BY,2025-11-28 17:32:00
+2010,2306,Global and Planetary Change,6,BY,2025-11-28 17:32:00
+2010,2736,Pharmacology,6,BY,2025-11-28 17:32:00
+2010,1602,Analytical Chemistry,5,BY,2025-11-28 17:32:00
+2010,1703,Computational Theory and Mathematics,5,BY,2025-11-28 17:32:00
+2010,1908,Geophysics,5,BY,2025-11-28 17:32:00
+2010,2215,Building and Construction,5,BY,2025-11-28 17:32:00
+2010,2305,Environmental Engineering,5,BY,2025-11-28 17:32:00
+2010,2403,Immunology,5,BY,2025-11-28 17:32:00
+2010,2610,Mathematical Physics,5,BY,2025-11-28 17:32:00
+2010,2804,Cellular and Molecular Neuroscience,5,BY,2025-11-28 17:32:00
+2010,1404,Management Information Systems,4,BY,2025-11-28 17:32:00
+2010,1711,Signal Processing,4,BY,2025-11-28 17:32:00
+2010,2311,Industrial and Manufacturing Engineering,4,BY,2025-11-28 17:32:00
+2010,2604,Applied Mathematics,4,BY,2025-11-28 17:32:00
+2010,2705,Cardiology and Cardiovascular Medicine,4,BY,2025-11-28 17:32:00
+2010,2713,Epidemiology,4,BY,2025-11-28 17:32:00
+2010,2739,"Public Health, Environmental and Occupational Health",4,BY,2025-11-28 17:32:00
+2010,2746,Surgery,4,BY,2025-11-28 17:32:00
+2010,3005,Toxicology,4,BY,2025-11-28 17:32:00
+2010,3102,Acoustics and Ultrasonics,4,BY,2025-11-28 17:32:00
+2010,1508,Process Chemistry and Technology,3,BY,2025-11-28 17:32:00
+2010,2312,Water Science and Technology,3,BY,2025-11-28 17:32:00
+2010,2506,Metals and Alloys,3,BY,2025-11-28 17:32:00
+2010,2720,Hematology,3,BY,2025-11-28 17:32:00
+2010,2732,Orthopedics and Sports Medicine,3,BY,2025-11-28 17:32:00
+2010,1305,Biotechnology,2,BY,2025-11-28 17:32:00
+2010,1306,Cancer Research,2,BY,2025-11-28 17:32:00
+2010,1313,Molecular Medicine,2,BY,2025-11-28 17:32:00
+2010,1314,Physiology,2,BY,2025-11-28 17:32:00
+2010,1907,Geology,2,BY,2025-11-28 17:32:00
+2010,1910,Oceanography,2,BY,2025-11-28 17:32:00
+2010,2102,Energy Engineering and Power Technology,2,BY,2025-11-28 17:32:00
+2010,2104,Nuclear Energy and Engineering,2,BY,2025-11-28 17:32:00
+2010,2304,Environmental Chemistry,2,BY,2025-11-28 17:32:00
+2010,2406,Virology,2,BY,2025-11-28 17:32:00
+2010,2707,Complementary and alternative medicine,2,BY,2025-11-28 17:32:00
+2010,2712,"Endocrinology, Diabetes and Metabolism",2,BY,2025-11-28 17:32:00
+2010,2731,Ophthalmology,2,BY,2025-11-28 17:32:00
+2010,2734,Pathology and Forensic Medicine,2,BY,2025-11-28 17:32:00
+2010,2735,"Pediatrics, Perinatology and Child Health",2,BY,2025-11-28 17:32:00
+2010,2916,Nutrition and Dietetics,2,BY,2025-11-28 17:32:00
+2010,3004,Pharmacology,2,BY,2025-11-28 17:32:00
+2010,3105,Instrumentation,2,BY,2025-11-28 17:32:00
+2010,3614,Radiological and Ultrasound Technology,2,BY,2025-11-28 17:32:00
+2010,1103,Animal Science and Zoology,1,BY,2025-11-28 17:32:00
+2010,1204,Archeology,1,BY,2025-11-28 17:32:00
+2010,1308,Clinical Biochemistry,1,BY,2025-11-28 17:32:00
+2010,1315,Structural Biology,1,BY,2025-11-28 17:32:00
+2010,1405,Management of Technology and Innovation,1,BY,2025-11-28 17:32:00
+2010,1708,Hardware and Architecture,1,BY,2025-11-28 17:32:00
+2010,1709,Human-Computer Interaction,1,BY,2025-11-28 17:32:00
+2010,1710,Information Systems,1,BY,2025-11-28 17:32:00
+2010,1712,Software,1,BY,2025-11-28 17:32:00
+2010,1804,"Statistics, Probability and Uncertainty",1,BY,2025-11-28 17:32:00
+2010,1911,Paleontology,1,BY,2025-11-28 17:32:00
+2010,2002,Economics and Econometrics,1,BY,2025-11-28 17:32:00
+2010,2100,General Energy,1,BY,2025-11-28 17:32:00
+2010,2103,Fuel Technology,1,BY,2025-11-28 17:32:00
+2010,2213,"Safety, Risk, Reliability and Quality",1,BY,2025-11-28 17:32:00
+2010,2307,"Health, Toxicology and Mutagenesis",1,BY,2025-11-28 17:32:00
+2010,2602,Algebra and Number Theory,1,BY,2025-11-28 17:32:00
+2010,2608,Geometry and Topology,1,BY,2025-11-28 17:32:00
+2010,2612,Numerical Analysis,1,BY,2025-11-28 17:32:00
+2010,2711,Emergency Medicine,1,BY,2025-11-28 17:32:00
+2010,2716,Genetics,1,BY,2025-11-28 17:32:00
+2010,2723,Immunology and Allergy,1,BY,2025-11-28 17:32:00
+2010,2725,Infectious Diseases,1,BY,2025-11-28 17:32:00
+2010,2728,Neurology,1,BY,2025-11-28 17:32:00
+2010,2743,Reproductive Medicine,1,BY,2025-11-28 17:32:00
+2010,2745,Rheumatology,1,BY,2025-11-28 17:32:00
+2010,3003,Pharmaceutical Science,1,BY,2025-11-28 17:32:00
+2010,3203,Clinical Psychology,1,BY,2025-11-28 17:32:00
+2010,3205,Experimental and Cognitive Psychology,1,BY,2025-11-28 17:32:00
+2010,3312,Sociology and Political Science,1,BY,2025-11-28 17:32:00
+2010,3505,Orthodontics,1,BY,2025-11-28 17:32:00
+2010,3604,Emergency Medical Services,1,BY,2025-11-28 17:32:00
+2011,2505,Materials Chemistry,326,BY,2025-11-28 17:32:00
+2011,2208,Electrical and Electronic Engineering,285,BY,2025-11-28 17:32:00
+2011,3107,"Atomic and Molecular Physics, and Optics",233,BY,2025-11-28 17:32:00
+2011,2210,Mechanical Engineering,196,BY,2025-11-28 17:32:00
+2011,2204,Biomedical Engineering,190,BY,2025-11-28 17:32:00
+2011,2211,Mechanics of Materials,121,BY,2025-11-28 17:32:00
+2011,1312,Molecular Biology,120,BY,2025-11-28 17:32:00
+2011,2504,"Electronic, Optical and Magnetic Materials",119,BY,2025-11-28 17:32:00
+2011,1605,Organic Chemistry,101,BY,2025-11-28 17:32:00
+2011,2206,Computational Mechanics,78,BY,2025-11-28 17:32:00
+2011,3104,Condensed Matter Physics,48,BY,2025-11-28 17:32:00
+2011,2202,Aerospace Engineering,44,BY,2025-11-28 17:32:00
+2011,2500,General Materials Science,39,BY,2025-11-28 17:32:00
+2011,2209,Industrial and Manufacturing Engineering,37,BY,2025-11-28 17:32:00
+2011,1607,Spectroscopy,34,BY,2025-11-28 17:32:00
+2011,2207,Control and Systems Engineering,30,BY,2025-11-28 17:32:00
+2011,1606,Physical and Theoretical Chemistry,24,BY,2025-11-28 17:32:00
+2011,2507,Polymers and Plastics,24,BY,2025-11-28 17:32:00
+2011,2741,"Radiology, Nuclear Medicine and Imaging",24,BY,2025-11-28 17:32:00
+2011,1702,Artificial Intelligence,23,BY,2025-11-28 17:32:00
+2011,2503,Ceramics and Composites,22,BY,2025-11-28 17:32:00
+2011,2205,Civil and Structural Engineering,21,BY,2025-11-28 17:32:00
+2011,2212,Ocean Engineering,20,BY,2025-11-28 17:32:00
+2011,2105,"Renewable Energy, Sustainability and the Environment",19,BY,2025-11-28 17:32:00
+2011,1503,Catalysis,17,BY,2025-11-28 17:32:00
+2011,1110,Plant Science,15,BY,2025-11-28 17:32:00
+2011,1604,Inorganic Chemistry,15,BY,2025-11-28 17:32:00
+2011,3109,Statistical and Nonlinear Physics,15,BY,2025-11-28 17:32:00
+2011,2737,Physiology,14,BY,2025-11-28 17:32:00
+2011,2740,Pulmonary and Respiratory Medicine,13,BY,2025-11-28 17:32:00
+2011,1902,Atmospheric Science,12,BY,2025-11-28 17:32:00
+2011,2607,Discrete Mathematics and Combinatorics,12,BY,2025-11-28 17:32:00
+2011,3108,Radiation,12,BY,2025-11-28 17:32:00
+2011,2203,Automotive Engineering,11,BY,2025-11-28 17:32:00
+2011,2508,"Surfaces, Coatings and Films",11,BY,2025-11-28 17:32:00
+2011,1304,Biophysics,10,BY,2025-11-28 17:32:00
+2011,1306,Cancer Research,9,BY,2025-11-28 17:32:00
+2011,2502,Biomaterials,9,BY,2025-11-28 17:32:00
+2011,2746,Surgery,9,BY,2025-11-28 17:32:00
+2011,3103,Astronomy and Astrophysics,9,BY,2025-11-28 17:32:00
+2011,1307,Cell Biology,8,BY,2025-11-28 17:32:00
+2011,1507,Fluid Flow and Transfer Processes,8,BY,2025-11-28 17:32:00
+2011,1703,Computational Theory and Mathematics,8,BY,2025-11-28 17:32:00
+2011,1908,Geophysics,8,BY,2025-11-28 17:32:00
+2011,2730,Oncology,8,BY,2025-11-28 17:32:00
+2011,3106,Nuclear and High Energy Physics,8,BY,2025-11-28 17:32:00
+2011,1106,Food Science,7,BY,2025-11-28 17:32:00
+2011,1502,Bioengineering,7,BY,2025-11-28 17:32:00
+2011,1705,Computer Networks and Communications,7,BY,2025-11-28 17:32:00
+2011,1707,Computer Vision and Pattern Recognition,7,BY,2025-11-28 17:32:00
+2011,2736,Pharmacology,7,BY,2025-11-28 17:32:00
+2011,3102,Acoustics and Ultrasonics,7,BY,2025-11-28 17:32:00
+2011,2305,Environmental Engineering,6,BY,2025-11-28 17:32:00
+2011,2311,Industrial and Manufacturing Engineering,6,BY,2025-11-28 17:32:00
+2011,2312,Water Science and Technology,6,BY,2025-11-28 17:32:00
+2011,2403,Immunology,6,BY,2025-11-28 17:32:00
+2011,2720,Hematology,6,BY,2025-11-28 17:32:00
+2011,2804,Cellular and Molecular Neuroscience,6,BY,2025-11-28 17:32:00
+2011,1311,Genetics,5,BY,2025-11-28 17:32:00
+2011,2306,Global and Planetary Change,5,BY,2025-11-28 17:32:00
+2011,1305,Biotechnology,4,BY,2025-11-28 17:32:00
+2011,1602,Analytical Chemistry,4,BY,2025-11-28 17:32:00
+2011,2304,Environmental Chemistry,4,BY,2025-11-28 17:32:00
+2011,2610,Mathematical Physics,4,BY,2025-11-28 17:32:00
+2011,2612,Numerical Analysis,4,BY,2025-11-28 17:32:00
+2011,2713,Epidemiology,4,BY,2025-11-28 17:32:00
+2011,2731,Ophthalmology,4,BY,2025-11-28 17:32:00
+2011,2734,Pathology and Forensic Medicine,4,BY,2025-11-28 17:32:00
+2011,2739,"Public Health, Environmental and Occupational Health",4,BY,2025-11-28 17:32:00
+2011,2916,Nutrition and Dietetics,4,BY,2025-11-28 17:32:00
+2011,3003,Pharmaceutical Science,4,BY,2025-11-28 17:32:00
+2011,1204,Archeology,3,BY,2025-11-28 17:32:00
+2011,1303,Biochemistry,3,BY,2025-11-28 17:32:00
+2011,1314,Physiology,3,BY,2025-11-28 17:32:00
+2011,1404,Management Information Systems,3,BY,2025-11-28 17:32:00
+2011,1708,Hardware and Architecture,3,BY,2025-11-28 17:32:00
+2011,2104,Nuclear Energy and Engineering,3,BY,2025-11-28 17:32:00
+2011,2215,Building and Construction,3,BY,2025-11-28 17:32:00
+2011,2303,Ecology,3,BY,2025-11-28 17:32:00
+2011,2608,Geometry and Topology,3,BY,2025-11-28 17:32:00
+2011,2704,Biochemistry,3,BY,2025-11-28 17:32:00
+2011,2725,Infectious Diseases,3,BY,2025-11-28 17:32:00
+2011,2743,Reproductive Medicine,3,BY,2025-11-28 17:32:00
+2011,2808,Neurology,3,BY,2025-11-28 17:32:00
+2011,3004,Pharmacology,3,BY,2025-11-28 17:32:00
+2011,1105,"Ecology, Evolution, Behavior and Systematics",2,BY,2025-11-28 17:32:00
+2011,1315,Structural Biology,2,BY,2025-11-28 17:32:00
+2011,1405,Management of Technology and Innovation,2,BY,2025-11-28 17:32:00
+2011,1506,Filtration and Separation,2,BY,2025-11-28 17:32:00
+2011,1508,Process Chemistry and Technology,2,BY,2025-11-28 17:32:00
+2011,1603,Electrochemistry,2,BY,2025-11-28 17:32:00
+2011,1906,Geochemistry and Petrology,2,BY,2025-11-28 17:32:00
+2011,1910,Oceanography,2,BY,2025-11-28 17:32:00
+2011,2213,"Safety, Risk, Reliability and Quality",2,BY,2025-11-28 17:32:00
+2011,2310,Pollution,2,BY,2025-11-28 17:32:00
+2011,2406,Virology,2,BY,2025-11-28 17:32:00
+2011,2506,Metals and Alloys,2,BY,2025-11-28 17:32:00
+2011,2604,Applied Mathematics,2,BY,2025-11-28 17:32:00
+2011,2705,Cardiology and Cardiovascular Medicine,2,BY,2025-11-28 17:32:00
+2011,2712,"Endocrinology, Diabetes and Metabolism",2,BY,2025-11-28 17:32:00
+2011,2721,Hepatology,2,BY,2025-11-28 17:32:00
+2011,2745,Rheumatology,2,BY,2025-11-28 17:32:00
+2011,2807,Endocrine and Autonomic Systems,2,BY,2025-11-28 17:32:00
+2011,2910,"Issues, ethics and legal aspects",2,BY,2025-11-28 17:32:00
+2011,3105,Instrumentation,2,BY,2025-11-28 17:32:00
+2011,1104,Aquatic Science,1,BY,2025-11-28 17:32:00
+2011,1308,Clinical Biochemistry,1,BY,2025-11-28 17:32:00
+2011,1310,Endocrinology,1,BY,2025-11-28 17:32:00
+2011,1408,Strategy and Management,1,BY,2025-11-28 17:32:00
+2011,1704,Computer Graphics and Computer-Aided Design,1,BY,2025-11-28 17:32:00
+2011,1710,Information Systems,1,BY,2025-11-28 17:32:00
+2011,1711,Signal Processing,1,BY,2025-11-28 17:32:00
+2011,2002,Economics and Econometrics,1,BY,2025-11-28 17:32:00
+2011,2102,Energy Engineering and Power Technology,1,BY,2025-11-28 17:32:00
+2011,2103,Fuel Technology,1,BY,2025-11-28 17:32:00
+2011,2214,Media Technology,1,BY,2025-11-28 17:32:00
+2011,2302,Ecological Modeling,1,BY,2025-11-28 17:32:00
+2011,2308,"Management, Monitoring, Policy and Law",1,BY,2025-11-28 17:32:00
+2011,2309,Nature and Landscape Conservation,1,BY,2025-11-28 17:32:00
+2011,2405,Parasitology,1,BY,2025-11-28 17:32:00
+2011,2702,Anatomy,1,BY,2025-11-28 17:32:00
+2011,2703,Anesthesiology and Pain Medicine,1,BY,2025-11-28 17:32:00
+2011,2706,Critical Care and Intensive Care Medicine,1,BY,2025-11-28 17:32:00
+2011,2708,Dermatology,1,BY,2025-11-28 17:32:00
+2011,2716,Genetics,1,BY,2025-11-28 17:32:00
+2011,2723,Immunology and Allergy,1,BY,2025-11-28 17:32:00
+2011,2724,Internal Medicine,1,BY,2025-11-28 17:32:00
+2011,2732,Orthopedics and Sports Medicine,1,BY,2025-11-28 17:32:00
+2011,2738,Psychiatry and Mental health,1,BY,2025-11-28 17:32:00
+2011,2742,Rehabilitation,1,BY,2025-11-28 17:32:00
+2011,2805,Cognitive Neuroscience,1,BY,2025-11-28 17:32:00
+2011,3320,Political Science and International Relations,1,BY,2025-11-28 17:32:00
+2011,3504,Oral Surgery,1,BY,2025-11-28 17:32:00
+2011,3505,Orthodontics,1,BY,2025-11-28 17:32:00
+2011,3609,Occupational Therapy,1,BY,2025-11-28 17:32:00
+2012,2505,Materials Chemistry,319,BY,2025-11-28 17:32:00
+2012,2208,Electrical and Electronic Engineering,290,BY,2025-11-28 17:32:00
+2012,2210,Mechanical Engineering,215,BY,2025-11-28 17:32:00
+2012,3107,"Atomic and Molecular Physics, and Optics",210,BY,2025-11-28 17:32:00
+2012,2204,Biomedical Engineering,177,BY,2025-11-28 17:32:00
+2012,2211,Mechanics of Materials,148,BY,2025-11-28 17:32:00
+2012,1312,Molecular Biology,137,BY,2025-11-28 17:32:00
+2012,2504,"Electronic, Optical and Magnetic Materials",111,BY,2025-11-28 17:32:00
+2012,1605,Organic Chemistry,100,BY,2025-11-28 17:32:00
+2012,2202,Aerospace Engineering,52,BY,2025-11-28 17:32:00
+2012,2206,Computational Mechanics,52,BY,2025-11-28 17:32:00
+2012,2209,Industrial and Manufacturing Engineering,50,BY,2025-11-28 17:32:00
+2012,2500,General Materials Science,43,BY,2025-11-28 17:32:00
+2012,1606,Physical and Theoretical Chemistry,31,BY,2025-11-28 17:32:00
+2012,1607,Spectroscopy,26,BY,2025-11-28 17:32:00
+2012,3104,Condensed Matter Physics,26,BY,2025-11-28 17:32:00
+2012,2105,"Renewable Energy, Sustainability and the Environment",25,BY,2025-11-28 17:32:00
+2012,2507,Polymers and Plastics,25,BY,2025-11-28 17:32:00
+2012,2207,Control and Systems Engineering,22,BY,2025-11-28 17:32:00
+2012,1604,Inorganic Chemistry,21,BY,2025-11-28 17:32:00
+2012,2212,Ocean Engineering,20,BY,2025-11-28 17:32:00
+2012,2730,Oncology,20,BY,2025-11-28 17:32:00
+2012,3109,Statistical and Nonlinear Physics,20,BY,2025-11-28 17:32:00
+2012,1705,Computer Networks and Communications,19,BY,2025-11-28 17:32:00
+2012,2741,"Radiology, Nuclear Medicine and Imaging",18,BY,2025-11-28 17:32:00
+2012,1702,Artificial Intelligence,17,BY,2025-11-28 17:32:00
+2012,2205,Civil and Structural Engineering,16,BY,2025-11-28 17:32:00
+2012,2740,Pulmonary and Respiratory Medicine,16,BY,2025-11-28 17:32:00
+2012,2203,Automotive Engineering,15,BY,2025-11-28 17:32:00
+2012,1902,Atmospheric Science,14,BY,2025-11-28 17:32:00
+2012,1304,Biophysics,13,BY,2025-11-28 17:32:00
+2012,2503,Ceramics and Composites,13,BY,2025-11-28 17:32:00
+2012,1110,Plant Science,11,BY,2025-11-28 17:32:00
+2012,2508,"Surfaces, Coatings and Films",11,BY,2025-11-28 17:32:00
+2012,3106,Nuclear and High Energy Physics,11,BY,2025-11-28 17:32:00
+2012,2502,Biomaterials,10,BY,2025-11-28 17:32:00
+2012,1106,Food Science,9,BY,2025-11-28 17:32:00
+2012,1307,Cell Biology,9,BY,2025-11-28 17:32:00
+2012,1311,Genetics,9,BY,2025-11-28 17:32:00
+2012,1503,Catalysis,9,BY,2025-11-28 17:32:00
+2012,2607,Discrete Mathematics and Combinatorics,9,BY,2025-11-28 17:32:00
+2012,2746,Surgery,9,BY,2025-11-28 17:32:00
+2012,2804,Cellular and Molecular Neuroscience,9,BY,2025-11-28 17:32:00
+2012,3108,Radiation,9,BY,2025-11-28 17:32:00
+2012,2305,Environmental Engineering,8,BY,2025-11-28 17:32:00
+2012,2737,Physiology,8,BY,2025-11-28 17:32:00
+2012,1404,Management Information Systems,7,BY,2025-11-28 17:32:00
+2012,1507,Fluid Flow and Transfer Processes,7,BY,2025-11-28 17:32:00
+2012,2311,Industrial and Manufacturing Engineering,7,BY,2025-11-28 17:32:00
+2012,2725,Infectious Diseases,7,BY,2025-11-28 17:32:00
+2012,1703,Computational Theory and Mathematics,6,BY,2025-11-28 17:32:00
+2012,1707,Computer Vision and Pattern Recognition,6,BY,2025-11-28 17:32:00
+2012,3004,Pharmacology,6,BY,2025-11-28 17:32:00
+2012,1305,Biotechnology,5,BY,2025-11-28 17:32:00
+2012,1908,Geophysics,5,BY,2025-11-28 17:32:00
+2012,2213,"Safety, Risk, Reliability and Quality",5,BY,2025-11-28 17:32:00
+2012,2215,Building and Construction,5,BY,2025-11-28 17:32:00
+2012,2310,Pollution,5,BY,2025-11-28 17:32:00
+2012,2312,Water Science and Technology,5,BY,2025-11-28 17:32:00
+2012,2612,Numerical Analysis,5,BY,2025-11-28 17:32:00
+2012,2720,Hematology,5,BY,2025-11-28 17:32:00
+2012,3003,Pharmaceutical Science,5,BY,2025-11-28 17:32:00
+2012,3103,Astronomy and Astrophysics,5,BY,2025-11-28 17:32:00
+2012,1306,Cancer Research,4,BY,2025-11-28 17:32:00
+2012,1314,Physiology,4,BY,2025-11-28 17:32:00
+2012,2102,Energy Engineering and Power Technology,4,BY,2025-11-28 17:32:00
+2012,2103,Fuel Technology,4,BY,2025-11-28 17:32:00
+2012,2214,Media Technology,4,BY,2025-11-28 17:32:00
+2012,2306,Global and Planetary Change,4,BY,2025-11-28 17:32:00
+2012,2309,Nature and Landscape Conservation,4,BY,2025-11-28 17:32:00
+2012,2604,Applied Mathematics,4,BY,2025-11-28 17:32:00
+2012,2704,Biochemistry,4,BY,2025-11-28 17:32:00
+2012,2713,Epidemiology,4,BY,2025-11-28 17:32:00
+2012,2734,Pathology and Forensic Medicine,4,BY,2025-11-28 17:32:00
+2012,2736,Pharmacology,4,BY,2025-11-28 17:32:00
+2012,2916,Nutrition and Dietetics,4,BY,2025-11-28 17:32:00
+2012,1105,"Ecology, Evolution, Behavior and Systematics",3,BY,2025-11-28 17:32:00
+2012,1303,Biochemistry,3,BY,2025-11-28 17:32:00
+2012,1502,Bioengineering,3,BY,2025-11-28 17:32:00
+2012,2406,Virology,3,BY,2025-11-28 17:32:00
+2012,2610,Mathematical Physics,3,BY,2025-11-28 17:32:00
+2012,2716,Genetics,3,BY,2025-11-28 17:32:00
+2012,2728,Neurology,3,BY,2025-11-28 17:32:00
+2012,2731,Ophthalmology,3,BY,2025-11-28 17:32:00
+2012,2739,"Public Health, Environmental and Occupational Health",3,BY,2025-11-28 17:32:00
+2012,2805,Cognitive Neuroscience,3,BY,2025-11-28 17:32:00
+2012,1204,Archeology,2,BY,2025-11-28 17:32:00
+2012,1315,Structural Biology,2,BY,2025-11-28 17:32:00
+2012,1405,Management of Technology and Innovation,2,BY,2025-11-28 17:32:00
+2012,1506,Filtration and Separation,2,BY,2025-11-28 17:32:00
+2012,1508,Process Chemistry and Technology,2,BY,2025-11-28 17:32:00
+2012,1602,Analytical Chemistry,2,BY,2025-11-28 17:32:00
+2012,1704,Computer Graphics and Computer-Aided Design,2,BY,2025-11-28 17:32:00
+2012,1710,Information Systems,2,BY,2025-11-28 17:32:00
+2012,1711,Signal Processing,2,BY,2025-11-28 17:32:00
+2012,1804,"Statistics, Probability and Uncertainty",2,BY,2025-11-28 17:32:00
+2012,1910,Oceanography,2,BY,2025-11-28 17:32:00
+2012,2003,Finance,2,BY,2025-11-28 17:32:00
+2012,2104,Nuclear Energy and Engineering,2,BY,2025-11-28 17:32:00
+2012,2403,Immunology,2,BY,2025-11-28 17:32:00
+2012,2506,Metals and Alloys,2,BY,2025-11-28 17:32:00
+2012,2608,Geometry and Topology,2,BY,2025-11-28 17:32:00
+2012,2712,"Endocrinology, Diabetes and Metabolism",2,BY,2025-11-28 17:32:00
+2012,2806,Developmental Neuroscience,2,BY,2025-11-28 17:32:00
+2012,2807,Endocrine and Autonomic Systems,2,BY,2025-11-28 17:32:00
+2012,3005,Toxicology,2,BY,2025-11-28 17:32:00
+2012,3505,Orthodontics,2,BY,2025-11-28 17:32:00
+2012,1109,Insect Science,1,BY,2025-11-28 17:32:00
+2012,1207,History and Philosophy of Science,1,BY,2025-11-28 17:32:00
+2012,1302,Aging,1,BY,2025-11-28 17:32:00
+2012,1308,Clinical Biochemistry,1,BY,2025-11-28 17:32:00
+2012,1313,Molecular Medicine,1,BY,2025-11-28 17:32:00
+2012,1904,Earth-Surface Processes,1,BY,2025-11-28 17:32:00
+2012,1906,Geochemistry and Petrology,1,BY,2025-11-28 17:32:00
+2012,1907,Geology,1,BY,2025-11-28 17:32:00
+2012,2002,Economics and Econometrics,1,BY,2025-11-28 17:32:00
+2012,2303,Ecology,1,BY,2025-11-28 17:32:00
+2012,2304,Environmental Chemistry,1,BY,2025-11-28 17:32:00
+2012,2307,"Health, Toxicology and Mutagenesis",1,BY,2025-11-28 17:32:00
+2012,2308,"Management, Monitoring, Policy and Law",1,BY,2025-11-28 17:32:00
+2012,2404,Microbiology,1,BY,2025-11-28 17:32:00
+2012,2602,Algebra and Number Theory,1,BY,2025-11-28 17:32:00
+2012,2611,Modeling and Simulation,1,BY,2025-11-28 17:32:00
+2012,2702,Anatomy,1,BY,2025-11-28 17:32:00
+2012,2705,Cardiology and Cardiovascular Medicine,1,BY,2025-11-28 17:32:00
+2012,2708,Dermatology,1,BY,2025-11-28 17:32:00
+2012,2735,"Pediatrics, Perinatology and Child Health",1,BY,2025-11-28 17:32:00
+2012,2738,Psychiatry and Mental health,1,BY,2025-11-28 17:32:00
+2012,2742,Rehabilitation,1,BY,2025-11-28 17:32:00
+2012,2743,Reproductive Medicine,1,BY,2025-11-28 17:32:00
+2012,2745,Rheumatology,1,BY,2025-11-28 17:32:00
+2012,2748,Urology,1,BY,2025-11-28 17:32:00
+2012,2808,Neurology,1,BY,2025-11-28 17:32:00
+2012,2809,Sensory Systems,1,BY,2025-11-28 17:32:00
+2012,3102,Acoustics and Ultrasonics,1,BY,2025-11-28 17:32:00
+2012,3105,Instrumentation,1,BY,2025-11-28 17:32:00
+2012,3504,Oral Surgery,1,BY,2025-11-28 17:32:00
+2012,3603,Complementary and Manual Therapy,1,BY,2025-11-28 17:32:00
+2012,3607,Medical Laboratory Technology,1,BY,2025-11-28 17:32:00
+2012,3612,"Physical Therapy, Sports Therapy and Rehabilitation",1,BY,2025-11-28 17:32:00
+2012,3614,Radiological and Ultrasound Technology,1,BY,2025-11-28 17:32:00
+2013,2505,Materials Chemistry,415,BY,2025-11-28 17:32:00
+2013,2208,Electrical and Electronic Engineering,329,BY,2025-11-28 17:32:00
+2013,3107,"Atomic and Molecular Physics, and Optics",243,BY,2025-11-28 17:32:00
+2013,2204,Biomedical Engineering,222,BY,2025-11-28 17:32:00
+2013,2210,Mechanical Engineering,198,BY,2025-11-28 17:32:00
+2013,2211,Mechanics of Materials,161,BY,2025-11-28 17:32:00
+2013,1312,Molecular Biology,155,BY,2025-11-28 17:32:00
+2013,2504,"Electronic, Optical and Magnetic Materials",139,BY,2025-11-28 17:32:00
+2013,1605,Organic Chemistry,104,BY,2025-11-28 17:32:00
+2013,2206,Computational Mechanics,79,BY,2025-11-28 17:32:00
+2013,2202,Aerospace Engineering,59,BY,2025-11-28 17:32:00
+2013,3104,Condensed Matter Physics,53,BY,2025-11-28 17:32:00
+2013,2500,General Materials Science,52,BY,2025-11-28 17:32:00
+2013,2209,Industrial and Manufacturing Engineering,44,BY,2025-11-28 17:32:00
+2013,2507,Polymers and Plastics,36,BY,2025-11-28 17:32:00
+2013,2741,"Radiology, Nuclear Medicine and Imaging",34,BY,2025-11-28 17:32:00
+2013,2503,Ceramics and Composites,33,BY,2025-11-28 17:32:00
+2013,1607,Spectroscopy,27,BY,2025-11-28 17:32:00
+2013,2105,"Renewable Energy, Sustainability and the Environment",22,BY,2025-11-28 17:32:00
+2013,2212,Ocean Engineering,21,BY,2025-11-28 17:32:00
+2013,3108,Radiation,21,BY,2025-11-28 17:32:00
+2013,1110,Plant Science,20,BY,2025-11-28 17:32:00
+2013,2737,Physiology,20,BY,2025-11-28 17:32:00
+2013,1503,Catalysis,19,BY,2025-11-28 17:32:00
+2013,2207,Control and Systems Engineering,19,BY,2025-11-28 17:32:00
+2013,1606,Physical and Theoretical Chemistry,18,BY,2025-11-28 17:32:00
+2013,3109,Statistical and Nonlinear Physics,18,BY,2025-11-28 17:32:00
+2013,2205,Civil and Structural Engineering,17,BY,2025-11-28 17:32:00
+2013,1702,Artificial Intelligence,15,BY,2025-11-28 17:32:00
+2013,3106,Nuclear and High Energy Physics,13,BY,2025-11-28 17:32:00
+2013,1311,Genetics,12,BY,2025-11-28 17:32:00
+2013,1604,Inorganic Chemistry,12,BY,2025-11-28 17:32:00
+2013,1705,Computer Networks and Communications,12,BY,2025-11-28 17:32:00
+2013,2804,Cellular and Molecular Neuroscience,12,BY,2025-11-28 17:32:00
+2013,1304,Biophysics,11,BY,2025-11-28 17:32:00
+2013,2311,Industrial and Manufacturing Engineering,11,BY,2025-11-28 17:32:00
+2013,2736,Pharmacology,11,BY,2025-11-28 17:32:00
+2013,2746,Surgery,11,BY,2025-11-28 17:32:00
+2013,1305,Biotechnology,10,BY,2025-11-28 17:32:00
+2013,1502,Bioengineering,10,BY,2025-11-28 17:32:00
+2013,1902,Atmospheric Science,10,BY,2025-11-28 17:32:00
+2013,2607,Discrete Mathematics and Combinatorics,10,BY,2025-11-28 17:32:00
+2013,1404,Management Information Systems,9,BY,2025-11-28 17:32:00
+2013,2508,"Surfaces, Coatings and Films",9,BY,2025-11-28 17:32:00
+2013,1106,Food Science,8,BY,2025-11-28 17:32:00
+2013,1703,Computational Theory and Mathematics,8,BY,2025-11-28 17:32:00
+2013,2730,Oncology,8,BY,2025-11-28 17:32:00
+2013,3103,Astronomy and Astrophysics,8,BY,2025-11-28 17:32:00
+2013,1306,Cancer Research,7,BY,2025-11-28 17:32:00
+2013,1507,Fluid Flow and Transfer Processes,7,BY,2025-11-28 17:32:00
+2013,2310,Pollution,7,BY,2025-11-28 17:32:00
+2013,2502,Biomaterials,7,BY,2025-11-28 17:32:00
+2013,2713,Epidemiology,7,BY,2025-11-28 17:32:00
+2013,2716,Genetics,7,BY,2025-11-28 17:32:00
+2013,2916,Nutrition and Dietetics,7,BY,2025-11-28 17:32:00
+2013,1303,Biochemistry,6,BY,2025-11-28 17:32:00
+2013,1602,Analytical Chemistry,6,BY,2025-11-28 17:32:00
+2013,1603,Electrochemistry,6,BY,2025-11-28 17:32:00
+2013,1708,Hardware and Architecture,6,BY,2025-11-28 17:32:00
+2013,2712,"Endocrinology, Diabetes and Metabolism",6,BY,2025-11-28 17:32:00
+2013,2740,Pulmonary and Respiratory Medicine,6,BY,2025-11-28 17:32:00
+2013,1707,Computer Vision and Pattern Recognition,5,BY,2025-11-28 17:32:00
+2013,2203,Automotive Engineering,5,BY,2025-11-28 17:32:00
+2013,2215,Building and Construction,5,BY,2025-11-28 17:32:00
+2013,2312,Water Science and Technology,5,BY,2025-11-28 17:32:00
+2013,2704,Biochemistry,5,BY,2025-11-28 17:32:00
+2013,2731,Ophthalmology,5,BY,2025-11-28 17:32:00
+2013,2734,Pathology and Forensic Medicine,5,BY,2025-11-28 17:32:00
+2013,2808,Neurology,5,BY,2025-11-28 17:32:00
+2013,1105,"Ecology, Evolution, Behavior and Systematics",4,BY,2025-11-28 17:32:00
+2013,1204,Archeology,4,BY,2025-11-28 17:32:00
+2013,1307,Cell Biology,4,BY,2025-11-28 17:32:00
+2013,1908,Geophysics,4,BY,2025-11-28 17:32:00
+2013,2104,Nuclear Energy and Engineering,4,BY,2025-11-28 17:32:00
+2013,2213,"Safety, Risk, Reliability and Quality",4,BY,2025-11-28 17:32:00
+2013,2303,Ecology,4,BY,2025-11-28 17:32:00
+2013,2610,Mathematical Physics,4,BY,2025-11-28 17:32:00
+2013,2612,Numerical Analysis,4,BY,2025-11-28 17:32:00
+2013,2725,Infectious Diseases,4,BY,2025-11-28 17:32:00
+2013,2732,Orthopedics and Sports Medicine,4,BY,2025-11-28 17:32:00
+2013,2739,"Public Health, Environmental and Occupational Health",4,BY,2025-11-28 17:32:00
+2013,3004,Pharmacology,4,BY,2025-11-28 17:32:00
+2013,1313,Molecular Medicine,3,BY,2025-11-28 17:32:00
+2013,1314,Physiology,3,BY,2025-11-28 17:32:00
+2013,1315,Structural Biology,3,BY,2025-11-28 17:32:00
+2013,1906,Geochemistry and Petrology,3,BY,2025-11-28 17:32:00
+2013,1910,Oceanography,3,BY,2025-11-28 17:32:00
+2013,2103,Fuel Technology,3,BY,2025-11-28 17:32:00
+2013,2304,Environmental Chemistry,3,BY,2025-11-28 17:32:00
+2013,2305,Environmental Engineering,3,BY,2025-11-28 17:32:00
+2013,2309,Nature and Landscape Conservation,3,BY,2025-11-28 17:32:00
+2013,2403,Immunology,3,BY,2025-11-28 17:32:00
+2013,2406,Virology,3,BY,2025-11-28 17:32:00
+2013,2720,Hematology,3,BY,2025-11-28 17:32:00
+2013,2735,"Pediatrics, Perinatology and Child Health",3,BY,2025-11-28 17:32:00
+2013,3003,Pharmaceutical Science,3,BY,2025-11-28 17:32:00
+2013,1109,Insect Science,2,BY,2025-11-28 17:32:00
+2013,1308,Clinical Biochemistry,2,BY,2025-11-28 17:32:00
+2013,1704,Computer Graphics and Computer-Aided Design,2,BY,2025-11-28 17:32:00
+2013,2102,Energy Engineering and Power Technology,2,BY,2025-11-28 17:32:00
+2013,2214,Media Technology,2,BY,2025-11-28 17:32:00
+2013,2604,Applied Mathematics,2,BY,2025-11-28 17:32:00
+2013,2608,Geometry and Topology,2,BY,2025-11-28 17:32:00
+2013,2708,Dermatology,2,BY,2025-11-28 17:32:00
+2013,3102,Acoustics and Ultrasonics,2,BY,2025-11-28 17:32:00
+2013,3604,Emergency Medical Services,2,BY,2025-11-28 17:32:00
+2013,1103,Animal Science and Zoology,1,BY,2025-11-28 17:32:00
+2013,1104,Aquatic Science,1,BY,2025-11-28 17:32:00
+2013,1302,Aging,1,BY,2025-11-28 17:32:00
+2013,1310,Endocrinology,1,BY,2025-11-28 17:32:00
+2013,1407,Organizational Behavior and Human Resource Management,1,BY,2025-11-28 17:32:00
+2013,1506,Filtration and Separation,1,BY,2025-11-28 17:32:00
+2013,1508,Process Chemistry and Technology,1,BY,2025-11-28 17:32:00
+2013,1711,Signal Processing,1,BY,2025-11-28 17:32:00
+2013,1803,Management Science and Operations Research,1,BY,2025-11-28 17:32:00
+2013,1804,"Statistics, Probability and Uncertainty",1,BY,2025-11-28 17:32:00
+2013,1904,Earth-Surface Processes,1,BY,2025-11-28 17:32:00
+2013,1907,Geology,1,BY,2025-11-28 17:32:00
+2013,2002,Economics and Econometrics,1,BY,2025-11-28 17:32:00
+2013,2003,Finance,1,BY,2025-11-28 17:32:00
+2013,2306,Global and Planetary Change,1,BY,2025-11-28 17:32:00
+2013,2506,Metals and Alloys,1,BY,2025-11-28 17:32:00
+2013,2602,Algebra and Number Theory,1,BY,2025-11-28 17:32:00
+2013,2611,Modeling and Simulation,1,BY,2025-11-28 17:32:00
+2013,2613,Statistics and Probability,1,BY,2025-11-28 17:32:00
+2013,2702,Anatomy,1,BY,2025-11-28 17:32:00
+2013,2707,Complementary and alternative medicine,1,BY,2025-11-28 17:32:00
+2013,2721,Hepatology,1,BY,2025-11-28 17:32:00
+2013,2728,Neurology,1,BY,2025-11-28 17:32:00
+2013,2729,Obstetrics and Gynecology,1,BY,2025-11-28 17:32:00
+2013,2738,Psychiatry and Mental health,1,BY,2025-11-28 17:32:00
+2013,2743,Reproductive Medicine,1,BY,2025-11-28 17:32:00
+2013,2745,Rheumatology,1,BY,2025-11-28 17:32:00
+2013,2747,Transplantation,1,BY,2025-11-28 17:32:00
+2013,2806,Developmental Neuroscience,1,BY,2025-11-28 17:32:00
+2013,3005,Toxicology,1,BY,2025-11-28 17:32:00
+2013,3105,Instrumentation,1,BY,2025-11-28 17:32:00
+2013,3303,Development,1,BY,2025-11-28 17:32:00
+2013,3320,Political Science and International Relations,1,BY,2025-11-28 17:32:00
+2013,3614,Radiological and Ultrasound Technology,1,BY,2025-11-28 17:32:00
+2014,2505,Materials Chemistry,360,BY,2025-11-28 17:32:00
+2014,2208,Electrical and Electronic Engineering,342,BY,2025-11-28 17:32:00
+2014,2210,Mechanical Engineering,306,BY,2025-11-28 17:32:00
+2014,2204,Biomedical Engineering,217,BY,2025-11-28 17:32:00
+2014,3107,"Atomic and Molecular Physics, and Optics",214,BY,2025-11-28 17:32:00
+2014,2211,Mechanics of Materials,192,BY,2025-11-28 17:32:00
+2014,1312,Molecular Biology,178,BY,2025-11-28 17:32:00
+2014,2504,"Electronic, Optical and Magnetic Materials",115,BY,2025-11-28 17:32:00
+2014,2206,Computational Mechanics,95,BY,2025-11-28 17:32:00
+2014,1605,Organic Chemistry,93,BY,2025-11-28 17:32:00
+2014,2500,General Materials Science,90,BY,2025-11-28 17:32:00
+2014,2209,Industrial and Manufacturing Engineering,72,BY,2025-11-28 17:32:00
+2014,2205,Civil and Structural Engineering,38,BY,2025-11-28 17:32:00
+2014,2507,Polymers and Plastics,37,BY,2025-11-28 17:32:00
+2014,2202,Aerospace Engineering,36,BY,2025-11-28 17:32:00
+2014,2105,"Renewable Energy, Sustainability and the Environment",35,BY,2025-11-28 17:32:00
+2014,2212,Ocean Engineering,35,BY,2025-11-28 17:32:00
+2014,2207,Control and Systems Engineering,33,BY,2025-11-28 17:32:00
+2014,3104,Condensed Matter Physics,33,BY,2025-11-28 17:32:00
+2014,2503,Ceramics and Composites,31,BY,2025-11-28 17:32:00
+2014,1606,Physical and Theoretical Chemistry,29,BY,2025-11-28 17:32:00
+2014,1607,Spectroscopy,28,BY,2025-11-28 17:32:00
+2014,3109,Statistical and Nonlinear Physics,25,BY,2025-11-28 17:32:00
+2014,1702,Artificial Intelligence,23,BY,2025-11-28 17:32:00
+2014,2740,Pulmonary and Respiratory Medicine,22,BY,2025-11-28 17:32:00
+2014,2502,Biomaterials,20,BY,2025-11-28 17:32:00
+2014,2741,"Radiology, Nuclear Medicine and Imaging",20,BY,2025-11-28 17:32:00
+2014,1110,Plant Science,19,BY,2025-11-28 17:32:00
+2014,1705,Computer Networks and Communications,19,BY,2025-11-28 17:32:00
+2014,1604,Inorganic Chemistry,17,BY,2025-11-28 17:32:00
+2014,2730,Oncology,17,BY,2025-11-28 17:32:00
+2014,1603,Electrochemistry,15,BY,2025-11-28 17:32:00
+2014,2203,Automotive Engineering,15,BY,2025-11-28 17:32:00
+2014,3106,Nuclear and High Energy Physics,15,BY,2025-11-28 17:32:00
+2014,3108,Radiation,14,BY,2025-11-28 17:32:00
+2014,1703,Computational Theory and Mathematics,12,BY,2025-11-28 17:32:00
+2014,2305,Environmental Engineering,12,BY,2025-11-28 17:32:00
+2014,2746,Surgery,12,BY,2025-11-28 17:32:00
+2014,1106,Food Science,11,BY,2025-11-28 17:32:00
+2014,1305,Biotechnology,11,BY,2025-11-28 17:32:00
+2014,1307,Cell Biology,11,BY,2025-11-28 17:32:00
+2014,1503,Catalysis,11,BY,2025-11-28 17:32:00
+2014,2215,Building and Construction,11,BY,2025-11-28 17:32:00
+2014,3103,Astronomy and Astrophysics,11,BY,2025-11-28 17:32:00
+2014,1304,Biophysics,10,BY,2025-11-28 17:32:00
+2014,2310,Pollution,10,BY,2025-11-28 17:32:00
+2014,2607,Discrete Mathematics and Combinatorics,10,BY,2025-11-28 17:32:00
+2014,1311,Genetics,9,BY,2025-11-28 17:32:00
+2014,2804,Cellular and Molecular Neuroscience,9,BY,2025-11-28 17:32:00
+2014,1303,Biochemistry,8,BY,2025-11-28 17:32:00
+2014,1404,Management Information Systems,8,BY,2025-11-28 17:32:00
+2014,1502,Bioengineering,8,BY,2025-11-28 17:32:00
+2014,1707,Computer Vision and Pattern Recognition,8,BY,2025-11-28 17:32:00
+2014,1902,Atmospheric Science,8,BY,2025-11-28 17:32:00
+2014,2508,"Surfaces, Coatings and Films",8,BY,2025-11-28 17:32:00
+2014,2737,Physiology,8,BY,2025-11-28 17:32:00
+2014,1306,Cancer Research,7,BY,2025-11-28 17:32:00
+2014,1908,Geophysics,7,BY,2025-11-28 17:32:00
+2014,1507,Fluid Flow and Transfer Processes,6,BY,2025-11-28 17:32:00
+2014,1602,Analytical Chemistry,6,BY,2025-11-28 17:32:00
+2014,2306,Global and Planetary Change,6,BY,2025-11-28 17:32:00
+2014,2403,Immunology,6,BY,2025-11-28 17:32:00
+2014,2705,Cardiology and Cardiovascular Medicine,6,BY,2025-11-28 17:32:00
+2014,2734,Pathology and Forensic Medicine,6,BY,2025-11-28 17:32:00
+2014,2735,"Pediatrics, Perinatology and Child Health",6,BY,2025-11-28 17:32:00
+2014,2604,Applied Mathematics,5,BY,2025-11-28 17:32:00
+2014,2736,Pharmacology,5,BY,2025-11-28 17:32:00
+2014,2808,Neurology,5,BY,2025-11-28 17:32:00
+2014,3004,Pharmacology,5,BY,2025-11-28 17:32:00
+2014,2102,Energy Engineering and Power Technology,4,BY,2025-11-28 17:32:00
+2014,2103,Fuel Technology,4,BY,2025-11-28 17:32:00
+2014,2104,Nuclear Energy and Engineering,4,BY,2025-11-28 17:32:00
+2014,2304,Environmental Chemistry,4,BY,2025-11-28 17:32:00
+2014,2311,Industrial and Manufacturing Engineering,4,BY,2025-11-28 17:32:00
+2014,2712,"Endocrinology, Diabetes and Metabolism",4,BY,2025-11-28 17:32:00
+2014,2716,Genetics,4,BY,2025-11-28 17:32:00
+2014,2720,Hematology,4,BY,2025-11-28 17:32:00
+2014,2725,Infectious Diseases,4,BY,2025-11-28 17:32:00
+2014,2727,Nephrology,4,BY,2025-11-28 17:32:00
+2014,2805,Cognitive Neuroscience,4,BY,2025-11-28 17:32:00
+2014,2916,Nutrition and Dietetics,4,BY,2025-11-28 17:32:00
+2014,3102,Acoustics and Ultrasonics,4,BY,2025-11-28 17:32:00
+2014,1105,"Ecology, Evolution, Behavior and Systematics",3,BY,2025-11-28 17:32:00
+2014,1204,Archeology,3,BY,2025-11-28 17:32:00
+2014,1313,Molecular Medicine,3,BY,2025-11-28 17:32:00
+2014,1708,Hardware and Architecture,3,BY,2025-11-28 17:32:00
+2014,1804,"Statistics, Probability and Uncertainty",3,BY,2025-11-28 17:32:00
+2014,2213,"Safety, Risk, Reliability and Quality",3,BY,2025-11-28 17:32:00
+2014,2214,Media Technology,3,BY,2025-11-28 17:32:00
+2014,2303,Ecology,3,BY,2025-11-28 17:32:00
+2014,2309,Nature and Landscape Conservation,3,BY,2025-11-28 17:32:00
+2014,2406,Virology,3,BY,2025-11-28 17:32:00
+2014,2506,Metals and Alloys,3,BY,2025-11-28 17:32:00
+2014,2610,Mathematical Physics,3,BY,2025-11-28 17:32:00
+2014,2704,Biochemistry,3,BY,2025-11-28 17:32:00
+2014,2739,"Public Health, Environmental and Occupational Health",3,BY,2025-11-28 17:32:00
+2014,3003,Pharmaceutical Science,3,BY,2025-11-28 17:32:00
+2014,1103,Animal Science and Zoology,2,BY,2025-11-28 17:32:00
+2014,1104,Aquatic Science,2,BY,2025-11-28 17:32:00
+2014,1109,Insect Science,2,BY,2025-11-28 17:32:00
+2014,1111,Soil Science,2,BY,2025-11-28 17:32:00
+2014,1207,History and Philosophy of Science,2,BY,2025-11-28 17:32:00
+2014,1508,Process Chemistry and Technology,2,BY,2025-11-28 17:32:00
+2014,1710,Information Systems,2,BY,2025-11-28 17:32:00
+2014,1906,Geochemistry and Petrology,2,BY,2025-11-28 17:32:00
+2014,1910,Oceanography,2,BY,2025-11-28 17:32:00
+2014,2312,Water Science and Technology,2,BY,2025-11-28 17:32:00
+2014,2602,Algebra and Number Theory,2,BY,2025-11-28 17:32:00
+2014,2707,Complementary and alternative medicine,2,BY,2025-11-28 17:32:00
+2014,2713,Epidemiology,2,BY,2025-11-28 17:32:00
+2014,2728,Neurology,2,BY,2025-11-28 17:32:00
+2014,2732,Orthopedics and Sports Medicine,2,BY,2025-11-28 17:32:00
+2014,2743,Reproductive Medicine,2,BY,2025-11-28 17:32:00
+2014,2745,Rheumatology,2,BY,2025-11-28 17:32:00
+2014,2809,Sensory Systems,2,BY,2025-11-28 17:32:00
+2014,1107,Forestry,1,BY,2025-11-28 17:32:00
+2014,1308,Clinical Biochemistry,1,BY,2025-11-28 17:32:00
+2014,1310,Endocrinology,1,BY,2025-11-28 17:32:00
+2014,1405,Management of Technology and Innovation,1,BY,2025-11-28 17:32:00
+2014,1704,Computer Graphics and Computer-Aided Design,1,BY,2025-11-28 17:32:00
+2014,1711,Signal Processing,1,BY,2025-11-28 17:32:00
+2014,1904,Earth-Surface Processes,1,BY,2025-11-28 17:32:00
+2014,1907,Geology,1,BY,2025-11-28 17:32:00
+2014,2002,Economics and Econometrics,1,BY,2025-11-28 17:32:00
+2014,2100,General Energy,1,BY,2025-11-28 17:32:00
+2014,2308,"Management, Monitoring, Policy and Law",1,BY,2025-11-28 17:32:00
+2014,2404,Microbiology,1,BY,2025-11-28 17:32:00
+2014,2611,Modeling and Simulation,1,BY,2025-11-28 17:32:00
+2014,2612,Numerical Analysis,1,BY,2025-11-28 17:32:00
+2014,2702,Anatomy,1,BY,2025-11-28 17:32:00
+2014,2706,Critical Care and Intensive Care Medicine,1,BY,2025-11-28 17:32:00
+2014,2711,Emergency Medicine,1,BY,2025-11-28 17:32:00
+2014,2731,Ophthalmology,1,BY,2025-11-28 17:32:00
+2014,2738,Psychiatry and Mental health,1,BY,2025-11-28 17:32:00
+2014,2742,Rehabilitation,1,BY,2025-11-28 17:32:00
+2014,2807,Endocrine and Autonomic Systems,1,BY,2025-11-28 17:32:00
+2014,3005,Toxicology,1,BY,2025-11-28 17:32:00
+2014,3105,Instrumentation,1,BY,2025-11-28 17:32:00
+2014,3207,Social Psychology,1,BY,2025-11-28 17:32:00
+2014,3504,Oral Surgery,1,BY,2025-11-28 17:32:00
+2014,3505,Orthodontics,1,BY,2025-11-28 17:32:00
+2014,3600,General Health Professions,1,BY,2025-11-28 17:32:00
+2014,3603,Complementary and Manual Therapy,1,BY,2025-11-28 17:32:00
+2014,3604,Emergency Medical Services,1,BY,2025-11-28 17:32:00
+2014,3616,Speech and Hearing,1,BY,2025-11-28 17:32:00
+2015,2505,Materials Chemistry,450,BY,2025-11-28 17:32:00
+2015,2210,Mechanical Engineering,385,BY,2025-11-28 17:32:00
+2015,2208,Electrical and Electronic Engineering,357,BY,2025-11-28 17:32:00
+2015,2204,Biomedical Engineering,248,BY,2025-11-28 17:32:00
+2015,3107,"Atomic and Molecular Physics, and Optics",236,BY,2025-11-28 17:32:00
+2015,2211,Mechanics of Materials,225,BY,2025-11-28 17:32:00
+2015,1312,Molecular Biology,155,BY,2025-11-28 17:32:00
+2015,2500,General Materials Science,149,BY,2025-11-28 17:32:00
+2015,2504,"Electronic, Optical and Magnetic Materials",149,BY,2025-11-28 17:32:00
+2015,2209,Industrial and Manufacturing Engineering,114,BY,2025-11-28 17:32:00
+2015,1605,Organic Chemistry,111,BY,2025-11-28 17:32:00
+2015,2206,Computational Mechanics,100,BY,2025-11-28 17:32:00
+2015,2202,Aerospace Engineering,64,BY,2025-11-28 17:32:00
+2015,2212,Ocean Engineering,53,BY,2025-11-28 17:32:00
+2015,2507,Polymers and Plastics,49,BY,2025-11-28 17:32:00
+2015,3104,Condensed Matter Physics,42,BY,2025-11-28 17:32:00
+2015,1607,Spectroscopy,41,BY,2025-11-28 17:32:00
+2015,2207,Control and Systems Engineering,37,BY,2025-11-28 17:32:00
+2015,1702,Artificial Intelligence,32,BY,2025-11-28 17:32:00
+2015,2205,Civil and Structural Engineering,29,BY,2025-11-28 17:32:00
+2015,2503,Ceramics and Composites,28,BY,2025-11-28 17:32:00
+2015,2741,"Radiology, Nuclear Medicine and Imaging",27,BY,2025-11-28 17:32:00
+2015,1604,Inorganic Chemistry,25,BY,2025-11-28 17:32:00
+2015,2607,Discrete Mathematics and Combinatorics,22,BY,2025-11-28 17:32:00
+2015,1606,Physical and Theoretical Chemistry,21,BY,2025-11-28 17:32:00
+2015,2105,"Renewable Energy, Sustainability and the Environment",20,BY,2025-11-28 17:32:00
+2015,2740,Pulmonary and Respiratory Medicine,20,BY,2025-11-28 17:32:00
+2015,2215,Building and Construction,17,BY,2025-11-28 17:32:00
+2015,2508,"Surfaces, Coatings and Films",16,BY,2025-11-28 17:32:00
+2015,3108,Radiation,15,BY,2025-11-28 17:32:00
+2015,1311,Genetics,14,BY,2025-11-28 17:32:00
+2015,1110,Plant Science,12,BY,2025-11-28 17:32:00
+2015,2502,Biomaterials,12,BY,2025-11-28 17:32:00
+2015,2604,Applied Mathematics,12,BY,2025-11-28 17:32:00
+2015,2737,Physiology,12,BY,2025-11-28 17:32:00
+2015,3106,Nuclear and High Energy Physics,12,BY,2025-11-28 17:32:00
+2015,3109,Statistical and Nonlinear Physics,12,BY,2025-11-28 17:32:00
+2015,1503,Catalysis,10,BY,2025-11-28 17:32:00
+2015,1705,Computer Networks and Communications,10,BY,2025-11-28 17:32:00
+2015,2730,Oncology,10,BY,2025-11-28 17:32:00
+2015,1303,Biochemistry,9,BY,2025-11-28 17:32:00
+2015,1304,Biophysics,9,BY,2025-11-28 17:32:00
+2015,1603,Electrochemistry,9,BY,2025-11-28 17:32:00
+2015,2203,Automotive Engineering,9,BY,2025-11-28 17:32:00
+2015,2746,Surgery,9,BY,2025-11-28 17:32:00
+2015,3103,Astronomy and Astrophysics,9,BY,2025-11-28 17:32:00
+2015,1502,Bioengineering,8,BY,2025-11-28 17:32:00
+2015,1902,Atmospheric Science,8,BY,2025-11-28 17:32:00
+2015,2305,Environmental Engineering,8,BY,2025-11-28 17:32:00
+2015,2804,Cellular and Molecular Neuroscience,8,BY,2025-11-28 17:32:00
+2015,1707,Computer Vision and Pattern Recognition,7,BY,2025-11-28 17:32:00
+2015,2310,Pollution,7,BY,2025-11-28 17:32:00
+2015,2403,Immunology,7,BY,2025-11-28 17:32:00
+2015,1305,Biotechnology,6,BY,2025-11-28 17:32:00
+2015,1314,Physiology,6,BY,2025-11-28 17:32:00
+2015,1404,Management Information Systems,6,BY,2025-11-28 17:32:00
+2015,1908,Geophysics,6,BY,2025-11-28 17:32:00
+2015,2214,Media Technology,6,BY,2025-11-28 17:32:00
+2015,2312,Water Science and Technology,6,BY,2025-11-28 17:32:00
+2015,2610,Mathematical Physics,6,BY,2025-11-28 17:32:00
+2015,2705,Cardiology and Cardiovascular Medicine,6,BY,2025-11-28 17:32:00
+2015,1106,Food Science,5,BY,2025-11-28 17:32:00
+2015,1405,Management of Technology and Innovation,5,BY,2025-11-28 17:32:00
+2015,1507,Fluid Flow and Transfer Processes,5,BY,2025-11-28 17:32:00
+2015,2311,Industrial and Manufacturing Engineering,5,BY,2025-11-28 17:32:00
+2015,2736,Pharmacology,5,BY,2025-11-28 17:32:00
+2015,3003,Pharmaceutical Science,5,BY,2025-11-28 17:32:00
+2015,1508,Process Chemistry and Technology,4,BY,2025-11-28 17:32:00
+2015,1602,Analytical Chemistry,4,BY,2025-11-28 17:32:00
+2015,1703,Computational Theory and Mathematics,4,BY,2025-11-28 17:32:00
+2015,1708,Hardware and Architecture,4,BY,2025-11-28 17:32:00
+2015,1711,Signal Processing,4,BY,2025-11-28 17:32:00
+2015,2103,Fuel Technology,4,BY,2025-11-28 17:32:00
+2015,2303,Ecology,4,BY,2025-11-28 17:32:00
+2015,2309,Nature and Landscape Conservation,4,BY,2025-11-28 17:32:00
+2015,2716,Genetics,4,BY,2025-11-28 17:32:00
+2015,2916,Nutrition and Dietetics,4,BY,2025-11-28 17:32:00
+2015,1306,Cancer Research,3,BY,2025-11-28 17:32:00
+2015,1506,Filtration and Separation,3,BY,2025-11-28 17:32:00
+2015,1803,Management Science and Operations Research,3,BY,2025-11-28 17:32:00
+2015,2307,"Health, Toxicology and Mutagenesis",3,BY,2025-11-28 17:32:00
+2015,2406,Virology,3,BY,2025-11-28 17:32:00
+2015,2612,Numerical Analysis,3,BY,2025-11-28 17:32:00
+2015,2704,Biochemistry,3,BY,2025-11-28 17:32:00
+2015,2712,"Endocrinology, Diabetes and Metabolism",3,BY,2025-11-28 17:32:00
+2015,2713,Epidemiology,3,BY,2025-11-28 17:32:00
+2015,2720,Hematology,3,BY,2025-11-28 17:32:00
+2015,2721,Hepatology,3,BY,2025-11-28 17:32:00
+2015,3004,Pharmacology,3,BY,2025-11-28 17:32:00
+2015,3504,Oral Surgery,3,BY,2025-11-28 17:32:00
+2015,3505,Orthodontics,3,BY,2025-11-28 17:32:00
+2015,1100,General Agricultural and Biological Sciences,2,BY,2025-11-28 17:32:00
+2015,1104,Aquatic Science,2,BY,2025-11-28 17:32:00
+2015,1105,"Ecology, Evolution, Behavior and Systematics",2,BY,2025-11-28 17:32:00
+2015,1315,Structural Biology,2,BY,2025-11-28 17:32:00
+2015,1704,Computer Graphics and Computer-Aided Design,2,BY,2025-11-28 17:32:00
+2015,1710,Information Systems,2,BY,2025-11-28 17:32:00
+2015,1906,Geochemistry and Petrology,2,BY,2025-11-28 17:32:00
+2015,2302,Ecological Modeling,2,BY,2025-11-28 17:32:00
+2015,2304,Environmental Chemistry,2,BY,2025-11-28 17:32:00
+2015,2306,Global and Planetary Change,2,BY,2025-11-28 17:32:00
+2015,2308,"Management, Monitoring, Policy and Law",2,BY,2025-11-28 17:32:00
+2015,2602,Algebra and Number Theory,2,BY,2025-11-28 17:32:00
+2015,2725,Infectious Diseases,2,BY,2025-11-28 17:32:00
+2015,2729,Obstetrics and Gynecology,2,BY,2025-11-28 17:32:00
+2015,2731,Ophthalmology,2,BY,2025-11-28 17:32:00
+2015,2734,Pathology and Forensic Medicine,2,BY,2025-11-28 17:32:00
+2015,2809,Sensory Systems,2,BY,2025-11-28 17:32:00
+2015,3303,Development,2,BY,2025-11-28 17:32:00
+2015,3320,Political Science and International Relations,2,BY,2025-11-28 17:32:00
+2015,1103,Animal Science and Zoology,1,BY,2025-11-28 17:32:00
+2015,1307,Cell Biology,1,BY,2025-11-28 17:32:00
+2015,1308,Clinical Biochemistry,1,BY,2025-11-28 17:32:00
+2015,1310,Endocrinology,1,BY,2025-11-28 17:32:00
+2015,1313,Molecular Medicine,1,BY,2025-11-28 17:32:00
+2015,1712,Software,1,BY,2025-11-28 17:32:00
+2015,1804,"Statistics, Probability and Uncertainty",1,BY,2025-11-28 17:32:00
+2015,1904,Earth-Surface Processes,1,BY,2025-11-28 17:32:00
+2015,2002,Economics and Econometrics,1,BY,2025-11-28 17:32:00
+2015,2102,Energy Engineering and Power Technology,1,BY,2025-11-28 17:32:00
+2015,2104,Nuclear Energy and Engineering,1,BY,2025-11-28 17:32:00
+2015,2200,General Engineering,1,BY,2025-11-28 17:32:00
+2015,2213,"Safety, Risk, Reliability and Quality",1,BY,2025-11-28 17:32:00
+2015,2404,Microbiology,1,BY,2025-11-28 17:32:00
+2015,2506,Metals and Alloys,1,BY,2025-11-28 17:32:00
+2015,2613,Statistics and Probability,1,BY,2025-11-28 17:32:00
+2015,2707,Complementary and alternative medicine,1,BY,2025-11-28 17:32:00
+2015,2728,Neurology,1,BY,2025-11-28 17:32:00
+2015,2739,"Public Health, Environmental and Occupational Health",1,BY,2025-11-28 17:32:00
+2015,2742,Rehabilitation,1,BY,2025-11-28 17:32:00
+2015,2743,Reproductive Medicine,1,BY,2025-11-28 17:32:00
+2015,2745,Rheumatology,1,BY,2025-11-28 17:32:00
+2015,2806,Developmental Neuroscience,1,BY,2025-11-28 17:32:00
+2015,2808,Neurology,1,BY,2025-11-28 17:32:00
+2015,3102,Acoustics and Ultrasonics,1,BY,2025-11-28 17:32:00
+2015,3105,Instrumentation,1,BY,2025-11-28 17:32:00
+2015,3312,Sociology and Political Science,1,BY,2025-11-28 17:32:00
+2015,3313,Transportation,1,BY,2025-11-28 17:32:00
+2015,3317,Demography,1,BY,2025-11-28 17:32:00
+2015,3506,Periodontics,1,BY,2025-11-28 17:32:00
+2015,3603,Complementary and Manual Therapy,1,BY,2025-11-28 17:32:00
+2015,3604,Emergency Medical Services,1,BY,2025-11-28 17:32:00
+2015,3609,Occupational Therapy,1,BY,2025-11-28 17:32:00
+2015,3612,"Physical Therapy, Sports Therapy and Rehabilitation",1,BY,2025-11-28 17:32:00
+2016,2505,Materials Chemistry,447,BY,2025-11-28 17:32:00
+2016,2210,Mechanical Engineering,404,BY,2025-11-28 17:32:00
+2016,2208,Electrical and Electronic Engineering,343,BY,2025-11-28 17:32:00
+2016,2204,Biomedical Engineering,244,BY,2025-11-28 17:32:00
+2016,2211,Mechanics of Materials,227,BY,2025-11-28 17:32:00
+2016,3107,"Atomic and Molecular Physics, and Optics",216,BY,2025-11-28 17:32:00
+2016,2504,"Electronic, Optical and Magnetic Materials",146,BY,2025-11-28 17:32:00
+2016,1312,Molecular Biology,140,BY,2025-11-28 17:32:00
+2016,2500,General Materials Science,128,BY,2025-11-28 17:32:00
+2016,2209,Industrial and Manufacturing Engineering,122,BY,2025-11-28 17:32:00
+2016,2206,Computational Mechanics,87,BY,2025-11-28 17:32:00
+2016,1605,Organic Chemistry,70,BY,2025-11-28 17:32:00
+2016,2202,Aerospace Engineering,59,BY,2025-11-28 17:32:00
+2016,2212,Ocean Engineering,58,BY,2025-11-28 17:32:00
+2016,3104,Condensed Matter Physics,39,BY,2025-11-28 17:32:00
+2016,2503,Ceramics and Composites,36,BY,2025-11-28 17:32:00
+2016,2507,Polymers and Plastics,34,BY,2025-11-28 17:32:00
+2016,2105,"Renewable Energy, Sustainability and the Environment",30,BY,2025-11-28 17:32:00
+2016,2205,Civil and Structural Engineering,28,BY,2025-11-28 17:32:00
+2016,1607,Spectroscopy,27,BY,2025-11-28 17:32:00
+2016,1702,Artificial Intelligence,27,BY,2025-11-28 17:32:00
+2016,1606,Physical and Theoretical Chemistry,26,BY,2025-11-28 17:32:00
+2016,2741,"Radiology, Nuclear Medicine and Imaging",24,BY,2025-11-28 17:32:00
+2016,2207,Control and Systems Engineering,23,BY,2025-11-28 17:32:00
+2016,2502,Biomaterials,23,BY,2025-11-28 17:32:00
+2016,3108,Radiation,21,BY,2025-11-28 17:32:00
+2016,2312,Water Science and Technology,20,BY,2025-11-28 17:32:00
+2016,3106,Nuclear and High Energy Physics,17,BY,2025-11-28 17:32:00
+2016,1902,Atmospheric Science,16,BY,2025-11-28 17:32:00
+2016,1703,Computational Theory and Mathematics,14,BY,2025-11-28 17:32:00
+2016,1705,Computer Networks and Communications,14,BY,2025-11-28 17:32:00
+2016,2607,Discrete Mathematics and Combinatorics,14,BY,2025-11-28 17:32:00
+2016,2740,Pulmonary and Respiratory Medicine,14,BY,2025-11-28 17:32:00
+2016,1503,Catalysis,13,BY,2025-11-28 17:32:00
+2016,2203,Automotive Engineering,13,BY,2025-11-28 17:32:00
+2016,2730,Oncology,12,BY,2025-11-28 17:32:00
+2016,1304,Biophysics,11,BY,2025-11-28 17:32:00
+2016,1404,Management Information Systems,11,BY,2025-11-28 17:32:00
+2016,1110,Plant Science,10,BY,2025-11-28 17:32:00
+2016,1603,Electrochemistry,10,BY,2025-11-28 17:32:00
+2016,1707,Computer Vision and Pattern Recognition,10,BY,2025-11-28 17:32:00
+2016,2215,Building and Construction,10,BY,2025-11-28 17:32:00
+2016,2305,Environmental Engineering,10,BY,2025-11-28 17:32:00
+2016,2508,"Surfaces, Coatings and Films",10,BY,2025-11-28 17:32:00
+2016,2804,Cellular and Molecular Neuroscience,10,BY,2025-11-28 17:32:00
+2016,2734,Pathology and Forensic Medicine,9,BY,2025-11-28 17:32:00
+2016,1307,Cell Biology,8,BY,2025-11-28 17:32:00
+2016,1311,Genetics,8,BY,2025-11-28 17:32:00
+2016,1602,Analytical Chemistry,8,BY,2025-11-28 17:32:00
+2016,2103,Fuel Technology,8,BY,2025-11-28 17:32:00
+2016,2604,Applied Mathematics,8,BY,2025-11-28 17:32:00
+2016,1502,Bioengineering,7,BY,2025-11-28 17:32:00
+2016,2213,"Safety, Risk, Reliability and Quality",7,BY,2025-11-28 17:32:00
+2016,2311,Industrial and Manufacturing Engineering,7,BY,2025-11-28 17:32:00
+2016,2736,Pharmacology,7,BY,2025-11-28 17:32:00
+2016,2737,Physiology,7,BY,2025-11-28 17:32:00
+2016,3109,Statistical and Nonlinear Physics,7,BY,2025-11-28 17:32:00
+2016,1314,Physiology,6,BY,2025-11-28 17:32:00
+2016,1604,Inorganic Chemistry,6,BY,2025-11-28 17:32:00
+2016,2104,Nuclear Energy and Engineering,6,BY,2025-11-28 17:32:00
+2016,2303,Ecology,6,BY,2025-11-28 17:32:00
+2016,2310,Pollution,6,BY,2025-11-28 17:32:00
+2016,2610,Mathematical Physics,6,BY,2025-11-28 17:32:00
+2016,2612,Numerical Analysis,6,BY,2025-11-28 17:32:00
+2016,2705,Cardiology and Cardiovascular Medicine,6,BY,2025-11-28 17:32:00
+2016,2713,Epidemiology,6,BY,2025-11-28 17:32:00
+2016,2746,Surgery,6,BY,2025-11-28 17:32:00
+2016,3003,Pharmaceutical Science,6,BY,2025-11-28 17:32:00
+2016,3103,Astronomy and Astrophysics,6,BY,2025-11-28 17:32:00
+2016,1306,Cancer Research,5,BY,2025-11-28 17:32:00
+2016,1908,Geophysics,5,BY,2025-11-28 17:32:00
+2016,2309,Nature and Landscape Conservation,5,BY,2025-11-28 17:32:00
+2016,2403,Immunology,5,BY,2025-11-28 17:32:00
+2016,1104,Aquatic Science,4,BY,2025-11-28 17:32:00
+2016,1106,Food Science,4,BY,2025-11-28 17:32:00
+2016,1303,Biochemistry,4,BY,2025-11-28 17:32:00
+2016,1507,Fluid Flow and Transfer Processes,4,BY,2025-11-28 17:32:00
+2016,1711,Signal Processing,4,BY,2025-11-28 17:32:00
+2016,2214,Media Technology,4,BY,2025-11-28 17:32:00
+2016,2712,"Endocrinology, Diabetes and Metabolism",4,BY,2025-11-28 17:32:00
+2016,2725,Infectious Diseases,4,BY,2025-11-28 17:32:00
+2016,2916,Nutrition and Dietetics,4,BY,2025-11-28 17:32:00
+2016,1102,Agronomy and Crop Science,3,BY,2025-11-28 17:32:00
+2016,1105,"Ecology, Evolution, Behavior and Systematics",3,BY,2025-11-28 17:32:00
+2016,2102,Energy Engineering and Power Technology,3,BY,2025-11-28 17:32:00
+2016,2306,Global and Planetary Change,3,BY,2025-11-28 17:32:00
+2016,2743,Reproductive Medicine,3,BY,2025-11-28 17:32:00
+2016,2745,Rheumatology,3,BY,2025-11-28 17:32:00
+2016,3004,Pharmacology,3,BY,2025-11-28 17:32:00
+2016,3504,Oral Surgery,3,BY,2025-11-28 17:32:00
+2016,3505,Orthodontics,3,BY,2025-11-28 17:32:00
+2016,1100,General Agricultural and Biological Sciences,2,BY,2025-11-28 17:32:00
+2016,1204,Archeology,2,BY,2025-11-28 17:32:00
+2016,1313,Molecular Medicine,2,BY,2025-11-28 17:32:00
+2016,1315,Structural Biology,2,BY,2025-11-28 17:32:00
+2016,1708,Hardware and Architecture,2,BY,2025-11-28 17:32:00
+2016,1710,Information Systems,2,BY,2025-11-28 17:32:00
+2016,1906,Geochemistry and Petrology,2,BY,2025-11-28 17:32:00
+2016,1910,Oceanography,2,BY,2025-11-28 17:32:00
+2016,2613,Statistics and Probability,2,BY,2025-11-28 17:32:00
+2016,2711,Emergency Medicine,2,BY,2025-11-28 17:32:00
+2016,2716,Genetics,2,BY,2025-11-28 17:32:00
+2016,2720,Hematology,2,BY,2025-11-28 17:32:00
+2016,2735,"Pediatrics, Perinatology and Child Health",2,BY,2025-11-28 17:32:00
+2016,2738,Psychiatry and Mental health,2,BY,2025-11-28 17:32:00
+2016,2739,"Public Health, Environmental and Occupational Health",2,BY,2025-11-28 17:32:00
+2016,2805,Cognitive Neuroscience,2,BY,2025-11-28 17:32:00
+2016,3005,Toxicology,2,BY,2025-11-28 17:32:00
+2016,3102,Acoustics and Ultrasonics,2,BY,2025-11-28 17:32:00
+2016,3105,Instrumentation,2,BY,2025-11-28 17:32:00
+2016,3320,Political Science and International Relations,2,BY,2025-11-28 17:32:00
+2016,3612,"Physical Therapy, Sports Therapy and Rehabilitation",2,BY,2025-11-28 17:32:00
+2016,1103,Animal Science and Zoology,1,BY,2025-11-28 17:32:00
+2016,1109,Insect Science,1,BY,2025-11-28 17:32:00
+2016,1308,Clinical Biochemistry,1,BY,2025-11-28 17:32:00
+2016,1310,Endocrinology,1,BY,2025-11-28 17:32:00
+2016,1405,Management of Technology and Innovation,1,BY,2025-11-28 17:32:00
+2016,1506,Filtration and Separation,1,BY,2025-11-28 17:32:00
+2016,1508,Process Chemistry and Technology,1,BY,2025-11-28 17:32:00
+2016,1706,Computer Science Applications,1,BY,2025-11-28 17:32:00
+2016,1709,Human-Computer Interaction,1,BY,2025-11-28 17:32:00
+2016,1802,Information Systems and Management,1,BY,2025-11-28 17:32:00
+2016,1804,"Statistics, Probability and Uncertainty",1,BY,2025-11-28 17:32:00
+2016,1907,Geology,1,BY,2025-11-28 17:32:00
+2016,2003,Finance,1,BY,2025-11-28 17:32:00
+2016,2304,Environmental Chemistry,1,BY,2025-11-28 17:32:00
+2016,2308,"Management, Monitoring, Policy and Law",1,BY,2025-11-28 17:32:00
+2016,2404,Microbiology,1,BY,2025-11-28 17:32:00
+2016,2406,Virology,1,BY,2025-11-28 17:32:00
+2016,2506,Metals and Alloys,1,BY,2025-11-28 17:32:00
+2016,2602,Algebra and Number Theory,1,BY,2025-11-28 17:32:00
+2016,2608,Geometry and Topology,1,BY,2025-11-28 17:32:00
+2016,2614,Theoretical Computer Science,1,BY,2025-11-28 17:32:00
+2016,2702,Anatomy,1,BY,2025-11-28 17:32:00
+2016,2717,Geriatrics and Gerontology,1,BY,2025-11-28 17:32:00
+2016,2721,Hepatology,1,BY,2025-11-28 17:32:00
+2016,2731,Ophthalmology,1,BY,2025-11-28 17:32:00
+2016,2732,Orthopedics and Sports Medicine,1,BY,2025-11-28 17:32:00
+2016,2742,Rehabilitation,1,BY,2025-11-28 17:32:00
+2016,2802,Behavioral Neuroscience,1,BY,2025-11-28 17:32:00
+2016,2808,Neurology,1,BY,2025-11-28 17:32:00
+2016,2809,Sensory Systems,1,BY,2025-11-28 17:32:00
+2016,3207,Social Psychology,1,BY,2025-11-28 17:32:00
+2016,3314,Anthropology,1,BY,2025-11-28 17:32:00
+2016,3404,Small Animals,1,BY,2025-11-28 17:32:00
+2016,3614,Radiological and Ultrasound Technology,1,BY,2025-11-28 17:32:00
+2017,2505,Materials Chemistry,509,BY,2025-11-28 17:32:00
+2017,2210,Mechanical Engineering,456,BY,2025-11-28 17:32:00
+2017,2208,Electrical and Electronic Engineering,384,BY,2025-11-28 17:32:00
+2017,2204,Biomedical Engineering,252,BY,2025-11-28 17:32:00
+2017,2211,Mechanics of Materials,245,BY,2025-11-28 17:32:00
+2017,3107,"Atomic and Molecular Physics, and Optics",244,BY,2025-11-28 17:32:00
+2017,1312,Molecular Biology,172,BY,2025-11-28 17:32:00
+2017,2504,"Electronic, Optical and Magnetic Materials",168,BY,2025-11-28 17:32:00
+2017,2209,Industrial and Manufacturing Engineering,140,BY,2025-11-28 17:32:00
+2017,2500,General Materials Science,140,BY,2025-11-28 17:32:00
+2017,1605,Organic Chemistry,110,BY,2025-11-28 17:32:00
+2017,2206,Computational Mechanics,84,BY,2025-11-28 17:32:00
+2017,2212,Ocean Engineering,77,BY,2025-11-28 17:32:00
+2017,2202,Aerospace Engineering,73,BY,2025-11-28 17:32:00
+2017,2507,Polymers and Plastics,56,BY,2025-11-28 17:32:00
+2017,2105,"Renewable Energy, Sustainability and the Environment",47,BY,2025-11-28 17:32:00
+2017,1607,Spectroscopy,44,BY,2025-11-28 17:32:00
+2017,2503,Ceramics and Composites,38,BY,2025-11-28 17:32:00
+2017,3104,Condensed Matter Physics,37,BY,2025-11-28 17:32:00
+2017,2205,Civil and Structural Engineering,32,BY,2025-11-28 17:32:00
+2017,2207,Control and Systems Engineering,32,BY,2025-11-28 17:32:00
+2017,1702,Artificial Intelligence,29,BY,2025-11-28 17:32:00
+2017,1705,Computer Networks and Communications,27,BY,2025-11-28 17:32:00
+2017,2502,Biomaterials,24,BY,2025-11-28 17:32:00
+2017,1604,Inorganic Chemistry,23,BY,2025-11-28 17:32:00
+2017,1606,Physical and Theoretical Chemistry,22,BY,2025-11-28 17:32:00
+2017,2740,Pulmonary and Respiratory Medicine,22,BY,2025-11-28 17:32:00
+2017,3108,Radiation,21,BY,2025-11-28 17:32:00
+2017,2203,Automotive Engineering,20,BY,2025-11-28 17:32:00
+2017,3109,Statistical and Nonlinear Physics,20,BY,2025-11-28 17:32:00
+2017,2804,Cellular and Molecular Neuroscience,18,BY,2025-11-28 17:32:00
+2017,1110,Plant Science,17,BY,2025-11-28 17:32:00
+2017,2741,"Radiology, Nuclear Medicine and Imaging",17,BY,2025-11-28 17:32:00
+2017,1502,Bioengineering,16,BY,2025-11-28 17:32:00
+2017,2215,Building and Construction,16,BY,2025-11-28 17:32:00
+2017,1603,Electrochemistry,15,BY,2025-11-28 17:32:00
+2017,2311,Industrial and Manufacturing Engineering,15,BY,2025-11-28 17:32:00
+2017,2508,"Surfaces, Coatings and Films",15,BY,2025-11-28 17:32:00
+2017,1106,Food Science,14,BY,2025-11-28 17:32:00
+2017,1304,Biophysics,14,BY,2025-11-28 17:32:00
+2017,3106,Nuclear and High Energy Physics,14,BY,2025-11-28 17:32:00
+2017,2607,Discrete Mathematics and Combinatorics,13,BY,2025-11-28 17:32:00
+2017,2746,Surgery,13,BY,2025-11-28 17:32:00
+2017,1311,Genetics,11,BY,2025-11-28 17:32:00
+2017,1404,Management Information Systems,11,BY,2025-11-28 17:32:00
+2017,1902,Atmospheric Science,11,BY,2025-11-28 17:32:00
+2017,2305,Environmental Engineering,11,BY,2025-11-28 17:32:00
+2017,2403,Immunology,11,BY,2025-11-28 17:32:00
+2017,2604,Applied Mathematics,11,BY,2025-11-28 17:32:00
+2017,2713,Epidemiology,11,BY,2025-11-28 17:32:00
+2017,1503,Catalysis,10,BY,2025-11-28 17:32:00
+2017,2730,Oncology,10,BY,2025-11-28 17:32:00
+2017,1507,Fluid Flow and Transfer Processes,9,BY,2025-11-28 17:32:00
+2017,2312,Water Science and Technology,9,BY,2025-11-28 17:32:00
+2017,1303,Biochemistry,8,BY,2025-11-28 17:32:00
+2017,2737,Physiology,8,BY,2025-11-28 17:32:00
+2017,3103,Astronomy and Astrophysics,8,BY,2025-11-28 17:32:00
+2017,1306,Cancer Research,7,BY,2025-11-28 17:32:00
+2017,1307,Cell Biology,7,BY,2025-11-28 17:32:00
+2017,1602,Analytical Chemistry,7,BY,2025-11-28 17:32:00
+2017,1703,Computational Theory and Mathematics,7,BY,2025-11-28 17:32:00
+2017,1707,Computer Vision and Pattern Recognition,7,BY,2025-11-28 17:32:00
+2017,2104,Nuclear Energy and Engineering,7,BY,2025-11-28 17:32:00
+2017,2213,"Safety, Risk, Reliability and Quality",7,BY,2025-11-28 17:32:00
+2017,2303,Ecology,7,BY,2025-11-28 17:32:00
+2017,2736,Pharmacology,7,BY,2025-11-28 17:32:00
+2017,1305,Biotechnology,6,BY,2025-11-28 17:32:00
+2017,1314,Physiology,6,BY,2025-11-28 17:32:00
+2017,2306,Global and Planetary Change,6,BY,2025-11-28 17:32:00
+2017,2310,Pollution,6,BY,2025-11-28 17:32:00
+2017,2734,Pathology and Forensic Medicine,6,BY,2025-11-28 17:32:00
+2017,2739,"Public Health, Environmental and Occupational Health",6,BY,2025-11-28 17:32:00
+2017,1104,Aquatic Science,5,BY,2025-11-28 17:32:00
+2017,1105,"Ecology, Evolution, Behavior and Systematics",5,BY,2025-11-28 17:32:00
+2017,2103,Fuel Technology,5,BY,2025-11-28 17:32:00
+2017,2612,Numerical Analysis,5,BY,2025-11-28 17:32:00
+2017,2704,Biochemistry,5,BY,2025-11-28 17:32:00
+2017,2805,Cognitive Neuroscience,5,BY,2025-11-28 17:32:00
+2017,3003,Pharmaceutical Science,5,BY,2025-11-28 17:32:00
+2017,3005,Toxicology,5,BY,2025-11-28 17:32:00
+2017,3102,Acoustics and Ultrasonics,5,BY,2025-11-28 17:32:00
+2017,3504,Oral Surgery,5,BY,2025-11-28 17:32:00
+2017,1109,Insect Science,4,BY,2025-11-28 17:32:00
+2017,1308,Clinical Biochemistry,4,BY,2025-11-28 17:32:00
+2017,1405,Management of Technology and Innovation,4,BY,2025-11-28 17:32:00
+2017,1711,Signal Processing,4,BY,2025-11-28 17:32:00
+2017,2304,Environmental Chemistry,4,BY,2025-11-28 17:32:00
+2017,2610,Mathematical Physics,4,BY,2025-11-28 17:32:00
+2017,2725,Infectious Diseases,4,BY,2025-11-28 17:32:00
+2017,2728,Neurology,4,BY,2025-11-28 17:32:00
+2017,2743,Reproductive Medicine,4,BY,2025-11-28 17:32:00
+2017,1315,Structural Biology,3,BY,2025-11-28 17:32:00
+2017,1708,Hardware and Architecture,3,BY,2025-11-28 17:32:00
+2017,1904,Earth-Surface Processes,3,BY,2025-11-28 17:32:00
+2017,1906,Geochemistry and Petrology,3,BY,2025-11-28 17:32:00
+2017,1910,Oceanography,3,BY,2025-11-28 17:32:00
+2017,2307,"Health, Toxicology and Mutagenesis",3,BY,2025-11-28 17:32:00
+2017,2705,Cardiology and Cardiovascular Medicine,3,BY,2025-11-28 17:32:00
+2017,2720,Hematology,3,BY,2025-11-28 17:32:00
+2017,2916,Nutrition and Dietetics,3,BY,2025-11-28 17:32:00
+2017,3105,Instrumentation,3,BY,2025-11-28 17:32:00
+2017,1102,Agronomy and Crop Science,2,BY,2025-11-28 17:32:00
+2017,1103,Animal Science and Zoology,2,BY,2025-11-28 17:32:00
+2017,1313,Molecular Medicine,2,BY,2025-11-28 17:32:00
+2017,1508,Process Chemistry and Technology,2,BY,2025-11-28 17:32:00
+2017,1803,Management Science and Operations Research,2,BY,2025-11-28 17:32:00
+2017,1907,Geology,2,BY,2025-11-28 17:32:00
+2017,1908,Geophysics,2,BY,2025-11-28 17:32:00
+2017,2102,Energy Engineering and Power Technology,2,BY,2025-11-28 17:32:00
+2017,2309,Nature and Landscape Conservation,2,BY,2025-11-28 17:32:00
+2017,2702,Anatomy,2,BY,2025-11-28 17:32:00
+2017,2712,"Endocrinology, Diabetes and Metabolism",2,BY,2025-11-28 17:32:00
+2017,2731,Ophthalmology,2,BY,2025-11-28 17:32:00
+2017,2745,Rheumatology,2,BY,2025-11-28 17:32:00
+2017,2803,Biological Psychiatry,2,BY,2025-11-28 17:32:00
+2017,3004,Pharmacology,2,BY,2025-11-28 17:32:00
+2017,1100,General Agricultural and Biological Sciences,1,BY,2025-11-28 17:32:00
+2017,1111,Soil Science,1,BY,2025-11-28 17:32:00
+2017,1204,Archeology,1,BY,2025-11-28 17:32:00
+2017,1310,Endocrinology,1,BY,2025-11-28 17:32:00
+2017,1408,Strategy and Management,1,BY,2025-11-28 17:32:00
+2017,1506,Filtration and Separation,1,BY,2025-11-28 17:32:00
+2017,1704,Computer Graphics and Computer-Aided Design,1,BY,2025-11-28 17:32:00
+2017,1706,Computer Science Applications,1,BY,2025-11-28 17:32:00
+2017,1710,Information Systems,1,BY,2025-11-28 17:32:00
+2017,1802,Information Systems and Management,1,BY,2025-11-28 17:32:00
+2017,2200,General Engineering,1,BY,2025-11-28 17:32:00
+2017,2214,Media Technology,1,BY,2025-11-28 17:32:00
+2017,2404,Microbiology,1,BY,2025-11-28 17:32:00
+2017,2405,Parasitology,1,BY,2025-11-28 17:32:00
+2017,2406,Virology,1,BY,2025-11-28 17:32:00
+2017,2602,Algebra and Number Theory,1,BY,2025-11-28 17:32:00
+2017,2608,Geometry and Topology,1,BY,2025-11-28 17:32:00
+2017,2611,Modeling and Simulation,1,BY,2025-11-28 17:32:00
+2017,2708,Dermatology,1,BY,2025-11-28 17:32:00
+2017,2716,Genetics,1,BY,2025-11-28 17:32:00
+2017,2723,Immunology and Allergy,1,BY,2025-11-28 17:32:00
+2017,2727,Nephrology,1,BY,2025-11-28 17:32:00
+2017,2729,Obstetrics and Gynecology,1,BY,2025-11-28 17:32:00
+2017,2738,Psychiatry and Mental health,1,BY,2025-11-28 17:32:00
+2017,2808,Neurology,1,BY,2025-11-28 17:32:00
+2017,3207,Social Psychology,1,BY,2025-11-28 17:32:00
+2017,3303,Development,1,BY,2025-11-28 17:32:00
+2017,3312,Sociology and Political Science,1,BY,2025-11-28 17:32:00
+2017,3313,Transportation,1,BY,2025-11-28 17:32:00
+2017,3506,Periodontics,1,BY,2025-11-28 17:32:00
+2017,3600,General Health Professions,1,BY,2025-11-28 17:32:00
+2017,3611,Pharmacy,1,BY,2025-11-28 17:32:00
+2018,2505,Materials Chemistry,524,BY,2025-11-28 17:32:00
+2018,2208,Electrical and Electronic Engineering,421,BY,2025-11-28 17:32:00
+2018,2210,Mechanical Engineering,410,BY,2025-11-28 17:32:00
+2018,2204,Biomedical Engineering,304,BY,2025-11-28 17:32:00
+2018,3107,"Atomic and Molecular Physics, and Optics",244,BY,2025-11-28 17:32:00
+2018,2211,Mechanics of Materials,232,BY,2025-11-28 17:32:00
+2018,1312,Molecular Biology,219,BY,2025-11-28 17:32:00
+2018,2504,"Electronic, Optical and Magnetic Materials",160,BY,2025-11-28 17:32:00
+2018,2209,Industrial and Manufacturing Engineering,128,BY,2025-11-28 17:32:00
+2018,1605,Organic Chemistry,108,BY,2025-11-28 17:32:00
+2018,2206,Computational Mechanics,96,BY,2025-11-28 17:32:00
+2018,2500,General Materials Science,75,BY,2025-11-28 17:32:00
+2018,2202,Aerospace Engineering,70,BY,2025-11-28 17:32:00
+2018,2212,Ocean Engineering,56,BY,2025-11-28 17:32:00
+2018,2205,Civil and Structural Engineering,50,BY,2025-11-28 17:32:00
+2018,2507,Polymers and Plastics,47,BY,2025-11-28 17:32:00
+2018,1607,Spectroscopy,39,BY,2025-11-28 17:32:00
+2018,2207,Control and Systems Engineering,38,BY,2025-11-28 17:32:00
+2018,3104,Condensed Matter Physics,37,BY,2025-11-28 17:32:00
+2018,2503,Ceramics and Composites,36,BY,2025-11-28 17:32:00
+2018,2105,"Renewable Energy, Sustainability and the Environment",35,BY,2025-11-28 17:32:00
+2018,2502,Biomaterials,34,BY,2025-11-28 17:32:00
+2018,1702,Artificial Intelligence,33,BY,2025-11-28 17:32:00
+2018,1606,Physical and Theoretical Chemistry,32,BY,2025-11-28 17:32:00
+2018,2740,Pulmonary and Respiratory Medicine,28,BY,2025-11-28 17:32:00
+2018,1705,Computer Networks and Communications,20,BY,2025-11-28 17:32:00
+2018,2741,"Radiology, Nuclear Medicine and Imaging",20,BY,2025-11-28 17:32:00
+2018,3109,Statistical and Nonlinear Physics,19,BY,2025-11-28 17:32:00
+2018,2737,Physiology,18,BY,2025-11-28 17:32:00
+2018,3106,Nuclear and High Energy Physics,18,BY,2025-11-28 17:32:00
+2018,1106,Food Science,17,BY,2025-11-28 17:32:00
+2018,2607,Discrete Mathematics and Combinatorics,17,BY,2025-11-28 17:32:00
+2018,2804,Cellular and Molecular Neuroscience,17,BY,2025-11-28 17:32:00
+2018,1503,Catalysis,16,BY,2025-11-28 17:32:00
+2018,2203,Automotive Engineering,16,BY,2025-11-28 17:32:00
+2018,2730,Oncology,16,BY,2025-11-28 17:32:00
+2018,1110,Plant Science,15,BY,2025-11-28 17:32:00
+2018,1311,Genetics,15,BY,2025-11-28 17:32:00
+2018,1304,Biophysics,14,BY,2025-11-28 17:32:00
+2018,1502,Bioengineering,14,BY,2025-11-28 17:32:00
+2018,2312,Water Science and Technology,14,BY,2025-11-28 17:32:00
+2018,2508,"Surfaces, Coatings and Films",13,BY,2025-11-28 17:32:00
+2018,3108,Radiation,13,BY,2025-11-28 17:32:00
+2018,1507,Fluid Flow and Transfer Processes,12,BY,2025-11-28 17:32:00
+2018,1703,Computational Theory and Mathematics,12,BY,2025-11-28 17:32:00
+2018,1902,Atmospheric Science,12,BY,2025-11-28 17:32:00
+2018,2403,Immunology,12,BY,2025-11-28 17:32:00
+2018,1307,Cell Biology,11,BY,2025-11-28 17:32:00
+2018,1603,Electrochemistry,11,BY,2025-11-28 17:32:00
+2018,1908,Geophysics,11,BY,2025-11-28 17:32:00
+2018,2305,Environmental Engineering,11,BY,2025-11-28 17:32:00
+2018,1707,Computer Vision and Pattern Recognition,10,BY,2025-11-28 17:32:00
+2018,1303,Biochemistry,9,BY,2025-11-28 17:32:00
+2018,1306,Cancer Research,9,BY,2025-11-28 17:32:00
+2018,1604,Inorganic Chemistry,9,BY,2025-11-28 17:32:00
+2018,2310,Pollution,9,BY,2025-11-28 17:32:00
+2018,3003,Pharmaceutical Science,9,BY,2025-11-28 17:32:00
+2018,3103,Astronomy and Astrophysics,9,BY,2025-11-28 17:32:00
+2018,2215,Building and Construction,8,BY,2025-11-28 17:32:00
+2018,2303,Ecology,8,BY,2025-11-28 17:32:00
+2018,2739,"Public Health, Environmental and Occupational Health",8,BY,2025-11-28 17:32:00
+2018,2746,Surgery,8,BY,2025-11-28 17:32:00
+2018,1314,Physiology,7,BY,2025-11-28 17:32:00
+2018,1602,Analytical Chemistry,7,BY,2025-11-28 17:32:00
+2018,2306,Global and Planetary Change,7,BY,2025-11-28 17:32:00
+2018,2705,Cardiology and Cardiovascular Medicine,7,BY,2025-11-28 17:32:00
+2018,1305,Biotechnology,6,BY,2025-11-28 17:32:00
+2018,1708,Hardware and Architecture,6,BY,2025-11-28 17:32:00
+2018,2103,Fuel Technology,6,BY,2025-11-28 17:32:00
+2018,2214,Media Technology,6,BY,2025-11-28 17:32:00
+2018,2704,Biochemistry,6,BY,2025-11-28 17:32:00
+2018,2734,Pathology and Forensic Medicine,6,BY,2025-11-28 17:32:00
+2018,2736,Pharmacology,6,BY,2025-11-28 17:32:00
+2018,1404,Management Information Systems,5,BY,2025-11-28 17:32:00
+2018,2104,Nuclear Energy and Engineering,5,BY,2025-11-28 17:32:00
+2018,2213,"Safety, Risk, Reliability and Quality",5,BY,2025-11-28 17:32:00
+2018,2311,Industrial and Manufacturing Engineering,5,BY,2025-11-28 17:32:00
+2018,2604,Applied Mathematics,5,BY,2025-11-28 17:32:00
+2018,2735,"Pediatrics, Perinatology and Child Health",5,BY,2025-11-28 17:32:00
+2018,2745,Rheumatology,5,BY,2025-11-28 17:32:00
+2018,2916,Nutrition and Dietetics,5,BY,2025-11-28 17:32:00
+2018,3004,Pharmacology,5,BY,2025-11-28 17:32:00
+2018,3102,Acoustics and Ultrasonics,5,BY,2025-11-28 17:32:00
+2018,3105,Instrumentation,5,BY,2025-11-28 17:32:00
+2018,1100,General Agricultural and Biological Sciences,4,BY,2025-11-28 17:32:00
+2018,1710,Information Systems,4,BY,2025-11-28 17:32:00
+2018,1711,Signal Processing,4,BY,2025-11-28 17:32:00
+2018,1804,"Statistics, Probability and Uncertainty",4,BY,2025-11-28 17:32:00
+2018,2308,"Management, Monitoring, Policy and Law",4,BY,2025-11-28 17:32:00
+2018,2309,Nature and Landscape Conservation,4,BY,2025-11-28 17:32:00
+2018,2404,Microbiology,4,BY,2025-11-28 17:32:00
+2018,2712,"Endocrinology, Diabetes and Metabolism",4,BY,2025-11-28 17:32:00
+2018,2713,Epidemiology,4,BY,2025-11-28 17:32:00
+2018,2806,Developmental Neuroscience,4,BY,2025-11-28 17:32:00
+2018,1111,Soil Science,3,BY,2025-11-28 17:32:00
+2018,1308,Clinical Biochemistry,3,BY,2025-11-28 17:32:00
+2018,1313,Molecular Medicine,3,BY,2025-11-28 17:32:00
+2018,1904,Earth-Surface Processes,3,BY,2025-11-28 17:32:00
+2018,2304,Environmental Chemistry,3,BY,2025-11-28 17:32:00
+2018,2608,Geometry and Topology,3,BY,2025-11-28 17:32:00
+2018,2612,Numerical Analysis,3,BY,2025-11-28 17:32:00
+2018,2707,Complementary and alternative medicine,3,BY,2025-11-28 17:32:00
+2018,2731,Ophthalmology,3,BY,2025-11-28 17:32:00
+2018,2732,Orthopedics and Sports Medicine,3,BY,2025-11-28 17:32:00
+2018,2808,Neurology,3,BY,2025-11-28 17:32:00
+2018,1104,Aquatic Science,2,BY,2025-11-28 17:32:00
+2018,1109,Insect Science,2,BY,2025-11-28 17:32:00
+2018,1405,Management of Technology and Innovation,2,BY,2025-11-28 17:32:00
+2018,1907,Geology,2,BY,2025-11-28 17:32:00
+2018,1910,Oceanography,2,BY,2025-11-28 17:32:00
+2018,2102,Energy Engineering and Power Technology,2,BY,2025-11-28 17:32:00
+2018,2506,Metals and Alloys,2,BY,2025-11-28 17:32:00
+2018,2610,Mathematical Physics,2,BY,2025-11-28 17:32:00
+2018,2725,Infectious Diseases,2,BY,2025-11-28 17:32:00
+2018,2727,Nephrology,2,BY,2025-11-28 17:32:00
+2018,2738,Psychiatry and Mental health,2,BY,2025-11-28 17:32:00
+2018,2809,Sensory Systems,2,BY,2025-11-28 17:32:00
+2018,3005,Toxicology,2,BY,2025-11-28 17:32:00
+2018,3313,Transportation,2,BY,2025-11-28 17:32:00
+2018,3504,Oral Surgery,2,BY,2025-11-28 17:32:00
+2018,3505,Orthodontics,2,BY,2025-11-28 17:32:00
+2018,1102,Agronomy and Crop Science,1,BY,2025-11-28 17:32:00
+2018,1103,Animal Science and Zoology,1,BY,2025-11-28 17:32:00
+2018,1105,"Ecology, Evolution, Behavior and Systematics",1,BY,2025-11-28 17:32:00
+2018,1204,Archeology,1,BY,2025-11-28 17:32:00
+2018,1508,Process Chemistry and Technology,1,BY,2025-11-28 17:32:00
+2018,1704,Computer Graphics and Computer-Aided Design,1,BY,2025-11-28 17:32:00
+2018,1712,Software,1,BY,2025-11-28 17:32:00
+2018,1803,Management Science and Operations Research,1,BY,2025-11-28 17:32:00
+2018,1906,Geochemistry and Petrology,1,BY,2025-11-28 17:32:00
+2018,2100,General Energy,1,BY,2025-11-28 17:32:00
+2018,2302,Ecological Modeling,1,BY,2025-11-28 17:32:00
+2018,2406,Virology,1,BY,2025-11-28 17:32:00
+2018,2602,Algebra and Number Theory,1,BY,2025-11-28 17:32:00
+2018,2611,Modeling and Simulation,1,BY,2025-11-28 17:32:00
+2018,2702,Anatomy,1,BY,2025-11-28 17:32:00
+2018,2716,Genetics,1,BY,2025-11-28 17:32:00
+2018,2720,Hematology,1,BY,2025-11-28 17:32:00
+2018,2721,Hepatology,1,BY,2025-11-28 17:32:00
+2018,2728,Neurology,1,BY,2025-11-28 17:32:00
+2018,2742,Rehabilitation,1,BY,2025-11-28 17:32:00
+2018,2748,Urology,1,BY,2025-11-28 17:32:00
+2018,3304,Education,1,BY,2025-11-28 17:32:00
+2018,3614,Radiological and Ultrasound Technology,1,BY,2025-11-28 17:32:00
+2019,2505,Materials Chemistry,659,BY,2025-11-28 17:32:00
+2019,2208,Electrical and Electronic Engineering,538,BY,2025-11-28 17:32:00
+2019,2210,Mechanical Engineering,497,BY,2025-11-28 17:32:00
+2019,2204,Biomedical Engineering,392,BY,2025-11-28 17:32:00
+2019,1312,Molecular Biology,292,BY,2025-11-28 17:32:00
+2019,3107,"Atomic and Molecular Physics, and Optics",286,BY,2025-11-28 17:32:00
+2019,2211,Mechanics of Materials,279,BY,2025-11-28 17:32:00
+2019,2504,"Electronic, Optical and Magnetic Materials",200,BY,2025-11-28 17:32:00
+2019,1605,Organic Chemistry,141,BY,2025-11-28 17:32:00
+2019,2500,General Materials Science,122,BY,2025-11-28 17:32:00
+2019,2209,Industrial and Manufacturing Engineering,115,BY,2025-11-28 17:32:00
+2019,2206,Computational Mechanics,103,BY,2025-11-28 17:32:00
+2019,2202,Aerospace Engineering,79,BY,2025-11-28 17:32:00
+2019,2507,Polymers and Plastics,66,BY,2025-11-28 17:32:00
+2019,2212,Ocean Engineering,58,BY,2025-11-28 17:32:00
+2019,1702,Artificial Intelligence,57,BY,2025-11-28 17:32:00
+2019,1607,Spectroscopy,49,BY,2025-11-28 17:32:00
+2019,2105,"Renewable Energy, Sustainability and the Environment",46,BY,2025-11-28 17:32:00
+2019,3104,Condensed Matter Physics,46,BY,2025-11-28 17:32:00
+2019,2502,Biomaterials,41,BY,2025-11-28 17:32:00
+2019,2205,Civil and Structural Engineering,40,BY,2025-11-28 17:32:00
+2019,2207,Control and Systems Engineering,37,BY,2025-11-28 17:32:00
+2019,2503,Ceramics and Composites,37,BY,2025-11-28 17:32:00
+2019,1705,Computer Networks and Communications,33,BY,2025-11-28 17:32:00
+2019,2203,Automotive Engineering,33,BY,2025-11-28 17:32:00
+2019,2741,"Radiology, Nuclear Medicine and Imaging",32,BY,2025-11-28 17:32:00
+2019,1110,Plant Science,31,BY,2025-11-28 17:32:00
+2019,1606,Physical and Theoretical Chemistry,31,BY,2025-11-28 17:32:00
+2019,1106,Food Science,30,BY,2025-11-28 17:32:00
+2019,2215,Building and Construction,30,BY,2025-11-28 17:32:00
+2019,2508,"Surfaces, Coatings and Films",28,BY,2025-11-28 17:32:00
+2019,2607,Discrete Mathematics and Combinatorics,28,BY,2025-11-28 17:32:00
+2019,2730,Oncology,27,BY,2025-11-28 17:32:00
+2019,2312,Water Science and Technology,24,BY,2025-11-28 17:32:00
+2019,2737,Physiology,24,BY,2025-11-28 17:32:00
+2019,3106,Nuclear and High Energy Physics,23,BY,2025-11-28 17:32:00
+2019,2305,Environmental Engineering,22,BY,2025-11-28 17:32:00
+2019,2740,Pulmonary and Respiratory Medicine,22,BY,2025-11-28 17:32:00
+2019,2604,Applied Mathematics,21,BY,2025-11-28 17:32:00
+2019,1311,Genetics,20,BY,2025-11-28 17:32:00
+2019,2612,Numerical Analysis,20,BY,2025-11-28 17:32:00
+2019,2746,Surgery,20,BY,2025-11-28 17:32:00
+2019,3108,Radiation,20,BY,2025-11-28 17:32:00
+2019,1502,Bioengineering,19,BY,2025-11-28 17:32:00
+2019,1604,Inorganic Chemistry,19,BY,2025-11-28 17:32:00
+2019,1902,Atmospheric Science,18,BY,2025-11-28 17:32:00
+2019,1703,Computational Theory and Mathematics,17,BY,2025-11-28 17:32:00
+2019,3109,Statistical and Nonlinear Physics,17,BY,2025-11-28 17:32:00
+2019,1908,Geophysics,15,BY,2025-11-28 17:32:00
+2019,2104,Nuclear Energy and Engineering,15,BY,2025-11-28 17:32:00
+2019,2403,Immunology,15,BY,2025-11-28 17:32:00
+2019,2804,Cellular and Molecular Neuroscience,15,BY,2025-11-28 17:32:00
+2019,1304,Biophysics,14,BY,2025-11-28 17:32:00
+2019,1503,Catalysis,14,BY,2025-11-28 17:32:00
+2019,1602,Analytical Chemistry,14,BY,2025-11-28 17:32:00
+2019,3102,Acoustics and Ultrasonics,14,BY,2025-11-28 17:32:00
+2019,1305,Biotechnology,13,BY,2025-11-28 17:32:00
+2019,1707,Computer Vision and Pattern Recognition,13,BY,2025-11-28 17:32:00
+2019,3103,Astronomy and Astrophysics,13,BY,2025-11-28 17:32:00
+2019,1306,Cancer Research,12,BY,2025-11-28 17:32:00
+2019,1307,Cell Biology,12,BY,2025-11-28 17:32:00
+2019,1507,Fluid Flow and Transfer Processes,12,BY,2025-11-28 17:32:00
+2019,2309,Nature and Landscape Conservation,12,BY,2025-11-28 17:32:00
+2019,2310,Pollution,11,BY,2025-11-28 17:32:00
+2019,2213,"Safety, Risk, Reliability and Quality",10,BY,2025-11-28 17:32:00
+2019,1404,Management Information Systems,9,BY,2025-11-28 17:32:00
+2019,2736,Pharmacology,9,BY,2025-11-28 17:32:00
+2019,3004,Pharmacology,9,BY,2025-11-28 17:32:00
+2019,1308,Clinical Biochemistry,8,BY,2025-11-28 17:32:00
+2019,2103,Fuel Technology,8,BY,2025-11-28 17:32:00
+2019,2311,Industrial and Manufacturing Engineering,8,BY,2025-11-28 17:32:00
+2019,2704,Biochemistry,8,BY,2025-11-28 17:32:00
+2019,2705,Cardiology and Cardiovascular Medicine,8,BY,2025-11-28 17:32:00
+2019,2713,Epidemiology,8,BY,2025-11-28 17:32:00
+2019,1313,Molecular Medicine,7,BY,2025-11-28 17:32:00
+2019,1603,Electrochemistry,7,BY,2025-11-28 17:32:00
+2019,1804,"Statistics, Probability and Uncertainty",7,BY,2025-11-28 17:32:00
+2019,1906,Geochemistry and Petrology,7,BY,2025-11-28 17:32:00
+2019,1907,Geology,7,BY,2025-11-28 17:32:00
+2019,1910,Oceanography,7,BY,2025-11-28 17:32:00
+2019,2214,Media Technology,7,BY,2025-11-28 17:32:00
+2019,2306,Global and Planetary Change,7,BY,2025-11-28 17:32:00
+2019,2739,"Public Health, Environmental and Occupational Health",7,BY,2025-11-28 17:32:00
+2019,2916,Nutrition and Dietetics,7,BY,2025-11-28 17:32:00
+2019,3003,Pharmaceutical Science,7,BY,2025-11-28 17:32:00
+2019,1708,Hardware and Architecture,6,BY,2025-11-28 17:32:00
+2019,2307,"Health, Toxicology and Mutagenesis",6,BY,2025-11-28 17:32:00
+2019,2720,Hematology,6,BY,2025-11-28 17:32:00
+2019,2731,Ophthalmology,6,BY,2025-11-28 17:32:00
+2019,2734,Pathology and Forensic Medicine,6,BY,2025-11-28 17:32:00
+2019,2808,Neurology,6,BY,2025-11-28 17:32:00
+2019,3504,Oral Surgery,6,BY,2025-11-28 17:32:00
+2019,1104,Aquatic Science,5,BY,2025-11-28 17:32:00
+2019,1105,"Ecology, Evolution, Behavior and Systematics",5,BY,2025-11-28 17:32:00
+2019,1303,Biochemistry,5,BY,2025-11-28 17:32:00
+2019,1314,Physiology,5,BY,2025-11-28 17:32:00
+2019,1710,Information Systems,5,BY,2025-11-28 17:32:00
+2019,2304,Environmental Chemistry,5,BY,2025-11-28 17:32:00
+2019,2735,"Pediatrics, Perinatology and Child Health",5,BY,2025-11-28 17:32:00
+2019,2743,Reproductive Medicine,5,BY,2025-11-28 17:32:00
+2019,3105,Instrumentation,5,BY,2025-11-28 17:32:00
+2019,1405,Management of Technology and Innovation,4,BY,2025-11-28 17:32:00
+2019,1508,Process Chemistry and Technology,4,BY,2025-11-28 17:32:00
+2019,2303,Ecology,4,BY,2025-11-28 17:32:00
+2019,2608,Geometry and Topology,4,BY,2025-11-28 17:32:00
+2019,2610,Mathematical Physics,4,BY,2025-11-28 17:32:00
+2019,2702,Anatomy,4,BY,2025-11-28 17:32:00
+2019,2712,"Endocrinology, Diabetes and Metabolism",4,BY,2025-11-28 17:32:00
+2019,2725,Infectious Diseases,4,BY,2025-11-28 17:32:00
+2019,2742,Rehabilitation,4,BY,2025-11-28 17:32:00
+2019,1109,Insect Science,3,BY,2025-11-28 17:32:00
+2019,1704,Computer Graphics and Computer-Aided Design,3,BY,2025-11-28 17:32:00
+2019,1904,Earth-Surface Processes,3,BY,2025-11-28 17:32:00
+2019,2302,Ecological Modeling,3,BY,2025-11-28 17:32:00
+2019,2602,Algebra and Number Theory,3,BY,2025-11-28 17:32:00
+2019,2707,Complementary and alternative medicine,3,BY,2025-11-28 17:32:00
+2019,2716,Genetics,3,BY,2025-11-28 17:32:00
+2019,2728,Neurology,3,BY,2025-11-28 17:32:00
+2019,2732,Orthopedics and Sports Medicine,3,BY,2025-11-28 17:32:00
+2019,2745,Rheumatology,3,BY,2025-11-28 17:32:00
+2019,1103,Animal Science and Zoology,2,BY,2025-11-28 17:32:00
+2019,1506,Filtration and Separation,2,BY,2025-11-28 17:32:00
+2019,1803,Management Science and Operations Research,2,BY,2025-11-28 17:32:00
+2019,2711,Emergency Medicine,2,BY,2025-11-28 17:32:00
+2019,2717,Geriatrics and Gerontology,2,BY,2025-11-28 17:32:00
+2019,2723,Immunology and Allergy,2,BY,2025-11-28 17:32:00
+2019,2738,Psychiatry and Mental health,2,BY,2025-11-28 17:32:00
+2019,2748,Urology,2,BY,2025-11-28 17:32:00
+2019,2805,Cognitive Neuroscience,2,BY,2025-11-28 17:32:00
+2019,3005,Toxicology,2,BY,2025-11-28 17:32:00
+2019,3505,Orthodontics,2,BY,2025-11-28 17:32:00
+2019,3604,Emergency Medical Services,2,BY,2025-11-28 17:32:00
+2019,3616,Speech and Hearing,2,BY,2025-11-28 17:32:00
+2019,1100,General Agricultural and Biological Sciences,1,BY,2025-11-28 17:32:00
+2019,1102,Agronomy and Crop Science,1,BY,2025-11-28 17:32:00
+2019,1204,Archeology,1,BY,2025-11-28 17:32:00
+2019,1408,Strategy and Management,1,BY,2025-11-28 17:32:00
+2019,1709,Human-Computer Interaction,1,BY,2025-11-28 17:32:00
+2019,1711,Signal Processing,1,BY,2025-11-28 17:32:00
+2019,1712,Software,1,BY,2025-11-28 17:32:00
+2019,1802,Information Systems and Management,1,BY,2025-11-28 17:32:00
+2019,2200,General Engineering,1,BY,2025-11-28 17:32:00
+2019,2216,Architecture,1,BY,2025-11-28 17:32:00
+2019,2308,"Management, Monitoring, Policy and Law",1,BY,2025-11-28 17:32:00
+2019,2404,Microbiology,1,BY,2025-11-28 17:32:00
+2019,2406,Virology,1,BY,2025-11-28 17:32:00
+2019,2506,Metals and Alloys,1,BY,2025-11-28 17:32:00
+2019,2611,Modeling and Simulation,1,BY,2025-11-28 17:32:00
+2019,2706,Critical Care and Intensive Care Medicine,1,BY,2025-11-28 17:32:00
+2019,2708,Dermatology,1,BY,2025-11-28 17:32:00
+2019,2727,Nephrology,1,BY,2025-11-28 17:32:00
+2019,2803,Biological Psychiatry,1,BY,2025-11-28 17:32:00
+2019,2806,Developmental Neuroscience,1,BY,2025-11-28 17:32:00
+2019,2807,Endocrine and Autonomic Systems,1,BY,2025-11-28 17:32:00
+2019,3303,Development,1,BY,2025-11-28 17:32:00
+2019,3304,Education,1,BY,2025-11-28 17:32:00
+2019,3313,Transportation,1,BY,2025-11-28 17:32:00
+2019,3603,Complementary and Manual Therapy,1,BY,2025-11-28 17:32:00
+2019,3612,"Physical Therapy, Sports Therapy and Rehabilitation",1,BY,2025-11-28 17:32:00
+2019,3614,Radiological and Ultrasound Technology,1,BY,2025-11-28 17:32:00
+2020,2505,Materials Chemistry,588,BY,2025-11-28 17:32:00
+2020,2210,Mechanical Engineering,461,BY,2025-11-28 17:32:00
+2020,2208,Electrical and Electronic Engineering,452,BY,2025-11-28 17:32:00
+2020,2204,Biomedical Engineering,336,BY,2025-11-28 17:32:00
+2020,1312,Molecular Biology,303,BY,2025-11-28 17:32:00
+2020,3107,"Atomic and Molecular Physics, and Optics",267,BY,2025-11-28 17:32:00
+2020,2211,Mechanics of Materials,265,BY,2025-11-28 17:32:00
+2020,2504,"Electronic, Optical and Magnetic Materials",160,BY,2025-11-28 17:32:00
+2020,1605,Organic Chemistry,154,BY,2025-11-28 17:32:00
+2020,2209,Industrial and Manufacturing Engineering,110,BY,2025-11-28 17:32:00
+2020,2500,General Materials Science,109,BY,2025-11-28 17:32:00
+2020,2206,Computational Mechanics,86,BY,2025-11-28 17:32:00
+2020,2202,Aerospace Engineering,83,BY,2025-11-28 17:32:00
+2020,2212,Ocean Engineering,78,BY,2025-11-28 17:32:00
+2020,2105,"Renewable Energy, Sustainability and the Environment",72,BY,2025-11-28 17:32:00
+2020,2507,Polymers and Plastics,71,BY,2025-11-28 17:32:00
+2020,2205,Civil and Structural Engineering,59,BY,2025-11-28 17:32:00
+2020,1607,Spectroscopy,55,BY,2025-11-28 17:32:00
+2020,1110,Plant Science,48,BY,2025-11-28 17:32:00
+2020,3104,Condensed Matter Physics,44,BY,2025-11-28 17:32:00
+2020,1702,Artificial Intelligence,43,BY,2025-11-28 17:32:00
+2020,2207,Control and Systems Engineering,41,BY,2025-11-28 17:32:00
+2020,3108,Radiation,36,BY,2025-11-28 17:32:00
+2020,2502,Biomaterials,35,BY,2025-11-28 17:32:00
+2020,2741,"Radiology, Nuclear Medicine and Imaging",31,BY,2025-11-28 17:32:00
+2020,1604,Inorganic Chemistry,30,BY,2025-11-28 17:32:00
+2020,2730,Oncology,30,BY,2025-11-28 17:32:00
+2020,1311,Genetics,28,BY,2025-11-28 17:32:00
+2020,2312,Water Science and Technology,28,BY,2025-11-28 17:32:00
+2020,3106,Nuclear and High Energy Physics,28,BY,2025-11-28 17:32:00
+2020,1606,Physical and Theoretical Chemistry,27,BY,2025-11-28 17:32:00
+2020,2203,Automotive Engineering,27,BY,2025-11-28 17:32:00
+2020,2305,Environmental Engineering,27,BY,2025-11-28 17:32:00
+2020,2215,Building and Construction,25,BY,2025-11-28 17:32:00
+2020,1106,Food Science,24,BY,2025-11-28 17:32:00
+2020,2746,Surgery,24,BY,2025-11-28 17:32:00
+2020,1703,Computational Theory and Mathematics,23,BY,2025-11-28 17:32:00
+2020,2508,"Surfaces, Coatings and Films",23,BY,2025-11-28 17:32:00
+2020,2740,Pulmonary and Respiratory Medicine,23,BY,2025-11-28 17:32:00
+2020,2503,Ceramics and Composites,22,BY,2025-11-28 17:32:00
+2020,1705,Computer Networks and Communications,21,BY,2025-11-28 17:32:00
+2020,3109,Statistical and Nonlinear Physics,21,BY,2025-11-28 17:32:00
+2020,2607,Discrete Mathematics and Combinatorics,19,BY,2025-11-28 17:32:00
+2020,1304,Biophysics,18,BY,2025-11-28 17:32:00
+2020,1902,Atmospheric Science,18,BY,2025-11-28 17:32:00
+2020,1908,Geophysics,17,BY,2025-11-28 17:32:00
+2020,1306,Cancer Research,16,BY,2025-11-28 17:32:00
+2020,2804,Cellular and Molecular Neuroscience,16,BY,2025-11-28 17:32:00
+2020,1603,Electrochemistry,15,BY,2025-11-28 17:32:00
+2020,2104,Nuclear Energy and Engineering,15,BY,2025-11-28 17:32:00
+2020,2604,Applied Mathematics,15,BY,2025-11-28 17:32:00
+2020,3103,Astronomy and Astrophysics,14,BY,2025-11-28 17:32:00
+2020,2213,"Safety, Risk, Reliability and Quality",13,BY,2025-11-28 17:32:00
+2020,2310,Pollution,13,BY,2025-11-28 17:32:00
+2020,2311,Industrial and Manufacturing Engineering,13,BY,2025-11-28 17:32:00
+2020,2612,Numerical Analysis,13,BY,2025-11-28 17:32:00
+2020,2713,Epidemiology,13,BY,2025-11-28 17:32:00
+2020,2725,Infectious Diseases,13,BY,2025-11-28 17:32:00
+2020,2736,Pharmacology,13,BY,2025-11-28 17:32:00
+2020,1502,Bioengineering,11,BY,2025-11-28 17:32:00
+2020,2103,Fuel Technology,11,BY,2025-11-28 17:32:00
+2020,3004,Pharmacology,11,BY,2025-11-28 17:32:00
+2020,1503,Catalysis,10,BY,2025-11-28 17:32:00
+2020,2303,Ecology,10,BY,2025-11-28 17:32:00
+2020,1305,Biotechnology,9,BY,2025-11-28 17:32:00
+2020,1307,Cell Biology,9,BY,2025-11-28 17:32:00
+2020,1313,Molecular Medicine,9,BY,2025-11-28 17:32:00
+2020,1707,Computer Vision and Pattern Recognition,9,BY,2025-11-28 17:32:00
+2020,1708,Hardware and Architecture,9,BY,2025-11-28 17:32:00
+2020,2214,Media Technology,9,BY,2025-11-28 17:32:00
+2020,2309,Nature and Landscape Conservation,9,BY,2025-11-28 17:32:00
+2020,2403,Immunology,9,BY,2025-11-28 17:32:00
+2020,2704,Biochemistry,9,BY,2025-11-28 17:32:00
+2020,2705,Cardiology and Cardiovascular Medicine,8,BY,2025-11-28 17:32:00
+2020,2716,Genetics,8,BY,2025-11-28 17:32:00
+2020,2720,Hematology,8,BY,2025-11-28 17:32:00
+2020,2735,"Pediatrics, Perinatology and Child Health",8,BY,2025-11-28 17:32:00
+2020,2739,"Public Health, Environmental and Occupational Health",8,BY,2025-11-28 17:32:00
+2020,3003,Pharmaceutical Science,8,BY,2025-11-28 17:32:00
+2020,1105,"Ecology, Evolution, Behavior and Systematics",7,BY,2025-11-28 17:32:00
+2020,2306,Global and Planetary Change,7,BY,2025-11-28 17:32:00
+2020,2712,"Endocrinology, Diabetes and Metabolism",7,BY,2025-11-28 17:32:00
+2020,2734,Pathology and Forensic Medicine,7,BY,2025-11-28 17:32:00
+2020,2737,Physiology,7,BY,2025-11-28 17:32:00
+2020,1104,Aquatic Science,6,BY,2025-11-28 17:32:00
+2020,1314,Physiology,6,BY,2025-11-28 17:32:00
+2020,1404,Management Information Systems,6,BY,2025-11-28 17:32:00
+2020,1507,Fluid Flow and Transfer Processes,6,BY,2025-11-28 17:32:00
+2020,1907,Geology,6,BY,2025-11-28 17:32:00
+2020,1910,Oceanography,6,BY,2025-11-28 17:32:00
+2020,2728,Neurology,6,BY,2025-11-28 17:32:00
+2020,2732,Orthopedics and Sports Medicine,6,BY,2025-11-28 17:32:00
+2020,1102,Agronomy and Crop Science,5,BY,2025-11-28 17:32:00
+2020,1111,Soil Science,5,BY,2025-11-28 17:32:00
+2020,1303,Biochemistry,5,BY,2025-11-28 17:32:00
+2020,1710,Information Systems,5,BY,2025-11-28 17:32:00
+2020,2308,"Management, Monitoring, Policy and Law",5,BY,2025-11-28 17:32:00
+2020,2506,Metals and Alloys,5,BY,2025-11-28 17:32:00
+2020,2610,Mathematical Physics,5,BY,2025-11-28 17:32:00
+2020,2731,Ophthalmology,5,BY,2025-11-28 17:32:00
+2020,2916,Nutrition and Dietetics,5,BY,2025-11-28 17:32:00
+2020,1100,General Agricultural and Biological Sciences,4,BY,2025-11-28 17:32:00
+2020,1804,"Statistics, Probability and Uncertainty",4,BY,2025-11-28 17:32:00
+2020,2745,Rheumatology,4,BY,2025-11-28 17:32:00
+2020,2806,Developmental Neuroscience,4,BY,2025-11-28 17:32:00
+2020,3105,Instrumentation,4,BY,2025-11-28 17:32:00
+2020,3312,Sociology and Political Science,4,BY,2025-11-28 17:32:00
+2020,1315,Structural Biology,3,BY,2025-11-28 17:32:00
+2020,1508,Process Chemistry and Technology,3,BY,2025-11-28 17:32:00
+2020,1602,Analytical Chemistry,3,BY,2025-11-28 17:32:00
+2020,1904,Earth-Surface Processes,3,BY,2025-11-28 17:32:00
+2020,1906,Geochemistry and Petrology,3,BY,2025-11-28 17:32:00
+2020,2002,Economics and Econometrics,3,BY,2025-11-28 17:32:00
+2020,2102,Energy Engineering and Power Technology,3,BY,2025-11-28 17:32:00
+2020,2302,Ecological Modeling,3,BY,2025-11-28 17:32:00
+2020,2611,Modeling and Simulation,3,BY,2025-11-28 17:32:00
+2020,2707,Complementary and alternative medicine,3,BY,2025-11-28 17:32:00
+2020,2808,Neurology,3,BY,2025-11-28 17:32:00
+2020,3005,Toxicology,3,BY,2025-11-28 17:32:00
+2020,3320,Political Science and International Relations,3,BY,2025-11-28 17:32:00
+2020,1109,Insect Science,2,BY,2025-11-28 17:32:00
+2020,1408,Strategy and Management,2,BY,2025-11-28 17:32:00
+2020,1711,Signal Processing,2,BY,2025-11-28 17:32:00
+2020,1803,Management Science and Operations Research,2,BY,2025-11-28 17:32:00
+2020,2304,Environmental Chemistry,2,BY,2025-11-28 17:32:00
+2020,2608,Geometry and Topology,2,BY,2025-11-28 17:32:00
+2020,2715,Gastroenterology,2,BY,2025-11-28 17:32:00
+2020,2721,Hepatology,2,BY,2025-11-28 17:32:00
+2020,2723,Immunology and Allergy,2,BY,2025-11-28 17:32:00
+2020,2727,Nephrology,2,BY,2025-11-28 17:32:00
+2020,2738,Psychiatry and Mental health,2,BY,2025-11-28 17:32:00
+2020,2748,Urology,2,BY,2025-11-28 17:32:00
+2020,2805,Cognitive Neuroscience,2,BY,2025-11-28 17:32:00
+2020,2809,Sensory Systems,2,BY,2025-11-28 17:32:00
+2020,3318,Gender Studies,2,BY,2025-11-28 17:32:00
+2020,3504,Oral Surgery,2,BY,2025-11-28 17:32:00
+2020,3505,Orthodontics,2,BY,2025-11-28 17:32:00
+2020,1103,Animal Science and Zoology,1,BY,2025-11-28 17:32:00
+2020,1308,Clinical Biochemistry,1,BY,2025-11-28 17:32:00
+2020,1405,Management of Technology and Innovation,1,BY,2025-11-28 17:32:00
+2020,1506,Filtration and Separation,1,BY,2025-11-28 17:32:00
+2020,2307,"Health, Toxicology and Mutagenesis",1,BY,2025-11-28 17:32:00
+2020,2404,Microbiology,1,BY,2025-11-28 17:32:00
+2020,2406,Virology,1,BY,2025-11-28 17:32:00
+2020,2602,Algebra and Number Theory,1,BY,2025-11-28 17:32:00
+2020,2708,Dermatology,1,BY,2025-11-28 17:32:00
+2020,2711,Emergency Medicine,1,BY,2025-11-28 17:32:00
+2020,2742,Rehabilitation,1,BY,2025-11-28 17:32:00
+2020,2743,Reproductive Medicine,1,BY,2025-11-28 17:32:00
+2020,2802,Behavioral Neuroscience,1,BY,2025-11-28 17:32:00
+2020,3102,Acoustics and Ultrasonics,1,BY,2025-11-28 17:32:00
+2020,3302,Archeology,1,BY,2025-11-28 17:32:00
+2020,3303,Development,1,BY,2025-11-28 17:32:00
+2020,3304,Education,1,BY,2025-11-28 17:32:00
+2020,3313,Transportation,1,BY,2025-11-28 17:32:00
+2020,3315,Communication,1,BY,2025-11-28 17:32:00
+2020,3404,Small Animals,1,BY,2025-11-28 17:32:00
+2020,3600,General Health Professions,1,BY,2025-11-28 17:32:00
+2020,3614,Radiological and Ultrasound Technology,1,BY,2025-11-28 17:32:00
+2021,2505,Materials Chemistry,602,BY,2025-11-28 17:32:00
+2021,2210,Mechanical Engineering,516,BY,2025-11-28 17:32:00
+2021,2208,Electrical and Electronic Engineering,492,BY,2025-11-28 17:32:00
+2021,2204,Biomedical Engineering,340,BY,2025-11-28 17:32:00
+2021,1312,Molecular Biology,315,BY,2025-11-28 17:32:00
+2021,3107,"Atomic and Molecular Physics, and Optics",268,BY,2025-11-28 17:32:00
+2021,2211,Mechanics of Materials,265,BY,2025-11-28 17:32:00
+2021,1605,Organic Chemistry,155,BY,2025-11-28 17:32:00
+2021,2504,"Electronic, Optical and Magnetic Materials",141,BY,2025-11-28 17:32:00
+2021,2209,Industrial and Manufacturing Engineering,136,BY,2025-11-28 17:32:00
+2021,2500,General Materials Science,106,BY,2025-11-28 17:32:00
+2021,2206,Computational Mechanics,92,BY,2025-11-28 17:32:00
+2021,2202,Aerospace Engineering,78,BY,2025-11-28 17:32:00
+2021,2212,Ocean Engineering,67,BY,2025-11-28 17:32:00
+2021,2105,"Renewable Energy, Sustainability and the Environment",64,BY,2025-11-28 17:32:00
+2021,2507,Polymers and Plastics,64,BY,2025-11-28 17:32:00
+2021,2205,Civil and Structural Engineering,55,BY,2025-11-28 17:32:00
+2021,1110,Plant Science,45,BY,2025-11-28 17:32:00
+2021,1702,Artificial Intelligence,42,BY,2025-11-28 17:32:00
+2021,2207,Control and Systems Engineering,42,BY,2025-11-28 17:32:00
+2021,1607,Spectroscopy,39,BY,2025-11-28 17:32:00
+2021,2503,Ceramics and Composites,39,BY,2025-11-28 17:32:00
+2021,1106,Food Science,37,BY,2025-11-28 17:32:00
+2021,2502,Biomaterials,36,BY,2025-11-28 17:32:00
+2021,2741,"Radiology, Nuclear Medicine and Imaging",36,BY,2025-11-28 17:32:00
+2021,3104,Condensed Matter Physics,36,BY,2025-11-28 17:32:00
+2021,2312,Water Science and Technology,33,BY,2025-11-28 17:32:00
+2021,1311,Genetics,30,BY,2025-11-28 17:32:00
+2021,1705,Computer Networks and Communications,30,BY,2025-11-28 17:32:00
+2021,1604,Inorganic Chemistry,29,BY,2025-11-28 17:32:00
+2021,2215,Building and Construction,29,BY,2025-11-28 17:32:00
+2021,2746,Surgery,29,BY,2025-11-28 17:32:00
+2021,3108,Radiation,29,BY,2025-11-28 17:32:00
+2021,2305,Environmental Engineering,27,BY,2025-11-28 17:32:00
+2021,2508,"Surfaces, Coatings and Films",27,BY,2025-11-28 17:32:00
+2021,2607,Discrete Mathematics and Combinatorics,27,BY,2025-11-28 17:32:00
+2021,1606,Physical and Theoretical Chemistry,24,BY,2025-11-28 17:32:00
+2021,2403,Immunology,24,BY,2025-11-28 17:32:00
+2021,2730,Oncology,24,BY,2025-11-28 17:32:00
+2021,2737,Physiology,24,BY,2025-11-28 17:32:00
+2021,3109,Statistical and Nonlinear Physics,22,BY,2025-11-28 17:32:00
+2021,1503,Catalysis,21,BY,2025-11-28 17:32:00
+2021,2203,Automotive Engineering,21,BY,2025-11-28 17:32:00
+2021,2309,Nature and Landscape Conservation,21,BY,2025-11-28 17:32:00
+2021,2740,Pulmonary and Respiratory Medicine,21,BY,2025-11-28 17:32:00
+2021,3106,Nuclear and High Energy Physics,21,BY,2025-11-28 17:32:00
+2021,2303,Ecology,18,BY,2025-11-28 17:32:00
+2021,1304,Biophysics,17,BY,2025-11-28 17:32:00
+2021,2311,Industrial and Manufacturing Engineering,17,BY,2025-11-28 17:32:00
+2021,2310,Pollution,16,BY,2025-11-28 17:32:00
+2021,2604,Applied Mathematics,16,BY,2025-11-28 17:32:00
+2021,1902,Atmospheric Science,15,BY,2025-11-28 17:32:00
+2021,1307,Cell Biology,14,BY,2025-11-28 17:32:00
+2021,2804,Cellular and Molecular Neuroscience,14,BY,2025-11-28 17:32:00
+2021,1306,Cancer Research,13,BY,2025-11-28 17:32:00
+2021,1707,Computer Vision and Pattern Recognition,13,BY,2025-11-28 17:32:00
+2021,2725,Infectious Diseases,13,BY,2025-11-28 17:32:00
+2021,2736,Pharmacology,13,BY,2025-11-28 17:32:00
+2021,2916,Nutrition and Dietetics,13,BY,2025-11-28 17:32:00
+2021,1305,Biotechnology,12,BY,2025-11-28 17:32:00
+2021,1703,Computational Theory and Mathematics,12,BY,2025-11-28 17:32:00
+2021,2104,Nuclear Energy and Engineering,12,BY,2025-11-28 17:32:00
+2021,2213,"Safety, Risk, Reliability and Quality",12,BY,2025-11-28 17:32:00
+2021,2713,Epidemiology,12,BY,2025-11-28 17:32:00
+2021,1104,Aquatic Science,11,BY,2025-11-28 17:32:00
+2021,1507,Fluid Flow and Transfer Processes,11,BY,2025-11-28 17:32:00
+2021,1602,Analytical Chemistry,11,BY,2025-11-28 17:32:00
+2021,2612,Numerical Analysis,11,BY,2025-11-28 17:32:00
+2021,1603,Electrochemistry,10,BY,2025-11-28 17:32:00
+2021,1907,Geology,10,BY,2025-11-28 17:32:00
+2021,1908,Geophysics,10,BY,2025-11-28 17:32:00
+2021,2704,Biochemistry,10,BY,2025-11-28 17:32:00
+2021,1502,Bioengineering,9,BY,2025-11-28 17:32:00
+2021,1708,Hardware and Architecture,9,BY,2025-11-28 17:32:00
+2021,2214,Media Technology,9,BY,2025-11-28 17:32:00
+2021,2720,Hematology,9,BY,2025-11-28 17:32:00
+2021,2731,Ophthalmology,9,BY,2025-11-28 17:32:00
+2021,2739,"Public Health, Environmental and Occupational Health",9,BY,2025-11-28 17:32:00
+2021,2808,Neurology,9,BY,2025-11-28 17:32:00
+2021,3003,Pharmaceutical Science,9,BY,2025-11-28 17:32:00
+2021,3103,Astronomy and Astrophysics,9,BY,2025-11-28 17:32:00
+2021,1100,General Agricultural and Biological Sciences,8,BY,2025-11-28 17:32:00
+2021,1404,Management Information Systems,8,BY,2025-11-28 17:32:00
+2021,2705,Cardiology and Cardiovascular Medicine,8,BY,2025-11-28 17:32:00
+2021,3504,Oral Surgery,8,BY,2025-11-28 17:32:00
+2021,1109,Insect Science,7,BY,2025-11-28 17:32:00
+2021,1303,Biochemistry,7,BY,2025-11-28 17:32:00
+2021,1804,"Statistics, Probability and Uncertainty",7,BY,2025-11-28 17:32:00
+2021,2306,Global and Planetary Change,7,BY,2025-11-28 17:32:00
+2021,3102,Acoustics and Ultrasonics,7,BY,2025-11-28 17:32:00
+2021,3105,Instrumentation,7,BY,2025-11-28 17:32:00
+2021,1105,"Ecology, Evolution, Behavior and Systematics",6,BY,2025-11-28 17:32:00
+2021,2002,Economics and Econometrics,6,BY,2025-11-28 17:32:00
+2021,2102,Energy Engineering and Power Technology,6,BY,2025-11-28 17:32:00
+2021,2103,Fuel Technology,6,BY,2025-11-28 17:32:00
+2021,2734,Pathology and Forensic Medicine,6,BY,2025-11-28 17:32:00
+2021,2735,"Pediatrics, Perinatology and Child Health",6,BY,2025-11-28 17:32:00
+2021,3505,Orthodontics,6,BY,2025-11-28 17:32:00
+2021,1314,Physiology,5,BY,2025-11-28 17:32:00
+2021,1803,Management Science and Operations Research,5,BY,2025-11-28 17:32:00
+2021,1904,Earth-Surface Processes,5,BY,2025-11-28 17:32:00
+2021,2406,Virology,5,BY,2025-11-28 17:32:00
+2021,2610,Mathematical Physics,5,BY,2025-11-28 17:32:00
+2021,2712,"Endocrinology, Diabetes and Metabolism",5,BY,2025-11-28 17:32:00
+2021,2727,Nephrology,5,BY,2025-11-28 17:32:00
+2021,2738,Psychiatry and Mental health,5,BY,2025-11-28 17:32:00
+2021,3004,Pharmacology,5,BY,2025-11-28 17:32:00
+2021,3005,Toxicology,5,BY,2025-11-28 17:32:00
+2021,1313,Molecular Medicine,4,BY,2025-11-28 17:32:00
+2021,1405,Management of Technology and Innovation,4,BY,2025-11-28 17:32:00
+2021,1506,Filtration and Separation,4,BY,2025-11-28 17:32:00
+2021,1508,Process Chemistry and Technology,4,BY,2025-11-28 17:32:00
+2021,1710,Information Systems,4,BY,2025-11-28 17:32:00
+2021,2304,Environmental Chemistry,4,BY,2025-11-28 17:32:00
+2021,2307,"Health, Toxicology and Mutagenesis",4,BY,2025-11-28 17:32:00
+2021,2308,"Management, Monitoring, Policy and Law",4,BY,2025-11-28 17:32:00
+2021,2404,Microbiology,4,BY,2025-11-28 17:32:00
+2021,2608,Geometry and Topology,4,BY,2025-11-28 17:32:00
+2021,2707,Complementary and alternative medicine,4,BY,2025-11-28 17:32:00
+2021,2716,Genetics,4,BY,2025-11-28 17:32:00
+2021,2748,Urology,4,BY,2025-11-28 17:32:00
+2021,2100,General Energy,3,BY,2025-11-28 17:32:00
+2021,2506,Metals and Alloys,3,BY,2025-11-28 17:32:00
+2021,2728,Neurology,3,BY,2025-11-28 17:32:00
+2021,2732,Orthopedics and Sports Medicine,3,BY,2025-11-28 17:32:00
+2021,2745,Rheumatology,3,BY,2025-11-28 17:32:00
+2021,2806,Developmental Neuroscience,3,BY,2025-11-28 17:32:00
+2021,3320,Political Science and International Relations,3,BY,2025-11-28 17:32:00
+2021,1111,Soil Science,2,BY,2025-11-28 17:32:00
+2021,1204,Archeology,2,BY,2025-11-28 17:32:00
+2021,1308,Clinical Biochemistry,2,BY,2025-11-28 17:32:00
+2021,1310,Endocrinology,2,BY,2025-11-28 17:32:00
+2021,1704,Computer Graphics and Computer-Aided Design,2,BY,2025-11-28 17:32:00
+2021,1910,Oceanography,2,BY,2025-11-28 17:32:00
+2021,2405,Parasitology,2,BY,2025-11-28 17:32:00
+2021,2602,Algebra and Number Theory,2,BY,2025-11-28 17:32:00
+2021,2723,Immunology and Allergy,2,BY,2025-11-28 17:32:00
+2021,2803,Biological Psychiatry,2,BY,2025-11-28 17:32:00
+2021,2805,Cognitive Neuroscience,2,BY,2025-11-28 17:32:00
+2021,3303,Development,2,BY,2025-11-28 17:32:00
+2021,3317,Demography,2,BY,2025-11-28 17:32:00
+2021,3603,Complementary and Manual Therapy,2,BY,2025-11-28 17:32:00
+2021,3614,Radiological and Ultrasound Technology,2,BY,2025-11-28 17:32:00
+2021,1102,Agronomy and Crop Science,1,BY,2025-11-28 17:32:00
+2021,1207,History and Philosophy of Science,1,BY,2025-11-28 17:32:00
+2021,1302,Aging,1,BY,2025-11-28 17:32:00
+2021,1315,Structural Biology,1,BY,2025-11-28 17:32:00
+2021,1408,Strategy and Management,1,BY,2025-11-28 17:32:00
+2021,1906,Geochemistry and Petrology,1,BY,2025-11-28 17:32:00
+2021,2302,Ecological Modeling,1,BY,2025-11-28 17:32:00
+2021,2611,Modeling and Simulation,1,BY,2025-11-28 17:32:00
+2021,2702,Anatomy,1,BY,2025-11-28 17:32:00
+2021,2706,Critical Care and Intensive Care Medicine,1,BY,2025-11-28 17:32:00
+2021,2708,Dermatology,1,BY,2025-11-28 17:32:00
+2021,2711,Emergency Medicine,1,BY,2025-11-28 17:32:00
+2021,2718,Health Informatics,1,BY,2025-11-28 17:32:00
+2021,2721,Hepatology,1,BY,2025-11-28 17:32:00
+2021,2724,Internal Medicine,1,BY,2025-11-28 17:32:00
+2021,2742,Rehabilitation,1,BY,2025-11-28 17:32:00
+2021,2743,Reproductive Medicine,1,BY,2025-11-28 17:32:00
+2021,2747,Transplantation,1,BY,2025-11-28 17:32:00
+2021,2807,Endocrine and Autonomic Systems,1,BY,2025-11-28 17:32:00
+2021,3203,Clinical Psychology,1,BY,2025-11-28 17:32:00
+2021,3207,Social Psychology,1,BY,2025-11-28 17:32:00
+2021,3304,Education,1,BY,2025-11-28 17:32:00
+2021,3314,Anthropology,1,BY,2025-11-28 17:32:00
+2021,3316,Cultural Studies,1,BY,2025-11-28 17:32:00
+2021,3322,Urban Studies,1,BY,2025-11-28 17:32:00
+2021,3404,Small Animals,1,BY,2025-11-28 17:32:00
+2021,3616,Speech and Hearing,1,BY,2025-11-28 17:32:00
+2022,2505,Materials Chemistry,626,BY,2025-11-28 17:32:00
+2022,2208,Electrical and Electronic Engineering,462,BY,2025-11-28 17:32:00
+2022,2210,Mechanical Engineering,459,BY,2025-11-28 17:32:00
+2022,2204,Biomedical Engineering,393,BY,2025-11-28 17:32:00
+2022,1312,Molecular Biology,311,BY,2025-11-28 17:32:00
+2022,2211,Mechanics of Materials,275,BY,2025-11-28 17:32:00
+2022,3107,"Atomic and Molecular Physics, and Optics",249,BY,2025-11-28 17:32:00
+2022,1605,Organic Chemistry,176,BY,2025-11-28 17:32:00
+2022,2504,"Electronic, Optical and Magnetic Materials",155,BY,2025-11-28 17:32:00
+2022,2206,Computational Mechanics,106,BY,2025-11-28 17:32:00
+2022,2500,General Materials Science,101,BY,2025-11-28 17:32:00
+2022,2209,Industrial and Manufacturing Engineering,90,BY,2025-11-28 17:32:00
+2022,2202,Aerospace Engineering,76,BY,2025-11-28 17:32:00
+2022,2507,Polymers and Plastics,67,BY,2025-11-28 17:32:00
+2022,2105,"Renewable Energy, Sustainability and the Environment",58,BY,2025-11-28 17:32:00
+2022,2212,Ocean Engineering,52,BY,2025-11-28 17:32:00
+2022,2205,Civil and Structural Engineering,49,BY,2025-11-28 17:32:00
+2022,1702,Artificial Intelligence,47,BY,2025-11-28 17:32:00
+2022,1607,Spectroscopy,45,BY,2025-11-28 17:32:00
+2022,1110,Plant Science,43,BY,2025-11-28 17:32:00
+2022,2502,Biomaterials,43,BY,2025-11-28 17:32:00
+2022,2503,Ceramics and Composites,43,BY,2025-11-28 17:32:00
+2022,3104,Condensed Matter Physics,43,BY,2025-11-28 17:32:00
+2022,2207,Control and Systems Engineering,42,BY,2025-11-28 17:32:00
+2022,2740,Pulmonary and Respiratory Medicine,41,BY,2025-11-28 17:32:00
+2022,1106,Food Science,38,BY,2025-11-28 17:32:00
+2022,3108,Radiation,37,BY,2025-11-28 17:32:00
+2022,2741,"Radiology, Nuclear Medicine and Imaging",36,BY,2025-11-28 17:32:00
+2022,1604,Inorganic Chemistry,35,BY,2025-11-28 17:32:00
+2022,1606,Physical and Theoretical Chemistry,30,BY,2025-11-28 17:32:00
+2022,2104,Nuclear Energy and Engineering,30,BY,2025-11-28 17:32:00
+2022,2730,Oncology,30,BY,2025-11-28 17:32:00
+2022,2215,Building and Construction,28,BY,2025-11-28 17:32:00
+2022,2312,Water Science and Technology,28,BY,2025-11-28 17:32:00
+2022,1311,Genetics,27,BY,2025-11-28 17:32:00
+2022,1705,Computer Networks and Communications,27,BY,2025-11-28 17:32:00
+2022,2203,Automotive Engineering,26,BY,2025-11-28 17:32:00
+2022,2607,Discrete Mathematics and Combinatorics,26,BY,2025-11-28 17:32:00
+2022,1703,Computational Theory and Mathematics,23,BY,2025-11-28 17:32:00
+2022,2746,Surgery,23,BY,2025-11-28 17:32:00
+2022,2305,Environmental Engineering,21,BY,2025-11-28 17:32:00
+2022,3109,Statistical and Nonlinear Physics,21,BY,2025-11-28 17:32:00
+2022,1304,Biophysics,19,BY,2025-11-28 17:32:00
+2022,3106,Nuclear and High Energy Physics,19,BY,2025-11-28 17:32:00
+2022,1306,Cancer Research,18,BY,2025-11-28 17:32:00
+2022,2303,Ecology,18,BY,2025-11-28 17:32:00
+2022,2737,Physiology,18,BY,2025-11-28 17:32:00
+2022,2725,Infectious Diseases,17,BY,2025-11-28 17:32:00
+2022,1307,Cell Biology,16,BY,2025-11-28 17:32:00
+2022,1707,Computer Vision and Pattern Recognition,16,BY,2025-11-28 17:32:00
+2022,2804,Cellular and Molecular Neuroscience,16,BY,2025-11-28 17:32:00
+2022,1902,Atmospheric Science,15,BY,2025-11-28 17:32:00
+2022,2306,Global and Planetary Change,15,BY,2025-11-28 17:32:00
+2022,3003,Pharmaceutical Science,15,BY,2025-11-28 17:32:00
+2022,1507,Fluid Flow and Transfer Processes,14,BY,2025-11-28 17:32:00
+2022,1603,Electrochemistry,14,BY,2025-11-28 17:32:00
+2022,2309,Nature and Landscape Conservation,14,BY,2025-11-28 17:32:00
+2022,2604,Applied Mathematics,14,BY,2025-11-28 17:32:00
+2022,2713,Epidemiology,14,BY,2025-11-28 17:32:00
+2022,1602,Analytical Chemistry,13,BY,2025-11-28 17:32:00
+2022,1908,Geophysics,13,BY,2025-11-28 17:32:00
+2022,2213,"Safety, Risk, Reliability and Quality",13,BY,2025-11-28 17:32:00
+2022,2508,"Surfaces, Coatings and Films",13,BY,2025-11-28 17:32:00
+2022,2612,Numerical Analysis,13,BY,2025-11-28 17:32:00
+2022,2736,Pharmacology,13,BY,2025-11-28 17:32:00
+2022,1313,Molecular Medicine,11,BY,2025-11-28 17:32:00
+2022,1710,Information Systems,11,BY,2025-11-28 17:32:00
+2022,2403,Immunology,11,BY,2025-11-28 17:32:00
+2022,1104,Aquatic Science,10,BY,2025-11-28 17:32:00
+2022,1109,Insect Science,10,BY,2025-11-28 17:32:00
+2022,1502,Bioengineering,10,BY,2025-11-28 17:32:00
+2022,1708,Hardware and Architecture,10,BY,2025-11-28 17:32:00
+2022,2304,Environmental Chemistry,10,BY,2025-11-28 17:32:00
+2022,2310,Pollution,10,BY,2025-11-28 17:32:00
+2022,2311,Industrial and Manufacturing Engineering,10,BY,2025-11-28 17:32:00
+2022,2214,Media Technology,9,BY,2025-11-28 17:32:00
+2022,2704,Biochemistry,9,BY,2025-11-28 17:32:00
+2022,2916,Nutrition and Dietetics,9,BY,2025-11-28 17:32:00
+2022,1305,Biotechnology,8,BY,2025-11-28 17:32:00
+2022,2610,Mathematical Physics,8,BY,2025-11-28 17:32:00
+2022,2705,Cardiology and Cardiovascular Medicine,8,BY,2025-11-28 17:32:00
+2022,2731,Ophthalmology,8,BY,2025-11-28 17:32:00
+2022,2739,"Public Health, Environmental and Occupational Health",8,BY,2025-11-28 17:32:00
+2022,1907,Geology,7,BY,2025-11-28 17:32:00
+2022,2712,"Endocrinology, Diabetes and Metabolism",7,BY,2025-11-28 17:32:00
+2022,3004,Pharmacology,7,BY,2025-11-28 17:32:00
+2022,1303,Biochemistry,6,BY,2025-11-28 17:32:00
+2022,1308,Clinical Biochemistry,6,BY,2025-11-28 17:32:00
+2022,1404,Management Information Systems,6,BY,2025-11-28 17:32:00
+2022,1503,Catalysis,6,BY,2025-11-28 17:32:00
+2022,2103,Fuel Technology,6,BY,2025-11-28 17:32:00
+2022,2611,Modeling and Simulation,6,BY,2025-11-28 17:32:00
+2022,3103,Astronomy and Astrophysics,6,BY,2025-11-28 17:32:00
+2022,3505,Orthodontics,6,BY,2025-11-28 17:32:00
+2022,1910,Oceanography,5,BY,2025-11-28 17:32:00
+2022,2302,Ecological Modeling,5,BY,2025-11-28 17:32:00
+2022,2707,Complementary and alternative medicine,5,BY,2025-11-28 17:32:00
+2022,2735,"Pediatrics, Perinatology and Child Health",5,BY,2025-11-28 17:32:00
+2022,2808,Neurology,5,BY,2025-11-28 17:32:00
+2022,3320,Political Science and International Relations,5,BY,2025-11-28 17:32:00
+2022,1103,Animal Science and Zoology,4,BY,2025-11-28 17:32:00
+2022,1105,"Ecology, Evolution, Behavior and Systematics",4,BY,2025-11-28 17:32:00
+2022,1314,Physiology,4,BY,2025-11-28 17:32:00
+2022,1906,Geochemistry and Petrology,4,BY,2025-11-28 17:32:00
+2022,2102,Energy Engineering and Power Technology,4,BY,2025-11-28 17:32:00
+2022,2307,"Health, Toxicology and Mutagenesis",4,BY,2025-11-28 17:32:00
+2022,2308,"Management, Monitoring, Policy and Law",4,BY,2025-11-28 17:32:00
+2022,2404,Microbiology,4,BY,2025-11-28 17:32:00
+2022,2506,Metals and Alloys,4,BY,2025-11-28 17:32:00
+2022,2805,Cognitive Neuroscience,4,BY,2025-11-28 17:32:00
+2022,3005,Toxicology,4,BY,2025-11-28 17:32:00
+2022,3105,Instrumentation,4,BY,2025-11-28 17:32:00
+2022,3504,Oral Surgery,4,BY,2025-11-28 17:32:00
+2022,1100,General Agricultural and Biological Sciences,3,BY,2025-11-28 17:32:00
+2022,1111,Soil Science,3,BY,2025-11-28 17:32:00
+2022,1704,Computer Graphics and Computer-Aided Design,3,BY,2025-11-28 17:32:00
+2022,1904,Earth-Surface Processes,3,BY,2025-11-28 17:32:00
+2022,2002,Economics and Econometrics,3,BY,2025-11-28 17:32:00
+2022,2708,Dermatology,3,BY,2025-11-28 17:32:00
+2022,2720,Hematology,3,BY,2025-11-28 17:32:00
+2022,2734,Pathology and Forensic Medicine,3,BY,2025-11-28 17:32:00
+2022,2745,Rheumatology,3,BY,2025-11-28 17:32:00
+2022,3303,Development,3,BY,2025-11-28 17:32:00
+2022,1204,Archeology,2,BY,2025-11-28 17:32:00
+2022,1310,Endocrinology,2,BY,2025-11-28 17:32:00
+2022,1508,Process Chemistry and Technology,2,BY,2025-11-28 17:32:00
+2022,2702,Anatomy,2,BY,2025-11-28 17:32:00
+2022,2706,Critical Care and Intensive Care Medicine,2,BY,2025-11-28 17:32:00
+2022,2721,Hepatology,2,BY,2025-11-28 17:32:00
+2022,2727,Nephrology,2,BY,2025-11-28 17:32:00
+2022,2732,Orthopedics and Sports Medicine,2,BY,2025-11-28 17:32:00
+2022,2738,Psychiatry and Mental health,2,BY,2025-11-28 17:32:00
+2022,2806,Developmental Neuroscience,2,BY,2025-11-28 17:32:00
+2022,3102,Acoustics and Ultrasonics,2,BY,2025-11-28 17:32:00
+2022,3207,Social Psychology,2,BY,2025-11-28 17:32:00
+2022,3600,General Health Professions,2,BY,2025-11-28 17:32:00
+2022,3604,Emergency Medical Services,2,BY,2025-11-28 17:32:00
+2022,3612,"Physical Therapy, Sports Therapy and Rehabilitation",2,BY,2025-11-28 17:32:00
+2022,3614,Radiological and Ultrasound Technology,2,BY,2025-11-28 17:32:00
+2022,1102,Agronomy and Crop Science,1,BY,2025-11-28 17:32:00
+2022,1403,Business and International Management,1,BY,2025-11-28 17:32:00
+2022,1408,Strategy and Management,1,BY,2025-11-28 17:32:00
+2022,1711,Signal Processing,1,BY,2025-11-28 17:32:00
+2022,1804,"Statistics, Probability and Uncertainty",1,BY,2025-11-28 17:32:00
+2022,2216,Architecture,1,BY,2025-11-28 17:32:00
+2022,2402,Applied Microbiology and Biotechnology,1,BY,2025-11-28 17:32:00
+2022,2406,Virology,1,BY,2025-11-28 17:32:00
+2022,2602,Algebra and Number Theory,1,BY,2025-11-28 17:32:00
+2022,2608,Geometry and Topology,1,BY,2025-11-28 17:32:00
+2022,2613,Statistics and Probability,1,BY,2025-11-28 17:32:00
+2022,2715,Gastroenterology,1,BY,2025-11-28 17:32:00
+2022,2716,Genetics,1,BY,2025-11-28 17:32:00
+2022,2728,Neurology,1,BY,2025-11-28 17:32:00
+2022,2729,Obstetrics and Gynecology,1,BY,2025-11-28 17:32:00
+2022,2733,Otorhinolaryngology,1,BY,2025-11-28 17:32:00
+2022,2742,Rehabilitation,1,BY,2025-11-28 17:32:00
+2022,2743,Reproductive Medicine,1,BY,2025-11-28 17:32:00
+2022,2807,Endocrine and Autonomic Systems,1,BY,2025-11-28 17:32:00
+2022,2809,Sensory Systems,1,BY,2025-11-28 17:32:00
+2022,3302,Archeology,1,BY,2025-11-28 17:32:00
+2022,3306,Health,1,BY,2025-11-28 17:32:00
+2022,3308,Law,1,BY,2025-11-28 17:32:00
+2022,3317,Demography,1,BY,2025-11-28 17:32:00
+2022,3603,Complementary and Manual Therapy,1,BY,2025-11-28 17:32:00
+2022,3616,Speech and Hearing,1,BY,2025-11-28 17:32:00
+2023,2505,Materials Chemistry,531,BY,2025-11-28 17:32:00
+2023,2210,Mechanical Engineering,404,BY,2025-11-28 17:32:00
+2023,2208,Electrical and Electronic Engineering,379,BY,2025-11-28 17:32:00
+2023,1312,Molecular Biology,319,BY,2025-11-28 17:32:00
+2023,2204,Biomedical Engineering,314,BY,2025-11-28 17:32:00
+2023,2211,Mechanics of Materials,213,BY,2025-11-28 17:32:00
+2023,3107,"Atomic and Molecular Physics, and Optics",202,BY,2025-11-28 17:32:00
+2023,2504,"Electronic, Optical and Magnetic Materials",152,BY,2025-11-28 17:32:00
+2023,1605,Organic Chemistry,108,BY,2025-11-28 17:32:00
+2023,2206,Computational Mechanics,93,BY,2025-11-28 17:32:00
+2023,2500,General Materials Science,93,BY,2025-11-28 17:32:00
+2023,2209,Industrial and Manufacturing Engineering,84,BY,2025-11-28 17:32:00
+2023,2202,Aerospace Engineering,70,BY,2025-11-28 17:32:00
+2023,2105,"Renewable Energy, Sustainability and the Environment",57,BY,2025-11-28 17:32:00
+2023,1607,Spectroscopy,52,BY,2025-11-28 17:32:00
+2023,2212,Ocean Engineering,49,BY,2025-11-28 17:32:00
+2023,2507,Polymers and Plastics,49,BY,2025-11-28 17:32:00
+2023,2205,Civil and Structural Engineering,46,BY,2025-11-28 17:32:00
+2023,1110,Plant Science,42,BY,2025-11-28 17:32:00
+2023,2502,Biomaterials,39,BY,2025-11-28 17:32:00
+2023,2503,Ceramics and Composites,36,BY,2025-11-28 17:32:00
+2023,3104,Condensed Matter Physics,36,BY,2025-11-28 17:32:00
+2023,1702,Artificial Intelligence,34,BY,2025-11-28 17:32:00
+2023,2215,Building and Construction,34,BY,2025-11-28 17:32:00
+2023,2207,Control and Systems Engineering,32,BY,2025-11-28 17:32:00
+2023,2741,"Radiology, Nuclear Medicine and Imaging",28,BY,2025-11-28 17:32:00
+2023,1311,Genetics,27,BY,2025-11-28 17:32:00
+2023,1606,Physical and Theoretical Chemistry,27,BY,2025-11-28 17:32:00
+2023,2203,Automotive Engineering,26,BY,2025-11-28 17:32:00
+2023,2740,Pulmonary and Respiratory Medicine,25,BY,2025-11-28 17:32:00
+2023,1604,Inorganic Chemistry,24,BY,2025-11-28 17:32:00
+2023,2730,Oncology,23,BY,2025-11-28 17:32:00
+2023,2746,Surgery,23,BY,2025-11-28 17:32:00
+2023,2804,Cellular and Molecular Neuroscience,23,BY,2025-11-28 17:32:00
+2023,3108,Radiation,23,BY,2025-11-28 17:32:00
+2023,2737,Physiology,22,BY,2025-11-28 17:32:00
+2023,1106,Food Science,20,BY,2025-11-28 17:32:00
+2023,3106,Nuclear and High Energy Physics,20,BY,2025-11-28 17:32:00
+2023,2607,Discrete Mathematics and Combinatorics,19,BY,2025-11-28 17:32:00
+2023,2736,Pharmacology,19,BY,2025-11-28 17:32:00
+2023,3109,Statistical and Nonlinear Physics,19,BY,2025-11-28 17:32:00
+2023,1703,Computational Theory and Mathematics,18,BY,2025-11-28 17:32:00
+2023,2305,Environmental Engineering,18,BY,2025-11-28 17:32:00
+2023,1307,Cell Biology,17,BY,2025-11-28 17:32:00
+2023,2311,Industrial and Manufacturing Engineering,17,BY,2025-11-28 17:32:00
+2023,1908,Geophysics,16,BY,2025-11-28 17:32:00
+2023,2303,Ecology,16,BY,2025-11-28 17:32:00
+2023,2312,Water Science and Technology,16,BY,2025-11-28 17:32:00
+2023,1503,Catalysis,15,BY,2025-11-28 17:32:00
+2023,2310,Pollution,15,BY,2025-11-28 17:32:00
+2023,2403,Immunology,15,BY,2025-11-28 17:32:00
+2023,2508,"Surfaces, Coatings and Films",15,BY,2025-11-28 17:32:00
+2023,1306,Cancer Research,14,BY,2025-11-28 17:32:00
+2023,1705,Computer Networks and Communications,14,BY,2025-11-28 17:32:00
+2023,1902,Atmospheric Science,14,BY,2025-11-28 17:32:00
+2023,2104,Nuclear Energy and Engineering,14,BY,2025-11-28 17:32:00
+2023,1304,Biophysics,13,BY,2025-11-28 17:32:00
+2023,1602,Analytical Chemistry,13,BY,2025-11-28 17:32:00
+2023,2214,Media Technology,13,BY,2025-11-28 17:32:00
+2023,2725,Infectious Diseases,13,BY,2025-11-28 17:32:00
+2023,1502,Bioengineering,12,BY,2025-11-28 17:32:00
+2023,2604,Applied Mathematics,12,BY,2025-11-28 17:32:00
+2023,2705,Cardiology and Cardiovascular Medicine,12,BY,2025-11-28 17:32:00
+2023,2713,Epidemiology,12,BY,2025-11-28 17:32:00
+2023,3103,Astronomy and Astrophysics,12,BY,2025-11-28 17:32:00
+2023,1707,Computer Vision and Pattern Recognition,11,BY,2025-11-28 17:32:00
+2023,1305,Biotechnology,10,BY,2025-11-28 17:32:00
+2023,1603,Electrochemistry,10,BY,2025-11-28 17:32:00
+2023,2213,"Safety, Risk, Reliability and Quality",10,BY,2025-11-28 17:32:00
+2023,2309,Nature and Landscape Conservation,10,BY,2025-11-28 17:32:00
+2023,2704,Biochemistry,10,BY,2025-11-28 17:32:00
+2023,2916,Nutrition and Dietetics,10,BY,2025-11-28 17:32:00
+2023,2102,Energy Engineering and Power Technology,9,BY,2025-11-28 17:32:00
+2023,2306,Global and Planetary Change,9,BY,2025-11-28 17:32:00
+2023,2612,Numerical Analysis,9,BY,2025-11-28 17:32:00
+2023,1314,Physiology,8,BY,2025-11-28 17:32:00
+2023,1507,Fluid Flow and Transfer Processes,8,BY,2025-11-28 17:32:00
+2023,1708,Hardware and Architecture,8,BY,2025-11-28 17:32:00
+2023,1710,Information Systems,8,BY,2025-11-28 17:32:00
+2023,2716,Genetics,8,BY,2025-11-28 17:32:00
+2023,1100,General Agricultural and Biological Sciences,7,BY,2025-11-28 17:32:00
+2023,2720,Hematology,7,BY,2025-11-28 17:32:00
+2023,2739,"Public Health, Environmental and Occupational Health",7,BY,2025-11-28 17:32:00
+2023,2805,Cognitive Neuroscience,7,BY,2025-11-28 17:32:00
+2023,2808,Neurology,7,BY,2025-11-28 17:32:00
+2023,3003,Pharmaceutical Science,7,BY,2025-11-28 17:32:00
+2023,3004,Pharmacology,7,BY,2025-11-28 17:32:00
+2023,3102,Acoustics and Ultrasonics,7,BY,2025-11-28 17:32:00
+2023,1105,"Ecology, Evolution, Behavior and Systematics",6,BY,2025-11-28 17:32:00
+2023,1204,Archeology,6,BY,2025-11-28 17:32:00
+2023,2103,Fuel Technology,6,BY,2025-11-28 17:32:00
+2023,2712,"Endocrinology, Diabetes and Metabolism",6,BY,2025-11-28 17:32:00
+2023,2735,"Pediatrics, Perinatology and Child Health",6,BY,2025-11-28 17:32:00
+2023,1104,Aquatic Science,5,BY,2025-11-28 17:32:00
+2023,1109,Insect Science,5,BY,2025-11-28 17:32:00
+2023,1303,Biochemistry,5,BY,2025-11-28 17:32:00
+2023,2728,Neurology,5,BY,2025-11-28 17:32:00
+2023,2734,Pathology and Forensic Medicine,5,BY,2025-11-28 17:32:00
+2023,3504,Oral Surgery,5,BY,2025-11-28 17:32:00
+2023,1103,Animal Science and Zoology,4,BY,2025-11-28 17:32:00
+2023,1404,Management Information Systems,4,BY,2025-11-28 17:32:00
+2023,1711,Signal Processing,4,BY,2025-11-28 17:32:00
+2023,2100,General Energy,4,BY,2025-11-28 17:32:00
+2023,2308,"Management, Monitoring, Policy and Law",4,BY,2025-11-28 17:32:00
+2023,2738,Psychiatry and Mental health,4,BY,2025-11-28 17:32:00
+2023,2742,Rehabilitation,4,BY,2025-11-28 17:32:00
+2023,1102,Agronomy and Crop Science,3,BY,2025-11-28 17:32:00
+2023,1302,Aging,3,BY,2025-11-28 17:32:00
+2023,1308,Clinical Biochemistry,3,BY,2025-11-28 17:32:00
+2023,1405,Management of Technology and Innovation,3,BY,2025-11-28 17:32:00
+2023,1904,Earth-Surface Processes,3,BY,2025-11-28 17:32:00
+2023,1906,Geochemistry and Petrology,3,BY,2025-11-28 17:32:00
+2023,2302,Ecological Modeling,3,BY,2025-11-28 17:32:00
+2023,2307,"Health, Toxicology and Mutagenesis",3,BY,2025-11-28 17:32:00
+2023,2707,Complementary and alternative medicine,3,BY,2025-11-28 17:32:00
+2023,2731,Ophthalmology,3,BY,2025-11-28 17:32:00
+2023,2743,Reproductive Medicine,3,BY,2025-11-28 17:32:00
+2023,2745,Rheumatology,3,BY,2025-11-28 17:32:00
+2023,3105,Instrumentation,3,BY,2025-11-28 17:32:00
+2023,3505,Orthodontics,3,BY,2025-11-28 17:32:00
+2023,1310,Endocrinology,2,BY,2025-11-28 17:32:00
+2023,1313,Molecular Medicine,2,BY,2025-11-28 17:32:00
+2023,1508,Process Chemistry and Technology,2,BY,2025-11-28 17:32:00
+2023,1712,Software,2,BY,2025-11-28 17:32:00
+2023,1804,"Statistics, Probability and Uncertainty",2,BY,2025-11-28 17:32:00
+2023,1910,Oceanography,2,BY,2025-11-28 17:32:00
+2023,2304,Environmental Chemistry,2,BY,2025-11-28 17:32:00
+2023,2608,Geometry and Topology,2,BY,2025-11-28 17:32:00
+2023,2610,Mathematical Physics,2,BY,2025-11-28 17:32:00
+2023,2706,Critical Care and Intensive Care Medicine,2,BY,2025-11-28 17:32:00
+2023,2711,Emergency Medicine,2,BY,2025-11-28 17:32:00
+2023,2723,Immunology and Allergy,2,BY,2025-11-28 17:32:00
+2023,2732,Orthopedics and Sports Medicine,2,BY,2025-11-28 17:32:00
+2023,2748,Urology,2,BY,2025-11-28 17:32:00
+2023,2809,Sensory Systems,2,BY,2025-11-28 17:32:00
+2023,3005,Toxicology,2,BY,2025-11-28 17:32:00
+2023,3312,Sociology and Political Science,2,BY,2025-11-28 17:32:00
+2023,1506,Filtration and Separation,1,BY,2025-11-28 17:32:00
+2023,1704,Computer Graphics and Computer-Aided Design,1,BY,2025-11-28 17:32:00
+2023,1706,Computer Science Applications,1,BY,2025-11-28 17:32:00
+2023,1709,Human-Computer Interaction,1,BY,2025-11-28 17:32:00
+2023,1803,Management Science and Operations Research,1,BY,2025-11-28 17:32:00
+2023,2002,Economics and Econometrics,1,BY,2025-11-28 17:32:00
+2023,2404,Microbiology,1,BY,2025-11-28 17:32:00
+2023,2405,Parasitology,1,BY,2025-11-28 17:32:00
+2023,2506,Metals and Alloys,1,BY,2025-11-28 17:32:00
+2023,2602,Algebra and Number Theory,1,BY,2025-11-28 17:32:00
+2023,2708,Dermatology,1,BY,2025-11-28 17:32:00
+2023,2721,Hepatology,1,BY,2025-11-28 17:32:00
+2023,2724,Internal Medicine,1,BY,2025-11-28 17:32:00
+2023,2727,Nephrology,1,BY,2025-11-28 17:32:00
+2023,2729,Obstetrics and Gynecology,1,BY,2025-11-28 17:32:00
+2023,2747,Transplantation,1,BY,2025-11-28 17:32:00
+2023,2807,Endocrine and Autonomic Systems,1,BY,2025-11-28 17:32:00
+2023,3203,Clinical Psychology,1,BY,2025-11-28 17:32:00
+2023,3204,Developmental and Educational Psychology,1,BY,2025-11-28 17:32:00
+2023,3207,Social Psychology,1,BY,2025-11-28 17:32:00
+2023,3303,Development,1,BY,2025-11-28 17:32:00
+2023,3304,Education,1,BY,2025-11-28 17:32:00
+2023,3305,"Geography, Planning and Development",1,BY,2025-11-28 17:32:00
+2023,3317,Demography,1,BY,2025-11-28 17:32:00
+2023,3500,General Dentistry,1,BY,2025-11-28 17:32:00
+2023,3600,General Health Professions,1,BY,2025-11-28 17:32:00
+2023,3603,Complementary and Manual Therapy,1,BY,2025-11-28 17:32:00
+2023,3604,Emergency Medical Services,1,BY,2025-11-28 17:32:00
+2023,3605,Health Information Management,1,BY,2025-11-28 17:32:00
+2023,3616,Speech and Hearing,1,BY,2025-11-28 17:32:00
+2024,2505,Materials Chemistry,365,BY,2025-11-28 17:32:00
+2024,2208,Electrical and Electronic Engineering,324,BY,2025-11-28 17:32:00
+2024,2210,Mechanical Engineering,281,BY,2025-11-28 17:32:00
+2024,2204,Biomedical Engineering,254,BY,2025-11-28 17:32:00
+2024,1312,Molecular Biology,246,BY,2025-11-28 17:32:00
+2024,2211,Mechanics of Materials,153,BY,2025-11-28 17:32:00
+2024,3107,"Atomic and Molecular Physics, and Optics",142,BY,2025-11-28 17:32:00
+2024,2504,"Electronic, Optical and Magnetic Materials",115,BY,2025-11-28 17:32:00
+2024,1605,Organic Chemistry,96,BY,2025-11-28 17:32:00
+2024,2202,Aerospace Engineering,69,BY,2025-11-28 17:32:00
+2024,2500,General Materials Science,55,BY,2025-11-28 17:32:00
+2024,2209,Industrial and Manufacturing Engineering,49,BY,2025-11-28 17:32:00
+2024,2205,Civil and Structural Engineering,45,BY,2025-11-28 17:32:00
+2024,2206,Computational Mechanics,43,BY,2025-11-28 17:32:00
+2024,2507,Polymers and Plastics,43,BY,2025-11-28 17:32:00
+2024,2502,Biomaterials,42,BY,2025-11-28 17:32:00
+2024,2105,"Renewable Energy, Sustainability and the Environment",32,BY,2025-11-28 17:32:00
+2024,2741,"Radiology, Nuclear Medicine and Imaging",32,BY,2025-11-28 17:32:00
+2024,2207,Control and Systems Engineering,29,BY,2025-11-28 17:32:00
+2024,1604,Inorganic Chemistry,26,BY,2025-11-28 17:32:00
+2024,2730,Oncology,25,BY,2025-11-28 17:32:00
+2024,2740,Pulmonary and Respiratory Medicine,25,BY,2025-11-28 17:32:00
+2024,1607,Spectroscopy,24,BY,2025-11-28 17:32:00
+2024,2212,Ocean Engineering,24,BY,2025-11-28 17:32:00
+2024,2737,Physiology,24,BY,2025-11-28 17:32:00
+2024,1106,Food Science,22,BY,2025-11-28 17:32:00
+2024,1110,Plant Science,22,BY,2025-11-28 17:32:00
+2024,2311,Industrial and Manufacturing Engineering,21,BY,2025-11-28 17:32:00
+2024,3104,Condensed Matter Physics,21,BY,2025-11-28 17:32:00
+2024,2203,Automotive Engineering,20,BY,2025-11-28 17:32:00
+2024,1702,Artificial Intelligence,19,BY,2025-11-28 17:32:00
+2024,1705,Computer Networks and Communications,19,BY,2025-11-28 17:32:00
+2024,3109,Statistical and Nonlinear Physics,19,BY,2025-11-28 17:32:00
+2024,1311,Genetics,18,BY,2025-11-28 17:32:00
+2024,2215,Building and Construction,18,BY,2025-11-28 17:32:00
+2024,1304,Biophysics,17,BY,2025-11-28 17:32:00
+2024,2503,Ceramics and Composites,17,BY,2025-11-28 17:32:00
+2024,3103,Astronomy and Astrophysics,17,BY,2025-11-28 17:32:00
+2024,1703,Computational Theory and Mathematics,16,BY,2025-11-28 17:32:00
+2024,2804,Cellular and Molecular Neuroscience,16,BY,2025-11-28 17:32:00
+2024,3108,Radiation,16,BY,2025-11-28 17:32:00
+2024,2305,Environmental Engineering,15,BY,2025-11-28 17:32:00
+2024,2746,Surgery,15,BY,2025-11-28 17:32:00
+2024,2214,Media Technology,13,BY,2025-11-28 17:32:00
+2024,1606,Physical and Theoretical Chemistry,12,BY,2025-11-28 17:32:00
+2024,3106,Nuclear and High Energy Physics,12,BY,2025-11-28 17:32:00
+2024,1502,Bioengineering,11,BY,2025-11-28 17:32:00
+2024,1603,Electrochemistry,11,BY,2025-11-28 17:32:00
+2024,2403,Immunology,11,BY,2025-11-28 17:32:00
+2024,2508,"Surfaces, Coatings and Films",11,BY,2025-11-28 17:32:00
+2024,3004,Pharmacology,11,BY,2025-11-28 17:32:00
+2024,2309,Nature and Landscape Conservation,10,BY,2025-11-28 17:32:00
+2024,2312,Water Science and Technology,10,BY,2025-11-28 17:32:00
+2024,2607,Discrete Mathematics and Combinatorics,10,BY,2025-11-28 17:32:00
+2024,2732,Orthopedics and Sports Medicine,10,BY,2025-11-28 17:32:00
+2024,1305,Biotechnology,9,BY,2025-11-28 17:32:00
+2024,1306,Cancer Research,9,BY,2025-11-28 17:32:00
+2024,1602,Analytical Chemistry,9,BY,2025-11-28 17:32:00
+2024,1707,Computer Vision and Pattern Recognition,9,BY,2025-11-28 17:32:00
+2024,2303,Ecology,9,BY,2025-11-28 17:32:00
+2024,2705,Cardiology and Cardiovascular Medicine,9,BY,2025-11-28 17:32:00
+2024,2736,Pharmacology,9,BY,2025-11-28 17:32:00
+2024,2739,"Public Health, Environmental and Occupational Health",9,BY,2025-11-28 17:32:00
+2024,1907,Geology,8,BY,2025-11-28 17:32:00
+2024,1908,Geophysics,8,BY,2025-11-28 17:32:00
+2024,2713,Epidemiology,8,BY,2025-11-28 17:32:00
+2024,2725,Infectious Diseases,8,BY,2025-11-28 17:32:00
+2024,2805,Cognitive Neuroscience,8,BY,2025-11-28 17:32:00
+2024,1307,Cell Biology,7,BY,2025-11-28 17:32:00
+2024,2104,Nuclear Energy and Engineering,7,BY,2025-11-28 17:32:00
+2024,2712,"Endocrinology, Diabetes and Metabolism",7,BY,2025-11-28 17:32:00
+2024,2731,Ophthalmology,7,BY,2025-11-28 17:32:00
+2024,2808,Neurology,7,BY,2025-11-28 17:32:00
+2024,1404,Management Information Systems,6,BY,2025-11-28 17:32:00
+2024,2103,Fuel Technology,6,BY,2025-11-28 17:32:00
+2024,2304,Environmental Chemistry,6,BY,2025-11-28 17:32:00
+2024,2310,Pollution,6,BY,2025-11-28 17:32:00
+2024,2404,Microbiology,6,BY,2025-11-28 17:32:00
+2024,2604,Applied Mathematics,6,BY,2025-11-28 17:32:00
+2024,2738,Psychiatry and Mental health,6,BY,2025-11-28 17:32:00
+2024,1104,Aquatic Science,5,BY,2025-11-28 17:32:00
+2024,1503,Catalysis,5,BY,2025-11-28 17:32:00
+2024,1507,Fluid Flow and Transfer Processes,5,BY,2025-11-28 17:32:00
+2024,1804,"Statistics, Probability and Uncertainty",5,BY,2025-11-28 17:32:00
+2024,1902,Atmospheric Science,5,BY,2025-11-28 17:32:00
+2024,2102,Energy Engineering and Power Technology,5,BY,2025-11-28 17:32:00
+2024,2704,Biochemistry,5,BY,2025-11-28 17:32:00
+2024,2716,Genetics,5,BY,2025-11-28 17:32:00
+2024,2916,Nutrition and Dietetics,5,BY,2025-11-28 17:32:00
+2024,3003,Pharmaceutical Science,5,BY,2025-11-28 17:32:00
+2024,1103,Animal Science and Zoology,4,BY,2025-11-28 17:32:00
+2024,1303,Biochemistry,4,BY,2025-11-28 17:32:00
+2024,1405,Management of Technology and Innovation,4,BY,2025-11-28 17:32:00
+2024,1708,Hardware and Architecture,4,BY,2025-11-28 17:32:00
+2024,2306,Global and Planetary Change,4,BY,2025-11-28 17:32:00
+2024,2307,"Health, Toxicology and Mutagenesis",4,BY,2025-11-28 17:32:00
+2024,2610,Mathematical Physics,4,BY,2025-11-28 17:32:00
+2024,2720,Hematology,4,BY,2025-11-28 17:32:00
+2024,2727,Nephrology,4,BY,2025-11-28 17:32:00
+2024,2728,Neurology,4,BY,2025-11-28 17:32:00
+2024,2807,Endocrine and Autonomic Systems,4,BY,2025-11-28 17:32:00
+2024,3005,Toxicology,4,BY,2025-11-28 17:32:00
+2024,1105,"Ecology, Evolution, Behavior and Systematics",3,BY,2025-11-28 17:32:00
+2024,1313,Molecular Medicine,3,BY,2025-11-28 17:32:00
+2024,1315,Structural Biology,3,BY,2025-11-28 17:32:00
+2024,1710,Information Systems,3,BY,2025-11-28 17:32:00
+2024,1906,Geochemistry and Petrology,3,BY,2025-11-28 17:32:00
+2024,2002,Economics and Econometrics,3,BY,2025-11-28 17:32:00
+2024,2100,General Energy,3,BY,2025-11-28 17:32:00
+2024,2213,"Safety, Risk, Reliability and Quality",3,BY,2025-11-28 17:32:00
+2024,2612,Numerical Analysis,3,BY,2025-11-28 17:32:00
+2024,2721,Hepatology,3,BY,2025-11-28 17:32:00
+2024,2734,Pathology and Forensic Medicine,3,BY,2025-11-28 17:32:00
+2024,2743,Reproductive Medicine,3,BY,2025-11-28 17:32:00
+2024,2745,Rheumatology,3,BY,2025-11-28 17:32:00
+2024,2748,Urology,3,BY,2025-11-28 17:32:00
+2024,3504,Oral Surgery,3,BY,2025-11-28 17:32:00
+2024,3506,Periodontics,3,BY,2025-11-28 17:32:00
+2024,3604,Emergency Medical Services,3,BY,2025-11-28 17:32:00
+2024,1204,Archeology,2,BY,2025-11-28 17:32:00
+2024,1308,Clinical Biochemistry,2,BY,2025-11-28 17:32:00
+2024,1310,Endocrinology,2,BY,2025-11-28 17:32:00
+2024,1314,Physiology,2,BY,2025-11-28 17:32:00
+2024,1508,Process Chemistry and Technology,2,BY,2025-11-28 17:32:00
+2024,1709,Human-Computer Interaction,2,BY,2025-11-28 17:32:00
+2024,1711,Signal Processing,2,BY,2025-11-28 17:32:00
+2024,2406,Virology,2,BY,2025-11-28 17:32:00
+2024,2506,Metals and Alloys,2,BY,2025-11-28 17:32:00
+2024,2608,Geometry and Topology,2,BY,2025-11-28 17:32:00
+2024,2707,Complementary and alternative medicine,2,BY,2025-11-28 17:32:00
+2024,2708,Dermatology,2,BY,2025-11-28 17:32:00
+2024,2729,Obstetrics and Gynecology,2,BY,2025-11-28 17:32:00
+2024,2735,"Pediatrics, Perinatology and Child Health",2,BY,2025-11-28 17:32:00
+2024,2742,Rehabilitation,2,BY,2025-11-28 17:32:00
+2024,3105,Instrumentation,2,BY,2025-11-28 17:32:00
+2024,3302,Archeology,2,BY,2025-11-28 17:32:00
+2024,3600,General Health Professions,2,BY,2025-11-28 17:32:00
+2024,3612,"Physical Therapy, Sports Therapy and Rehabilitation",2,BY,2025-11-28 17:32:00
+2024,1102,Agronomy and Crop Science,1,BY,2025-11-28 17:32:00
+2024,1109,Insect Science,1,BY,2025-11-28 17:32:00
+2024,1111,Soil Science,1,BY,2025-11-28 17:32:00
+2024,1207,History and Philosophy of Science,1,BY,2025-11-28 17:32:00
+2024,1302,Aging,1,BY,2025-11-28 17:32:00
+2024,1408,Strategy and Management,1,BY,2025-11-28 17:32:00
+2024,1706,Computer Science Applications,1,BY,2025-11-28 17:32:00
+2024,1803,Management Science and Operations Research,1,BY,2025-11-28 17:32:00
+2024,1904,Earth-Surface Processes,1,BY,2025-11-28 17:32:00
+2024,1911,Paleontology,1,BY,2025-11-28 17:32:00
+2024,2216,Architecture,1,BY,2025-11-28 17:32:00
+2024,2308,"Management, Monitoring, Policy and Law",1,BY,2025-11-28 17:32:00
+2024,2602,Algebra and Number Theory,1,BY,2025-11-28 17:32:00
+2024,2613,Statistics and Probability,1,BY,2025-11-28 17:32:00
+2024,2702,Anatomy,1,BY,2025-11-28 17:32:00
+2024,2706,Critical Care and Intensive Care Medicine,1,BY,2025-11-28 17:32:00
+2024,2711,Emergency Medicine,1,BY,2025-11-28 17:32:00
+2024,2715,Gastroenterology,1,BY,2025-11-28 17:32:00
+2024,2723,Immunology and Allergy,1,BY,2025-11-28 17:32:00
+2024,2803,Biological Psychiatry,1,BY,2025-11-28 17:32:00
+2024,2806,Developmental Neuroscience,1,BY,2025-11-28 17:32:00
+2024,2809,Sensory Systems,1,BY,2025-11-28 17:32:00
+2024,3102,Acoustics and Ultrasonics,1,BY,2025-11-28 17:32:00
+2024,3203,Clinical Psychology,1,BY,2025-11-28 17:32:00
+2024,3204,Developmental and Educational Psychology,1,BY,2025-11-28 17:32:00
+2024,3205,Experimental and Cognitive Psychology,1,BY,2025-11-28 17:32:00
+2024,3207,Social Psychology,1,BY,2025-11-28 17:32:00
+2024,3313,Transportation,1,BY,2025-11-28 17:32:00
+2024,3404,Small Animals,1,BY,2025-11-28 17:32:00
+2024,3505,Orthodontics,1,BY,2025-11-28 17:32:00
+2024,3614,Radiological and Ultrasound Technology,1,BY,2025-11-28 17:32:00
+2025,2505,Materials Chemistry,204,BY,2025-11-28 17:32:00
+2025,1312,Molecular Biology,163,BY,2025-11-28 17:32:00
+2025,2208,Electrical and Electronic Engineering,156,BY,2025-11-28 17:32:00
+2025,2204,Biomedical Engineering,153,BY,2025-11-28 17:32:00
+2025,2210,Mechanical Engineering,146,BY,2025-11-28 17:32:00
+2025,3107,"Atomic and Molecular Physics, and Optics",81,BY,2025-11-28 17:32:00
+2025,2211,Mechanics of Materials,70,BY,2025-11-28 17:32:00
+2025,1605,Organic Chemistry,64,BY,2025-11-28 17:32:00
+2025,2504,"Electronic, Optical and Magnetic Materials",52,BY,2025-11-28 17:32:00
+2025,2507,Polymers and Plastics,34,BY,2025-11-28 17:32:00
+2025,2500,General Materials Science,26,BY,2025-11-28 17:32:00
+2025,2105,"Renewable Energy, Sustainability and the Environment",25,BY,2025-11-28 17:32:00
+2025,2206,Computational Mechanics,25,BY,2025-11-28 17:32:00
+2025,2209,Industrial and Manufacturing Engineering,25,BY,2025-11-28 17:32:00
+2025,1311,Genetics,20,BY,2025-11-28 17:32:00
+2025,2502,Biomaterials,19,BY,2025-11-28 17:32:00
+2025,2202,Aerospace Engineering,18,BY,2025-11-28 17:32:00
+2025,2203,Automotive Engineering,18,BY,2025-11-28 17:32:00
+2025,1604,Inorganic Chemistry,16,BY,2025-11-28 17:32:00
+2025,1106,Food Science,15,BY,2025-11-28 17:32:00
+2025,2207,Control and Systems Engineering,15,BY,2025-11-28 17:32:00
+2025,2212,Ocean Engineering,15,BY,2025-11-28 17:32:00
+2025,2730,Oncology,15,BY,2025-11-28 17:32:00
+2025,2741,"Radiology, Nuclear Medicine and Imaging",15,BY,2025-11-28 17:32:00
+2025,1110,Plant Science,13,BY,2025-11-28 17:32:00
+2025,1703,Computational Theory and Mathematics,13,BY,2025-11-28 17:32:00
+2025,3103,Astronomy and Astrophysics,13,BY,2025-11-28 17:32:00
+2025,2205,Civil and Structural Engineering,12,BY,2025-11-28 17:32:00
+2025,2403,Immunology,12,BY,2025-11-28 17:32:00
+2025,2508,"Surfaces, Coatings and Films",12,BY,2025-11-28 17:32:00
+2025,2736,Pharmacology,12,BY,2025-11-28 17:32:00
+2025,2740,Pulmonary and Respiratory Medicine,12,BY,2025-11-28 17:32:00
+2025,3104,Condensed Matter Physics,12,BY,2025-11-28 17:32:00
+2025,1306,Cancer Research,11,BY,2025-11-28 17:32:00
+2025,1607,Spectroscopy,11,BY,2025-11-28 17:32:00
+2025,1304,Biophysics,10,BY,2025-11-28 17:32:00
+2025,1702,Artificial Intelligence,10,BY,2025-11-28 17:32:00
+2025,1606,Physical and Theoretical Chemistry,9,BY,2025-11-28 17:32:00
+2025,2804,Cellular and Molecular Neuroscience,9,BY,2025-11-28 17:32:00
+2025,1307,Cell Biology,8,BY,2025-11-28 17:32:00
+2025,1503,Catalysis,8,BY,2025-11-28 17:32:00
+2025,2503,Ceramics and Composites,8,BY,2025-11-28 17:32:00
+2025,2705,Cardiology and Cardiovascular Medicine,7,BY,2025-11-28 17:32:00
+2025,2713,Epidemiology,7,BY,2025-11-28 17:32:00
+2025,2746,Surgery,7,BY,2025-11-28 17:32:00
+2025,2916,Nutrition and Dietetics,7,BY,2025-11-28 17:32:00
+2025,3004,Pharmacology,7,BY,2025-11-28 17:32:00
+2025,3108,Radiation,7,BY,2025-11-28 17:32:00
+2025,1313,Molecular Medicine,6,BY,2025-11-28 17:32:00
+2025,2104,Nuclear Energy and Engineering,6,BY,2025-11-28 17:32:00
+2025,2303,Ecology,6,BY,2025-11-28 17:32:00
+2025,2310,Pollution,6,BY,2025-11-28 17:32:00
+2025,2312,Water Science and Technology,6,BY,2025-11-28 17:32:00
+2025,2604,Applied Mathematics,6,BY,2025-11-28 17:32:00
+2025,2725,Infectious Diseases,6,BY,2025-11-28 17:32:00
+2025,2734,Pathology and Forensic Medicine,6,BY,2025-11-28 17:32:00
+2025,1103,Animal Science and Zoology,5,BY,2025-11-28 17:32:00
+2025,1305,Biotechnology,5,BY,2025-11-28 17:32:00
+2025,1502,Bioengineering,5,BY,2025-11-28 17:32:00
+2025,1602,Analytical Chemistry,5,BY,2025-11-28 17:32:00
+2025,2215,Building and Construction,5,BY,2025-11-28 17:32:00
+2025,2607,Discrete Mathematics and Combinatorics,5,BY,2025-11-28 17:32:00
+2025,2737,Physiology,5,BY,2025-11-28 17:32:00
+2025,3109,Statistical and Nonlinear Physics,5,BY,2025-11-28 17:32:00
+2025,1102,Agronomy and Crop Science,4,BY,2025-11-28 17:32:00
+2025,1104,Aquatic Science,4,BY,2025-11-28 17:32:00
+2025,1707,Computer Vision and Pattern Recognition,4,BY,2025-11-28 17:32:00
+2025,1902,Atmospheric Science,4,BY,2025-11-28 17:32:00
+2025,2608,Geometry and Topology,4,BY,2025-11-28 17:32:00
+2025,2739,"Public Health, Environmental and Occupational Health",4,BY,2025-11-28 17:32:00
+2025,2745,Rheumatology,4,BY,2025-11-28 17:32:00
+2025,3105,Instrumentation,4,BY,2025-11-28 17:32:00
+2025,3504,Oral Surgery,4,BY,2025-11-28 17:32:00
+2025,1310,Endocrinology,3,BY,2025-11-28 17:32:00
+2025,1314,Physiology,3,BY,2025-11-28 17:32:00
+2025,1506,Filtration and Separation,3,BY,2025-11-28 17:32:00
+2025,1507,Fluid Flow and Transfer Processes,3,BY,2025-11-28 17:32:00
+2025,1508,Process Chemistry and Technology,3,BY,2025-11-28 17:32:00
+2025,1710,Information Systems,3,BY,2025-11-28 17:32:00
+2025,1904,Earth-Surface Processes,3,BY,2025-11-28 17:32:00
+2025,1906,Geochemistry and Petrology,3,BY,2025-11-28 17:32:00
+2025,2305,Environmental Engineering,3,BY,2025-11-28 17:32:00
+2025,2306,Global and Planetary Change,3,BY,2025-11-28 17:32:00
+2025,2309,Nature and Landscape Conservation,3,BY,2025-11-28 17:32:00
+2025,2311,Industrial and Manufacturing Engineering,3,BY,2025-11-28 17:32:00
+2025,2611,Modeling and Simulation,3,BY,2025-11-28 17:32:00
+2025,2612,Numerical Analysis,3,BY,2025-11-28 17:32:00
+2025,2707,Complementary and alternative medicine,3,BY,2025-11-28 17:32:00
+2025,2712,"Endocrinology, Diabetes and Metabolism",3,BY,2025-11-28 17:32:00
+2025,2720,Hematology,3,BY,2025-11-28 17:32:00
+2025,2735,"Pediatrics, Perinatology and Child Health",3,BY,2025-11-28 17:32:00
+2025,2742,Rehabilitation,3,BY,2025-11-28 17:32:00
+2025,1100,General Agricultural and Biological Sciences,2,BY,2025-11-28 17:32:00
+2025,1303,Biochemistry,2,BY,2025-11-28 17:32:00
+2025,1404,Management Information Systems,2,BY,2025-11-28 17:32:00
+2025,1603,Electrochemistry,2,BY,2025-11-28 17:32:00
+2025,1705,Computer Networks and Communications,2,BY,2025-11-28 17:32:00
+2025,1908,Geophysics,2,BY,2025-11-28 17:32:00
+2025,2103,Fuel Technology,2,BY,2025-11-28 17:32:00
+2025,2213,"Safety, Risk, Reliability and Quality",2,BY,2025-11-28 17:32:00
+2025,2214,Media Technology,2,BY,2025-11-28 17:32:00
+2025,2307,"Health, Toxicology and Mutagenesis",2,BY,2025-11-28 17:32:00
+2025,2402,Applied Microbiology and Biotechnology,2,BY,2025-11-28 17:32:00
+2025,2506,Metals and Alloys,2,BY,2025-11-28 17:32:00
+2025,2610,Mathematical Physics,2,BY,2025-11-28 17:32:00
+2025,2704,Biochemistry,2,BY,2025-11-28 17:32:00
+2025,2706,Critical Care and Intensive Care Medicine,2,BY,2025-11-28 17:32:00
+2025,2716,Genetics,2,BY,2025-11-28 17:32:00
+2025,2743,Reproductive Medicine,2,BY,2025-11-28 17:32:00
+2025,2805,Cognitive Neuroscience,2,BY,2025-11-28 17:32:00
+2025,2807,Endocrine and Autonomic Systems,2,BY,2025-11-28 17:32:00
+2025,3003,Pharmaceutical Science,2,BY,2025-11-28 17:32:00
+2025,3102,Acoustics and Ultrasonics,2,BY,2025-11-28 17:32:00
+2025,3106,Nuclear and High Energy Physics,2,BY,2025-11-28 17:32:00
+2025,1105,"Ecology, Evolution, Behavior and Systematics",1,BY,2025-11-28 17:32:00
+2025,1204,Archeology,1,BY,2025-11-28 17:32:00
+2025,1210,Music,1,BY,2025-11-28 17:32:00
+2025,1308,Clinical Biochemistry,1,BY,2025-11-28 17:32:00
+2025,1408,Strategy and Management,1,BY,2025-11-28 17:32:00
+2025,1704,Computer Graphics and Computer-Aided Design,1,BY,2025-11-28 17:32:00
+2025,1804,"Statistics, Probability and Uncertainty",1,BY,2025-11-28 17:32:00
+2025,1910,Oceanography,1,BY,2025-11-28 17:32:00
+2025,1911,Paleontology,1,BY,2025-11-28 17:32:00
+2025,2102,Energy Engineering and Power Technology,1,BY,2025-11-28 17:32:00
+2025,2304,Environmental Chemistry,1,BY,2025-11-28 17:32:00
+2025,2308,"Management, Monitoring, Policy and Law",1,BY,2025-11-28 17:32:00
+2025,2404,Microbiology,1,BY,2025-11-28 17:32:00
+2025,2406,Virology,1,BY,2025-11-28 17:32:00
+2025,2711,Emergency Medicine,1,BY,2025-11-28 17:32:00
+2025,2715,Gastroenterology,1,BY,2025-11-28 17:32:00
+2025,2723,Immunology and Allergy,1,BY,2025-11-28 17:32:00
+2025,2727,Nephrology,1,BY,2025-11-28 17:32:00
+2025,2729,Obstetrics and Gynecology,1,BY,2025-11-28 17:32:00
+2025,2731,Ophthalmology,1,BY,2025-11-28 17:32:00
+2025,2732,Orthopedics and Sports Medicine,1,BY,2025-11-28 17:32:00
+2025,2738,Psychiatry and Mental health,1,BY,2025-11-28 17:32:00
+2025,2808,Neurology,1,BY,2025-11-28 17:32:00
+2025,3303,Development,1,BY,2025-11-28 17:32:00
+2025,3505,Orthodontics,1,BY,2025-11-28 17:32:00
+2025,3603,Complementary and Manual Therapy,1,BY,2025-11-28 17:32:00
+2025,3604,Emergency Medical Services,1,BY,2025-11-28 17:32:00
+2025,3609,Occupational Therapy,1,BY,2025-11-28 17:32:00
+2025,3612,"Physical Therapy, Sports Therapy and Rehabilitation",1,BY,2025-11-28 17:32:00
+2025,3614,Radiological and Ultrasound Technology,1,BY,2025-11-28 17:32:00

@@ -1,0 +1,211 @@
+year,id,name,us_works_count,fetch_date
+2005,2208,Electrical and Electronic Engineering,46745,2025-11-20 11:02:29
+2005,2204,Biomedical Engineering,29755,2025-11-20 11:02:29
+2005,3107,"Atomic and Molecular Physics, and Optics",24581,2025-11-20 11:02:29
+2005,1702,Artificial Intelligence,23434,2025-11-20 11:02:29
+2005,2505,Materials Chemistry,23359,2025-11-20 11:02:29
+2005,1705,Computer Networks and Communications,22422,2025-11-20 11:02:29
+2005,2202,Aerospace Engineering,17539,2025-11-20 11:02:29
+2005,1312,Molecular Biology,15971,2025-11-20 11:02:29
+2005,2210,Mechanical Engineering,15919,2025-11-20 11:02:29
+2005,3103,Astronomy and Astrophysics,14267,2025-11-20 11:02:29
+2006,2208,Electrical and Electronic Engineering,46566,2025-11-20 11:02:29
+2006,2204,Biomedical Engineering,31939,2025-11-20 11:02:29
+2006,2505,Materials Chemistry,27433,2025-11-20 11:02:29
+2006,3107,"Atomic and Molecular Physics, and Optics",24242,2025-11-20 11:02:29
+2006,1702,Artificial Intelligence,22849,2025-11-20 11:02:29
+2006,1705,Computer Networks and Communications,22215,2025-11-20 11:02:29
+2006,1312,Molecular Biology,18601,2025-11-20 11:02:29
+2006,2202,Aerospace Engineering,15936,2025-11-20 11:02:29
+2006,2210,Mechanical Engineering,15684,2025-11-20 11:02:29
+2006,2303,Ecology,15065,2025-11-20 11:02:29
+2007,2208,Electrical and Electronic Engineering,42327,2025-11-20 11:02:29
+2007,2204,Biomedical Engineering,30942,2025-11-20 11:02:29
+2007,2505,Materials Chemistry,24527,2025-11-20 11:02:29
+2007,3107,"Atomic and Molecular Physics, and Optics",22999,2025-11-20 11:02:29
+2007,1702,Artificial Intelligence,22733,2025-11-20 11:02:29
+2007,1705,Computer Networks and Communications,20832,2025-11-20 11:02:29
+2007,1312,Molecular Biology,17505,2025-11-20 11:02:29
+2007,2303,Ecology,15317,2025-11-20 11:02:29
+2007,2202,Aerospace Engineering,15126,2025-11-20 11:02:29
+2007,2210,Mechanical Engineering,15091,2025-11-20 11:02:29
+2008,2208,Electrical and Electronic Engineering,43327,2025-11-20 11:02:29
+2008,2204,Biomedical Engineering,33422,2025-11-20 11:02:29
+2008,2505,Materials Chemistry,26069,2025-11-20 11:02:29
+2008,1702,Artificial Intelligence,23127,2025-11-20 11:02:29
+2008,3107,"Atomic and Molecular Physics, and Optics",22150,2025-11-20 11:02:29
+2008,1705,Computer Networks and Communications,21554,2025-11-20 11:02:29
+2008,1312,Molecular Biology,19846,2025-11-20 11:02:29
+2008,2303,Ecology,19261,2025-11-20 11:02:29
+2008,2210,Mechanical Engineering,16626,2025-11-20 11:02:29
+2008,3103,Astronomy and Astrophysics,15707,2025-11-20 11:02:29
+2009,2208,Electrical and Electronic Engineering,42570,2025-11-20 11:02:29
+2009,2204,Biomedical Engineering,34638,2025-11-20 11:02:29
+2009,2505,Materials Chemistry,26077,2025-11-20 11:02:29
+2009,1702,Artificial Intelligence,23612,2025-11-20 11:02:29
+2009,3107,"Atomic and Molecular Physics, and Optics",22534,2025-11-20 11:02:29
+2009,1312,Molecular Biology,22169,2025-11-20 11:02:29
+2009,1705,Computer Networks and Communications,20854,2025-11-20 11:02:29
+2009,2303,Ecology,20270,2025-11-20 11:02:29
+2009,2210,Mechanical Engineering,15638,2025-11-20 11:02:29
+2009,3103,Astronomy and Astrophysics,15110,2025-11-20 11:02:29
+2010,2208,Electrical and Electronic Engineering,45551,2025-11-20 11:02:29
+2010,2204,Biomedical Engineering,37795,2025-11-20 11:02:29
+2010,2505,Materials Chemistry,26855,2025-11-20 11:02:29
+2010,1702,Artificial Intelligence,24179,2025-11-20 11:02:29
+2010,3107,"Atomic and Molecular Physics, and Optics",22580,2025-11-20 11:02:29
+2010,1312,Molecular Biology,22275,2025-11-20 11:02:29
+2010,1705,Computer Networks and Communications,20989,2025-11-20 11:02:29
+2010,2303,Ecology,19694,2025-11-20 11:02:29
+2010,2210,Mechanical Engineering,16235,2025-11-20 11:02:29
+2010,2202,Aerospace Engineering,16075,2025-11-20 11:02:29
+2011,2208,Electrical and Electronic Engineering,46689,2025-11-20 11:02:29
+2011,2204,Biomedical Engineering,39687,2025-11-20 11:02:29
+2011,2505,Materials Chemistry,28909,2025-11-20 11:02:29
+2011,1702,Artificial Intelligence,25876,2025-11-20 11:02:29
+2011,3107,"Atomic and Molecular Physics, and Optics",22624,2025-11-20 11:02:29
+2011,1312,Molecular Biology,21614,2025-11-20 11:02:29
+2011,1705,Computer Networks and Communications,21465,2025-11-20 11:02:29
+2011,2303,Ecology,19099,2025-11-20 11:02:29
+2011,2210,Mechanical Engineering,18534,2025-11-20 11:02:29
+2011,2306,Global and Planetary Change,16973,2025-11-20 11:02:29
+2012,2208,Electrical and Electronic Engineering,47522,2025-11-20 11:02:29
+2012,2204,Biomedical Engineering,40799,2025-11-20 11:02:29
+2012,2505,Materials Chemistry,29830,2025-11-20 11:02:29
+2012,1702,Artificial Intelligence,25733,2025-11-20 11:02:29
+2012,3107,"Atomic and Molecular Physics, and Optics",22730,2025-11-20 11:02:29
+2012,1312,Molecular Biology,21595,2025-11-20 11:02:29
+2012,1705,Computer Networks and Communications,20643,2025-11-20 11:02:29
+2012,2303,Ecology,19340,2025-11-20 11:02:29
+2012,2210,Mechanical Engineering,17908,2025-11-20 11:02:29
+2012,2306,Global and Planetary Change,17380,2025-11-20 11:02:29
+2013,2208,Electrical and Electronic Engineering,48014,2025-11-20 11:02:29
+2013,2204,Biomedical Engineering,42412,2025-11-20 11:02:29
+2013,2505,Materials Chemistry,30359,2025-11-20 11:02:29
+2013,1702,Artificial Intelligence,26875,2025-11-20 11:02:29
+2013,1312,Molecular Biology,22749,2025-11-20 11:02:29
+2013,3107,"Atomic and Molecular Physics, and Optics",22318,2025-11-20 11:02:29
+2013,2303,Ecology,21734,2025-11-20 11:02:29
+2013,1705,Computer Networks and Communications,19994,2025-11-20 11:02:29
+2013,2210,Mechanical Engineering,19730,2025-11-20 11:02:29
+2013,2306,Global and Planetary Change,19288,2025-11-20 11:02:29
+2014,2208,Electrical and Electronic Engineering,50661,2025-11-20 11:02:29
+2014,2204,Biomedical Engineering,43631,2025-11-20 11:02:29
+2014,2505,Materials Chemistry,32132,2025-11-20 11:02:29
+2014,1702,Artificial Intelligence,27453,2025-11-20 11:02:29
+2014,1312,Molecular Biology,23269,2025-11-20 11:02:29
+2014,2303,Ecology,23202,2025-11-20 11:02:29
+2014,3107,"Atomic and Molecular Physics, and Optics",22634,2025-11-20 11:02:29
+2014,2306,Global and Planetary Change,21200,2025-11-20 11:02:29
+2014,2210,Mechanical Engineering,20612,2025-11-20 11:02:29
+2014,1705,Computer Networks and Communications,20012,2025-11-20 11:02:29
+2015,2208,Electrical and Electronic Engineering,48872,2025-11-20 11:02:29
+2015,2204,Biomedical Engineering,44068,2025-11-20 11:02:29
+2015,2505,Materials Chemistry,32394,2025-11-20 11:02:29
+2015,1702,Artificial Intelligence,28017,2025-11-20 11:02:29
+2015,1312,Molecular Biology,23114,2025-11-20 11:02:29
+2015,2303,Ecology,22960,2025-11-20 11:02:29
+2015,2306,Global and Planetary Change,21277,2025-11-20 11:02:29
+2015,3107,"Atomic and Molecular Physics, and Optics",21138,2025-11-20 11:02:29
+2015,2210,Mechanical Engineering,20595,2025-11-20 11:02:29
+2015,1705,Computer Networks and Communications,19082,2025-11-20 11:02:29
+2016,2208,Electrical and Electronic Engineering,49299,2025-11-20 11:02:29
+2016,2204,Biomedical Engineering,45257,2025-11-20 11:02:29
+2016,2505,Materials Chemistry,32419,2025-11-20 11:02:29
+2016,1702,Artificial Intelligence,27792,2025-11-20 11:02:29
+2016,2303,Ecology,23484,2025-11-20 11:02:29
+2016,1312,Molecular Biology,22622,2025-11-20 11:02:29
+2016,3107,"Atomic and Molecular Physics, and Optics",22077,2025-11-20 11:02:29
+2016,2306,Global and Planetary Change,21035,2025-11-20 11:02:29
+2016,2210,Mechanical Engineering,20665,2025-11-20 11:02:29
+2016,1705,Computer Networks and Communications,18470,2025-11-20 11:02:29
+2017,2208,Electrical and Electronic Engineering,50192,2025-11-20 11:02:29
+2017,2204,Biomedical Engineering,45188,2025-11-20 11:02:29
+2017,2505,Materials Chemistry,32504,2025-11-20 11:02:29
+2017,1702,Artificial Intelligence,30380,2025-11-20 11:02:29
+2017,2303,Ecology,23537,2025-11-20 11:02:29
+2017,1312,Molecular Biology,22129,2025-11-20 11:02:29
+2017,2306,Global and Planetary Change,21717,2025-11-20 11:02:29
+2017,2210,Mechanical Engineering,21097,2025-11-20 11:02:29
+2017,3107,"Atomic and Molecular Physics, and Optics",20833,2025-11-20 11:02:29
+2017,1705,Computer Networks and Communications,19067,2025-11-20 11:02:29
+2018,2505,Materials Chemistry,59750,2025-11-20 11:02:29
+2018,2208,Electrical and Electronic Engineering,50480,2025-11-20 11:02:29
+2018,2204,Biomedical Engineering,47352,2025-11-20 11:02:29
+2018,1702,Artificial Intelligence,34926,2025-11-20 11:02:29
+2018,2303,Ecology,24909,2025-11-20 11:02:29
+2018,1312,Molecular Biology,23003,2025-11-20 11:02:29
+2018,2306,Global and Planetary Change,22694,2025-11-20 11:02:29
+2018,2210,Mechanical Engineering,22162,2025-11-20 11:02:29
+2018,3107,"Atomic and Molecular Physics, and Optics",21123,2025-11-20 11:02:29
+2018,2202,Aerospace Engineering,18763,2025-11-20 11:02:29
+2019,2208,Electrical and Electronic Engineering,51107,2025-11-20 11:02:29
+2019,2204,Biomedical Engineering,49700,2025-11-20 11:02:29
+2019,1702,Artificial Intelligence,44161,2025-11-20 11:02:29
+2019,2505,Materials Chemistry,34519,2025-11-20 11:02:29
+2019,2303,Ecology,26379,2025-11-20 11:02:29
+2019,1312,Molecular Biology,24420,2025-11-20 11:02:29
+2019,2306,Global and Planetary Change,23777,2025-11-20 11:02:29
+2019,2210,Mechanical Engineering,22354,2025-11-20 11:02:29
+2019,3107,"Atomic and Molecular Physics, and Optics",21822,2025-11-20 11:02:29
+2019,3103,Astronomy and Astrophysics,20609,2025-11-20 11:02:29
+2020,2304,Environmental Chemistry,65766,2025-11-20 11:02:29
+2020,1908,Geophysics,60650,2025-11-20 11:02:29
+2020,2204,Biomedical Engineering,56203,2025-11-20 11:02:29
+2020,1702,Artificial Intelligence,50942,2025-11-20 11:02:29
+2020,2208,Electrical and Electronic Engineering,50915,2025-11-20 11:02:29
+2020,2505,Materials Chemistry,37246,2025-11-20 11:02:29
+2020,2303,Ecology,29470,2025-11-20 11:02:29
+2020,2306,Global and Planetary Change,27321,2025-11-20 11:02:29
+2020,1312,Molecular Biology,26824,2025-11-20 11:02:29
+2020,2210,Mechanical Engineering,25827,2025-11-20 11:02:29
+2021,2304,Environmental Chemistry,90220,2025-11-20 11:02:29
+2021,1908,Geophysics,86270,2025-11-20 11:02:29
+2021,1702,Artificial Intelligence,53783,2025-11-20 11:02:29
+2021,2208,Electrical and Electronic Engineering,49109,2025-11-20 11:02:29
+2021,2204,Biomedical Engineering,47882,2025-11-20 11:02:29
+2021,2505,Materials Chemistry,32159,2025-11-20 11:02:29
+2021,2303,Ecology,29314,2025-11-20 11:02:29
+2021,2306,Global and Planetary Change,27654,2025-11-20 11:02:29
+2021,3103,Astronomy and Astrophysics,25393,2025-11-20 11:02:29
+2021,1312,Molecular Biology,25321,2025-11-20 11:02:29
+2022,1908,Geophysics,158168,2025-11-20 11:02:29
+2022,2304,Environmental Chemistry,81166,2025-11-20 11:02:29
+2022,3103,Astronomy and Astrophysics,49410,2025-11-20 11:02:29
+2022,2208,Electrical and Electronic Engineering,46098,2025-11-20 11:02:29
+2022,2204,Biomedical Engineering,46061,2025-11-20 11:02:29
+2022,1702,Artificial Intelligence,44068,2025-11-20 11:02:29
+2022,2505,Materials Chemistry,29825,2025-11-20 11:02:29
+2022,2303,Ecology,27265,2025-11-20 11:02:29
+2022,2306,Global and Planetary Change,26365,2025-11-20 11:02:29
+2022,1312,Molecular Biology,23962,2025-11-20 11:02:29
+2023,3103,Astronomy and Astrophysics,107024,2025-11-20 11:02:29
+2023,1910,Oceanography,100817,2025-11-20 11:02:29
+2023,3106,Nuclear and High Energy Physics,50561,2025-11-20 11:02:29
+2023,2208,Electrical and Electronic Engineering,49170,2025-11-20 11:02:29
+2023,2304,Environmental Chemistry,47571,2025-11-20 11:02:29
+2023,2204,Biomedical Engineering,47139,2025-11-20 11:02:29
+2023,1702,Artificial Intelligence,44906,2025-11-20 11:02:29
+2023,2505,Materials Chemistry,31601,2025-11-20 11:02:29
+2023,2306,Global and Planetary Change,26560,2025-11-20 11:02:29
+2023,2303,Ecology,26194,2025-11-20 11:02:29
+2024,3103,Astronomy and Astrophysics,61816,2025-11-20 11:02:29
+2024,1910,Oceanography,53725,2025-11-20 11:02:29
+2024,2204,Biomedical Engineering,41445,2025-11-20 11:02:29
+2024,3106,Nuclear and High Energy Physics,40084,2025-11-20 11:02:29
+2024,2208,Electrical and Electronic Engineering,38054,2025-11-20 11:02:29
+2024,1702,Artificial Intelligence,37054,2025-11-20 11:02:29
+2024,2505,Materials Chemistry,25941,2025-11-20 11:02:29
+2024,2303,Ecology,20155,2025-11-20 11:02:29
+2024,2210,Mechanical Engineering,19707,2025-11-20 11:02:29
+2024,1312,Molecular Biology,19315,2025-11-20 11:02:29
+2025,2204,Biomedical Engineering,27715,2025-11-20 11:02:29
+2025,1702,Artificial Intelligence,25223,2025-11-20 11:02:29
+2025,2208,Electrical and Electronic Engineering,24311,2025-11-20 11:02:29
+2025,2505,Materials Chemistry,17699,2025-11-20 11:02:29
+2025,1312,Molecular Biology,14205,2025-11-20 11:02:29
+2025,2303,Ecology,13495,2025-11-20 11:02:29
+2025,2306,Global and Planetary Change,11192,2025-11-20 11:02:29
+2025,2210,Mechanical Engineering,10916,2025-11-20 11:02:29
+2025,3107,"Atomic and Molecular Physics, and Optics",10381,2025-11-20 11:02:29
+2025,2202,Aerospace Engineering,9592,2025-11-20 11:02:29

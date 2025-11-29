@@ -1,0 +1,201 @@
+id,name,field,subfield,us_works_count,subfield_id
+T10472,Semiconductor materials and devices,Unknown,Unknown,128487,2208
+T10299,Photonic and Optical Devices,Unknown,Unknown,117927,2208
+T11429,Semiconductor Lasers and Optical Devices,Unknown,Unknown,69016,2208
+T10558,Advancements in Semiconductor Devices and Circuit Design,Unknown,Unknown,61656,2208
+T14117,Integrated Circuits and Semiconductor Failure Analysis,Unknown,Unknown,58013,2208
+T10913,Molecular Junctions and Nanostructures,Unknown,Unknown,56986,2208
+T10022,Semiconductor Quantum Structures and Devices,Unknown,Unknown,53357,2208
+T10018,Advancements in Battery Materials,Unknown,Unknown,47701,2208
+T10502,Advanced Memory and Neural Computing,Unknown,Unknown,45907,2208
+T10781,Plasma Diagnostics and Applications,Unknown,Unknown,45336,2208
+T10409,Fuel Cells and Related Materials,Unknown,Unknown,43085,2208
+T10232,Optical Network Technologies,Unknown,Unknown,42502,2208
+T10559,Particle Accelerators and Free-Electron Lasers,Unknown,Unknown,41169,2208
+T10262,Microwave Engineering and Waveguides,Unknown,Unknown,38845,2208
+T10988,Advanced Fiber Laser Technologies,Unknown,Unknown,38472,2208
+T10590,Chalcogenide Semiconductor Thin Films,Unknown,Unknown,37029,2208
+T10363,Low-power high-performance VLSI design,Unknown,Unknown,36973,2208
+T10663,Advanced Battery Technologies Research,Unknown,Unknown,36304,2208
+T11367,Particle accelerators and beam dynamics,Unknown,Unknown,35326,2208
+T10281,Advanced Battery Materials and Technologies,Unknown,Unknown,35060,2208
+T10675,Mechanical Circulatory Support Devices,Unknown,Unknown,61128,2204
+T11667,Advanced Chemical Sensor Technologies,Unknown,Unknown,52678,2204
+T10784,Muscle activation and electromyography studies,Unknown,Unknown,52209,2204
+T12386,Advanced X-ray and CT Imaging,Unknown,Unknown,47805,2204
+T10338,Advanced Sensor and Energy Harvesting Materials,Unknown,Unknown,47399,2204
+T11190,3D Printing in Biomedical Research,Unknown,Unknown,46834,2204
+T10412,Microfluidic and Capillary Electrophoresis Applications,Unknown,Unknown,45822,2204
+T11808,Superconducting Materials and Applications,Unknown,Unknown,45677,2204
+T12015,Photoacoustic and Ultrasonic Imaging,Unknown,Unknown,42041,2204
+T11160,Acoustic Wave Resonator Technologies,Unknown,Unknown,39957,2204
+T11255,Microfluidic and Bio-sensing Technologies,Unknown,Unknown,39654,2204
+T10402,Phase Equilibria and Thermodynamics,Unknown,Unknown,36203,2204
+T10822,Acoustic Wave Phenomena Research,Unknown,Unknown,35323,2204
+T10171,Biofuel production and bioconversion,Unknown,Unknown,34894,2204
+T13280,Biomedical and Engineering Education,Unknown,Unknown,33661,2204
+T11301,Advanced Surface Polishing Techniques,Unknown,Unknown,32481,2204
+T10059,Bone Tissue Engineering Materials,Unknown,Unknown,30352,2204
+T10782,Nanoplatforms for cancer theranostics,Unknown,Unknown,30321,2204
+T11407,Innovative Microfluidic and Catalytic Techniques Innovation,Unknown,Unknown,29407,2204
+T10958,Ultrasound and Hyperthermia Applications,Unknown,Unknown,29174,2204
+T10192,Catalytic Processes in Materials Science,Unknown,Unknown,67463,2505
+T11162,Enzyme Structure and Function,Unknown,Unknown,63728,2505
+T11878,Solid-state spectroscopy and crystallography,Unknown,Unknown,56067,2505
+T10083,Graphene research and applications,Unknown,Unknown,49978,2505
+T11242,Nuclear Materials and Properties,Unknown,Unknown,49729,2505
+T10474,Material Dynamics and Properties,Unknown,Unknown,42467,2505
+T10321,Quantum Dots Synthesis And Properties,Unknown,Unknown,41308,2505
+T10478,Diamond and Carbon-based Materials Research,Unknown,Unknown,38640,2505
+T11279,Lanthanide and Transition Metal Complexes,Unknown,Unknown,37600,2505
+T12588,Electronic and Structural Properties of Oxides,Unknown,Unknown,36363,2505
+T13465,"Graphite, nuclear technology, radiation studies",Unknown,Unknown,32144,2505
+T10090,ZnO doping and properties,Unknown,Unknown,31117,2505
+T10204,Microstructure and mechanical properties,Unknown,Unknown,31115,2505
+T10074,Carbon Nanotubes in Composites,Unknown,Unknown,30803,2505
+T10044,Protein Structure and Dynamics,Unknown,Unknown,30054,2505
+T10472,Semiconductor materials and devices,Unknown,Unknown,29850,2505
+T11948,Machine Learning in Materials Science,Unknown,Unknown,28942,2505
+T10903,Porphyrin and Phthalocyanine Chemistry,Unknown,Unknown,28733,2505
+T10592,Fusion materials and technologies,Unknown,Unknown,28592,2505
+T10107,Ferroelectric and Piezoelectric Materials,Unknown,Unknown,28548,2505
+T10002,Advanced Chemical Physics Studies,Unknown,Unknown,141872,3107
+T11177,Spectroscopy and Quantum Chemical Studies,Unknown,Unknown,98306,3107
+T10022,Semiconductor Quantum Structures and Devices,Unknown,Unknown,73799,3107
+T10523,Atomic and Molecular Physics,Unknown,Unknown,72533,3107
+T10382,Quantum and electron transport phenomena,Unknown,Unknown,67038,3107
+T11993,Atomic and Subatomic Physics Research,Unknown,Unknown,63324,3107
+T10299,Photonic and Optical Devices,Unknown,Unknown,60847,3107
+T10923,Force Microscopy Techniques and Applications,Unknown,Unknown,58479,3107
+T11965,"Quantum, superfluid, helium dynamics",Unknown,Unknown,55719,3107
+T10988,Advanced Fiber Laser Technologies,Unknown,Unknown,55549,3107
+T10425,Cold Atom Physics and Bose-Einstein Condensates,Unknown,Unknown,54175,3107
+T10049,Magnetic properties of thin films,Unknown,Unknown,48509,3107
+T10037,Physics of Superconductivity and Magnetism,Unknown,Unknown,46053,3107
+T11449,Mechanical and Optical Resonators,Unknown,Unknown,45888,3107
+T11853,Semiconductor materials and interfaces,Unknown,Unknown,42817,3107
+T10566,Laser-Matter Interactions and Applications,Unknown,Unknown,38596,3107
+T10622,Quantum Mechanics and Applications,Unknown,Unknown,35814,3107
+T13531,Surface and Thin Film Phenomena,Unknown,Unknown,32665,3107
+T10020,Quantum Information and Cryptography,Unknown,Unknown,32358,3107
+T11111,Spectroscopy and Laser Applications,Unknown,Unknown,31182,3107
+T10320,Neural Networks and Applications,Unknown,Unknown,60784,1702
+T10181,Natural Language Processing Techniques,Unknown,Unknown,57871,1702
+T10028,Topic Modeling,Unknown,Unknown,55062,1702
+T12157,Geochemistry and Geologic Mapping,Unknown,Unknown,46867,1702
+T10215,Semantic Web and Ontologies,Unknown,Unknown,46014,1702
+T10020,Quantum Information and Cryptography,Unknown,Unknown,39331,1702
+T11269,Algorithms and Data Compression,Unknown,Unknown,37830,1702
+T13018,Seismology and Earthquake Studies,Unknown,Unknown,32255,1702
+T10126,"Logic, programming, and type systems",Unknown,Unknown,32111,1702
+T11512,Anomaly Detection Techniques and Applications,Unknown,Unknown,28014,1702
+T11010,"Logic, Reasoning, and Knowledge",Unknown,Unknown,27728,1702
+T10711,Target Tracking and Data Fusion in Sensor Networks,Unknown,Unknown,27107,1702
+T10862,AI in cancer detection,Unknown,Unknown,26728,1702
+T10201,Speech Recognition and Synthesis,Unknown,Unknown,26618,1702
+T11901,Bayesian Methods and Mixture Models,Unknown,Unknown,26534,1702
+T10237,Cryptography and Data Security,Unknown,Unknown,25927,1702
+T10682,Quantum Computing Algorithms and Architecture,Unknown,Unknown,24897,1702
+T12072,Machine Learning and Algorithms,Unknown,Unknown,23797,1702
+T10764,Privacy-Preserving Technologies in Data,Unknown,Unknown,23673,1702
+T12031,Speech and dialogue systems,Unknown,Unknown,23273,1702
+T10159,Ionosphere and magnetosphere dynamics,Unknown,Unknown,269794,3103
+T11405,Geophysics and Gravity Measurements,Unknown,Unknown,155835,3103
+T10325,Astro and Planetary Science,Unknown,Unknown,145276,3103
+T10251,Solar and Space Plasma Dynamics,Unknown,Unknown,114882,3103
+T10039,"Stellar, planetary, and galactic studies",Unknown,Unknown,114172,3103
+T10818,Astrophysics and Cosmic Phenomena,Unknown,Unknown,112700,3103
+T10406,Planetary Science and Exploration,Unknown,Unknown,89945,3103
+T10477,Astrophysics and Star Formation Studies,Unknown,Unknown,73208,3103
+T10026,"Galaxies: Formation, Evolution, Phenomena",Unknown,Unknown,64310,3103
+T10095,Cosmology and Gravitation Theories,Unknown,Unknown,62549,3103
+T12424,Earthquake Detection and Analysis,Unknown,Unknown,60053,3103
+T12917,Astronomy and Astrophysical Research,Unknown,Unknown,56631,3103
+T11323,Gamma-ray bursts and supernovae,Unknown,Unknown,53122,3103
+T10995,Methane Hydrates and Related Phenomena,Unknown,Unknown,48126,3103
+T10744,Astrophysical Phenomena and Observations,Unknown,Unknown,47342,3103
+T10463,Pulsars and Gravitational Waves Research,Unknown,Unknown,36925,3103
+T11757,Seismic Waves and Analysis,Unknown,Unknown,35190,3103
+T10025,Black Holes and Theoretical Physics,Unknown,Unknown,32099,3103
+T11786,Geomagnetism and Paleomagnetism Studies,Unknown,Unknown,30107,3103
+T12788,Space Science and Extraterrestrial Life,Unknown,Unknown,22979,3103
+T10044,Protein Structure and Dynamics,Unknown,Unknown,56539,1312
+T11162,Enzyme Structure and Function,Unknown,Unknown,51212,1312
+T11048,Bacteriophages and microbial interactions,Unknown,Unknown,48440,1312
+T10911,Chemical Synthesis and Analysis,Unknown,Unknown,47799,1312
+T11786,Geomagnetism and Paleomagnetism Studies,Unknown,Unknown,46976,1312
+T10207,Advanced biosensing and bioanalysis techniques,Unknown,Unknown,45675,1312
+T10015,Genomics and Phylogenetic Studies,Unknown,Unknown,43790,1312
+T11791,Microbial Community Ecology and Physiology,Unknown,Unknown,34942,1312
+T10303,Photosynthetic Processes and Mechanisms,Unknown,Unknown,32236,1312
+T10521,RNA and protein synthesis mechanisms,Unknown,Unknown,31793,1312
+T10211,Computational Drug Discovery Methods,Unknown,Unknown,31654,1312
+T10683,Mass Spectrometry Techniques and Applications,Unknown,Unknown,29610,1312
+T10835,Carbohydrate Chemistry and Synthesis,Unknown,Unknown,28713,1312
+T10602,Glycosylation and Glycoproteins Research,Unknown,Unknown,25924,1312
+T10432,DNA and Nucleic Acid Chemistry,Unknown,Unknown,25467,1312
+T10407,Lipid Membrane Structure and Behavior,Unknown,Unknown,25049,1312
+T10836,Metabolomics and Mass Spectrometry Studies,Unknown,Unknown,24904,1312
+T11879,Protist diversity and phylogeny,Unknown,Unknown,23426,1312
+T10932,Microbial Metabolic Engineering and Bioproduction,Unknown,Unknown,22821,1312
+T10519,Advanced Proteomics Techniques and Applications,Unknown,Unknown,20867,1312
+T10635,Hydraulic Fracturing and Reservoir Analysis,Unknown,Unknown,58523,2210
+T12169,Non-Destructive Testing Techniques,Unknown,Unknown,31390,2210
+T10998,Heat Transfer and Optimization,Unknown,Unknown,26911,2210
+T10717,Aluminum Alloys Composites Properties,Unknown,Unknown,26863,2210
+T12784,Modular Robots and Swarm Intelligence,Unknown,Unknown,26484,2210
+T10892,Drilling and Well Engineering,Unknown,Unknown,25228,2210
+T12099,Advanced materials and composites,Unknown,Unknown,23369,2210
+T10672,Design Education and Practice,Unknown,Unknown,23261,2210
+T11138,Tribology and Lubrication Engineering,Unknown,Unknown,21901,2210
+T11372,Hydraulic and Pneumatic Systems,Unknown,Unknown,21837,2210
+T11801,Reservoir Engineering and Simulation Methods,Unknown,Unknown,21818,2210
+T11583,Advanced Measurement and Metrology Techniques,Unknown,Unknown,21799,2210
+T10386,Microstructure and Mechanical Properties of Steels,Unknown,Unknown,20340,2210
+T11091,Extraction and Separation Processes,Unknown,Unknown,20217,2210
+T11100,Intermetallics and Advanced Alloy Properties,Unknown,Unknown,20180,2210
+T11737,Advanced Materials and Mechanics,Unknown,Unknown,19551,2210
+T10700,Metal Forming Simulation Techniques,Unknown,Unknown,19540,2210
+T11945,Heat Transfer Mechanisms,Unknown,Unknown,19414,2210
+T10850,Heat Transfer and Boiling Studies,Unknown,Unknown,19042,2210
+T11126,Metallurgical Processes and Thermodynamics,Unknown,Unknown,18106,2210
+T11048,Bacteriophages and microbial interactions,Unknown,Unknown,82987,2303
+T10199,Wildlife Ecology and Conservation,Unknown,Unknown,73268,2303
+T11791,Microbial Community Ecology and Physiology,Unknown,Unknown,63231,2303
+T12073,Isotope Analysis in Ecology,Unknown,Unknown,49656,2303
+T10659,Marine animal studies overview,Unknown,Unknown,45835,2303
+T13388,Rangeland and Wildlife Management,Unknown,Unknown,44528,2303
+T10302,Fish Ecology and Management Studies,Unknown,Unknown,40598,2303
+T11056,Physiological and biochemical adaptations,Unknown,Unknown,38798,2303
+T10089,Avian ecology and behavior,Unknown,Unknown,37768,2303
+T10577,Hydrology and Sediment Transport Processes,Unknown,Unknown,35730,2303
+T10341,Coral and Marine Ecosystems Studies,Unknown,Unknown,34839,2303
+T10005,Ecology and Vegetation Dynamics Studies,Unknown,Unknown,33369,2303
+T11913,Animal Ecology and Behavior Studies,Unknown,Unknown,33195,2303
+T11691,Forest Insect Ecology and Management,Unknown,Unknown,31924,2303
+T10779,Coastal wetland ecosystem dynamics,Unknown,Unknown,30520,2303
+T10015,Genomics and Phylogenetic Studies,Unknown,Unknown,29591,2303
+T10895,Species Distribution and Climate Change,Unknown,Unknown,29570,2303
+T10111,Remote Sensing in Agriculture,Unknown,Unknown,29271,2303
+T10815,Parasite Biology and Host Interactions,Unknown,Unknown,28906,2303
+T10230,Marine and fisheries research,Unknown,Unknown,28289,2303
+T11367,Particle accelerators and beam dynamics,Unknown,Unknown,61512,2202
+T10597,Nuclear reactor physics and engineering,Unknown,Unknown,50958,2202
+T13200,Spacecraft and Cryogenic Technologies,Unknown,Unknown,45217,2202
+T12449,Spacecraft Design and Technology,Unknown,Unknown,37662,2202
+T12513,Rocket and propulsion systems research,Unknown,Unknown,36920,2202
+T10360,Fluid Dynamics and Turbulent Flows,Unknown,Unknown,36436,2202
+T10069,Antenna Design and Analysis,Unknown,Unknown,34936,2202
+T10173,Computational Fluid Dynamics and Aerodynamics,Unknown,Unknown,34557,2202
+T11008,Aerodynamics and Acoustics in Jet Flows,Unknown,Unknown,33108,2202
+T10191,Robotics and Sensor-Based Localization,Unknown,Unknown,32998,2202
+T14214,Space Exploration and Technology,Unknown,Unknown,32487,2202
+T12019,Calibration and Measurement Techniques,Unknown,Unknown,29758,2202
+T10406,Planetary Science and Exploration,Unknown,Unknown,29680,2202
+T11383,Advanced Antenna and Metasurface Technologies,Unknown,Unknown,27752,2202
+T10325,Astro and Planetary Science,Unknown,Unknown,26447,2202
+T11619,Combustion and Detonation Processes,Unknown,Unknown,26078,2202
+T10559,Particle Accelerators and Free-Electron Lasers,Unknown,Unknown,25510,2202
+T12125,Aerospace and Aviation Technology,Unknown,Unknown,23342,2202
+T11701,Space Satellite Systems and Control,Unknown,Unknown,22220,2202
+T12389,Infrared Target Detection Methodologies,Unknown,Unknown,21940,2202
