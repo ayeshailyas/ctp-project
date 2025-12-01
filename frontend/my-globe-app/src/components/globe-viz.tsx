@@ -1,13 +1,13 @@
 "use client"
 
-import type React from "react"
-import { useEffect, useRef, useState, useCallback, useMemo } from "react"
+import { useEffect, useRef, useState, useCallback, useMemo, memo } from "react"
 import { Search } from "lucide-react"
 import type Globe from "react-globe.gl"
 
 interface GlobeVizProps {
   onCountryClick: (countryCode: string, countryName: string) => void
   selectedCountryCode?: string | null
+  isIntro: boolean
 }
 
 interface CountryFeature {
@@ -27,7 +27,7 @@ interface GeoJsonData {
   features: CountryFeature[]
 }
 
-export default function GlobeViz({ onCountryClick, selectedCountryCode }: GlobeVizProps) {
+const GlobeViz = ({ onCountryClick, selectedCountryCode, isIntro }: GlobeVizProps) => {
   const globeRef = useRef<any>(null)
   
   const [countries, setCountries] = useState<GeoJsonData>({ type: "FeatureCollection", features: [] })
@@ -69,20 +69,21 @@ export default function GlobeViz({ onCountryClick, selectedCountryCode }: GlobeV
       const controls = globeRef.current.controls()
       if (controls) {
         controls.autoRotate = true
-        controls.autoRotateSpeed = 0.5
-        controls.enableZoom = true
+        controls.autoRotateSpeed = isIntro ? 0.8 : 0.3 
+        controls.enableZoom = !isIntro
       }
     }
-  }, [GlobeComponent])
+  }, [GlobeComponent, isIntro]) 
 
   const handlePolygonClick = useCallback(
     (polygon: object) => {
+      if (isIntro) return 
+
       const feature = polygon as CountryFeature
       const countryCode = getCountryCode(feature)
       const countryName = feature.properties?.ADMIN
 
       if (countryCode && countryName) {
-        // Stop auto-rotation on click
         if (globeRef.current) {
           const controls = globeRef.current.controls()
           if (controls) {
@@ -90,12 +91,11 @@ export default function GlobeViz({ onCountryClick, selectedCountryCode }: GlobeV
           }
         }
 
-        // Zoom to country
         if (feature.bbox && globeRef.current) {
           const [minLng, minLat, maxLng, maxLat] = feature.bbox
           const lat = (minLat + maxLat) / 2
           const lng = (minLng + maxLng) / 2
-          globeRef.current.pointOfView({ lat, lng, altitude: 1.5 }, 2000)
+          globeRef.current.pointOfView({ lat, lng, altitude: 1.5 }, 1500)
         }
 
         onCountryClick(countryCode, countryName)
@@ -103,41 +103,40 @@ export default function GlobeViz({ onCountryClick, selectedCountryCode }: GlobeV
         setIsSearchActive(false)
       }
     },
-    [onCountryClick, getCountryCode],
+    [onCountryClick, getCountryCode, isIntro],
   )
 
   const handlePolygonHover = useCallback((polygon: object | null) => {
+    if (isIntro) {
+        setHoveredCountry(null)
+        return
+    }
+    
     if (!polygon) {
         setHoveredCountry(null)
         return
     }
     const feature = polygon as CountryFeature
-    const code = getCountryCode(feature) // Use helper
+    const code = getCountryCode(feature) 
     setHoveredCountry(code)
-  }, [getCountryCode])
+  }, [getCountryCode, isIntro])
 
   const getPolygonCapColor = useCallback(
     (polygon: object) => {
       const feature = polygon as CountryFeature
-      const code = getCountryCode(feature) // Use helper
+      const code = getCountryCode(feature) 
       
       if (code === hoveredCountry || code === selectedCountryCode) {
-        return "rgba(0, 200, 255, 0.7)" // Bright Cyan for Selected/Hovered
+        return "rgba(0, 200, 255, 0.7)" 
       }
-      return "rgba(100, 100, 150, 0.6)" // Default Blue
+      return "rgba(100, 100, 150, 0.6)" 
     },
     [hoveredCountry, selectedCountryCode, getCountryCode],
   )
 
-  const getPolygonSideColor = useCallback(() => {
-    return "rgba(50, 50, 80, 0.4)"
-  }, [])
+  const getPolygonSideColor = useCallback(() => "rgba(50, 50, 80, 0.4)", [])
+  const getPolygonStrokeColor = useCallback(() => "#334155", [])
 
-  const getPolygonStrokeColor = useCallback(() => {
-    return "#334155"
-  }, [])
-
-  // Filter countries for search
   const filteredCountries = useMemo(() => {
     if (!searchQuery) return []
     return countries.features
@@ -146,6 +145,7 @@ export default function GlobeViz({ onCountryClick, selectedCountryCode }: GlobeV
       )
       .slice(0, 5) 
   }, [countries, searchQuery])
+
 
   if (!GlobeComponent) {
     return (
@@ -158,7 +158,11 @@ export default function GlobeViz({ onCountryClick, selectedCountryCode }: GlobeV
   return (
     <div className="relative h-full w-full">
       {/* SEARCH BAR */}
-      <div className="absolute left-6 top-24 z-50 w-72">
+      <div 
+        className={`absolute left-6 top-24 z-50 w-72 transition-all duration-700 ease-out ${
+          isIntro ? "opacity-0 -translate-y-4 pointer-events-none" : "opacity-100 translate-y-0"
+        }`}
+      >
         <div className="relative group">
           <div className="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
             <Search className="h-4 w-4 text-cyan-400" />
@@ -207,7 +211,7 @@ export default function GlobeViz({ onCountryClick, selectedCountryCode }: GlobeV
         `}
         polygonAltitude={(d) => {
           const feature = d as CountryFeature
-          const code = getCountryCode(feature) // Use helper
+          const code = getCountryCode(feature)
           return (code === hoveredCountry || code === selectedCountryCode) ? 0.06 : 0.01
         }}
         onPolygonClick={handlePolygonClick}
@@ -219,3 +223,5 @@ export default function GlobeViz({ onCountryClick, selectedCountryCode }: GlobeV
     </div>
   )
 }
+
+export default memo(GlobeViz)
