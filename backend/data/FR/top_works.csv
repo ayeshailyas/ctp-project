@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1312,Molecular Biology,Fiji: an open-source platform for biological-image analysis,https://doi.org/10.1038/nmeth.2019,2012,65110,https://openalex.org/W2167279371
+1312,Molecular Biology,Naive Bayesian Classifier for Rapid Assignment of rRNA Sequences into the New Bacterial Taxonomy,https://doi.org/10.1128/aem.00062-07,2007,19663,https://openalex.org/W2152885278
+1312,Molecular Biology,An integrated encyclopedia of DNA elements in the human genome,https://doi.org/10.1038/nature11247,2012,18550,https://openalex.org/W2259938310
+3312,Sociology and Political Science,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1136/bmj.n71,2021,75073,https://openalex.org/W3118615836
+3312,Sociology and Political Science,RoB 2: a revised tool for assessing risk of bias in randomised trials,https://doi.org/10.1136/bmj.l4898,2019,25597,https://openalex.org/W2970684805
+3312,Sociology and Political Science,"Users of the world, unite! The challenges and opportunities of Social Media",https://doi.org/10.1016/j.bushor.2009.09.003,2009,17006,https://openalex.org/W2121001699
+2208,Electrical and Electronic Engineering,QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials,https://doi.org/10.1088/0953-8984/21/39/395502,2009,27468,https://openalex.org/W2120145199
+2208,Electrical and Electronic Engineering,Building better batteries,https://doi.org/10.1038/451652a,2008,18767,https://openalex.org/W2006318126
+2208,Electrical and Electronic Engineering,Materials for electrochemical capacitors,https://doi.org/10.1038/nmat2297,2008,15598,https://openalex.org/W2053328406
+2505,Materials Chemistry,Scalable molecular dynamics with NAMD,https://doi.org/10.1002/jcc.20289,2005,16983,https://openalex.org/W2150981663
+2505,Materials Chemistry,Raman Spectrum of Graphene and Graphene Layers,https://doi.org/10.1103/physrevlett.97.187401,2006,14549,https://openalex.org/W2136334331
+2505,Materials Chemistry,IOP Conference Series: Materials Science and Engineering,https://doi.org/10.1088/1757-899x/1231/1/011001,2022,10376,https://openalex.org/W4210327135
+2204,Biomedical Engineering,"Physisorption of gases, with special reference to the evaluation of surface area and pore size distribution (IUPAC Technical Report)",https://doi.org/10.1515/pac-2014-1117,2015,17641,https://openalex.org/W843007777
+2204,Biomedical Engineering,An Introduction To Compressive Sampling,https://doi.org/10.1109/msp.2007.914731,2008,9839,https://openalex.org/W2119667497
+2204,Biomedical Engineering,Light Propagation with Phase Discontinuities: Generalized Laws of Reflection and Refraction,https://doi.org/10.1126/science.1210713,2011,9372,https://openalex.org/W2121607567
+3107,"Atomic and Molecular Physics, and Optics",QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials,https://doi.org/10.1088/0953-8984/21/39/395502,2009,27468,https://openalex.org/W2120145199
+3107,"Atomic and Molecular Physics, and Optics",Light Propagation with Phase Discontinuities: Generalized Laws of Reflection and Refraction,https://doi.org/10.1126/science.1210713,2011,9372,https://openalex.org/W2121607567
+3107,"Atomic and Molecular Physics, and Optics",CHARMM: The biomolecular simulation program,https://doi.org/10.1002/jcc.21287,2009,8703,https://openalex.org/W2132262459
+2746,Surgery,"Global cancer statistics, 2012",https://doi.org/10.3322/caac.21262,2015,27172,https://openalex.org/W2917837889
+2746,Surgery,The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3),https://doi.org/10.1001/jama.2016.0287,2016,25256,https://openalex.org/W2280404143
+2746,Surgery,2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer,https://doi.org/10.1089/thy.2015.0020,2015,15652,https://openalex.org/W2145150141
+1702,Artificial Intelligence,Scikit-learn: Machine Learning in Python,https://doi.org/10.48550/arxiv.1201.0490,2012,62906,https://openalex.org/W2101234009
+1702,Artificial Intelligence,Array programming with NumPy,https://doi.org/10.1038/s41586-020-2649-2,2020,18707,https://openalex.org/W3035965352
+1702,Artificial Intelligence,Astropy: A community Python package for astronomy,https://doi.org/10.1051/0004-6361/201322068,2013,12940,https://openalex.org/W2135625048
+3600,General Health Professions,Neonatal vitamin A supplementation and infant survival,https://doi.org/10.1016/s0140,2010,22452,https://openalex.org/W3120106258
+3600,General Health Professions,ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions,https://doi.org/10.1136/bmj.i4919,2016,16454,https://openalex.org/W2531269403
+3600,General Health Professions,Better reporting of interventions: template for intervention description and replication (TIDieR) checklist and guide,https://doi.org/10.1136/bmj.g1687,2014,9227,https://openalex.org/W2145555293
+2713,Epidemiology,Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries,https://doi.org/10.3322/caac.21660,2021,107145,https://openalex.org/W3128646645
+2713,Epidemiology,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1136/bmj.n71,2021,75073,https://openalex.org/W3118615836
+2713,Epidemiology,Global cancer statistics,https://doi.org/10.3322/caac.20107,2011,54917,https://openalex.org/W2106787323

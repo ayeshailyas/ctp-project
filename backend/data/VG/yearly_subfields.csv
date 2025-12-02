@@ -1,0 +1,913 @@
+year,id,name,works_count,country,fetch_date
+2005,2212,Ocean Engineering,394,VG,2025-12-01 19:02:51
+2005,2210,Mechanical Engineering,273,VG,2025-12-01 19:02:51
+2005,1908,Geophysics,72,VG,2025-12-01 19:02:51
+2005,2211,Mechanics of Materials,63,VG,2025-12-01 19:02:51
+2005,3106,Nuclear and High Energy Physics,21,VG,2025-12-01 19:02:51
+2005,2205,Civil and Structural Engineering,18,VG,2025-12-01 19:02:51
+2005,1602,Analytical Chemistry,17,VG,2025-12-01 19:02:51
+2005,2105,"Renewable Energy, Sustainability and the Environment",10,VG,2025-12-01 19:02:51
+2005,1906,Geochemistry and Petrology,9,VG,2025-12-01 19:02:51
+2005,2305,Environmental Engineering,9,VG,2025-12-01 19:02:51
+2005,1702,Artificial Intelligence,8,VG,2025-12-01 19:02:51
+2005,2204,Biomedical Engineering,7,VG,2025-12-01 19:02:51
+2005,2003,Finance,5,VG,2025-12-01 19:02:51
+2005,2206,Computational Mechanics,5,VG,2025-12-01 19:02:51
+2005,2208,Electrical and Electronic Engineering,5,VG,2025-12-01 19:02:51
+2005,2304,Environmental Chemistry,5,VG,2025-12-01 19:02:51
+2005,1907,Geology,4,VG,2025-12-01 19:02:51
+2005,1705,Computer Networks and Communications,3,VG,2025-12-01 19:02:51
+2005,2207,Control and Systems Engineering,3,VG,2025-12-01 19:02:51
+2005,2505,Materials Chemistry,3,VG,2025-12-01 19:02:51
+2005,2607,Discrete Mathematics and Combinatorics,3,VG,2025-12-01 19:02:51
+2005,1502,Bioengineering,2,VG,2025-12-01 19:02:51
+2005,1803,Management Science and Operations Research,2,VG,2025-12-01 19:02:51
+2005,1904,Earth-Surface Processes,2,VG,2025-12-01 19:02:51
+2005,1910,Oceanography,2,VG,2025-12-01 19:02:51
+2005,2000,"General Economics, Econometrics and Finance",2,VG,2025-12-01 19:02:51
+2005,2308,"Management, Monitoring, Policy and Law",2,VG,2025-12-01 19:02:51
+2005,2502,Biomaterials,2,VG,2025-12-01 19:02:51
+2005,2741,"Radiology, Nuclear Medicine and Imaging",2,VG,2025-12-01 19:02:51
+2005,3108,Radiation,2,VG,2025-12-01 19:02:51
+2005,3109,Statistical and Nonlinear Physics,2,VG,2025-12-01 19:02:51
+2005,1404,Management Information Systems,1,VG,2025-12-01 19:02:51
+2005,1408,Strategy and Management,1,VG,2025-12-01 19:02:51
+2005,1507,Fluid Flow and Transfer Processes,1,VG,2025-12-01 19:02:51
+2005,1707,Computer Vision and Pattern Recognition,1,VG,2025-12-01 19:02:51
+2005,1710,Information Systems,1,VG,2025-12-01 19:02:51
+2005,1711,Signal Processing,1,VG,2025-12-01 19:02:51
+2005,1804,"Statistics, Probability and Uncertainty",1,VG,2025-12-01 19:02:51
+2005,1902,Atmospheric Science,1,VG,2025-12-01 19:02:51
+2005,2202,Aerospace Engineering,1,VG,2025-12-01 19:02:51
+2005,2209,Industrial and Manufacturing Engineering,1,VG,2025-12-01 19:02:51
+2005,2306,Global and Planetary Change,1,VG,2025-12-01 19:02:51
+2005,2312,Water Science and Technology,1,VG,2025-12-01 19:02:51
+2005,2500,General Materials Science,1,VG,2025-12-01 19:02:51
+2005,3107,"Atomic and Molecular Physics, and Optics",1,VG,2025-12-01 19:02:51
+2006,2212,Ocean Engineering,432,VG,2025-12-01 19:02:51
+2006,2210,Mechanical Engineering,318,VG,2025-12-01 19:02:51
+2006,1908,Geophysics,84,VG,2025-12-01 19:02:51
+2006,2211,Mechanics of Materials,67,VG,2025-12-01 19:02:51
+2006,2205,Civil and Structural Engineering,30,VG,2025-12-01 19:02:51
+2006,3106,Nuclear and High Energy Physics,27,VG,2025-12-01 19:02:51
+2006,2305,Environmental Engineering,17,VG,2025-12-01 19:02:51
+2006,1702,Artificial Intelligence,10,VG,2025-12-01 19:02:51
+2006,2204,Biomedical Engineering,10,VG,2025-12-01 19:02:51
+2006,2304,Environmental Chemistry,9,VG,2025-12-01 19:02:51
+2006,1907,Geology,8,VG,2025-12-01 19:02:51
+2006,2105,"Renewable Energy, Sustainability and the Environment",7,VG,2025-12-01 19:02:51
+2006,1602,Analytical Chemistry,6,VG,2025-12-01 19:02:51
+2006,2306,Global and Planetary Change,6,VG,2025-12-01 19:02:51
+2006,2207,Control and Systems Engineering,5,VG,2025-12-01 19:02:51
+2006,1804,"Statistics, Probability and Uncertainty",4,VG,2025-12-01 19:02:51
+2006,2202,Aerospace Engineering,4,VG,2025-12-01 19:02:51
+2006,2206,Computational Mechanics,4,VG,2025-12-01 19:02:51
+2006,1312,Molecular Biology,3,VG,2025-12-01 19:02:51
+2006,1906,Geochemistry and Petrology,3,VG,2025-12-01 19:02:51
+2006,2208,Electrical and Electronic Engineering,3,VG,2025-12-01 19:02:51
+2006,3312,Sociology and Political Science,3,VG,2025-12-01 19:02:51
+2006,3614,Radiological and Ultrasound Technology,3,VG,2025-12-01 19:02:51
+2006,2215,Building and Construction,2,VG,2025-12-01 19:02:51
+2006,2502,Biomaterials,2,VG,2025-12-01 19:02:51
+2006,3108,Radiation,2,VG,2025-12-01 19:02:51
+2006,1507,Fluid Flow and Transfer Processes,1,VG,2025-12-01 19:02:51
+2006,1703,Computational Theory and Mathematics,1,VG,2025-12-01 19:02:51
+2006,1710,Information Systems,1,VG,2025-12-01 19:02:51
+2006,1711,Signal Processing,1,VG,2025-12-01 19:02:51
+2006,1902,Atmospheric Science,1,VG,2025-12-01 19:02:51
+2006,1910,Oceanography,1,VG,2025-12-01 19:02:51
+2006,2000,"General Economics, Econometrics and Finance",1,VG,2025-12-01 19:02:51
+2006,2002,Economics and Econometrics,1,VG,2025-12-01 19:02:51
+2006,2003,Finance,1,VG,2025-12-01 19:02:51
+2006,2214,Media Technology,1,VG,2025-12-01 19:02:51
+2006,2308,"Management, Monitoring, Policy and Law",1,VG,2025-12-01 19:02:51
+2006,2312,Water Science and Technology,1,VG,2025-12-01 19:02:51
+2006,2500,General Materials Science,1,VG,2025-12-01 19:02:51
+2006,2504,"Electronic, Optical and Magnetic Materials",1,VG,2025-12-01 19:02:51
+2006,2506,Metals and Alloys,1,VG,2025-12-01 19:02:51
+2006,2604,Applied Mathematics,1,VG,2025-12-01 19:02:51
+2006,2741,"Radiology, Nuclear Medicine and Imaging",1,VG,2025-12-01 19:02:51
+2007,2212,Ocean Engineering,460,VG,2025-12-01 19:02:51
+2007,2210,Mechanical Engineering,335,VG,2025-12-01 19:02:51
+2007,1908,Geophysics,93,VG,2025-12-01 19:02:51
+2007,2211,Mechanics of Materials,84,VG,2025-12-01 19:02:51
+2007,3106,Nuclear and High Energy Physics,40,VG,2025-12-01 19:02:51
+2007,2205,Civil and Structural Engineering,31,VG,2025-12-01 19:02:51
+2007,2305,Environmental Engineering,21,VG,2025-12-01 19:02:51
+2007,1602,Analytical Chemistry,10,VG,2025-12-01 19:02:51
+2007,2204,Biomedical Engineering,9,VG,2025-12-01 19:02:51
+2007,2105,"Renewable Energy, Sustainability and the Environment",7,VG,2025-12-01 19:02:51
+2007,1906,Geochemistry and Petrology,6,VG,2025-12-01 19:02:51
+2007,1702,Artificial Intelligence,5,VG,2025-12-01 19:02:51
+2007,2505,Materials Chemistry,5,VG,2025-12-01 19:02:51
+2007,2741,"Radiology, Nuclear Medicine and Imaging",5,VG,2025-12-01 19:02:51
+2007,2202,Aerospace Engineering,4,VG,2025-12-01 19:02:51
+2007,2206,Computational Mechanics,4,VG,2025-12-01 19:02:51
+2007,2208,Electrical and Electronic Engineering,4,VG,2025-12-01 19:02:51
+2007,2304,Environmental Chemistry,4,VG,2025-12-01 19:02:51
+2007,1110,Plant Science,2,VG,2025-12-01 19:02:51
+2007,1705,Computer Networks and Communications,2,VG,2025-12-01 19:02:51
+2007,1710,Information Systems,2,VG,2025-12-01 19:02:51
+2007,1907,Geology,2,VG,2025-12-01 19:02:51
+2007,2003,Finance,2,VG,2025-12-01 19:02:51
+2007,2207,Control and Systems Engineering,2,VG,2025-12-01 19:02:51
+2007,2502,Biomaterials,2,VG,2025-12-01 19:02:51
+2007,3108,Radiation,2,VG,2025-12-01 19:02:51
+2007,1502,Bioengineering,1,VG,2025-12-01 19:02:51
+2007,1507,Fluid Flow and Transfer Processes,1,VG,2025-12-01 19:02:51
+2007,1605,Organic Chemistry,1,VG,2025-12-01 19:02:51
+2007,1703,Computational Theory and Mathematics,1,VG,2025-12-01 19:02:51
+2007,1707,Computer Vision and Pattern Recognition,1,VG,2025-12-01 19:02:51
+2007,1902,Atmospheric Science,1,VG,2025-12-01 19:02:51
+2007,1904,Earth-Surface Processes,1,VG,2025-12-01 19:02:51
+2007,1910,Oceanography,1,VG,2025-12-01 19:02:51
+2007,2000,"General Economics, Econometrics and Finance",1,VG,2025-12-01 19:02:51
+2007,2213,"Safety, Risk, Reliability and Quality",1,VG,2025-12-01 19:02:51
+2007,2214,Media Technology,1,VG,2025-12-01 19:02:51
+2007,2215,Building and Construction,1,VG,2025-12-01 19:02:51
+2007,2306,Global and Planetary Change,1,VG,2025-12-01 19:02:51
+2007,2308,"Management, Monitoring, Policy and Law",1,VG,2025-12-01 19:02:51
+2007,2312,Water Science and Technology,1,VG,2025-12-01 19:02:51
+2007,2503,Ceramics and Composites,1,VG,2025-12-01 19:02:51
+2007,2508,"Surfaces, Coatings and Films",1,VG,2025-12-01 19:02:51
+2007,2604,Applied Mathematics,1,VG,2025-12-01 19:02:51
+2007,2607,Discrete Mathematics and Combinatorics,1,VG,2025-12-01 19:02:51
+2007,2610,Mathematical Physics,1,VG,2025-12-01 19:02:51
+2007,3107,"Atomic and Molecular Physics, and Optics",1,VG,2025-12-01 19:02:51
+2007,3614,Radiological and Ultrasound Technology,1,VG,2025-12-01 19:02:51
+2008,2212,Ocean Engineering,331,VG,2025-12-01 19:02:51
+2008,2210,Mechanical Engineering,234,VG,2025-12-01 19:02:51
+2008,2211,Mechanics of Materials,84,VG,2025-12-01 19:02:51
+2008,1908,Geophysics,81,VG,2025-12-01 19:02:51
+2008,3106,Nuclear and High Energy Physics,33,VG,2025-12-01 19:02:51
+2008,2205,Civil and Structural Engineering,23,VG,2025-12-01 19:02:51
+2008,2305,Environmental Engineering,15,VG,2025-12-01 19:02:51
+2008,1702,Artificial Intelligence,12,VG,2025-12-01 19:02:51
+2008,2304,Environmental Chemistry,8,VG,2025-12-01 19:02:51
+2008,1906,Geochemistry and Petrology,7,VG,2025-12-01 19:02:51
+2008,2204,Biomedical Engineering,7,VG,2025-12-01 19:02:51
+2008,2206,Computational Mechanics,6,VG,2025-12-01 19:02:51
+2008,1602,Analytical Chemistry,5,VG,2025-12-01 19:02:51
+2008,2208,Electrical and Electronic Engineering,5,VG,2025-12-01 19:02:51
+2008,1907,Geology,4,VG,2025-12-01 19:02:51
+2008,2207,Control and Systems Engineering,4,VG,2025-12-01 19:02:51
+2008,2306,Global and Planetary Change,4,VG,2025-12-01 19:02:51
+2008,1710,Information Systems,3,VG,2025-12-01 19:02:51
+2008,1804,"Statistics, Probability and Uncertainty",3,VG,2025-12-01 19:02:51
+2008,1904,Earth-Surface Processes,3,VG,2025-12-01 19:02:51
+2008,2105,"Renewable Energy, Sustainability and the Environment",3,VG,2025-12-01 19:02:51
+2008,2502,Biomaterials,3,VG,2025-12-01 19:02:51
+2008,1605,Organic Chemistry,2,VG,2025-12-01 19:02:51
+2008,1910,Oceanography,2,VG,2025-12-01 19:02:51
+2008,2505,Materials Chemistry,2,VG,2025-12-01 19:02:51
+2008,3614,Radiological and Ultrasound Technology,2,VG,2025-12-01 19:02:51
+2008,1407,Organizational Behavior and Human Resource Management,1,VG,2025-12-01 19:02:51
+2008,1502,Bioengineering,1,VG,2025-12-01 19:02:51
+2008,1507,Fluid Flow and Transfer Processes,1,VG,2025-12-01 19:02:51
+2008,1604,Inorganic Chemistry,1,VG,2025-12-01 19:02:51
+2008,1703,Computational Theory and Mathematics,1,VG,2025-12-01 19:02:51
+2008,1707,Computer Vision and Pattern Recognition,1,VG,2025-12-01 19:02:51
+2008,1802,Information Systems and Management,1,VG,2025-12-01 19:02:51
+2008,1803,Management Science and Operations Research,1,VG,2025-12-01 19:02:51
+2008,1902,Atmospheric Science,1,VG,2025-12-01 19:02:51
+2008,2002,Economics and Econometrics,1,VG,2025-12-01 19:02:51
+2008,2003,Finance,1,VG,2025-12-01 19:02:51
+2008,2202,Aerospace Engineering,1,VG,2025-12-01 19:02:51
+2008,2213,"Safety, Risk, Reliability and Quality",1,VG,2025-12-01 19:02:51
+2008,2215,Building and Construction,1,VG,2025-12-01 19:02:51
+2008,2308,"Management, Monitoring, Policy and Law",1,VG,2025-12-01 19:02:51
+2008,2310,Pollution,1,VG,2025-12-01 19:02:51
+2008,2312,Water Science and Technology,1,VG,2025-12-01 19:02:51
+2008,2500,General Materials Science,1,VG,2025-12-01 19:02:51
+2008,2503,Ceramics and Composites,1,VG,2025-12-01 19:02:51
+2008,2504,"Electronic, Optical and Magnetic Materials",1,VG,2025-12-01 19:02:51
+2008,2741,"Radiology, Nuclear Medicine and Imaging",1,VG,2025-12-01 19:02:51
+2008,3004,Pharmacology,1,VG,2025-12-01 19:02:51
+2008,3107,"Atomic and Molecular Physics, and Optics",1,VG,2025-12-01 19:02:51
+2008,3207,Social Psychology,1,VG,2025-12-01 19:02:51
+2008,3303,Development,1,VG,2025-12-01 19:02:51
+2008,3312,Sociology and Political Science,1,VG,2025-12-01 19:02:51
+2009,2212,Ocean Engineering,390,VG,2025-12-01 19:02:51
+2009,2210,Mechanical Engineering,314,VG,2025-12-01 19:02:51
+2009,1908,Geophysics,124,VG,2025-12-01 19:02:51
+2009,2211,Mechanics of Materials,79,VG,2025-12-01 19:02:51
+2009,3106,Nuclear and High Energy Physics,35,VG,2025-12-01 19:02:51
+2009,2305,Environmental Engineering,21,VG,2025-12-01 19:02:51
+2009,2205,Civil and Structural Engineering,20,VG,2025-12-01 19:02:51
+2009,1602,Analytical Chemistry,13,VG,2025-12-01 19:02:51
+2009,1702,Artificial Intelligence,12,VG,2025-12-01 19:02:51
+2009,1906,Geochemistry and Petrology,9,VG,2025-12-01 19:02:51
+2009,1804,"Statistics, Probability and Uncertainty",5,VG,2025-12-01 19:02:51
+2009,1910,Oceanography,5,VG,2025-12-01 19:02:51
+2009,2105,"Renewable Energy, Sustainability and the Environment",5,VG,2025-12-01 19:02:51
+2009,2207,Control and Systems Engineering,5,VG,2025-12-01 19:02:51
+2009,2741,"Radiology, Nuclear Medicine and Imaging",5,VG,2025-12-01 19:02:51
+2009,1607,Spectroscopy,4,VG,2025-12-01 19:02:51
+2009,2206,Computational Mechanics,4,VG,2025-12-01 19:02:51
+2009,2208,Electrical and Electronic Engineering,4,VG,2025-12-01 19:02:51
+2009,2304,Environmental Chemistry,4,VG,2025-12-01 19:02:51
+2009,1904,Earth-Surface Processes,3,VG,2025-12-01 19:02:51
+2009,2204,Biomedical Engineering,3,VG,2025-12-01 19:02:51
+2009,3614,Radiological and Ultrasound Technology,3,VG,2025-12-01 19:02:51
+2009,1907,Geology,2,VG,2025-12-01 19:02:51
+2009,2306,Global and Planetary Change,2,VG,2025-12-01 19:02:51
+2009,2502,Biomaterials,2,VG,2025-12-01 19:02:51
+2009,2505,Materials Chemistry,2,VG,2025-12-01 19:02:51
+2009,2607,Discrete Mathematics and Combinatorics,2,VG,2025-12-01 19:02:51
+2009,1703,Computational Theory and Mathematics,1,VG,2025-12-01 19:02:51
+2009,1705,Computer Networks and Communications,1,VG,2025-12-01 19:02:51
+2009,1707,Computer Vision and Pattern Recognition,1,VG,2025-12-01 19:02:51
+2009,2000,"General Economics, Econometrics and Finance",1,VG,2025-12-01 19:02:51
+2009,2002,Economics and Econometrics,1,VG,2025-12-01 19:02:51
+2009,2003,Finance,1,VG,2025-12-01 19:02:51
+2009,2202,Aerospace Engineering,1,VG,2025-12-01 19:02:51
+2009,2209,Industrial and Manufacturing Engineering,1,VG,2025-12-01 19:02:51
+2009,2215,Building and Construction,1,VG,2025-12-01 19:02:51
+2009,2302,Ecological Modeling,1,VG,2025-12-01 19:02:51
+2009,2308,"Management, Monitoring, Policy and Law",1,VG,2025-12-01 19:02:51
+2009,3108,Radiation,1,VG,2025-12-01 19:02:51
+2010,2212,Ocean Engineering,471,VG,2025-12-01 19:02:51
+2010,2210,Mechanical Engineering,324,VG,2025-12-01 19:02:51
+2010,1908,Geophysics,129,VG,2025-12-01 19:02:51
+2010,2211,Mechanics of Materials,94,VG,2025-12-01 19:02:51
+2010,3106,Nuclear and High Energy Physics,34,VG,2025-12-01 19:02:51
+2010,2305,Environmental Engineering,29,VG,2025-12-01 19:02:51
+2010,1602,Analytical Chemistry,26,VG,2025-12-01 19:02:51
+2010,2205,Civil and Structural Engineering,26,VG,2025-12-01 19:02:51
+2010,1702,Artificial Intelligence,18,VG,2025-12-01 19:02:51
+2010,1907,Geology,14,VG,2025-12-01 19:02:51
+2010,1804,"Statistics, Probability and Uncertainty",13,VG,2025-12-01 19:02:51
+2010,2105,"Renewable Energy, Sustainability and the Environment",12,VG,2025-12-01 19:02:51
+2010,1906,Geochemistry and Petrology,10,VG,2025-12-01 19:02:51
+2010,3614,Radiological and Ultrasound Technology,8,VG,2025-12-01 19:02:51
+2010,2204,Biomedical Engineering,7,VG,2025-12-01 19:02:51
+2010,2207,Control and Systems Engineering,7,VG,2025-12-01 19:02:51
+2010,2304,Environmental Chemistry,7,VG,2025-12-01 19:02:51
+2010,2208,Electrical and Electronic Engineering,6,VG,2025-12-01 19:02:51
+2010,2306,Global and Planetary Change,6,VG,2025-12-01 19:02:51
+2010,2202,Aerospace Engineering,5,VG,2025-12-01 19:02:51
+2010,1705,Computer Networks and Communications,3,VG,2025-12-01 19:02:51
+2010,1910,Oceanography,3,VG,2025-12-01 19:02:51
+2010,2213,"Safety, Risk, Reliability and Quality",3,VG,2025-12-01 19:02:51
+2010,2505,Materials Chemistry,3,VG,2025-12-01 19:02:51
+2010,1507,Fluid Flow and Transfer Processes,2,VG,2025-12-01 19:02:51
+2010,1703,Computational Theory and Mathematics,2,VG,2025-12-01 19:02:51
+2010,1710,Information Systems,2,VG,2025-12-01 19:02:51
+2010,1902,Atmospheric Science,2,VG,2025-12-01 19:02:51
+2010,1904,Earth-Surface Processes,2,VG,2025-12-01 19:02:51
+2010,2003,Finance,2,VG,2025-12-01 19:02:51
+2010,2209,Industrial and Manufacturing Engineering,2,VG,2025-12-01 19:02:51
+2010,2502,Biomaterials,2,VG,2025-12-01 19:02:51
+2010,2741,"Radiology, Nuclear Medicine and Imaging",2,VG,2025-12-01 19:02:51
+2010,3107,"Atomic and Molecular Physics, and Optics",2,VG,2025-12-01 19:02:51
+2010,1304,Biophysics,1,VG,2025-12-01 19:02:51
+2010,1312,Molecular Biology,1,VG,2025-12-01 19:02:51
+2010,1405,Management of Technology and Innovation,1,VG,2025-12-01 19:02:51
+2010,1707,Computer Vision and Pattern Recognition,1,VG,2025-12-01 19:02:51
+2010,1711,Signal Processing,1,VG,2025-12-01 19:02:51
+2010,2000,"General Economics, Econometrics and Finance",1,VG,2025-12-01 19:02:51
+2010,2206,Computational Mechanics,1,VG,2025-12-01 19:02:51
+2010,2308,"Management, Monitoring, Policy and Law",1,VG,2025-12-01 19:02:51
+2010,2312,Water Science and Technology,1,VG,2025-12-01 19:02:51
+2010,2500,General Materials Science,1,VG,2025-12-01 19:02:51
+2010,2607,Discrete Mathematics and Combinatorics,1,VG,2025-12-01 19:02:51
+2010,2713,Epidemiology,1,VG,2025-12-01 19:02:51
+2010,2739,"Public Health, Environmental and Occupational Health",1,VG,2025-12-01 19:02:51
+2010,3108,Radiation,1,VG,2025-12-01 19:02:51
+2010,3109,Statistical and Nonlinear Physics,1,VG,2025-12-01 19:02:51
+2010,3312,Sociology and Political Science,1,VG,2025-12-01 19:02:51
+2011,2212,Ocean Engineering,394,VG,2025-12-01 19:02:51
+2011,2210,Mechanical Engineering,315,VG,2025-12-01 19:02:51
+2011,1908,Geophysics,135,VG,2025-12-01 19:02:51
+2011,2211,Mechanics of Materials,82,VG,2025-12-01 19:02:51
+2011,3106,Nuclear and High Energy Physics,36,VG,2025-12-01 19:02:51
+2011,2205,Civil and Structural Engineering,32,VG,2025-12-01 19:02:51
+2011,2305,Environmental Engineering,18,VG,2025-12-01 19:02:51
+2011,1907,Geology,15,VG,2025-12-01 19:02:51
+2011,1602,Analytical Chemistry,9,VG,2025-12-01 19:02:51
+2011,2208,Electrical and Electronic Engineering,7,VG,2025-12-01 19:02:51
+2011,1910,Oceanography,6,VG,2025-12-01 19:02:51
+2011,2206,Computational Mechanics,6,VG,2025-12-01 19:02:51
+2011,2502,Biomaterials,6,VG,2025-12-01 19:02:51
+2011,1702,Artificial Intelligence,5,VG,2025-12-01 19:02:51
+2011,1906,Geochemistry and Petrology,5,VG,2025-12-01 19:02:51
+2011,2204,Biomedical Engineering,4,VG,2025-12-01 19:02:51
+2011,2304,Environmental Chemistry,4,VG,2025-12-01 19:02:51
+2011,2207,Control and Systems Engineering,3,VG,2025-12-01 19:02:51
+2011,2308,"Management, Monitoring, Policy and Law",3,VG,2025-12-01 19:02:51
+2011,1804,"Statistics, Probability and Uncertainty",2,VG,2025-12-01 19:02:51
+2011,1904,Earth-Surface Processes,2,VG,2025-12-01 19:02:51
+2011,2105,"Renewable Energy, Sustainability and the Environment",2,VG,2025-12-01 19:02:51
+2011,2214,Media Technology,2,VG,2025-12-01 19:02:51
+2011,2505,Materials Chemistry,2,VG,2025-12-01 19:02:51
+2011,2506,Metals and Alloys,2,VG,2025-12-01 19:02:51
+2011,3108,Radiation,2,VG,2025-12-01 19:02:51
+2011,1703,Computational Theory and Mathematics,1,VG,2025-12-01 19:02:51
+2011,1704,Computer Graphics and Computer-Aided Design,1,VG,2025-12-01 19:02:51
+2011,1705,Computer Networks and Communications,1,VG,2025-12-01 19:02:51
+2011,2003,Finance,1,VG,2025-12-01 19:02:51
+2011,2202,Aerospace Engineering,1,VG,2025-12-01 19:02:51
+2011,2213,"Safety, Risk, Reliability and Quality",1,VG,2025-12-01 19:02:51
+2011,2306,Global and Planetary Change,1,VG,2025-12-01 19:02:51
+2011,2311,Industrial and Manufacturing Engineering,1,VG,2025-12-01 19:02:51
+2011,3105,Instrumentation,1,VG,2025-12-01 19:02:51
+2011,3107,"Atomic and Molecular Physics, and Optics",1,VG,2025-12-01 19:02:51
+2011,3202,Applied Psychology,1,VG,2025-12-01 19:02:51
+2011,3204,Developmental and Educational Psychology,1,VG,2025-12-01 19:02:51
+2012,2212,Ocean Engineering,440,VG,2025-12-01 19:02:51
+2012,2210,Mechanical Engineering,294,VG,2025-12-01 19:02:51
+2012,1908,Geophysics,126,VG,2025-12-01 19:02:51
+2012,2211,Mechanics of Materials,99,VG,2025-12-01 19:02:51
+2012,3106,Nuclear and High Energy Physics,33,VG,2025-12-01 19:02:51
+2012,2205,Civil and Structural Engineering,28,VG,2025-12-01 19:02:51
+2012,2305,Environmental Engineering,24,VG,2025-12-01 19:02:51
+2012,1602,Analytical Chemistry,22,VG,2025-12-01 19:02:51
+2012,1906,Geochemistry and Petrology,15,VG,2025-12-01 19:02:51
+2012,1907,Geology,10,VG,2025-12-01 19:02:51
+2012,2207,Control and Systems Engineering,8,VG,2025-12-01 19:02:51
+2012,2204,Biomedical Engineering,7,VG,2025-12-01 19:02:51
+2012,1702,Artificial Intelligence,6,VG,2025-12-01 19:02:51
+2012,2306,Global and Planetary Change,6,VG,2025-12-01 19:02:51
+2012,2312,Water Science and Technology,6,VG,2025-12-01 19:02:51
+2012,2505,Materials Chemistry,6,VG,2025-12-01 19:02:51
+2012,2304,Environmental Chemistry,5,VG,2025-12-01 19:02:51
+2012,1312,Molecular Biology,4,VG,2025-12-01 19:02:51
+2012,2206,Computational Mechanics,4,VG,2025-12-01 19:02:51
+2012,1804,"Statistics, Probability and Uncertainty",3,VG,2025-12-01 19:02:51
+2012,1910,Oceanography,3,VG,2025-12-01 19:02:51
+2012,2202,Aerospace Engineering,3,VG,2025-12-01 19:02:51
+2012,1110,Plant Science,2,VG,2025-12-01 19:02:51
+2012,1111,Soil Science,2,VG,2025-12-01 19:02:51
+2012,2000,"General Economics, Econometrics and Finance",2,VG,2025-12-01 19:02:51
+2012,2105,"Renewable Energy, Sustainability and the Environment",2,VG,2025-12-01 19:02:51
+2012,2208,Electrical and Electronic Engineering,2,VG,2025-12-01 19:02:51
+2012,2215,Building and Construction,2,VG,2025-12-01 19:02:51
+2012,2502,Biomaterials,2,VG,2025-12-01 19:02:51
+2012,3105,Instrumentation,2,VG,2025-12-01 19:02:51
+2012,1105,"Ecology, Evolution, Behavior and Systematics",1,VG,2025-12-01 19:02:51
+2012,1604,Inorganic Chemistry,1,VG,2025-12-01 19:02:51
+2012,1607,Spectroscopy,1,VG,2025-12-01 19:02:51
+2012,1703,Computational Theory and Mathematics,1,VG,2025-12-01 19:02:51
+2012,1705,Computer Networks and Communications,1,VG,2025-12-01 19:02:51
+2012,1707,Computer Vision and Pattern Recognition,1,VG,2025-12-01 19:02:51
+2012,1802,Information Systems and Management,1,VG,2025-12-01 19:02:51
+2012,1904,Earth-Surface Processes,1,VG,2025-12-01 19:02:51
+2012,1911,Paleontology,1,VG,2025-12-01 19:02:51
+2012,2003,Finance,1,VG,2025-12-01 19:02:51
+2012,2209,Industrial and Manufacturing Engineering,1,VG,2025-12-01 19:02:51
+2012,2214,Media Technology,1,VG,2025-12-01 19:02:51
+2012,2302,Ecological Modeling,1,VG,2025-12-01 19:02:51
+2012,2308,"Management, Monitoring, Policy and Law",1,VG,2025-12-01 19:02:51
+2012,2500,General Materials Science,1,VG,2025-12-01 19:02:51
+2012,2504,"Electronic, Optical and Magnetic Materials",1,VG,2025-12-01 19:02:51
+2012,2506,Metals and Alloys,1,VG,2025-12-01 19:02:51
+2012,2604,Applied Mathematics,1,VG,2025-12-01 19:02:51
+2012,2607,Discrete Mathematics and Combinatorics,1,VG,2025-12-01 19:02:51
+2012,3107,"Atomic and Molecular Physics, and Optics",1,VG,2025-12-01 19:02:51
+2012,3108,Radiation,1,VG,2025-12-01 19:02:51
+2012,3109,Statistical and Nonlinear Physics,1,VG,2025-12-01 19:02:51
+2012,3312,Sociology and Political Science,1,VG,2025-12-01 19:02:51
+2012,3313,Transportation,1,VG,2025-12-01 19:02:51
+2012,3314,Anthropology,1,VG,2025-12-01 19:02:51
+2012,3614,Radiological and Ultrasound Technology,1,VG,2025-12-01 19:02:51
+2013,2212,Ocean Engineering,507,VG,2025-12-01 19:02:51
+2013,2210,Mechanical Engineering,354,VG,2025-12-01 19:02:51
+2013,1908,Geophysics,173,VG,2025-12-01 19:02:51
+2013,2211,Mechanics of Materials,128,VG,2025-12-01 19:02:51
+2013,3106,Nuclear and High Energy Physics,41,VG,2025-12-01 19:02:51
+2013,2205,Civil and Structural Engineering,34,VG,2025-12-01 19:02:51
+2013,1602,Analytical Chemistry,25,VG,2025-12-01 19:02:51
+2013,1907,Geology,25,VG,2025-12-01 19:02:51
+2013,2305,Environmental Engineering,14,VG,2025-12-01 19:02:51
+2013,1702,Artificial Intelligence,13,VG,2025-12-01 19:02:51
+2013,2304,Environmental Chemistry,8,VG,2025-12-01 19:02:51
+2013,1906,Geochemistry and Petrology,7,VG,2025-12-01 19:02:51
+2013,2204,Biomedical Engineering,6,VG,2025-12-01 19:02:51
+2013,2306,Global and Planetary Change,6,VG,2025-12-01 19:02:51
+2013,2505,Materials Chemistry,5,VG,2025-12-01 19:02:51
+2013,1910,Oceanography,4,VG,2025-12-01 19:02:51
+2013,2105,"Renewable Energy, Sustainability and the Environment",4,VG,2025-12-01 19:02:51
+2013,3108,Radiation,4,VG,2025-12-01 19:02:51
+2013,1707,Computer Vision and Pattern Recognition,3,VG,2025-12-01 19:02:51
+2013,2208,Electrical and Electronic Engineering,3,VG,2025-12-01 19:02:51
+2013,2502,Biomaterials,3,VG,2025-12-01 19:02:51
+2013,3614,Radiological and Ultrasound Technology,3,VG,2025-12-01 19:02:51
+2013,1312,Molecular Biology,2,VG,2025-12-01 19:02:51
+2013,1507,Fluid Flow and Transfer Processes,2,VG,2025-12-01 19:02:51
+2013,1607,Spectroscopy,2,VG,2025-12-01 19:02:51
+2013,1710,Information Systems,2,VG,2025-12-01 19:02:51
+2013,1904,Earth-Surface Processes,2,VG,2025-12-01 19:02:51
+2013,2311,Industrial and Manufacturing Engineering,2,VG,2025-12-01 19:02:51
+2013,2741,"Radiology, Nuclear Medicine and Imaging",2,VG,2025-12-01 19:02:51
+2013,3107,"Atomic and Molecular Physics, and Optics",2,VG,2025-12-01 19:02:51
+2013,3109,Statistical and Nonlinear Physics,2,VG,2025-12-01 19:02:51
+2013,1304,Biophysics,1,VG,2025-12-01 19:02:51
+2013,1605,Organic Chemistry,1,VG,2025-12-01 19:02:51
+2013,1804,"Statistics, Probability and Uncertainty",1,VG,2025-12-01 19:02:51
+2013,1911,Paleontology,1,VG,2025-12-01 19:02:51
+2013,2000,"General Economics, Econometrics and Finance",1,VG,2025-12-01 19:02:51
+2013,2202,Aerospace Engineering,1,VG,2025-12-01 19:02:51
+2013,2206,Computational Mechanics,1,VG,2025-12-01 19:02:51
+2013,2207,Control and Systems Engineering,1,VG,2025-12-01 19:02:51
+2013,2308,"Management, Monitoring, Policy and Law",1,VG,2025-12-01 19:02:51
+2013,2312,Water Science and Technology,1,VG,2025-12-01 19:02:51
+2013,2506,Metals and Alloys,1,VG,2025-12-01 19:02:51
+2013,3305,"Geography, Planning and Development",1,VG,2025-12-01 19:02:51
+2013,3312,Sociology and Political Science,1,VG,2025-12-01 19:02:51
+2014,2212,Ocean Engineering,616,VG,2025-12-01 19:02:51
+2014,2210,Mechanical Engineering,379,VG,2025-12-01 19:02:51
+2014,1908,Geophysics,268,VG,2025-12-01 19:02:51
+2014,2211,Mechanics of Materials,160,VG,2025-12-01 19:02:51
+2014,1907,Geology,45,VG,2025-12-01 19:02:51
+2014,2205,Civil and Structural Engineering,39,VG,2025-12-01 19:02:51
+2014,3106,Nuclear and High Energy Physics,39,VG,2025-12-01 19:02:51
+2014,1702,Artificial Intelligence,27,VG,2025-12-01 19:02:51
+2014,1910,Oceanography,26,VG,2025-12-01 19:02:51
+2014,1906,Geochemistry and Petrology,20,VG,2025-12-01 19:02:51
+2014,2304,Environmental Chemistry,16,VG,2025-12-01 19:02:51
+2014,1602,Analytical Chemistry,14,VG,2025-12-01 19:02:51
+2014,2306,Global and Planetary Change,13,VG,2025-12-01 19:02:51
+2014,2206,Computational Mechanics,12,VG,2025-12-01 19:02:51
+2014,2305,Environmental Engineering,11,VG,2025-12-01 19:02:51
+2014,1707,Computer Vision and Pattern Recognition,8,VG,2025-12-01 19:02:51
+2014,2105,"Renewable Energy, Sustainability and the Environment",8,VG,2025-12-01 19:02:51
+2014,2207,Control and Systems Engineering,8,VG,2025-12-01 19:02:51
+2014,2208,Electrical and Electronic Engineering,8,VG,2025-12-01 19:02:51
+2014,1904,Earth-Surface Processes,7,VG,2025-12-01 19:02:51
+2014,2204,Biomedical Engineering,6,VG,2025-12-01 19:02:51
+2014,2505,Materials Chemistry,6,VG,2025-12-01 19:02:51
+2014,1804,"Statistics, Probability and Uncertainty",4,VG,2025-12-01 19:02:51
+2014,2202,Aerospace Engineering,4,VG,2025-12-01 19:02:51
+2014,2308,"Management, Monitoring, Policy and Law",4,VG,2025-12-01 19:02:51
+2014,2000,"General Economics, Econometrics and Finance",3,VG,2025-12-01 19:02:51
+2014,2003,Finance,3,VG,2025-12-01 19:02:51
+2014,1312,Molecular Biology,2,VG,2025-12-01 19:02:51
+2014,1607,Spectroscopy,2,VG,2025-12-01 19:02:51
+2014,1703,Computational Theory and Mathematics,2,VG,2025-12-01 19:02:51
+2014,1902,Atmospheric Science,2,VG,2025-12-01 19:02:51
+2014,2502,Biomaterials,2,VG,2025-12-01 19:02:51
+2014,2506,Metals and Alloys,2,VG,2025-12-01 19:02:51
+2014,2741,"Radiology, Nuclear Medicine and Imaging",2,VG,2025-12-01 19:02:51
+2014,3107,"Atomic and Molecular Physics, and Optics",2,VG,2025-12-01 19:02:51
+2014,3312,Sociology and Political Science,2,VG,2025-12-01 19:02:51
+2014,3614,Radiological and Ultrasound Technology,2,VG,2025-12-01 19:02:51
+2014,1110,Plant Science,1,VG,2025-12-01 19:02:51
+2014,1202,History,1,VG,2025-12-01 19:02:51
+2014,1404,Management Information Systems,1,VG,2025-12-01 19:02:51
+2014,1405,Management of Technology and Innovation,1,VG,2025-12-01 19:02:51
+2014,1507,Fluid Flow and Transfer Processes,1,VG,2025-12-01 19:02:51
+2014,1711,Signal Processing,1,VG,2025-12-01 19:02:51
+2014,1802,Information Systems and Management,1,VG,2025-12-01 19:02:51
+2014,1803,Management Science and Operations Research,1,VG,2025-12-01 19:02:51
+2014,1911,Paleontology,1,VG,2025-12-01 19:02:51
+2014,2002,Economics and Econometrics,1,VG,2025-12-01 19:02:51
+2014,2215,Building and Construction,1,VG,2025-12-01 19:02:51
+2014,2302,Ecological Modeling,1,VG,2025-12-01 19:02:51
+2014,2303,Ecology,1,VG,2025-12-01 19:02:51
+2014,2311,Industrial and Manufacturing Engineering,1,VG,2025-12-01 19:02:51
+2014,2312,Water Science and Technology,1,VG,2025-12-01 19:02:51
+2014,2500,General Materials Science,1,VG,2025-12-01 19:02:51
+2014,2503,Ceramics and Composites,1,VG,2025-12-01 19:02:51
+2014,3103,Astronomy and Astrophysics,1,VG,2025-12-01 19:02:51
+2014,3105,Instrumentation,1,VG,2025-12-01 19:02:51
+2014,3108,Radiation,1,VG,2025-12-01 19:02:51
+2014,3205,Experimental and Cognitive Psychology,1,VG,2025-12-01 19:02:51
+2015,2212,Ocean Engineering,643,VG,2025-12-01 19:02:51
+2015,2210,Mechanical Engineering,455,VG,2025-12-01 19:02:51
+2015,1908,Geophysics,264,VG,2025-12-01 19:02:51
+2015,2211,Mechanics of Materials,168,VG,2025-12-01 19:02:51
+2015,3106,Nuclear and High Energy Physics,49,VG,2025-12-01 19:02:51
+2015,2205,Civil and Structural Engineering,34,VG,2025-12-01 19:02:51
+2015,1907,Geology,31,VG,2025-12-01 19:02:51
+2015,1702,Artificial Intelligence,26,VG,2025-12-01 19:02:51
+2015,1602,Analytical Chemistry,21,VG,2025-12-01 19:02:51
+2015,1906,Geochemistry and Petrology,17,VG,2025-12-01 19:02:51
+2015,2305,Environmental Engineering,15,VG,2025-12-01 19:02:51
+2015,1910,Oceanography,13,VG,2025-12-01 19:02:51
+2015,2204,Biomedical Engineering,11,VG,2025-12-01 19:02:51
+2015,2105,"Renewable Energy, Sustainability and the Environment",10,VG,2025-12-01 19:02:51
+2015,2207,Control and Systems Engineering,10,VG,2025-12-01 19:02:51
+2015,2304,Environmental Chemistry,10,VG,2025-12-01 19:02:51
+2015,1904,Earth-Surface Processes,9,VG,2025-12-01 19:02:51
+2015,2208,Electrical and Electronic Engineering,9,VG,2025-12-01 19:02:51
+2015,2206,Computational Mechanics,6,VG,2025-12-01 19:02:51
+2015,2306,Global and Planetary Change,5,VG,2025-12-01 19:02:51
+2015,1707,Computer Vision and Pattern Recognition,4,VG,2025-12-01 19:02:51
+2015,1804,"Statistics, Probability and Uncertainty",4,VG,2025-12-01 19:02:51
+2015,2312,Water Science and Technology,4,VG,2025-12-01 19:02:51
+2015,2741,"Radiology, Nuclear Medicine and Imaging",4,VG,2025-12-01 19:02:51
+2015,1703,Computational Theory and Mathematics,3,VG,2025-12-01 19:02:51
+2015,1705,Computer Networks and Communications,3,VG,2025-12-01 19:02:51
+2015,2502,Biomaterials,3,VG,2025-12-01 19:02:51
+2015,2505,Materials Chemistry,3,VG,2025-12-01 19:02:51
+2015,2607,Discrete Mathematics and Combinatorics,3,VG,2025-12-01 19:02:51
+2015,3108,Radiation,3,VG,2025-12-01 19:02:51
+2015,1507,Fluid Flow and Transfer Processes,2,VG,2025-12-01 19:02:51
+2015,1606,Physical and Theoretical Chemistry,2,VG,2025-12-01 19:02:51
+2015,1607,Spectroscopy,2,VG,2025-12-01 19:02:51
+2015,1911,Paleontology,2,VG,2025-12-01 19:02:51
+2015,2002,Economics and Econometrics,2,VG,2025-12-01 19:02:51
+2015,2202,Aerospace Engineering,2,VG,2025-12-01 19:02:51
+2015,2203,Automotive Engineering,2,VG,2025-12-01 19:02:51
+2015,2506,Metals and Alloys,2,VG,2025-12-01 19:02:51
+2015,2604,Applied Mathematics,2,VG,2025-12-01 19:02:51
+2015,1110,Plant Science,1,VG,2025-12-01 19:02:51
+2015,1312,Molecular Biology,1,VG,2025-12-01 19:02:51
+2015,1404,Management Information Systems,1,VG,2025-12-01 19:02:51
+2015,1710,Information Systems,1,VG,2025-12-01 19:02:51
+2015,1711,Signal Processing,1,VG,2025-12-01 19:02:51
+2015,1712,Software,1,VG,2025-12-01 19:02:51
+2015,1802,Information Systems and Management,1,VG,2025-12-01 19:02:51
+2015,1902,Atmospheric Science,1,VG,2025-12-01 19:02:51
+2015,2000,"General Economics, Econometrics and Finance",1,VG,2025-12-01 19:02:51
+2015,2215,Building and Construction,1,VG,2025-12-01 19:02:51
+2015,2308,"Management, Monitoring, Policy and Law",1,VG,2025-12-01 19:02:51
+2015,2508,"Surfaces, Coatings and Films",1,VG,2025-12-01 19:02:51
+2015,2740,Pulmonary and Respiratory Medicine,1,VG,2025-12-01 19:02:51
+2015,2746,Surgery,1,VG,2025-12-01 19:02:51
+2015,3109,Statistical and Nonlinear Physics,1,VG,2025-12-01 19:02:51
+2015,3314,Anthropology,1,VG,2025-12-01 19:02:51
+2015,3614,Radiological and Ultrasound Technology,1,VG,2025-12-01 19:02:51
+2015,3616,Speech and Hearing,1,VG,2025-12-01 19:02:51
+2016,2212,Ocean Engineering,544,VG,2025-12-01 19:02:51
+2016,2210,Mechanical Engineering,351,VG,2025-12-01 19:02:51
+2016,1908,Geophysics,195,VG,2025-12-01 19:02:51
+2016,2211,Mechanics of Materials,128,VG,2025-12-01 19:02:51
+2016,3106,Nuclear and High Energy Physics,41,VG,2025-12-01 19:02:51
+2016,1907,Geology,33,VG,2025-12-01 19:02:51
+2016,2205,Civil and Structural Engineering,27,VG,2025-12-01 19:02:51
+2016,1702,Artificial Intelligence,21,VG,2025-12-01 19:02:51
+2016,1602,Analytical Chemistry,20,VG,2025-12-01 19:02:51
+2016,1906,Geochemistry and Petrology,15,VG,2025-12-01 19:02:51
+2016,2304,Environmental Chemistry,13,VG,2025-12-01 19:02:51
+2016,2305,Environmental Engineering,13,VG,2025-12-01 19:02:51
+2016,1910,Oceanography,12,VG,2025-12-01 19:02:51
+2016,2208,Electrical and Electronic Engineering,8,VG,2025-12-01 19:02:51
+2016,1904,Earth-Surface Processes,6,VG,2025-12-01 19:02:51
+2016,2105,"Renewable Energy, Sustainability and the Environment",6,VG,2025-12-01 19:02:51
+2016,2204,Biomedical Engineering,6,VG,2025-12-01 19:02:51
+2016,2741,"Radiology, Nuclear Medicine and Imaging",4,VG,2025-12-01 19:02:51
+2016,1703,Computational Theory and Mathematics,3,VG,2025-12-01 19:02:51
+2016,3108,Radiation,3,VG,2025-12-01 19:02:51
+2016,1804,"Statistics, Probability and Uncertainty",2,VG,2025-12-01 19:02:51
+2016,2003,Finance,2,VG,2025-12-01 19:02:51
+2016,2202,Aerospace Engineering,2,VG,2025-12-01 19:02:51
+2016,2203,Automotive Engineering,2,VG,2025-12-01 19:02:51
+2016,2206,Computational Mechanics,2,VG,2025-12-01 19:02:51
+2016,2506,Metals and Alloys,2,VG,2025-12-01 19:02:51
+2016,3614,Radiological and Ultrasound Technology,2,VG,2025-12-01 19:02:51
+2016,1110,Plant Science,1,VG,2025-12-01 19:02:51
+2016,1202,History,1,VG,2025-12-01 19:02:51
+2016,1312,Molecular Biology,1,VG,2025-12-01 19:02:51
+2016,1604,Inorganic Chemistry,1,VG,2025-12-01 19:02:51
+2016,1607,Spectroscopy,1,VG,2025-12-01 19:02:51
+2016,1705,Computer Networks and Communications,1,VG,2025-12-01 19:02:51
+2016,1707,Computer Vision and Pattern Recognition,1,VG,2025-12-01 19:02:51
+2016,1710,Information Systems,1,VG,2025-12-01 19:02:51
+2016,2002,Economics and Econometrics,1,VG,2025-12-01 19:02:51
+2016,2207,Control and Systems Engineering,1,VG,2025-12-01 19:02:51
+2016,2214,Media Technology,1,VG,2025-12-01 19:02:51
+2016,2303,Ecology,1,VG,2025-12-01 19:02:51
+2016,2306,Global and Planetary Change,1,VG,2025-12-01 19:02:51
+2016,2308,"Management, Monitoring, Policy and Law",1,VG,2025-12-01 19:02:51
+2016,2309,Nature and Landscape Conservation,1,VG,2025-12-01 19:02:51
+2016,2312,Water Science and Technology,1,VG,2025-12-01 19:02:51
+2016,2502,Biomaterials,1,VG,2025-12-01 19:02:51
+2016,2505,Materials Chemistry,1,VG,2025-12-01 19:02:51
+2016,2607,Discrete Mathematics and Combinatorics,1,VG,2025-12-01 19:02:51
+2017,2212,Ocean Engineering,470,VG,2025-12-01 19:02:51
+2017,2210,Mechanical Engineering,303,VG,2025-12-01 19:02:51
+2017,1908,Geophysics,164,VG,2025-12-01 19:02:51
+2017,2211,Mechanics of Materials,101,VG,2025-12-01 19:02:51
+2017,2205,Civil and Structural Engineering,46,VG,2025-12-01 19:02:51
+2017,3106,Nuclear and High Energy Physics,30,VG,2025-12-01 19:02:51
+2017,1907,Geology,26,VG,2025-12-01 19:02:51
+2017,1602,Analytical Chemistry,16,VG,2025-12-01 19:02:51
+2017,1702,Artificial Intelligence,14,VG,2025-12-01 19:02:51
+2017,1910,Oceanography,13,VG,2025-12-01 19:02:51
+2017,1906,Geochemistry and Petrology,12,VG,2025-12-01 19:02:51
+2017,2305,Environmental Engineering,12,VG,2025-12-01 19:02:51
+2017,2204,Biomedical Engineering,10,VG,2025-12-01 19:02:51
+2017,1904,Earth-Surface Processes,8,VG,2025-12-01 19:02:51
+2017,2207,Control and Systems Engineering,5,VG,2025-12-01 19:02:51
+2017,2304,Environmental Chemistry,5,VG,2025-12-01 19:02:51
+2017,1707,Computer Vision and Pattern Recognition,4,VG,2025-12-01 19:02:51
+2017,1804,"Statistics, Probability and Uncertainty",4,VG,2025-12-01 19:02:51
+2017,2202,Aerospace Engineering,4,VG,2025-12-01 19:02:51
+2017,2206,Computational Mechanics,4,VG,2025-12-01 19:02:51
+2017,2208,Electrical and Electronic Engineering,4,VG,2025-12-01 19:02:51
+2017,2505,Materials Chemistry,4,VG,2025-12-01 19:02:51
+2017,2506,Metals and Alloys,4,VG,2025-12-01 19:02:51
+2017,2215,Building and Construction,3,VG,2025-12-01 19:02:51
+2017,2306,Global and Planetary Change,3,VG,2025-12-01 19:02:51
+2017,2308,"Management, Monitoring, Policy and Law",3,VG,2025-12-01 19:02:51
+2017,2741,"Radiology, Nuclear Medicine and Imaging",3,VG,2025-12-01 19:02:51
+2017,1703,Computational Theory and Mathematics,2,VG,2025-12-01 19:02:51
+2017,1711,Signal Processing,2,VG,2025-12-01 19:02:51
+2017,1803,Management Science and Operations Research,2,VG,2025-12-01 19:02:51
+2017,1405,Management of Technology and Innovation,1,VG,2025-12-01 19:02:51
+2017,1502,Bioengineering,1,VG,2025-12-01 19:02:51
+2017,1507,Fluid Flow and Transfer Processes,1,VG,2025-12-01 19:02:51
+2017,1607,Spectroscopy,1,VG,2025-12-01 19:02:51
+2017,1710,Information Systems,1,VG,2025-12-01 19:02:51
+2017,2000,"General Economics, Econometrics and Finance",1,VG,2025-12-01 19:02:51
+2017,2003,Finance,1,VG,2025-12-01 19:02:51
+2017,2105,"Renewable Energy, Sustainability and the Environment",1,VG,2025-12-01 19:02:51
+2017,2209,Industrial and Manufacturing Engineering,1,VG,2025-12-01 19:02:51
+2017,2213,"Safety, Risk, Reliability and Quality",1,VG,2025-12-01 19:02:51
+2017,2711,Emergency Medicine,1,VG,2025-12-01 19:02:51
+2017,3107,"Atomic and Molecular Physics, and Optics",1,VG,2025-12-01 19:02:51
+2017,3108,Radiation,1,VG,2025-12-01 19:02:51
+2017,3303,Development,1,VG,2025-12-01 19:02:51
+2017,3312,Sociology and Political Science,1,VG,2025-12-01 19:02:51
+2017,3614,Radiological and Ultrasound Technology,1,VG,2025-12-01 19:02:51
+2018,2212,Ocean Engineering,488,VG,2025-12-01 19:02:51
+2018,2210,Mechanical Engineering,352,VG,2025-12-01 19:02:51
+2018,1908,Geophysics,157,VG,2025-12-01 19:02:51
+2018,2211,Mechanics of Materials,122,VG,2025-12-01 19:02:51
+2018,2205,Civil and Structural Engineering,46,VG,2025-12-01 19:02:51
+2018,1907,Geology,34,VG,2025-12-01 19:02:51
+2018,3106,Nuclear and High Energy Physics,28,VG,2025-12-01 19:02:51
+2018,1702,Artificial Intelligence,19,VG,2025-12-01 19:02:51
+2018,1906,Geochemistry and Petrology,12,VG,2025-12-01 19:02:51
+2018,1602,Analytical Chemistry,11,VG,2025-12-01 19:02:51
+2018,2304,Environmental Chemistry,10,VG,2025-12-01 19:02:51
+2018,2204,Biomedical Engineering,9,VG,2025-12-01 19:02:51
+2018,2305,Environmental Engineering,7,VG,2025-12-01 19:02:51
+2018,1910,Oceanography,6,VG,2025-12-01 19:02:51
+2018,2105,"Renewable Energy, Sustainability and the Environment",6,VG,2025-12-01 19:02:51
+2018,2207,Control and Systems Engineering,6,VG,2025-12-01 19:02:51
+2018,2741,"Radiology, Nuclear Medicine and Imaging",6,VG,2025-12-01 19:02:51
+2018,3614,Radiological and Ultrasound Technology,5,VG,2025-12-01 19:02:51
+2018,1804,"Statistics, Probability and Uncertainty",4,VG,2025-12-01 19:02:51
+2018,2206,Computational Mechanics,3,VG,2025-12-01 19:02:51
+2018,2607,Discrete Mathematics and Combinatorics,3,VG,2025-12-01 19:02:51
+2018,3108,Radiation,3,VG,2025-12-01 19:02:51
+2018,1904,Earth-Surface Processes,2,VG,2025-12-01 19:02:51
+2018,2202,Aerospace Engineering,2,VG,2025-12-01 19:02:51
+2018,2203,Automotive Engineering,2,VG,2025-12-01 19:02:51
+2018,2208,Electrical and Electronic Engineering,2,VG,2025-12-01 19:02:51
+2018,2214,Media Technology,2,VG,2025-12-01 19:02:51
+2018,2215,Building and Construction,2,VG,2025-12-01 19:02:51
+2018,2312,Water Science and Technology,2,VG,2025-12-01 19:02:51
+2018,2505,Materials Chemistry,2,VG,2025-12-01 19:02:51
+2018,1110,Plant Science,1,VG,2025-12-01 19:02:51
+2018,1312,Molecular Biology,1,VG,2025-12-01 19:02:51
+2018,1404,Management Information Systems,1,VG,2025-12-01 19:02:51
+2018,1503,Catalysis,1,VG,2025-12-01 19:02:51
+2018,1507,Fluid Flow and Transfer Processes,1,VG,2025-12-01 19:02:51
+2018,1607,Spectroscopy,1,VG,2025-12-01 19:02:51
+2018,1703,Computational Theory and Mathematics,1,VG,2025-12-01 19:02:51
+2018,1707,Computer Vision and Pattern Recognition,1,VG,2025-12-01 19:02:51
+2018,1711,Signal Processing,1,VG,2025-12-01 19:02:51
+2018,2003,Finance,1,VG,2025-12-01 19:02:51
+2018,2103,Fuel Technology,1,VG,2025-12-01 19:02:51
+2018,2209,Industrial and Manufacturing Engineering,1,VG,2025-12-01 19:02:51
+2018,2303,Ecology,1,VG,2025-12-01 19:02:51
+2018,2306,Global and Planetary Change,1,VG,2025-12-01 19:02:51
+2018,2307,"Health, Toxicology and Mutagenesis",1,VG,2025-12-01 19:02:51
+2018,2308,"Management, Monitoring, Policy and Law",1,VG,2025-12-01 19:02:51
+2018,2500,General Materials Science,1,VG,2025-12-01 19:02:51
+2018,2502,Biomaterials,1,VG,2025-12-01 19:02:51
+2018,2506,Metals and Alloys,1,VG,2025-12-01 19:02:51
+2018,2507,Polymers and Plastics,1,VG,2025-12-01 19:02:51
+2018,3312,Sociology and Political Science,1,VG,2025-12-01 19:02:51
+2019,2212,Ocean Engineering,544,VG,2025-12-01 19:02:51
+2019,2210,Mechanical Engineering,348,VG,2025-12-01 19:02:51
+2019,1908,Geophysics,174,VG,2025-12-01 19:02:51
+2019,2211,Mechanics of Materials,117,VG,2025-12-01 19:02:51
+2019,2205,Civil and Structural Engineering,48,VG,2025-12-01 19:02:51
+2019,1907,Geology,38,VG,2025-12-01 19:02:51
+2019,3106,Nuclear and High Energy Physics,32,VG,2025-12-01 19:02:51
+2019,1906,Geochemistry and Petrology,28,VG,2025-12-01 19:02:51
+2019,1702,Artificial Intelligence,19,VG,2025-12-01 19:02:51
+2019,2304,Environmental Chemistry,16,VG,2025-12-01 19:02:51
+2019,1910,Oceanography,12,VG,2025-12-01 19:02:51
+2019,2305,Environmental Engineering,12,VG,2025-12-01 19:02:51
+2019,2204,Biomedical Engineering,11,VG,2025-12-01 19:02:51
+2019,1602,Analytical Chemistry,10,VG,2025-12-01 19:02:51
+2019,1904,Earth-Surface Processes,7,VG,2025-12-01 19:02:51
+2019,1707,Computer Vision and Pattern Recognition,6,VG,2025-12-01 19:02:51
+2019,2207,Control and Systems Engineering,5,VG,2025-12-01 19:02:51
+2019,1710,Information Systems,4,VG,2025-12-01 19:02:51
+2019,2105,"Renewable Energy, Sustainability and the Environment",4,VG,2025-12-01 19:02:51
+2019,2202,Aerospace Engineering,4,VG,2025-12-01 19:02:51
+2019,2206,Computational Mechanics,4,VG,2025-12-01 19:02:51
+2019,2312,Water Science and Technology,4,VG,2025-12-01 19:02:51
+2019,2505,Materials Chemistry,4,VG,2025-12-01 19:02:51
+2019,1705,Computer Networks and Communications,3,VG,2025-12-01 19:02:51
+2019,1711,Signal Processing,3,VG,2025-12-01 19:02:51
+2019,2208,Electrical and Electronic Engineering,3,VG,2025-12-01 19:02:51
+2019,2607,Discrete Mathematics and Combinatorics,3,VG,2025-12-01 19:02:51
+2019,1312,Molecular Biology,2,VG,2025-12-01 19:02:51
+2019,1507,Fluid Flow and Transfer Processes,2,VG,2025-12-01 19:02:51
+2019,1703,Computational Theory and Mathematics,2,VG,2025-12-01 19:02:51
+2019,1802,Information Systems and Management,2,VG,2025-12-01 19:02:51
+2019,1804,"Statistics, Probability and Uncertainty",2,VG,2025-12-01 19:02:51
+2019,2213,"Safety, Risk, Reliability and Quality",2,VG,2025-12-01 19:02:51
+2019,2308,"Management, Monitoring, Policy and Law",2,VG,2025-12-01 19:02:51
+2019,2506,Metals and Alloys,2,VG,2025-12-01 19:02:51
+2019,1110,Plant Science,1,VG,2025-12-01 19:02:51
+2019,1304,Biophysics,1,VG,2025-12-01 19:02:51
+2019,1708,Hardware and Architecture,1,VG,2025-12-01 19:02:51
+2019,1803,Management Science and Operations Research,1,VG,2025-12-01 19:02:51
+2019,1911,Paleontology,1,VG,2025-12-01 19:02:51
+2019,2102,Energy Engineering and Power Technology,1,VG,2025-12-01 19:02:51
+2019,2302,Ecological Modeling,1,VG,2025-12-01 19:02:51
+2019,2306,Global and Planetary Change,1,VG,2025-12-01 19:02:51
+2019,2502,Biomaterials,1,VG,2025-12-01 19:02:51
+2019,2731,Ophthalmology,1,VG,2025-12-01 19:02:51
+2019,2808,Neurology,1,VG,2025-12-01 19:02:51
+2019,3105,Instrumentation,1,VG,2025-12-01 19:02:51
+2019,3314,Anthropology,1,VG,2025-12-01 19:02:51
+2020,2212,Ocean Engineering,456,VG,2025-12-01 19:02:51
+2020,2210,Mechanical Engineering,306,VG,2025-12-01 19:02:51
+2020,1908,Geophysics,136,VG,2025-12-01 19:02:51
+2020,2211,Mechanics of Materials,92,VG,2025-12-01 19:02:51
+2020,2205,Civil and Structural Engineering,27,VG,2025-12-01 19:02:51
+2020,3106,Nuclear and High Energy Physics,25,VG,2025-12-01 19:02:51
+2020,1702,Artificial Intelligence,24,VG,2025-12-01 19:02:51
+2020,1907,Geology,15,VG,2025-12-01 19:02:51
+2020,1602,Analytical Chemistry,13,VG,2025-12-01 19:02:51
+2020,1906,Geochemistry and Petrology,12,VG,2025-12-01 19:02:51
+2020,1910,Oceanography,11,VG,2025-12-01 19:02:51
+2020,2305,Environmental Engineering,8,VG,2025-12-01 19:02:51
+2020,2207,Control and Systems Engineering,6,VG,2025-12-01 19:02:51
+2020,1707,Computer Vision and Pattern Recognition,5,VG,2025-12-01 19:02:51
+2020,2304,Environmental Chemistry,5,VG,2025-12-01 19:02:51
+2020,1710,Information Systems,3,VG,2025-12-01 19:02:51
+2020,1711,Signal Processing,3,VG,2025-12-01 19:02:51
+2020,1804,"Statistics, Probability and Uncertainty",3,VG,2025-12-01 19:02:51
+2020,1904,Earth-Surface Processes,3,VG,2025-12-01 19:02:51
+2020,2105,"Renewable Energy, Sustainability and the Environment",3,VG,2025-12-01 19:02:51
+2020,2202,Aerospace Engineering,3,VG,2025-12-01 19:02:51
+2020,2204,Biomedical Engineering,3,VG,2025-12-01 19:02:51
+2020,2206,Computational Mechanics,3,VG,2025-12-01 19:02:51
+2020,2208,Electrical and Electronic Engineering,3,VG,2025-12-01 19:02:51
+2020,2302,Ecological Modeling,3,VG,2025-12-01 19:02:51
+2020,2306,Global and Planetary Change,3,VG,2025-12-01 19:02:51
+2020,3108,Radiation,3,VG,2025-12-01 19:02:51
+2020,1507,Fluid Flow and Transfer Processes,2,VG,2025-12-01 19:02:51
+2020,2213,"Safety, Risk, Reliability and Quality",2,VG,2025-12-01 19:02:51
+2020,2214,Media Technology,2,VG,2025-12-01 19:02:51
+2020,2505,Materials Chemistry,2,VG,2025-12-01 19:02:51
+2020,2741,"Radiology, Nuclear Medicine and Imaging",2,VG,2025-12-01 19:02:51
+2020,3312,Sociology and Political Science,2,VG,2025-12-01 19:02:51
+2020,3614,Radiological and Ultrasound Technology,2,VG,2025-12-01 19:02:51
+2020,1404,Management Information Systems,1,VG,2025-12-01 19:02:51
+2020,1405,Management of Technology and Innovation,1,VG,2025-12-01 19:02:51
+2020,1705,Computer Networks and Communications,1,VG,2025-12-01 19:02:51
+2020,1712,Software,1,VG,2025-12-01 19:02:51
+2020,1902,Atmospheric Science,1,VG,2025-12-01 19:02:51
+2020,1911,Paleontology,1,VG,2025-12-01 19:02:51
+2020,2312,Water Science and Technology,1,VG,2025-12-01 19:02:51
+2020,2502,Biomaterials,1,VG,2025-12-01 19:02:51
+2020,2507,Polymers and Plastics,1,VG,2025-12-01 19:02:51
+2020,2607,Discrete Mathematics and Combinatorics,1,VG,2025-12-01 19:02:51
+2020,2746,Surgery,1,VG,2025-12-01 19:02:51
+2020,3107,"Atomic and Molecular Physics, and Optics",1,VG,2025-12-01 19:02:51
+2020,3315,Communication,1,VG,2025-12-01 19:02:51
+2021,2212,Ocean Engineering,561,VG,2025-12-01 19:02:51
+2021,2210,Mechanical Engineering,338,VG,2025-12-01 19:02:51
+2021,1908,Geophysics,181,VG,2025-12-01 19:02:51
+2021,2211,Mechanics of Materials,112,VG,2025-12-01 19:02:51
+2021,2205,Civil and Structural Engineering,45,VG,2025-12-01 19:02:51
+2021,1702,Artificial Intelligence,29,VG,2025-12-01 19:02:51
+2021,1907,Geology,25,VG,2025-12-01 19:02:51
+2021,3106,Nuclear and High Energy Physics,22,VG,2025-12-01 19:02:51
+2021,2305,Environmental Engineering,19,VG,2025-12-01 19:02:51
+2021,1906,Geochemistry and Petrology,16,VG,2025-12-01 19:02:51
+2021,1602,Analytical Chemistry,12,VG,2025-12-01 19:02:51
+2021,2207,Control and Systems Engineering,12,VG,2025-12-01 19:02:51
+2021,1910,Oceanography,10,VG,2025-12-01 19:02:51
+2021,2304,Environmental Chemistry,10,VG,2025-12-01 19:02:51
+2021,1804,"Statistics, Probability and Uncertainty",7,VG,2025-12-01 19:02:51
+2021,1904,Earth-Surface Processes,7,VG,2025-12-01 19:02:51
+2021,1711,Signal Processing,4,VG,2025-12-01 19:02:51
+2021,2204,Biomedical Engineering,4,VG,2025-12-01 19:02:51
+2021,2506,Metals and Alloys,4,VG,2025-12-01 19:02:51
+2021,3108,Radiation,4,VG,2025-12-01 19:02:51
+2021,1703,Computational Theory and Mathematics,3,VG,2025-12-01 19:02:51
+2021,1707,Computer Vision and Pattern Recognition,3,VG,2025-12-01 19:02:51
+2021,2105,"Renewable Energy, Sustainability and the Environment",3,VG,2025-12-01 19:02:51
+2021,2202,Aerospace Engineering,3,VG,2025-12-01 19:02:51
+2021,2206,Computational Mechanics,3,VG,2025-12-01 19:02:51
+2021,2505,Materials Chemistry,3,VG,2025-12-01 19:02:51
+2021,3614,Radiological and Ultrasound Technology,3,VG,2025-12-01 19:02:51
+2021,1705,Computer Networks and Communications,2,VG,2025-12-01 19:02:51
+2021,2209,Industrial and Manufacturing Engineering,2,VG,2025-12-01 19:02:51
+2021,2306,Global and Planetary Change,2,VG,2025-12-01 19:02:51
+2021,2741,"Radiology, Nuclear Medicine and Imaging",2,VG,2025-12-01 19:02:51
+2021,1204,Archeology,1,VG,2025-12-01 19:02:51
+2021,1304,Biophysics,1,VG,2025-12-01 19:02:51
+2021,1312,Molecular Biology,1,VG,2025-12-01 19:02:51
+2021,1407,Organizational Behavior and Human Resource Management,1,VG,2025-12-01 19:02:51
+2021,1507,Fluid Flow and Transfer Processes,1,VG,2025-12-01 19:02:51
+2021,1802,Information Systems and Management,1,VG,2025-12-01 19:02:51
+2021,2002,Economics and Econometrics,1,VG,2025-12-01 19:02:51
+2021,2003,Finance,1,VG,2025-12-01 19:02:51
+2021,2208,Electrical and Electronic Engineering,1,VG,2025-12-01 19:02:51
+2021,2302,Ecological Modeling,1,VG,2025-12-01 19:02:51
+2021,2312,Water Science and Technology,1,VG,2025-12-01 19:02:51
+2021,2502,Biomaterials,1,VG,2025-12-01 19:02:51
+2021,2607,Discrete Mathematics and Combinatorics,1,VG,2025-12-01 19:02:51
+2021,2705,Cardiology and Cardiovascular Medicine,1,VG,2025-12-01 19:02:51
+2021,3107,"Atomic and Molecular Physics, and Optics",1,VG,2025-12-01 19:02:51
+2021,3317,Demography,1,VG,2025-12-01 19:02:51
+2021,3607,Medical Laboratory Technology,1,VG,2025-12-01 19:02:51
+2022,2212,Ocean Engineering,440,VG,2025-12-01 19:02:51
+2022,2210,Mechanical Engineering,247,VG,2025-12-01 19:02:51
+2022,1908,Geophysics,140,VG,2025-12-01 19:02:51
+2022,2211,Mechanics of Materials,88,VG,2025-12-01 19:02:51
+2022,2205,Civil and Structural Engineering,34,VG,2025-12-01 19:02:51
+2022,1702,Artificial Intelligence,24,VG,2025-12-01 19:02:51
+2022,1907,Geology,20,VG,2025-12-01 19:02:51
+2022,1906,Geochemistry and Petrology,18,VG,2025-12-01 19:02:51
+2022,2305,Environmental Engineering,15,VG,2025-12-01 19:02:51
+2022,3106,Nuclear and High Energy Physics,13,VG,2025-12-01 19:02:51
+2022,1602,Analytical Chemistry,11,VG,2025-12-01 19:02:51
+2022,2105,"Renewable Energy, Sustainability and the Environment",10,VG,2025-12-01 19:02:51
+2022,1910,Oceanography,9,VG,2025-12-01 19:02:51
+2022,2207,Control and Systems Engineering,9,VG,2025-12-01 19:02:51
+2022,2306,Global and Planetary Change,8,VG,2025-12-01 19:02:51
+2022,1904,Earth-Surface Processes,7,VG,2025-12-01 19:02:51
+2022,2304,Environmental Chemistry,6,VG,2025-12-01 19:02:51
+2022,1802,Information Systems and Management,4,VG,2025-12-01 19:02:51
+2022,1804,"Statistics, Probability and Uncertainty",4,VG,2025-12-01 19:02:51
+2022,1711,Signal Processing,2,VG,2025-12-01 19:02:51
+2022,1803,Management Science and Operations Research,2,VG,2025-12-01 19:02:51
+2022,1911,Paleontology,2,VG,2025-12-01 19:02:51
+2022,2206,Computational Mechanics,2,VG,2025-12-01 19:02:51
+2022,2208,Electrical and Electronic Engineering,2,VG,2025-12-01 19:02:51
+2022,2312,Water Science and Technology,2,VG,2025-12-01 19:02:51
+2022,2505,Materials Chemistry,2,VG,2025-12-01 19:02:51
+2022,1110,Plant Science,1,VG,2025-12-01 19:02:51
+2022,1705,Computer Networks and Communications,1,VG,2025-12-01 19:02:51
+2022,2003,Finance,1,VG,2025-12-01 19:02:51
+2022,2102,Energy Engineering and Power Technology,1,VG,2025-12-01 19:02:51
+2022,2202,Aerospace Engineering,1,VG,2025-12-01 19:02:51
+2022,2204,Biomedical Engineering,1,VG,2025-12-01 19:02:51
+2022,2209,Industrial and Manufacturing Engineering,1,VG,2025-12-01 19:02:51
+2022,2213,"Safety, Risk, Reliability and Quality",1,VG,2025-12-01 19:02:51
+2022,2214,Media Technology,1,VG,2025-12-01 19:02:51
+2022,2302,Ecological Modeling,1,VG,2025-12-01 19:02:51
+2022,2303,Ecology,1,VG,2025-12-01 19:02:51
+2022,2500,General Materials Science,1,VG,2025-12-01 19:02:51
+2022,2507,Polymers and Plastics,1,VG,2025-12-01 19:02:51
+2022,3108,Radiation,1,VG,2025-12-01 19:02:51
+2022,3314,Anthropology,1,VG,2025-12-01 19:02:51
+2022,3607,Medical Laboratory Technology,1,VG,2025-12-01 19:02:51
+2023,2212,Ocean Engineering,58,VG,2025-12-01 19:02:51
+2023,2210,Mechanical Engineering,37,VG,2025-12-01 19:02:51
+2023,1908,Geophysics,20,VG,2025-12-01 19:02:51
+2023,2211,Mechanics of Materials,20,VG,2025-12-01 19:02:51
+2023,1907,Geology,7,VG,2025-12-01 19:02:51
+2023,2205,Civil and Structural Engineering,5,VG,2025-12-01 19:02:51
+2023,2304,Environmental Chemistry,4,VG,2025-12-01 19:02:51
+2023,2305,Environmental Engineering,4,VG,2025-12-01 19:02:51
+2023,1602,Analytical Chemistry,3,VG,2025-12-01 19:02:51
+2023,1702,Artificial Intelligence,3,VG,2025-12-01 19:02:51
+2023,3106,Nuclear and High Energy Physics,3,VG,2025-12-01 19:02:51
+2023,1707,Computer Vision and Pattern Recognition,2,VG,2025-12-01 19:02:51
+2023,1906,Geochemistry and Petrology,2,VG,2025-12-01 19:02:51
+2023,2207,Control and Systems Engineering,2,VG,2025-12-01 19:02:51
+2023,2306,Global and Planetary Change,2,VG,2025-12-01 19:02:51
+2023,1904,Earth-Surface Processes,1,VG,2025-12-01 19:02:51
+2023,2003,Finance,1,VG,2025-12-01 19:02:51
+2023,2209,Industrial and Manufacturing Engineering,1,VG,2025-12-01 19:02:51
+2023,2214,Media Technology,1,VG,2025-12-01 19:02:51
+2023,3108,Radiation,1,VG,2025-12-01 19:02:51
+2024,2212,Ocean Engineering,18,VG,2025-12-01 19:02:51
+2024,2210,Mechanical Engineering,14,VG,2025-12-01 19:02:51
+2024,2211,Mechanics of Materials,12,VG,2025-12-01 19:02:51
+2024,1907,Geology,5,VG,2025-12-01 19:02:51
+2024,1908,Geophysics,5,VG,2025-12-01 19:02:51
+2024,2205,Civil and Structural Engineering,3,VG,2025-12-01 19:02:51
+2024,1602,Analytical Chemistry,2,VG,2025-12-01 19:02:51
+2024,2208,Electrical and Electronic Engineering,2,VG,2025-12-01 19:02:51
+2024,2505,Materials Chemistry,2,VG,2025-12-01 19:02:51
+2024,2506,Metals and Alloys,2,VG,2025-12-01 19:02:51
+2024,1304,Biophysics,1,VG,2025-12-01 19:02:51
+2024,1702,Artificial Intelligence,1,VG,2025-12-01 19:02:51
+2024,1707,Computer Vision and Pattern Recognition,1,VG,2025-12-01 19:02:51
+2024,1904,Earth-Surface Processes,1,VG,2025-12-01 19:02:51
+2024,1906,Geochemistry and Petrology,1,VG,2025-12-01 19:02:51
+2024,1910,Oceanography,1,VG,2025-12-01 19:02:51
+2024,2105,"Renewable Energy, Sustainability and the Environment",1,VG,2025-12-01 19:02:51
+2024,2204,Biomedical Engineering,1,VG,2025-12-01 19:02:51
+2024,2215,Building and Construction,1,VG,2025-12-01 19:02:51
+2024,2305,Environmental Engineering,1,VG,2025-12-01 19:02:51
+2025,2212,Ocean Engineering,6,VG,2025-12-01 19:02:51
+2025,2210,Mechanical Engineering,5,VG,2025-12-01 19:02:51
+2025,2205,Civil and Structural Engineering,3,VG,2025-12-01 19:02:51
+2025,2211,Mechanics of Materials,3,VG,2025-12-01 19:02:51
+2025,1906,Geochemistry and Petrology,2,VG,2025-12-01 19:02:51
+2025,1908,Geophysics,2,VG,2025-12-01 19:02:51
+2025,1702,Artificial Intelligence,1,VG,2025-12-01 19:02:51
+2025,2207,Control and Systems Engineering,1,VG,2025-12-01 19:02:51
+2025,2208,Electrical and Electronic Engineering,1,VG,2025-12-01 19:02:51
+2025,2213,"Safety, Risk, Reliability and Quality",1,VG,2025-12-01 19:02:51
+2025,2304,Environmental Chemistry,1,VG,2025-12-01 19:02:51
+2025,2505,Materials Chemistry,1,VG,2025-12-01 19:02:51
+2025,2506,Metals and Alloys,1,VG,2025-12-01 19:02:51
+2025,2508,"Surfaces, Coatings and Films",1,VG,2025-12-01 19:02:51

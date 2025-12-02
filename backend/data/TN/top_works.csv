@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+2208,Electrical and Electronic Engineering,A comprehensive review of Thermoelectric Generators: Technologies and common applications,https://doi.org/10.1016/j.egyr.2019.12.011,2019,778,https://openalex.org/W2997116687
+2208,Electrical and Electronic Engineering,Survey on VANET security challenges and possible cryptographic solutions,https://doi.org/10.1016/j.vehcom.2014.05.001,2014,541,https://openalex.org/W2064164188
+2208,Electrical and Electronic Engineering,Identification of PV solar cells and modules parameters using the genetic algorithms: Application to maximum power extraction,https://doi.org/10.1016/j.solener.2010.02.012,2010,435,https://openalex.org/W1984172592
+2746,Surgery,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4779,https://openalex.org/W2953804067
+2746,Surgery,The revised Ghent nosology for the Marfan syndrome: Table 1,https://doi.org/10.1136/jmg.2009.072785,2010,2140,https://openalex.org/W1987891430
+2746,Surgery,Polymorphisms Associated with Cholesterol and Risk of Cardiovascular Events,https://doi.org/10.1056/nejmoa0706728,2008,709,https://openalex.org/W2394084479
+1312,Molecular Biology,In silico prediction of protein-protein interactions in human macrophages,https://doi.org/10.1186/1756-0500-7-157,2014,10952,https://openalex.org/W2157795344
+1312,Molecular Biology,Genome-wide maps of chromatin state in pluripotent and lineage-committed cells,https://doi.org/10.1038/nature06008,2007,4087,https://openalex.org/W2017840637
+1312,Molecular Biology,"Chitin and Chitosan Preparation from Marine Sources. Structure, Properties and Applications",https://doi.org/10.3390/md13031133,2015,2283,https://openalex.org/W2074980407
+2505,Materials Chemistry,Environmental impact and management of phosphogypsum,https://doi.org/10.1016/j.jenvman.2009.03.007,2009,882,https://openalex.org/W2120383433
+2505,Materials Chemistry,Impact of Metal and Metal Oxide Nanoparticles on Plant: A Critical Review,https://doi.org/10.3389/fchem.2017.00078,2017,788,https://openalex.org/W2762452565
+2505,Materials Chemistry,A comprehensive review of Thermoelectric Generators: Technologies and common applications,https://doi.org/10.1016/j.egyr.2019.12.011,2019,778,https://openalex.org/W2997116687
+1110,Plant Science,Catalase function in plants: a focus on Arabidopsis mutants as stress-mimic models,https://doi.org/10.1093/jxb/erq282,2010,930,https://openalex.org/W2147663934
+1110,Plant Science,Effect of Endocrine Disruptor Pesticides: A Review,https://doi.org/10.3390/ijerph8062265,2011,921,https://openalex.org/W2146416965
+1110,Plant Science,New Insights on Plant Salt Tolerance Mechanisms and Their Potential Use for Breeding,https://doi.org/10.3389/fpls.2016.01787,2016,702,https://openalex.org/W2559626869
+1702,Artificial Intelligence,Identification of PV solar cells and modules parameters using the genetic algorithms: Application to maximum power extraction,https://doi.org/10.1016/j.solener.2010.02.012,2010,435,https://openalex.org/W1984172592
+1702,Artificial Intelligence,Convolutional Neural Networks: A Survey,https://doi.org/10.3390/computers12080151,2023,423,https://openalex.org/W4385342469
+1702,Artificial Intelligence,Physics and Chemistry of Clouds,https://doi.org/10.1017/cbo9780511976377,2011,400,https://openalex.org/W583323484
+2740,Pulmonary and Respiratory Medicine,Effect of VX-770 in Persons with Cystic Fibrosis and the G551D- <i>CFTR</i> Mutation,https://doi.org/10.1056/nejmoa0909825,2010,792,https://openalex.org/W2121996960
+2740,Pulmonary and Respiratory Medicine,Eltrombopag for the Treatment of Chronic Idiopathic Thrombocytopenic Purpura,https://doi.org/10.1056/nejmoa073275,2007,782,https://openalex.org/W2013946336
+2740,Pulmonary and Respiratory Medicine,Treatment of Early Childhood Medulloblastoma by Postoperative Chemotherapy Alone,https://doi.org/10.1056/nejmoa042176,2005,746,https://openalex.org/W2071064669
+2713,Epidemiology,Cutaneous leishmaniasis,https://doi.org/10.1016/s1473-3099(07)70209-8,2007,1275,https://openalex.org/W4211078476
+2713,Epidemiology,Trends in prevalence of blindness and distance and near vision impairment over 30 years: an analysis for the Global Burden of Disease Study,https://doi.org/10.1016/s2214-109x(20)30425-3,2020,1163,https://openalex.org/W3110054227
+2713,Epidemiology,Autophagy and apoptosis dysfunction in neurodegenerative disorders,https://doi.org/10.1016/j.pneurobio.2013.10.004,2013,1018,https://openalex.org/W2125461230
+2204,Biomedical Engineering,Recent advances in new generation dye removal technologies: novel search for approaches to reprocess wastewater,https://doi.org/10.1039/c4ra16959j,2015,1102,https://openalex.org/W2032785536
+2204,Biomedical Engineering,Recent advances in modeling and simulation of nanofluid flows-Part I: Fundamentals and theory,https://doi.org/10.1016/j.physrep.2018.11.004,2018,893,https://openalex.org/W2905272168
+2204,Biomedical Engineering,American College of Radiology White Paper on Radiation Dose in Medicine,https://doi.org/10.1016/j.jacr.2007.03.002,2007,893,https://openalex.org/W2128289784
+2207,Control and Systems Engineering,Application of empirical mode decomposition and artificial neural network for automatic bearing fault diagnosis based on vibration signals,https://doi.org/10.1016/j.apacoust.2014.08.016,2014,735,https://openalex.org/W2003205626
+2207,Control and Systems Engineering,FPGAs in Industrial Control Applications,https://doi.org/10.1109/tii.2011.2123908,2011,491,https://openalex.org/W2100183523
+2207,Control and Systems Engineering,Accurate bearing remaining useful life prediction based on Weibull distribution and artificial neural network,https://doi.org/10.1016/j.ymssp.2014.10.014,2014,484,https://openalex.org/W2014685668

@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1702,Artificial Intelligence,Unbiased Scene Graph Generation From Biased Training,https://doi.org/10.1109/cvpr42600.2020.00377,2020,669,https://openalex.org/W3035017890
+1702,Artificial Intelligence,Asymmetric Loss For Multi-Label Classification,https://doi.org/10.1109/iccv48922.2021.00015,2021,494,https://openalex.org/W4214673031
+1702,Artificial Intelligence,Counterfactual VQA: A Cause-Effect Look at Language Bias,https://doi.org/10.1109/cvpr46437.2021.01251,2021,367,https://openalex.org/W3177934633
+1707,Computer Vision and Pattern Recognition,Second-Order Attention Network for Single Image Super-Resolution,https://doi.org/10.1109/cvpr.2019.01132,2019,1806,https://openalex.org/W2954930822
+1707,Computer Vision and Pattern Recognition,Toward Convolutional Blind Denoising of Real Photographs,https://doi.org/10.1109/cvpr.2019.00181,2019,1076,https://openalex.org/W2963725279
+1707,Computer Vision and Pattern Recognition,Unbiased Scene Graph Generation From Biased Training,https://doi.org/10.1109/cvpr42600.2020.00377,2020,669,https://openalex.org/W3035017890
+2713,Epidemiology,"Influence of Intracerebral Hemorrhage Location on Incidence, Characteristics, and Outcome",https://doi.org/10.1161/strokeaha.114.007953,2015,161,https://openalex.org/W2048831659
+2713,Epidemiology,Perfusion Assessment in Critical Limb Ischemia: Principles for Understanding and the Development of Evidence and Evaluation of Devices: A Scientific Statement From the American Heart Association,https://doi.org/10.1161/cir.0000000000000708,2019,128,https://openalex.org/W2968307850
+2713,Epidemiology,"The role of visceral and subcutaneous adipose tissue measurements and their ratio by magnetic resonance imaging in subjects with prediabetes, diabetes and healthy controls from a general population without cardiovascular disease",https://doi.org/10.1259/bjr.20170808,2018,66,https://openalex.org/W2786535406
+2303,Ecology,Somatic growth dynamics of West Atlantic hawksbill sea turtles: a spatio‐temporal perspective,https://doi.org/10.1002/ecs2.1279,2016,125,https://openalex.org/W2398148449
+2303,Ecology,Mangrove and Seagrass Beds Provide Different Biogeochemical Services for Corals Threatened by Climate Change,https://doi.org/10.3389/fmars.2016.00052,2016,88,https://openalex.org/W2339542746
+2303,Ecology,Ecological regime shift drives declining growth rates of sea turtles throughout the West Atlantic,https://doi.org/10.1111/gcb.13712,2017,79,https://openalex.org/W2604698963
+2746,Surgery,"Characteristics, Prevention, and Management of Cardiovascular Disease in People Living With HIV: A Scientific Statement From the American Heart Association",https://doi.org/10.1161/cir.0000000000000695,2019,558,https://openalex.org/W2948531466
+2746,Surgery,A Call to Action: Women and Peripheral Artery Disease,https://doi.org/10.1161/cir.0b013e31824c39ba,2012,344,https://openalex.org/W2004389985
+2746,Surgery,Management of Central Retinal Artery Occlusion: A Scientific Statement From the American Heart Association,https://doi.org/10.1161/str.0000000000000366,2021,260,https://openalex.org/W3134997650
+2740,Pulmonary and Respiratory Medicine,A Call to Action: Women and Peripheral Artery Disease,https://doi.org/10.1161/cir.0b013e31824c39ba,2012,344,https://openalex.org/W2004389985
+2740,Pulmonary and Respiratory Medicine,2017 update of the WSES guidelines for emergency repair of complicated abdominal wall hernias,https://doi.org/10.1186/s13017-017-0149-y,2017,200,https://openalex.org/W2744432986
+2740,Pulmonary and Respiratory Medicine,"Epidemiology, Incidence, and Survival of Rhabdomyosarcoma Subtypes: SEER and ICES Database Analysis",https://doi.org/10.1002/jor.24387,2019,131,https://openalex.org/W2948756637
+1312,Molecular Biology,Successful suppression of a field mosquito population by sustained release of engineered male mosquitoes,https://doi.org/10.1038/nbt.2350,2012,393,https://openalex.org/W1971581267
+1312,Molecular Biology,Field performance of engineered male mosquitoes,https://doi.org/10.1038/nbt.2019,2011,375,https://openalex.org/W1963641689
+1312,Molecular Biology,Cerebral metabolism after forced or voluntary physical exercise,https://doi.org/10.1016/j.brainres.2011.02.076,2011,91,https://openalex.org/W2028883326
+2309,Nature and Landscape Conservation,Somatic growth dynamics of West Atlantic hawksbill sea turtles: a spatio‐temporal perspective,https://doi.org/10.1002/ecs2.1279,2016,125,https://openalex.org/W2398148449
+2309,Nature and Landscape Conservation,"Ecology of Hawksbill Turtles, Eretmochelys imbricata, on a Western Caribbean Foraging Ground",https://doi.org/10.2744/ccb-0758.1,2009,79,https://openalex.org/W2013369350
+2309,Nature and Landscape Conservation,Ecological regime shift drives declining growth rates of sea turtles throughout the West Atlantic,https://doi.org/10.1111/gcb.13712,2017,79,https://openalex.org/W2604698963
+2705,Cardiology and Cardiovascular Medicine,A review on prescribing patterns of antihypertensive drugs,https://doi.org/10.1186/s40885-016-0042-0,2015,136,https://openalex.org/W2305421582
+2705,Cardiology and Cardiovascular Medicine,"The role of visceral and subcutaneous adipose tissue measurements and their ratio by magnetic resonance imaging in subjects with prediabetes, diabetes and healthy controls from a general population without cardiovascular disease",https://doi.org/10.1259/bjr.20170808,2018,66,https://openalex.org/W2786535406
+2705,Cardiology and Cardiovascular Medicine,Reduction in unnecessary ventricular pacing fails to affect hard clinical outcomes in patients with preserved left ventricular function: a meta-analysis,https://doi.org/10.1093/europace/euw221,2016,54,https://openalex.org/W2542151644
+2306,Global and Planetary Change,EUREC <sup>4</sup> A,https://doi.org/10.5194/essd-13-4067-2021,2021,261,https://openalex.org/W3122990902
+2306,Global and Planetary Change,"Changes in extreme temperature and precipitation in the Caribbean region, 1961–2010",https://doi.org/10.1002/joc.3889,2014,191,https://openalex.org/W1896717696
+2306,Global and Planetary Change,Somatic growth dynamics of West Atlantic hawksbill sea turtles: a spatio‐temporal perspective,https://doi.org/10.1002/ecs2.1279,2016,125,https://openalex.org/W2398148449

@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+2208,Electrical and Electronic Engineering,Graphene: The New Two‐Dimensional Nanomaterial,https://doi.org/10.1002/anie.200901678,2009,3889,https://openalex.org/W2072214543
+2208,Electrical and Electronic Engineering,Recent Advances and Industrial Applications of Multilevel Converters,https://doi.org/10.1109/tie.2010.2049719,2010,3729,https://openalex.org/W2139772385
+2208,Electrical and Electronic Engineering,Quantum dot–induced phase stabilization of α-CsPbI <sub>3</sub> perovskite for high-efficiency photovoltaics,https://doi.org/10.1126/science.aag2700,2016,2644,https://openalex.org/W2527913842
+1312,Molecular Biology,Antiinflammatory Therapy with Canakinumab for Atherosclerotic Disease,https://doi.org/10.1056/nejmoa1707914,2017,8381,https://openalex.org/W2748400555
+1312,Molecular Biology,Intratumor Heterogeneity and Branched Evolution Revealed by Multiregion Sequencing,https://doi.org/10.1056/nejmoa1113205,2012,7539,https://openalex.org/W2150575159
+1312,Molecular Biology,Improved side‐chain torsion potentials for the Amber ff99SB protein force field,https://doi.org/10.1002/prot.22711,2010,5873,https://openalex.org/W2161605421
+2505,Materials Chemistry,Nano based drug delivery systems: recent developments and future prospects,https://doi.org/10.1186/s12951-018-0392-8,2018,6031,https://openalex.org/W2890167612
+2505,Materials Chemistry,Improved side‐chain torsion potentials for the Amber ff99SB protein force field,https://doi.org/10.1002/prot.22711,2010,5873,https://openalex.org/W2161605421
+2505,Materials Chemistry,Silver nanoparticles as a new generation of antimicrobials,https://doi.org/10.1016/j.biotechadv.2008.09.002,2008,5765,https://openalex.org/W2061073363
+2204,Biomedical Engineering,Silver nanoparticles as a new generation of antimicrobials,https://doi.org/10.1016/j.biotechadv.2008.09.002,2008,5765,https://openalex.org/W2061073363
+2204,Biomedical Engineering,"Ti based biomaterials, the ultimate choice for orthopaedic implants – A review",https://doi.org/10.1016/j.pmatsci.2008.06.004,2008,5055,https://openalex.org/W2008158617
+2204,Biomedical Engineering,Electrospinning: A fascinating fiber fabrication technique,https://doi.org/10.1016/j.biotechadv.2010.01.004,2010,4729,https://openalex.org/W2106727463
+1110,Plant Science,"Reactive Oxygen Species, Oxidative Damage, and Antioxidative Defense Mechanism in Plants under Stressful Conditions",https://doi.org/10.1155/2012/217037,2012,5254,https://openalex.org/W2041493424
+1110,Plant Science,Impact of pesticides use in agriculture: their benefits and hazards,https://doi.org/10.2478/v10102-009-0001-7,2009,3342,https://openalex.org/W2158809385
+1110,Plant Science,Shifting the limits in wheat research and breeding using a fully annotated reference genome,https://doi.org/10.1126/science.aar7191,2018,3210,https://openalex.org/W2886785109
+2746,Surgery,"2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines",https://doi.org/10.1161/hyp.0000000000000065,2017,7224,https://openalex.org/W2770837559
+2746,Surgery,Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction,https://doi.org/10.1056/nejmoa1911303,2019,6201,https://openalex.org/W2974260792
+2746,Surgery,The SCARE 2020 Guideline: Updating Consensus Surgical CAse REport (SCARE) Guidelines,https://doi.org/10.1016/j.ijsu.2020.10.034,2020,5533,https://openalex.org/W3103171760
+1605,Organic Chemistry,Application of low-cost adsorbents for dye removal – A review,https://doi.org/10.1016/j.jenvman.2008.11.017,2009,3666,https://openalex.org/W2027624111
+1605,Organic Chemistry,"Core/Shell Nanoparticles: Classes, Properties, Synthesis Mechanisms, Characterization, and Applications",https://doi.org/10.1021/cr100449n,2011,3476,https://openalex.org/W2027283694
+1605,Organic Chemistry,Supramolecular Coordination: Self-Assembly of Finite Two- and Three-Dimensional Ensembles,https://doi.org/10.1021/cr200077m,2011,2852,https://openalex.org/W1965743698
+1702,Artificial Intelligence,GAN（Generative Adversarial Nets）,https://doi.org/10.3156/jsoft.29.5_177_2,2017,21711,https://openalex.org/W2099471712
+1702,Artificial Intelligence,Astropy: A community Python package for astronomy,https://doi.org/10.1051/0004-6361/201322068,2013,12940,https://openalex.org/W2135625048
+1702,Artificial Intelligence,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.17863/cam.64134,2019,11500,https://openalex.org/W3103145119
+2210,Mechanical Engineering,"Additive manufacturing of metallic components – Process, structure and properties",https://doi.org/10.1016/j.pmatsci.2017.10.001,2017,7269,https://openalex.org/W2762367303
+2210,Mechanical Engineering,Review on thermal energy storage with phase change materials and applications,https://doi.org/10.1016/j.rser.2007.10.005,2008,5422,https://openalex.org/W2151080396
+2210,Mechanical Engineering,Mechanical behavior of amorphous alloys,https://doi.org/10.1016/j.actamat.2007.01.052,2007,3232,https://openalex.org/W2118142066
+1705,Computer Networks and Communications,The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package<sup>*</sup>,https://doi.org/10.3847/1538-3881/aabc4f,2018,6288,https://openalex.org/W2888532099
+1705,Computer Networks and Communications,Likert Scale: Explored and Explained,https://doi.org/10.9734/bjast/2015/14975,2015,3137,https://openalex.org/W2327678559
+1705,Computer Networks and Communications,"Latent Class and Latent Transition Analysis: With Applications in the Social, Behavioral, and Health Sciences",,2009,2574,https://openalex.org/W1497939657

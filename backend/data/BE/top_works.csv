@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1312,Molecular Biology,The MIQE Guidelines: Minimum Information for Publication of Quantitative Real-Time PCR Experiments,https://doi.org/10.1373/clinchem.2008.112797,2009,15287,https://openalex.org/W2168420558
+1312,Molecular Biology,"Structure, function and diversity of the healthy human microbiome",https://doi.org/10.1038/nature11234,2012,11375,https://openalex.org/W2128769815
+1312,Molecular Biology,Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines,https://doi.org/10.1080/20013078.2018.1535750,2018,10297,https://openalex.org/W2900756811
+2208,Electrical and Electronic Engineering,Charge Transport in Organic Semiconductors,https://doi.org/10.1021/cr050140x,2007,4374,https://openalex.org/W2141517543
+2208,Electrical and Electronic Engineering,Topological photonics,https://doi.org/10.1103/revmodphys.91.015006,2019,3270,https://openalex.org/W4211161891
+2208,Electrical and Electronic Engineering,The Impact of Charging Plug-In Hybrid Electric Vehicles on a Residential Distribution Grid,https://doi.org/10.1109/tpwrs.2009.2036481,2009,2746,https://openalex.org/W2135797872
+2746,Surgery,The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3),https://doi.org/10.1001/jama.2016.0287,2016,25256,https://openalex.org/W2280404143
+2746,Surgery,European Guidelines on cardiovascular disease prevention in clinical practice (version 2012): The Fifth Joint Task Force of the European Society of Cardiology and Other Societies on Cardiovascular Disease Prevention in Clinical Practice (constituted by representatives of nine societies and by invited experts) * Developed with the special contribution of the European Association for Cardiovascular Prevention &amp; Rehabilitation (EACPR),https://doi.org/10.1093/eurheartj/ehs092,2012,8481,https://openalex.org/W3021842026
+2746,Surgery,2016 European Guidelines on cardiovascular disease prevention in clinical practice,https://doi.org/10.1093/eurheartj/ehw106,2016,6280,https://openalex.org/W2402599050
+3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2957,https://openalex.org/W2161411308
+3312,Sociology and Political Science,"Standards of Care for the Health of Transgender and Gender Diverse People, Version 8",https://doi.org/10.1080/26895269.2022.2100644,2022,2076,https://openalex.org/W4294732694
+3312,Sociology and Political Science,Contrasting Computational Models of Mate Preference Integration Across 45 Countries,https://doi.org/10.1038/s41598-019-52748-8,2019,1773,https://openalex.org/W2983201012
+2740,Pulmonary and Respiratory Medicine,New response evaluation criteria in solid tumours: Revised RECIST guideline (version 1.1),https://doi.org/10.1016/j.ejca.2008.10.026,2008,27873,https://openalex.org/W2019607817
+2740,Pulmonary and Respiratory Medicine,Radiotherapy plus Concomitant and Adjuvant Temozolomide for Glioblastoma,https://doi.org/10.1056/nejmoa043330,2005,20678,https://openalex.org/W2096287682
+2740,Pulmonary and Respiratory Medicine,Surviving Sepsis Campaign,https://doi.org/10.1097/ccm.0b013e31827e83af,2013,9621,https://openalex.org/W3023757607
+2204,Biomedical Engineering,Photodynamic therapy of cancer: An update,https://doi.org/10.3322/caac.20114,2011,4991,https://openalex.org/W2151734986
+2204,Biomedical Engineering,To exploit the tumor microenvironment: Passive and active tumor targeting of nanocarriers for anti-cancer drug delivery,https://doi.org/10.1016/j.jconrel.2010.08.027,2010,2642,https://openalex.org/W2137634849
+2204,Biomedical Engineering,Lignin Biosynthesis and Structure,https://doi.org/10.1104/pp.110.155119,2010,2487,https://openalex.org/W2003604861
+2713,Epidemiology,The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3),https://doi.org/10.1001/jama.2016.0287,2016,25256,https://openalex.org/W2280404143
+2713,Epidemiology,"Structure, function and diversity of the healthy human microbiome",https://doi.org/10.1038/nature11234,2012,11375,https://openalex.org/W2128769815
+2713,Epidemiology,Surviving Sepsis Campaign,https://doi.org/10.1097/ccm.0b013e31827e83af,2013,9621,https://openalex.org/W3023757607
+2505,Materials Chemistry,Commentary: The Materials Project: A materials genome approach to accelerating materials innovation,https://doi.org/10.1063/1.4812323,2013,11220,https://openalex.org/W1992985800
+2505,Materials Chemistry,VASPKIT: A user-friendly interface facilitating high-throughput computing and analysis using VASP code,https://doi.org/10.1016/j.cpc.2021.108033,2021,5749,https://openalex.org/W3038025793
+2505,Materials Chemistry,Carbon Nanotubes: Present and Future Commercial Applications,https://doi.org/10.1126/science.1222453,2013,5374,https://openalex.org/W2029445495
+2002,Economics and Econometrics,2013 ESH/ESC Guidelines for the management of arterial hypertension,https://doi.org/10.1093/eurheartj/eht151,2013,13617,https://openalex.org/W2133416234
+2002,Economics and Econometrics,SPIRIT 2013 Statement: Defining Standard Protocol Items for Clinical Trials,https://doi.org/10.7326/0003-4819-158-3-201302050-00583,2013,7160,https://openalex.org/W2166023752
+2002,Economics and Econometrics,2021 ESC Guidelines on cardiovascular disease prevention in clinical practice,https://doi.org/10.1093/eurheartj/ehab484,2021,5394,https://openalex.org/W3197233987
+1311,Genetics,Posterior Summarization in Bayesian Phylogenetics Using Tracer 1.7,https://doi.org/10.1093/sysbio/syy032,2018,10102,https://openalex.org/W2801159594
+1311,Genetics,"Global and regional diabetes prevalence estimates for 2019 and projections for 2030 and 2045: Results from the International Diabetes Federation Diabetes Atlas, 9th edition",https://doi.org/10.1016/j.diabres.2019.107843,2019,9691,https://openalex.org/W2972869264
+1311,Genetics,Biological insights from 108 schizophrenia-associated genetic loci,https://doi.org/10.1038/nature13595,2014,7891,https://openalex.org/W2101357408

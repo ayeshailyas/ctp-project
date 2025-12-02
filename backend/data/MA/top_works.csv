@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+2208,Electrical and Electronic Engineering,Towards K‐Ion and Na‐Ion Batteries as “Beyond Li‐Ion”,https://doi.org/10.1002/tcr.201700057,2018,917,https://openalex.org/W2789416411
+2208,Electrical and Electronic Engineering,Duplication of the MECP2 Region Is a Frequent Cause of Severe Mental Retardation and Progressive Neurological Symptoms in Males,https://doi.org/10.1086/444549,2005,621,https://openalex.org/W1964159332
+2208,Electrical and Electronic Engineering,Stock Market Prediction Using LSTM Recurrent Neural Network,https://doi.org/10.1016/j.procs.2020.03.049,2020,565,https://openalex.org/W3017229010
+2746,Surgery,"Global, regional, and national disease burden estimates of acute lower respiratory infections due to respiratory syncytial virus in young children in 2015: a systematic review and modelling study",https://doi.org/10.1016/s0140-6736(17)30938-8,2017,2264,https://openalex.org/W2727509207
+2746,Surgery,Systemic Treatment with the Antidiabetic Drug Metformin Selectively Impairs p53-Deficient Tumor Cell Growth,https://doi.org/10.1158/0008-5472.can-06-4447,2007,914,https://openalex.org/W2123014930
+2746,Surgery,Tepotinib in Non–Small-Cell Lung Cancer with <i>MET</i> Exon 14 Skipping Mutations,https://doi.org/10.1056/nejmoa2004407,2020,790,https://openalex.org/W3031018272
+1110,Plant Science,Biological effects of essential oils – A review,https://doi.org/10.1016/j.fct.2007.09.106,2007,7376,https://openalex.org/W2122910156
+1110,Plant Science,"Taxonomy, Physiology, and Natural Products of Actinobacteria",https://doi.org/10.1128/mmbr.00019-15,2016,1992,https://openalex.org/W2178324140
+1110,Plant Science,Is soil carbon mostly root carbon? Mechanisms for a specific stabilisation,https://doi.org/10.1007/s11104-004-0907-y,2005,1741,https://openalex.org/W2060590119
+1312,Molecular Biology,Richness of human gut microbiome correlates with metabolic markers,https://doi.org/10.1038/nature12506,2013,4488,https://openalex.org/W2004549986
+1312,Molecular Biology,Alterations of the human gut microbiome in liver cirrhosis,https://doi.org/10.1038/nature13568,2014,2133,https://openalex.org/W1964027278
+1312,Molecular Biology,An integrated catalog of reference genes in the human gut microbiome,https://doi.org/10.1038/nbt.2942,2014,2091,https://openalex.org/W2097124003
+1702,Artificial Intelligence,Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI),https://doi.org/10.1109/access.2018.2870052,2018,5035,https://openalex.org/W2891503716
+1702,Artificial Intelligence,"A comprehensive survey on sentiment analysis: Approaches, challenges and trends",https://doi.org/10.1016/j.knosys.2021.107134,2021,799,https://openalex.org/W3163841364
+1702,Artificial Intelligence,Deep learning approach for Network Intrusion Detection in Software Defined Networking,https://doi.org/10.1109/wincom.2016.7777224,2016,766,https://openalex.org/W2560162835
+2505,Materials Chemistry,"Thermodynamic characterization of metal dissolution and inhibitor adsorption processes in mild steel/2,5-bis(n-thienyl)-1,3,4-thiadiazoles/hydrochloric acid system",https://doi.org/10.1016/j.corsci.2005.05.034,2005,1000,https://openalex.org/W1980653386
+2505,Materials Chemistry,"Classifications, properties, recent synthesis and applications of azo dyes",https://doi.org/10.1016/j.heliyon.2020.e03271,2020,855,https://openalex.org/W3003280505
+2505,Materials Chemistry,Thermal degradation behaviors of polyethylene and polypropylene. Part I: Pyrolysis kinetics and mechanisms,https://doi.org/10.1016/j.enconman.2009.12.017,2010,655,https://openalex.org/W2031053572
+2713,Epidemiology,"Global, regional, and national disease burden estimates of acute lower respiratory infections due to respiratory syncytial virus in young children in 2015: a systematic review and modelling study",https://doi.org/10.1016/s0140-6736(17)30938-8,2017,2264,https://openalex.org/W2727509207
+2713,Epidemiology,Alterations of the human gut microbiome in liver cirrhosis,https://doi.org/10.1038/nature13568,2014,2133,https://openalex.org/W1964027278
+2713,Epidemiology,Global guideline for the diagnosis and management of mucormycosis: an initiative of the European Confederation of Medical Mycology in cooperation with the Mycoses Study Group Education and Research Consortium,https://doi.org/10.1016/s1473-3099(19)30312-3,2019,1593,https://openalex.org/W2987248752
+2740,Pulmonary and Respiratory Medicine,Human Inborn Errors of Immunity: 2019 Update on the Classification from the International Union of Immunological Societies Expert Committee,https://doi.org/10.1007/s10875-019-00737-x,2020,1193,https://openalex.org/W3000301584
+2740,Pulmonary and Respiratory Medicine,MRI-Guided Thrombolysis for Stroke with Unknown Time of Onset,https://doi.org/10.1056/nejmoa1804355,2018,1191,https://openalex.org/W2803802119
+2740,Pulmonary and Respiratory Medicine,Sunitinib Alone or after Nephrectomy in Metastatic Renal-Cell Carcinoma,https://doi.org/10.1056/nejmoa1803675,2018,892,https://openalex.org/W2805060661
+1705,Computer Networks and Communications,Deep learning approach for Network Intrusion Detection in Software Defined Networking,https://doi.org/10.1109/wincom.2016.7777224,2016,766,https://openalex.org/W2560162835
+1705,Computer Networks and Communications,Performance of the ATLAS trigger system in 2015,https://doi.org/10.1140/epjc/s10052-017-4852-3,2017,720,https://openalex.org/W2558185986
+1705,Computer Networks and Communications,Access control in the Internet of Things: Big challenges and new opportunities,https://doi.org/10.1016/j.comnet.2016.11.007,2016,442,https://openalex.org/W2553727764
+2204,Biomedical Engineering,"Food waste as a valuable resource for the production of chemicals, materials and fuels. Current situation and global perspective",https://doi.org/10.1039/c2ee23440h,2012,1087,https://openalex.org/W2034633228
+2204,Biomedical Engineering,Flows of Dense Granular Media,https://doi.org/10.1146/annurev.fluid.40.111406.102142,2008,1056,https://openalex.org/W2120967436
+2204,Biomedical Engineering,Toward a mathematical theory of Keller–Segel models of pattern formation in biological tissues,https://doi.org/10.1142/s021820251550044x,2015,993,https://openalex.org/W2054870756

@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1312,Molecular Biology,"Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2",https://doi.org/10.1038/s41587-019-0209-9,2019,20865,https://openalex.org/W2963276645
+1312,Molecular Biology,A global reference for human genetic variation,https://doi.org/10.1038/nature15393,2015,18620,https://openalex.org/W2104549677
+1312,Molecular Biology,"STRING v11: protein–protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets",https://doi.org/10.1093/nar/gky1131,2018,17916,https://openalex.org/W2900569176
+2746,Surgery,The PRISMA Statement for Reporting Systematic Reviews and Meta-Analyses of Studies That Evaluate Health Care Interventions: Explanation and Elaboration,https://doi.org/10.1371/journal.pmed.1000100,2009,27244,https://openalex.org/W3022903699
+2746,Surgery,The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate health care interventions: explanation and elaboration,https://doi.org/10.1016/j.jclinepi.2009.06.006,2009,10051,https://openalex.org/W2576440140
+2746,Surgery,Liraglutide and Cardiovascular Outcomes in Type 2 Diabetes,https://doi.org/10.1056/nejmoa1603827,2016,6713,https://openalex.org/W2425644022
+2208,Electrical and Electronic Engineering,Identification of Active Edge Sites for Electrochemical H <sub>2</sub> Evolution from MoS <sub>2</sub> Nanocatalysts,https://doi.org/10.1126/science.1141483,2007,5755,https://openalex.org/W1974896731
+2208,Electrical and Electronic Engineering,Overview of Control and Grid Synchronization for Distributed Power Generation Systems,https://doi.org/10.1109/tie.2006.881997,2006,5027,https://openalex.org/W2132755931
+2208,Electrical and Electronic Engineering,Progress and Perspectives of Electrochemical CO<sub>2</sub> Reduction on Copper in Aqueous Electrolyte,https://doi.org/10.1021/acs.chemrev.8b00705,2019,4346,https://openalex.org/W2947264857
+3312,Sociology and Political Science,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1136/bmj.n71,2021,75073,https://openalex.org/W3118615836
+3312,Sociology and Political Science,RoB 2: a revised tool for assessing risk of bias in randomised trials,https://doi.org/10.1136/bmj.l4898,2019,25597,https://openalex.org/W2970684805
+3312,Sociology and Political Science,The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) Statement: Guidelines for Reporting Observational Studies,https://doi.org/10.1371/journal.pmed.0040296,2007,20822,https://openalex.org/W2599076725
+2713,Epidemiology,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1136/bmj.n71,2021,75073,https://openalex.org/W3118615836
+2713,Epidemiology,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1186/s13643-021-01626-4,2021,12322,https://openalex.org/W3144543375
+2713,Epidemiology,The PRISMA 2020 statement: An updated guideline for reporting systematic reviews,https://doi.org/10.1016/j.ijsu.2021.105906,2021,10548,https://openalex.org/W3146142859
+2204,Biomedical Engineering,Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria,https://doi.org/10.1016/s1474-4422(17)30470-2,2017,7275,https://openalex.org/W2777074421
+2204,Biomedical Engineering,The atomic simulation environment—a Python library for working with atoms,https://doi.org/10.1088/1361-648x/aa680e,2017,4142,https://openalex.org/W2601081289
+2204,Biomedical Engineering,Plasmonics beyond the diffraction limit,https://doi.org/10.1038/nphoton.2009.282,2010,3766,https://openalex.org/W2025864484
+2740,Pulmonary and Respiratory Medicine,"Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease",https://doi.org/10.1164/rccm.201204-0596pp,2012,15998,https://openalex.org/W2127951128
+2740,Pulmonary and Respiratory Medicine,2012 Revised International Chapel Hill Consensus Conference Nomenclature of Vasculitides,https://doi.org/10.1002/art.37715,2012,6268,https://openalex.org/W2031517139
+2740,Pulmonary and Respiratory Medicine,Nivolumab versus Everolimus in Advanced Renal-Cell Carcinoma,https://doi.org/10.1056/nejmoa1510665,2015,5737,https://openalex.org/W2222086386
+2737,Physiology,"Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease",https://doi.org/10.1164/rccm.201204-0596pp,2012,15998,https://openalex.org/W2127951128
+2737,Physiology,2012 Revised International Chapel Hill Consensus Conference Nomenclature of Vasculitides,https://doi.org/10.1002/art.37715,2012,6268,https://openalex.org/W2031517139
+2737,Physiology,"Global physical activity levels: surveillance progress, pitfalls, and prospects",https://doi.org/10.1016/s0140-6736(12)60646-1,2012,5640,https://openalex.org/W2114538920
+1311,Genetics,A global reference for human genetic variation,https://doi.org/10.1038/nature15393,2015,18620,https://openalex.org/W2104549677
+1311,Genetics,Second-generation PLINK: rising to the challenge of larger and richer datasets,https://doi.org/10.1186/s13742-015-0047-8,2015,12582,https://openalex.org/W2099085143
+1311,Genetics,A human gut microbial gene catalogue established by metagenomic sequencing,https://doi.org/10.1038/nature08821,2010,11258,https://openalex.org/W2125826054
+3304,Education,Sample Size in Qualitative Interview Studies,https://doi.org/10.1177/1049732315617444,2015,8786,https://openalex.org/W2305278139
+3304,Education,Den kvalitativa forskningsintervjun,,2014,1908,https://openalex.org/W2122240617
+3304,Education,Danish education registers,https://doi.org/10.1177/1403494810394715,2011,1337,https://openalex.org/W2122985624

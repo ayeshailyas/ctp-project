@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1312,Molecular Biology,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4839,https://openalex.org/W2110375946
+1312,Molecular Biology,Reagent and laboratory contamination can critically impact sequence-based microbiome analyses,https://doi.org/10.1186/s12915-014-0087-z,2014,3253,https://openalex.org/W2170486072
+1312,Molecular Biology,Vaccination with ALVAC and AIDSVAX to Prevent HIV-1 Infection in Thailand,https://doi.org/10.1056/nejmoa0908492,2009,2995,https://openalex.org/W2152048324
+2208,Electrical and Electronic Engineering,Understanding Degradation Mechanisms and Improving Stability of Perovskite Photovoltaics,https://doi.org/10.1021/acs.chemrev.8b00336,2018,1593,https://openalex.org/W2900653032
+2208,Electrical and Electronic Engineering,Consensus statement for stability assessment and reporting for perovskite photovoltaics based on ISOS procedures,https://doi.org/10.1038/s41560-019-0529-5,2020,1450,https://openalex.org/W3002058265
+2208,Electrical and Electronic Engineering,Semiconducting metal oxides as sensors for environmentally hazardous gases,https://doi.org/10.1016/j.snb.2011.08.032,2011,1216,https://openalex.org/W1997258265
+2204,Biomedical Engineering,"Doxorubicin: an update on anticancer molecular action, toxicity and novel drug delivery systems",https://doi.org/10.1111/j.2042-7158.2012.01567.x,2012,2348,https://openalex.org/W1543790510
+2204,Biomedical Engineering,Physico–chemical treatment techniques for wastewater laden with heavy metals,https://doi.org/10.1016/j.cej.2006.01.015,2006,1971,https://openalex.org/W2022778259
+2204,Biomedical Engineering,Review of convective heat transfer enhancement with nanofluids,https://doi.org/10.1016/j.ijheatmasstransfer.2009.02.006,2009,1900,https://openalex.org/W2046288791
+1110,Plant Science,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4839,https://openalex.org/W2110375946
+1110,Plant Science,Global diversity and geography of soil fungi,https://doi.org/10.1126/science.1256688,2014,3367,https://openalex.org/W2145840889
+1110,Plant Science,Top 10 plant pathogenic bacteria in molecular plant pathology,https://doi.org/10.1111/j.1364-3703.2012.00804.x,2012,2226,https://openalex.org/W1915578613
+2713,Epidemiology,Preexposure Chemoprophylaxis for HIV Prevention in Men Who Have Sex with Men,https://doi.org/10.1056/nejmoa1011205,2010,4984,https://openalex.org/W2103920597
+2713,Epidemiology,Global Prevalence and Major Risk Factors of Diabetic Retinopathy,https://doi.org/10.2337/dc11-1909,2012,4626,https://openalex.org/W2138480916
+2713,Epidemiology,Global burden of disease and injury and economic cost attributable to alcohol use and alcohol-use disorders,https://doi.org/10.1016/s0140-6736(09)60746-7,2009,3814,https://openalex.org/W2160397887
+2746,Surgery,Human papillomavirus genotype attribution in invasive cervical cancer: a retrospective cross-sectional worldwide study,https://doi.org/10.1016/s1470-2045(10)70230-8,2010,2627,https://openalex.org/W2139736159
+2746,Surgery,The effects of lowering LDL cholesterol with simvastatin plus ezetimibe in patients with chronic kidney disease (Study of Heart and Renal Protection): a randomised placebo-controlled trial,https://doi.org/10.1016/s0140-6736(11)60739-3,2011,2398,https://openalex.org/W2134120087
+2746,Surgery,"Global, regional, and national disease burden estimates of acute lower respiratory infections due to respiratory syncytial virus in young children in 2015: a systematic review and modelling study",https://doi.org/10.1016/s0140-6736(17)30938-8,2017,2264,https://openalex.org/W2727509207
+2739,"Public Health, Environmental and Occupational Health",Artemisinin Resistance in <i>Plasmodium falciparum</i> Malaria,https://doi.org/10.1056/nejmoa0808859,2009,3348,https://openalex.org/W2161311583
+2739,"Public Health, Environmental and Occupational Health",The pandemic of physical inactivity: global action for public health,https://doi.org/10.1016/s0140-6736(12)60898-8,2012,2902,https://openalex.org/W2037427175
+2739,"Public Health, Environmental and Occupational Health",The global distribution of clinical episodes of Plasmodium falciparum malaria,https://doi.org/10.1038/nature03342,2005,2720,https://openalex.org/W2067428749
+2505,Materials Chemistry,Understanding Degradation Mechanisms and Improving Stability of Perovskite Photovoltaics,https://doi.org/10.1021/acs.chemrev.8b00336,2018,1593,https://openalex.org/W2900653032
+2505,Materials Chemistry,Consensus statement for stability assessment and reporting for perovskite photovoltaics based on ISOS procedures,https://doi.org/10.1038/s41560-019-0529-5,2020,1450,https://openalex.org/W3002058265
+2505,Materials Chemistry,Hydrothermal growth of ZnO nanostructures,https://doi.org/10.1088/1468-6996/10/1/013001,2009,1154,https://openalex.org/W2081577998
+2725,Infectious Diseases,Prevention of HIV-1 Infection with Early Antiretroviral Therapy,https://doi.org/10.1056/nejmoa1105243,2011,6849,https://openalex.org/W2152505869
+2725,Infectious Diseases,Preexposure Chemoprophylaxis for HIV Prevention in Men Who Have Sex with Men,https://doi.org/10.1056/nejmoa1011205,2010,4984,https://openalex.org/W2103920597
+2725,Infectious Diseases,Vaccination with ALVAC and AIDSVAX to Prevent HIV-1 Infection in Thailand,https://doi.org/10.1056/nejmoa0908492,2009,2995,https://openalex.org/W2152048324
+3312,Sociology and Political Science,Preexposure Chemoprophylaxis for HIV Prevention in Men Who Have Sex with Men,https://doi.org/10.1056/nejmoa1011205,2010,4984,https://openalex.org/W2103920597
+3312,Sociology and Political Science,The roads ahead: Narratives for shared socioeconomic pathways describing world futures in the 21st century,https://doi.org/10.1016/j.gloenvcha.2015.01.004,2015,3025,https://openalex.org/W1992193293
+3312,Sociology and Political Science,Summarizing systematic reviews,https://doi.org/10.1097/xeb.0000000000000055,2015,2161,https://openalex.org/W2364450135

@@ -1,0 +1,541 @@
+year,id,name,works_count,country,fetch_date
+2005,2604,Applied Mathematics,4,TM,2025-12-01 19:10:59
+2005,2610,Mathematical Physics,3,TM,2025-12-01 19:10:59
+2005,2612,Numerical Analysis,3,TM,2025-12-01 19:10:59
+2005,3312,Sociology and Political Science,2,TM,2025-12-01 19:10:59
+2005,3320,Political Science and International Relations,2,TM,2025-12-01 19:10:59
+2005,1202,History,1,TM,2025-12-01 19:10:59
+2005,1204,Archeology,1,TM,2025-12-01 19:10:59
+2005,1207,History and Philosophy of Science,1,TM,2025-12-01 19:10:59
+2005,2308,"Management, Monitoring, Policy and Law",1,TM,2025-12-01 19:10:59
+2005,3317,Demography,1,TM,2025-12-01 19:10:59
+2006,1202,History,3,TM,2025-12-01 19:10:59
+2006,3312,Sociology and Political Science,3,TM,2025-12-01 19:10:59
+2006,1209,Museology,2,TM,2025-12-01 19:10:59
+2006,1105,"Ecology, Evolution, Behavior and Systematics",1,TM,2025-12-01 19:10:59
+2006,1204,Archeology,1,TM,2025-12-01 19:10:59
+2006,2002,Economics and Econometrics,1,TM,2025-12-01 19:10:59
+2006,2003,Finance,1,TM,2025-12-01 19:10:59
+2006,2308,"Management, Monitoring, Policy and Law",1,TM,2025-12-01 19:10:59
+2006,2604,Applied Mathematics,1,TM,2025-12-01 19:10:59
+2006,2610,Mathematical Physics,1,TM,2025-12-01 19:10:59
+2006,2612,Numerical Analysis,1,TM,2025-12-01 19:10:59
+2006,3304,Education,1,TM,2025-12-01 19:10:59
+2007,1204,Archeology,4,TM,2025-12-01 19:10:59
+2007,3320,Political Science and International Relations,4,TM,2025-12-01 19:10:59
+2007,1202,History,2,TM,2025-12-01 19:10:59
+2007,1209,Museology,2,TM,2025-12-01 19:10:59
+2007,1911,Paleontology,2,TM,2025-12-01 19:10:59
+2007,3304,Education,2,TM,2025-12-01 19:10:59
+2007,3312,Sociology and Political Science,2,TM,2025-12-01 19:10:59
+2007,1104,Aquatic Science,1,TM,2025-12-01 19:10:59
+2007,1110,Plant Science,1,TM,2025-12-01 19:10:59
+2007,1206,Conservation,1,TM,2025-12-01 19:10:59
+2007,1207,History and Philosophy of Science,1,TM,2025-12-01 19:10:59
+2007,1311,Genetics,1,TM,2025-12-01 19:10:59
+2007,1702,Artificial Intelligence,1,TM,2025-12-01 19:10:59
+2007,1907,Geology,1,TM,2025-12-01 19:10:59
+2007,2003,Finance,1,TM,2025-12-01 19:10:59
+2007,2100,General Energy,1,TM,2025-12-01 19:10:59
+2007,2309,Nature and Landscape Conservation,1,TM,2025-12-01 19:10:59
+2007,2604,Applied Mathematics,1,TM,2025-12-01 19:10:59
+2007,3317,Demography,1,TM,2025-12-01 19:10:59
+2008,1202,History,1,TM,2025-12-01 19:10:59
+2008,1204,Archeology,1,TM,2025-12-01 19:10:59
+2008,1213,Visual Arts and Performing Arts,1,TM,2025-12-01 19:10:59
+2008,1911,Paleontology,1,TM,2025-12-01 19:10:59
+2008,2604,Applied Mathematics,1,TM,2025-12-01 19:10:59
+2008,2610,Mathematical Physics,1,TM,2025-12-01 19:10:59
+2008,2612,Numerical Analysis,1,TM,2025-12-01 19:10:59
+2008,3312,Sociology and Political Science,1,TM,2025-12-01 19:10:59
+2008,3314,Anthropology,1,TM,2025-12-01 19:10:59
+2009,1204,Archeology,2,TM,2025-12-01 19:10:59
+2009,1911,Paleontology,2,TM,2025-12-01 19:10:59
+2009,2604,Applied Mathematics,2,TM,2025-12-01 19:10:59
+2009,2612,Numerical Analysis,2,TM,2025-12-01 19:10:59
+2009,3320,Political Science and International Relations,2,TM,2025-12-01 19:10:59
+2009,1207,History and Philosophy of Science,1,TM,2025-12-01 19:10:59
+2009,1703,Computational Theory and Mathematics,1,TM,2025-12-01 19:10:59
+2009,1906,Geochemistry and Petrology,1,TM,2025-12-01 19:10:59
+2009,2312,Water Science and Technology,1,TM,2025-12-01 19:10:59
+2009,2611,Modeling and Simulation,1,TM,2025-12-01 19:10:59
+2009,3308,Law,1,TM,2025-12-01 19:10:59
+2009,3312,Sociology and Political Science,1,TM,2025-12-01 19:10:59
+2010,2604,Applied Mathematics,5,TM,2025-12-01 19:10:59
+2010,2612,Numerical Analysis,5,TM,2025-12-01 19:10:59
+2010,1202,History,3,TM,2025-12-01 19:10:59
+2010,3312,Sociology and Political Science,3,TM,2025-12-01 19:10:59
+2010,1104,Aquatic Science,2,TM,2025-12-01 19:10:59
+2010,1902,Atmospheric Science,2,TM,2025-12-01 19:10:59
+2010,1911,Paleontology,2,TM,2025-12-01 19:10:59
+2010,2610,Mathematical Physics,2,TM,2025-12-01 19:10:59
+2010,3320,Political Science and International Relations,2,TM,2025-12-01 19:10:59
+2010,1203,Language and Linguistics,1,TM,2025-12-01 19:10:59
+2010,1204,Archeology,1,TM,2025-12-01 19:10:59
+2010,1205,Classics,1,TM,2025-12-01 19:10:59
+2010,1206,Conservation,1,TM,2025-12-01 19:10:59
+2010,1209,Museology,1,TM,2025-12-01 19:10:59
+2010,1211,Philosophy,1,TM,2025-12-01 19:10:59
+2010,1213,Visual Arts and Performing Arts,1,TM,2025-12-01 19:10:59
+2010,1910,Oceanography,1,TM,2025-12-01 19:10:59
+2010,2002,Economics and Econometrics,1,TM,2025-12-01 19:10:59
+2010,2003,Finance,1,TM,2025-12-01 19:10:59
+2010,2303,Ecology,1,TM,2025-12-01 19:10:59
+2010,2308,"Management, Monitoring, Policy and Law",1,TM,2025-12-01 19:10:59
+2010,3314,Anthropology,1,TM,2025-12-01 19:10:59
+2010,3322,Urban Studies,1,TM,2025-12-01 19:10:59
+2011,2604,Applied Mathematics,18,TM,2025-12-01 19:10:59
+2011,2612,Numerical Analysis,17,TM,2025-12-01 19:10:59
+2011,1202,History,4,TM,2025-12-01 19:10:59
+2011,1204,Archeology,4,TM,2025-12-01 19:10:59
+2011,1703,Computational Theory and Mathematics,3,TM,2025-12-01 19:10:59
+2011,2610,Mathematical Physics,3,TM,2025-12-01 19:10:59
+2011,1104,Aquatic Science,2,TM,2025-12-01 19:10:59
+2011,1911,Paleontology,2,TM,2025-12-01 19:10:59
+2011,2003,Finance,2,TM,2025-12-01 19:10:59
+2011,2309,Nature and Landscape Conservation,2,TM,2025-12-01 19:10:59
+2011,2611,Modeling and Simulation,2,TM,2025-12-01 19:10:59
+2011,2739,"Public Health, Environmental and Occupational Health",2,TM,2025-12-01 19:10:59
+2011,3314,Anthropology,2,TM,2025-12-01 19:10:59
+2011,3320,Political Science and International Relations,2,TM,2025-12-01 19:10:59
+2011,1311,Genetics,1,TM,2025-12-01 19:10:59
+2011,1312,Molecular Biology,1,TM,2025-12-01 19:10:59
+2011,1402,Accounting,1,TM,2025-12-01 19:10:59
+2011,1404,Management Information Systems,1,TM,2025-12-01 19:10:59
+2011,1710,Information Systems,1,TM,2025-12-01 19:10:59
+2011,1902,Atmospheric Science,1,TM,2025-12-01 19:10:59
+2011,1904,Earth-Surface Processes,1,TM,2025-12-01 19:10:59
+2011,1912,Space and Planetary Science,1,TM,2025-12-01 19:10:59
+2011,2211,Mechanics of Materials,1,TM,2025-12-01 19:10:59
+2011,3308,Law,1,TM,2025-12-01 19:10:59
+2011,3312,Sociology and Political Science,1,TM,2025-12-01 19:10:59
+2012,2604,Applied Mathematics,16,TM,2025-12-01 19:10:59
+2012,2612,Numerical Analysis,12,TM,2025-12-01 19:10:59
+2012,3312,Sociology and Political Science,7,TM,2025-12-01 19:10:59
+2012,2611,Modeling and Simulation,5,TM,2025-12-01 19:10:59
+2012,1202,History,4,TM,2025-12-01 19:10:59
+2012,1703,Computational Theory and Mathematics,4,TM,2025-12-01 19:10:59
+2012,2610,Mathematical Physics,3,TM,2025-12-01 19:10:59
+2012,1208,Literature and Literary Theory,2,TM,2025-12-01 19:10:59
+2012,2210,Mechanical Engineering,2,TM,2025-12-01 19:10:59
+2012,2308,"Management, Monitoring, Policy and Law",2,TM,2025-12-01 19:10:59
+2012,3304,Education,2,TM,2025-12-01 19:10:59
+2012,1106,Food Science,1,TM,2025-12-01 19:10:59
+2012,1110,Plant Science,1,TM,2025-12-01 19:10:59
+2012,1203,Language and Linguistics,1,TM,2025-12-01 19:10:59
+2012,1204,Archeology,1,TM,2025-12-01 19:10:59
+2012,1207,History and Philosophy of Science,1,TM,2025-12-01 19:10:59
+2012,1902,Atmospheric Science,1,TM,2025-12-01 19:10:59
+2012,1911,Paleontology,1,TM,2025-12-01 19:10:59
+2012,2003,Finance,1,TM,2025-12-01 19:10:59
+2012,2310,Pollution,1,TM,2025-12-01 19:10:59
+2012,3314,Anthropology,1,TM,2025-12-01 19:10:59
+2012,3316,Cultural Studies,1,TM,2025-12-01 19:10:59
+2012,3320,Political Science and International Relations,1,TM,2025-12-01 19:10:59
+2013,2604,Applied Mathematics,3,TM,2025-12-01 19:10:59
+2013,2612,Numerical Analysis,3,TM,2025-12-01 19:10:59
+2013,1911,Paleontology,2,TM,2025-12-01 19:10:59
+2013,3314,Anthropology,2,TM,2025-12-01 19:10:59
+2013,1202,History,1,TM,2025-12-01 19:10:59
+2013,1204,Archeology,1,TM,2025-12-01 19:10:59
+2013,1402,Accounting,1,TM,2025-12-01 19:10:59
+2013,1707,Computer Vision and Pattern Recognition,1,TM,2025-12-01 19:10:59
+2013,2610,Mathematical Physics,1,TM,2025-12-01 19:10:59
+2013,3304,Education,1,TM,2025-12-01 19:10:59
+2013,3312,Sociology and Political Science,1,TM,2025-12-01 19:10:59
+2014,2604,Applied Mathematics,6,TM,2025-12-01 19:10:59
+2014,3320,Political Science and International Relations,6,TM,2025-12-01 19:10:59
+2014,2612,Numerical Analysis,5,TM,2025-12-01 19:10:59
+2014,3312,Sociology and Political Science,5,TM,2025-12-01 19:10:59
+2014,1202,History,3,TM,2025-12-01 19:10:59
+2014,1204,Archeology,3,TM,2025-12-01 19:10:59
+2014,2610,Mathematical Physics,3,TM,2025-12-01 19:10:59
+2014,1213,Visual Arts and Performing Arts,1,TM,2025-12-01 19:10:59
+2014,1703,Computational Theory and Mathematics,1,TM,2025-12-01 19:10:59
+2014,1911,Paleontology,1,TM,2025-12-01 19:10:59
+2014,2003,Finance,1,TM,2025-12-01 19:10:59
+2014,2211,Mechanics of Materials,1,TM,2025-12-01 19:10:59
+2014,2216,Architecture,1,TM,2025-12-01 19:10:59
+2014,3600,General Health Professions,1,TM,2025-12-01 19:10:59
+2015,2604,Applied Mathematics,8,TM,2025-12-01 19:10:59
+2015,2612,Numerical Analysis,8,TM,2025-12-01 19:10:59
+2015,3312,Sociology and Political Science,8,TM,2025-12-01 19:10:59
+2015,3320,Political Science and International Relations,7,TM,2025-12-01 19:10:59
+2015,1202,History,6,TM,2025-12-01 19:10:59
+2015,1204,Archeology,3,TM,2025-12-01 19:10:59
+2015,2610,Mathematical Physics,3,TM,2025-12-01 19:10:59
+2015,1911,Paleontology,2,TM,2025-12-01 19:10:59
+2015,2211,Mechanics of Materials,2,TM,2025-12-01 19:10:59
+2015,3304,Education,2,TM,2025-12-01 19:10:59
+2015,3314,Anthropology,2,TM,2025-12-01 19:10:59
+2015,1203,Language and Linguistics,1,TM,2025-12-01 19:10:59
+2015,1205,Classics,1,TM,2025-12-01 19:10:59
+2015,1208,Literature and Literary Theory,1,TM,2025-12-01 19:10:59
+2015,1212,Religious studies,1,TM,2025-12-01 19:10:59
+2015,1402,Accounting,1,TM,2025-12-01 19:10:59
+2015,1703,Computational Theory and Mathematics,1,TM,2025-12-01 19:10:59
+2015,2002,Economics and Econometrics,1,TM,2025-12-01 19:10:59
+2015,2003,Finance,1,TM,2025-12-01 19:10:59
+2015,3207,Social Psychology,1,TM,2025-12-01 19:10:59
+2015,3305,"Geography, Planning and Development",1,TM,2025-12-01 19:10:59
+2015,3317,Demography,1,TM,2025-12-01 19:10:59
+2015,3600,General Health Professions,1,TM,2025-12-01 19:10:59
+2015,3605,Health Information Management,1,TM,2025-12-01 19:10:59
+2016,3312,Sociology and Political Science,10,TM,2025-12-01 19:10:59
+2016,1202,History,7,TM,2025-12-01 19:10:59
+2016,3314,Anthropology,7,TM,2025-12-01 19:10:59
+2016,3320,Political Science and International Relations,6,TM,2025-12-01 19:10:59
+2016,1911,Paleontology,5,TM,2025-12-01 19:10:59
+2016,2002,Economics and Econometrics,4,TM,2025-12-01 19:10:59
+2016,1203,Language and Linguistics,3,TM,2025-12-01 19:10:59
+2016,1902,Atmospheric Science,3,TM,2025-12-01 19:10:59
+2016,2604,Applied Mathematics,3,TM,2025-12-01 19:10:59
+2016,2612,Numerical Analysis,3,TM,2025-12-01 19:10:59
+2016,1204,Archeology,2,TM,2025-12-01 19:10:59
+2016,1205,Classics,2,TM,2025-12-01 19:10:59
+2016,1208,Literature and Literary Theory,2,TM,2025-12-01 19:10:59
+2016,1209,Museology,2,TM,2025-12-01 19:10:59
+2016,2610,Mathematical Physics,2,TM,2025-12-01 19:10:59
+2016,3300,General Social Sciences,2,TM,2025-12-01 19:10:59
+2016,3308,Law,2,TM,2025-12-01 19:10:59
+2016,1104,Aquatic Science,1,TM,2025-12-01 19:10:59
+2016,1110,Plant Science,1,TM,2025-12-01 19:10:59
+2016,1206,Conservation,1,TM,2025-12-01 19:10:59
+2016,1207,History and Philosophy of Science,1,TM,2025-12-01 19:10:59
+2016,1405,Management of Technology and Innovation,1,TM,2025-12-01 19:10:59
+2016,1802,Information Systems and Management,1,TM,2025-12-01 19:10:59
+2016,1910,Oceanography,1,TM,2025-12-01 19:10:59
+2016,2211,Mechanics of Materials,1,TM,2025-12-01 19:10:59
+2016,3304,Education,1,TM,2025-12-01 19:10:59
+2016,3316,Cultural Studies,1,TM,2025-12-01 19:10:59
+2016,3317,Demography,1,TM,2025-12-01 19:10:59
+2016,3319,Life-span and Life-course Studies,1,TM,2025-12-01 19:10:59
+2016,3322,Urban Studies,1,TM,2025-12-01 19:10:59
+2017,3320,Political Science and International Relations,25,TM,2025-12-01 19:10:59
+2017,1202,History,18,TM,2025-12-01 19:10:59
+2017,1204,Archeology,13,TM,2025-12-01 19:10:59
+2017,3312,Sociology and Political Science,12,TM,2025-12-01 19:10:59
+2017,1203,Language and Linguistics,9,TM,2025-12-01 19:10:59
+2017,3317,Demography,6,TM,2025-12-01 19:10:59
+2017,2002,Economics and Econometrics,5,TM,2025-12-01 19:10:59
+2017,3314,Anthropology,5,TM,2025-12-01 19:10:59
+2017,1911,Paleontology,4,TM,2025-12-01 19:10:59
+2017,1207,History and Philosophy of Science,3,TM,2025-12-01 19:10:59
+2017,1209,Museology,3,TM,2025-12-01 19:10:59
+2017,1100,General Agricultural and Biological Sciences,2,TM,2025-12-01 19:10:59
+2017,1205,Classics,2,TM,2025-12-01 19:10:59
+2017,3300,General Social Sciences,2,TM,2025-12-01 19:10:59
+2017,3302,Archeology,2,TM,2025-12-01 19:10:59
+2017,3304,Education,2,TM,2025-12-01 19:10:59
+2017,3308,Law,2,TM,2025-12-01 19:10:59
+2017,1104,Aquatic Science,1,TM,2025-12-01 19:10:59
+2017,1106,Food Science,1,TM,2025-12-01 19:10:59
+2017,1110,Plant Science,1,TM,2025-12-01 19:10:59
+2017,1206,Conservation,1,TM,2025-12-01 19:10:59
+2017,1208,Literature and Literary Theory,1,TM,2025-12-01 19:10:59
+2017,1211,Philosophy,1,TM,2025-12-01 19:10:59
+2017,1311,Genetics,1,TM,2025-12-01 19:10:59
+2017,1707,Computer Vision and Pattern Recognition,1,TM,2025-12-01 19:10:59
+2017,1710,Information Systems,1,TM,2025-12-01 19:10:59
+2017,1902,Atmospheric Science,1,TM,2025-12-01 19:10:59
+2017,1912,Space and Planetary Science,1,TM,2025-12-01 19:10:59
+2017,2003,Finance,1,TM,2025-12-01 19:10:59
+2017,2303,Ecology,1,TM,2025-12-01 19:10:59
+2017,2308,"Management, Monitoring, Policy and Law",1,TM,2025-12-01 19:10:59
+2017,3203,Clinical Psychology,1,TM,2025-12-01 19:10:59
+2017,3205,Experimental and Cognitive Psychology,1,TM,2025-12-01 19:10:59
+2017,3313,Transportation,1,TM,2025-12-01 19:10:59
+2017,3600,General Health Professions,1,TM,2025-12-01 19:10:59
+2018,3320,Political Science and International Relations,20,TM,2025-12-01 19:10:59
+2018,3312,Sociology and Political Science,16,TM,2025-12-01 19:10:59
+2018,1202,History,14,TM,2025-12-01 19:10:59
+2018,3304,Education,13,TM,2025-12-01 19:10:59
+2018,1204,Archeology,11,TM,2025-12-01 19:10:59
+2018,3314,Anthropology,10,TM,2025-12-01 19:10:59
+2018,2002,Economics and Econometrics,8,TM,2025-12-01 19:10:59
+2018,2003,Finance,5,TM,2025-12-01 19:10:59
+2018,3317,Demography,4,TM,2025-12-01 19:10:59
+2018,1207,History and Philosophy of Science,3,TM,2025-12-01 19:10:59
+2018,1211,Philosophy,3,TM,2025-12-01 19:10:59
+2018,1710,Information Systems,3,TM,2025-12-01 19:10:59
+2018,2604,Applied Mathematics,3,TM,2025-12-01 19:10:59
+2018,1106,Food Science,2,TM,2025-12-01 19:10:59
+2018,1203,Language and Linguistics,2,TM,2025-12-01 19:10:59
+2018,1212,Religious studies,2,TM,2025-12-01 19:10:59
+2018,1213,Visual Arts and Performing Arts,2,TM,2025-12-01 19:10:59
+2018,2610,Mathematical Physics,2,TM,2025-12-01 19:10:59
+2018,3300,General Social Sciences,2,TM,2025-12-01 19:10:59
+2018,1100,General Agricultural and Biological Sciences,1,TM,2025-12-01 19:10:59
+2018,1110,Plant Science,1,TM,2025-12-01 19:10:59
+2018,1111,Soil Science,1,TM,2025-12-01 19:10:59
+2018,1205,Classics,1,TM,2025-12-01 19:10:59
+2018,1208,Literature and Literary Theory,1,TM,2025-12-01 19:10:59
+2018,1209,Museology,1,TM,2025-12-01 19:10:59
+2018,1405,Management of Technology and Innovation,1,TM,2025-12-01 19:10:59
+2018,1910,Oceanography,1,TM,2025-12-01 19:10:59
+2018,1911,Paleontology,1,TM,2025-12-01 19:10:59
+2018,1912,Space and Planetary Science,1,TM,2025-12-01 19:10:59
+2018,2000,"General Economics, Econometrics and Finance",1,TM,2025-12-01 19:10:59
+2018,2207,Control and Systems Engineering,1,TM,2025-12-01 19:10:59
+2018,2209,Industrial and Manufacturing Engineering,1,TM,2025-12-01 19:10:59
+2018,2612,Numerical Analysis,1,TM,2025-12-01 19:10:59
+2018,2613,Statistics and Probability,1,TM,2025-12-01 19:10:59
+2018,2805,Cognitive Neuroscience,1,TM,2025-12-01 19:10:59
+2018,3302,Archeology,1,TM,2025-12-01 19:10:59
+2018,3305,"Geography, Planning and Development",1,TM,2025-12-01 19:10:59
+2018,3308,Law,1,TM,2025-12-01 19:10:59
+2018,3313,Transportation,1,TM,2025-12-01 19:10:59
+2018,3315,Communication,1,TM,2025-12-01 19:10:59
+2019,3304,Education,18,TM,2025-12-01 19:10:59
+2019,3312,Sociology and Political Science,18,TM,2025-12-01 19:10:59
+2019,1202,History,17,TM,2025-12-01 19:10:59
+2019,3320,Political Science and International Relations,17,TM,2025-12-01 19:10:59
+2019,1204,Archeology,16,TM,2025-12-01 19:10:59
+2019,3314,Anthropology,13,TM,2025-12-01 19:10:59
+2019,1203,Language and Linguistics,8,TM,2025-12-01 19:10:59
+2019,1211,Philosophy,6,TM,2025-12-01 19:10:59
+2019,1911,Paleontology,6,TM,2025-12-01 19:10:59
+2019,1205,Classics,5,TM,2025-12-01 19:10:59
+2019,1209,Museology,5,TM,2025-12-01 19:10:59
+2019,1208,Literature and Literary Theory,3,TM,2025-12-01 19:10:59
+2019,1213,Visual Arts and Performing Arts,3,TM,2025-12-01 19:10:59
+2019,1710,Information Systems,3,TM,2025-12-01 19:10:59
+2019,2002,Economics and Econometrics,3,TM,2025-12-01 19:10:59
+2019,2003,Finance,3,TM,2025-12-01 19:10:59
+2019,3317,Demography,3,TM,2025-12-01 19:10:59
+2019,1207,History and Philosophy of Science,2,TM,2025-12-01 19:10:59
+2019,1210,Music,2,TM,2025-12-01 19:10:59
+2019,1912,Space and Planetary Science,2,TM,2025-12-01 19:10:59
+2019,2604,Applied Mathematics,2,TM,2025-12-01 19:10:59
+2019,1902,Atmospheric Science,1,TM,2025-12-01 19:10:59
+2019,1907,Geology,1,TM,2025-12-01 19:10:59
+2019,2203,Automotive Engineering,1,TM,2025-12-01 19:10:59
+2019,2734,Pathology and Forensic Medicine,1,TM,2025-12-01 19:10:59
+2019,2739,"Public Health, Environmental and Occupational Health",1,TM,2025-12-01 19:10:59
+2019,3300,General Social Sciences,1,TM,2025-12-01 19:10:59
+2019,3302,Archeology,1,TM,2025-12-01 19:10:59
+2019,3305,"Geography, Planning and Development",1,TM,2025-12-01 19:10:59
+2019,3308,Law,1,TM,2025-12-01 19:10:59
+2019,3313,Transportation,1,TM,2025-12-01 19:10:59
+2019,3600,General Health Professions,1,TM,2025-12-01 19:10:59
+2020,3320,Political Science and International Relations,29,TM,2025-12-01 19:10:59
+2020,1204,Archeology,22,TM,2025-12-01 19:10:59
+2020,3312,Sociology and Political Science,22,TM,2025-12-01 19:10:59
+2020,3304,Education,16,TM,2025-12-01 19:10:59
+2020,1202,History,14,TM,2025-12-01 19:10:59
+2020,3314,Anthropology,8,TM,2025-12-01 19:10:59
+2020,3317,Demography,5,TM,2025-12-01 19:10:59
+2020,1203,Language and Linguistics,3,TM,2025-12-01 19:10:59
+2020,1209,Museology,3,TM,2025-12-01 19:10:59
+2020,1211,Philosophy,3,TM,2025-12-01 19:10:59
+2020,1402,Accounting,3,TM,2025-12-01 19:10:59
+2020,1710,Information Systems,3,TM,2025-12-01 19:10:59
+2020,1911,Paleontology,3,TM,2025-12-01 19:10:59
+2020,2002,Economics and Econometrics,3,TM,2025-12-01 19:10:59
+2020,3300,General Social Sciences,3,TM,2025-12-01 19:10:59
+2020,1707,Computer Vision and Pattern Recognition,2,TM,2025-12-01 19:10:59
+2020,1912,Space and Planetary Science,2,TM,2025-12-01 19:10:59
+2020,2604,Applied Mathematics,2,TM,2025-12-01 19:10:59
+2020,2610,Mathematical Physics,2,TM,2025-12-01 19:10:59
+2020,2612,Numerical Analysis,2,TM,2025-12-01 19:10:59
+2020,3311,Safety Research,2,TM,2025-12-01 19:10:59
+2020,3316,Cultural Studies,2,TM,2025-12-01 19:10:59
+2020,3322,Urban Studies,2,TM,2025-12-01 19:10:59
+2020,1100,General Agricultural and Biological Sciences,1,TM,2025-12-01 19:10:59
+2020,1102,Agronomy and Crop Science,1,TM,2025-12-01 19:10:59
+2020,1200,General Arts and Humanities,1,TM,2025-12-01 19:10:59
+2020,1205,Classics,1,TM,2025-12-01 19:10:59
+2020,1206,Conservation,1,TM,2025-12-01 19:10:59
+2020,1213,Visual Arts and Performing Arts,1,TM,2025-12-01 19:10:59
+2020,1907,Geology,1,TM,2025-12-01 19:10:59
+2020,1910,Oceanography,1,TM,2025-12-01 19:10:59
+2020,2003,Finance,1,TM,2025-12-01 19:10:59
+2020,2216,Architecture,1,TM,2025-12-01 19:10:59
+2020,3205,Experimental and Cognitive Psychology,1,TM,2025-12-01 19:10:59
+2020,3305,"Geography, Planning and Development",1,TM,2025-12-01 19:10:59
+2020,3315,Communication,1,TM,2025-12-01 19:10:59
+2020,3600,General Health Professions,1,TM,2025-12-01 19:10:59
+2021,3304,Education,36,TM,2025-12-01 19:10:59
+2021,3320,Political Science and International Relations,22,TM,2025-12-01 19:10:59
+2021,1204,Archeology,21,TM,2025-12-01 19:10:59
+2021,3312,Sociology and Political Science,18,TM,2025-12-01 19:10:59
+2021,3314,Anthropology,16,TM,2025-12-01 19:10:59
+2021,1203,Language and Linguistics,12,TM,2025-12-01 19:10:59
+2021,2002,Economics and Econometrics,12,TM,2025-12-01 19:10:59
+2021,1104,Aquatic Science,9,TM,2025-12-01 19:10:59
+2021,1911,Paleontology,7,TM,2025-12-01 19:10:59
+2021,3317,Demography,7,TM,2025-12-01 19:10:59
+2021,1208,Literature and Literary Theory,6,TM,2025-12-01 19:10:59
+2021,1209,Museology,6,TM,2025-12-01 19:10:59
+2021,1202,History,5,TM,2025-12-01 19:10:59
+2021,3316,Cultural Studies,5,TM,2025-12-01 19:10:59
+2021,2604,Applied Mathematics,4,TM,2025-12-01 19:10:59
+2021,1710,Information Systems,3,TM,2025-12-01 19:10:59
+2021,2612,Numerical Analysis,3,TM,2025-12-01 19:10:59
+2021,1100,General Agricultural and Biological Sciences,2,TM,2025-12-01 19:10:59
+2021,1205,Classics,2,TM,2025-12-01 19:10:59
+2021,1212,Religious studies,2,TM,2025-12-01 19:10:59
+2021,2210,Mechanical Engineering,2,TM,2025-12-01 19:10:59
+2021,2308,"Management, Monitoring, Policy and Law",2,TM,2025-12-01 19:10:59
+2021,3300,General Social Sciences,2,TM,2025-12-01 19:10:59
+2021,3302,Archeology,2,TM,2025-12-01 19:10:59
+2021,1110,Plant Science,1,TM,2025-12-01 19:10:59
+2021,1111,Soil Science,1,TM,2025-12-01 19:10:59
+2021,1207,History and Philosophy of Science,1,TM,2025-12-01 19:10:59
+2021,1211,Philosophy,1,TM,2025-12-01 19:10:59
+2021,1213,Visual Arts and Performing Arts,1,TM,2025-12-01 19:10:59
+2021,1702,Artificial Intelligence,1,TM,2025-12-01 19:10:59
+2021,1906,Geochemistry and Petrology,1,TM,2025-12-01 19:10:59
+2021,1910,Oceanography,1,TM,2025-12-01 19:10:59
+2021,2105,"Renewable Energy, Sustainability and the Environment",1,TM,2025-12-01 19:10:59
+2021,2207,Control and Systems Engineering,1,TM,2025-12-01 19:10:59
+2021,2303,Ecology,1,TM,2025-12-01 19:10:59
+2021,2610,Mathematical Physics,1,TM,2025-12-01 19:10:59
+2021,2725,Infectious Diseases,1,TM,2025-12-01 19:10:59
+2021,3103,Astronomy and Astrophysics,1,TM,2025-12-01 19:10:59
+2021,3203,Clinical Psychology,1,TM,2025-12-01 19:10:59
+2021,3207,Social Psychology,1,TM,2025-12-01 19:10:59
+2021,3308,Law,1,TM,2025-12-01 19:10:59
+2021,3318,Gender Studies,1,TM,2025-12-01 19:10:59
+2022,3304,Education,94,TM,2025-12-01 19:10:59
+2022,1104,Aquatic Science,56,TM,2025-12-01 19:10:59
+2022,2002,Economics and Econometrics,48,TM,2025-12-01 19:10:59
+2022,3312,Sociology and Political Science,27,TM,2025-12-01 19:10:59
+2022,3320,Political Science and International Relations,27,TM,2025-12-01 19:10:59
+2022,1204,Archeology,25,TM,2025-12-01 19:10:59
+2022,3314,Anthropology,24,TM,2025-12-01 19:10:59
+2022,1203,Language and Linguistics,18,TM,2025-12-01 19:10:59
+2022,3317,Demography,9,TM,2025-12-01 19:10:59
+2022,1208,Literature and Literary Theory,7,TM,2025-12-01 19:10:59
+2022,1202,History,6,TM,2025-12-01 19:10:59
+2022,1209,Museology,6,TM,2025-12-01 19:10:59
+2022,3316,Cultural Studies,6,TM,2025-12-01 19:10:59
+2022,1911,Paleontology,4,TM,2025-12-01 19:10:59
+2022,1710,Information Systems,3,TM,2025-12-01 19:10:59
+2022,3300,General Social Sciences,3,TM,2025-12-01 19:10:59
+2022,3600,General Health Professions,3,TM,2025-12-01 19:10:59
+2022,1105,"Ecology, Evolution, Behavior and Systematics",2,TM,2025-12-01 19:10:59
+2022,1205,Classics,2,TM,2025-12-01 19:10:59
+2022,1402,Accounting,2,TM,2025-12-01 19:10:59
+2022,1910,Oceanography,2,TM,2025-12-01 19:10:59
+2022,1912,Space and Planetary Science,2,TM,2025-12-01 19:10:59
+2022,2204,Biomedical Engineering,2,TM,2025-12-01 19:10:59
+2022,2210,Mechanical Engineering,2,TM,2025-12-01 19:10:59
+2022,3103,Astronomy and Astrophysics,2,TM,2025-12-01 19:10:59
+2022,3315,Communication,2,TM,2025-12-01 19:10:59
+2022,1100,General Agricultural and Biological Sciences,1,TM,2025-12-01 19:10:59
+2022,1106,Food Science,1,TM,2025-12-01 19:10:59
+2022,1200,General Arts and Humanities,1,TM,2025-12-01 19:10:59
+2022,1210,Music,1,TM,2025-12-01 19:10:59
+2022,1212,Religious studies,1,TM,2025-12-01 19:10:59
+2022,1408,Strategy and Management,1,TM,2025-12-01 19:10:59
+2022,1703,Computational Theory and Mathematics,1,TM,2025-12-01 19:10:59
+2022,1803,Management Science and Operations Research,1,TM,2025-12-01 19:10:59
+2022,1907,Geology,1,TM,2025-12-01 19:10:59
+2022,1908,Geophysics,1,TM,2025-12-01 19:10:59
+2022,2003,Finance,1,TM,2025-12-01 19:10:59
+2022,2100,General Energy,1,TM,2025-12-01 19:10:59
+2022,2103,Fuel Technology,1,TM,2025-12-01 19:10:59
+2022,2105,"Renewable Energy, Sustainability and the Environment",1,TM,2025-12-01 19:10:59
+2022,2213,"Safety, Risk, Reliability and Quality",1,TM,2025-12-01 19:10:59
+2022,2306,Global and Planetary Change,1,TM,2025-12-01 19:10:59
+2022,2308,"Management, Monitoring, Policy and Law",1,TM,2025-12-01 19:10:59
+2022,2604,Applied Mathematics,1,TM,2025-12-01 19:10:59
+2022,2702,Anatomy,1,TM,2025-12-01 19:10:59
+2022,3302,Archeology,1,TM,2025-12-01 19:10:59
+2022,3306,Health,1,TM,2025-12-01 19:10:59
+2022,3308,Law,1,TM,2025-12-01 19:10:59
+2022,3310,Linguistics and Language,1,TM,2025-12-01 19:10:59
+2022,3313,Transportation,1,TM,2025-12-01 19:10:59
+2022,3318,Gender Studies,1,TM,2025-12-01 19:10:59
+2023,3304,Education,207,TM,2025-12-01 19:10:59
+2023,1104,Aquatic Science,113,TM,2025-12-01 19:10:59
+2023,2002,Economics and Econometrics,100,TM,2025-12-01 19:10:59
+2023,3312,Sociology and Political Science,23,TM,2025-12-01 19:10:59
+2023,1203,Language and Linguistics,22,TM,2025-12-01 19:10:59
+2023,1204,Archeology,15,TM,2025-12-01 19:10:59
+2023,3314,Anthropology,13,TM,2025-12-01 19:10:59
+2023,1710,Information Systems,11,TM,2025-12-01 19:10:59
+2023,3320,Political Science and International Relations,10,TM,2025-12-01 19:10:59
+2023,1208,Literature and Literary Theory,9,TM,2025-12-01 19:10:59
+2023,1209,Museology,6,TM,2025-12-01 19:10:59
+2023,3103,Astronomy and Astrophysics,4,TM,2025-12-01 19:10:59
+2023,3204,Developmental and Educational Psychology,4,TM,2025-12-01 19:10:59
+2023,1408,Strategy and Management,3,TM,2025-12-01 19:10:59
+2023,2312,Water Science and Technology,3,TM,2025-12-01 19:10:59
+2023,2612,Numerical Analysis,3,TM,2025-12-01 19:10:59
+2023,1100,General Agricultural and Biological Sciences,2,TM,2025-12-01 19:10:59
+2023,1111,Soil Science,2,TM,2025-12-01 19:10:59
+2023,1202,History,2,TM,2025-12-01 19:10:59
+2023,1211,Philosophy,2,TM,2025-12-01 19:10:59
+2023,1910,Oceanography,2,TM,2025-12-01 19:10:59
+2023,1911,Paleontology,2,TM,2025-12-01 19:10:59
+2023,2100,General Energy,2,TM,2025-12-01 19:10:59
+2023,3109,Statistical and Nonlinear Physics,2,TM,2025-12-01 19:10:59
+2023,3308,Law,2,TM,2025-12-01 19:10:59
+2023,3319,Life-span and Life-course Studies,2,TM,2025-12-01 19:10:59
+2023,1205,Classics,1,TM,2025-12-01 19:10:59
+2023,1707,Computer Vision and Pattern Recognition,1,TM,2025-12-01 19:10:59
+2023,1902,Atmospheric Science,1,TM,2025-12-01 19:10:59
+2023,2000,"General Economics, Econometrics and Finance",1,TM,2025-12-01 19:10:59
+2023,2003,Finance,1,TM,2025-12-01 19:10:59
+2023,2105,"Renewable Energy, Sustainability and the Environment",1,TM,2025-12-01 19:10:59
+2023,2204,Biomedical Engineering,1,TM,2025-12-01 19:10:59
+2023,2206,Computational Mechanics,1,TM,2025-12-01 19:10:59
+2023,2207,Control and Systems Engineering,1,TM,2025-12-01 19:10:59
+2023,2208,Electrical and Electronic Engineering,1,TM,2025-12-01 19:10:59
+2023,2303,Ecology,1,TM,2025-12-01 19:10:59
+2023,2306,Global and Planetary Change,1,TM,2025-12-01 19:10:59
+2023,2604,Applied Mathematics,1,TM,2025-12-01 19:10:59
+2023,3203,Clinical Psychology,1,TM,2025-12-01 19:10:59
+2023,3305,"Geography, Planning and Development",1,TM,2025-12-01 19:10:59
+2023,3313,Transportation,1,TM,2025-12-01 19:10:59
+2023,3315,Communication,1,TM,2025-12-01 19:10:59
+2023,3318,Gender Studies,1,TM,2025-12-01 19:10:59
+2024,3304,Education,18,TM,2025-12-01 19:10:59
+2024,1208,Literature and Literary Theory,12,TM,2025-12-01 19:10:59
+2024,1203,Language and Linguistics,10,TM,2025-12-01 19:10:59
+2024,3320,Political Science and International Relations,9,TM,2025-12-01 19:10:59
+2024,1209,Museology,8,TM,2025-12-01 19:10:59
+2024,3314,Anthropology,7,TM,2025-12-01 19:10:59
+2024,3312,Sociology and Political Science,4,TM,2025-12-01 19:10:59
+2024,1104,Aquatic Science,3,TM,2025-12-01 19:10:59
+2024,1202,History,3,TM,2025-12-01 19:10:59
+2024,1204,Archeology,3,TM,2025-12-01 19:10:59
+2024,3207,Social Psychology,3,TM,2025-12-01 19:10:59
+2024,1408,Strategy and Management,2,TM,2025-12-01 19:10:59
+2024,1911,Paleontology,2,TM,2025-12-01 19:10:59
+2024,2002,Economics and Econometrics,2,TM,2025-12-01 19:10:59
+2024,1212,Religious studies,1,TM,2025-12-01 19:10:59
+2024,1704,Computer Graphics and Computer-Aided Design,1,TM,2025-12-01 19:10:59
+2024,1910,Oceanography,1,TM,2025-12-01 19:10:59
+2024,2105,"Renewable Energy, Sustainability and the Environment",1,TM,2025-12-01 19:10:59
+2024,2205,Civil and Structural Engineering,1,TM,2025-12-01 19:10:59
+2024,2308,"Management, Monitoring, Policy and Law",1,TM,2025-12-01 19:10:59
+2024,2604,Applied Mathematics,1,TM,2025-12-01 19:10:59
+2024,2610,Mathematical Physics,1,TM,2025-12-01 19:10:59
+2024,2612,Numerical Analysis,1,TM,2025-12-01 19:10:59
+2024,3305,"Geography, Planning and Development",1,TM,2025-12-01 19:10:59
+2024,3600,General Health Professions,1,TM,2025-12-01 19:10:59
+2024,3603,Complementary and Manual Therapy,1,TM,2025-12-01 19:10:59
+2025,3304,Education,36,TM,2025-12-01 19:10:59
+2025,2002,Economics and Econometrics,29,TM,2025-12-01 19:10:59
+2025,1104,Aquatic Science,9,TM,2025-12-01 19:10:59
+2025,3320,Political Science and International Relations,9,TM,2025-12-01 19:10:59
+2025,1405,Management of Technology and Innovation,8,TM,2025-12-01 19:10:59
+2025,3312,Sociology and Political Science,5,TM,2025-12-01 19:10:59
+2025,1203,Language and Linguistics,4,TM,2025-12-01 19:10:59
+2025,1204,Archeology,3,TM,2025-12-01 19:10:59
+2025,1208,Literature and Literary Theory,2,TM,2025-12-01 19:10:59
+2025,3310,Linguistics and Language,2,TM,2025-12-01 19:10:59
+2025,1209,Museology,1,TM,2025-12-01 19:10:59
+2025,1311,Genetics,1,TM,2025-12-01 19:10:59
+2025,1710,Information Systems,1,TM,2025-12-01 19:10:59
+2025,1907,Geology,1,TM,2025-12-01 19:10:59
+2025,1912,Space and Planetary Science,1,TM,2025-12-01 19:10:59
+2025,2202,Aerospace Engineering,1,TM,2025-12-01 19:10:59
+2025,2303,Ecology,1,TM,2025-12-01 19:10:59
+2025,3204,Developmental and Educational Psychology,1,TM,2025-12-01 19:10:59
+2025,3313,Transportation,1,TM,2025-12-01 19:10:59
+2025,3314,Anthropology,1,TM,2025-12-01 19:10:59
+2025,3316,Cultural Studies,1,TM,2025-12-01 19:10:59

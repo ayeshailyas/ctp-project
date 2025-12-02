@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+2208,Electrical and Electronic Engineering,"A Survey on Internet of Things: Architecture, Enabling Technologies, Security and Privacy, and Applications",https://doi.org/10.1109/jiot.2017.2683200,2017,2629,https://openalex.org/W2596636257
+2208,Electrical and Electronic Engineering,Intelligent Reflecting Surface-Aided Wireless Communications: A Tutorial,https://doi.org/10.1109/tcomm.2021.3051897,2021,2505,https://openalex.org/W3129486236
+2208,Electrical and Electronic Engineering,"The Zwicky Transient Facility: System Overview, Performance, and First Results",https://doi.org/10.1088/1538-3873/aaecbe,2018,1766,https://openalex.org/W2905450617
+1312,Molecular Biology,A global reference for human genetic variation,https://doi.org/10.1038/nature15393,2015,18620,https://openalex.org/W2104549677
+1312,Molecular Biology,Squeeze-and-Excitation Networks,https://doi.org/10.1109/tpami.2019.2913372,2019,11986,https://openalex.org/W2963420686
+1312,Molecular Biology,Dynamics and Stabilization of the Human Gut Microbiome during the First Year of Life,https://doi.org/10.1016/j.chom.2015.04.004,2015,3159,https://openalex.org/W2143196592
+3312,Sociology and Political Science,Problematic smartphone use: A conceptual overview and systematic review of relations with anxiety and depression psychopathology,https://doi.org/10.1016/j.jad.2016.08.030,2016,1449,https://openalex.org/W2527878972
+3312,Sociology and Political Science,Antecedents and outcomes of abusive supervision: Test of a trickle-down model.,https://doi.org/10.1037/0021-9010.92.1.191,2007,881,https://openalex.org/W2067939158
+3312,Sociology and Political Science,"Fear of missing out, need for touch, anxiety and depression are related to problematic smartphone use",https://doi.org/10.1016/j.chb.2016.05.079,2016,879,https://openalex.org/W2409502070
+1702,Artificial Intelligence,Squeeze-and-Excitation Networks,https://doi.org/10.1109/tpami.2019.2913372,2019,11986,https://openalex.org/W2963420686
+1702,Artificial Intelligence,Broad Learning System: An Effective and Efficient Incremental Learning System Without the Need for Deep Architecture,https://doi.org/10.1109/tnnls.2017.2716952,2017,1727,https://openalex.org/W2738226240
+1702,Artificial Intelligence,Wide and Deep Convolutional Neural Networks for Electricity-Theft Detection to Secure Smart Grids,https://doi.org/10.1109/tii.2017.2785963,2017,711,https://openalex.org/W2776990447
+1707,Computer Vision and Pattern Recognition,"A Survey on Internet of Things: Architecture, Enabling Technologies, Security and Privacy, and Applications",https://doi.org/10.1109/jiot.2017.2683200,2017,2629,https://openalex.org/W2596636257
+1707,Computer Vision and Pattern Recognition,Deep Learning for Person Re-Identification: A Survey and Outlook,https://doi.org/10.1109/tpami.2021.3054775,2021,1859,https://openalex.org/W2998792609
+1707,Computer Vision and Pattern Recognition,Broad Learning System: An Effective and Efficient Incremental Learning System Without the Need for Deep Architecture,https://doi.org/10.1109/tnnls.2017.2716952,2017,1727,https://openalex.org/W2738226240
+2204,Biomedical Engineering,"Broadband Nonlinear Photonics in Few‐Layer MXene Ti<sub>3</sub>C<sub>2</sub>T<sub>x</sub> (T = F, O, or OH)",https://doi.org/10.1002/lpor.201700229,2017,703,https://openalex.org/W2765383391
+2204,Biomedical Engineering,A 10-bit 100-MS/s Reference-Free SAR ADC in 90 nm CMOS,https://doi.org/10.1109/jssc.2010.2048498,2010,682,https://openalex.org/W2164251692
+2204,Biomedical Engineering,1D Coordination Polymer Nanofibers for Low‐Temperature Photothermal Therapy,https://doi.org/10.1002/adma.201703588,2017,556,https://openalex.org/W2745883884
+2505,Materials Chemistry,The Advancing of Zinc Oxide Nanoparticles for Biomedical Applications,https://doi.org/10.1155/2018/1062562,2018,1163,https://openalex.org/W2816050627
+2505,Materials Chemistry,Stabilizing black-phase formamidinium perovskite formation at room temperature and high humidity,https://doi.org/10.1126/science.abf7652,2021,738,https://openalex.org/W3137528670
+2505,Materials Chemistry,"Broadband Nonlinear Photonics in Few‐Layer MXene Ti<sub>3</sub>C<sub>2</sub>T<sub>x</sub> (T = F, O, or OH)",https://doi.org/10.1002/lpor.201700229,2017,703,https://openalex.org/W2765383391
+2002,Economics and Econometrics,Modified SEIR and AI prediction of the epidemics trend of COVID-19 in China under public health interventions,https://doi.org/10.21037/jtd.2020.02.64,2020,1471,https://openalex.org/W3009876049
+2002,Economics and Econometrics,"Artificial intelligence in sustainable energy industry: Status Quo, challenges and opportunities",https://doi.org/10.1016/j.jclepro.2021.125834,2021,997,https://openalex.org/W3118831975
+2002,Economics and Econometrics,Mental health services for older adults in China during the COVID-19 outbreak,https://doi.org/10.1016/s2215-0366(20)30079-1,2020,883,https://openalex.org/W3008213846
+2207,Control and Systems Engineering,Wide and Deep Convolutional Neural Networks for Electricity-Theft Detection to Secure Smart Grids,https://doi.org/10.1109/tii.2017.2785963,2017,711,https://openalex.org/W2776990447
+2207,Control and Systems Engineering,Adaptive control-based Barrier Lyapunov Functions for a class of stochastic nonlinear systems with full state constraints,https://doi.org/10.1016/j.automatica.2017.07.028,2017,621,https://openalex.org/W2765910425
+2207,Control and Systems Engineering,Adaptive Consensus Control for a Class of Nonlinear Multiagent Time-Delay Systems Using Neural Networks,https://doi.org/10.1109/tnnls.2014.2302477,2014,618,https://openalex.org/W1919998456
+1705,Computer Networks and Communications,"An Overview of Blockchain Technology: Architecture, Consensus, and Future Trends",https://doi.org/10.1109/bigdatacongress.2017.85,2017,4108,https://openalex.org/W2754529701
+1705,Computer Networks and Communications,Blockchain challenges and opportunities: a survey,https://doi.org/10.1504/ijwgs.2018.095647,2018,3009,https://openalex.org/W2897450989
+1705,Computer Networks and Communications,"Data-intensive applications, challenges, techniques and technologies: A survey on Big Data",https://doi.org/10.1016/j.ins.2014.01.015,2014,2946,https://openalex.org/W2109574129

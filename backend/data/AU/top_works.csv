@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1312,Molecular Biology,<tt>edgeR</tt> : a Bioconductor package for differential expression analysis of digital gene expression data,https://doi.org/10.1093/bioinformatics/btp616,2009,41585,https://openalex.org/W2114104545
+1312,Molecular Biology,limma powers differential expression analyses for RNA-sequencing and microarray studies,https://doi.org/10.1093/nar/gkv007,2015,39222,https://openalex.org/W2146512944
+1312,Molecular Biology,QIIME allows analysis of high-throughput community sequencing data,https://doi.org/10.1038/nmeth.f.303,2010,34787,https://openalex.org/W2072970694
+3312,Sociology and Political Science,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1136/bmj.n71,2021,75073,https://openalex.org/W3118615836
+3312,Sociology and Political Science,PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation,https://doi.org/10.7326/m18-0850,2018,33210,https://openalex.org/W2891378911
+3312,Sociology and Political Science,RoB 2: a revised tool for assessing risk of bias in randomised trials,https://doi.org/10.1136/bmj.l4898,2019,25597,https://openalex.org/W2970684805
+2746,Surgery,The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3),https://doi.org/10.1001/jama.2016.0287,2016,25256,https://openalex.org/W2280404143
+2746,Surgery,Canagliflozin and Cardiovascular and Renal Events in Type 2 Diabetes,https://doi.org/10.1056/nejmoa1611925,2017,7360,https://openalex.org/W2626446274
+2746,Surgery,"2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines",https://doi.org/10.1161/hyp.0000000000000065,2017,7224,https://openalex.org/W2770837559
+2739,"Public Health, Environmental and Occupational Health",Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015: elaboration and explanation,https://doi.org/10.1136/bmj.g7647,2015,12321,https://openalex.org/W2169205464
+2739,"Public Health, Environmental and Occupational Health","A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010",https://doi.org/10.1016/s0140-6736(12)61766-8,2012,11832,https://openalex.org/W2110052313
+2739,"Public Health, Environmental and Occupational Health","Global, regional, and national prevalence of overweight and obesity in children and adults during 1980–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(14)60460-8,2014,11822,https://openalex.org/W2163710303
+2208,Electrical and Electronic Engineering,What Will 5G Be?,https://doi.org/10.1109/jsac.2014.2328098,2014,7974,https://openalex.org/W2054692642
+2208,Electrical and Electronic Engineering,The emergence of perovskite solar cells,https://doi.org/10.1038/nphoton.2014.134,2014,6930,https://openalex.org/W1999717631
+2208,Electrical and Electronic Engineering,Graphitic Carbon Nitride (g-C<sub>3</sub>N<sub>4</sub>)-Based Photocatalysts for Artificial Photosynthesis and Environmental Remediation: Are We a Step Closer To Achieving Sustainability?,https://doi.org/10.1021/acs.chemrev.6b00075,2016,6629,https://openalex.org/W2401906193
+3600,General Health Professions,Consolidated criteria for reporting qualitative research (COREQ): a 32-item checklist for interviews and focus groups,https://doi.org/10.1093/intqhc/mzm042,2007,35628,https://openalex.org/W2138664283
+3600,General Health Professions,ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions,https://doi.org/10.1136/bmj.i4919,2016,16454,https://openalex.org/W2531269403
+3600,General Health Professions,Coding Algorithms for Defining Comorbidities in ICD-9-CM and ICD-10 Administrative Data,https://doi.org/10.1097/01.mlr.0000182534.19832.83,2005,10062,https://openalex.org/W2061326496
+2713,Epidemiology,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1136/bmj.n71,2021,75073,https://openalex.org/W3118615836
+2713,Epidemiology,The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3),https://doi.org/10.1001/jama.2016.0287,2016,25256,https://openalex.org/W2280404143
+2713,Epidemiology,Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement,https://doi.org/10.1186/2046-4053-4-1,2015,24574,https://openalex.org/W2161374186
+1702,Artificial Intelligence,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.1038/s41592-019-0686-2,2020,32755,https://openalex.org/W3003257820
+1702,Artificial Intelligence,featureCounts: an efficient general purpose program for assigning sequence reads to genomic features,https://doi.org/10.1093/bioinformatics/btt656,2013,26083,https://openalex.org/W2138207763
+1702,Artificial Intelligence,Grey Wolf Optimizer,https://doi.org/10.1016/j.advengsoft.2013.12.007,2014,16685,https://openalex.org/W2061438946
+2204,Biomedical Engineering,Large-scale pattern growth of graphene films for stretchable transparent electrodes,https://doi.org/10.1038/nature07719,2009,10325,https://openalex.org/W2099779584
+2204,Biomedical Engineering,Diagnostic criteria for multiple sclerosis: 2010 Revisions to the McDonald criteria,https://doi.org/10.1002/ana.22366,2011,9660,https://openalex.org/W2122545833
+2204,Biomedical Engineering,Processable aqueous dispersions of graphene nanosheets,https://doi.org/10.1038/nnano.2007.451,2008,8955,https://openalex.org/W2149070465
+2303,Ecology,QIIME allows analysis of high-throughput community sequencing data,https://doi.org/10.1038/nmeth.f.303,2010,34787,https://openalex.org/W2072970694
+2303,Ecology,Prokka: rapid prokaryotic genome annotation,https://doi.org/10.1093/bioinformatics/btu153,2014,17535,https://openalex.org/W2096093282
+2303,Ecology,"CheckM: assessing the quality of microbial genomes recovered from isolates, single cells, and metagenomes",https://doi.org/10.1101/gr.186072.114,2015,11131,https://openalex.org/W2112364185

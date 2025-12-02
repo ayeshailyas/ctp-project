@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1312,Molecular Biology,"STRING v11: protein–protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets",https://doi.org/10.1093/nar/gky1131,2018,17916,https://openalex.org/W2900569176
+1312,Molecular Biology,DnaSP v5: a software for comprehensive analysis of DNA polymorphism data,https://doi.org/10.1093/bioinformatics/btp187,2009,15993,https://openalex.org/W2154845780
+1312,Molecular Biology,GSVA: gene set variation analysis for microarray and RNA-Seq data,https://doi.org/10.1186/1471-2105-14-7,2013,14932,https://openalex.org/W2159707944
+2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5316,https://openalex.org/W2993259418
+2746,Surgery,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4779,https://openalex.org/W2953804067
+2746,Surgery,Cardiovascular and Renal Outcomes with Empagliflozin in Heart Failure,https://doi.org/10.1056/nejmoa2022190,2020,4527,https://openalex.org/W3081830235
+2208,Electrical and Electronic Engineering,The electronic properties of graphene,https://doi.org/10.1103/revmodphys.81.109,2009,23781,https://openalex.org/W2105685140
+2208,Electrical and Electronic Engineering,What Will 5G Be?,https://doi.org/10.1109/jsac.2014.2328098,2014,7974,https://openalex.org/W2054692642
+2208,Electrical and Electronic Engineering,Internet of Things for Smart Cities,https://doi.org/10.1109/jiot.2014.2306328,2014,5857,https://openalex.org/W2058401212
+3312,Sociology and Political Science,Joint effect of ageing and multilayer structure prevents ordering in the voter model,https://doi.org/10.48550/arxiv.1703.06073,2017,5607,https://openalex.org/W2949816023
+3312,Sociology and Political Science,"The COSMIN study reached international consensus on taxonomy, terminology, and definitions of measurement properties for health-related patient-reported outcomes",https://doi.org/10.1016/j.jclinepi.2010.02.006,2010,4118,https://openalex.org/W2171762906
+3312,Sociology and Political Science,The COSMIN checklist for assessing the methodological quality of studies on measurement properties of health status measurement instruments: an international Delphi study,https://doi.org/10.1007/s11136-010-9606-8,2010,3859,https://openalex.org/W2157427387
+2713,Epidemiology,Management of Hepatocellular Carcinoma: An Update Δσ,https://doi.org/10.1002/hep.24199,2011,8037,https://openalex.org/W2163403599
+2713,Epidemiology,Endovascular thrombectomy after large-vessel ischaemic stroke: a meta-analysis of individual patient data from five randomised trials,https://doi.org/10.1016/s0140-6736(16)00163-x,2016,7056,https://openalex.org/W2277258071
+2713,Epidemiology,Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock: 2016,https://doi.org/10.1007/s00134-017-4683-6,2017,6441,https://openalex.org/W3016555942
+2204,Biomedical Engineering,"Physisorption of gases, with special reference to the evaluation of surface area and pore size distribution (IUPAC Technical Report)",https://doi.org/10.1515/pac-2014-1117,2015,17641,https://openalex.org/W843007777
+2204,Biomedical Engineering,Diagnostic criteria for multiple sclerosis: 2010 Revisions to the McDonald criteria,https://doi.org/10.1002/ana.22366,2011,9660,https://openalex.org/W2122545833
+2204,Biomedical Engineering,"Synthesis of Transportation Fuels from Biomass:  Chemistry, Catalysts, and Engineering",https://doi.org/10.1021/cr068360d,2006,7462,https://openalex.org/W2120446525
+2740,Pulmonary and Respiratory Medicine,"Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease",https://doi.org/10.1164/rccm.201204-0596pp,2012,15998,https://openalex.org/W2127951128
+2740,Pulmonary and Respiratory Medicine,Epithelial-Mesenchymal Transitions in Development and Disease,https://doi.org/10.1016/j.cell.2009.11.007,2009,9746,https://openalex.org/W1964081206
+2740,Pulmonary and Respiratory Medicine,Pembrolizumab versus Chemotherapy for PD-L1–Positive Non–Small-Cell Lung Cancer,https://doi.org/10.1056/nejmoa1606774,2016,9618,https://openalex.org/W2527905628
+2505,Materials Chemistry,The electronic properties of graphene,https://doi.org/10.1103/revmodphys.81.109,2009,23781,https://openalex.org/W2105685140
+2505,Materials Chemistry,ICTAC Kinetics Committee recommendations for performing kinetic computations on thermal analysis data,https://doi.org/10.1016/j.tca.2011.03.034,2011,5359,https://openalex.org/W2012257367
+2505,Materials Chemistry,Metal Catalysts for Heterogeneous Catalysis: From Single Atoms to Nanoclusters and Nanoparticles,https://doi.org/10.1021/acs.chemrev.7b00776,2018,4276,https://openalex.org/W2802791016
+2739,"Public Health, Environmental and Occupational Health",GRADE: an emerging consensus on rating quality of evidence and strength of recommendations,https://doi.org/10.1136/bmj.39489.470347.ad,2008,19797,https://openalex.org/W2165010366
+2739,"Public Health, Environmental and Occupational Health",World Health Organization 2020 guidelines on physical activity and sedentary behaviour,https://doi.org/10.1136/bjsports-2020-102955,2020,9202,https://openalex.org/W3108106255
+2739,"Public Health, Environmental and Occupational Health","Global, regional, and national comparative risk assessment of 79 behavioural, environmental and occupational, and metabolic risks or clusters of risks, 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015",https://doi.org/10.1016/s0140-6736(16)31679-8,2016,7669,https://openalex.org/W1617145133
+1110,Plant Science,A global overview of drought and heat-induced tree mortality reveals emerging climate change risks for forests,https://doi.org/10.1016/j.foreco.2009.09.001,2009,7305,https://openalex.org/W2140131090
+1110,Plant Science,DnaSP 6: DNA Sequence Polymorphism Analysis of Large Data Sets,https://doi.org/10.1093/molbev/msx248,2017,6903,https://openalex.org/W2755331695
+1110,Plant Science,Guidelines for the use and interpretation of assays for monitoring autophagy (3rd edition),https://doi.org/10.1080/15548627.2015.1100356,2016,5911,https://openalex.org/W2752326209

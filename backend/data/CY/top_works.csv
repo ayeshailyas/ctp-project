@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+3312,Sociology and Political Science,Climate change and interconnected risks to sustainable development in the Mediterranean,https://doi.org/10.1038/s41558-018-0299-2,2018,1355,https://openalex.org/W2897319235
+3312,Sociology and Political Science,"Social media influencer marketing: A systematic review, integrative framework and future research agenda",https://doi.org/10.1111/ijcs.12647,2021,959,https://openalex.org/W3123158399
+3312,Sociology and Political Science,"Artificial intelligence, robotics, advanced technologies and human resource management: a systematic review",https://doi.org/10.1080/09585192.2020.1871398,2021,848,https://openalex.org/W3130894836
+2208,Electrical and Electronic Engineering,Machine learning methods for solar radiation forecasting: A review,https://doi.org/10.1016/j.renene.2016.12.095,2017,1577,https://openalex.org/W2569349941
+2208,Electrical and Electronic Engineering,Overview of current and future energy storage technologies for electric power applications,https://doi.org/10.1016/j.rser.2008.09.028,2008,1449,https://openalex.org/W2049642529
+2208,Electrical and Electronic Engineering,A New Wireless Communication Paradigm through Software-Controlled Metasurfaces,https://doi.org/10.1109/mcom.2018.1700659,2018,1244,https://openalex.org/W2805166665
+2002,Economics and Econometrics,The forthcoming Artificial Intelligence (AI) revolution: Its impact on society and firms,https://doi.org/10.1016/j.futures.2017.03.006,2017,1638,https://openalex.org/W2582336686
+2002,Economics and Econometrics,"Toward a sustainable environment: Nexus between CO2 emissions, resource rent, renewable and nonrenewable energy in 16-EU countries",https://doi.org/10.1016/j.scitotenv.2018.12.104,2018,1305,https://openalex.org/W2904863468
+2002,Economics and Econometrics,"The impact of growth, energy and financial development on the environment in China: A cointegration analysis",https://doi.org/10.1016/j.eneco.2010.10.003,2010,1183,https://openalex.org/W2045568435
+3304,Education,Covid-19 pandemic and online learning: the challenges and opportunities,https://doi.org/10.1080/10494820.2020.1813180,2020,2565,https://openalex.org/W3082384720
+3304,Education,Autism,https://doi.org/10.1016/s0140-6736(13)61539-1,2013,2207,https://openalex.org/W4210708461
+3304,Education,Phases of inquiry-based learning: Definitions and the inquiry cycle,https://doi.org/10.1016/j.edurev.2015.02.003,2015,1809,https://openalex.org/W2091552421
+1702,Artificial Intelligence,Comparison of Convenience Sampling and Purposive Sampling,https://doi.org/10.11648/j.ajtas.20160501.11,2016,9069,https://openalex.org/W2239306219
+1702,Artificial Intelligence,Machine learning methods for solar radiation forecasting: A review,https://doi.org/10.1016/j.renene.2016.12.095,2017,1577,https://openalex.org/W2569349941
+1702,Artificial Intelligence,Discriminant Analysis and Statistical Pattern Recognition,https://doi.org/10.1111/j.1467-985x.2005.00368_10.x,2005,957,https://openalex.org/W2072184377
+1312,Molecular Biology,Reactive Oxygen Species and Antioxidant Defense in Plants under Abiotic Stress: Revisiting the Crucial Role of a Universal Defense Regulator,https://doi.org/10.3390/antiox9080681,2020,2439,https://openalex.org/W3046014324
+1312,Molecular Biology,An overview and management of osteoporosis,https://doi.org/10.5152/eurjrheum.2016.048,2016,2096,https://openalex.org/W2559809466
+1312,Molecular Biology,"Antibodies to Kv1 potassium channel-complex proteins leucine-rich, glioma inactivated 1 protein and contactin-associated protein-2 in limbic encephalitis, Morvan’s syndrome and acquired neuromyotonia",https://doi.org/10.1093/brain/awq213,2010,1312,https://openalex.org/W2100252544
+1705,Computer Networks and Communications,The rise of blockchain technology in agriculture and food supply chains,https://doi.org/10.1016/j.tifs.2019.07.034,2019,1070,https://openalex.org/W2965761488
+1705,Computer Networks and Communications,Internet of Things: Security vulnerabilities and challenges,https://doi.org/10.1109/iscc.2015.7405513,2015,496,https://openalex.org/W2292021756
+1705,Computer Networks and Communications,Distributed Function Calculation via Linear Iterative Strategies in the Presence of Malicious Agents,https://doi.org/10.1109/tac.2010.2088690,2010,477,https://openalex.org/W2153775930
+2204,Biomedical Engineering,A comparative overview of hydrogen production processes,https://doi.org/10.1016/j.rser.2016.09.044,2016,2886,https://openalex.org/W2523591818
+2204,Biomedical Engineering,Pharmaceutical pollution of the world’s rivers,https://doi.org/10.1073/pnas.2113947119,2022,1249,https://openalex.org/W4212893393
+2204,Biomedical Engineering,A review of the applications of nanofluids in solar energy,https://doi.org/10.1016/j.ijheatmasstransfer.2012.10.037,2012,1231,https://openalex.org/W2038133462
+1710,Information Systems,The rise of blockchain technology in agriculture and food supply chains,https://doi.org/10.1016/j.tifs.2019.07.034,2019,1070,https://openalex.org/W2965761488
+1710,Information Systems,"Artificial intelligence, machine learning and deep learning in advanced robotics, a review",https://doi.org/10.1016/j.cogr.2023.04.001,2023,827,https://openalex.org/W4362663195
+1710,Information Systems,Cloud Computing: Distributed Internet Computing for IT and Scientific Research,https://doi.org/10.1109/mic.2009.103,2009,788,https://openalex.org/W2046235404
+2746,Surgery,An overview and management of osteoporosis,https://doi.org/10.5152/eurjrheum.2016.048,2016,2096,https://openalex.org/W2559809466
+2746,Surgery,How to diagnose heart failure with preserved ejection fraction: the HFA–PEFF diagnostic algorithm: a consensus recommendation from the Heart Failure Association (HFA) of the European Society of Cardiology (ESC),https://doi.org/10.1093/eurheartj/ehz641,2019,1613,https://openalex.org/W2971111962
+2746,Surgery,Management of <i>Helicobacter pylori</i> infection: the Maastricht VI/Florence consensus report,https://doi.org/10.1136/gutjnl-2022-327745,2022,1086,https://openalex.org/W4291016468

@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+2208,Electrical and Electronic Engineering,YOLOv4: Optimal Speed and Accuracy of Object Detection,https://doi.org/10.48550/arxiv.2004.10934,2020,10283,https://openalex.org/W3018757597
+2208,Electrical and Electronic Engineering,Electrocatalysis for the oxygen evolution reaction: recent development and future perspectives,https://doi.org/10.1039/c6cs00328a,2017,5785,https://openalex.org/W2575823937
+2208,Electrical and Electronic Engineering,Synthesis of Conjugated Polymers for Organic Solar Cell Applications,https://doi.org/10.1021/cr900182s,2009,3916,https://openalex.org/W2055499045
+1312,Molecular Biology,"Empagliflozin, Cardiovascular Outcomes, and Mortality in Type 2 Diabetes",https://doi.org/10.1056/nejmoa1504720,2015,11326,https://openalex.org/W2146264128
+1312,Molecular Biology,Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines,https://doi.org/10.1080/20013078.2018.1535750,2018,10297,https://openalex.org/W2900756811
+1312,Molecular Biology,cytoHubba: identifying hub objects and sub-networks from complex interactome,https://doi.org/10.1186/1752-0509-8-s4-s11,2014,6199,https://openalex.org/W2103912979
+2204,Biomedical Engineering,Recent progress in high-entropy alloys,https://doi.org/10.3166/acsm.31.633-648,2006,1935,https://openalex.org/W2007115257
+2204,Biomedical Engineering,"Cultivation, photobioreactor design and harvesting of microalgae for biodiesel production: A critical review",https://doi.org/10.1016/j.biortech.2010.06.159,2010,1800,https://openalex.org/W2018919953
+2204,Biomedical Engineering,A Review of CO2 Capture by Absorption and Adsorption,https://doi.org/10.4209/aaqr.2012.05.0132,2012,1635,https://openalex.org/W2144754980
+2505,Materials Chemistry,The chemistry of two-dimensional layered transition metal dichalcogenide nanosheets,https://doi.org/10.1038/nchem.1589,2013,9393,https://openalex.org/W2011899447
+2505,Materials Chemistry,Porphyrin-Sensitized Solar Cells with Cobalt (II/III)–Based Redox Electrolyte Exceed 12 Percent Efficiency,https://doi.org/10.1126/science.1209688,2011,5920,https://openalex.org/W2017588499
+2505,Materials Chemistry,Berry phase effects on electronic properties,https://doi.org/10.1103/revmodphys.82.1959,2010,4783,https://openalex.org/W2132568564
+2746,Surgery,Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction,https://doi.org/10.1056/nejmoa1911303,2019,6201,https://openalex.org/W2974260792
+2746,Surgery,Cardiovascular and Renal Outcomes with Empagliflozin in Heart Failure,https://doi.org/10.1056/nejmoa2022190,2020,4527,https://openalex.org/W3081830235
+2746,Surgery,Empagliflozin and Progression of Kidney Disease in Type 2 Diabetes,https://doi.org/10.1056/nejmoa1515920,2016,3458,https://openalex.org/W2424539745
+2210,Mechanical Engineering,Review on thermal energy storage with phase change materials and applications,https://doi.org/10.1016/j.rser.2007.10.005,2008,5422,https://openalex.org/W2151080396
+2210,Mechanical Engineering,High-Entropy Alloys: A Critical Review,https://doi.org/10.1080/21663831.2014.912690,2014,3117,https://openalex.org/W1970065157
+2210,Mechanical Engineering,Sluggish diffusion in Co–Cr–Fe–Mn–Ni high-entropy alloys,https://doi.org/10.1016/j.actamat.2013.04.058,2013,2118,https://openalex.org/W2038583983
+1702,Artificial Intelligence,LIBSVM,https://doi.org/10.1145/1961189.1961199,2011,40871,https://openalex.org/W2153635508
+1702,Artificial Intelligence,LIBLINEAR: A Library for Large Linear Classification,,2008,6602,https://openalex.org/W2118585731
+1702,Artificial Intelligence,A Practical Guide to Support Vector Classication,,2008,5070,https://openalex.org/W2109943925
+3107,"Atomic and Molecular Physics, and Optics",Berry phase effects on electronic properties,https://doi.org/10.1103/revmodphys.82.1959,2010,4783,https://openalex.org/W2132568564
+3107,"Atomic and Molecular Physics, and Optics",Review of second-order models for adsorption systems,https://doi.org/10.1016/j.jhazmat.2005.12.043,2006,3954,https://openalex.org/W2101605491
+3107,"Atomic and Molecular Physics, and Optics",Direct observation of a widely tunable bandgap in bilayer graphene,https://doi.org/10.1038/nature08105,2009,3551,https://openalex.org/W1989506279
+1705,Computer Networks and Communications,The Gaussian Mixture Probability Hypothesis Density Filter,https://doi.org/10.1109/tsp.2006.881190,2006,1854,https://openalex.org/W2137585588
+1705,Computer Networks and Communications,Intrusion detection system: A comprehensive review,https://doi.org/10.1016/j.jnca.2012.09.004,2012,1495,https://openalex.org/W433644524
+1705,Computer Networks and Communications,Opportunities and Challenges of Wireless Sensor Networks in Smart Grid,https://doi.org/10.1109/tie.2009.2039455,2010,1353,https://openalex.org/W2137243960
+2713,Epidemiology,Lenvatinib versus sorafenib in first-line treatment of patients with unresectable hepatocellular carcinoma: a randomised phase 3 non-inferiority trial,https://doi.org/10.1016/s0140-6736(18)30207-1,2018,5086,https://openalex.org/W2787358630
+2713,Epidemiology,Global Prevalence and Major Risk Factors of Diabetic Retinopathy,https://doi.org/10.2337/dc11-1909,2012,4626,https://openalex.org/W2138480916
+2713,Epidemiology,"Regorafenib for patients with hepatocellular carcinoma who progressed on sorafenib treatment (RESORCE): a randomised, double-blind, placebo-controlled, phase 3 trial",https://doi.org/10.1016/s0140-6736(16)32453-9,2016,3520,https://openalex.org/W2560499218

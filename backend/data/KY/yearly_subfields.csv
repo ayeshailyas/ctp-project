@@ -1,0 +1,617 @@
+year,id,name,works_count,country,fetch_date
+2005,2303,Ecology,2,KY,2025-12-01 19:12:17
+2005,2306,Global and Planetary Change,2,KY,2025-12-01 19:12:17
+2005,2309,Nature and Landscape Conservation,2,KY,2025-12-01 19:12:17
+2005,2740,Pulmonary and Respiratory Medicine,2,KY,2025-12-01 19:12:17
+2005,2746,Surgery,2,KY,2025-12-01 19:12:17
+2005,2703,Anesthesiology and Pain Medicine,1,KY,2025-12-01 19:12:17
+2005,2705,Cardiology and Cardiovascular Medicine,1,KY,2025-12-01 19:12:17
+2006,2303,Ecology,1,KY,2025-12-01 19:12:17
+2006,2309,Nature and Landscape Conservation,1,KY,2025-12-01 19:12:17
+2007,2309,Nature and Landscape Conservation,2,KY,2025-12-01 19:12:17
+2007,2713,Epidemiology,2,KY,2025-12-01 19:12:17
+2007,2725,Infectious Diseases,2,KY,2025-12-01 19:12:17
+2007,1307,Cell Biology,1,KY,2025-12-01 19:12:17
+2007,1312,Molecular Biology,1,KY,2025-12-01 19:12:17
+2007,2204,Biomedical Engineering,1,KY,2025-12-01 19:12:17
+2007,2306,Global and Planetary Change,1,KY,2025-12-01 19:12:17
+2007,2706,Critical Care and Intensive Care Medicine,1,KY,2025-12-01 19:12:17
+2007,2708,Dermatology,1,KY,2025-12-01 19:12:17
+2007,2739,"Public Health, Environmental and Occupational Health",1,KY,2025-12-01 19:12:17
+2007,2746,Surgery,1,KY,2025-12-01 19:12:17
+2008,1312,Molecular Biology,6,KY,2025-12-01 19:12:17
+2008,2303,Ecology,2,KY,2025-12-01 19:12:17
+2008,2309,Nature and Landscape Conservation,2,KY,2025-12-01 19:12:17
+2008,2739,"Public Health, Environmental and Occupational Health",2,KY,2025-12-01 19:12:17
+2008,1103,Animal Science and Zoology,1,KY,2025-12-01 19:12:17
+2008,1104,Aquatic Science,1,KY,2025-12-01 19:12:17
+2008,1910,Oceanography,1,KY,2025-12-01 19:12:17
+2008,2306,Global and Planetary Change,1,KY,2025-12-01 19:12:17
+2008,2505,Materials Chemistry,1,KY,2025-12-01 19:12:17
+2008,2613,Statistics and Probability,1,KY,2025-12-01 19:12:17
+2008,2705,Cardiology and Cardiovascular Medicine,1,KY,2025-12-01 19:12:17
+2008,2711,Emergency Medicine,1,KY,2025-12-01 19:12:17
+2008,2712,"Endocrinology, Diabetes and Metabolism",1,KY,2025-12-01 19:12:17
+2008,2735,"Pediatrics, Perinatology and Child Health",1,KY,2025-12-01 19:12:17
+2008,2740,Pulmonary and Respiratory Medicine,1,KY,2025-12-01 19:12:17
+2008,2746,Surgery,1,KY,2025-12-01 19:12:17
+2008,3004,Pharmacology,1,KY,2025-12-01 19:12:17
+2009,2746,Surgery,7,KY,2025-12-01 19:12:17
+2009,2741,"Radiology, Nuclear Medicine and Imaging",4,KY,2025-12-01 19:12:17
+2009,2713,Epidemiology,3,KY,2025-12-01 19:12:17
+2009,2740,Pulmonary and Respiratory Medicine,3,KY,2025-12-01 19:12:17
+2009,1312,Molecular Biology,2,KY,2025-12-01 19:12:17
+2009,2306,Global and Planetary Change,2,KY,2025-12-01 19:12:17
+2009,2309,Nature and Landscape Conservation,2,KY,2025-12-01 19:12:17
+2009,2730,Oncology,2,KY,2025-12-01 19:12:17
+2009,1105,"Ecology, Evolution, Behavior and Systematics",1,KY,2025-12-01 19:12:17
+2009,1111,Soil Science,1,KY,2025-12-01 19:12:17
+2009,1303,Biochemistry,1,KY,2025-12-01 19:12:17
+2009,1702,Artificial Intelligence,1,KY,2025-12-01 19:12:17
+2009,1703,Computational Theory and Mathematics,1,KY,2025-12-01 19:12:17
+2009,1904,Earth-Surface Processes,1,KY,2025-12-01 19:12:17
+2009,2303,Ecology,1,KY,2025-12-01 19:12:17
+2009,2403,Immunology,1,KY,2025-12-01 19:12:17
+2009,2502,Biomaterials,1,KY,2025-12-01 19:12:17
+2009,2613,Statistics and Probability,1,KY,2025-12-01 19:12:17
+2009,2703,Anesthesiology and Pain Medicine,1,KY,2025-12-01 19:12:17
+2009,2705,Cardiology and Cardiovascular Medicine,1,KY,2025-12-01 19:12:17
+2009,2708,Dermatology,1,KY,2025-12-01 19:12:17
+2009,2721,Hepatology,1,KY,2025-12-01 19:12:17
+2009,2734,Pathology and Forensic Medicine,1,KY,2025-12-01 19:12:17
+2009,2736,Pharmacology,1,KY,2025-12-01 19:12:17
+2009,2737,Physiology,1,KY,2025-12-01 19:12:17
+2009,2916,Nutrition and Dietetics,1,KY,2025-12-01 19:12:17
+2009,3604,Emergency Medical Services,1,KY,2025-12-01 19:12:17
+2010,2746,Surgery,4,KY,2025-12-01 19:12:17
+2010,2309,Nature and Landscape Conservation,3,KY,2025-12-01 19:12:17
+2010,1312,Molecular Biology,2,KY,2025-12-01 19:12:17
+2010,2204,Biomedical Engineering,2,KY,2025-12-01 19:12:17
+2010,2303,Ecology,2,KY,2025-12-01 19:12:17
+2010,2713,Epidemiology,2,KY,2025-12-01 19:12:17
+2010,1102,Agronomy and Crop Science,1,KY,2025-12-01 19:12:17
+2010,1105,"Ecology, Evolution, Behavior and Systematics",1,KY,2025-12-01 19:12:17
+2010,1303,Biochemistry,1,KY,2025-12-01 19:12:17
+2010,2306,Global and Planetary Change,1,KY,2025-12-01 19:12:17
+2010,2505,Materials Chemistry,1,KY,2025-12-01 19:12:17
+2010,2734,Pathology and Forensic Medicine,1,KY,2025-12-01 19:12:17
+2010,2736,Pharmacology,1,KY,2025-12-01 19:12:17
+2010,2740,Pulmonary and Respiratory Medicine,1,KY,2025-12-01 19:12:17
+2010,3404,Small Animals,1,KY,2025-12-01 19:12:17
+2011,2746,Surgery,8,KY,2025-12-01 19:12:17
+2011,1312,Molecular Biology,6,KY,2025-12-01 19:12:17
+2011,2713,Epidemiology,5,KY,2025-12-01 19:12:17
+2011,2705,Cardiology and Cardiovascular Medicine,3,KY,2025-12-01 19:12:17
+2011,1306,Cancer Research,2,KY,2025-12-01 19:12:17
+2011,1311,Genetics,2,KY,2025-12-01 19:12:17
+2011,2703,Anesthesiology and Pain Medicine,2,KY,2025-12-01 19:12:17
+2011,2739,"Public Health, Environmental and Occupational Health",2,KY,2025-12-01 19:12:17
+2011,2740,Pulmonary and Respiratory Medicine,2,KY,2025-12-01 19:12:17
+2011,2741,"Radiology, Nuclear Medicine and Imaging",2,KY,2025-12-01 19:12:17
+2011,2745,Rheumatology,2,KY,2025-12-01 19:12:17
+2011,1109,Insect Science,1,KY,2025-12-01 19:12:17
+2011,1703,Computational Theory and Mathematics,1,KY,2025-12-01 19:12:17
+2011,2204,Biomedical Engineering,1,KY,2025-12-01 19:12:17
+2011,2404,Microbiology,1,KY,2025-12-01 19:12:17
+2011,2502,Biomaterials,1,KY,2025-12-01 19:12:17
+2011,2711,Emergency Medicine,1,KY,2025-12-01 19:12:17
+2011,2712,"Endocrinology, Diabetes and Metabolism",1,KY,2025-12-01 19:12:17
+2011,2715,Gastroenterology,1,KY,2025-12-01 19:12:17
+2011,2725,Infectious Diseases,1,KY,2025-12-01 19:12:17
+2011,2727,Nephrology,1,KY,2025-12-01 19:12:17
+2011,2731,Ophthalmology,1,KY,2025-12-01 19:12:17
+2011,2732,Orthopedics and Sports Medicine,1,KY,2025-12-01 19:12:17
+2011,2734,Pathology and Forensic Medicine,1,KY,2025-12-01 19:12:17
+2011,2737,Physiology,1,KY,2025-12-01 19:12:17
+2011,2804,Cellular and Molecular Neuroscience,1,KY,2025-12-01 19:12:17
+2011,2916,Nutrition and Dietetics,1,KY,2025-12-01 19:12:17
+2011,3005,Toxicology,1,KY,2025-12-01 19:12:17
+2012,2740,Pulmonary and Respiratory Medicine,9,KY,2025-12-01 19:12:17
+2012,2713,Epidemiology,8,KY,2025-12-01 19:12:17
+2012,2746,Surgery,5,KY,2025-12-01 19:12:17
+2012,1312,Molecular Biology,4,KY,2025-12-01 19:12:17
+2012,2705,Cardiology and Cardiovascular Medicine,4,KY,2025-12-01 19:12:17
+2012,2728,Neurology,2,KY,2025-12-01 19:12:17
+2012,2742,Rehabilitation,2,KY,2025-12-01 19:12:17
+2012,1109,Insect Science,1,KY,2025-12-01 19:12:17
+2012,1306,Cancer Research,1,KY,2025-12-01 19:12:17
+2012,1705,Computer Networks and Communications,1,KY,2025-12-01 19:12:17
+2012,2303,Ecology,1,KY,2025-12-01 19:12:17
+2012,2306,Global and Planetary Change,1,KY,2025-12-01 19:12:17
+2012,2309,Nature and Landscape Conservation,1,KY,2025-12-01 19:12:17
+2012,2405,Parasitology,1,KY,2025-12-01 19:12:17
+2012,2406,Virology,1,KY,2025-12-01 19:12:17
+2012,2613,Statistics and Probability,1,KY,2025-12-01 19:12:17
+2012,2706,Critical Care and Intensive Care Medicine,1,KY,2025-12-01 19:12:17
+2012,2708,Dermatology,1,KY,2025-12-01 19:12:17
+2012,2711,Emergency Medicine,1,KY,2025-12-01 19:12:17
+2012,2712,"Endocrinology, Diabetes and Metabolism",1,KY,2025-12-01 19:12:17
+2012,2717,Geriatrics and Gerontology,1,KY,2025-12-01 19:12:17
+2012,2725,Infectious Diseases,1,KY,2025-12-01 19:12:17
+2012,2737,Physiology,1,KY,2025-12-01 19:12:17
+2012,2739,"Public Health, Environmental and Occupational Health",1,KY,2025-12-01 19:12:17
+2012,2745,Rheumatology,1,KY,2025-12-01 19:12:17
+2012,2748,Urology,1,KY,2025-12-01 19:12:17
+2013,2713,Epidemiology,10,KY,2025-12-01 19:12:17
+2013,2740,Pulmonary and Respiratory Medicine,10,KY,2025-12-01 19:12:17
+2013,2705,Cardiology and Cardiovascular Medicine,7,KY,2025-12-01 19:12:17
+2013,2728,Neurology,6,KY,2025-12-01 19:12:17
+2013,2746,Surgery,5,KY,2025-12-01 19:12:17
+2013,2303,Ecology,3,KY,2025-12-01 19:12:17
+2013,1312,Molecular Biology,2,KY,2025-12-01 19:12:17
+2013,1910,Oceanography,2,KY,2025-12-01 19:12:17
+2013,2742,Rehabilitation,2,KY,2025-12-01 19:12:17
+2013,1104,Aquatic Science,1,KY,2025-12-01 19:12:17
+2013,1110,Plant Science,1,KY,2025-12-01 19:12:17
+2013,1307,Cell Biology,1,KY,2025-12-01 19:12:17
+2013,2204,Biomedical Engineering,1,KY,2025-12-01 19:12:17
+2013,2309,Nature and Landscape Conservation,1,KY,2025-12-01 19:12:17
+2013,2502,Biomaterials,1,KY,2025-12-01 19:12:17
+2013,2708,Dermatology,1,KY,2025-12-01 19:12:17
+2013,2711,Emergency Medicine,1,KY,2025-12-01 19:12:17
+2013,2712,"Endocrinology, Diabetes and Metabolism",1,KY,2025-12-01 19:12:17
+2013,2716,Genetics,1,KY,2025-12-01 19:12:17
+2013,2725,Infectious Diseases,1,KY,2025-12-01 19:12:17
+2013,2734,Pathology and Forensic Medicine,1,KY,2025-12-01 19:12:17
+2013,2737,Physiology,1,KY,2025-12-01 19:12:17
+2013,3404,Small Animals,1,KY,2025-12-01 19:12:17
+2013,3600,General Health Professions,1,KY,2025-12-01 19:12:17
+2014,2740,Pulmonary and Respiratory Medicine,6,KY,2025-12-01 19:12:17
+2014,2705,Cardiology and Cardiovascular Medicine,5,KY,2025-12-01 19:12:17
+2014,2713,Epidemiology,5,KY,2025-12-01 19:12:17
+2014,2746,Surgery,5,KY,2025-12-01 19:12:17
+2014,1312,Molecular Biology,4,KY,2025-12-01 19:12:17
+2014,2303,Ecology,3,KY,2025-12-01 19:12:17
+2014,2728,Neurology,3,KY,2025-12-01 19:12:17
+2014,1105,"Ecology, Evolution, Behavior and Systematics",2,KY,2025-12-01 19:12:17
+2014,2306,Global and Planetary Change,2,KY,2025-12-01 19:12:17
+2014,2613,Statistics and Probability,2,KY,2025-12-01 19:12:17
+2014,1103,Animal Science and Zoology,1,KY,2025-12-01 19:12:17
+2014,1207,History and Philosophy of Science,1,KY,2025-12-01 19:12:17
+2014,1311,Genetics,1,KY,2025-12-01 19:12:17
+2014,1314,Physiology,1,KY,2025-12-01 19:12:17
+2014,1702,Artificial Intelligence,1,KY,2025-12-01 19:12:17
+2014,1902,Atmospheric Science,1,KY,2025-12-01 19:12:17
+2014,1910,Oceanography,1,KY,2025-12-01 19:12:17
+2014,1911,Paleontology,1,KY,2025-12-01 19:12:17
+2014,2405,Parasitology,1,KY,2025-12-01 19:12:17
+2014,2711,Emergency Medicine,1,KY,2025-12-01 19:12:17
+2014,2712,"Endocrinology, Diabetes and Metabolism",1,KY,2025-12-01 19:12:17
+2014,2731,Ophthalmology,1,KY,2025-12-01 19:12:17
+2014,2734,Pathology and Forensic Medicine,1,KY,2025-12-01 19:12:17
+2014,2736,Pharmacology,1,KY,2025-12-01 19:12:17
+2014,2741,"Radiology, Nuclear Medicine and Imaging",1,KY,2025-12-01 19:12:17
+2014,2743,Reproductive Medicine,1,KY,2025-12-01 19:12:17
+2014,2806,Developmental Neuroscience,1,KY,2025-12-01 19:12:17
+2014,3404,Small Animals,1,KY,2025-12-01 19:12:17
+2015,2713,Epidemiology,11,KY,2025-12-01 19:12:17
+2015,2705,Cardiology and Cardiovascular Medicine,9,KY,2025-12-01 19:12:17
+2015,2740,Pulmonary and Respiratory Medicine,6,KY,2025-12-01 19:12:17
+2015,1312,Molecular Biology,3,KY,2025-12-01 19:12:17
+2015,2728,Neurology,3,KY,2025-12-01 19:12:17
+2015,2741,"Radiology, Nuclear Medicine and Imaging",3,KY,2025-12-01 19:12:17
+2015,2746,Surgery,3,KY,2025-12-01 19:12:17
+2015,2711,Emergency Medicine,2,KY,2025-12-01 19:12:17
+2015,2738,Psychiatry and Mental health,2,KY,2025-12-01 19:12:17
+2015,1308,Clinical Biochemistry,1,KY,2025-12-01 19:12:17
+2015,1910,Oceanography,1,KY,2025-12-01 19:12:17
+2015,2002,Economics and Econometrics,1,KY,2025-12-01 19:12:17
+2015,2303,Ecology,1,KY,2025-12-01 19:12:17
+2015,2306,Global and Planetary Change,1,KY,2025-12-01 19:12:17
+2015,2403,Immunology,1,KY,2025-12-01 19:12:17
+2015,2613,Statistics and Probability,1,KY,2025-12-01 19:12:17
+2015,2712,"Endocrinology, Diabetes and Metabolism",1,KY,2025-12-01 19:12:17
+2015,2717,Geriatrics and Gerontology,1,KY,2025-12-01 19:12:17
+2015,2731,Ophthalmology,1,KY,2025-12-01 19:12:17
+2015,2739,"Public Health, Environmental and Occupational Health",1,KY,2025-12-01 19:12:17
+2015,3600,General Health Professions,1,KY,2025-12-01 19:12:17
+2016,2713,Epidemiology,13,KY,2025-12-01 19:12:17
+2016,2303,Ecology,7,KY,2025-12-01 19:12:17
+2016,2740,Pulmonary and Respiratory Medicine,6,KY,2025-12-01 19:12:17
+2016,2306,Global and Planetary Change,5,KY,2025-12-01 19:12:17
+2016,2746,Surgery,5,KY,2025-12-01 19:12:17
+2016,1312,Molecular Biology,4,KY,2025-12-01 19:12:17
+2016,1910,Oceanography,3,KY,2025-12-01 19:12:17
+2016,2705,Cardiology and Cardiovascular Medicine,3,KY,2025-12-01 19:12:17
+2016,2742,Rehabilitation,3,KY,2025-12-01 19:12:17
+2016,1105,"Ecology, Evolution, Behavior and Systematics",2,KY,2025-12-01 19:12:17
+2016,1207,History and Philosophy of Science,2,KY,2025-12-01 19:12:17
+2016,1305,Biotechnology,2,KY,2025-12-01 19:12:17
+2016,2309,Nature and Landscape Conservation,2,KY,2025-12-01 19:12:17
+2016,2613,Statistics and Probability,2,KY,2025-12-01 19:12:17
+2016,2727,Nephrology,2,KY,2025-12-01 19:12:17
+2016,2728,Neurology,2,KY,2025-12-01 19:12:17
+2016,2808,Neurology,2,KY,2025-12-01 19:12:17
+2016,3600,General Health Professions,2,KY,2025-12-01 19:12:17
+2016,2706,Critical Care and Intensive Care Medicine,1,KY,2025-12-01 19:12:17
+2016,2714,Family Practice,1,KY,2025-12-01 19:12:17
+2016,2716,Genetics,1,KY,2025-12-01 19:12:17
+2016,2725,Infectious Diseases,1,KY,2025-12-01 19:12:17
+2016,2731,Ophthalmology,1,KY,2025-12-01 19:12:17
+2016,2741,"Radiology, Nuclear Medicine and Imaging",1,KY,2025-12-01 19:12:17
+2016,3004,Pharmacology,1,KY,2025-12-01 19:12:17
+2016,3404,Small Animals,1,KY,2025-12-01 19:12:17
+2017,2746,Surgery,8,KY,2025-12-01 19:12:17
+2017,2303,Ecology,7,KY,2025-12-01 19:12:17
+2017,2309,Nature and Landscape Conservation,7,KY,2025-12-01 19:12:17
+2017,2713,Epidemiology,6,KY,2025-12-01 19:12:17
+2017,2705,Cardiology and Cardiovascular Medicine,5,KY,2025-12-01 19:12:17
+2017,2740,Pulmonary and Respiratory Medicine,5,KY,2025-12-01 19:12:17
+2017,1312,Molecular Biology,4,KY,2025-12-01 19:12:17
+2017,2306,Global and Planetary Change,4,KY,2025-12-01 19:12:17
+2017,3312,Sociology and Political Science,3,KY,2025-12-01 19:12:17
+2017,1910,Oceanography,2,KY,2025-12-01 19:12:17
+2017,2403,Immunology,2,KY,2025-12-01 19:12:17
+2017,2728,Neurology,2,KY,2025-12-01 19:12:17
+2017,2741,"Radiology, Nuclear Medicine and Imaging",2,KY,2025-12-01 19:12:17
+2017,1106,Food Science,1,KY,2025-12-01 19:12:17
+2017,1306,Cancer Research,1,KY,2025-12-01 19:12:17
+2017,1309,Developmental Biology,1,KY,2025-12-01 19:12:17
+2017,1311,Genetics,1,KY,2025-12-01 19:12:17
+2017,1408,Strategy and Management,1,KY,2025-12-01 19:12:17
+2017,1702,Artificial Intelligence,1,KY,2025-12-01 19:12:17
+2017,1907,Geology,1,KY,2025-12-01 19:12:17
+2017,2002,Economics and Econometrics,1,KY,2025-12-01 19:12:17
+2017,2105,"Renewable Energy, Sustainability and the Environment",1,KY,2025-12-01 19:12:17
+2017,2711,Emergency Medicine,1,KY,2025-12-01 19:12:17
+2017,2742,Rehabilitation,1,KY,2025-12-01 19:12:17
+2017,2805,Cognitive Neuroscience,1,KY,2025-12-01 19:12:17
+2017,3103,Astronomy and Astrophysics,1,KY,2025-12-01 19:12:17
+2017,3605,Health Information Management,1,KY,2025-12-01 19:12:17
+2018,2713,Epidemiology,14,KY,2025-12-01 19:12:17
+2018,2746,Surgery,8,KY,2025-12-01 19:12:17
+2018,2705,Cardiology and Cardiovascular Medicine,7,KY,2025-12-01 19:12:17
+2018,2740,Pulmonary and Respiratory Medicine,7,KY,2025-12-01 19:12:17
+2018,1312,Molecular Biology,6,KY,2025-12-01 19:12:17
+2018,2711,Emergency Medicine,6,KY,2025-12-01 19:12:17
+2018,2742,Rehabilitation,5,KY,2025-12-01 19:12:17
+2018,2303,Ecology,4,KY,2025-12-01 19:12:17
+2018,1702,Artificial Intelligence,3,KY,2025-12-01 19:12:17
+2018,1707,Computer Vision and Pattern Recognition,2,KY,2025-12-01 19:12:17
+2018,1911,Paleontology,2,KY,2025-12-01 19:12:17
+2018,2204,Biomedical Engineering,2,KY,2025-12-01 19:12:17
+2018,2306,Global and Planetary Change,2,KY,2025-12-01 19:12:17
+2018,2712,"Endocrinology, Diabetes and Metabolism",2,KY,2025-12-01 19:12:17
+2018,2728,Neurology,2,KY,2025-12-01 19:12:17
+2018,2730,Oncology,2,KY,2025-12-01 19:12:17
+2018,2735,"Pediatrics, Perinatology and Child Health",2,KY,2025-12-01 19:12:17
+2018,2741,"Radiology, Nuclear Medicine and Imaging",2,KY,2025-12-01 19:12:17
+2018,2808,Neurology,2,KY,2025-12-01 19:12:17
+2018,1105,"Ecology, Evolution, Behavior and Systematics",1,KY,2025-12-01 19:12:17
+2018,1307,Cell Biology,1,KY,2025-12-01 19:12:17
+2018,1710,Information Systems,1,KY,2025-12-01 19:12:17
+2018,1910,Oceanography,1,KY,2025-12-01 19:12:17
+2018,2202,Aerospace Engineering,1,KY,2025-12-01 19:12:17
+2018,2213,"Safety, Risk, Reliability and Quality",1,KY,2025-12-01 19:12:17
+2018,2307,"Health, Toxicology and Mutagenesis",1,KY,2025-12-01 19:12:17
+2018,2309,Nature and Landscape Conservation,1,KY,2025-12-01 19:12:17
+2018,2403,Immunology,1,KY,2025-12-01 19:12:17
+2018,2707,Complementary and alternative medicine,1,KY,2025-12-01 19:12:17
+2018,2715,Gastroenterology,1,KY,2025-12-01 19:12:17
+2018,2716,Genetics,1,KY,2025-12-01 19:12:17
+2018,2721,Hepatology,1,KY,2025-12-01 19:12:17
+2018,2725,Infectious Diseases,1,KY,2025-12-01 19:12:17
+2018,2736,Pharmacology,1,KY,2025-12-01 19:12:17
+2018,2737,Physiology,1,KY,2025-12-01 19:12:17
+2018,2745,Rheumatology,1,KY,2025-12-01 19:12:17
+2018,2916,Nutrition and Dietetics,1,KY,2025-12-01 19:12:17
+2018,3304,Education,1,KY,2025-12-01 19:12:17
+2018,3600,General Health Professions,1,KY,2025-12-01 19:12:17
+2019,1707,Computer Vision and Pattern Recognition,17,KY,2025-12-01 19:12:17
+2019,2713,Epidemiology,16,KY,2025-12-01 19:12:17
+2019,1702,Artificial Intelligence,15,KY,2025-12-01 19:12:17
+2019,2705,Cardiology and Cardiovascular Medicine,10,KY,2025-12-01 19:12:17
+2019,1312,Molecular Biology,8,KY,2025-12-01 19:12:17
+2019,2740,Pulmonary and Respiratory Medicine,8,KY,2025-12-01 19:12:17
+2019,2728,Neurology,7,KY,2025-12-01 19:12:17
+2019,2746,Surgery,6,KY,2025-12-01 19:12:17
+2019,2214,Media Technology,4,KY,2025-12-01 19:12:17
+2019,2303,Ecology,4,KY,2025-12-01 19:12:17
+2019,1710,Information Systems,3,KY,2025-12-01 19:12:17
+2019,2204,Biomedical Engineering,3,KY,2025-12-01 19:12:17
+2019,2725,Infectious Diseases,3,KY,2025-12-01 19:12:17
+2019,2741,"Radiology, Nuclear Medicine and Imaging",3,KY,2025-12-01 19:12:17
+2019,2306,Global and Planetary Change,2,KY,2025-12-01 19:12:17
+2019,2730,Oncology,2,KY,2025-12-01 19:12:17
+2019,2737,Physiology,2,KY,2025-12-01 19:12:17
+2019,2742,Rehabilitation,2,KY,2025-12-01 19:12:17
+2019,1103,Animal Science and Zoology,1,KY,2025-12-01 19:12:17
+2019,1308,Clinical Biochemistry,1,KY,2025-12-01 19:12:17
+2019,1309,Developmental Biology,1,KY,2025-12-01 19:12:17
+2019,1708,Hardware and Architecture,1,KY,2025-12-01 19:12:17
+2019,1802,Information Systems and Management,1,KY,2025-12-01 19:12:17
+2019,1910,Oceanography,1,KY,2025-12-01 19:12:17
+2019,2206,Computational Mechanics,1,KY,2025-12-01 19:12:17
+2019,2309,Nature and Landscape Conservation,1,KY,2025-12-01 19:12:17
+2019,2405,Parasitology,1,KY,2025-12-01 19:12:17
+2019,2605,Computational Mathematics,1,KY,2025-12-01 19:12:17
+2019,2711,Emergency Medicine,1,KY,2025-12-01 19:12:17
+2019,2712,"Endocrinology, Diabetes and Metabolism",1,KY,2025-12-01 19:12:17
+2019,2720,Hematology,1,KY,2025-12-01 19:12:17
+2019,2729,Obstetrics and Gynecology,1,KY,2025-12-01 19:12:17
+2019,2739,"Public Health, Environmental and Occupational Health",1,KY,2025-12-01 19:12:17
+2019,2745,Rheumatology,1,KY,2025-12-01 19:12:17
+2019,3109,Statistical and Nonlinear Physics,1,KY,2025-12-01 19:12:17
+2019,3205,Experimental and Cognitive Psychology,1,KY,2025-12-01 19:12:17
+2019,3207,Social Psychology,1,KY,2025-12-01 19:12:17
+2020,1702,Artificial Intelligence,47,KY,2025-12-01 19:12:17
+2020,1707,Computer Vision and Pattern Recognition,31,KY,2025-12-01 19:12:17
+2020,2713,Epidemiology,14,KY,2025-12-01 19:12:17
+2020,2740,Pulmonary and Respiratory Medicine,12,KY,2025-12-01 19:12:17
+2020,2303,Ecology,9,KY,2025-12-01 19:12:17
+2020,1312,Molecular Biology,8,KY,2025-12-01 19:12:17
+2020,2306,Global and Planetary Change,7,KY,2025-12-01 19:12:17
+2020,1710,Information Systems,6,KY,2025-12-01 19:12:17
+2020,2208,Electrical and Electronic Engineering,6,KY,2025-12-01 19:12:17
+2020,2742,Rehabilitation,6,KY,2025-12-01 19:12:17
+2020,2746,Surgery,6,KY,2025-12-01 19:12:17
+2020,1711,Signal Processing,5,KY,2025-12-01 19:12:17
+2020,2309,Nature and Landscape Conservation,5,KY,2025-12-01 19:12:17
+2020,2202,Aerospace Engineering,3,KY,2025-12-01 19:12:17
+2020,2741,"Radiology, Nuclear Medicine and Imaging",3,KY,2025-12-01 19:12:17
+2020,1305,Biotechnology,2,KY,2025-12-01 19:12:17
+2020,1311,Genetics,2,KY,2025-12-01 19:12:17
+2020,2204,Biomedical Engineering,2,KY,2025-12-01 19:12:17
+2020,2206,Computational Mechanics,2,KY,2025-12-01 19:12:17
+2020,2214,Media Technology,2,KY,2025-12-01 19:12:17
+2020,2705,Cardiology and Cardiovascular Medicine,2,KY,2025-12-01 19:12:17
+2020,2728,Neurology,2,KY,2025-12-01 19:12:17
+2020,2730,Oncology,2,KY,2025-12-01 19:12:17
+2020,2735,"Pediatrics, Perinatology and Child Health",2,KY,2025-12-01 19:12:17
+2020,2805,Cognitive Neuroscience,2,KY,2025-12-01 19:12:17
+2020,1105,"Ecology, Evolution, Behavior and Systematics",1,KY,2025-12-01 19:12:17
+2020,1306,Cancer Research,1,KY,2025-12-01 19:12:17
+2020,1605,Organic Chemistry,1,KY,2025-12-01 19:12:17
+2020,1706,Computer Science Applications,1,KY,2025-12-01 19:12:17
+2020,1803,Management Science and Operations Research,1,KY,2025-12-01 19:12:17
+2020,1902,Atmospheric Science,1,KY,2025-12-01 19:12:17
+2020,2203,Automotive Engineering,1,KY,2025-12-01 19:12:17
+2020,2209,Industrial and Manufacturing Engineering,1,KY,2025-12-01 19:12:17
+2020,2304,Environmental Chemistry,1,KY,2025-12-01 19:12:17
+2020,2310,Pollution,1,KY,2025-12-01 19:12:17
+2020,2403,Immunology,1,KY,2025-12-01 19:12:17
+2020,2405,Parasitology,1,KY,2025-12-01 19:12:17
+2020,2406,Virology,1,KY,2025-12-01 19:12:17
+2020,2708,Dermatology,1,KY,2025-12-01 19:12:17
+2020,2715,Gastroenterology,1,KY,2025-12-01 19:12:17
+2020,2721,Hepatology,1,KY,2025-12-01 19:12:17
+2020,2724,Internal Medicine,1,KY,2025-12-01 19:12:17
+2020,2725,Infectious Diseases,1,KY,2025-12-01 19:12:17
+2020,2729,Obstetrics and Gynecology,1,KY,2025-12-01 19:12:17
+2020,2734,Pathology and Forensic Medicine,1,KY,2025-12-01 19:12:17
+2020,2738,Psychiatry and Mental health,1,KY,2025-12-01 19:12:17
+2020,2745,Rheumatology,1,KY,2025-12-01 19:12:17
+2020,2808,Neurology,1,KY,2025-12-01 19:12:17
+2020,3107,"Atomic and Molecular Physics, and Optics",1,KY,2025-12-01 19:12:17
+2021,1702,Artificial Intelligence,58,KY,2025-12-01 19:12:17
+2021,1707,Computer Vision and Pattern Recognition,57,KY,2025-12-01 19:12:17
+2021,2303,Ecology,10,KY,2025-12-01 19:12:17
+2021,1312,Molecular Biology,8,KY,2025-12-01 19:12:17
+2021,2306,Global and Planetary Change,8,KY,2025-12-01 19:12:17
+2021,1910,Oceanography,5,KY,2025-12-01 19:12:17
+2021,2713,Epidemiology,5,KY,2025-12-01 19:12:17
+2021,2746,Surgery,5,KY,2025-12-01 19:12:17
+2021,1705,Computer Networks and Communications,4,KY,2025-12-01 19:12:17
+2021,1706,Computer Science Applications,4,KY,2025-12-01 19:12:17
+2021,2214,Media Technology,4,KY,2025-12-01 19:12:17
+2021,2741,"Radiology, Nuclear Medicine and Imaging",4,KY,2025-12-01 19:12:17
+2021,1704,Computer Graphics and Computer-Aided Design,3,KY,2025-12-01 19:12:17
+2021,2206,Computational Mechanics,3,KY,2025-12-01 19:12:17
+2021,2725,Infectious Diseases,3,KY,2025-12-01 19:12:17
+2021,2730,Oncology,3,KY,2025-12-01 19:12:17
+2021,2735,"Pediatrics, Perinatology and Child Health",3,KY,2025-12-01 19:12:17
+2021,1710,Information Systems,2,KY,2025-12-01 19:12:17
+2021,1711,Signal Processing,2,KY,2025-12-01 19:12:17
+2021,1803,Management Science and Operations Research,2,KY,2025-12-01 19:12:17
+2021,1902,Atmospheric Science,2,KY,2025-12-01 19:12:17
+2021,2204,Biomedical Engineering,2,KY,2025-12-01 19:12:17
+2021,2309,Nature and Landscape Conservation,2,KY,2025-12-01 19:12:17
+2021,2705,Cardiology and Cardiovascular Medicine,2,KY,2025-12-01 19:12:17
+2021,2729,Obstetrics and Gynecology,2,KY,2025-12-01 19:12:17
+2021,2740,Pulmonary and Respiratory Medicine,2,KY,2025-12-01 19:12:17
+2021,2916,Nutrition and Dietetics,2,KY,2025-12-01 19:12:17
+2021,3107,"Atomic and Molecular Physics, and Optics",2,KY,2025-12-01 19:12:17
+2021,3600,General Health Professions,2,KY,2025-12-01 19:12:17
+2021,1105,"Ecology, Evolution, Behavior and Systematics",1,KY,2025-12-01 19:12:17
+2021,1306,Cancer Research,1,KY,2025-12-01 19:12:17
+2021,1311,Genetics,1,KY,2025-12-01 19:12:17
+2021,1709,Human-Computer Interaction,1,KY,2025-12-01 19:12:17
+2021,2002,Economics and Econometrics,1,KY,2025-12-01 19:12:17
+2021,2202,Aerospace Engineering,1,KY,2025-12-01 19:12:17
+2021,2207,Control and Systems Engineering,1,KY,2025-12-01 19:12:17
+2021,2209,Industrial and Manufacturing Engineering,1,KY,2025-12-01 19:12:17
+2021,2213,"Safety, Risk, Reliability and Quality",1,KY,2025-12-01 19:12:17
+2021,2305,Environmental Engineering,1,KY,2025-12-01 19:12:17
+2021,2308,"Management, Monitoring, Policy and Law",1,KY,2025-12-01 19:12:17
+2021,2405,Parasitology,1,KY,2025-12-01 19:12:17
+2021,2507,Polymers and Plastics,1,KY,2025-12-01 19:12:17
+2021,2716,Genetics,1,KY,2025-12-01 19:12:17
+2021,2727,Nephrology,1,KY,2025-12-01 19:12:17
+2021,2731,Ophthalmology,1,KY,2025-12-01 19:12:17
+2021,2739,"Public Health, Environmental and Occupational Health",1,KY,2025-12-01 19:12:17
+2021,2743,Reproductive Medicine,1,KY,2025-12-01 19:12:17
+2021,2805,Cognitive Neuroscience,1,KY,2025-12-01 19:12:17
+2021,3312,Sociology and Political Science,1,KY,2025-12-01 19:12:17
+2021,3404,Small Animals,1,KY,2025-12-01 19:12:17
+2022,1702,Artificial Intelligence,50,KY,2025-12-01 19:12:17
+2022,1707,Computer Vision and Pattern Recognition,33,KY,2025-12-01 19:12:17
+2022,2303,Ecology,7,KY,2025-12-01 19:12:17
+2022,1312,Molecular Biology,6,KY,2025-12-01 19:12:17
+2022,2306,Global and Planetary Change,5,KY,2025-12-01 19:12:17
+2022,2746,Surgery,5,KY,2025-12-01 19:12:17
+2022,2309,Nature and Landscape Conservation,4,KY,2025-12-01 19:12:17
+2022,2740,Pulmonary and Respiratory Medicine,4,KY,2025-12-01 19:12:17
+2022,1311,Genetics,3,KY,2025-12-01 19:12:17
+2022,1710,Information Systems,3,KY,2025-12-01 19:12:17
+2022,1910,Oceanography,3,KY,2025-12-01 19:12:17
+2022,1705,Computer Networks and Communications,2,KY,2025-12-01 19:12:17
+2022,1708,Hardware and Architecture,2,KY,2025-12-01 19:12:17
+2022,1709,Human-Computer Interaction,2,KY,2025-12-01 19:12:17
+2022,1711,Signal Processing,2,KY,2025-12-01 19:12:17
+2022,1803,Management Science and Operations Research,2,KY,2025-12-01 19:12:17
+2022,1902,Atmospheric Science,2,KY,2025-12-01 19:12:17
+2022,2202,Aerospace Engineering,2,KY,2025-12-01 19:12:17
+2022,2206,Computational Mechanics,2,KY,2025-12-01 19:12:17
+2022,2302,Ecological Modeling,2,KY,2025-12-01 19:12:17
+2022,2711,Emergency Medicine,2,KY,2025-12-01 19:12:17
+2022,2713,Epidemiology,2,KY,2025-12-01 19:12:17
+2022,3207,Social Psychology,2,KY,2025-12-01 19:12:17
+2022,1105,"Ecology, Evolution, Behavior and Systematics",1,KY,2025-12-01 19:12:17
+2022,1108,Horticulture,1,KY,2025-12-01 19:12:17
+2022,1110,Plant Science,1,KY,2025-12-01 19:12:17
+2022,1203,Language and Linguistics,1,KY,2025-12-01 19:12:17
+2022,1704,Computer Graphics and Computer-Aided Design,1,KY,2025-12-01 19:12:17
+2022,1706,Computer Science Applications,1,KY,2025-12-01 19:12:17
+2022,2203,Automotive Engineering,1,KY,2025-12-01 19:12:17
+2022,2205,Civil and Structural Engineering,1,KY,2025-12-01 19:12:17
+2022,2207,Control and Systems Engineering,1,KY,2025-12-01 19:12:17
+2022,2208,Electrical and Electronic Engineering,1,KY,2025-12-01 19:12:17
+2022,2214,Media Technology,1,KY,2025-12-01 19:12:17
+2022,2305,Environmental Engineering,1,KY,2025-12-01 19:12:17
+2022,2705,Cardiology and Cardiovascular Medicine,1,KY,2025-12-01 19:12:17
+2022,2715,Gastroenterology,1,KY,2025-12-01 19:12:17
+2022,2730,Oncology,1,KY,2025-12-01 19:12:17
+2022,2731,Ophthalmology,1,KY,2025-12-01 19:12:17
+2022,2739,"Public Health, Environmental and Occupational Health",1,KY,2025-12-01 19:12:17
+2022,2741,"Radiology, Nuclear Medicine and Imaging",1,KY,2025-12-01 19:12:17
+2022,2743,Reproductive Medicine,1,KY,2025-12-01 19:12:17
+2022,2808,Neurology,1,KY,2025-12-01 19:12:17
+2022,3109,Statistical and Nonlinear Physics,1,KY,2025-12-01 19:12:17
+2022,3204,Developmental and Educational Psychology,1,KY,2025-12-01 19:12:17
+2023,1702,Artificial Intelligence,73,KY,2025-12-01 19:12:17
+2023,1707,Computer Vision and Pattern Recognition,50,KY,2025-12-01 19:12:17
+2023,2303,Ecology,11,KY,2025-12-01 19:12:17
+2023,2309,Nature and Landscape Conservation,9,KY,2025-12-01 19:12:17
+2023,1312,Molecular Biology,8,KY,2025-12-01 19:12:17
+2023,1711,Signal Processing,7,KY,2025-12-01 19:12:17
+2023,2206,Computational Mechanics,7,KY,2025-12-01 19:12:17
+2023,2746,Surgery,7,KY,2025-12-01 19:12:17
+2023,1710,Information Systems,6,KY,2025-12-01 19:12:17
+2023,2306,Global and Planetary Change,6,KY,2025-12-01 19:12:17
+2023,2740,Pulmonary and Respiratory Medicine,6,KY,2025-12-01 19:12:17
+2023,2713,Epidemiology,4,KY,2025-12-01 19:12:17
+2023,1306,Cancer Research,3,KY,2025-12-01 19:12:17
+2023,1709,Human-Computer Interaction,3,KY,2025-12-01 19:12:17
+2023,1803,Management Science and Operations Research,3,KY,2025-12-01 19:12:17
+2023,1910,Oceanography,3,KY,2025-12-01 19:12:17
+2023,2202,Aerospace Engineering,3,KY,2025-12-01 19:12:17
+2023,2213,"Safety, Risk, Reliability and Quality",3,KY,2025-12-01 19:12:17
+2023,2741,"Radiology, Nuclear Medicine and Imaging",3,KY,2025-12-01 19:12:17
+2023,1104,Aquatic Science,2,KY,2025-12-01 19:12:17
+2023,1311,Genetics,2,KY,2025-12-01 19:12:17
+2023,1802,Information Systems and Management,2,KY,2025-12-01 19:12:17
+2023,2203,Automotive Engineering,2,KY,2025-12-01 19:12:17
+2023,2204,Biomedical Engineering,2,KY,2025-12-01 19:12:17
+2023,2208,Electrical and Electronic Engineering,2,KY,2025-12-01 19:12:17
+2023,2212,Ocean Engineering,2,KY,2025-12-01 19:12:17
+2023,2729,Obstetrics and Gynecology,2,KY,2025-12-01 19:12:17
+2023,2745,Rheumatology,2,KY,2025-12-01 19:12:17
+2023,2748,Urology,2,KY,2025-12-01 19:12:17
+2023,1204,Archeology,1,KY,2025-12-01 19:12:17
+2023,1303,Biochemistry,1,KY,2025-12-01 19:12:17
+2023,1309,Developmental Biology,1,KY,2025-12-01 19:12:17
+2023,1314,Physiology,1,KY,2025-12-01 19:12:17
+2023,1704,Computer Graphics and Computer-Aided Design,1,KY,2025-12-01 19:12:17
+2023,1705,Computer Networks and Communications,1,KY,2025-12-01 19:12:17
+2023,1706,Computer Science Applications,1,KY,2025-12-01 19:12:17
+2023,1911,Paleontology,1,KY,2025-12-01 19:12:17
+2023,2207,Control and Systems Engineering,1,KY,2025-12-01 19:12:17
+2023,2209,Industrial and Manufacturing Engineering,1,KY,2025-12-01 19:12:17
+2023,2215,Building and Construction,1,KY,2025-12-01 19:12:17
+2023,2403,Immunology,1,KY,2025-12-01 19:12:17
+2023,2705,Cardiology and Cardiovascular Medicine,1,KY,2025-12-01 19:12:17
+2023,2707,Complementary and alternative medicine,1,KY,2025-12-01 19:12:17
+2023,2711,Emergency Medicine,1,KY,2025-12-01 19:12:17
+2023,2712,"Endocrinology, Diabetes and Metabolism",1,KY,2025-12-01 19:12:17
+2023,2718,Health Informatics,1,KY,2025-12-01 19:12:17
+2023,2721,Hepatology,1,KY,2025-12-01 19:12:17
+2023,2725,Infectious Diseases,1,KY,2025-12-01 19:12:17
+2023,2728,Neurology,1,KY,2025-12-01 19:12:17
+2023,2730,Oncology,1,KY,2025-12-01 19:12:17
+2023,2734,Pathology and Forensic Medicine,1,KY,2025-12-01 19:12:17
+2023,2735,"Pediatrics, Perinatology and Child Health",1,KY,2025-12-01 19:12:17
+2023,2736,Pharmacology,1,KY,2025-12-01 19:12:17
+2023,2742,Rehabilitation,1,KY,2025-12-01 19:12:17
+2023,2804,Cellular and Molecular Neuroscience,1,KY,2025-12-01 19:12:17
+2023,2807,Endocrine and Autonomic Systems,1,KY,2025-12-01 19:12:17
+2023,3300,General Social Sciences,1,KY,2025-12-01 19:12:17
+2023,3306,Health,1,KY,2025-12-01 19:12:17
+2023,3312,Sociology and Political Science,1,KY,2025-12-01 19:12:17
+2023,3600,General Health Professions,1,KY,2025-12-01 19:12:17
+2024,1702,Artificial Intelligence,16,KY,2025-12-01 19:12:17
+2024,1707,Computer Vision and Pattern Recognition,11,KY,2025-12-01 19:12:17
+2024,2303,Ecology,11,KY,2025-12-01 19:12:17
+2024,2306,Global and Planetary Change,7,KY,2025-12-01 19:12:17
+2024,2309,Nature and Landscape Conservation,7,KY,2025-12-01 19:12:17
+2024,1312,Molecular Biology,6,KY,2025-12-01 19:12:17
+2024,1910,Oceanography,4,KY,2025-12-01 19:12:17
+2024,2741,"Radiology, Nuclear Medicine and Imaging",4,KY,2025-12-01 19:12:17
+2024,2740,Pulmonary and Respiratory Medicine,3,KY,2025-12-01 19:12:17
+2024,2746,Surgery,3,KY,2025-12-01 19:12:17
+2024,1306,Cancer Research,2,KY,2025-12-01 19:12:17
+2024,1710,Information Systems,2,KY,2025-12-01 19:12:17
+2024,2208,Electrical and Electronic Engineering,2,KY,2025-12-01 19:12:17
+2024,2214,Media Technology,2,KY,2025-12-01 19:12:17
+2024,2505,Materials Chemistry,2,KY,2025-12-01 19:12:17
+2024,2705,Cardiology and Cardiovascular Medicine,2,KY,2025-12-01 19:12:17
+2024,2713,Epidemiology,2,KY,2025-12-01 19:12:17
+2024,2724,Internal Medicine,2,KY,2025-12-01 19:12:17
+2024,2745,Rheumatology,2,KY,2025-12-01 19:12:17
+2024,1102,Agronomy and Crop Science,1,KY,2025-12-01 19:12:17
+2024,1106,Food Science,1,KY,2025-12-01 19:12:17
+2024,1307,Cell Biology,1,KY,2025-12-01 19:12:17
+2024,1308,Clinical Biochemistry,1,KY,2025-12-01 19:12:17
+2024,1311,Genetics,1,KY,2025-12-01 19:12:17
+2024,1313,Molecular Medicine,1,KY,2025-12-01 19:12:17
+2024,1703,Computational Theory and Mathematics,1,KY,2025-12-01 19:12:17
+2024,1704,Computer Graphics and Computer-Aided Design,1,KY,2025-12-01 19:12:17
+2024,1711,Signal Processing,1,KY,2025-12-01 19:12:17
+2024,1907,Geology,1,KY,2025-12-01 19:12:17
+2024,2204,Biomedical Engineering,1,KY,2025-12-01 19:12:17
+2024,2207,Control and Systems Engineering,1,KY,2025-12-01 19:12:17
+2024,2302,Ecological Modeling,1,KY,2025-12-01 19:12:17
+2024,2405,Parasitology,1,KY,2025-12-01 19:12:17
+2024,2725,Infectious Diseases,1,KY,2025-12-01 19:12:17
+2024,2727,Nephrology,1,KY,2025-12-01 19:12:17
+2024,2730,Oncology,1,KY,2025-12-01 19:12:17
+2024,2739,"Public Health, Environmental and Occupational Health",1,KY,2025-12-01 19:12:17
+2024,2742,Rehabilitation,1,KY,2025-12-01 19:12:17
+2024,2808,Neurology,1,KY,2025-12-01 19:12:17
+2024,3109,Statistical and Nonlinear Physics,1,KY,2025-12-01 19:12:17
+2024,3207,Social Psychology,1,KY,2025-12-01 19:12:17
+2024,3312,Sociology and Political Science,1,KY,2025-12-01 19:12:17
+2024,3317,Demography,1,KY,2025-12-01 19:12:17
+2025,1702,Artificial Intelligence,9,KY,2025-12-01 19:12:17
+2025,1707,Computer Vision and Pattern Recognition,8,KY,2025-12-01 19:12:17
+2025,2303,Ecology,8,KY,2025-12-01 19:12:17
+2025,2309,Nature and Landscape Conservation,8,KY,2025-12-01 19:12:17
+2025,2306,Global and Planetary Change,6,KY,2025-12-01 19:12:17
+2025,2746,Surgery,4,KY,2025-12-01 19:12:17
+2025,2741,"Radiology, Nuclear Medicine and Imaging",3,KY,2025-12-01 19:12:17
+2025,1311,Genetics,2,KY,2025-12-01 19:12:17
+2025,1312,Molecular Biology,2,KY,2025-12-01 19:12:17
+2025,1910,Oceanography,2,KY,2025-12-01 19:12:17
+2025,2713,Epidemiology,2,KY,2025-12-01 19:12:17
+2025,2732,Orthopedics and Sports Medicine,2,KY,2025-12-01 19:12:17
+2025,2740,Pulmonary and Respiratory Medicine,2,KY,2025-12-01 19:12:17
+2025,1105,"Ecology, Evolution, Behavior and Systematics",1,KY,2025-12-01 19:12:17
+2025,1306,Cancer Research,1,KY,2025-12-01 19:12:17
+2025,1703,Computational Theory and Mathematics,1,KY,2025-12-01 19:12:17
+2025,1705,Computer Networks and Communications,1,KY,2025-12-01 19:12:17
+2025,1708,Hardware and Architecture,1,KY,2025-12-01 19:12:17
+2025,1711,Signal Processing,1,KY,2025-12-01 19:12:17
+2025,1712,Software,1,KY,2025-12-01 19:12:17
+2025,1911,Paleontology,1,KY,2025-12-01 19:12:17
+2025,2002,Economics and Econometrics,1,KY,2025-12-01 19:12:17
+2025,2209,Industrial and Manufacturing Engineering,1,KY,2025-12-01 19:12:17
+2025,2212,Ocean Engineering,1,KY,2025-12-01 19:12:17
+2025,2308,"Management, Monitoring, Policy and Law",1,KY,2025-12-01 19:12:17
+2025,2310,Pollution,1,KY,2025-12-01 19:12:17
+2025,2505,Materials Chemistry,1,KY,2025-12-01 19:12:17
+2025,2707,Complementary and alternative medicine,1,KY,2025-12-01 19:12:17
+2025,2715,Gastroenterology,1,KY,2025-12-01 19:12:17
+2025,2718,Health Informatics,1,KY,2025-12-01 19:12:17
+2025,2721,Hepatology,1,KY,2025-12-01 19:12:17
+2025,2730,Oncology,1,KY,2025-12-01 19:12:17
+2025,2735,"Pediatrics, Perinatology and Child Health",1,KY,2025-12-01 19:12:17
+2025,3205,Experimental and Cognitive Psychology,1,KY,2025-12-01 19:12:17

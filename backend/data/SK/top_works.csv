@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1312,Molecular Biology,Free radicals and antioxidants in normal physiological functions and human disease,https://doi.org/10.1016/j.biocel.2006.07.001,2006,13803,https://openalex.org/W2165201727
+1312,Molecular Biology,Antiinflammatory Therapy with Canakinumab for Atherosclerotic Disease,https://doi.org/10.1056/nejmoa1707914,2017,8381,https://openalex.org/W2748400555
+1312,Molecular Biology,"Free radicals, metals and antioxidants in oxidative stress-induced cancer",https://doi.org/10.1016/j.cbi.2005.12.009,2006,6472,https://openalex.org/W2048553024
+2210,Mechanical Engineering,Hallmarks of mechanochemistry: from nanoparticles to technology,https://doi.org/10.1039/c3cs35468g,2013,1179,https://openalex.org/W2071082437
+2210,Mechanical Engineering,Processing and Properties of High-Entropy Ultra-High Temperature Carbides,https://doi.org/10.1038/s41598-018-26827-1,2018,779,https://openalex.org/W2805506266
+2210,Mechanical Engineering,Mechanochemistry in Nanoscience and Minerals Engineering,https://doi.org/10.1007/978-3-540-74855-7,2008,679,https://openalex.org/W2095749294
+2505,Materials Chemistry,Hallmarks of mechanochemistry: from nanoparticles to technology,https://doi.org/10.1039/c3cs35468g,2013,1179,https://openalex.org/W2071082437
+2505,Materials Chemistry,Impact of Metal and Metal Oxide Nanoparticles on Plant: A Critical Review,https://doi.org/10.3389/fchem.2017.00078,2017,788,https://openalex.org/W2762452565
+2505,Materials Chemistry,Stabilization and Structure Calculations for Noncovalent Interactions in Extended Molecular Systems Based on Wave Function and Density Functional Theories,https://doi.org/10.1021/cr1000173,2010,743,https://openalex.org/W1983462489
+2208,Electrical and Electronic Engineering,Plasma–liquid interactions: a review and roadmap,https://doi.org/10.1088/0963-0252/25/5/053002,2016,1501,https://openalex.org/W2488528762
+2208,Electrical and Electronic Engineering,"Applications of hierarchically structured porous materials from energy storage and conversion, catalysis, photocatalysis, adsorption, separation, and sensing to biomedicine",https://doi.org/10.1039/c6cs00135a,2016,1362,https://openalex.org/W2418297389
+2208,Electrical and Electronic Engineering,Determination of the exciton binding energy and effective masses for methylammonium and formamidinium lead tri-halide perovskite semiconductors,https://doi.org/10.1039/c5ee03435c,2016,719,https://openalex.org/W2232208415
+2204,Biomedical Engineering,Size- and shape-dependent foreign body immune response to materials implanted in rodents and non-human primates,https://doi.org/10.1038/nmat4290,2015,835,https://openalex.org/W1482515349
+2204,Biomedical Engineering,Optical biosensors,https://doi.org/10.1042/ebc20150010,2016,817,https://openalex.org/W4252463539
+2204,Biomedical Engineering,Global land-use implications of first and second generation biofuel targets,https://doi.org/10.1016/j.enpol.2010.03.030,2010,789,https://openalex.org/W2168135901
+1110,Plant Science,Zinc in plants,https://doi.org/10.1111/j.1469-8137.2007.01996.x,2007,1967,https://openalex.org/W2129416242
+1110,Plant Science,"Vegetation of Europe: hierarchical floristic classification system of vascular plant, bryophyte, lichen, and algal communities",https://doi.org/10.1111/avsc.12257,2016,1407,https://openalex.org/W2521173605
+1110,Plant Science,Chlorophyll a fluorescence as a tool to monitor physiological status of plants under abiotic stress conditions,https://doi.org/10.1007/s11738-016-2113-y,2016,1168,https://openalex.org/W2321443763
+3107,"Atomic and Molecular Physics, and Optics",MOLCAS 7: The Next Generation,https://doi.org/10.1002/jcc.21318,2009,1539,https://openalex.org/W2100113961
+3107,"Atomic and Molecular Physics, and Optics",Improved Description of the Structure of Molecular and Layered Crystals: Ab Initio DFT Calculations with van der Waals Corrections,https://doi.org/10.1021/jp106469x,2010,1076,https://openalex.org/W2018471238
+3107,"Atomic and Molecular Physics, and Optics",Stabilization and Structure Calculations for Noncovalent Interactions in Extended Molecular Systems Based on Wave Function and Density Functional Theories,https://doi.org/10.1021/cr1000173,2010,743,https://openalex.org/W1983462489
+1605,Organic Chemistry,Free radicals and antioxidants in normal physiological functions and human disease,https://doi.org/10.1016/j.biocel.2006.07.001,2006,13803,https://openalex.org/W2165201727
+1605,Organic Chemistry,"Free radicals, metals and antioxidants in oxidative stress-induced cancer",https://doi.org/10.1016/j.cbi.2005.12.009,2006,6472,https://openalex.org/W2048553024
+1605,Organic Chemistry,Targeting Free Radicals in Oxidative Stress-Related Human Diseases,https://doi.org/10.1016/j.tips.2017.04.005,2017,1065,https://openalex.org/W2620099834
+1702,Artificial Intelligence,Fractional-Order Nonlinear Systems,https://doi.org/10.1007/978-3-642-18101-6,2011,1377,https://openalex.org/W2476959674
+1702,Artificial Intelligence,Information Theory,https://doi.org/10.1017/cbo9780511921889,2011,1205,https://openalex.org/W4302366875
+1702,Artificial Intelligence,Machine Learning and Deep Learning frameworks and libraries for large-scale data mining: a survey,https://doi.org/10.1007/s10462-018-09679-z,2019,794,https://openalex.org/W2910096450
+3312,Sociology and Political Science,Preexposure Chemoprophylaxis for HIV Prevention in Men Who Have Sex with Men,https://doi.org/10.1056/nejmoa1011205,2010,4984,https://openalex.org/W2103920597
+3312,Sociology and Political Science,Contrasting Computational Models of Mate Preference Integration Across 45 Countries,https://doi.org/10.1038/s41598-019-52748-8,2019,1773,https://openalex.org/W2983201012
+3312,Sociology and Political Science,"Geographies of energy transition: Space, place and the low-carbon economy",https://doi.org/10.1016/j.enpol.2012.10.066,2012,1336,https://openalex.org/W2001956722

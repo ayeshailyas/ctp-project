@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1910,Oceanography,"Climatological mean and decadal change in surface ocean pCO<sub>2</sub>, and net sea-air CO<sub>2</sub> flux over the global oceans",https://doi.org/10.1016/j.dsr2.2008.12.009,2009,2440,https://openalex.org/W2063534846
+1910,Oceanography,Eddy/Wind Interactions Stimulate Extraordinary Mid-Ocean Plankton Blooms,https://doi.org/10.1126/science.1136256,2007,863,https://openalex.org/W2083524788
+1910,Oceanography,Phytoplankton in the ocean use non-phosphorus lipids in response to phosphorus scarcity,https://doi.org/10.1038/nature07659,2009,815,https://openalex.org/W2019807560
+2303,Ecology,Minor revision to V4 region SSU rRNA 806R gene primer greatly increases detection of SAR11 bacterioplankton,https://doi.org/10.3354/ame01753,2015,2602,https://openalex.org/W2091627137
+2303,Ecology,The Marine Viromes of Four Oceanic Regions,https://doi.org/10.1371/journal.pbio.0040368,2006,936,https://openalex.org/W1995614275
+2303,Ecology,"Caribbean Corals in Crisis: Record Thermal Stress, Bleaching, and Mortality in 2005",https://doi.org/10.1371/journal.pone.0013969,2010,882,https://openalex.org/W2156568771
+2306,Global and Planetary Change,"Climatological mean and decadal change in surface ocean pCO<sub>2</sub>, and net sea-air CO<sub>2</sub> flux over the global oceans",https://doi.org/10.1016/j.dsr2.2008.12.009,2009,2440,https://openalex.org/W2063534846
+2306,Global and Planetary Change,Global Carbon Budget 2020,https://doi.org/10.5194/essd-12-3269-2020,2020,2406,https://openalex.org/W3093432062
+2306,Global and Planetary Change,Global Carbon Budget 2022,https://doi.org/10.5194/essd-14-4811-2022,2022,1592,https://openalex.org/W4308697725
+1902,Atmospheric Science,Global Carbon Budget 2020,https://doi.org/10.5194/essd-12-3269-2020,2020,2406,https://openalex.org/W3093432062
+1902,Atmospheric Science,Global Carbon Budget 2022,https://doi.org/10.5194/essd-14-4811-2022,2022,1592,https://openalex.org/W4308697725
+1902,Atmospheric Science,Global Carbon Budget 2021,https://doi.org/10.5194/essd-14-1917-2022,2022,1500,https://openalex.org/W4225004802
+1705,Computer Networks and Communications,Data integration: the teenage years,https://doi.org/10.5555/1182635.1164130,2006,539,https://openalex.org/W2142151675
+1705,Computer Networks and Communications,Amassing and indexing a large sample of version control systems: Towards the census of public source code history,https://doi.org/10.1109/msr.2009.5069476,2009,106,https://openalex.org/W2099677903
+1705,Computer Networks and Communications,High-impact defects,https://doi.org/10.1145/2025113.2025155,2011,85,https://openalex.org/W2098673848
+1710,Information Systems,A large-scale empirical study of just-in-time quality assurance,https://doi.org/10.1109/tse.2012.70,2012,653,https://openalex.org/W2147386665
+1710,Information Systems,Quantifying the Effect of Code Smells on Maintenance Effort,https://doi.org/10.1109/tse.2012.89,2013,305,https://openalex.org/W2014418158
+1710,Information Systems,Petri Net Modeling of Cyber-Physical Attacks on Smart Grid,https://doi.org/10.1109/tsg.2011.2160000,2011,247,https://openalex.org/W2143665444
+1312,Molecular Biology,Minor revision to V4 region SSU rRNA 806R gene primer greatly increases detection of SAR11 bacterioplankton,https://doi.org/10.3354/ame01753,2015,2602,https://openalex.org/W2091627137
+1312,Molecular Biology,Revisiting metazoan phylogeny with genomic sampling of all phyla,https://doi.org/10.1098/rspb.2019.0831,2019,377,https://openalex.org/W2957892651
+1312,Molecular Biology,An obligately photosynthetic bacterial anaerobe from a deep-sea hydrothermal vent,https://doi.org/10.1073/pnas.0503674102,2005,349,https://openalex.org/W2169289406
+2309,Nature and Landscape Conservation,"Repeated, long-distance migrations by a philopatric predator targeting highly contrasting ecosystems",https://doi.org/10.1038/srep11202,2015,849,https://openalex.org/W1946143552
+2309,Nature and Landscape Conservation,Deep reefs are not universal refuges: Reseeding potential varies among coral species,https://doi.org/10.1126/sciadv.1602373,2017,245,https://openalex.org/W2588640296
+2309,Nature and Landscape Conservation,Impact of climate on eel populations of the Northern Hemisphere,https://doi.org/10.3354/meps07696,2008,135,https://openalex.org/W2079475278
+2304,Environmental Chemistry,Massive Phytoplankton Blooms Under Arctic Sea Ice,https://doi.org/10.1126/science.1215065,2012,750,https://openalex.org/W1986021413
+2304,Environmental Chemistry,North Atlantic ocean circulation and abrupt climate change during the last glaciation,https://doi.org/10.1126/science.aaf5529,2016,499,https://openalex.org/W2460928081
+2304,Environmental Chemistry,The GEOTRACES Intermediate Data Product 2017,https://doi.org/10.1016/j.chemgeo.2018.05.040,2018,394,https://openalex.org/W2915363558
+1702,Artificial Intelligence,ET-LDA: Joint Topic Modeling for Aligning Events and their Twitter Feedback,https://doi.org/10.1609/aaai.v26i1.8106,2021,62,https://openalex.org/W2244191099
+1702,Artificial Intelligence,Refactoring for Changeability: A Way to Go?,https://doi.org/10.1109/metrics.2005.40,2005,47,https://openalex.org/W2137203524
+1702,Artificial Intelligence,AVAYA: Sentiment Analysis on Twitter with Self-Training and Polarity Lexicon Expansion,,2013,41,https://openalex.org/W2154436402

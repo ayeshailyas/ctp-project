@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1312,Molecular Biology,MEGA6: Molecular Evolutionary Genetics Analysis Version 6.0,https://doi.org/10.1093/molbev/mst197,2013,47274,https://openalex.org/W2152207030
+1312,Molecular Biology,MAFFT Multiple Sequence Alignment Software Version 7: Improvements in Performance and Usability,https://doi.org/10.1093/molbev/mst010,2013,43861,https://openalex.org/W2160378127
+1312,Molecular Biology,"MEGA5: Molecular Evolutionary Genetics Analysis Using Maximum Likelihood, Evolutionary Distance, and Maximum Parsimony Methods",https://doi.org/10.1093/molbev/msr121,2011,39954,https://openalex.org/W2132632499
+2208,Electrical and Electronic Engineering,Organometal Halide Perovskites as Visible-Light Sensitizers for Photovoltaic Cells,https://doi.org/10.1021/ja809598r,2009,21560,https://openalex.org/W2057327293
+2208,Electrical and Electronic Engineering,A metal-free polymeric photocatalyst for hydrogen production from water under visible light,https://doi.org/10.1038/nmat2317,2008,11929,https://openalex.org/W2150399639
+2208,Electrical and Electronic Engineering,Efficient Hybrid Solar Cells Based on Meso-Superstructured Organometal Halide Perovskites,https://doi.org/10.1126/science.1228604,2012,10335,https://openalex.org/W1965464747
+2505,Materials Chemistry,Radiation Resistant Camera System for Monitoring Deuterium Plasma Discharges in the Large Helical Device,https://doi.org/10.1585/pfr.15.2402039,2020,801215,https://openalex.org/W3038568908
+2505,Materials Chemistry,"<i>VESTA 3</i> for three-dimensional visualization of crystal, volumetric and morphology data",https://doi.org/10.1107/s0021889811038970,2011,22931,https://openalex.org/W2028056984
+2505,Materials Chemistry,Organometal Halide Perovskites as Visible-Light Sensitizers for Photovoltaic Cells,https://doi.org/10.1021/ja809598r,2009,21560,https://openalex.org/W2057327293
+2746,Surgery,Induction of Pluripotent Stem Cells from Adult Human Fibroblasts by Defined Factors,https://doi.org/10.1016/j.cell.2007.11.019,2007,19721,https://openalex.org/W2138977668
+2746,Surgery,How useful is SBF in predicting in vivo bone bioactivity?,https://doi.org/10.1016/j.biomaterials.2006.01.017,2006,9134,https://openalex.org/W2086699454
+2746,Surgery,Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction,https://doi.org/10.1056/nejmoa1911303,2019,6201,https://openalex.org/W2974260792
+2204,Biomedical Engineering,"Physisorption of gases, with special reference to the evaluation of surface area and pore size distribution (IUPAC Technical Report)",https://doi.org/10.1515/pac-2014-1117,2015,17641,https://openalex.org/W843007777
+2204,Biomedical Engineering,Diagnostic criteria for multiple sclerosis: 2010 Revisions to the McDonald criteria,https://doi.org/10.1002/ana.22366,2011,9660,https://openalex.org/W2122545833
+2204,Biomedical Engineering,How useful is SBF in predicting in vivo bone bioactivity?,https://doi.org/10.1016/j.biomaterials.2006.01.017,2006,9134,https://openalex.org/W2086699454
+2740,Pulmonary and Respiratory Medicine,"Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease",https://doi.org/10.1164/rccm.201204-0596pp,2012,15998,https://openalex.org/W2127951128
+2740,Pulmonary and Respiratory Medicine,Pembrolizumab versus Chemotherapy for PD-L1–Positive Non–Small-Cell Lung Cancer,https://doi.org/10.1056/nejmoa1606774,2016,9618,https://openalex.org/W2527905628
+2740,Pulmonary and Respiratory Medicine,Gefitinib or Carboplatin–Paclitaxel in Pulmonary Adenocarcinoma,https://doi.org/10.1056/nejmoa0810699,2009,8106,https://openalex.org/W2166084034
+3107,"Atomic and Molecular Physics, and Optics",Roll-to-roll production of 30-inch graphene films for transparent electrodes,https://doi.org/10.1038/nnano.2010.132,2010,7956,https://openalex.org/W2097773259
+3107,"Atomic and Molecular Physics, and Optics",Advanced capabilities for materials modelling with Quantum ESPRESSO,https://doi.org/10.1088/1361-648x/aa8f79,2017,6714,https://openalex.org/W2757803490
+3107,"Atomic and Molecular Physics, and Optics",Cutting-edge terahertz technology,https://doi.org/10.1038/nphoton.2007.3,2007,5982,https://openalex.org/W1972432506
+2210,Mechanical Engineering,Materials and Mechanics for Stretchable Electronics,https://doi.org/10.1126/science.1182383,2010,4700,https://openalex.org/W2157426451
+2210,Mechanical Engineering,"Classification of Bulk Metallic Glasses by Atomic Size Difference, Heat of Mixing and Period of Constituent Elements and Its Application to Characterization of the Main Alloying Element",https://doi.org/10.2320/matertrans.46.2817,2005,4387,https://openalex.org/W2168686241
+2210,Mechanical Engineering,Physical metallurgy of Ti–Ni-based shape memory alloys,https://doi.org/10.1016/j.pmatsci.2004.10.001,2005,4315,https://openalex.org/W2032093899
+1605,Organic Chemistry,Raman spectroscopy of carbon nanotubes,https://doi.org/10.1016/j.physrep.2004.10.006,2005,4296,https://openalex.org/W2151672380
+1605,Organic Chemistry,Functional Supramolecular Polymers,https://doi.org/10.1126/science.1205962,2012,3514,https://openalex.org/W1994486848
+1605,Organic Chemistry,A stretchable carbon nanotube strain sensor for human-motion detection,https://doi.org/10.1038/nnano.2011.36,2011,3141,https://openalex.org/W1999959880
+2730,Oncology,Evaluation of Factors Related to Late Recurrence - Later than 10 Years after the Initial Treatment - in Primary Breast Cancer,https://doi.org/10.1159/000353099,2013,13201,https://openalex.org/W2044702943
+2730,Oncology,The Clavien-Dindo Classification of Surgical Complications,https://doi.org/10.1097/sla.0b013e3181b13ca2,2009,10528,https://openalex.org/W2144173184
+2730,Oncology,Pembrolizumab versus Chemotherapy for PD-L1–Positive Non–Small-Cell Lung Cancer,https://doi.org/10.1056/nejmoa1606774,2016,9618,https://openalex.org/W2527905628

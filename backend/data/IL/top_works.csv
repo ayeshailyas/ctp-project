@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1312,Molecular Biology,Full-length transcriptome assembly from RNA-Seq data without a reference genome,https://doi.org/10.1038/nbt.1883,2011,21583,https://openalex.org/W2126419817
+1312,Molecular Biology,Improved Survival with Ipilimumab in Patients with Metastatic Melanoma,https://doi.org/10.1056/nejmoa1003466,2010,14778,https://openalex.org/W2097995306
+1312,Molecular Biology,"The mutational constraint spectrum quantified from variation in 141,456 humans",https://doi.org/10.1038/s41586-020-2308-7,2020,9280,https://openalex.org/W3029661147
+2208,Electrical and Electronic Engineering,Identity-Based Cryptosystems and Signature Schemes,https://doi.org/10.1007/3-540-39568-7_5,2007,6579,https://openalex.org/W1569083856
+2208,Electrical and Electronic Engineering,Challenges in the development of advanced Li-ion batteries: a review,https://doi.org/10.1039/c1ee01598b,2011,6494,https://openalex.org/W1998062017
+2208,Electrical and Electronic Engineering,Axicabtagene Ciloleucel CAR T-Cell Therapy in Refractory Large B-Cell Lymphoma,https://doi.org/10.1056/nejmoa1707447,2017,5454,https://openalex.org/W2773804840
+3107,"Atomic and Molecular Physics, and Optics",Non-Abelian anyons and topological quantum computation,https://doi.org/10.1103/revmodphys.80.1083,2008,6554,https://openalex.org/W2152240519
+3107,"Atomic and Molecular Physics, and Optics",Terabit free-space data transmission employing orbital angular momentum multiplexing,https://doi.org/10.1038/nphoton.2012.138,2012,4348,https://openalex.org/W2013674306
+3107,"Atomic and Molecular Physics, and Optics",Observation of parity–time symmetry in optics,https://doi.org/10.1038/nphys1515,2010,3435,https://openalex.org/W1531935167
+2746,Surgery,Dapagliflozin and Cardiovascular Outcomes in Type 2 Diabetes,https://doi.org/10.1056/nejmoa1812389,2018,5860,https://openalex.org/W2900413769
+2746,Surgery,The SCARE 2020 Guideline: Updating Consensus Surgical CAse REport (SCARE) Guidelines,https://doi.org/10.1016/j.ijsu.2020.10.034,2020,5533,https://openalex.org/W3103171760
+2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5316,https://openalex.org/W2993259418
+3312,Sociology and Political Science,"Dementia prevention, intervention, and care",https://doi.org/10.1016/s0140-6736(17)31363-6,2017,5936,https://openalex.org/W2736307756
+3312,Sociology and Political Science,Construal-level theory of psychological distance.,https://doi.org/10.1037/a0018963,2010,5810,https://openalex.org/W2089457241
+3312,Sociology and Political Science,Identification of influential spreaders in complex networks,https://doi.org/10.1038/nphys1746,2010,3030,https://openalex.org/W2133131640
+1702,Artificial Intelligence,Densely Connected Convolutional Networks,https://doi.org/10.1109/cvpr.2017.243,2017,41973,https://openalex.org/W2963446712
+1702,Artificial Intelligence,Feature Pyramid Networks for Object Detection,https://doi.org/10.1109/cvpr.2017.106,2017,26695,https://openalex.org/W2565639579
+1702,Artificial Intelligence,Focal Loss for Dense Object Detection,https://doi.org/10.1109/iccv.2017.324,2017,23145,https://openalex.org/W2963351448
+2204,Biomedical Engineering,Nanocarriers as an emerging platform for cancer therapy,https://doi.org/10.1038/nnano.2007.387,2007,8333,https://openalex.org/W2032760352
+2204,Biomedical Engineering,Terabit free-space data transmission employing orbital angular momentum multiplexing,https://doi.org/10.1038/nphoton.2012.138,2012,4348,https://openalex.org/W2013674306
+2204,Biomedical Engineering,Tensional homeostasis and the malignant phenotype,https://doi.org/10.1016/j.ccr.2005.08.010,2005,3810,https://openalex.org/W2099052265
+2505,Materials Chemistry,Dispersion and functionalization of carbon nanotubes for polymer-based nanocomposites: A review,https://doi.org/10.1016/j.compositesa.2010.07.003,2010,3267,https://openalex.org/W2094021556
+2505,Materials Chemistry,PatchDock and SymmDock: servers for rigid and symmetric docking,https://doi.org/10.1093/nar/gki481,2005,3034,https://openalex.org/W2151460035
+2505,Materials Chemistry,Ultra-high-rate pseudocapacitive energy storage in two-dimensional transition metal carbides,https://doi.org/10.1038/nenergy.2017.105,2017,2161,https://openalex.org/W2734584755
+2713,Epidemiology,Surviving Sepsis Campaign,https://doi.org/10.1097/ccm.0b013e31827e83af,2013,9621,https://openalex.org/W3023757607
+2713,Epidemiology,"Surviving Sepsis Campaign: International Guidelines for Management of Severe Sepsis and Septic Shock, 2012",https://doi.org/10.1007/s00134-012-2769-8,2013,7251,https://openalex.org/W2442246762
+2713,Epidemiology,Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock: 2016,https://doi.org/10.1007/s00134-017-4683-6,2017,6441,https://openalex.org/W3016555942
+1311,Genetics,"The mutational constraint spectrum quantified from variation in 141,456 humans",https://doi.org/10.1038/s41586-020-2308-7,2020,9280,https://openalex.org/W3029661147
+1311,Genetics,The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses,https://doi.org/10.1002/cpbi.5,2016,4748,https://openalex.org/W2474747771
+1311,Genetics,Infliximab for Induction and Maintenance Therapy for Ulcerative Colitis,https://doi.org/10.1056/nejmoa050516,2005,3799,https://openalex.org/W2171297959

@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1312,Molecular Biology,"Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2",https://doi.org/10.1038/s41587-019-0209-9,2019,20865,https://openalex.org/W2963276645
+1312,Molecular Biology,Community detection in graphs,https://doi.org/10.1016/j.physrep.2009.11.002,2009,10957,https://openalex.org/W2127048411
+1312,Molecular Biology,Reactive oxygen species and antioxidant machinery in abiotic stress tolerance in crop plants,https://doi.org/10.1016/j.plaphy.2010.08.016,2010,10910,https://openalex.org/W2126386203
+2746,Surgery,The PRISMA Statement for Reporting Systematic Reviews and Meta-Analyses of Studies That Evaluate Health Care Interventions: Explanation and Elaboration,https://doi.org/10.1371/journal.pmed.1000100,2009,27244,https://openalex.org/W3022903699
+2746,Surgery,Minimal criteria for defining multipotent mesenchymal stromal cells. The International Society for Cellular Therapy position statement,https://doi.org/10.1080/14653240600855905,2006,17147,https://openalex.org/W2025371271
+2746,Surgery,2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer,https://doi.org/10.1089/thy.2015.0020,2015,15652,https://openalex.org/W2145150141
+2208,Electrical and Electronic Engineering,QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials,https://doi.org/10.1088/0953-8984/21/39/395502,2009,27468,https://openalex.org/W2120145199
+2208,Electrical and Electronic Engineering,Electron-Hole Diffusion Lengths Exceeding 1 Micrometer in an Organometal Trihalide Perovskite Absorber,https://doi.org/10.1126/science.1243982,2013,9960,https://openalex.org/W2073726416
+2208,Electrical and Electronic Engineering,Nanostructured materials for advanced energy conversion and storage devices,https://doi.org/10.1038/nmat1368,2005,8661,https://openalex.org/W2142841029
+2740,Pulmonary and Respiratory Medicine,"Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease",https://doi.org/10.1164/rccm.201204-0596pp,2012,15998,https://openalex.org/W2127951128
+2740,Pulmonary and Respiratory Medicine,Standardisation of spirometry,https://doi.org/10.1183/09031936.05.00034805,2005,15218,https://openalex.org/W2125078269
+2740,Pulmonary and Respiratory Medicine,The 2021 WHO Classification of Tumors of the Central Nervous System: a summary,https://doi.org/10.1093/neuonc/noab106,2021,10115,https://openalex.org/W3174246647
+2204,Biomedical Engineering,Sensitivity and False Alarm Rate of a Fall Sensor in Long-Term Fall Detection in the Elderly,https://doi.org/10.1159/000362720,2014,18940,https://openalex.org/W2008854521
+2204,Biomedical Engineering,Diagnostic criteria for multiple sclerosis: 2010 Revisions to the McDonald criteria,https://doi.org/10.1002/ana.22366,2011,9660,https://openalex.org/W2122545833
+2204,Biomedical Engineering,Light Propagation with Phase Discontinuities: Generalized Laws of Reflection and Refraction,https://doi.org/10.1126/science.1210713,2011,9372,https://openalex.org/W2121607567
+2713,Epidemiology,Acute Respiratory Distress Syndrome,https://doi.org/10.1001/jama.2012.5669,2012,8636,https://openalex.org/W1803784511
+2713,Epidemiology,Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock: 2016,https://doi.org/10.1007/s00134-017-4683-6,2017,6441,https://openalex.org/W3016555942
+2713,Epidemiology,Thrombolysis with Alteplase 3 to 4.5 Hours after Acute Ischemic Stroke,https://doi.org/10.1056/nejmoa0804656,2008,6403,https://openalex.org/W2159233098
+2730,Oncology,Minimal criteria for defining multipotent mesenchymal stromal cells. The International Society for Cellular Therapy position statement,https://doi.org/10.1080/14653240600855905,2006,17147,https://openalex.org/W2025371271
+2730,Oncology,Cancer-related inflammation,https://doi.org/10.1038/nature07205,2008,10949,https://openalex.org/W2123105952
+2730,Oncology,Nivolumab versus Docetaxel in Advanced Nonsquamous Non–Small-Cell Lung Cancer,https://doi.org/10.1056/nejmoa1507643,2015,9205,https://openalex.org/W2104347254
+2705,Cardiology and Cardiovascular Medicine,Recommendations for Cardiac Chamber Quantification by Echocardiography in Adults: An Update from the American Society of Echocardiography and the European Association of Cardiovascular Imaging,https://doi.org/10.1016/j.echo.2014.10.003,2015,17088,https://openalex.org/W2124624517
+2705,Cardiology and Cardiovascular Medicine,2013 ESH/ESC Guidelines for the management of arterial hypertension,https://doi.org/10.1093/eurheartj/eht151,2013,13617,https://openalex.org/W2133416234
+2705,Cardiology and Cardiovascular Medicine,2018 ESC/ESH Guidelines for the management of arterial hypertension,https://doi.org/10.1093/eurheartj/ehy339,2018,9892,https://openalex.org/W2888589263
+2505,Materials Chemistry,Electron-Hole Diffusion Lengths Exceeding 1 Micrometer in an Organometal Trihalide Perovskite Absorber,https://doi.org/10.1126/science.1243982,2013,9960,https://openalex.org/W2073726416
+2505,Materials Chemistry,Silicene: Compelling Experimental Evidence for Graphenelike Two-Dimensional Silicon,https://doi.org/10.1103/physrevlett.108.155501,2012,3757,https://openalex.org/W1984535384
+2505,Materials Chemistry,"Photodetectors based on graphene, other two-dimensional materials and hybrid systems",https://doi.org/10.1038/nnano.2014.215,2014,3601,https://openalex.org/W2039418304
+1702,Artificial Intelligence,bibliometrix : An R-tool for comprehensive science mapping analysis,https://doi.org/10.1016/j.joi.2017.08.007,2017,11677,https://openalex.org/W2755950973
+1702,Artificial Intelligence,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.17863/cam.64134,2019,11500,https://openalex.org/W3103145119
+1702,Artificial Intelligence,The Graph Neural Network Model,https://doi.org/10.1109/tnn.2008.2005605,2008,8315,https://openalex.org/W2116341502

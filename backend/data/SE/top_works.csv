@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1312,Molecular Biology,Features and development of <i>Coot</i>,https://doi.org/10.1107/s0907444910007493,2010,27988,https://openalex.org/W2124026197
+1312,Molecular Biology,MrBayes 3.2: Efficient Bayesian Phylogenetic Inference and Model Choice Across a Large Model Space,https://doi.org/10.1093/sysbio/sys029,2012,26201,https://openalex.org/W2148698435
+1312,Molecular Biology,GROMACS: High performance molecular simulations through multi-level parallelism from laptops to supercomputers,https://doi.org/10.1016/j.softx.2015.06.001,2015,23588,https://openalex.org/W1031578623
+2208,Electrical and Electronic Engineering,Massive MIMO for next generation wireless systems,https://doi.org/10.1109/mcom.2014.6736761,2014,6620,https://openalex.org/W2141682101
+2208,Electrical and Electronic Engineering,New tools for automated high-resolution cryo-EM structure determination in RELION-3,https://doi.org/10.7554/elife.42166,2018,5208,https://openalex.org/W2899714098
+2208,Electrical and Electronic Engineering,Scaling Up MIMO: Opportunities and Challenges with Very Large Arrays,https://doi.org/10.1109/msp.2011.2178495,2012,4495,https://openalex.org/W2128513990
+2746,Surgery,Minimal criteria for defining multipotent mesenchymal stromal cells. The International Society for Cellular Therapy position statement,https://doi.org/10.1080/14653240600855905,2006,17147,https://openalex.org/W2025371271
+2746,Surgery,European Guidelines on cardiovascular disease prevention in clinical practice (version 2012): The Fifth Joint Task Force of the European Society of Cardiology and Other Societies on Cardiovascular Disease Prevention in Clinical Practice (constituted by representatives of nine societies and by invited experts) * Developed with the special contribution of the European Association for Cardiovascular Prevention &amp; Rehabilitation (EACPR),https://doi.org/10.1093/eurheartj/ehs092,2012,8481,https://openalex.org/W3021842026
+2746,Surgery,Inter-Society Consensus for the Management of Peripheral Arterial Disease (TASC II),https://doi.org/10.1016/j.jvs.2006.12.037,2007,8014,https://openalex.org/W2144985796
+2204,Biomedical Engineering,Sensitivity and False Alarm Rate of a Fall Sensor in Long-Term Fall Detection in the Elderly,https://doi.org/10.1159/000362720,2014,18940,https://openalex.org/W2008854521
+2204,Biomedical Engineering,Diagnostic criteria for multiple sclerosis: 2010 Revisions to the McDonald criteria,https://doi.org/10.1002/ana.22366,2011,9660,https://openalex.org/W2122545833
+2204,Biomedical Engineering,Two-Dimensional Transition Metal Carbides,https://doi.org/10.1021/nn204153h,2012,4399,https://openalex.org/W1981729886
+2713,Epidemiology,"Inflammation, Atherosclerosis, and Coronary Artery Disease",https://doi.org/10.1056/nejmra043430,2005,8572,https://openalex.org/W2094941678
+2713,Epidemiology,Antiinflammatory Therapy with Canakinumab for Atherosclerotic Disease,https://doi.org/10.1056/nejmoa1707914,2017,8381,https://openalex.org/W2748400555
+2713,Epidemiology,Thrombolysis with Alteplase 3 to 4.5 Hours after Acute Ischemic Stroke,https://doi.org/10.1056/nejmoa0804656,2008,6403,https://openalex.org/W2159233098
+2737,Physiology,Sarcopenia: revised European consensus on definition and diagnosis,https://doi.org/10.1093/ageing/afy169,2018,12349,https://openalex.org/W2897513125
+2737,Physiology,Sarcopenia: European consensus on definition and diagnosis,https://doi.org/10.1093/ageing/afq034,2010,11267,https://openalex.org/W2102902846
+2737,Physiology,NIA‐AA Research Framework: Toward a biological definition of Alzheimer's disease,https://doi.org/10.1016/j.jalz.2018.02.018,2018,9263,https://openalex.org/W2798054687
+2740,Pulmonary and Respiratory Medicine,Inter-Society Consensus for the Management of Peripheral Arterial Disease (TASC II),https://doi.org/10.1016/j.jvs.2006.12.037,2007,8014,https://openalex.org/W2144985796
+2740,Pulmonary and Respiratory Medicine,Geant4 developments and applications,https://doi.org/10.1109/tns.2006.869826,2006,6529,https://openalex.org/W2128881154
+2740,Pulmonary and Respiratory Medicine,Angiotensin–Neprilysin Inhibition versus Enalapril in Heart Failure,https://doi.org/10.1056/nejmoa1409077,2014,6479,https://openalex.org/W2113698123
+3312,Sociology and Political Science,Global prevalence of dementia: a Delphi consensus study,https://doi.org/10.1016/s0140-6736(05)67889-0,2005,5277,https://openalex.org/W2014886338
+3312,Sociology and Political Science,ADAPTIVE GOVERNANCE OF SOCIAL-ECOLOGICAL SYSTEMS,https://doi.org/10.1146/annurev.energy.30.050504.144511,2005,5191,https://openalex.org/W1976759885
+3312,Sociology and Political Science,"Resilience Thinking: Integrating Resilience, Adaptability and Transformability",https://doi.org/10.5751/es-03610-150420,2010,4104,https://openalex.org/W2127569725
+2505,Materials Chemistry,Features and development of <i>Coot</i>,https://doi.org/10.1107/s0907444910007493,2010,27988,https://openalex.org/W2124026197
+2505,Materials Chemistry,GROMACS: High performance molecular simulations through multi-level parallelism from laptops to supercomputers,https://doi.org/10.1016/j.softx.2015.06.001,2015,23588,https://openalex.org/W1031578623
+2505,Materials Chemistry,"GROMACS 4:  Algorithms for Highly Efficient, Load-Balanced, and Scalable Molecular Simulation",https://doi.org/10.1021/ct700301q,2008,15564,https://openalex.org/W1966078827
+1311,Genetics,MrBayes 3.2: Efficient Bayesian Phylogenetic Inference and Model Choice Across a Large Model Space,https://doi.org/10.1093/sysbio/sys029,2012,26201,https://openalex.org/W2148698435
+1311,Genetics,"Analysis of protein-coding genetic variation in 60,706 humans",https://doi.org/10.1038/nature19057,2016,10052,https://openalex.org/W2256016639
+1311,Genetics,Biological insights from 108 schizophrenia-associated genetic loci,https://doi.org/10.1038/nature13595,2014,7891,https://openalex.org/W2101357408

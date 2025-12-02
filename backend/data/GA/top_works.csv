@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+2739,"Public Health, Environmental and Occupational Health","First Results of Phase 3 Trial of RTS,S/AS01 Malaria Vaccine in African Children",https://doi.org/10.1056/nejmoa1102287,2011,885,https://openalex.org/W2108476551
+2739,"Public Health, Environmental and Occupational Health",Zika Virus in Gabon (Central Africa) – 2007: A New Threat from Aedes albopictus?,https://doi.org/10.1371/journal.pntd.0002681,2014,717,https://openalex.org/W2063140977
+2739,"Public Health, Environmental and Occupational Health",Bushmeat hunting and extinction risk to the world's mammals,https://doi.org/10.1098/rsos.160498,2016,568,https://openalex.org/W2539138036
+2725,Infectious Diseases,Fruit bats as reservoirs of Ebola virus,https://doi.org/10.1038/438575a,2005,1553,https://openalex.org/W1982754464
+2725,Infectious Diseases,Zika Virus in Gabon (Central Africa) – 2007: A New Threat from Aedes albopictus?,https://doi.org/10.1371/journal.pntd.0002681,2014,717,https://openalex.org/W2063140977
+2725,Infectious Diseases,Bats host major mammalian paramyxoviruses,https://doi.org/10.1038/ncomms1796,2012,682,https://openalex.org/W2137569894
+2713,Epidemiology,Fruit bats as reservoirs of Ebola virus,https://doi.org/10.1038/438575a,2005,1553,https://openalex.org/W1982754464
+2713,Epidemiology,Bats host major mammalian paramyxoviruses,https://doi.org/10.1038/ncomms1796,2012,682,https://openalex.org/W2137569894
+2713,Epidemiology,"Epidemiology and Burden of Human Papillomavirus and Related Diseases, Molecular Pathogenesis, and Vaccine Evaluation",https://doi.org/10.3389/fpubh.2020.552028,2021,568,https://openalex.org/W3121484186
+2405,Parasitology,Chikungunya virus adapts to tiger mosquito via evolutionary convergence: a sign of things to come?,https://doi.org/10.1186/1743-422x-5-33,2008,314,https://openalex.org/W1971606219
+2405,Parasitology,"African great apes are natural hosts of multiple related malaria species, including <i>Plasmodium falciparum</i>",https://doi.org/10.1073/pnas.0914440107,2010,240,https://openalex.org/W1964483295
+2405,Parasitology,"Review of Climate, Landscape, and Viral Genetics as Drivers of the Japanese Encephalitis Virus Ecology",https://doi.org/10.1371/journal.pntd.0002208,2013,232,https://openalex.org/W2062785850
+2303,Ecology,Prey preferences of the leopard (<i>Panthera pardus</i>),https://doi.org/10.1111/j.1469-7998.2006.00139.x,2006,577,https://openalex.org/W2105617237
+2303,Ecology,Bushmeat hunting and extinction risk to the world's mammals,https://doi.org/10.1098/rsos.160498,2016,568,https://openalex.org/W2539138036
+2303,Ecology,Importance of prophages to evolution and virulence of bacterial pathogens,https://doi.org/10.4161/viru.24498,2013,531,https://openalex.org/W2046861479
+1105,"Ecology, Evolution, Behavior and Systematics",Environmental variability supports chimpanzee behavioural diversity,https://doi.org/10.1038/s41467-020-18176-3,2020,386,https://openalex.org/W3084246142
+1105,"Ecology, Evolution, Behavior and Systematics",Senescence rates are determined by ranking on the fast–slow life‐history continuum,https://doi.org/10.1111/j.1461-0248.2008.01187.x,2008,347,https://openalex.org/W2161955428
+1105,"Ecology, Evolution, Behavior and Systematics","Changes in temperature and precipitation extremes in western central Africa, Guinea Conakry, and Zimbabwe, 1955–2006",https://doi.org/10.1029/2008jd011010,2009,327,https://openalex.org/W2046035648
+1312,Molecular Biology,A cloud-compatible bioinformatics pipeline for ultrarapid pathogen identification from next-generation sequencing of clinical samples,https://doi.org/10.1101/gr.171934.113,2014,478,https://openalex.org/W2137662380
+1312,Molecular Biology,Genetic diversity of the African malaria vector Anopheles gambiae,https://doi.org/10.1038/nature24995,2017,416,https://openalex.org/W2770432019
+1312,Molecular Biology,Global genetic diversity of<i>Aedes aegypti</i>,https://doi.org/10.1111/mec.13866,2016,270,https://openalex.org/W2525424881
+2746,Surgery,Peripartum cardiomyopathy: inflammatory markers as predictors of outcome in 100 prospectively studied patients,https://doi.org/10.1093/eurheartj/ehi481,2005,316,https://openalex.org/W2169410058
+2746,Surgery,Randomized clinical trial of observational <i>versus</i> antibiotic treatment for a first episode of CT-proven uncomplicated acute diverticulitis,https://doi.org/10.1002/bjs.10309,2016,300,https://openalex.org/W2525803483
+2746,Surgery,Immediate versus Postponed Intervention for Infected Necrotizing Pancreatitis,https://doi.org/10.1056/nejmoa2100826,2021,229,https://openalex.org/W3204102881
+2403,Immunology,Nef-Mediated Suppression of T Cell Activation Was Lost in a Lentiviral Lineage that Gave Rise to HIV-1,https://doi.org/10.1016/j.cell.2006.04.033,2006,421,https://openalex.org/W2063465748
+2403,Immunology,Antiinflammatory profiles during primary SIV infection in African green monkeys are associated with protection against AIDS,https://doi.org/10.1172/jci23006,2005,253,https://openalex.org/W2136654644
+2403,Immunology,First-Line Venetoclax Combinations in Chronic Lymphocytic Leukemia,https://doi.org/10.1056/nejmoa2213093,2023,245,https://openalex.org/W4376108172
+1110,Plant Science,Taxonomy of the order Mononegavirales: update 2016,https://doi.org/10.1007/s00705-016-2880-1,2016,494,https://openalex.org/W2397498130
+1110,Plant Science,A cloud-compatible bioinformatics pipeline for ultrarapid pathogen identification from next-generation sequencing of clinical samples,https://doi.org/10.1101/gr.171934.113,2014,478,https://openalex.org/W2137662380
+1110,Plant Science,Taxonomy of the order Mononegavirales: update 2019,https://doi.org/10.1007/s00705-019-04247-4,2019,325,https://openalex.org/W2946696497

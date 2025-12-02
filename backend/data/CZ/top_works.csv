@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1312,Molecular Biology,The MIQE Guidelines: Minimum Information for Publication of Quantitative Real-Time PCR Experiments,https://doi.org/10.1373/clinchem.2008.112797,2009,15287,https://openalex.org/W2168420558
+1312,Molecular Biology,Antiinflammatory Therapy with Canakinumab for Atherosclerotic Disease,https://doi.org/10.1056/nejmoa1707914,2017,8381,https://openalex.org/W2748400555
+1312,Molecular Biology,The DNA-damage response in human biology and disease,https://doi.org/10.1038/nature08467,2009,5782,https://openalex.org/W2145200068
+2505,Materials Chemistry,Crystallographic Computing System JANA2006: General features,https://doi.org/10.1515/zkri-2014-1737,2014,4509,https://openalex.org/W2327828477
+2505,Materials Chemistry,"Functionalization of Graphene: Covalent and Non-Covalent Approaches, Derivatives and Applications",https://doi.org/10.1021/cr3000412,2012,3941,https://openalex.org/W2166691312
+2505,Materials Chemistry,Cu and Cu-Based Nanoparticles: Synthesis and Applications in Catalysis,https://doi.org/10.1021/acs.chemrev.5b00482,2016,2712,https://openalex.org/W2290966472
+2208,Electrical and Electronic Engineering,"Functionalization of Graphene: Covalent and Non-Covalent Approaches, Derivatives and Applications",https://doi.org/10.1021/cr3000412,2012,3941,https://openalex.org/W2166691312
+2208,Electrical and Electronic Engineering,Mobile Edge Computing: A Survey on Architecture and Computation Offloading,https://doi.org/10.1109/comst.2017.2682318,2017,2798,https://openalex.org/W2594560857
+2208,Electrical and Electronic Engineering,Organometallic Halide Perovskites: Sharp Optical Absorption Edge and Its Relation to Photovoltaic Performance,https://doi.org/10.1021/jz500279b,2014,2654,https://openalex.org/W2078019609
+2204,Biomedical Engineering,Diagnostic criteria for multiple sclerosis: 2010 Revisions to the McDonald criteria,https://doi.org/10.1002/ana.22366,2011,9660,https://openalex.org/W2122545833
+2204,Biomedical Engineering,Surface Plasmon Resonance Sensors for Detection of Chemical and Biological Species,https://doi.org/10.1021/cr068107d,2008,4196,https://openalex.org/W2127159287
+2204,Biomedical Engineering,Targeted Temperature Management at 33°C versus 36°C after Cardiac Arrest,https://doi.org/10.1056/nejmoa1310519,2013,2676,https://openalex.org/W2171886225
+1110,Plant Science,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4839,https://openalex.org/W2110375946
+1110,Plant Science,Towards a unified paradigm for sequence‐based identification of fungi,https://doi.org/10.1111/mec.12481,2013,3483,https://openalex.org/W2160947363
+1110,Plant Science,Shifting the limits in wheat research and breeding using a fully annotated reference genome,https://doi.org/10.1126/science.aar7191,2018,3210,https://openalex.org/W2886785109
+2210,Mechanical Engineering,The influences of temperature and microstructure on the tensile properties of a CoCrFeMnNi high-entropy alloy,https://doi.org/10.1016/j.actamat.2013.06.018,2013,3058,https://openalex.org/W2066578528
+2210,Mechanical Engineering,Chemistry of persulfates in water and wastewater treatment: A review,https://doi.org/10.1016/j.cej.2017.07.132,2017,1744,https://openalex.org/W2736371272
+2210,Mechanical Engineering,Towards a standardization of biomethane potential tests,https://doi.org/10.2166/wst.2016.336,2016,874,https://openalex.org/W2483561765
+3107,"Atomic and Molecular Physics, and Optics",Gwyddion: an open-source software for SPM data analysis,https://doi.org/10.2478/s11534-011-0096-2,2011,4235,https://openalex.org/W2022315563
+3107,"Atomic and Molecular Physics, and Optics",The security of practical quantum key distribution,https://doi.org/10.1103/revmodphys.81.1301,2009,3357,https://openalex.org/W2121213780
+3107,"Atomic and Molecular Physics, and Optics",Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems,https://doi.org/10.1038/nature05678,2007,3163,https://openalex.org/W2058468006
+1702,Artificial Intelligence,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.1038/s41592-019-0686-2,2020,32755,https://openalex.org/W3003257820
+1702,Artificial Intelligence,Efficient Estimation of Word Representations in Vector Space,https://doi.org/10.48550/arxiv.1301.3781,2013,18000,https://openalex.org/W1614298861
+1702,Artificial Intelligence,Efficient Estimation of Word Representations in Vector Space,,2013,11711,https://openalex.org/W2950577311
+1605,Organic Chemistry,Cu and Cu-Based Nanoparticles: Synthesis and Applications in Catalysis,https://doi.org/10.1021/acs.chemrev.5b00482,2016,2712,https://openalex.org/W2290966472
+1605,Organic Chemistry,Improved Overall Survival in Melanoma with Combined Dabrafenib and Trametinib,https://doi.org/10.1056/nejmoa1412690,2014,2571,https://openalex.org/W1965370740
+1605,Organic Chemistry,"Broad Family of Carbon Nanoallotropes: Classification, Chemistry, and Applications of Fullerenes, Carbon Dots, Nanotubes, Graphene, Nanodiamonds, and Combined Superstructures",https://doi.org/10.1021/cr500304f,2015,1994,https://openalex.org/W2302202742
+2746,Surgery,Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction,https://doi.org/10.1056/nejmoa1911303,2019,6201,https://openalex.org/W2974260792
+2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5316,https://openalex.org/W2993259418
+2746,Surgery,Cardiovascular and Renal Outcomes with Empagliflozin in Heart Failure,https://doi.org/10.1056/nejmoa2022190,2020,4527,https://openalex.org/W3081830235

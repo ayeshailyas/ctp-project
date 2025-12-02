@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+2208,Electrical and Electronic Engineering,A roadmap for graphene,https://doi.org/10.1038/nature11458,2012,8910,https://openalex.org/W2163980958
+2208,Electrical and Electronic Engineering,Lead Iodide Perovskite Sensitized All-Solid-State Submicron Thin Film Mesoscopic Solar Cell with Efficiency Exceeding 9%,https://doi.org/10.1038/srep00591,2012,7802,https://openalex.org/W2169328609
+2208,Electrical and Electronic Engineering,Solvent engineering for high-performance inorganic–organic hybrid perovskite solar cells,https://doi.org/10.1038/nmat4014,2014,6457,https://openalex.org/W2011472471
+1312,Molecular Biology,Highly accurate protein structure prediction with AlphaFold,https://doi.org/10.1038/s41586-021-03819-2,2021,39232,https://openalex.org/W3177828909
+1312,Molecular Biology,A global reference for human genetic variation,https://doi.org/10.1038/nature15393,2015,18620,https://openalex.org/W2104549677
+1312,Molecular Biology,Interactive Tree Of Life (iTOL) v5: an online tool for phylogenetic tree display and annotation,https://doi.org/10.1093/nar/gkab301,2021,10415,https://openalex.org/W3156458251
+2505,Materials Chemistry,Highly accurate protein structure prediction with AlphaFold,https://doi.org/10.1038/s41586-021-03819-2,2021,39232,https://openalex.org/W3177828909
+2505,Materials Chemistry,The Chemistry and Applications of Metal-Organic Frameworks,https://doi.org/10.1126/science.1230444,2013,15465,https://openalex.org/W2141939342
+2505,Materials Chemistry,"Atomically Thin <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""> <mml:msub> <mml:mi>MoS</mml:mi> <mml:mn>2</mml:mn> </mml:msub> </mml:math> : A New Direct-Gap Semiconductor",https://doi.org/10.1103/physrevlett.105.136805,2010,14579,https://openalex.org/W2017871657
+2204,Biomedical Engineering,Large-scale pattern growth of graphene films for stretchable transparent electrodes,https://doi.org/10.1038/nature07719,2009,10325,https://openalex.org/W2099779584
+2204,Biomedical Engineering,Roll-to-roll production of 30-inch graphene films for transparent electrodes,https://doi.org/10.1038/nnano.2010.132,2010,7956,https://openalex.org/W2097773259
+2204,Biomedical Engineering,Alginate: Properties and biomedical applications,https://doi.org/10.1016/j.progpolymsci.2011.06.003,2011,7340,https://openalex.org/W1971500643
+2746,Surgery,Comprehensive molecular characterization of gastric adenocarcinoma,https://doi.org/10.1038/nature13480,2014,6215,https://openalex.org/W2126547130
+2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5316,https://openalex.org/W2993259418
+2746,Surgery,Cardiovascular and Renal Outcomes with Empagliflozin in Heart Failure,https://doi.org/10.1056/nejmoa2022190,2020,4527,https://openalex.org/W3081830235
+2210,Mechanical Engineering,Sodium-ion batteries: present and future,https://doi.org/10.1039/c6cs00776g,2017,4702,https://openalex.org/W2603442821
+2210,Mechanical Engineering,Maximizing the right stuff: The trade-off between membrane permeability and selectivity,https://doi.org/10.1126/science.aab0530,2017,2904,https://openalex.org/W2625153997
+2210,Mechanical Engineering,Advances in engineering hydrogels,https://doi.org/10.1126/science.aaf3627,2017,2602,https://openalex.org/W2610784388
+2740,Pulmonary and Respiratory Medicine,An Official ATS/ERS/JRS/ALAT Statement: Idiopathic Pulmonary Fibrosis: Evidence-based Guidelines for Diagnosis and Management,https://doi.org/10.1164/rccm.2009-040gl,2011,7038,https://openalex.org/W2167383172
+2740,Pulmonary and Respiratory Medicine,"Trastuzumab in combination with chemotherapy versus chemotherapy alone for treatment of HER2-positive advanced gastric or gastro-oesophageal junction cancer (ToGA): a phase 3, open-label, randomised controlled trial",https://doi.org/10.1016/s0140-6736(10)61121-x,2010,7033,https://openalex.org/W2100439220
+2740,Pulmonary and Respiratory Medicine,"Pembrolizumab versus docetaxel for previously treated, PD-L1-positive, advanced non-small-cell lung cancer (KEYNOTE-010): a randomised controlled trial",https://doi.org/10.1016/s0140-6736(15)01281-7,2015,6364,https://openalex.org/W2198093519
+2713,Epidemiology,Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock: 2016,https://doi.org/10.1007/s00134-017-4683-6,2017,6441,https://openalex.org/W3016555942
+2713,Epidemiology,"Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-years for 32 Cancer Groups, 1990 to 2015",https://doi.org/10.1001/jamaoncol.2016.5688,2016,6197,https://openalex.org/W2560322684
+2713,Epidemiology,Randomized Assessment of Rapid Endovascular Treatment of Ischemic Stroke,https://doi.org/10.1056/nejmoa1414905,2015,5858,https://openalex.org/W2171058244
+1705,Computer Networks and Communications,The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package<sup>*</sup>,https://doi.org/10.3847/1538-3881/aabc4f,2018,6288,https://openalex.org/W2888532099
+1705,Computer Networks and Communications,The Internet of Things for Health Care: A Comprehensive Survey,https://doi.org/10.1109/access.2015.2437951,2015,2878,https://openalex.org/W1943579973
+1705,Computer Networks and Communications,McPAT,https://doi.org/10.1145/1669112.1669172,2009,2339,https://openalex.org/W2170382128
+2730,Oncology,"Trastuzumab in combination with chemotherapy versus chemotherapy alone for treatment of HER2-positive advanced gastric or gastro-oesophageal junction cancer (ToGA): a phase 3, open-label, randomised controlled trial",https://doi.org/10.1016/s0140-6736(10)61121-x,2010,7033,https://openalex.org/W2100439220
+2730,Oncology,Atezolizumab plus Bevacizumab in Unresectable Hepatocellular Carcinoma,https://doi.org/10.1056/nejmoa1915745,2020,6390,https://openalex.org/W3025022288
+2730,Oncology,"Pembrolizumab versus docetaxel for previously treated, PD-L1-positive, advanced non-small-cell lung cancer (KEYNOTE-010): a randomised controlled trial",https://doi.org/10.1016/s0140-6736(15)01281-7,2015,6364,https://openalex.org/W2198093519

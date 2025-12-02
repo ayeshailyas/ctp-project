@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+2208,Electrical and Electronic Engineering,PVT v2: Improved baselines with pyramid vision transformer,https://doi.org/10.1007/s41095-022-0274-8,2022,1796,https://openalex.org/W3175515048
+2208,Electrical and Electronic Engineering,An overview of fuel cell technology: Fundamentals and applications,https://doi.org/10.1016/j.rser.2014.01.012,2014,1707,https://openalex.org/W2010922597
+2208,Electrical and Electronic Engineering,Reverse osmosis desalination: A state-of-the-art review,https://doi.org/10.1016/j.desal.2019.02.008,2019,1165,https://openalex.org/W2921691021
+1702,Artificial Intelligence,The Arithmetic Optimization Algorithm,https://doi.org/10.1016/j.cma.2020.113609,2021,2574,https://openalex.org/W3119051141
+1702,Artificial Intelligence,CE-Net: Context Encoder Network for 2D Medical Image Segmentation,https://doi.org/10.1109/tmi.2019.2903562,2019,2017,https://openalex.org/W2921406441
+1702,Artificial Intelligence,A Survey on Deep Learning for Named Entity Recognition,https://doi.org/10.1109/tkde.2020.2981314,2020,1336,https://openalex.org/W3011594683
+2204,Biomedical Engineering,Membrane distillation: A comprehensive review,https://doi.org/10.1016/j.desal.2011.08.027,2011,2482,https://openalex.org/W2048661822
+2204,Biomedical Engineering,A review on conventional and novel materials towards heavy metal adsorption in wastewater treatment application,https://doi.org/10.1016/j.jclepro.2021.126589,2021,1215,https://openalex.org/W3134056156
+2204,Biomedical Engineering,Reverse osmosis desalination: A state-of-the-art review,https://doi.org/10.1016/j.desal.2019.02.008,2019,1165,https://openalex.org/W2921691021
+3312,Sociology and Political Science,The Delphi Method for Graduate Research,https://doi.org/10.28945/199,2007,1775,https://openalex.org/W2148858459
+3312,Sociology and Political Science,Renewable energy and climate change,https://doi.org/10.1016/j.rser.2022.112111,2022,1359,https://openalex.org/W4210464014
+3312,Sociology and Political Science,COVID-19 vaccine acceptance and hesitancy in low- and middle-income countries,https://doi.org/10.1038/s41591-021-01454-y,2021,1088,https://openalex.org/W3182978015
+1312,Molecular Biology,"Short-Term Effects of Nose-Only Cigarette Smoke Exposure on Glutathione Redox Homeostasis, Cytochrome P450 1A1/2 and Respiratory Enzyme Activities in Mice Tissues",https://doi.org/10.1159/000350087,2013,47283,https://openalex.org/W2018289835
+1312,Molecular Biology,Guidelines for the use and interpretation of assays for monitoring autophagy (4th edition)<sup>1</sup>,https://doi.org/10.1080/15548627.2020.1797280,2021,2351,https://openalex.org/W3108936441
+1312,Molecular Biology,Whole-genome analyses resolve early branches in the tree of life of modern birds,https://doi.org/10.1126/science.1253451,2014,1941,https://openalex.org/W2119837484
+2210,Mechanical Engineering,"Topology-mechanical property relationship of 3D printed strut, skeletal, and sheet based periodic metallic cellular materials",https://doi.org/10.1016/j.addma.2017.12.006,2017,849,https://openalex.org/W2774200541
+2210,Mechanical Engineering,Multifunctional Mechanical Metamaterials Based on Triply Periodic Minimal Surface Lattices,https://doi.org/10.1002/adem.201900524,2019,695,https://openalex.org/W2961886349
+2210,Mechanical Engineering,A review of polymeric membranes and processes for potable water reuse,https://doi.org/10.1016/j.progpolymsci.2018.01.004,2018,676,https://openalex.org/W2793344462
+1705,Computer Networks and Communications,"IoT security: Review, blockchain solutions, and open challenges",https://doi.org/10.1016/j.future.2017.11.022,2017,2356,https://openalex.org/W2768696376
+1705,Computer Networks and Communications,Internet of things and supply chain management: a literature review,https://doi.org/10.1080/00207543.2017.1402140,2017,1287,https://openalex.org/W2769593477
+1705,Computer Networks and Communications,Blockchain for AI: Review and Open Research Challenges,https://doi.org/10.1109/access.2018.2890507,2019,930,https://openalex.org/W2907683311
+1710,Information Systems,"IoT security: Review, blockchain solutions, and open challenges",https://doi.org/10.1016/j.future.2017.11.022,2017,2356,https://openalex.org/W2768696376
+1710,Information Systems,COVID-19: 20 countries’ higher education intra-period digital pedagogy responses,https://doi.org/10.37074/jalt.2020.3.1.7,2020,1874,https://openalex.org/W3017735571
+1710,Information Systems,The Delphi Method for Graduate Research,https://doi.org/10.28945/199,2007,1775,https://openalex.org/W2148858459
+2505,Materials Chemistry,Functionalized graphene sheets for polymer nanocomposites,https://doi.org/10.1038/nnano.2008.96,2008,3412,https://openalex.org/W2146082910
+2505,Materials Chemistry,Scientific discovery in the age of artificial intelligence,https://doi.org/10.1038/s41586-023-06221-2,2023,1197,https://openalex.org/W4385490607
+2505,Materials Chemistry,Health Impact of Silver Nanoparticles: A Review of the Biodistribution and Toxicity Following Various Routes of Exposure,https://doi.org/10.3390/ijms21072375,2020,895,https://openalex.org/W3013181597
+2002,Economics and Econometrics,"Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-Years for 29 Cancer Groups, 1990 to 2016",https://doi.org/10.1001/jamaoncol.2018.2706,2018,1490,https://openalex.org/W2991564522
+2002,Economics and Econometrics,Green innovation and organizational performance: The influence of big data and the moderating role of management commitment and HR practices,https://doi.org/10.1016/j.techfore.2017.12.016,2018,1134,https://openalex.org/W2781675825
+2002,Economics and Econometrics,A living WHO guideline on drugs for covid-19,https://doi.org/10.1136/bmj.m3379,2020,1045,https://openalex.org/W3081745349

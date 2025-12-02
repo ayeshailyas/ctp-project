@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+2303,Ecology,Cell Biology of Cnidarian-Dinoflagellate Symbiosis,https://doi.org/10.1128/mmbr.05014-11,2012,1047,https://openalex.org/W2126740791
+2303,Ecology,Heterotrophy in Tropical Scleractinian Corals,https://doi.org/10.1111/j.1469-185x.2008.00058.x,2008,722,https://openalex.org/W1566050962
+2303,Ecology,Environmental performance of blue foods,https://doi.org/10.1038/s41586-021-03889-2,2021,536,https://openalex.org/W3194357643
+1910,Oceanography,Impacts of ocean acidification on marine fauna and ecosystem processes,https://doi.org/10.1093/icesjms/fsn048,2008,2050,https://openalex.org/W2098759916
+1910,Oceanography,Global Bathymetry and Elevation Data at 30 Arc Seconds Resolution: SRTM30_PLUS,https://doi.org/10.1080/01490410903297766,2009,1525,https://openalex.org/W2060405276
+1910,Oceanography,Contrasting futures for ocean and society from different anthropogenic CO <sub>2</sub> emissions scenarios,https://doi.org/10.1126/science.aac4722,2015,1354,https://openalex.org/W2081395300
+2306,Global and Planetary Change,Impacts of ocean acidification on marine fauna and ecosystem processes,https://doi.org/10.1093/icesjms/fsn048,2008,2050,https://openalex.org/W2098759916
+2306,Global and Planetary Change,Contrasting futures for ocean and society from different anthropogenic CO <sub>2</sub> emissions scenarios,https://doi.org/10.1126/science.aac4722,2015,1354,https://openalex.org/W2081395300
+2306,Global and Planetary Change,Feed Matters: Satisfying the Feed Demand of Aquaculture,https://doi.org/10.1080/23308249.2014.987209,2015,590,https://openalex.org/W2022280799
+2705,Cardiology and Cardiovascular Medicine,2023 ESH Guidelines for the management of arterial hypertension The Task Force for the management of arterial hypertension of the European Society of Hypertension,https://doi.org/10.1097/hjh.0000000000003480,2023,2394,https://openalex.org/W4381598483
+2705,Cardiology and Cardiovascular Medicine,Registry of Transcatheter Aortic-Valve Implantation in High-Risk Patients,https://doi.org/10.1056/nejmoa1114705,2012,1210,https://openalex.org/W2108007523
+2705,Cardiology and Cardiovascular Medicine,Sports injuries and illnesses during the London Summer Olympic Games 2012,https://doi.org/10.1136/bjsports-2013-092380,2013,714,https://openalex.org/W2162870842
+2746,Surgery,"Ultrasound renal denervation for hypertension resistant to a triple medication pill (RADIANCE-HTN TRIO): a randomised, multicentre, single-blind, sham-controlled trial",https://doi.org/10.1016/s0140-6736(21)00788-1,2021,357,https://openalex.org/W3161121126
+2746,Surgery,Coronary Artery Bypass Surgery With or Without Mitral Valve Annuloplasty in Moderate Functional Ischemic Mitral Regurgitation,https://doi.org/10.1161/circulationaha.112.143818,2012,325,https://openalex.org/W2117846884
+2746,Surgery,Assessment of intracranial translucency (IT) in the detection of spina bifida at the 11–13‐week scan,https://doi.org/10.1002/uog.7329,2009,312,https://openalex.org/W2117003820
+2740,Pulmonary and Respiratory Medicine,Registry of Transcatheter Aortic-Valve Implantation in High-Risk Patients,https://doi.org/10.1056/nejmoa1114705,2012,1210,https://openalex.org/W2108007523
+2740,Pulmonary and Respiratory Medicine,Prognostic Accuracy of Sepsis-3 Criteria for In-Hospital Mortality Among Patients With Suspected Infection Presenting to the Emergency Department,https://doi.org/10.1001/jama.2016.20329,2017,681,https://openalex.org/W2581766282
+2740,Pulmonary and Respiratory Medicine,Sports injuries and illnesses during the Winter Olympic Games 2010,https://doi.org/10.1136/bjsm.2010.076992,2010,346,https://openalex.org/W2146101229
+2307,"Health, Toxicology and Mutagenesis",Human Health and Ocean Pollution,https://doi.org/10.5334/aogh.2831,2020,658,https://openalex.org/W3108665729
+2307,"Health, Toxicology and Mutagenesis",The Minderoo-Monaco Commission on Plastics and Human Health,https://doi.org/10.5334/aogh.4056,2023,320,https://openalex.org/W4352994034
+2307,"Health, Toxicology and Mutagenesis",Consensus recommendations on training and competing in the heat,https://doi.org/10.1136/bjsports-2015-094915,2015,314,https://openalex.org/W2118410993
+1312,Molecular Biology,Pharmaceutical pollution of the world’s rivers,https://doi.org/10.1073/pnas.2113947119,2022,1249,https://openalex.org/W4212893393
+1312,Molecular Biology,Disrupting proton dynamics and energy metabolism for cancer therapy,https://doi.org/10.1038/nrc3579,2013,580,https://openalex.org/W1981233558
+1312,Molecular Biology,Review article: yeast as probiotics –<i>Saccharomyces boulardii</i>,https://doi.org/10.1111/j.1365-2036.2007.03442.x,2007,546,https://openalex.org/W2128822399
+2713,Epidemiology,Registry of Transcatheter Aortic-Valve Implantation in High-Risk Patients,https://doi.org/10.1056/nejmoa1114705,2012,1210,https://openalex.org/W2108007523
+2713,Epidemiology,Prognostic Accuracy of Sepsis-3 Criteria for In-Hospital Mortality Among Patients With Suspected Infection Presenting to the Emergency Department,https://doi.org/10.1001/jama.2016.20329,2017,681,https://openalex.org/W2581766282
+2713,Epidemiology,Registry of Transcatheter Aortic-Valve Implantation in High-Risk Patients,https://doi.org/10.1097/01.sa.0000426523.25196.4e,2013,453,https://openalex.org/W2322912600
+2310,Pollution,Pharmaceutical pollution of the world’s rivers,https://doi.org/10.1073/pnas.2113947119,2022,1249,https://openalex.org/W4212893393
+2310,Pollution,Human Health and Ocean Pollution,https://doi.org/10.5334/aogh.2831,2020,658,https://openalex.org/W3108665729
+2310,Pollution,Microplastics and nanoplastics in the marine-atmosphere environment,https://doi.org/10.1038/s43017-022-00292-x,2022,374,https://openalex.org/W4280638074

@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+2505,Materials Chemistry,Two-dimensional gas of massless Dirac fermions in graphene,https://doi.org/10.1038/nature04233,2005,20951,https://openalex.org/W2125284466
+2505,Materials Chemistry,Two-dimensional atomic crystals,https://doi.org/10.1073/pnas.0502848102,2005,11309,https://openalex.org/W2134233006
+2505,Materials Chemistry,Detection of individual gas molecules adsorbed on graphene,https://doi.org/10.1038/nmat1967,2007,7814,https://openalex.org/W2088321686
+2208,Electrical and Electronic Engineering,Detection of individual gas molecules adsorbed on graphene,https://doi.org/10.1038/nmat1967,2007,7814,https://openalex.org/W2088321686
+2208,Electrical and Electronic Engineering,Trends in the Exchange Current for Hydrogen Evolution,https://doi.org/10.1149/1.1856988,2005,5399,https://openalex.org/W2022714449
+2208,Electrical and Electronic Engineering,Control of Graphene's Properties by Reversible Hydrogenation: Evidence for Graphane,https://doi.org/10.1126/science.1167130,2009,4091,https://openalex.org/W2126421651
+2210,Mechanical Engineering,Principles of equal-channel angular pressing as a processing tool for grain refinement,https://doi.org/10.1016/j.pmatsci.2006.02.003,2006,4050,https://openalex.org/W1963681996
+2210,Mechanical Engineering,Using high-pressure torsion for metal processing: Fundamentals and applications,https://doi.org/10.1016/j.pmatsci.2008.03.002,2008,2901,https://openalex.org/W2038210910
+2210,Mechanical Engineering,"Dynamic and post-dynamic recrystallization under hot, cold and severe plastic deformation conditions",https://doi.org/10.1016/j.pmatsci.2013.09.002,2013,2510,https://openalex.org/W2013289273
+3107,"Atomic and Molecular Physics, and Optics",Two-dimensional gas of massless Dirac fermions in graphene,https://doi.org/10.1038/nature04233,2005,20951,https://openalex.org/W2125284466
+3107,"Atomic and Molecular Physics, and Optics",LOBSTER: A tool to extract chemical bonding from plane‐wave based DFT,https://doi.org/10.1002/jcc.24300,2016,3011,https://openalex.org/W2282942319
+3107,"Atomic and Molecular Physics, and Optics",Crystal Orbital Hamilton Population (COHP) Analysis As Projected from Plane-Wave Basis Sets,https://doi.org/10.1021/jp202489s,2011,2825,https://openalex.org/W2322232911
+1312,Molecular Biology,SPAdes: A New Genome Assembly Algorithm and Its Applications to Single-Cell Sequencing,https://doi.org/10.1089/cmb.2012.0021,2012,25240,https://openalex.org/W2120902911
+1312,Molecular Biology,A method and server for predicting damaging missense mutations,https://doi.org/10.1038/nmeth0410-248,2010,13175,https://openalex.org/W2059145105
+1312,Molecular Biology,QUAST: quality assessment tool for genome assemblies,https://doi.org/10.1093/bioinformatics/btt086,2013,10055,https://openalex.org/W2107772251
+2204,Biomedical Engineering,Domain-Adversarial Training of Neural Networks,https://doi.org/10.1007/978-3-319-58347-1_10,2017,7395,https://openalex.org/W1731081199
+2204,Biomedical Engineering,Alternative Plasmonic Materials: Beyond Gold and Silver,https://doi.org/10.1002/adma.201205076,2013,2216,https://openalex.org/W2115607954
+2204,Biomedical Engineering,Gold nanoparticles in biomedical applications: recent advances and perspectives,https://doi.org/10.1039/c1cs15166e,2011,1864,https://openalex.org/W2129998516
+2211,Mechanics of Materials,"Dynamic and post-dynamic recrystallization under hot, cold and severe plastic deformation conditions",https://doi.org/10.1016/j.pmatsci.2013.09.002,2013,2510,https://openalex.org/W2013289273
+2211,Mechanics of Materials,Extreme grain refinement by severe plastic deformation: A wealth of challenging science,https://doi.org/10.1016/j.actamat.2012.10.038,2013,1761,https://openalex.org/W2040395615
+2211,Mechanics of Materials,Estimations of Clarkes for Carbonaceous biolithes: World averages for trace element contents in black shales and coals,https://doi.org/10.1016/j.coal.2009.01.002,2009,1360,https://openalex.org/W2093750105
+1605,Organic Chemistry,Improved Overall Survival in Melanoma with Combined Dabrafenib and Trametinib,https://doi.org/10.1056/nejmoa1412690,2014,2571,https://openalex.org/W1965370740
+1605,Organic Chemistry,"Transition-Metal-Catalyzed C−S, C−Se, and C−Te Bond Formation via Cross-Coupling and Atom-Economic Addition Reactions",https://doi.org/10.1021/cr100347k,2011,1619,https://openalex.org/W1975170017
+1605,Organic Chemistry,Adsorption of heavy metals on conventional and nanostructured materials for wastewater treatment purposes: A review,https://doi.org/10.1016/j.ecoenv.2017.11.034,2017,1525,https://openalex.org/W2770385631
+3106,Nuclear and High Energy Physics,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.1038/s41592-019-0686-2,2020,32755,https://openalex.org/W3003257820
+3106,Nuclear and High Energy Physics,Observation of Gravitational Waves from a Binary Black Hole Merger,https://doi.org/10.1103/physrevlett.116.061102,2016,13370,https://openalex.org/W2252795400
+3106,Nuclear and High Energy Physics,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.17863/cam.64134,2019,11500,https://openalex.org/W3103145119
+3312,Sociology and Political Science,Why Are There Still So Many Jobs? The History and Future of Workplace Automation,https://doi.org/10.1257/jep.29.3.3,2015,3126,https://openalex.org/W1821977771
+3312,Sociology and Political Science,The benefits of playing video games.,https://doi.org/10.1037/a0034857,2013,2257,https://openalex.org/W2063077274
+3312,Sociology and Political Science,"Trump, Brexit, and the Rise of Populism: Economic Have-Nots and Cultural Backlash",https://doi.org/10.2139/ssrn.2818659,2016,1812,https://openalex.org/W2483961605

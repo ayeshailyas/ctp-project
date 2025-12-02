@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1110,Plant Science,Roles of glycine betaine and proline in improving plant abiotic stress resistance,https://doi.org/10.1016/j.envexpbot.2005.12.006,2006,4516,https://openalex.org/W2057433097
+1110,Plant Science,"Plant drought stress: effects, mechanisms and management",https://doi.org/10.1051/agro:2008021,2008,3833,https://openalex.org/W1975220728
+1110,Plant Science,Heat tolerance in plants: An overview,https://doi.org/10.1016/j.envexpbot.2007.05.011,2007,3780,https://openalex.org/W2115921954
+2208,Electrical and Electronic Engineering,Recent advancements in supercapacitor technology,https://doi.org/10.1016/j.nanoen.2018.08.013,2018,1723,https://openalex.org/W2885167492
+2208,Electrical and Electronic Engineering,Electrocatalytic oxygen evolution reaction for energy conversion and storage: A comprehensive review,https://doi.org/10.1016/j.nanoen.2017.05.022,2017,1596,https://openalex.org/W2613955866
+2208,Electrical and Electronic Engineering,Progress in Flow Battery Research and Development,https://doi.org/10.1149/1.3599565,2011,1400,https://openalex.org/W1963712116
+1312,Molecular Biology,Roles of glycine betaine and proline in improving plant abiotic stress resistance,https://doi.org/10.1016/j.envexpbot.2005.12.006,2006,4516,https://openalex.org/W2057433097
+1312,Molecular Biology,Reactive Oxygen Species and Antioxidant Defense in Plants under Abiotic Stress: Revisiting the Crucial Role of a Universal Defense Regulator,https://doi.org/10.3390/antiox9080681,2020,2439,https://openalex.org/W3046014324
+1312,Molecular Biology,Industrial applications of microbial lipases,https://doi.org/10.1016/j.enzmictec.2005.10.016,2005,1906,https://openalex.org/W2046703733
+2204,Biomedical Engineering,"Nanoparticles: Properties, applications and toxicities",https://doi.org/10.1016/j.arabjc.2017.05.011,2017,6333,https://openalex.org/W2616129231
+2204,Biomedical Engineering,Boundary-layer flow of a nanofluid past a stretching sheet,https://doi.org/10.1016/j.ijheatmasstransfer.2010.01.032,2010,2238,https://openalex.org/W2030190859
+2204,Biomedical Engineering,Industrial applications of microbial lipases,https://doi.org/10.1016/j.enzmictec.2005.10.016,2005,1906,https://openalex.org/W2046703733
+2746,Surgery,"Global, regional, and national disease burden estimates of acute lower respiratory infections due to respiratory syncytial virus in young children in 2015: a systematic review and modelling study",https://doi.org/10.1016/s0140-6736(17)30938-8,2017,2264,https://openalex.org/W2727509207
+2746,Surgery,"Use of secondary prevention drugs for cardiovascular disease in the community in high-income, middle-income, and low-income countries (the PURE Study): a prospective epidemiological survey",https://doi.org/10.1016/s0140-6736(11)61215-4,2011,964,https://openalex.org/W2098194481
+2746,Surgery,The power of genetic diversity in genome-wide association studies of lipids,https://doi.org/10.1038/s41586-021-04064-3,2021,924,https://openalex.org/W3205644245
+2505,Materials Chemistry,"Nanoparticles: Properties, applications and toxicities",https://doi.org/10.1016/j.arabjc.2017.05.011,2017,6333,https://openalex.org/W2616129231
+2505,Materials Chemistry,"Synthesis, characterization, applications, and challenges of iron oxide nanoparticles",https://doi.org/10.2147/nsa.s99986,2016,1458,https://openalex.org/W2513417361
+2505,Materials Chemistry,Metal–organic frameworks: versatile heterogeneous catalysts for efficient catalytic organic transformations,https://doi.org/10.1039/c4cs00395k,2015,1348,https://openalex.org/W2130283800
+2713,Epidemiology,"IDF Diabetes Atlas: Global, regional and country-level diabetes prevalence estimates for 2021 and projections for 2045",https://doi.org/10.1016/j.diabres.2021.109119,2021,8351,https://openalex.org/W4200026682
+2713,Epidemiology,"Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-years for 32 Cancer Groups, 1990 to 2015",https://doi.org/10.1001/jamaoncol.2016.5688,2016,6197,https://openalex.org/W2560322684
+2713,Epidemiology,Evidence-based interventions for improvement of maternal and child nutrition: what can be done and at what cost?,https://doi.org/10.1016/s0140-6736(13)60996-4,2013,2916,https://openalex.org/W2133699833
+1702,Artificial Intelligence,State-of-the-art in artificial neural network applications: A survey,https://doi.org/10.1016/j.heliyon.2018.e00938,2018,2803,https://openalex.org/W2901312569
+1702,Artificial Intelligence,A Novel Connectionist System for Unconstrained Handwriting Recognition,https://doi.org/10.1109/tpami.2008.137,2009,1958,https://openalex.org/W2122585011
+1702,Artificial Intelligence,Can AI Help in Screening Viral and COVID-19 Pneumonia?,https://doi.org/10.1109/access.2020.3010287,2020,1814,https://openalex.org/W3013277995
+3312,Sociology and Political Science,Global prevalence of dementia: a Delphi consensus study,https://doi.org/10.1016/s0140-6736(05)67889-0,2005,5277,https://openalex.org/W2014886338
+3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2957,https://openalex.org/W2161411308
+3312,Sociology and Political Science,Dengue: a continuing global threat,https://doi.org/10.1038/nrmicro2460,2010,2000,https://openalex.org/W2042479028
+2002,Economics and Econometrics,Global prevalence of dementia: a Delphi consensus study,https://doi.org/10.1016/s0140-6736(05)67889-0,2005,5277,https://openalex.org/W2014886338
+2002,Economics and Econometrics,"Global, Regional, and National Burden of Cardiovascular Diseases for 10 Causes, 1990 to 2015",https://doi.org/10.1016/j.jacc.2017.04.052,2017,3699,https://openalex.org/W2614578122
+2002,Economics and Econometrics,The burden and costs of chronic diseases in low-income and middle-income countries,https://doi.org/10.1016/s0140-6736(07)61696-1,2007,1594,https://openalex.org/W1987313755

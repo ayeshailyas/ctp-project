@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1110,Plant Science,A critical review on intelligent and active packaging in the food industry: Research and development,https://doi.org/10.1016/j.foodres.2021.110113,2021,490,https://openalex.org/W3121030829
+1110,Plant Science,Evaluation of Chlorophyll Content and Fluorescence Parameters as Indicators of Drought Tolerance in Barley,https://doi.org/10.1016/s1671-2927(06)60120-x,2006,464,https://openalex.org/W1975485061
+1110,Plant Science,"Mosses of the Mediterranean, an Annotated Checklist",https://doi.org/10.7872/cryb.v34.iss2.2013.99,2013,421,https://openalex.org/W2152308249
+2746,Surgery,Screening programmes for the early detection and prevention of oral cancer,https://doi.org/10.1002/14651858.cd004150.pub4,2013,451,https://openalex.org/W2611901831
+2746,Surgery,Factors associated with early and late failure of dental implants,https://doi.org/10.1111/j.2041-1626.2012.00162.x,2012,291,https://openalex.org/W1991490059
+2746,Surgery,Phytosterols: From Preclinical Evidence to Potential Clinical Applications,https://doi.org/10.3389/fphar.2020.599959,2021,261,https://openalex.org/W3119957195
+1312,Molecular Biology,"Factors affecting the composition of the gut microbiota, and its modulation",https://doi.org/10.7717/peerj.7502,2019,693,https://openalex.org/W2967392987
+1312,Molecular Biology,Selection of candidate coding DNA barcoding regions for use on land plants,https://doi.org/10.1111/j.1095-8339.2008.00938.x,2009,303,https://openalex.org/W1968979024
+1312,Molecular Biology,"Current Trends on Seaweeds: Looking at Chemical Composition, Phytopharmacology, and Cosmetic Applications",https://doi.org/10.3390/molecules24224182,2019,275,https://openalex.org/W2988965860
+2208,Electrical and Electronic Engineering,Data imbalance in classification: Experimental evaluation,https://doi.org/10.1016/j.ins.2019.11.004,2019,752,https://openalex.org/W2989219518
+2208,Electrical and Electronic Engineering,A Survey on Power System Blackout and Cascading Events: Research Motivations and Challenges,https://doi.org/10.3390/en12040682,2019,592,https://openalex.org/W2915350869
+2208,Electrical and Electronic Engineering,"Challenges and Opportunities of Load Frequency Control in Conventional, Modern and Future Smart Power Systems: A Comprehensive Review",https://doi.org/10.3390/en11102497,2018,334,https://openalex.org/W2890216498
+2740,Pulmonary and Respiratory Medicine,Allergic Rhinitis and its Impact on Asthma (ARIA) 2008*,https://doi.org/10.1111/j.1398-9995.2007.01620.x,2008,4600,https://openalex.org/W2164132449
+2740,Pulmonary and Respiratory Medicine,"Uniform definition of asthma severity, control, and exacerbations: Document presented for the World Health Organization Consultation on Severe Asthma",https://doi.org/10.1016/j.jaci.2010.07.019,2010,725,https://openalex.org/W2031494108
+2740,Pulmonary and Respiratory Medicine,The Clinical Utilization of Circulating Cell Free DNA (CCFDNA) in Blood of Cancer Patients,https://doi.org/10.3390/ijms140918925,2013,235,https://openalex.org/W2052352830
+2713,Epidemiology,Trends in Renal-Cell Carcinoma Incidence and Mortality in the United States in the Last 2 Decades: A SEER-Based Study,https://doi.org/10.1016/j.clgc.2018.10.002,2018,192,https://openalex.org/W2897061121
+2713,Epidemiology,The outbreak of monkeypox 2022: An overview,https://doi.org/10.1016/j.amsu.2022.104069,2022,190,https://openalex.org/W4283367825
+2713,Epidemiology,"The neglected hepatitis C virus genotypes 4, 5 and 6: an international consensus report",https://doi.org/10.1111/j.1478-3231.2009.02188.x,2009,182,https://openalex.org/W2015740979
+3504,Oral Surgery,Factors associated with early and late failure of dental implants,https://doi.org/10.1111/j.2041-1626.2012.00162.x,2012,291,https://openalex.org/W1991490059
+3504,Oral Surgery,The effect of low-level laser therapy during orthodontic movement: a preliminary study,https://doi.org/10.1007/s10103-007-0449-7,2007,287,https://openalex.org/W2131918380
+3504,Oral Surgery,Management of Intracanal Separated Instruments,https://doi.org/10.1016/j.joen.2012.12.033,2013,171,https://openalex.org/W1989368152
+2505,Materials Chemistry,Hansen solubility parameter as a tool to predict cocrystal formation,https://doi.org/10.1016/j.ijpharm.2011.01.030,2011,496,https://openalex.org/W1970977603
+2505,Materials Chemistry,Microwave absorbing properties of ferrites and their composites: A review,https://doi.org/10.1016/j.jmmm.2021.167839,2021,398,https://openalex.org/W3130852421
+2505,Materials Chemistry,Review on the addition of boron compounds to radiation shielding concrete,https://doi.org/10.1016/j.pnucene.2010.09.012,2010,192,https://openalex.org/W2054608080
+2739,"Public Health, Environmental and Occupational Health","Prevalence and Distribution of E-Cigarette Use Among U.S. Adults: Behavioral Risk Factor Surveillance System, 2016",https://doi.org/10.7326/m17-3440,2018,327,https://openalex.org/W2889528655
+2739,"Public Health, Environmental and Occupational Health",Relation of the Mediterranean diet with the incidence of gestational diabetes,https://doi.org/10.1038/ejcn.2013.177,2013,187,https://openalex.org/W1979551585
+2739,"Public Health, Environmental and Occupational Health",Effect of Postnatal Home Visits on Maternal/Infant Outcomes in Syria: A Randomized Controlled Trial,https://doi.org/10.1111/j.1525-1446.2008.00688.x,2008,146,https://openalex.org/W2140446607
+2204,Biomedical Engineering,Properties and medical applications of polylactic acid: A review,https://doi.org/10.3144/expresspolymlett.2015.42,2015,682,https://openalex.org/W2332891049
+2204,Biomedical Engineering,"Polylactic acid blends: The future of green, light and tough",https://doi.org/10.1016/j.progpolymsci.2018.07.001,2018,586,https://openalex.org/W2884666801
+2204,Biomedical Engineering,A critical review on intelligent and active packaging in the food industry: Research and development,https://doi.org/10.1016/j.foodres.2021.110113,2021,490,https://openalex.org/W3121030829

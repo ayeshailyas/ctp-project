@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1312,Molecular Biology,Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2,https://doi.org/10.1186/s13059-014-0550-8,2014,90778,https://openalex.org/W2179438025
+1312,Molecular Biology,Fiji: an open-source platform for biological-image analysis,https://doi.org/10.1038/nmeth.2019,2012,65110,https://openalex.org/W2167279371
+1312,Molecular Biology,The Sequence Alignment/Map format and SAMtools,https://doi.org/10.1093/bioinformatics/btp352,2009,63002,https://openalex.org/W2108234281
+2746,Surgery,"Global cancer statistics, 2012",https://doi.org/10.3322/caac.21262,2015,27172,https://openalex.org/W2917837889
+2746,Surgery,The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3),https://doi.org/10.1001/jama.2016.0287,2016,25256,https://openalex.org/W2280404143
+2746,Surgery,Induction of Pluripotent Stem Cells from Adult Human Fibroblasts by Defined Factors,https://doi.org/10.1016/j.cell.2007.11.019,2007,19721,https://openalex.org/W2138977668
+2208,Electrical and Electronic Engineering,QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials,https://doi.org/10.1088/0953-8984/21/39/395502,2009,27468,https://openalex.org/W2120145199
+2208,Electrical and Electronic Engineering,The electronic properties of graphene,https://doi.org/10.1103/revmodphys.81.109,2009,23781,https://openalex.org/W2105685140
+2208,Electrical and Electronic Engineering,SSD: Single Shot MultiBox Detector,https://doi.org/10.1007/978-3-319-46448-0_2,2016,19027,https://openalex.org/W2193145675
+3312,Sociology and Political Science,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1136/bmj.n71,2021,75073,https://openalex.org/W3118615836
+3312,Sociology and Political Science,PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation,https://doi.org/10.7326/m18-0850,2018,33210,https://openalex.org/W2891378911
+3312,Sociology and Political Science,RoB 2: a revised tool for assessing risk of bias in randomised trials,https://doi.org/10.1136/bmj.l4898,2019,25597,https://openalex.org/W2970684805
+2713,Epidemiology,Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries,https://doi.org/10.3322/caac.21660,2021,107145,https://openalex.org/W3128646645
+2713,Epidemiology,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1136/bmj.n71,2021,75073,https://openalex.org/W3118615836
+2713,Epidemiology,Global cancer statistics,https://doi.org/10.3322/caac.20107,2011,54917,https://openalex.org/W2106787323
+2204,Biomedical Engineering,"Physisorption of gases, with special reference to the evaluation of surface area and pore size distribution (IUPAC Technical Report)",https://doi.org/10.1515/pac-2014-1117,2015,17641,https://openalex.org/W843007777
+2204,Biomedical Engineering,"<i>ATHENA</i>,<i>ARTEMIS</i>,<i>HEPHAESTUS</i>: data analysis for X-ray absorption spectroscopy using<i>IFEFFIT</i>",https://doi.org/10.1107/s0909049505012719,2005,15541,https://openalex.org/W2070227796
+2204,Biomedical Engineering,Synthesis of graphene-based nanosheets via chemical reduction of exfoliated graphite oxide,https://doi.org/10.1016/j.carbon.2007.02.034,2007,13532,https://openalex.org/W2128654538
+2740,Pulmonary and Respiratory Medicine,New response evaluation criteria in solid tumours: Revised RECIST guideline (version 1.1),https://doi.org/10.1016/j.ejca.2008.10.026,2008,27873,https://openalex.org/W2019607817
+2740,Pulmonary and Respiratory Medicine,Ferroptosis: An Iron-Dependent Form of Nonapoptotic Cell Death,https://doi.org/10.1016/j.cell.2012.03.042,2012,16046,https://openalex.org/W1997183854
+2740,Pulmonary and Respiratory Medicine,"Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease",https://doi.org/10.1164/rccm.201204-0596pp,2012,15998,https://openalex.org/W2127951128
+2505,Materials Chemistry,"AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading",https://doi.org/10.1002/jcc.21334,2009,33599,https://openalex.org/W2134967712
+2505,Materials Chemistry,"The M06 suite of density functionals for main group thermochemistry, thermochemical kinetics, noncovalent interactions, excited states, and transition elements: two new functionals and systematic testing of four M06-class functionals and 12 other functionals",https://doi.org/10.1007/s00214-007-0310-x,2007,28551,https://openalex.org/W2150697053
+2505,Materials Chemistry,Features and development of <i>Coot</i>,https://doi.org/10.1107/s0907444910007493,2010,27988,https://openalex.org/W2124026197
+2739,"Public Health, Environmental and Occupational Health",GRADE: an emerging consensus on rating quality of evidence and strength of recommendations,https://doi.org/10.1136/bmj.39489.470347.ad,2008,19797,https://openalex.org/W2165010366
+2739,"Public Health, Environmental and Occupational Health","Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017",https://doi.org/10.1016/s0140-6736(18)32279-7,2018,13323,https://openalex.org/W2912654919
+2739,"Public Health, Environmental and Occupational Health",CONSORT 2010 Statement: updated guidelines for reporting parallel group randomised trials,https://doi.org/10.1186/1741-7015-8-18,2010,13237,https://openalex.org/W2108696783
+2730,Oncology,Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries,https://doi.org/10.3322/caac.21660,2021,107145,https://openalex.org/W3128646645
+2730,Oncology,Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries,https://doi.org/10.3322/caac.21492,2018,86063,https://openalex.org/W2889646458
+2730,Oncology,Hallmarks of Cancer: The Next Generation,https://doi.org/10.1016/j.cell.2011.02.013,2011,64064,https://openalex.org/W2117692326

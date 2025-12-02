@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+3312,Sociology and Political Science,PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation,https://doi.org/10.7326/m18-0850,2018,33210,https://openalex.org/W2891378911
+3312,Sociology and Political Science,The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) Statement: Guidelines for reporting observational studies,https://doi.org/10.1016/j.ijsu.2014.07.013,2014,9083,https://openalex.org/W4294116629
+3312,Sociology and Political Science,Updated methodological guidance for the conduct of scoping reviews,https://doi.org/10.11124/jbies-20-00167,2020,5089,https://openalex.org/W3092419658
+1312,Molecular Biology,International Journal of Molecular Sciences,https://doi.org/10.3390/ijms,2024,10229,https://openalex.org/W4211246989
+1312,Molecular Biology,Circulating microRNAs as stable blood-based markers for cancer detection,https://doi.org/10.1073/pnas.0804549105,2008,7792,https://openalex.org/W2115093090
+1312,Molecular Biology,Accurate prediction of protein structures and interactions using a three-track neural network,https://doi.org/10.1126/science.abj8754,2021,5102,https://openalex.org/W3186179742
+3600,General Health Professions,World Health Organization 2020 guidelines on physical activity and sedentary behaviour,https://doi.org/10.1136/bjsports-2020-102955,2020,9202,https://openalex.org/W3108106255
+3600,General Health Professions,"Disability-adjusted life years (DALYs) for 291 diseases and injuries in 21 regions, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010",https://doi.org/10.1016/s0140-6736(12)61689-4,2012,8849,https://openalex.org/W2097950056
+3600,General Health Professions,Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010,https://doi.org/10.1016/s0140-6736(12)61729-2,2012,8175,https://openalex.org/W2108344016
+2725,Infectious Diseases,Prevention of HIV-1 Infection with Early Antiretroviral Therapy,https://doi.org/10.1056/nejmoa1105243,2011,6849,https://openalex.org/W2152505869
+2725,Infectious Diseases,Preexposure Chemoprophylaxis for HIV Prevention in Men Who Have Sex with Men,https://doi.org/10.1056/nejmoa1011205,2010,4984,https://openalex.org/W2103920597
+2725,Infectious Diseases,"Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK",https://doi.org/10.1016/s0140-6736(20)32661-1,2020,4937,https://openalex.org/W3111590711
+3304,Education,Developmental potential in the first 5 years for children in developing countries,https://doi.org/10.1016/s0140-6736(07)60032-4,2007,3501,https://openalex.org/W2071937436
+3304,Education,"Transdisciplinary research in sustainability science: practice, principles, and challenges",https://doi.org/10.1007/s11625-011-0149-x,2012,2691,https://openalex.org/W1982748232
+3304,Education,Global Prevalence of Autism and Other Pervasive Developmental Disorders,https://doi.org/10.1002/aur.239,2012,2533,https://openalex.org/W2098251401
+1110,Plant Science,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4839,https://openalex.org/W2110375946
+1110,Plant Science,The Top 10 fungal pathogens in molecular plant pathology,https://doi.org/10.1111/j.1364-3703.2011.00783.x,2012,4282,https://openalex.org/W2118751052
+1110,Plant Science,RDP4: Detection and analysis of recombination patterns in virus genomes,https://doi.org/10.1093/ve/vev003,2015,3272,https://openalex.org/W2171126517
+2713,Epidemiology,"Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-years for 32 Cancer Groups, 1990 to 2015",https://doi.org/10.1001/jamaoncol.2016.5688,2016,6197,https://openalex.org/W2560322684
+2713,Epidemiology,"Discovery, research, and development of new antibiotics: the WHO priority list of antibiotic-resistant bacteria and tuberculosis",https://doi.org/10.1016/s1473-3099(17)30753-3,2017,5637,https://openalex.org/W2779019546
+2713,Epidemiology,Preexposure Chemoprophylaxis for HIV Prevention in Men Who Have Sex with Men,https://doi.org/10.1056/nejmoa1011205,2010,4984,https://openalex.org/W2103920597
+2303,Ecology,Trophic Downgrading of Planet Earth,https://doi.org/10.1126/science.1205106,2011,3844,https://openalex.org/W2163744914
+2303,Ecology,Fire in the Earth System,https://doi.org/10.1126/science.1163886,2009,3088,https://openalex.org/W2171210136
+2303,Ecology,"The Global Syndemic of Obesity, Undernutrition, and Climate Change: The Lancet Commission report",https://doi.org/10.1016/s0140-6736(18)32822-8,2019,2729,https://openalex.org/W2912842935
+2002,Economics and Econometrics,PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation,https://doi.org/10.7326/m18-0850,2018,33210,https://openalex.org/W2891378911
+2002,Economics and Econometrics,Strengthening the Reporting of Observational Studies in Epidemiology (STROBE): Explanation and Elaboration,https://doi.org/10.1371/journal.pmed.0040297,2007,7920,https://openalex.org/W2116810060
+2002,Economics and Econometrics,SPIRIT 2013 Statement: Defining Standard Protocol Items for Clinical Trials,https://doi.org/10.7326/0003-4819-158-3-201302050-00583,2013,7160,https://openalex.org/W2166023752
+2739,"Public Health, Environmental and Occupational Health","Global, regional, and national prevalence of overweight and obesity in children and adults during 1980–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(14)60460-8,2014,11822,https://openalex.org/W2163710303
+2739,"Public Health, Environmental and Occupational Health",World Health Organization 2020 guidelines on physical activity and sedentary behaviour,https://doi.org/10.1136/bjsports-2020-102955,2020,9202,https://openalex.org/W3108106255
+2739,"Public Health, Environmental and Occupational Health",Guidance for conducting systematic scoping reviews,https://doi.org/10.1097/xeb.0000000000000050,2015,6713,https://openalex.org/W2105321265

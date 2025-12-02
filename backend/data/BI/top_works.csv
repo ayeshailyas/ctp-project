@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1702,Artificial Intelligence,Quantum computation and quantum information,https://doi.org/10.1017/s0960129507006317,2007,1884,https://openalex.org/W2170608991
+1702,Artificial Intelligence,On Ideal Lattices and Learning with Errors over Rings,https://doi.org/10.1145/2535925,2013,769,https://openalex.org/W2071825329
+1702,Artificial Intelligence,Supervised Dictionary Learning,https://doi.org/10.48550/arxiv.0809.3083,2008,734,https://openalex.org/W2128638419
+3312,Sociology and Political Science,Sociologie pragmatique : mode d'emploi,https://doi.org/10.3917/pox.103.0173,2014,248,https://openalex.org/W2132748399
+3312,Sociology and Political Science,"Multiple Infections, Immune Dynamics, and the Evolution of Virulence",https://doi.org/10.1086/590958,2008,165,https://openalex.org/W1985693980
+3312,Sociology and Political Science,Social network analysis of multi-stakeholder platforms in agricultural research for development: Opportunities and constraints for innovation and scaling,https://doi.org/10.1371/journal.pone.0169634,2017,159,https://openalex.org/W2586210789
+3107,"Atomic and Molecular Physics, and Optics","Phase recovery, MaxCut and complex semidefinite programming",https://doi.org/10.1007/s10107-013-0738-9,2013,564,https://openalex.org/W2145080587
+3107,"Atomic and Molecular Physics, and Optics",Introduction to Quantum Optics,https://doi.org/10.1017/cbo9780511778261,2010,370,https://openalex.org/W4292339501
+3107,"Atomic and Molecular Physics, and Optics",Quantum information processing and communication,https://doi.org/10.1140/epjd/e2005-00251-1,2005,343,https://openalex.org/W2106502150
+1312,Molecular Biology,Baseline gut microbiota predicts clinical response and colitis in metastatic melanoma patients treated with ipilimumab,https://doi.org/10.1093/annonc/mdx108,2017,1211,https://openalex.org/W2601055810
+1312,Molecular Biology,A method for finding codewords of small weight,https://doi.org/10.1007/bfb0019850,2006,431,https://openalex.org/W1536493828
+1312,Molecular Biology,Rule-Based Modelling of Cellular Signalling,https://doi.org/10.1007/978-3-540-74407-8_3,2007,280,https://openalex.org/W2144063122
+1703,Computational Theory and Mathematics,Quantum computation and quantum information,https://doi.org/10.1017/s0960129507006317,2007,1884,https://openalex.org/W2170608991
+1703,Computational Theory and Mathematics,On Ideal Lattices and Learning with Errors over Rings,https://doi.org/10.1145/2535925,2013,769,https://openalex.org/W2071825329
+1703,Computational Theory and Mathematics,"Searchable Encryption Revisited: Consistency Properties, Relation to Anonymous IBE, and Extensions",https://doi.org/10.1007/11535218_13,2005,593,https://openalex.org/W2120976781
+3320,Political Science and International Relations,Hitler’s American Model: The United States and the Making of Nazi Race Law,https://doi.org/10.1080/21567689.2017.1360238,2017,111,https://openalex.org/W2742323302
+3320,Political Science and International Relations,Reexamination of the Bare Preterite Base in the Jewish Neo-Aramaic Dialect of Zakho,https://doi.org/10.1163/147783508x371286,2008,72,https://openalex.org/W2046418110
+3320,Political Science and International Relations,The Effect of Tracking Students by Ability into Different Schools: A Natural Experiment,https://doi.org/10.1353/jhr.2012.0022,2012,51,https://openalex.org/W2118050098
+2002,Economics and Econometrics,Gaussian multiplicative chaos and applications: A review,https://doi.org/10.1214/13-ps218,2014,375,https://openalex.org/W1973766190
+2002,Economics and Econometrics,Determinants of smallholder farmers' participation in banana markets in Central Africa: the role of transaction costs,https://doi.org/10.1111/j.1574-0862.2009.00429.x,2010,146,https://openalex.org/W1966490370
+2002,Economics and Econometrics,Does Confidence Use a Common Currency Across Two Visual Tasks?,https://doi.org/10.1177/0956797614528956,2014,145,https://openalex.org/W2051463757
+1211,Philosophy,Sense of agency,https://doi.org/10.1016/j.cub.2012.02.040,2012,391,https://openalex.org/W2011841102
+1211,Philosophy,Sociologie pragmatique : mode d'emploi,https://doi.org/10.3917/pox.103.0173,2014,248,https://openalex.org/W2132748399
+1211,Philosophy,Children's Knowledge of Free Choice Inferences and Scalar Implicatures,https://doi.org/10.1093/jos/ffv001,2015,174,https://openalex.org/W2320823424
+3314,Anthropology,The Pan-African Belt,https://doi.org/10.1007/978-3-540-77076-3_2,2008,169,https://openalex.org/W1503387270
+3314,Anthropology,Bergson ou les deux sens de la vie,https://doi.org/10.3917/puf.worm.2013.01,2013,156,https://openalex.org/W1528364370
+3314,Anthropology,The dangers of anonymity,https://doi.org/10.14318/hau2.2.012,2012,70,https://openalex.org/W2046108209
+3109,Statistical and Nonlinear Physics,Transport in out-of-equilibrium XXZ chains: Nonballistic behavior and correlation functions,https://doi.org/10.1103/physrevb.96.115124,2017,193,https://openalex.org/W2620732689
+3109,Statistical and Nonlinear Physics,The Narrow Escape Problem,https://doi.org/10.1137/120898395,2014,159,https://openalex.org/W2031042504
+3109,Statistical and Nonlinear Physics,The analytic functional bootstrap. Part II. Natural bases for the crossing equation,https://doi.org/10.1007/jhep02(2019)163,2019,108,https://openalex.org/W2903305773

@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1702,Artificial Intelligence,Harris hawks optimization: Algorithm and applications,https://doi.org/10.1016/j.future.2019.02.028,2019,5438,https://openalex.org/W2919979744
+1702,Artificial Intelligence,Salp Swarm Algorithm: A bio-inspired optimizer for engineering design problems,https://doi.org/10.1016/j.advengsoft.2017.07.002,2017,4702,https://openalex.org/W2738900493
+1702,Artificial Intelligence,The Arithmetic Optimization Algorithm,https://doi.org/10.1016/j.cma.2020.113609,2021,2574,https://openalex.org/W3119051141
+2208,Electrical and Electronic Engineering,Unmanned Aerial Vehicles (UAVs): A Survey on Civil Applications and Key Research Challenges,https://doi.org/10.1109/access.2019.2909530,2019,1979,https://openalex.org/W4213147678
+2208,Electrical and Electronic Engineering,Index Modulation Techniques for Next-Generation Wireless Networks,https://doi.org/10.1109/access.2017.2737528,2017,852,https://openalex.org/W2744485539
+2208,Electrical and Electronic Engineering,A Survey on Hybrid Beamforming Techniques in 5G: Architecture and System Model Perspectives,https://doi.org/10.1109/comst.2018.2843719,2018,749,https://openalex.org/W2805657678
+3312,Sociology and Political Science,Contrasting Computational Models of Mate Preference Integration Across 45 Countries,https://doi.org/10.1038/s41598-019-52748-8,2019,1773,https://openalex.org/W2983201012
+3312,Sociology and Political Science,Social media in marketing: A review and analysis of the existing literature,https://doi.org/10.1016/j.tele.2017.05.008,2017,1041,https://openalex.org/W2619799373
+3312,Sociology and Political Science,Investigating the impact of social media advertising features on customer purchase intention,https://doi.org/10.1016/j.ijinfomgt.2018.06.001,2018,806,https://openalex.org/W2809468846
+1710,Information Systems,"K-means clustering algorithms: A comprehensive review, variants analysis, and advances in the era of big data",https://doi.org/10.1016/j.ins.2022.11.139,2022,1544,https://openalex.org/W4310494058
+1710,Information Systems,Dual u-net with resnet encoder for segmentation of medical images,,2022,1149,https://openalex.org/W4288079856
+1710,Information Systems,The COVID-19 pandemic and E-learning: challenges and opportunities from the perspective of students and instructors,https://doi.org/10.1007/s12528-021-09274-2,2021,724,https://openalex.org/W3158635138
+1312,Molecular Biology,"Liposomes: structure, composition, types, and clinical applications",https://doi.org/10.1016/j.heliyon.2022.e09394,2022,1095,https://openalex.org/W4280621631
+1312,Molecular Biology,Index Modulation Techniques for Next-Generation Wireless Networks,https://doi.org/10.1109/access.2017.2737528,2017,852,https://openalex.org/W2744485539
+1312,Molecular Biology,Progressing nanotechnology to improve targeted cancer treatment: overcoming hurdles in its clinical implementation,https://doi.org/10.1186/s12943-023-01865-0,2023,773,https://openalex.org/W4387452756
+1705,Computer Networks and Communications,Unmanned Aerial Vehicles (UAVs): A Survey on Civil Applications and Key Research Challenges,https://doi.org/10.1109/access.2019.2909530,2019,1979,https://openalex.org/W4213147678
+1705,Computer Networks and Communications,IoT Privacy and Security: Challenges and Solutions,https://doi.org/10.3390/app10124102,2020,692,https://openalex.org/W3034175800
+1705,Computer Networks and Communications,Anomaly-based intrusion detection system through feature selection analysis and building hybrid efficient model,https://doi.org/10.1016/j.jocs.2017.03.006,2017,656,https://openalex.org/W2604105233
+2204,Biomedical Engineering,Cellular uptake of nanoparticles: journey inside the cell,https://doi.org/10.1039/c6cs00636a,2017,2488,https://openalex.org/W2624317658
+2204,Biomedical Engineering,Numerical study of natural convection in partially heated rectangular enclosures filled with nanofluids,https://doi.org/10.1016/j.ijheatfluidflow.2008.04.009,2008,2072,https://openalex.org/W2136719269
+2204,Biomedical Engineering,Magnetic Nanoparticles: Surface Effects and Properties Related to Biomedicine Applications,https://doi.org/10.3390/ijms141121266,2013,1159,https://openalex.org/W2066030159
+2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5316,https://openalex.org/W2993259418
+2746,Surgery,"Global, regional, and national disease burden estimates of acute lower respiratory infections due to respiratory syncytial virus in young children in 2015: a systematic review and modelling study",https://doi.org/10.1016/s0140-6736(17)30938-8,2017,2264,https://openalex.org/W2727509207
+2746,Surgery,2022 American Society for Metabolic and Bariatric Surgery (ASMBS) and International Federation for the Surgery of Obesity and Metabolic Disorders (IFSO): Indications for Metabolic and Bariatric Surgery,https://doi.org/10.1016/j.soard.2022.08.013,2022,722,https://openalex.org/W4307052702
+2505,Materials Chemistry,Cellular uptake of nanoparticles: journey inside the cell,https://doi.org/10.1039/c6cs00636a,2017,2488,https://openalex.org/W2624317658
+2505,Materials Chemistry,The Role of Ligands in the Chemical Synthesis and Applications of Inorganic Nanoparticles,https://doi.org/10.1021/acs.chemrev.8b00733,2019,1102,https://openalex.org/W2932073682
+2505,Materials Chemistry,The fast azimuthal integration Python library:<i>pyFAI</i>,https://doi.org/10.1107/s1600576715004306,2015,783,https://openalex.org/W2117152322
+3304,Education,The COVID-19 pandemic and E-learning: challenges and opportunities from the perspective of students and instructors,https://doi.org/10.1007/s12528-021-09274-2,2021,724,https://openalex.org/W3158635138
+3304,Education,"Distance learning in clinical medical education amid COVID-19 pandemic in Jordan: current situation, challenges, and perspectives",https://doi.org/10.1186/s12909-020-02257-4,2020,691,https://openalex.org/W3089456325
+3304,Education,Faculty’s and Students’ Perceptions of Online Learning During COVID-19,https://doi.org/10.3389/feduc.2021.638470,2021,514,https://openalex.org/W3160894093

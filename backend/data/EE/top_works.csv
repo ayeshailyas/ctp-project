@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+1312,Molecular Biology,g:Profiler: a web server for functional enrichment analysis and conversions of gene lists (2019 update),https://doi.org/10.1093/nar/gkz369,2019,5041,https://openalex.org/W2944545583
+1312,Molecular Biology,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4839,https://openalex.org/W2110375946
+1312,Molecular Biology,Secondary prevention of macrovascular events in patients with type 2 diabetes in the PROactive Study (PROspective pioglitAzone Clinical Trial In macroVascular Events): a randomised controlled trial,https://doi.org/10.1016/s0140-6736(05)67528-9,2005,4086,https://openalex.org/W2159969745
+2208,Electrical and Electronic Engineering,Grid-Connected Photovoltaic Systems: An Overview of Recent Research and Emerging PV Converter Technology,https://doi.org/10.1109/mie.2014.2376976,2015,1141,https://openalex.org/W2001356449
+2208,Electrical and Electronic Engineering,"Mn<sup>2+</sup>and Mn<sup>4+</sup>red phosphors: synthesis, luminescence and applications in WLEDs. A review",https://doi.org/10.1039/c8tc00251g,2018,659,https://openalex.org/W2788861441
+2208,Electrical and Electronic Engineering,Raman scattering in nanosized nickel oxide NiO,https://doi.org/10.1088/1742-6596/93/1/012039,2007,469,https://openalex.org/W2099846497
+3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2957,https://openalex.org/W2161411308
+3312,Sociology and Political Science,Novel ecosystems: theoretical and management aspects of the new ecological world order,https://doi.org/10.1111/j.1466-822x.2006.00212.x,2006,2029,https://openalex.org/W2124696785
+3312,Sociology and Political Science,Contrasting Computational Models of Mate Preference Integration Across 45 Countries,https://doi.org/10.1038/s41598-019-52748-8,2019,1773,https://openalex.org/W2983201012
+2505,Materials Chemistry,"Toxicity of nanosized and bulk ZnO, CuO and TiO2 to bacteria Vibrio fischeri and crustaceans Daphnia magna and Thamnocephalus platyurus",https://doi.org/10.1016/j.chemosphere.2007.11.047,2008,1497,https://openalex.org/W2093792053
+2505,Materials Chemistry,"Toxicity of nanoparticles of CuO, ZnO and TiO2 to microalgae Pseudokirchneriella subcapitata",https://doi.org/10.1016/j.scitotenv.2008.10.053,2008,1236,https://openalex.org/W2077349746
+2505,Materials Chemistry,"Toxicity of Ag, CuO and ZnO nanoparticles to selected environmentally relevant test organisms and mammalian cells in vitro: a critical review",https://doi.org/10.1007/s00204-013-1079-4,2013,1201,https://openalex.org/W2049136420
+1110,Plant Science,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4839,https://openalex.org/W2110375946
+1110,Plant Science,FUNGuild: An open annotation tool for parsing fungal community datasets by ecological guild,https://doi.org/10.1016/j.funeco.2015.06.006,2015,4031,https://openalex.org/W1005007408
+1110,Plant Science,Towards a unified paradigm for sequence‐based identification of fungi,https://doi.org/10.1111/mec.12481,2013,3483,https://openalex.org/W2160947363
+1702,Artificial Intelligence,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.1038/s41592-019-0686-2,2020,32755,https://openalex.org/W3003257820
+1702,Artificial Intelligence,Array programming with NumPy,https://doi.org/10.1038/s41586-020-2649-2,2020,18707,https://openalex.org/W3035965352
+1702,Artificial Intelligence,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.17863/cam.64134,2019,11500,https://openalex.org/W3103145119
+2303,Ecology,European phenological response to climate change matches the warming pattern,https://doi.org/10.1111/j.1365-2486.2006.01193.x,2006,3057,https://openalex.org/W2029411945
+2303,Ecology,Enhancements and modifications of primer design program Primer3,https://doi.org/10.1093/bioinformatics/btm091,2007,2597,https://openalex.org/W2100303227
+2303,Ecology,Structure and function of the global topsoil microbiome,https://doi.org/10.1038/s41586-018-0386-6,2018,2220,https://openalex.org/W2887136521
+1311,Genetics,Genetic studies of body mass index yield new insights for obesity biology,https://doi.org/10.1038/nature14177,2015,4722,https://openalex.org/W2039153962
+1311,Genetics,FinnGen provides genetic insights from a well-phenotyped isolated population,https://doi.org/10.1038/s41586-022-05473-8,2023,3384,https://openalex.org/W4317390883
+1311,Genetics,Discovery and refinement of loci associated with lipid levels,https://doi.org/10.1038/ng.2797,2013,3201,https://openalex.org/W2153118028
+3320,Political Science and International Relations,How unstable? Volatility and the genuinely new parties in Eastern Europe,https://doi.org/10.1111/j.1475-6765.2005.00232.x,2005,404,https://openalex.org/W2077636920
+3320,Political Science and International Relations,The Memory Politics of Becoming European: The East European Subalterns and the Collective Memory of Europe,https://doi.org/10.1177/1354066109345049,2009,329,https://openalex.org/W2140333103
+3320,Political Science and International Relations,The potential impacts of digital technologies on co-production and co-creation,https://doi.org/10.1080/14719037.2019.1619807,2019,293,https://openalex.org/W2952677210
+2204,Biomedical Engineering,Neuropilin-1 facilitates SARS-CoV-2 cell entry and infectivity,https://doi.org/10.1126/science.abd2985,2020,1938,https://openalex.org/W3093867667
+2204,Biomedical Engineering,"Toxicity of Ag, CuO and ZnO nanoparticles to selected environmentally relevant test organisms and mammalian cells in vitro: a critical review",https://doi.org/10.1007/s00204-013-1079-4,2013,1201,https://openalex.org/W2049136420
+2204,Biomedical Engineering,A review of mineral carbonation technologies to sequester CO<sub>2</sub>,https://doi.org/10.1039/c4cs00035h,2014,994,https://openalex.org/W1966260411

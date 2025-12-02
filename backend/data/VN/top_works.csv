@@ -1,0 +1,31 @@
+subfield_id,subfield_name,title,doi,year,cited_by_count,id
+2208,Electrical and Electronic Engineering,Advanced capabilities for materials modelling with Quantum ESPRESSO,https://doi.org/10.1088/1361-648x/aa8f79,2017,6714,https://openalex.org/W2757803490
+2208,Electrical and Electronic Engineering,Federated Learning in Mobile Edge Networks: A Comprehensive Survey,https://doi.org/10.1109/comst.2020.2986024,2020,2152,https://openalex.org/W3015636663
+2208,Electrical and Electronic Engineering,Recent Development of Oxygen Evolution Electrocatalysts in Acidic Environment,https://doi.org/10.1002/adma.202006328,2021,768,https://openalex.org/W3138305217
+1312,Molecular Biology,UFBoot2: Improving the Ultrafast Bootstrap Approximation,https://doi.org/10.1093/molbev/msx281,2017,9659,https://openalex.org/W2951464304
+1312,Molecular Biology,Monkeypox Virus Infection in Humans across 16 Countries — April–June 2022,https://doi.org/10.1056/nejmoa2207323,2022,2007,https://openalex.org/W4286383196
+1312,Molecular Biology,The Loss of Species: Mangrove Extinction Risk and Geographic Areas of Global Concern,https://doi.org/10.1371/journal.pone.0010095,2010,1458,https://openalex.org/W2137372170
+2505,Materials Chemistry,Iron-facilitated dynamic active-site generation on spinel CoAl2O4 with self-termination of surface reconstruction for water oxidation,https://doi.org/10.1038/s41929-019-0325-4,2019,977,https://openalex.org/W2966089378
+2505,Materials Chemistry,"Silver nanoparticles: synthesis, properties, toxicology, applications and perspectives",https://doi.org/10.1088/2043-6262/4/3/033001,2013,961,https://openalex.org/W2122727851
+2505,Materials Chemistry,Surface Functionalized Carbogenic Quantum Dots,https://doi.org/10.1002/smll.200700578,2008,883,https://openalex.org/W2168344465
+2204,Biomedical Engineering,Slime mould algorithm: A new method for stochastic optimization,https://doi.org/10.1016/j.future.2020.03.055,2020,2684,https://openalex.org/W3014974411
+2204,Biomedical Engineering,Assessment of Coronary Artery Disease by Cardiac Computed Tomography,https://doi.org/10.1161/circulationaha.106.178458,2006,1389,https://openalex.org/W2081570709
+2204,Biomedical Engineering,Biodiesel production from waste cooking oils,https://doi.org/10.1016/j.fuel.2008.07.008,2008,1083,https://openalex.org/W2038783256
+1702,Artificial Intelligence,The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package<sup>*</sup>,https://doi.org/10.3847/1538-3881/aabc4f,2018,6288,https://openalex.org/W2888532099
+1702,Artificial Intelligence,Slime mould algorithm: A new method for stochastic optimization,https://doi.org/10.1016/j.future.2020.03.055,2020,2684,https://openalex.org/W3014974411
+1702,Artificial Intelligence,Federated Learning in Mobile Edge Networks: A Comprehensive Survey,https://doi.org/10.1109/comst.2020.2986024,2020,2152,https://openalex.org/W3015636663
+2210,Mechanical Engineering,A review of recent developments in natural fibre composites and their mechanical performance,https://doi.org/10.1016/j.compositesa.2015.08.038,2015,3051,https://openalex.org/W1458577565
+2210,Mechanical Engineering,Biodiesel production from waste cooking oils,https://doi.org/10.1016/j.fuel.2008.07.008,2008,1083,https://openalex.org/W2038783256
+2210,Mechanical Engineering,"Valorization of biomass waste to engineered activated biochar by microwave pyrolysis: Progress, challenges, and future directions",https://doi.org/10.1016/j.cej.2020.124401,2020,668,https://openalex.org/W3006022510
+2002,Economics and Econometrics,2013 ACC/AHA Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk in Adults,https://doi.org/10.1161/01.cir.0000437738.63853.7a,2013,7067,https://openalex.org/W2019071303
+2002,Economics and Econometrics,2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk,https://doi.org/10.1016/j.jacc.2013.11.005,2013,4826,https://openalex.org/W2168536722
+2002,Economics and Econometrics,Forecasting the Future of Cardiovascular Disease in the United States,https://doi.org/10.1161/cir.0b013e31820a55f5,2011,3176,https://openalex.org/W2130483595
+3312,Sociology and Political Science,Reassessing the projections of the World Water Development Report,https://doi.org/10.1038/s41545-019-0039-9,2019,2256,https://openalex.org/W2966722893
+3312,Sociology and Political Science,Dengue: a continuing global threat,https://doi.org/10.1038/nrmicro2460,2010,2000,https://openalex.org/W2042479028
+3312,Sociology and Political Science,Contrasting Computational Models of Mate Preference Integration Across 45 Countries,https://doi.org/10.1038/s41598-019-52748-8,2019,1773,https://openalex.org/W2983201012
+1110,Plant Science,Global diversity and geography of soil fungi,https://doi.org/10.1126/science.1256688,2014,3367,https://openalex.org/W2145840889
+1110,Plant Science,"Effect of extraction solvent on total phenol content, total flavonoid content, and antioxidant activity of Limnophila aromatica",https://doi.org/10.1016/j.jfda.2013.11.001,2013,1697,https://openalex.org/W2159548807
+1110,Plant Science,Soil nematode abundance and functional group composition at a global scale,https://doi.org/10.1038/s41586-019-1418-6,2019,1076,https://openalex.org/W2963407560
+2205,Civil and Structural Engineering,Materials Today: Proceedings,https://doi.org/10.2139/ssrn.5011675,2025,1387,https://openalex.org/W4406170399
+2205,Civil and Structural Engineering,Mix design and fresh properties for high-performance printing concrete,https://doi.org/10.1617/s11527-012-9828-z,2012,1092,https://openalex.org/W2030488271
+2205,Civil and Structural Engineering,Autonomous concrete crack detection using deep fully convolutional neural network,https://doi.org/10.1016/j.autcon.2018.11.028,2018,1060,https://openalex.org/W2905163589
