@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-1312,Molecular Biology,Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines,https://doi.org/10.1080/20013078.2018.1535750,2018,10297,https://openalex.org/W2900756811
-1312,Molecular Biology,Biopython: freely available Python tools for computational molecular biology and bioinformatics,https://doi.org/10.1093/bioinformatics/btp163,2009,5901,https://openalex.org/W2114850508
-1312,Molecular Biology,Biological properties of extracellular vesicles and their physiological functions,https://doi.org/10.3402/jev.v4.27066,2015,5522,https://openalex.org/W2170852633
-3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2957,https://openalex.org/W2161411308
-3312,Sociology and Political Science,Refining the theory of basic individual values.,https://doi.org/10.1037/a0029393,2012,2376,https://openalex.org/W1997102788
-3312,Sociology and Political Science,"STROCSS 2021: Strengthening the reporting of cohort, cross-sectional and case-control studies in surgery",https://doi.org/10.1016/j.ijsu.2021.106165,2021,2044,https://openalex.org/W3212282753
-2208,Electrical and Electronic Engineering,The electronic properties of graphene,https://doi.org/10.1103/revmodphys.81.109,2009,23781,https://openalex.org/W2105685140
-2208,Electrical and Electronic Engineering,Fine Structure Constant Defines Visual Transparency of Graphene,https://doi.org/10.1126/science.1156965,2008,8787,https://openalex.org/W2123510746
-2208,Electrical and Electronic Engineering,Software-Defined Networking: A Comprehensive Survey,https://doi.org/10.1109/jproc.2014.2371999,2014,4688,https://openalex.org/W2040340473
-2204,Biomedical Engineering,Microalgae for biodiesel production and other applications: A review,https://doi.org/10.1016/j.rser.2009.07.020,2009,5448,https://openalex.org/W2046495385
-2204,Biomedical Engineering,"Electroactive phases of poly(vinylidene fluoride): Determination, processing and applications",https://doi.org/10.1016/j.progpolymsci.2013.07.006,2013,3113,https://openalex.org/W2032847400
-2204,Biomedical Engineering,A survey on concept drift adaptation,https://doi.org/10.1145/2523813,2014,2929,https://openalex.org/W2099419573
-2746,Surgery,Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction,https://doi.org/10.1056/nejmoa1911303,2019,6201,https://openalex.org/W2974260792
-2746,Surgery,The SCARE 2020 Guideline: Updating Consensus Surgical CAse REport (SCARE) Guidelines,https://doi.org/10.1016/j.ijsu.2020.10.034,2020,5533,https://openalex.org/W3103171760
-2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5316,https://openalex.org/W2993259418
-2505,Materials Chemistry,The electronic properties of graphene,https://doi.org/10.1103/revmodphys.81.109,2009,23781,https://openalex.org/W2105685140
-2505,Materials Chemistry,Fine Structure Constant Defines Visual Transparency of Graphene,https://doi.org/10.1126/science.1156965,2008,8787,https://openalex.org/W2123510746
-2505,Materials Chemistry,Oxide Semiconductor Thin‐Film Transistors: A Review of Recent Advances,https://doi.org/10.1002/adma.201103228,2012,2994,https://openalex.org/W1994277498
+1312,Molecular Biology,Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines,https://doi.org/10.1080/20013078.2018.1535750,2018,10328,https://openalex.org/W2900756811
+1312,Molecular Biology,Biopython: freely available Python tools for computational molecular biology and bioinformatics,https://doi.org/10.1093/bioinformatics/btp163,2009,5931,https://openalex.org/W2114850508
+1312,Molecular Biology,Biological properties of extracellular vesicles and their physiological functions,https://doi.org/10.3402/jev.v4.27066,2015,5548,https://openalex.org/W2170852633
+1312,Molecular Biology,A standardised static<i>in vitro</i>digestion method suitable for food – an international consensus,https://doi.org/10.1039/c3fo60702j,2014,5062,https://openalex.org/W2160446463
+1312,Molecular Biology,Tumour exosome integrins determine organotropic metastasis,https://doi.org/10.1038/nature15756,2015,4773,https://openalex.org/W1950118853
+1312,Molecular Biology,Natural products in drug discovery: advances and opportunities,https://doi.org/10.1038/s41573-020-00114-z,2021,4316,https://openalex.org/W3119952098
+1312,Molecular Biology,PLGA-based nanoparticles: An overview of biomedical applications,https://doi.org/10.1016/j.jconrel.2012.01.043,2012,3428,https://openalex.org/W2020398834
+1312,Molecular Biology,EAU Guidelines on Renal Cell Carcinoma: 2014 Update,https://doi.org/10.1016/j.eururo.2015.01.005,2015,3428,https://openalex.org/W2164317031
+1312,Molecular Biology,Proposed minimal standards for the use of genome data for the taxonomy of prokaryotes,https://doi.org/10.1099/ijsem.0.002516,2018,2907,https://openalex.org/W2781763834
+1312,Molecular Biology,Glycosylation in cancer: mechanisms and clinical implications,https://doi.org/10.1038/nrc3982,2015,2907,https://openalex.org/W1182461782
+3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2973,https://openalex.org/W2161411308
+3312,Sociology and Political Science,Refining the theory of basic individual values.,https://doi.org/10.1037/a0029393,2012,2391,https://openalex.org/W1997102788
+3312,Sociology and Political Science,"STROCSS 2021: Strengthening the reporting of cohort, cross-sectional and case-control studies in surgery",https://doi.org/10.1016/j.ijsu.2021.106165,2021,2051,https://openalex.org/W3212282753
+3312,Sociology and Political Science,Contrasting Computational Models of Mate Preference Integration Across 45 Countries,https://doi.org/10.1038/s41598-019-52748-8,2019,1773,https://openalex.org/W2983201012
+3312,Sociology and Political Science,Contexts which shape and reshape new teachers’ identities: A multi-perspective study,https://doi.org/10.1016/j.tate.2005.09.002,2005,1486,https://openalex.org/W1963573356
+3312,Sociology and Political Science,Social diversity promotes the emergence of cooperation in public goods games,https://doi.org/10.1038/nature06940,2008,1386,https://openalex.org/W2099540651
+3312,Sociology and Political Science,Understanding the Internet banking adoption: A unified theory of acceptance and use of technology and perceived risk application,https://doi.org/10.1016/j.ijinfomgt.2013.06.002,2013,1365,https://openalex.org/W1986221133
+3312,Sociology and Political Science,The Prevalence and Correlates of Binge Eating Disorder in the World Health Organization World Mental Health Surveys,https://doi.org/10.1016/j.biopsych.2012.11.020,2013,1312,https://openalex.org/W1978365558
+3312,Sociology and Political Science,Mobile payment: Understanding the determinants of customer adoption and intention to recommend the technology,https://doi.org/10.1016/j.chb.2016.03.030,2016,1238,https://openalex.org/W2914711619
+3312,Sociology and Political Science,Base Nacional Comum Curricular – BNCC,https://doi.org/10.55602/rlic.v4i1.101,2016,1192,https://openalex.org/W4231578768
+2208,Electrical and Electronic Engineering,The electronic properties of graphene,https://doi.org/10.1103/revmodphys.81.109,2009,23807,https://openalex.org/W2105685140
+2208,Electrical and Electronic Engineering,Fine Structure Constant Defines Visual Transparency of Graphene,https://doi.org/10.1126/science.1156965,2008,8802,https://openalex.org/W2123510746
+2208,Electrical and Electronic Engineering,Software-Defined Networking: A Comprehensive Survey,https://doi.org/10.1109/jproc.2014.2371999,2014,4698,https://openalex.org/W2040340473
+2208,Electrical and Electronic Engineering,Oxide Semiconductor Thin‐Film Transistors: A Review of Recent Advances,https://doi.org/10.1002/adma.201103228,2012,3001,https://openalex.org/W1994277498
+2208,Electrical and Electronic Engineering,Field-Effect Tunneling Transistor Based on Vertical Graphene Heterostructures,https://doi.org/10.1126/science.1218461,2012,2508,https://openalex.org/W2039211361
+2208,Electrical and Electronic Engineering,"Hexagonal ferrites: A review of the synthesis, properties and applications of hexaferrite ceramics",https://doi.org/10.1016/j.pmatsci.2012.04.001,2012,2503,https://openalex.org/W2121877814
+2208,Electrical and Electronic Engineering,Defining Control Strategies for MicroGrids Islanded Operation,https://doi.org/10.1109/tpwrs.2006.873018,2006,2280,https://openalex.org/W2130055347
+2208,Electrical and Electronic Engineering,Wireless Information-Theoretic Security,https://doi.org/10.1109/tit.2008.921908,2008,1841,https://openalex.org/W2156214717
+2208,Electrical and Electronic Engineering,Integration of Electric Vehicles in the Electric Power System,https://doi.org/10.1109/jproc.2010.2066250,2010,1402,https://openalex.org/W2094392268
+2208,Electrical and Electronic Engineering,"Integrating distributed generation into electric power systems: A review of drivers, challenges and opportunities",https://doi.org/10.1016/j.epsr.2006.08.016,2006,1355,https://openalex.org/W2158119364
+2204,Biomedical Engineering,Microalgae for biodiesel production and other applications: A review,https://doi.org/10.1016/j.rser.2009.07.020,2009,5454,https://openalex.org/W2046495385
+2204,Biomedical Engineering,"Electroactive phases of poly(vinylidene fluoride): Determination, processing and applications",https://doi.org/10.1016/j.progpolymsci.2013.07.006,2013,3130,https://openalex.org/W2032847400
+2204,Biomedical Engineering,A survey on concept drift adaptation,https://doi.org/10.1145/2523813,2014,2939,https://openalex.org/W2099419573
+2204,Biomedical Engineering,Vertex component analysis: a fast algorithm to unmix hyperspectral data,https://doi.org/10.1109/tgrs.2005.844293,2005,2534,https://openalex.org/W2157321686
+2204,Biomedical Engineering,Natural Deep Eutectic Solvents – Solvents for the 21st Century,https://doi.org/10.1021/sc500096j,2014,2163,https://openalex.org/W2065820312
+2204,Biomedical Engineering,Sparse Reconstruction by Separable Approximation,https://doi.org/10.1109/tsp.2009.2016892,2009,1871,https://openalex.org/W2126607811
+2204,Biomedical Engineering,Pre-metastatic niches: organ-specific homes for metastases,https://doi.org/10.1038/nrc.2017.6,2017,1734,https://openalex.org/W2596133050
+2204,Biomedical Engineering,"5-Hydroxymethylfurfural (HMF) as a building block platform: Biological properties, synthesis and synthetic applications",https://doi.org/10.1039/c0gc00401d,2011,1580,https://openalex.org/W2135872679
+2204,Biomedical Engineering,European Resuscitation Council Guidelines for Resuscitation 2010 Section 2. Adult basic life support and use of automated external defibrillators,https://doi.org/10.1016/j.resuscitation.2010.08.009,2010,1557,https://openalex.org/W2037283453
+2204,Biomedical Engineering,Hemicelluloses for fuel ethanol: A review,https://doi.org/10.1016/j.biortech.2010.01.088,2010,1537,https://openalex.org/W2057313715
+2746,Surgery,Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction,https://doi.org/10.1056/nejmoa1911303,2019,6229,https://openalex.org/W2974260792
+2746,Surgery,The SCARE 2020 Guideline: Updating Consensus Surgical CAse REport (SCARE) Guidelines,https://doi.org/10.1016/j.ijsu.2020.10.034,2020,5537,https://openalex.org/W3103171760
+2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5319,https://openalex.org/W2993259418
+2746,Surgery,EAU Guidelines on Renal Cell Carcinoma: 2014 Update,https://doi.org/10.1016/j.eururo.2015.01.005,2015,3428,https://openalex.org/W2164317031
+2746,Surgery,Human papillomavirus genotype attribution in invasive cervical cancer: a retrospective cross-sectional worldwide study,https://doi.org/10.1016/s1470-2045(10)70230-8,2010,2632,https://openalex.org/W2139736159
+2746,Surgery,Initial Invasive or Conservative Strategy for Stable Coronary Disease,https://doi.org/10.1056/nejmoa1915922,2020,2205,https://openalex.org/W3014025744
+2746,Surgery,Phase III Study of Docetaxel and Cisplatin Plus Fluorouracil Compared With Cisplatin and Fluorouracil As First-Line Therapy for Advanced Gastric Cancer: A Report of the V325 Study Group,https://doi.org/10.1200/jco.2006.06.8429,2006,1912,https://openalex.org/W2122866527
+2746,Surgery,Statins for the primary prevention of cardiovascular disease,https://doi.org/10.1002/14651858.cd004816.pub5,2013,1817,https://openalex.org/W1816597323
+2746,Surgery,"Third European Evidence-based Consensus on Diagnosis and Management of Ulcerative Colitis. Part 1: Definitions, Diagnosis, Extra-intestinal Manifestations, Pregnancy, Cancer Surveillance, Surgery, and Ileo-anal Pouch Disorders",https://doi.org/10.1093/ecco-jcc/jjx008,2017,1794,https://openalex.org/W2583633660
+2746,Surgery,Validity of four pain intensity rating scales,https://doi.org/10.1016/j.pain.2011.07.005,2011,1749,https://openalex.org/W2105786999
+2505,Materials Chemistry,The electronic properties of graphene,https://doi.org/10.1103/revmodphys.81.109,2009,23807,https://openalex.org/W2105685140
+2505,Materials Chemistry,Fine Structure Constant Defines Visual Transparency of Graphene,https://doi.org/10.1126/science.1156965,2008,8802,https://openalex.org/W2123510746
+2505,Materials Chemistry,Oxide Semiconductor Thin‐Film Transistors: A Review of Recent Advances,https://doi.org/10.1002/adma.201103228,2012,3001,https://openalex.org/W1994277498
+2505,Materials Chemistry,Strong Light-Matter Interactions in Heterostructures of Atomically Thin Films,https://doi.org/10.1126/science.1235547,2013,2515,https://openalex.org/W2098269095
+2505,Materials Chemistry,Field-Effect Tunneling Transistor Based on Vertical Graphene Heterostructures,https://doi.org/10.1126/science.1218461,2012,2508,https://openalex.org/W2039211361
+2505,Materials Chemistry,"Hexagonal ferrites: A review of the synthesis, properties and applications of hexaferrite ceramics",https://doi.org/10.1016/j.pmatsci.2012.04.001,2012,2503,https://openalex.org/W2121877814
+2505,Materials Chemistry,Biased Bilayer Graphene: Semiconductor with a Gap Tunable by the Electric Field Effect,https://doi.org/10.1103/physrevlett.99.216802,2007,1959,https://openalex.org/W2113467957
+2505,Materials Chemistry,MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations,https://doi.org/10.25080/majora-629e541a-00e,2016,1848,https://openalex.org/W2510475640
+2505,Materials Chemistry,Kinetically Controlled Seeded Growth Synthesis of Citrate-Stabilized Gold Nanoparticles of up to 200 nm: Size Focusing versus Ostwald Ripening,https://doi.org/10.1021/la201938u,2011,1653,https://openalex.org/W2021194998
+2505,Materials Chemistry,"5-Hydroxymethylfurfural (HMF) as a building block platform: Biological properties, synthesis and synthetic applications",https://doi.org/10.1039/c0gc00401d,2011,1580,https://openalex.org/W2135872679
 3304,Education,Online University Teaching During and After the Covid-19 Crisis: Refocusing Teacher Presence and Learning Activity,https://doi.org/10.1007/s42438-020-00155-y,2020,1956,https://openalex.org/W3042009104
-3304,Education,Life designing: A paradigm for career construction in the 21st century,https://doi.org/10.1016/j.jvb.2009.04.004,2009,1805,https://openalex.org/W2166133196
-3304,Education,Contexts which shape and reshape new teachers’ identities: A multi-perspective study,https://doi.org/10.1016/j.tate.2005.09.002,2005,1479,https://openalex.org/W1963573356
-1702,Artificial Intelligence,The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS),https://doi.org/10.1109/tmi.2014.2377694,2014,5892,https://openalex.org/W1641498739
-1702,Artificial Intelligence,Deep learning and process understanding for data-driven Earth system science,https://doi.org/10.1038/s41586-019-0912-1,2019,4249,https://openalex.org/W2913323966
-1702,Artificial Intelligence,A survey on concept drift adaptation,https://doi.org/10.1145/2523813,2014,2929,https://openalex.org/W2099419573
-2740,Pulmonary and Respiratory Medicine,Surviving Sepsis Campaign,https://doi.org/10.1097/ccm.0b013e31827e83af,2013,9621,https://openalex.org/W3023757607
-2740,Pulmonary and Respiratory Medicine,"Surviving Sepsis Campaign: International Guidelines for Management of Severe Sepsis and Septic Shock, 2012",https://doi.org/10.1007/s00134-012-2769-8,2013,7251,https://openalex.org/W2442246762
-2740,Pulmonary and Respiratory Medicine,Geant4 developments and applications,https://doi.org/10.1109/tns.2006.869826,2006,6529,https://openalex.org/W2128881154
-3600,General Health Professions,The Lancet Commission on global mental health and sustainable development,https://doi.org/10.1016/s0140-6736(18)31612-x,2018,2912,https://openalex.org/W2897623369
-3600,General Health Professions,How should we define health?,https://doi.org/10.1136/bmj.d4163,2011,2505,https://openalex.org/W2167643701
-3600,General Health Professions,Effects of COVID-19 Home Confinement on Eating Behaviour and Physical Activity: Results of the ECLB-COVID19 International Online Survey,https://doi.org/10.3390/nu12061583,2020,2023,https://openalex.org/W3029840069
+3304,Education,Life designing: A paradigm for career construction in the 21st century,https://doi.org/10.1016/j.jvb.2009.04.004,2009,1810,https://openalex.org/W2166133196
+3304,Education,Contexts which shape and reshape new teachers’ identities: A multi-perspective study,https://doi.org/10.1016/j.tate.2005.09.002,2005,1486,https://openalex.org/W1963573356
+3304,Education,International Higher Education,https://doi.org/10.1007/978-94-017-8905-9_300412,2020,1316,https://openalex.org/W2975422600
+3304,Education,Motor Competence and its Effect on Positive Developmental Trajectories of Health,https://doi.org/10.1007/s40279-015-0351-6,2015,1237,https://openalex.org/W1565446748
+3304,Education,Base Nacional Comum Curricular – BNCC,https://doi.org/10.55602/rlic.v4i1.101,2016,1192,https://openalex.org/W4231578768
+3304,Education,Orthographic Depth and Its Impact on Universal Predictors of Reading,https://doi.org/10.1177/0956797610363406,2010,754,https://openalex.org/W2108394838
+3304,Education,Sustainable Development Goals and sustainability teaching at universities: Falling behind or getting ahead of the pack?,https://doi.org/10.1016/j.jclepro.2019.05.309,2019,713,https://openalex.org/W2947399006
+3304,Education,E-learning success determinants: Brazilian empirical study,https://doi.org/10.1016/j.compedu.2017.12.001,2017,610,https://openalex.org/W2774637605
+3304,Education,Para além do pensamento abissal: das linhas globais a uma ecologia de saberes,https://doi.org/10.1590/s0101-33002007000300004,2007,576,https://openalex.org/W2140993969
+1702,Artificial Intelligence,The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS),https://doi.org/10.1109/tmi.2014.2377694,2014,5913,https://openalex.org/W1641498739
+1702,Artificial Intelligence,Deep learning and process understanding for data-driven Earth system science,https://doi.org/10.1038/s41586-019-0912-1,2019,4274,https://openalex.org/W2913323966
+1702,Artificial Intelligence,A survey on concept drift adaptation,https://doi.org/10.1145/2523813,2014,2939,https://openalex.org/W2099419573
+1702,Artificial Intelligence,"Hyperspectral Unmixing Overview: Geometrical, Statistical, and Sparse Regression-Based Approaches",https://doi.org/10.1109/jstars.2012.2194696,2012,2655,https://openalex.org/W2163886442
+1702,Artificial Intelligence,Machine Learning Interpretability: A Survey on Methods and Metrics,https://doi.org/10.3390/electronics8080832,2019,1593,https://openalex.org/W2964303497
+1702,Artificial Intelligence,How to perform and report an impactful analysis using partial least squares: Guidelines for confirmatory and explanatory IS research,https://doi.org/10.1016/j.im.2019.05.003,2019,1511,https://openalex.org/W2945049087
+1702,Artificial Intelligence,Argumentation Schemes,https://doi.org/10.1017/cbo9780511802034,2008,1292,https://openalex.org/W581684831
+1702,Artificial Intelligence,Optomechanical Entanglement between a Movable Mirror and a Cavity Field,https://doi.org/10.1103/physrevlett.98.030405,2007,1158,https://openalex.org/W2110251070
+1702,Artificial Intelligence,Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support,https://doi.org/10.1007/978-3-319-67558-9,2017,1126,https://openalex.org/W3104370314
+1702,Artificial Intelligence,A Survey on Automatic Detection of Hate Speech in Text,https://doi.org/10.1145/3232676,2018,1078,https://openalex.org/W2887782043
+2740,Pulmonary and Respiratory Medicine,Surviving Sepsis Campaign,https://doi.org/10.1097/ccm.0b013e31827e83af,2013,9629,https://openalex.org/W3023757607
+2740,Pulmonary and Respiratory Medicine,"Surviving Sepsis Campaign: International Guidelines for Management of Severe Sepsis and Septic Shock, 2012",https://doi.org/10.1007/s00134-012-2769-8,2013,7252,https://openalex.org/W2442246762
+2740,Pulmonary and Respiratory Medicine,Geant4 developments and applications,https://doi.org/10.1109/tns.2006.869826,2006,6553,https://openalex.org/W2128881154
+2740,Pulmonary and Respiratory Medicine,Allergic Rhinitis and its Impact on Asthma (ARIA) 2008*,https://doi.org/10.1111/j.1398-9995.2007.01620.x,2008,4604,https://openalex.org/W2164132449
+2740,Pulmonary and Respiratory Medicine,Recent developments in Geant4,https://doi.org/10.1016/j.nima.2016.06.125,2016,3648,https://openalex.org/W1990869665
+2740,Pulmonary and Respiratory Medicine,EAU Guidelines on Renal Cell Carcinoma: 2014 Update,https://doi.org/10.1016/j.eururo.2015.01.005,2015,3428,https://openalex.org/W2164317031
+2740,Pulmonary and Respiratory Medicine,Breast cancer,https://doi.org/10.1038/s41572-019-0111-2,2019,2671,https://openalex.org/W4211005384
+2740,Pulmonary and Respiratory Medicine,"Early breast cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up",https://doi.org/10.1093/annonc/mdz173,2019,2076,https://openalex.org/W4211123279
+2740,Pulmonary and Respiratory Medicine,3rd ESO–ESMO International Consensus Guidelines for Advanced Breast Cancer (ABC 3),https://doi.org/10.1093/annonc/mdw544,2016,2047,https://openalex.org/W2560635244
+2740,Pulmonary and Respiratory Medicine,70-Gene Signature as an Aid to Treatment Decisions in Early-Stage Breast Cancer,https://doi.org/10.1056/nejmoa1602253,2016,1926,https://openalex.org/W2517421365
+3600,General Health Professions,The Lancet Commission on global mental health and sustainable development,https://doi.org/10.1016/s0140-6736(18)31612-x,2018,2942,https://openalex.org/W2897623369
+3600,General Health Professions,How should we define health?,https://doi.org/10.1136/bmj.d4163,2011,2508,https://openalex.org/W2167643701
+3600,General Health Professions,Effects of COVID-19 Home Confinement on Eating Behaviour and Physical Activity: Results of the ECLB-COVID19 International Online Survey,https://doi.org/10.3390/nu12061583,2020,2027,https://openalex.org/W3029840069
+3600,General Health Professions,"Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-Years for 29 Cancer Groups, 1990 to 2016",https://doi.org/10.1001/jamaoncol.2018.2706,2018,1492,https://openalex.org/W2991564522
+3600,General Health Professions,Physical activity and clustered cardiovascular risk in children: a cross-sectional study (The European Youth Heart Study),https://doi.org/10.1016/s0140-6736(06)69075-2,2006,1458,https://openalex.org/W2054358324
+3600,General Health Professions,Mental disorders among college students in the World Health Organization World Mental Health Surveys,https://doi.org/10.1017/s0033291716001665,2016,1451,https://openalex.org/W2503814187
+3600,General Health Professions,The epidemiology of traumatic event exposure worldwide: results from the World Mental Health Survey Consortium,https://doi.org/10.1017/s0033291715001981,2015,1256,https://openalex.org/W1848819387
+3600,General Health Professions,Socioeconomic status and the 25 × 25 risk factors as determinants of premature mortality: a multicohort study and meta-analysis of 1·7 million men and women,https://doi.org/10.1016/s0140-6736(16)32380-7,2017,1218,https://openalex.org/W2585915213
+3600,General Health Professions,The burden of heat-related mortality attributable to recent human-induced climate change,https://doi.org/10.1038/s41558-021-01058-x,2021,1141,https://openalex.org/W3171801815
+3600,General Health Professions,"How smartphones are changing the face of mobile and participatory healthcare: an overview, with example from eCAALYX",https://doi.org/10.1186/1475-925x-10-24,2011,1091,https://openalex.org/W2097379719

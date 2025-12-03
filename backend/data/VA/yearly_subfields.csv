@@ -1,355 +1,355 @@
 year,id,name,works_count,country,fetch_date
-2005,3103,Astronomy and Astrophysics,4,VA,2025-12-01 19:13:33
-2005,3109,Statistical and Nonlinear Physics,4,VA,2025-12-01 19:13:33
-2005,1212,Religious studies,3,VA,2025-12-01 19:13:33
-2005,2610,Mathematical Physics,3,VA,2025-12-01 19:13:33
-2005,3106,Nuclear and High Energy Physics,2,VA,2025-12-01 19:13:33
-2005,3320,Political Science and International Relations,2,VA,2025-12-01 19:13:33
-2005,1908,Geophysics,1,VA,2025-12-01 19:13:33
-2005,2608,Geometry and Topology,1,VA,2025-12-01 19:13:33
-2005,3107,"Atomic and Molecular Physics, and Optics",1,VA,2025-12-01 19:13:33
-2005,3304,Education,1,VA,2025-12-01 19:13:33
-2005,3312,Sociology and Political Science,1,VA,2025-12-01 19:13:33
-2006,3103,Astronomy and Astrophysics,6,VA,2025-12-01 19:13:33
-2006,3312,Sociology and Political Science,2,VA,2025-12-01 19:13:33
-2006,1908,Geophysics,1,VA,2025-12-01 19:13:33
-2006,2002,Economics and Econometrics,1,VA,2025-12-01 19:13:33
-2006,3106,Nuclear and High Energy Physics,1,VA,2025-12-01 19:13:33
-2006,3109,Statistical and Nonlinear Physics,1,VA,2025-12-01 19:13:33
-2007,3103,Astronomy and Astrophysics,5,VA,2025-12-01 19:13:33
-2007,3312,Sociology and Political Science,4,VA,2025-12-01 19:13:33
-2007,2610,Mathematical Physics,2,VA,2025-12-01 19:13:33
-2007,3105,Instrumentation,2,VA,2025-12-01 19:13:33
-2007,3109,Statistical and Nonlinear Physics,2,VA,2025-12-01 19:13:33
-2007,1202,History,1,VA,2025-12-01 19:13:33
-2007,1207,History and Philosophy of Science,1,VA,2025-12-01 19:13:33
-2007,1212,Religious studies,1,VA,2025-12-01 19:13:33
-2007,1407,Organizational Behavior and Human Resource Management,1,VA,2025-12-01 19:13:33
-2007,2303,Ecology,1,VA,2025-12-01 19:13:33
-2007,2602,Algebra and Number Theory,1,VA,2025-12-01 19:13:33
-2007,2739,"Public Health, Environmental and Occupational Health",1,VA,2025-12-01 19:13:33
-2007,3106,Nuclear and High Energy Physics,1,VA,2025-12-01 19:13:33
-2007,3304,Education,1,VA,2025-12-01 19:13:33
-2007,3311,Safety Research,1,VA,2025-12-01 19:13:33
-2007,3320,Political Science and International Relations,1,VA,2025-12-01 19:13:33
-2008,3103,Astronomy and Astrophysics,6,VA,2025-12-01 19:13:33
-2008,3106,Nuclear and High Energy Physics,3,VA,2025-12-01 19:13:33
-2008,1902,Atmospheric Science,2,VA,2025-12-01 19:13:33
-2008,1908,Geophysics,2,VA,2025-12-01 19:13:33
-2008,1202,History,1,VA,2025-12-01 19:13:33
-2008,1205,Classics,1,VA,2025-12-01 19:13:33
-2008,1212,Religious studies,1,VA,2025-12-01 19:13:33
-2008,2610,Mathematical Physics,1,VA,2025-12-01 19:13:33
-2008,3105,Instrumentation,1,VA,2025-12-01 19:13:33
-2008,3107,"Atomic and Molecular Physics, and Optics",1,VA,2025-12-01 19:13:33
-2008,3109,Statistical and Nonlinear Physics,1,VA,2025-12-01 19:13:33
-2008,3304,Education,1,VA,2025-12-01 19:13:33
-2008,3305,"Geography, Planning and Development",1,VA,2025-12-01 19:13:33
-2008,3311,Safety Research,1,VA,2025-12-01 19:13:33
-2009,3103,Astronomy and Astrophysics,7,VA,2025-12-01 19:13:33
-2009,1204,Archeology,2,VA,2025-12-01 19:13:33
-2009,1207,History and Philosophy of Science,1,VA,2025-12-01 19:13:33
-2009,1209,Museology,1,VA,2025-12-01 19:13:33
-2009,1211,Philosophy,1,VA,2025-12-01 19:13:33
-2009,1212,Religious studies,1,VA,2025-12-01 19:13:33
-2009,1902,Atmospheric Science,1,VA,2025-12-01 19:13:33
-2009,1912,Space and Planetary Science,1,VA,2025-12-01 19:13:33
-2009,3105,Instrumentation,1,VA,2025-12-01 19:13:33
-2009,3312,Sociology and Political Science,1,VA,2025-12-01 19:13:33
-2009,3320,Political Science and International Relations,1,VA,2025-12-01 19:13:33
-2010,3103,Astronomy and Astrophysics,8,VA,2025-12-01 19:13:33
-2010,1202,History,4,VA,2025-12-01 19:13:33
-2010,1205,Classics,3,VA,2025-12-01 19:13:33
-2010,3109,Statistical and Nonlinear Physics,3,VA,2025-12-01 19:13:33
-2010,1204,Archeology,1,VA,2025-12-01 19:13:33
-2010,1206,Conservation,1,VA,2025-12-01 19:13:33
-2010,1207,History and Philosophy of Science,1,VA,2025-12-01 19:13:33
-2010,1902,Atmospheric Science,1,VA,2025-12-01 19:13:33
-2010,1908,Geophysics,1,VA,2025-12-01 19:13:33
-2010,3105,Instrumentation,1,VA,2025-12-01 19:13:33
-2010,3106,Nuclear and High Energy Physics,1,VA,2025-12-01 19:13:33
-2010,3312,Sociology and Political Science,1,VA,2025-12-01 19:13:33
-2010,3314,Anthropology,1,VA,2025-12-01 19:13:33
-2010,3320,Political Science and International Relations,1,VA,2025-12-01 19:13:33
-2011,3103,Astronomy and Astrophysics,8,VA,2025-12-01 19:13:33
-2011,1212,Religious studies,3,VA,2025-12-01 19:13:33
-2011,1908,Geophysics,3,VA,2025-12-01 19:13:33
-2011,3312,Sociology and Political Science,3,VA,2025-12-01 19:13:33
-2011,3105,Instrumentation,2,VA,2025-12-01 19:13:33
-2011,3308,Law,2,VA,2025-12-01 19:13:33
-2011,1202,History,1,VA,2025-12-01 19:13:33
-2011,1204,Archeology,1,VA,2025-12-01 19:13:33
-2011,1205,Classics,1,VA,2025-12-01 19:13:33
-2011,3107,"Atomic and Molecular Physics, and Optics",1,VA,2025-12-01 19:13:33
-2011,3109,Statistical and Nonlinear Physics,1,VA,2025-12-01 19:13:33
-2011,3320,Political Science and International Relations,1,VA,2025-12-01 19:13:33
-2012,3103,Astronomy and Astrophysics,6,VA,2025-12-01 19:13:33
-2012,1212,Religious studies,3,VA,2025-12-01 19:13:33
-2012,1204,Archeology,1,VA,2025-12-01 19:13:33
-2012,1902,Atmospheric Science,1,VA,2025-12-01 19:13:33
-2012,1908,Geophysics,1,VA,2025-12-01 19:13:33
-2012,1911,Paleontology,1,VA,2025-12-01 19:13:33
-2012,3105,Instrumentation,1,VA,2025-12-01 19:13:33
-2012,3304,Education,1,VA,2025-12-01 19:13:33
-2012,3310,Linguistics and Language,1,VA,2025-12-01 19:13:33
-2012,3312,Sociology and Political Science,1,VA,2025-12-01 19:13:33
-2012,3504,Oral Surgery,1,VA,2025-12-01 19:13:33
-2013,3103,Astronomy and Astrophysics,10,VA,2025-12-01 19:13:33
-2013,1212,Religious studies,4,VA,2025-12-01 19:13:33
-2013,3312,Sociology and Political Science,3,VA,2025-12-01 19:13:33
-2013,1202,History,2,VA,2025-12-01 19:13:33
-2013,3105,Instrumentation,2,VA,2025-12-01 19:13:33
-2013,3106,Nuclear and High Energy Physics,2,VA,2025-12-01 19:13:33
-2013,3109,Statistical and Nonlinear Physics,2,VA,2025-12-01 19:13:33
-2013,3320,Political Science and International Relations,2,VA,2025-12-01 19:13:33
-2013,1105,"Ecology, Evolution, Behavior and Systematics",1,VA,2025-12-01 19:13:33
-2013,1204,Archeology,1,VA,2025-12-01 19:13:33
-2013,1902,Atmospheric Science,1,VA,2025-12-01 19:13:33
-2013,1908,Geophysics,1,VA,2025-12-01 19:13:33
-2013,1911,Paleontology,1,VA,2025-12-01 19:13:33
-2013,2731,Ophthalmology,1,VA,2025-12-01 19:13:33
-2013,3314,Anthropology,1,VA,2025-12-01 19:13:33
-2014,3103,Astronomy and Astrophysics,5,VA,2025-12-01 19:13:33
-2014,1205,Classics,3,VA,2025-12-01 19:13:33
-2014,3312,Sociology and Political Science,3,VA,2025-12-01 19:13:33
-2014,1202,History,2,VA,2025-12-01 19:13:33
-2014,1212,Religious studies,2,VA,2025-12-01 19:13:33
-2014,3308,Law,2,VA,2025-12-01 19:13:33
-2014,3320,Political Science and International Relations,2,VA,2025-12-01 19:13:33
-2014,1207,History and Philosophy of Science,1,VA,2025-12-01 19:13:33
-2014,1902,Atmospheric Science,1,VA,2025-12-01 19:13:33
-2014,1908,Geophysics,1,VA,2025-12-01 19:13:33
-2014,2206,Computational Mechanics,1,VA,2025-12-01 19:13:33
-2014,2303,Ecology,1,VA,2025-12-01 19:13:33
-2014,2739,"Public Health, Environmental and Occupational Health",1,VA,2025-12-01 19:13:33
-2014,3105,Instrumentation,1,VA,2025-12-01 19:13:33
-2014,3106,Nuclear and High Energy Physics,1,VA,2025-12-01 19:13:33
-2014,3109,Statistical and Nonlinear Physics,1,VA,2025-12-01 19:13:33
-2015,3312,Sociology and Political Science,9,VA,2025-12-01 19:13:33
-2015,3103,Astronomy and Astrophysics,8,VA,2025-12-01 19:13:33
-2015,1202,History,5,VA,2025-12-01 19:13:33
-2015,1212,Religious studies,4,VA,2025-12-01 19:13:33
-2015,3105,Instrumentation,4,VA,2025-12-01 19:13:33
-2015,3304,Education,3,VA,2025-12-01 19:13:33
-2015,2002,Economics and Econometrics,1,VA,2025-12-01 19:13:33
-2015,2202,Aerospace Engineering,1,VA,2025-12-01 19:13:33
-2015,3317,Demography,1,VA,2025-12-01 19:13:33
-2015,3320,Political Science and International Relations,1,VA,2025-12-01 19:13:33
-2016,3312,Sociology and Political Science,11,VA,2025-12-01 19:13:33
-2016,3320,Political Science and International Relations,6,VA,2025-12-01 19:13:33
-2016,3103,Astronomy and Astrophysics,5,VA,2025-12-01 19:13:33
-2016,1202,History,3,VA,2025-12-01 19:13:33
-2016,1205,Classics,3,VA,2025-12-01 19:13:33
-2016,1212,Religious studies,3,VA,2025-12-01 19:13:33
-2016,1203,Language and Linguistics,1,VA,2025-12-01 19:13:33
-2016,1207,History and Philosophy of Science,1,VA,2025-12-01 19:13:33
-2016,1208,Literature and Literary Theory,1,VA,2025-12-01 19:13:33
-2016,1211,Philosophy,1,VA,2025-12-01 19:13:33
-2016,1710,Information Systems,1,VA,2025-12-01 19:13:33
-2016,2308,"Management, Monitoring, Policy and Law",1,VA,2025-12-01 19:13:33
-2016,2736,Pharmacology,1,VA,2025-12-01 19:13:33
-2016,2743,Reproductive Medicine,1,VA,2025-12-01 19:13:33
-2016,2805,Cognitive Neuroscience,1,VA,2025-12-01 19:13:33
-2016,3105,Instrumentation,1,VA,2025-12-01 19:13:33
-2016,3304,Education,1,VA,2025-12-01 19:13:33
-2016,3305,"Geography, Planning and Development",1,VA,2025-12-01 19:13:33
-2016,3306,Health,1,VA,2025-12-01 19:13:33
-2016,3307,Human Factors and Ergonomics,1,VA,2025-12-01 19:13:33
-2016,3308,Law,1,VA,2025-12-01 19:13:33
-2017,3312,Sociology and Political Science,15,VA,2025-12-01 19:13:33
-2017,1212,Religious studies,8,VA,2025-12-01 19:13:33
-2017,3103,Astronomy and Astrophysics,6,VA,2025-12-01 19:13:33
-2017,3320,Political Science and International Relations,6,VA,2025-12-01 19:13:33
-2017,1202,History,4,VA,2025-12-01 19:13:33
-2017,1205,Classics,2,VA,2025-12-01 19:13:33
-2017,1206,Conservation,2,VA,2025-12-01 19:13:33
-2017,1208,Literature and Literary Theory,2,VA,2025-12-01 19:13:33
-2017,1908,Geophysics,2,VA,2025-12-01 19:13:33
-2017,3106,Nuclear and High Energy Physics,2,VA,2025-12-01 19:13:33
-2017,3311,Safety Research,2,VA,2025-12-01 19:13:33
-2017,1200,General Arts and Humanities,1,VA,2025-12-01 19:13:33
-2017,1204,Archeology,1,VA,2025-12-01 19:13:33
-2017,1209,Museology,1,VA,2025-12-01 19:13:33
-2017,1211,Philosophy,1,VA,2025-12-01 19:13:33
-2017,1902,Atmospheric Science,1,VA,2025-12-01 19:13:33
-2017,1904,Earth-Surface Processes,1,VA,2025-12-01 19:13:33
-2017,2306,Global and Planetary Change,1,VA,2025-12-01 19:13:33
-2017,3105,Instrumentation,1,VA,2025-12-01 19:13:33
-2017,3314,Anthropology,1,VA,2025-12-01 19:13:33
-2017,3316,Cultural Studies,1,VA,2025-12-01 19:13:33
-2017,3322,Urban Studies,1,VA,2025-12-01 19:13:33
-2018,1205,Classics,21,VA,2025-12-01 19:13:33
-2018,3314,Anthropology,19,VA,2025-12-01 19:13:33
-2018,3312,Sociology and Political Science,15,VA,2025-12-01 19:13:33
-2018,3103,Astronomy and Astrophysics,13,VA,2025-12-01 19:13:33
-2018,1212,Religious studies,11,VA,2025-12-01 19:13:33
-2018,1202,History,10,VA,2025-12-01 19:13:33
-2018,1203,Language and Linguistics,8,VA,2025-12-01 19:13:33
-2018,1204,Archeology,7,VA,2025-12-01 19:13:33
-2018,3106,Nuclear and High Energy Physics,6,VA,2025-12-01 19:13:33
-2018,3320,Political Science and International Relations,5,VA,2025-12-01 19:13:33
-2018,1206,Conservation,3,VA,2025-12-01 19:13:33
-2018,3105,Instrumentation,3,VA,2025-12-01 19:13:33
-2018,2206,Computational Mechanics,2,VA,2025-12-01 19:13:33
-2018,3109,Statistical and Nonlinear Physics,2,VA,2025-12-01 19:13:33
-2018,1105,"Ecology, Evolution, Behavior and Systematics",1,VA,2025-12-01 19:13:33
-2018,1904,Earth-Surface Processes,1,VA,2025-12-01 19:13:33
-2018,2002,Economics and Econometrics,1,VA,2025-12-01 19:13:33
-2018,2306,Global and Planetary Change,1,VA,2025-12-01 19:13:33
-2018,2307,"Health, Toxicology and Mutagenesis",1,VA,2025-12-01 19:13:33
-2018,3108,Radiation,1,VA,2025-12-01 19:13:33
-2018,3305,"Geography, Planning and Development",1,VA,2025-12-01 19:13:33
-2018,3308,Law,1,VA,2025-12-01 19:13:33
-2018,3310,Linguistics and Language,1,VA,2025-12-01 19:13:33
-2018,3311,Safety Research,1,VA,2025-12-01 19:13:33
-2018,3318,Gender Studies,1,VA,2025-12-01 19:13:33
-2019,3103,Astronomy and Astrophysics,14,VA,2025-12-01 19:13:33
-2019,3106,Nuclear and High Energy Physics,5,VA,2025-12-01 19:13:33
-2019,1204,Archeology,4,VA,2025-12-01 19:13:33
-2019,1908,Geophysics,3,VA,2025-12-01 19:13:33
-2019,3312,Sociology and Political Science,3,VA,2025-12-01 19:13:33
-2019,1206,Conservation,2,VA,2025-12-01 19:13:33
-2019,1904,Earth-Surface Processes,2,VA,2025-12-01 19:13:33
-2019,2303,Ecology,2,VA,2025-12-01 19:13:33
-2019,3314,Anthropology,2,VA,2025-12-01 19:13:33
-2019,1202,History,1,VA,2025-12-01 19:13:33
-2019,1205,Classics,1,VA,2025-12-01 19:13:33
-2019,1211,Philosophy,1,VA,2025-12-01 19:13:33
-2019,1212,Religious studies,1,VA,2025-12-01 19:13:33
-2019,1312,Molecular Biology,1,VA,2025-12-01 19:13:33
-2019,1902,Atmospheric Science,1,VA,2025-12-01 19:13:33
-2019,1911,Paleontology,1,VA,2025-12-01 19:13:33
-2019,2202,Aerospace Engineering,1,VA,2025-12-01 19:13:33
-2019,2206,Computational Mechanics,1,VA,2025-12-01 19:13:33
-2019,3105,Instrumentation,1,VA,2025-12-01 19:13:33
-2019,3109,Statistical and Nonlinear Physics,1,VA,2025-12-01 19:13:33
-2019,3304,Education,1,VA,2025-12-01 19:13:33
-2019,3311,Safety Research,1,VA,2025-12-01 19:13:33
-2019,3320,Political Science and International Relations,1,VA,2025-12-01 19:13:33
-2020,3103,Astronomy and Astrophysics,11,VA,2025-12-01 19:13:33
-2020,3105,Instrumentation,5,VA,2025-12-01 19:13:33
-2020,1202,History,4,VA,2025-12-01 19:13:33
-2020,1204,Archeology,3,VA,2025-12-01 19:13:33
-2020,1212,Religious studies,3,VA,2025-12-01 19:13:33
-2020,2303,Ecology,3,VA,2025-12-01 19:13:33
-2020,3312,Sociology and Political Science,3,VA,2025-12-01 19:13:33
-2020,1205,Classics,2,VA,2025-12-01 19:13:33
-2020,1707,Computer Vision and Pattern Recognition,2,VA,2025-12-01 19:13:33
-2020,1206,Conservation,1,VA,2025-12-01 19:13:33
-2020,1710,Information Systems,1,VA,2025-12-01 19:13:33
-2020,1907,Geology,1,VA,2025-12-01 19:13:33
-2020,1908,Geophysics,1,VA,2025-12-01 19:13:33
-2020,2202,Aerospace Engineering,1,VA,2025-12-01 19:13:33
-2020,2206,Computational Mechanics,1,VA,2025-12-01 19:13:33
-2020,3106,Nuclear and High Energy Physics,1,VA,2025-12-01 19:13:33
-2020,3305,"Geography, Planning and Development",1,VA,2025-12-01 19:13:33
-2020,3311,Safety Research,1,VA,2025-12-01 19:13:33
-2020,3320,Political Science and International Relations,1,VA,2025-12-01 19:13:33
-2021,3103,Astronomy and Astrophysics,11,VA,2025-12-01 19:13:33
-2021,3312,Sociology and Political Science,5,VA,2025-12-01 19:13:33
-2021,1202,History,4,VA,2025-12-01 19:13:33
-2021,1204,Archeology,4,VA,2025-12-01 19:13:33
-2021,1212,Religious studies,3,VA,2025-12-01 19:13:33
-2021,3106,Nuclear and High Energy Physics,3,VA,2025-12-01 19:13:33
-2021,1205,Classics,2,VA,2025-12-01 19:13:33
-2021,3105,Instrumentation,2,VA,2025-12-01 19:13:33
-2021,3314,Anthropology,2,VA,2025-12-01 19:13:33
-2021,3320,Political Science and International Relations,2,VA,2025-12-01 19:13:33
-2021,1206,Conservation,1,VA,2025-12-01 19:13:33
-2021,1207,History and Philosophy of Science,1,VA,2025-12-01 19:13:33
-2021,1605,Organic Chemistry,1,VA,2025-12-01 19:13:33
-2021,1904,Earth-Surface Processes,1,VA,2025-12-01 19:13:33
-2021,2206,Computational Mechanics,1,VA,2025-12-01 19:13:33
-2021,2303,Ecology,1,VA,2025-12-01 19:13:33
-2021,3107,"Atomic and Molecular Physics, and Optics",1,VA,2025-12-01 19:13:33
-2021,3308,Law,1,VA,2025-12-01 19:13:33
-2021,3322,Urban Studies,1,VA,2025-12-01 19:13:33
-2022,1202,History,16,VA,2025-12-01 19:13:33
-2022,3320,Political Science and International Relations,12,VA,2025-12-01 19:13:33
-2022,3103,Astronomy and Astrophysics,11,VA,2025-12-01 19:13:33
-2022,1204,Archeology,7,VA,2025-12-01 19:13:33
-2022,3312,Sociology and Political Science,6,VA,2025-12-01 19:13:33
-2022,1205,Classics,5,VA,2025-12-01 19:13:33
-2022,3105,Instrumentation,5,VA,2025-12-01 19:13:33
-2022,3106,Nuclear and High Energy Physics,3,VA,2025-12-01 19:13:33
-2022,1206,Conservation,2,VA,2025-12-01 19:13:33
-2022,1207,History and Philosophy of Science,2,VA,2025-12-01 19:13:33
-2022,1211,Philosophy,2,VA,2025-12-01 19:13:33
-2022,1212,Religious studies,2,VA,2025-12-01 19:13:33
-2022,3314,Anthropology,2,VA,2025-12-01 19:13:33
-2022,1110,Plant Science,1,VA,2025-12-01 19:13:33
-2022,1203,Language and Linguistics,1,VA,2025-12-01 19:13:33
-2022,1705,Computer Networks and Communications,1,VA,2025-12-01 19:13:33
-2022,1707,Computer Vision and Pattern Recognition,1,VA,2025-12-01 19:13:33
-2022,1802,Information Systems and Management,1,VA,2025-12-01 19:13:33
-2022,1904,Earth-Surface Processes,1,VA,2025-12-01 19:13:33
-2022,1908,Geophysics,1,VA,2025-12-01 19:13:33
-2022,1912,Space and Planetary Science,1,VA,2025-12-01 19:13:33
-2022,2202,Aerospace Engineering,1,VA,2025-12-01 19:13:33
-2022,2208,Electrical and Electronic Engineering,1,VA,2025-12-01 19:13:33
-2022,2303,Ecology,1,VA,2025-12-01 19:13:33
-2022,2739,"Public Health, Environmental and Occupational Health",1,VA,2025-12-01 19:13:33
-2022,3107,"Atomic and Molecular Physics, and Optics",1,VA,2025-12-01 19:13:33
-2022,3305,"Geography, Planning and Development",1,VA,2025-12-01 19:13:33
-2022,3306,Health,1,VA,2025-12-01 19:13:33
-2022,3308,Law,1,VA,2025-12-01 19:13:33
-2022,3310,Linguistics and Language,1,VA,2025-12-01 19:13:33
-2023,3312,Sociology and Political Science,13,VA,2025-12-01 19:13:33
-2023,3103,Astronomy and Astrophysics,10,VA,2025-12-01 19:13:33
-2023,1202,History,9,VA,2025-12-01 19:13:33
-2023,1212,Religious studies,8,VA,2025-12-01 19:13:33
-2023,1205,Classics,6,VA,2025-12-01 19:13:33
-2023,3106,Nuclear and High Energy Physics,6,VA,2025-12-01 19:13:33
-2023,3320,Political Science and International Relations,4,VA,2025-12-01 19:13:33
-2023,1207,History and Philosophy of Science,3,VA,2025-12-01 19:13:33
-2023,3314,Anthropology,3,VA,2025-12-01 19:13:33
-2023,1204,Archeology,2,VA,2025-12-01 19:13:33
-2023,1710,Information Systems,2,VA,2025-12-01 19:13:33
-2023,3105,Instrumentation,2,VA,2025-12-01 19:13:33
-2023,3305,"Geography, Planning and Development",2,VA,2025-12-01 19:13:33
-2023,1203,Language and Linguistics,1,VA,2025-12-01 19:13:33
-2023,1206,Conservation,1,VA,2025-12-01 19:13:33
-2023,1209,Museology,1,VA,2025-12-01 19:13:33
-2023,2202,Aerospace Engineering,1,VA,2025-12-01 19:13:33
-2023,2208,Electrical and Electronic Engineering,1,VA,2025-12-01 19:13:33
-2023,2604,Applied Mathematics,1,VA,2025-12-01 19:13:33
-2023,3107,"Atomic and Molecular Physics, and Optics",1,VA,2025-12-01 19:13:33
-2023,3303,Development,1,VA,2025-12-01 19:13:33
-2023,3311,Safety Research,1,VA,2025-12-01 19:13:33
-2024,3103,Astronomy and Astrophysics,11,VA,2025-12-01 19:13:33
-2024,1202,History,9,VA,2025-12-01 19:13:33
-2024,3312,Sociology and Political Science,9,VA,2025-12-01 19:13:33
-2024,1205,Classics,6,VA,2025-12-01 19:13:33
-2024,3320,Political Science and International Relations,5,VA,2025-12-01 19:13:33
-2024,1204,Archeology,4,VA,2025-12-01 19:13:33
-2024,3106,Nuclear and High Energy Physics,4,VA,2025-12-01 19:13:33
-2024,1211,Philosophy,3,VA,2025-12-01 19:13:33
-2024,1212,Religious studies,3,VA,2025-12-01 19:13:33
-2024,3105,Instrumentation,3,VA,2025-12-01 19:13:33
-2024,1207,History and Philosophy of Science,2,VA,2025-12-01 19:13:33
-2024,2202,Aerospace Engineering,2,VA,2025-12-01 19:13:33
-2024,3310,Linguistics and Language,2,VA,2025-12-01 19:13:33
-2024,3314,Anthropology,2,VA,2025-12-01 19:13:33
-2024,1203,Language and Linguistics,1,VA,2025-12-01 19:13:33
-2024,1908,Geophysics,1,VA,2025-12-01 19:13:33
-2024,2002,Economics and Econometrics,1,VA,2025-12-01 19:13:33
-2024,2312,Water Science and Technology,1,VA,2025-12-01 19:13:33
-2024,3108,Radiation,1,VA,2025-12-01 19:13:33
-2024,3304,Education,1,VA,2025-12-01 19:13:33
-2024,3311,Safety Research,1,VA,2025-12-01 19:13:33
-2025,3103,Astronomy and Astrophysics,13,VA,2025-12-01 19:13:33
-2025,3106,Nuclear and High Energy Physics,5,VA,2025-12-01 19:13:33
-2025,3105,Instrumentation,3,VA,2025-12-01 19:13:33
-2025,1202,History,2,VA,2025-12-01 19:13:33
-2025,2206,Computational Mechanics,2,VA,2025-12-01 19:13:33
-2025,3109,Statistical and Nonlinear Physics,2,VA,2025-12-01 19:13:33
-2025,3312,Sociology and Political Science,2,VA,2025-12-01 19:13:33
-2025,1205,Classics,1,VA,2025-12-01 19:13:33
-2025,1207,History and Philosophy of Science,1,VA,2025-12-01 19:13:33
-2025,1902,Atmospheric Science,1,VA,2025-12-01 19:13:33
-2025,1908,Geophysics,1,VA,2025-12-01 19:13:33
-2025,2303,Ecology,1,VA,2025-12-01 19:13:33
-2025,3108,Radiation,1,VA,2025-12-01 19:13:33
-2025,3314,Anthropology,1,VA,2025-12-01 19:13:33
-2025,3315,Communication,1,VA,2025-12-01 19:13:33
-2025,3320,Political Science and International Relations,1,VA,2025-12-01 19:13:33
+2005,3103,Astronomy and Astrophysics,4,VA,2025-12-03 12:50:54
+2005,3109,Statistical and Nonlinear Physics,4,VA,2025-12-03 12:50:54
+2005,1212,Religious studies,3,VA,2025-12-03 12:50:54
+2005,2610,Mathematical Physics,3,VA,2025-12-03 12:50:54
+2005,3106,Nuclear and High Energy Physics,2,VA,2025-12-03 12:50:54
+2005,3320,Political Science and International Relations,2,VA,2025-12-03 12:50:54
+2005,1908,Geophysics,1,VA,2025-12-03 12:50:54
+2005,2608,Geometry and Topology,1,VA,2025-12-03 12:50:54
+2005,3107,"Atomic and Molecular Physics, and Optics",1,VA,2025-12-03 12:50:54
+2005,3304,Education,1,VA,2025-12-03 12:50:54
+2005,3312,Sociology and Political Science,1,VA,2025-12-03 12:50:54
+2006,3103,Astronomy and Astrophysics,6,VA,2025-12-03 12:50:54
+2006,3312,Sociology and Political Science,2,VA,2025-12-03 12:50:54
+2006,1908,Geophysics,1,VA,2025-12-03 12:50:54
+2006,2002,Economics and Econometrics,1,VA,2025-12-03 12:50:54
+2006,3106,Nuclear and High Energy Physics,1,VA,2025-12-03 12:50:54
+2006,3109,Statistical and Nonlinear Physics,1,VA,2025-12-03 12:50:54
+2007,3103,Astronomy and Astrophysics,5,VA,2025-12-03 12:50:54
+2007,3312,Sociology and Political Science,4,VA,2025-12-03 12:50:54
+2007,2610,Mathematical Physics,2,VA,2025-12-03 12:50:54
+2007,3105,Instrumentation,2,VA,2025-12-03 12:50:54
+2007,3109,Statistical and Nonlinear Physics,2,VA,2025-12-03 12:50:54
+2007,1202,History,1,VA,2025-12-03 12:50:54
+2007,1207,History and Philosophy of Science,1,VA,2025-12-03 12:50:54
+2007,1212,Religious studies,1,VA,2025-12-03 12:50:54
+2007,1407,Organizational Behavior and Human Resource Management,1,VA,2025-12-03 12:50:54
+2007,2303,Ecology,1,VA,2025-12-03 12:50:54
+2007,2602,Algebra and Number Theory,1,VA,2025-12-03 12:50:54
+2007,2739,"Public Health, Environmental and Occupational Health",1,VA,2025-12-03 12:50:54
+2007,3106,Nuclear and High Energy Physics,1,VA,2025-12-03 12:50:54
+2007,3304,Education,1,VA,2025-12-03 12:50:54
+2007,3311,Safety Research,1,VA,2025-12-03 12:50:54
+2007,3320,Political Science and International Relations,1,VA,2025-12-03 12:50:54
+2008,3103,Astronomy and Astrophysics,6,VA,2025-12-03 12:50:54
+2008,3106,Nuclear and High Energy Physics,3,VA,2025-12-03 12:50:54
+2008,1902,Atmospheric Science,2,VA,2025-12-03 12:50:54
+2008,1908,Geophysics,2,VA,2025-12-03 12:50:54
+2008,1202,History,1,VA,2025-12-03 12:50:54
+2008,1205,Classics,1,VA,2025-12-03 12:50:54
+2008,1212,Religious studies,1,VA,2025-12-03 12:50:54
+2008,2610,Mathematical Physics,1,VA,2025-12-03 12:50:54
+2008,3105,Instrumentation,1,VA,2025-12-03 12:50:54
+2008,3107,"Atomic and Molecular Physics, and Optics",1,VA,2025-12-03 12:50:54
+2008,3109,Statistical and Nonlinear Physics,1,VA,2025-12-03 12:50:54
+2008,3304,Education,1,VA,2025-12-03 12:50:54
+2008,3305,"Geography, Planning and Development",1,VA,2025-12-03 12:50:54
+2008,3311,Safety Research,1,VA,2025-12-03 12:50:54
+2009,3103,Astronomy and Astrophysics,7,VA,2025-12-03 12:50:54
+2009,1204,Archeology,2,VA,2025-12-03 12:50:54
+2009,1207,History and Philosophy of Science,1,VA,2025-12-03 12:50:54
+2009,1209,Museology,1,VA,2025-12-03 12:50:54
+2009,1211,Philosophy,1,VA,2025-12-03 12:50:54
+2009,1212,Religious studies,1,VA,2025-12-03 12:50:54
+2009,1902,Atmospheric Science,1,VA,2025-12-03 12:50:54
+2009,1912,Space and Planetary Science,1,VA,2025-12-03 12:50:54
+2009,3105,Instrumentation,1,VA,2025-12-03 12:50:54
+2009,3312,Sociology and Political Science,1,VA,2025-12-03 12:50:54
+2009,3320,Political Science and International Relations,1,VA,2025-12-03 12:50:54
+2010,3103,Astronomy and Astrophysics,8,VA,2025-12-03 12:50:54
+2010,1202,History,4,VA,2025-12-03 12:50:54
+2010,1205,Classics,3,VA,2025-12-03 12:50:54
+2010,3109,Statistical and Nonlinear Physics,3,VA,2025-12-03 12:50:54
+2010,1204,Archeology,1,VA,2025-12-03 12:50:54
+2010,1206,Conservation,1,VA,2025-12-03 12:50:54
+2010,1207,History and Philosophy of Science,1,VA,2025-12-03 12:50:54
+2010,1902,Atmospheric Science,1,VA,2025-12-03 12:50:54
+2010,1908,Geophysics,1,VA,2025-12-03 12:50:54
+2010,3105,Instrumentation,1,VA,2025-12-03 12:50:54
+2010,3106,Nuclear and High Energy Physics,1,VA,2025-12-03 12:50:54
+2010,3312,Sociology and Political Science,1,VA,2025-12-03 12:50:54
+2010,3314,Anthropology,1,VA,2025-12-03 12:50:54
+2010,3320,Political Science and International Relations,1,VA,2025-12-03 12:50:54
+2011,3103,Astronomy and Astrophysics,8,VA,2025-12-03 12:50:54
+2011,1212,Religious studies,3,VA,2025-12-03 12:50:54
+2011,1908,Geophysics,3,VA,2025-12-03 12:50:54
+2011,3312,Sociology and Political Science,3,VA,2025-12-03 12:50:54
+2011,3105,Instrumentation,2,VA,2025-12-03 12:50:54
+2011,3308,Law,2,VA,2025-12-03 12:50:54
+2011,1202,History,1,VA,2025-12-03 12:50:54
+2011,1204,Archeology,1,VA,2025-12-03 12:50:54
+2011,1205,Classics,1,VA,2025-12-03 12:50:54
+2011,3107,"Atomic and Molecular Physics, and Optics",1,VA,2025-12-03 12:50:54
+2011,3109,Statistical and Nonlinear Physics,1,VA,2025-12-03 12:50:54
+2011,3320,Political Science and International Relations,1,VA,2025-12-03 12:50:54
+2012,3103,Astronomy and Astrophysics,6,VA,2025-12-03 12:50:54
+2012,1212,Religious studies,3,VA,2025-12-03 12:50:54
+2012,1204,Archeology,1,VA,2025-12-03 12:50:54
+2012,1902,Atmospheric Science,1,VA,2025-12-03 12:50:54
+2012,1908,Geophysics,1,VA,2025-12-03 12:50:54
+2012,1911,Paleontology,1,VA,2025-12-03 12:50:54
+2012,3105,Instrumentation,1,VA,2025-12-03 12:50:54
+2012,3304,Education,1,VA,2025-12-03 12:50:54
+2012,3310,Linguistics and Language,1,VA,2025-12-03 12:50:54
+2012,3312,Sociology and Political Science,1,VA,2025-12-03 12:50:54
+2012,3504,Oral Surgery,1,VA,2025-12-03 12:50:54
+2013,3103,Astronomy and Astrophysics,10,VA,2025-12-03 12:50:54
+2013,1212,Religious studies,4,VA,2025-12-03 12:50:54
+2013,3312,Sociology and Political Science,3,VA,2025-12-03 12:50:54
+2013,1202,History,2,VA,2025-12-03 12:50:54
+2013,3105,Instrumentation,2,VA,2025-12-03 12:50:54
+2013,3106,Nuclear and High Energy Physics,2,VA,2025-12-03 12:50:54
+2013,3109,Statistical and Nonlinear Physics,2,VA,2025-12-03 12:50:54
+2013,3320,Political Science and International Relations,2,VA,2025-12-03 12:50:54
+2013,1105,"Ecology, Evolution, Behavior and Systematics",1,VA,2025-12-03 12:50:54
+2013,1204,Archeology,1,VA,2025-12-03 12:50:54
+2013,1902,Atmospheric Science,1,VA,2025-12-03 12:50:54
+2013,1908,Geophysics,1,VA,2025-12-03 12:50:54
+2013,1911,Paleontology,1,VA,2025-12-03 12:50:54
+2013,2731,Ophthalmology,1,VA,2025-12-03 12:50:54
+2013,3314,Anthropology,1,VA,2025-12-03 12:50:54
+2014,3103,Astronomy and Astrophysics,5,VA,2025-12-03 12:50:54
+2014,1205,Classics,3,VA,2025-12-03 12:50:54
+2014,3312,Sociology and Political Science,3,VA,2025-12-03 12:50:54
+2014,1202,History,2,VA,2025-12-03 12:50:54
+2014,1212,Religious studies,2,VA,2025-12-03 12:50:54
+2014,3308,Law,2,VA,2025-12-03 12:50:54
+2014,3320,Political Science and International Relations,2,VA,2025-12-03 12:50:54
+2014,1207,History and Philosophy of Science,1,VA,2025-12-03 12:50:54
+2014,1902,Atmospheric Science,1,VA,2025-12-03 12:50:54
+2014,1908,Geophysics,1,VA,2025-12-03 12:50:54
+2014,2206,Computational Mechanics,1,VA,2025-12-03 12:50:54
+2014,2303,Ecology,1,VA,2025-12-03 12:50:54
+2014,2739,"Public Health, Environmental and Occupational Health",1,VA,2025-12-03 12:50:54
+2014,3105,Instrumentation,1,VA,2025-12-03 12:50:54
+2014,3106,Nuclear and High Energy Physics,1,VA,2025-12-03 12:50:54
+2014,3109,Statistical and Nonlinear Physics,1,VA,2025-12-03 12:50:54
+2015,3312,Sociology and Political Science,9,VA,2025-12-03 12:50:54
+2015,3103,Astronomy and Astrophysics,8,VA,2025-12-03 12:50:54
+2015,1202,History,5,VA,2025-12-03 12:50:54
+2015,1212,Religious studies,4,VA,2025-12-03 12:50:54
+2015,3105,Instrumentation,4,VA,2025-12-03 12:50:54
+2015,3304,Education,3,VA,2025-12-03 12:50:54
+2015,2002,Economics and Econometrics,1,VA,2025-12-03 12:50:54
+2015,2202,Aerospace Engineering,1,VA,2025-12-03 12:50:54
+2015,3317,Demography,1,VA,2025-12-03 12:50:54
+2015,3320,Political Science and International Relations,1,VA,2025-12-03 12:50:54
+2016,3312,Sociology and Political Science,11,VA,2025-12-03 12:50:54
+2016,3320,Political Science and International Relations,6,VA,2025-12-03 12:50:54
+2016,3103,Astronomy and Astrophysics,5,VA,2025-12-03 12:50:54
+2016,1202,History,3,VA,2025-12-03 12:50:54
+2016,1205,Classics,3,VA,2025-12-03 12:50:54
+2016,1212,Religious studies,3,VA,2025-12-03 12:50:54
+2016,1203,Language and Linguistics,1,VA,2025-12-03 12:50:54
+2016,1207,History and Philosophy of Science,1,VA,2025-12-03 12:50:54
+2016,1208,Literature and Literary Theory,1,VA,2025-12-03 12:50:54
+2016,1211,Philosophy,1,VA,2025-12-03 12:50:54
+2016,1710,Information Systems,1,VA,2025-12-03 12:50:54
+2016,2308,"Management, Monitoring, Policy and Law",1,VA,2025-12-03 12:50:54
+2016,2736,Pharmacology,1,VA,2025-12-03 12:50:54
+2016,2743,Reproductive Medicine,1,VA,2025-12-03 12:50:54
+2016,2805,Cognitive Neuroscience,1,VA,2025-12-03 12:50:54
+2016,3105,Instrumentation,1,VA,2025-12-03 12:50:54
+2016,3304,Education,1,VA,2025-12-03 12:50:54
+2016,3305,"Geography, Planning and Development",1,VA,2025-12-03 12:50:54
+2016,3306,Health,1,VA,2025-12-03 12:50:54
+2016,3307,Human Factors and Ergonomics,1,VA,2025-12-03 12:50:54
+2016,3308,Law,1,VA,2025-12-03 12:50:54
+2017,3312,Sociology and Political Science,15,VA,2025-12-03 12:50:54
+2017,1212,Religious studies,8,VA,2025-12-03 12:50:54
+2017,3103,Astronomy and Astrophysics,6,VA,2025-12-03 12:50:54
+2017,3320,Political Science and International Relations,6,VA,2025-12-03 12:50:54
+2017,1202,History,4,VA,2025-12-03 12:50:54
+2017,1205,Classics,2,VA,2025-12-03 12:50:54
+2017,1206,Conservation,2,VA,2025-12-03 12:50:54
+2017,1208,Literature and Literary Theory,2,VA,2025-12-03 12:50:54
+2017,1908,Geophysics,2,VA,2025-12-03 12:50:54
+2017,3106,Nuclear and High Energy Physics,2,VA,2025-12-03 12:50:54
+2017,3311,Safety Research,2,VA,2025-12-03 12:50:54
+2017,1200,General Arts and Humanities,1,VA,2025-12-03 12:50:54
+2017,1204,Archeology,1,VA,2025-12-03 12:50:54
+2017,1209,Museology,1,VA,2025-12-03 12:50:54
+2017,1211,Philosophy,1,VA,2025-12-03 12:50:54
+2017,1902,Atmospheric Science,1,VA,2025-12-03 12:50:54
+2017,1904,Earth-Surface Processes,1,VA,2025-12-03 12:50:54
+2017,2306,Global and Planetary Change,1,VA,2025-12-03 12:50:54
+2017,3105,Instrumentation,1,VA,2025-12-03 12:50:54
+2017,3314,Anthropology,1,VA,2025-12-03 12:50:54
+2017,3316,Cultural Studies,1,VA,2025-12-03 12:50:54
+2017,3322,Urban Studies,1,VA,2025-12-03 12:50:54
+2018,1205,Classics,21,VA,2025-12-03 12:50:54
+2018,3314,Anthropology,19,VA,2025-12-03 12:50:54
+2018,3312,Sociology and Political Science,15,VA,2025-12-03 12:50:54
+2018,3103,Astronomy and Astrophysics,13,VA,2025-12-03 12:50:54
+2018,1212,Religious studies,11,VA,2025-12-03 12:50:54
+2018,1202,History,10,VA,2025-12-03 12:50:54
+2018,1203,Language and Linguistics,8,VA,2025-12-03 12:50:54
+2018,1204,Archeology,7,VA,2025-12-03 12:50:54
+2018,3106,Nuclear and High Energy Physics,6,VA,2025-12-03 12:50:54
+2018,3320,Political Science and International Relations,5,VA,2025-12-03 12:50:54
+2018,1206,Conservation,3,VA,2025-12-03 12:50:54
+2018,3105,Instrumentation,3,VA,2025-12-03 12:50:54
+2018,2206,Computational Mechanics,2,VA,2025-12-03 12:50:54
+2018,3109,Statistical and Nonlinear Physics,2,VA,2025-12-03 12:50:54
+2018,1105,"Ecology, Evolution, Behavior and Systematics",1,VA,2025-12-03 12:50:54
+2018,1904,Earth-Surface Processes,1,VA,2025-12-03 12:50:54
+2018,2002,Economics and Econometrics,1,VA,2025-12-03 12:50:54
+2018,2306,Global and Planetary Change,1,VA,2025-12-03 12:50:54
+2018,2307,"Health, Toxicology and Mutagenesis",1,VA,2025-12-03 12:50:54
+2018,3108,Radiation,1,VA,2025-12-03 12:50:54
+2018,3305,"Geography, Planning and Development",1,VA,2025-12-03 12:50:54
+2018,3308,Law,1,VA,2025-12-03 12:50:54
+2018,3310,Linguistics and Language,1,VA,2025-12-03 12:50:54
+2018,3311,Safety Research,1,VA,2025-12-03 12:50:54
+2018,3318,Gender Studies,1,VA,2025-12-03 12:50:54
+2019,3103,Astronomy and Astrophysics,14,VA,2025-12-03 12:50:54
+2019,3106,Nuclear and High Energy Physics,5,VA,2025-12-03 12:50:54
+2019,1204,Archeology,4,VA,2025-12-03 12:50:54
+2019,1908,Geophysics,3,VA,2025-12-03 12:50:54
+2019,3312,Sociology and Political Science,3,VA,2025-12-03 12:50:54
+2019,1206,Conservation,2,VA,2025-12-03 12:50:54
+2019,1904,Earth-Surface Processes,2,VA,2025-12-03 12:50:54
+2019,2303,Ecology,2,VA,2025-12-03 12:50:54
+2019,3314,Anthropology,2,VA,2025-12-03 12:50:54
+2019,1202,History,1,VA,2025-12-03 12:50:54
+2019,1205,Classics,1,VA,2025-12-03 12:50:54
+2019,1211,Philosophy,1,VA,2025-12-03 12:50:54
+2019,1212,Religious studies,1,VA,2025-12-03 12:50:54
+2019,1312,Molecular Biology,1,VA,2025-12-03 12:50:54
+2019,1902,Atmospheric Science,1,VA,2025-12-03 12:50:54
+2019,1911,Paleontology,1,VA,2025-12-03 12:50:54
+2019,2202,Aerospace Engineering,1,VA,2025-12-03 12:50:54
+2019,2206,Computational Mechanics,1,VA,2025-12-03 12:50:54
+2019,3105,Instrumentation,1,VA,2025-12-03 12:50:54
+2019,3109,Statistical and Nonlinear Physics,1,VA,2025-12-03 12:50:54
+2019,3304,Education,1,VA,2025-12-03 12:50:54
+2019,3311,Safety Research,1,VA,2025-12-03 12:50:54
+2019,3320,Political Science and International Relations,1,VA,2025-12-03 12:50:54
+2020,3103,Astronomy and Astrophysics,11,VA,2025-12-03 12:50:54
+2020,3105,Instrumentation,5,VA,2025-12-03 12:50:54
+2020,1202,History,4,VA,2025-12-03 12:50:54
+2020,1204,Archeology,3,VA,2025-12-03 12:50:54
+2020,1212,Religious studies,3,VA,2025-12-03 12:50:54
+2020,2303,Ecology,3,VA,2025-12-03 12:50:54
+2020,3312,Sociology and Political Science,3,VA,2025-12-03 12:50:54
+2020,1205,Classics,2,VA,2025-12-03 12:50:54
+2020,1707,Computer Vision and Pattern Recognition,2,VA,2025-12-03 12:50:54
+2020,1206,Conservation,1,VA,2025-12-03 12:50:54
+2020,1710,Information Systems,1,VA,2025-12-03 12:50:54
+2020,1907,Geology,1,VA,2025-12-03 12:50:54
+2020,1908,Geophysics,1,VA,2025-12-03 12:50:54
+2020,2202,Aerospace Engineering,1,VA,2025-12-03 12:50:54
+2020,2206,Computational Mechanics,1,VA,2025-12-03 12:50:54
+2020,3106,Nuclear and High Energy Physics,1,VA,2025-12-03 12:50:54
+2020,3305,"Geography, Planning and Development",1,VA,2025-12-03 12:50:54
+2020,3311,Safety Research,1,VA,2025-12-03 12:50:54
+2020,3320,Political Science and International Relations,1,VA,2025-12-03 12:50:54
+2021,3103,Astronomy and Astrophysics,11,VA,2025-12-03 12:50:54
+2021,3312,Sociology and Political Science,5,VA,2025-12-03 12:50:54
+2021,1202,History,4,VA,2025-12-03 12:50:54
+2021,1204,Archeology,4,VA,2025-12-03 12:50:54
+2021,1212,Religious studies,3,VA,2025-12-03 12:50:54
+2021,3106,Nuclear and High Energy Physics,3,VA,2025-12-03 12:50:54
+2021,1205,Classics,2,VA,2025-12-03 12:50:54
+2021,3105,Instrumentation,2,VA,2025-12-03 12:50:54
+2021,3314,Anthropology,2,VA,2025-12-03 12:50:54
+2021,3320,Political Science and International Relations,2,VA,2025-12-03 12:50:54
+2021,1206,Conservation,1,VA,2025-12-03 12:50:54
+2021,1207,History and Philosophy of Science,1,VA,2025-12-03 12:50:54
+2021,1605,Organic Chemistry,1,VA,2025-12-03 12:50:54
+2021,1904,Earth-Surface Processes,1,VA,2025-12-03 12:50:54
+2021,2206,Computational Mechanics,1,VA,2025-12-03 12:50:54
+2021,2303,Ecology,1,VA,2025-12-03 12:50:54
+2021,3107,"Atomic and Molecular Physics, and Optics",1,VA,2025-12-03 12:50:54
+2021,3308,Law,1,VA,2025-12-03 12:50:54
+2021,3322,Urban Studies,1,VA,2025-12-03 12:50:54
+2022,1202,History,16,VA,2025-12-03 12:50:54
+2022,3320,Political Science and International Relations,12,VA,2025-12-03 12:50:54
+2022,3103,Astronomy and Astrophysics,11,VA,2025-12-03 12:50:54
+2022,1204,Archeology,7,VA,2025-12-03 12:50:54
+2022,3312,Sociology and Political Science,6,VA,2025-12-03 12:50:54
+2022,1205,Classics,5,VA,2025-12-03 12:50:54
+2022,3105,Instrumentation,5,VA,2025-12-03 12:50:54
+2022,3106,Nuclear and High Energy Physics,3,VA,2025-12-03 12:50:54
+2022,1206,Conservation,2,VA,2025-12-03 12:50:54
+2022,1207,History and Philosophy of Science,2,VA,2025-12-03 12:50:54
+2022,1211,Philosophy,2,VA,2025-12-03 12:50:54
+2022,1212,Religious studies,2,VA,2025-12-03 12:50:54
+2022,3314,Anthropology,2,VA,2025-12-03 12:50:54
+2022,1110,Plant Science,1,VA,2025-12-03 12:50:54
+2022,1203,Language and Linguistics,1,VA,2025-12-03 12:50:54
+2022,1705,Computer Networks and Communications,1,VA,2025-12-03 12:50:54
+2022,1707,Computer Vision and Pattern Recognition,1,VA,2025-12-03 12:50:54
+2022,1802,Information Systems and Management,1,VA,2025-12-03 12:50:54
+2022,1904,Earth-Surface Processes,1,VA,2025-12-03 12:50:54
+2022,1908,Geophysics,1,VA,2025-12-03 12:50:54
+2022,1912,Space and Planetary Science,1,VA,2025-12-03 12:50:54
+2022,2202,Aerospace Engineering,1,VA,2025-12-03 12:50:54
+2022,2208,Electrical and Electronic Engineering,1,VA,2025-12-03 12:50:54
+2022,2303,Ecology,1,VA,2025-12-03 12:50:54
+2022,2739,"Public Health, Environmental and Occupational Health",1,VA,2025-12-03 12:50:54
+2022,3107,"Atomic and Molecular Physics, and Optics",1,VA,2025-12-03 12:50:54
+2022,3305,"Geography, Planning and Development",1,VA,2025-12-03 12:50:54
+2022,3306,Health,1,VA,2025-12-03 12:50:54
+2022,3308,Law,1,VA,2025-12-03 12:50:54
+2022,3310,Linguistics and Language,1,VA,2025-12-03 12:50:54
+2023,3312,Sociology and Political Science,13,VA,2025-12-03 12:50:54
+2023,3103,Astronomy and Astrophysics,10,VA,2025-12-03 12:50:54
+2023,1202,History,9,VA,2025-12-03 12:50:54
+2023,1212,Religious studies,8,VA,2025-12-03 12:50:54
+2023,1205,Classics,6,VA,2025-12-03 12:50:54
+2023,3106,Nuclear and High Energy Physics,6,VA,2025-12-03 12:50:54
+2023,3320,Political Science and International Relations,4,VA,2025-12-03 12:50:54
+2023,1207,History and Philosophy of Science,3,VA,2025-12-03 12:50:54
+2023,3314,Anthropology,3,VA,2025-12-03 12:50:54
+2023,1204,Archeology,2,VA,2025-12-03 12:50:54
+2023,1710,Information Systems,2,VA,2025-12-03 12:50:54
+2023,3105,Instrumentation,2,VA,2025-12-03 12:50:54
+2023,3305,"Geography, Planning and Development",2,VA,2025-12-03 12:50:54
+2023,1203,Language and Linguistics,1,VA,2025-12-03 12:50:54
+2023,1206,Conservation,1,VA,2025-12-03 12:50:54
+2023,1209,Museology,1,VA,2025-12-03 12:50:54
+2023,2202,Aerospace Engineering,1,VA,2025-12-03 12:50:54
+2023,2208,Electrical and Electronic Engineering,1,VA,2025-12-03 12:50:54
+2023,2604,Applied Mathematics,1,VA,2025-12-03 12:50:54
+2023,3107,"Atomic and Molecular Physics, and Optics",1,VA,2025-12-03 12:50:54
+2023,3303,Development,1,VA,2025-12-03 12:50:54
+2023,3311,Safety Research,1,VA,2025-12-03 12:50:54
+2024,3103,Astronomy and Astrophysics,11,VA,2025-12-03 12:50:54
+2024,1202,History,9,VA,2025-12-03 12:50:54
+2024,3312,Sociology and Political Science,9,VA,2025-12-03 12:50:54
+2024,1205,Classics,6,VA,2025-12-03 12:50:54
+2024,3320,Political Science and International Relations,5,VA,2025-12-03 12:50:54
+2024,1204,Archeology,4,VA,2025-12-03 12:50:54
+2024,3106,Nuclear and High Energy Physics,4,VA,2025-12-03 12:50:54
+2024,1211,Philosophy,3,VA,2025-12-03 12:50:54
+2024,1212,Religious studies,3,VA,2025-12-03 12:50:54
+2024,3105,Instrumentation,3,VA,2025-12-03 12:50:54
+2024,1207,History and Philosophy of Science,2,VA,2025-12-03 12:50:54
+2024,2202,Aerospace Engineering,2,VA,2025-12-03 12:50:54
+2024,3310,Linguistics and Language,2,VA,2025-12-03 12:50:54
+2024,3314,Anthropology,2,VA,2025-12-03 12:50:54
+2024,1203,Language and Linguistics,1,VA,2025-12-03 12:50:54
+2024,1908,Geophysics,1,VA,2025-12-03 12:50:54
+2024,2002,Economics and Econometrics,1,VA,2025-12-03 12:50:54
+2024,2312,Water Science and Technology,1,VA,2025-12-03 12:50:54
+2024,3108,Radiation,1,VA,2025-12-03 12:50:54
+2024,3304,Education,1,VA,2025-12-03 12:50:54
+2024,3311,Safety Research,1,VA,2025-12-03 12:50:54
+2025,3103,Astronomy and Astrophysics,13,VA,2025-12-03 12:50:54
+2025,3106,Nuclear and High Energy Physics,5,VA,2025-12-03 12:50:54
+2025,3105,Instrumentation,3,VA,2025-12-03 12:50:54
+2025,1202,History,2,VA,2025-12-03 12:50:54
+2025,2206,Computational Mechanics,2,VA,2025-12-03 12:50:54
+2025,3109,Statistical and Nonlinear Physics,2,VA,2025-12-03 12:50:54
+2025,3312,Sociology and Political Science,2,VA,2025-12-03 12:50:54
+2025,1205,Classics,1,VA,2025-12-03 12:50:54
+2025,1207,History and Philosophy of Science,1,VA,2025-12-03 12:50:54
+2025,1902,Atmospheric Science,1,VA,2025-12-03 12:50:54
+2025,1908,Geophysics,1,VA,2025-12-03 12:50:54
+2025,2303,Ecology,1,VA,2025-12-03 12:50:54
+2025,3108,Radiation,1,VA,2025-12-03 12:50:54
+2025,3314,Anthropology,1,VA,2025-12-03 12:50:54
+2025,3315,Communication,1,VA,2025-12-03 12:50:54
+2025,3320,Political Science and International Relations,1,VA,2025-12-03 12:50:54

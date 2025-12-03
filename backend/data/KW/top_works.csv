@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
 2210,Mechanical Engineering,Recent advances in the science and technology of ultra low sulfur diesel (ULSD) production,https://doi.org/10.1016/j.cattod.2010.05.011,2010,1216,https://openalex.org/W2153854318
-2210,Mechanical Engineering,A comprehensive review of natural fibers and their composites: An eco-friendly alternative to conventional materials,https://doi.org/10.1016/j.rineng.2023.101271,2023,673,https://openalex.org/W4382794017
-2210,Mechanical Engineering,"Production, characterization and performance of biodiesel as an alternative fuel in diesel engines – A review",https://doi.org/10.1016/j.rser.2017.01.001,2017,614,https://openalex.org/W2579178478
-2208,Electrical and Electronic Engineering,A survey of millimeter wave communications (mmWave) for 5G: opportunities and challenges,https://doi.org/10.1007/s11276-015-0942-z,2015,1286,https://openalex.org/W1984114931
-2208,Electrical and Electronic Engineering,Simulated Annealing algorithm for photovoltaic parameters identification,https://doi.org/10.1016/j.solener.2011.09.032,2011,541,https://openalex.org/W2024808031
+2210,Mechanical Engineering,A comprehensive review of natural fibers and their composites: An eco-friendly alternative to conventional materials,https://doi.org/10.1016/j.rineng.2023.101271,2023,686,https://openalex.org/W4382794017
+2210,Mechanical Engineering,"Production, characterization and performance of biodiesel as an alternative fuel in diesel engines – A review",https://doi.org/10.1016/j.rser.2017.01.001,2017,616,https://openalex.org/W2579178478
+2210,Mechanical Engineering,Global patterns of leaf mechanical properties,https://doi.org/10.1111/j.1461-0248.2010.01582.x,2011,533,https://openalex.org/W2159801764
+2210,Mechanical Engineering,"A Review on Nanofluids: Fabrication, Stability, and Thermophysical Properties",https://doi.org/10.1155/2018/6978130,2018,445,https://openalex.org/W2807685714
+2210,Mechanical Engineering,Heat transfer behavior of nanoparticle enhanced PCM solidification through an enclosure with V shaped fins,https://doi.org/10.1016/j.ijheatmasstransfer.2018.11.020,2018,440,https://openalex.org/W2900684713
+2210,Mechanical Engineering,Recent progress of fillers in mixed matrix membranes for CO 2 separation: A review,https://doi.org/10.1016/j.seppur.2017.07.051,2017,419,https://openalex.org/W2737631159
+2210,Mechanical Engineering,Heat transfer simulation of heat storage unit with nanoparticles and fins through a heat exchanger,https://doi.org/10.1016/j.ijheatmasstransfer.2019.02.003,2019,365,https://openalex.org/W2912283239
+2210,Mechanical Engineering,Solar desalination using solar still enhanced by external solar collector and PCM,https://doi.org/10.1016/j.applthermaleng.2017.09.073,2017,344,https://openalex.org/W2754872109
+2210,Mechanical Engineering,CFD modeling of flow and heat transfer in a thermosyphon,https://doi.org/10.1016/j.icheatmasstransfer.2009.09.002,2009,339,https://openalex.org/W2129601851
+2208,Electrical and Electronic Engineering,A survey of millimeter wave communications (mmWave) for 5G: opportunities and challenges,https://doi.org/10.1007/s11276-015-0942-z,2015,1288,https://openalex.org/W1984114931
+2208,Electrical and Electronic Engineering,Simulated Annealing algorithm for photovoltaic parameters identification,https://doi.org/10.1016/j.solener.2011.09.032,2011,543,https://openalex.org/W2024808031
 2208,Electrical and Electronic Engineering,"Home M2M networks: Architectures, standards, and QoS improvement",https://doi.org/10.1109/mcom.2011.5741145,2011,428,https://openalex.org/W1968676143
-2746,Surgery,Human papillomavirus genotype attribution in invasive cervical cancer: a retrospective cross-sectional worldwide study,https://doi.org/10.1016/s1470-2045(10)70230-8,2010,2627,https://openalex.org/W2139736159
-2746,Surgery,Role of nitric oxide in inflammatory diseases,https://doi.org/10.1007/s10787-007-0013-x,2007,1320,https://openalex.org/W1970723735
-2746,Surgery,Bariatric Surgery Worldwide: Baseline Demographic Description and One-Year Outcomes from the Fourth IFSO Global Registry Report 2018,https://doi.org/10.1007/s11695-018-3593-1,2018,782,https://openalex.org/W4246381819
-2204,Biomedical Engineering,A review on thermal and catalytic pyrolysis of plastic solid waste (PSW),https://doi.org/10.1016/j.jenvman.2017.03.084,2017,1079,https://openalex.org/W2604230620
-2204,Biomedical Engineering,"Production, characterization and performance of biodiesel as an alternative fuel in diesel engines – A review",https://doi.org/10.1016/j.rser.2017.01.001,2017,614,https://openalex.org/W2579178478
+2208,Electrical and Electronic Engineering,From 1D and 2D ZnO nanostructures to 3D hierarchical structures with enhanced gas sensing properties,https://doi.org/10.1039/c3nr04519f,2013,389,https://openalex.org/W2113950501
+2208,Electrical and Electronic Engineering,"Chemical Vapour Deposition of Graphene—Synthesis, Characterisation, and Applications: A Review",https://doi.org/10.3390/molecules25173856,2020,370,https://openalex.org/W3081419298
+2208,Electrical and Electronic Engineering,A novel stacked generalization ensemble-based hybrid LGBM-XGB-MLP model for Short-Term Load Forecasting,https://doi.org/10.1016/j.energy.2020.118874,2020,365,https://openalex.org/W3087798270
+2208,Electrical and Electronic Engineering,A Family of Single-Switch PWM Converters With High Step-Up Conversion Ratio,https://doi.org/10.1109/tcsi.2008.916427,2008,354,https://openalex.org/W2142042118
+2208,Electrical and Electronic Engineering,A new estimation approach for determining the I–V characteristics of solar cells,https://doi.org/10.1016/j.solener.2011.04.013,2011,314,https://openalex.org/W1987328901
+2208,Electrical and Electronic Engineering,Marine Corrosion Protective Coatings of Hexagonal Boron Nitride Thin Films on Stainless Steel,https://doi.org/10.1021/am400016y,2013,282,https://openalex.org/W2068311004
+2208,Electrical and Electronic Engineering,New Bridgeless DCM Sepic and Cuk PFC Rectifiers With Low Conduction and Switching Losses,https://doi.org/10.1109/tia.2010.2102996,2011,274,https://openalex.org/W2128903536
+2746,Surgery,Human papillomavirus genotype attribution in invasive cervical cancer: a retrospective cross-sectional worldwide study,https://doi.org/10.1016/s1470-2045(10)70230-8,2010,2632,https://openalex.org/W2139736159
+2746,Surgery,Role of nitric oxide in inflammatory diseases,https://doi.org/10.1007/s10787-007-0013-x,2007,1327,https://openalex.org/W1970723735
+2746,Surgery,Bariatric Surgery Worldwide: Baseline Demographic Description and One-Year Outcomes from the Fourth IFSO Global Registry Report 2018,https://doi.org/10.1007/s11695-018-3593-1,2018,783,https://openalex.org/W4246381819
+2746,Surgery,Definition and diagnostic criteria of clinical obesity,https://doi.org/10.1016/s2213-8587(24)00316-4,2025,694,https://openalex.org/W4406352787
+2746,Surgery,The 2022 Update of IUIS Phenotypical Classification for Human Inborn Errors of Immunity,https://doi.org/10.1007/s10875-022-01352-z,2022,440,https://openalex.org/W4302278284
+2746,Surgery,International Association of Dental Traumatology guidelines for the management of traumatic dental injuries: 3. Injuries in the primary dentition,https://doi.org/10.1111/j.1600-9657.2012.01146.x,2012,327,https://openalex.org/W2587409040
+2746,Surgery,"Effects of acarbose on cardiovascular and diabetes outcomes in patients with coronary heart disease and impaired glucose tolerance (ACE): a randomised, double-blind, placebo-controlled trial",https://doi.org/10.1016/s2213-8587(17)30309-1,2017,310,https://openalex.org/W2756152366
+2746,Surgery,Effects of strontium in modified biomaterials,https://doi.org/10.1016/j.actbio.2010.08.031,2010,289,https://openalex.org/W1995457368
+2746,Surgery,Cross-clamp time is an independent predictor of mortality and morbidity in low- and high-risk cardiac patients,https://doi.org/10.1016/j.ijsu.2010.10.007,2010,284,https://openalex.org/W2121567387
+2746,Surgery,"Pathogenesis, Immunology, and Diagnosis of Latent<i>Mycobacterium tuberculosis</i>Infection",https://doi.org/10.1155/2011/814943,2010,261,https://openalex.org/W2004224847
+2204,Biomedical Engineering,A review on thermal and catalytic pyrolysis of plastic solid waste (PSW),https://doi.org/10.1016/j.jenvman.2017.03.084,2017,1084,https://openalex.org/W2604230620
+2204,Biomedical Engineering,"Production, characterization and performance of biodiesel as an alternative fuel in diesel engines – A review",https://doi.org/10.1016/j.rser.2017.01.001,2017,616,https://openalex.org/W2579178478
 2204,Biomedical Engineering,"Density, viscosity, and surface tension of water+ethanol mixtures from 293 to 323K",https://doi.org/10.1007/s11814-011-0239-6,2012,490,https://openalex.org/W2019984259
+2204,Biomedical Engineering,"A Review on Nanofluids: Fabrication, Stability, and Thermophysical Properties",https://doi.org/10.1155/2018/6978130,2018,445,https://openalex.org/W2807685714
+2204,Biomedical Engineering,Heat transfer behavior of nanoparticle enhanced PCM solidification through an enclosure with V shaped fins,https://doi.org/10.1016/j.ijheatmasstransfer.2018.11.020,2018,440,https://openalex.org/W2900684713
+2204,Biomedical Engineering,Photodynamic Therapy: Current Status and Future Directions,https://doi.org/10.1159/000362416,2014,401,https://openalex.org/W2005621531
+2204,Biomedical Engineering,"Chemical Vapour Deposition of Graphene—Synthesis, Characterisation, and Applications: A Review",https://doi.org/10.3390/molecules25173856,2020,370,https://openalex.org/W3081419298
+2204,Biomedical Engineering,Heat transfer simulation of heat storage unit with nanoparticles and fins through a heat exchanger,https://doi.org/10.1016/j.ijheatmasstransfer.2019.02.003,2019,365,https://openalex.org/W2912283239
+2204,Biomedical Engineering,CFD modeling of flow and heat transfer in a thermosyphon,https://doi.org/10.1016/j.icheatmasstransfer.2009.09.002,2009,339,https://openalex.org/W2129601851
+2204,Biomedical Engineering,A review on the applications of nanofluids in solar energy field,https://doi.org/10.1016/j.renene.2018.01.097,2018,335,https://openalex.org/W2790022532
 2212,Ocean Engineering,Terminal sliding mode control for the trajectory tracking of underactuated Autonomous Underwater Vehicles,https://doi.org/10.1016/j.oceaneng.2016.10.032,2016,288,https://openalex.org/W2548260618
-2212,Ocean Engineering,Trajectory tracking sliding mode control of underactuated AUVs,https://doi.org/10.1007/s11071-015-2551-x,2015,257,https://openalex.org/W2214731807
+2212,Ocean Engineering,Trajectory tracking sliding mode control of underactuated AUVs,https://doi.org/10.1007/s11071-015-2551-x,2015,258,https://openalex.org/W2214731807
 2212,Ocean Engineering,Analysis of EOR projects and updated screening criteria,https://doi.org/10.1016/j.petrol.2011.07.005,2011,245,https://openalex.org/W2006649863
-1312,Molecular Biology,"A reference panel of 64,976 haplotypes for genotype imputation",https://doi.org/10.1038/ng.3643,2016,3116,https://openalex.org/W2511515754
-1312,Molecular Biology,Fine-mapping type 2 diabetes loci to single-variant resolution using high-density imputation and islet-specific epigenome maps,https://doi.org/10.1038/s41588-018-0241-6,2018,1823,https://openalex.org/W2894662039
+2212,Ocean Engineering,“MTA”—An Hydraulic Silicate Cement: Review update and setting reaction,https://doi.org/10.1016/j.dental.2011.02.001,2011,227,https://openalex.org/W2119061038
+2212,Ocean Engineering,Predicting PVT data for CO2–brine mixtures for black-oil simulation of CO2 geological storage,https://doi.org/10.1016/s1750-5836(07)00010-2,2007,169,https://openalex.org/W2137969459
+2212,Ocean Engineering,A comprehensive review of nanoparticles applications in the oil and gas industry,https://doi.org/10.1007/s13202-019-00825-z,2020,164,https://openalex.org/W2997006663
+2212,Ocean Engineering,Changes in asphaltene structure during thermal cracking of residual oils: XRD study,https://doi.org/10.1016/j.fuel.2015.02.076,2015,161,https://openalex.org/W1965068239
+2212,Ocean Engineering,Stick-Slip and Bit-Bounce Interaction in Oil-Well Drillstrings,https://doi.org/10.1115/1.2358141,2006,150,https://openalex.org/W2114171079
+2212,Ocean Engineering,Nanofluids Application for Heavy Oil Recovery,https://doi.org/10.2118/171539-ms,2014,146,https://openalex.org/W2023145342
+2212,Ocean Engineering,Application of solar energy in the oil industry—Current status and future prospects,https://doi.org/10.1016/j.rser.2014.11.030,2014,143,https://openalex.org/W1997892001
+1312,Molecular Biology,"A reference panel of 64,976 haplotypes for genotype imputation",https://doi.org/10.1038/ng.3643,2016,3124,https://openalex.org/W2511515754
+1312,Molecular Biology,Fine-mapping type 2 diabetes loci to single-variant resolution using high-density imputation and islet-specific epigenome maps,https://doi.org/10.1038/s41588-018-0241-6,2018,1829,https://openalex.org/W2894662039
 1312,Molecular Biology,Dietary carbohydrate restriction as the first approach in diabetes management: Critical review and evidence base,https://doi.org/10.1016/j.nut.2014.06.011,2014,886,https://openalex.org/W2115575518
-2713,Epidemiology,Human papillomavirus genotype attribution in invasive cervical cancer: a retrospective cross-sectional worldwide study,https://doi.org/10.1016/s1470-2045(10)70230-8,2010,2627,https://openalex.org/W2139736159
+1312,Molecular Biology,"Pathogenic Germline Variants in 10,389 Adult Cancers",https://doi.org/10.1016/j.cell.2018.03.039,2018,831,https://openalex.org/W2796208126
+1312,Molecular Biology,Guidelines for the Management of Traumatic Dental Injuries: 2. Avulsion of Permanent Teeth.,https://doi.org/10.1111/edt.12573,2016,658,https://openalex.org/W2103453995
+1312,Molecular Biology,Mechanisms of Drug Resistance in Cancer Chemotherapy,https://doi.org/10.1159/000086183,2005,637,https://openalex.org/W2035253718
+1312,Molecular Biology,Gene Therapy for Wiskott-Aldrich Syndrome—Long-Term Efficacy and Genotoxicity,https://doi.org/10.1126/scitranslmed.3007280,2014,540,https://openalex.org/W2130174662
+1312,Molecular Biology,Global patterns of leaf mechanical properties,https://doi.org/10.1111/j.1461-0248.2010.01582.x,2011,533,https://openalex.org/W2159801764
+1312,Molecular Biology,Association of Initial Disease-Modifying Therapy With Later Conversion to Secondary Progressive Multiple Sclerosis,https://doi.org/10.1001/jama.2018.20588,2019,501,https://openalex.org/W2910867209
+1312,Molecular Biology,Guidelines for the Management of Traumatic Dental Injuries: 1. Fractures and Luxations of Permanent Teeth.,https://doi.org/10.1111/j.1600-9657.2011.01103.x,2017,497,https://openalex.org/W2130510064
+2713,Epidemiology,Human papillomavirus genotype attribution in invasive cervical cancer: a retrospective cross-sectional worldwide study,https://doi.org/10.1016/s1470-2045(10)70230-8,2010,2632,https://openalex.org/W2139736159
 2713,Epidemiology,Primary Immunodeficiency Diseases: an Update on the Classification from the International Union of Immunological Societies Expert Committee for Primary Immunodeficiency 2015,https://doi.org/10.1007/s10875-015-0201-1,2015,1188,https://openalex.org/W2117403402
 2713,Epidemiology,Primary Immunodeficiency Diseases: An Update on the Classification from the International Union of Immunological Societies Expert Committee for Primary Immunodeficiency,https://doi.org/10.3389/fimmu.2014.00162,2014,749,https://openalex.org/W2131200545
-2740,Pulmonary and Respiratory Medicine,"International ERS/ATS guidelines on definition, evaluation and treatment of severe asthma",https://doi.org/10.1183/09031936.00202013,2013,3726,https://openalex.org/W2098276532
-2740,Pulmonary and Respiratory Medicine,Human Inborn Errors of Immunity: 2019 Update on the Classification from the International Union of Immunological Societies Expert Committee,https://doi.org/10.1007/s10875-019-00737-x,2020,1193,https://openalex.org/W3000301584
-2740,Pulmonary and Respiratory Medicine,International Union of Immunological Societies: 2017 Primary Immunodeficiency Diseases Committee Report on Inborn Errors of Immunity,https://doi.org/10.1007/s10875-017-0464-9,2017,766,https://openalex.org/W2774787224
-1702,Artificial Intelligence,A survey on trust management for Internet of Things,https://doi.org/10.1016/j.jnca.2014.01.014,2014,1110,https://openalex.org/W2074709832
-1702,Artificial Intelligence,Security in cloud computing: Opportunities and challenges,https://doi.org/10.1016/j.ins.2015.01.025,2015,806,https://openalex.org/W2104348420
+2713,Epidemiology,"Mortality, morbidity, and hospitalisations due to influenza lower respiratory tract infections, 2017: an analysis for the Global Burden of Disease Study 2017",https://doi.org/10.1016/s2213-2600(18)30496-x,2018,551,https://openalex.org/W2905559326
+2713,Epidemiology,Insufficient autophagy in idiopathic pulmonary fibrosis,https://doi.org/10.1152/ajplung.00213.2012,2012,320,https://openalex.org/W2023359623
+2713,Epidemiology,"Knowledge, Attitude and Practice towards Antibiotic Use among the Public in Kuwait",https://doi.org/10.1371/journal.pone.0117910,2015,318,https://openalex.org/W2014798538
+2713,Epidemiology,Hepatocellular Carcinoma (HCC),https://doi.org/10.1097/mcg.0b013e3181d46ef2,2010,316,https://openalex.org/W1974682739
+2713,Epidemiology,The Role of Lipid Metabolism in COVID-19 Virus Infection and as a Drug Target,https://doi.org/10.3390/ijms21103544,2020,306,https://openalex.org/W3025091645
+2713,Epidemiology,Use of Salsalate to Target Inflammation in the Treatment of Insulin Resistance and Type 2 Diabetes,https://doi.org/10.1111/j.1752-8062.2008.00026.x,2008,290,https://openalex.org/W2102177965
+2713,Epidemiology,PARK2-mediated mitophagy is involved in regulation of HBEC senescence in COPD pathogenesis,https://doi.org/10.1080/15548627.2015.1017190,2015,275,https://openalex.org/W1586820518
+2740,Pulmonary and Respiratory Medicine,"International ERS/ATS guidelines on definition, evaluation and treatment of severe asthma",https://doi.org/10.1183/09031936.00202013,2013,3739,https://openalex.org/W2098276532
+2740,Pulmonary and Respiratory Medicine,Human Inborn Errors of Immunity: 2019 Update on the Classification from the International Union of Immunological Societies Expert Committee,https://doi.org/10.1007/s10875-019-00737-x,2020,1195,https://openalex.org/W3000301584
+2740,Pulmonary and Respiratory Medicine,International Union of Immunological Societies: 2017 Primary Immunodeficiency Diseases Committee Report on Inborn Errors of Immunity,https://doi.org/10.1007/s10875-017-0464-9,2017,767,https://openalex.org/W2774787224
+2740,Pulmonary and Respiratory Medicine,A Practical Approach to the Management of Cancer Patients During the Novel Coronavirus Disease 2019 (COVID-19) Pandemic: An International Collaborative Group,https://doi.org/10.1634/theoncologist.2020-0213,2020,707,https://openalex.org/W3014319236
+2740,Pulmonary and Respiratory Medicine,The 2017 IUIS Phenotypic Classification for Primary Immunodeficiencies,https://doi.org/10.1007/s10875-017-0465-8,2017,510,https://openalex.org/W2917335258
+2740,Pulmonary and Respiratory Medicine,"2nd ESMO Consensus Conference on Lung Cancer: early-stage non-small-cell lung cancer consensus on diagnosis, treatment and follow-up",https://doi.org/10.1093/annonc/mdu089,2014,488,https://openalex.org/W2113876238
+2740,Pulmonary and Respiratory Medicine,Photodynamic Therapy: Current Status and Future Directions,https://doi.org/10.1159/000362416,2014,401,https://openalex.org/W2005621531
+2740,Pulmonary and Respiratory Medicine,Insufficient autophagy in idiopathic pulmonary fibrosis,https://doi.org/10.1152/ajplung.00213.2012,2012,320,https://openalex.org/W2023359623
+2740,Pulmonary and Respiratory Medicine,"Knowledge, Attitude and Practice towards Antibiotic Use among the Public in Kuwait",https://doi.org/10.1371/journal.pone.0117910,2015,318,https://openalex.org/W2014798538
+2740,Pulmonary and Respiratory Medicine,Mutations in CCNO result in congenital mucociliary clearance disorder with reduced generation of multiple motile cilia,https://doi.org/10.1038/ng.2961,2014,291,https://openalex.org/W2011855956
+1702,Artificial Intelligence,A survey on trust management for Internet of Things,https://doi.org/10.1016/j.jnca.2014.01.014,2014,1111,https://openalex.org/W2074709832
+1702,Artificial Intelligence,Security in cloud computing: Opportunities and challenges,https://doi.org/10.1016/j.ins.2015.01.025,2015,807,https://openalex.org/W2104348420
 1702,Artificial Intelligence,Global-best harmony search,https://doi.org/10.1016/j.amc.2007.09.004,2007,754,https://openalex.org/W2130343325
-2505,Materials Chemistry,The effect of surface charge on photocatalytic degradation of methylene blue dye using chargeable titania nanoparticles,https://doi.org/10.1038/s41598-018-25673-5,2018,557,https://openalex.org/W2807140203
-2505,Materials Chemistry,Potential applications of geopolymer concrete in construction: A review,https://doi.org/10.1016/j.cscm.2021.e00733,2021,424,https://openalex.org/W3206392624
-2505,Materials Chemistry,Photodynamic Therapy: Current Status and Future Directions,https://doi.org/10.1159/000362416,2014,400,https://openalex.org/W2005621531
+1702,Artificial Intelligence,Simulated Annealing algorithm for photovoltaic parameters identification,https://doi.org/10.1016/j.solener.2011.09.032,2011,543,https://openalex.org/W2024808031
+1702,Artificial Intelligence,Role of AI chatbots in education: systematic literature review,https://doi.org/10.1186/s41239-023-00426-1,2023,529,https://openalex.org/W4388095513
+1702,Artificial Intelligence,An overview of clustering methods,https://doi.org/10.3233/ida-2007-11602,2007,408,https://openalex.org/W1489991816
+1702,Artificial Intelligence,Optimal extraction of solar cell parameters using pattern search,https://doi.org/10.1016/j.renene.2012.01.082,2012,390,https://openalex.org/W2055557873
+1702,Artificial Intelligence,A novel stacked generalization ensemble-based hybrid LGBM-XGB-MLP model for Short-Term Load Forecasting,https://doi.org/10.1016/j.energy.2020.118874,2020,365,https://openalex.org/W3087798270
+1702,Artificial Intelligence,Factors that Influence the Intention to Pirate Software and Media,https://doi.org/10.1007/s10551-007-9366-8,2007,337,https://openalex.org/W2111051912
+1702,Artificial Intelligence,Dynamic clustering using particle swarm optimization with application in image segmentation,https://doi.org/10.1007/s10044-005-0015-5,2005,288,https://openalex.org/W1970351663
+2505,Materials Chemistry,The effect of surface charge on photocatalytic degradation of methylene blue dye using chargeable titania nanoparticles,https://doi.org/10.1038/s41598-018-25673-5,2018,561,https://openalex.org/W2807140203
+2505,Materials Chemistry,Potential applications of geopolymer concrete in construction: A review,https://doi.org/10.1016/j.cscm.2021.e00733,2021,426,https://openalex.org/W3206392624
+2505,Materials Chemistry,Photodynamic Therapy: Current Status and Future Directions,https://doi.org/10.1159/000362416,2014,401,https://openalex.org/W2005621531
+2505,Materials Chemistry,From 1D and 2D ZnO nanostructures to 3D hierarchical structures with enhanced gas sensing properties,https://doi.org/10.1039/c3nr04519f,2013,389,https://openalex.org/W2113950501
+2505,Materials Chemistry,"Chemical Vapour Deposition of Graphene—Synthesis, Characterisation, and Applications: A Review",https://doi.org/10.3390/molecules25173856,2020,370,https://openalex.org/W3081419298
+2505,Materials Chemistry,Potential use of smart coatings for corrosion protection of metals and alloys: A review,https://doi.org/10.1016/j.molliq.2018.01.027,2018,305,https://openalex.org/W2784154046
+2505,Materials Chemistry,Marine Corrosion Protective Coatings of Hexagonal Boron Nitride Thin Films on Stainless Steel,https://doi.org/10.1021/am400016y,2013,282,https://openalex.org/W2068311004
+2505,Materials Chemistry,Spent catalyst waste management: A review,https://doi.org/10.1016/j.resconrec.2008.02.004,2008,252,https://openalex.org/W1976811264
+2505,Materials Chemistry,Understanding the superior photocatalytic activity of noble metals modified titania under UV and visible light irradiation,https://doi.org/10.1039/c3cp54411g,2014,245,https://openalex.org/W2008774819
+2505,Materials Chemistry,"Cyclodextrins: Structural, Chemical, and Physical Properties, and Applications",https://doi.org/10.3390/polysaccharides3010001,2021,239,https://openalex.org/W4200454380

@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
 3600,General Health Professions,Ready for What? An Exploration of the Meaning of New Graduate Nurses' Readiness for Practice,https://doi.org/10.2202/1548-923x.1827,2010,115,https://openalex.org/W1986497388
 3600,General Health Professions,Health promotion,https://doi.org/10.1136/bmj.330.7490.527,2005,98,https://openalex.org/W127102900
-3600,General Health Professions,To meat or not to meat? New perspectives on<scp>N</scp>eanderthal ecology,https://doi.org/10.1002/ajpa.22659,2014,94,https://openalex.org/W1788137409
+3600,General Health Professions,To meat or not to meat? New perspectives on<scp>N</scp>eanderthal ecology,https://doi.org/10.1002/ajpa.22659,2014,95,https://openalex.org/W1788137409
+3600,General Health Professions,Clinical dashboard: use in older adult mental health wards,https://doi.org/10.1192/pb.bp.111.035899,2013,90,https://openalex.org/W2010927830
+3600,General Health Professions,Web-Based Telemedicine System Is Useful for Monitoring Glucose Control in Pregnant Women with Diabetes,https://doi.org/10.1089/dia.2014.0223,2015,71,https://openalex.org/W1523613414
+3600,General Health Professions,The mentor as a role model and the importance of belongingness,https://doi.org/10.12968/bjon.2015.24.10.532,2015,62,https://openalex.org/W2120056175
+3600,General Health Professions,Critical Care Nurses’ Work Environments 2008: A Follow-Up Report,https://doi.org/10.4037/ccn2009619,2009,51,https://openalex.org/W2156220480
+3600,General Health Professions,The appropriation of new organizational forms within networks of practice: Founder and founder-related ideological power,https://doi.org/10.1177/0018726707079200,2007,44,https://openalex.org/W2123560829
+3600,General Health Professions,Chronic and integrated care in Catalonia,https://doi.org/10.5334/ijic.2205,2015,39,https://openalex.org/W1875759011
+3600,General Health Professions,"Attitudes, knowledge and utilization of fissure sealants among Greek Dentists: a national survey",https://doi.org/10.1007/bf03262765,2010,33,https://openalex.org/W2060834697
 2713,Epidemiology,Pediatric Pulmonary Hypertension,https://doi.org/10.1161/cir.0000000000000329,2015,1070,https://openalex.org/W2178108213
-2713,Epidemiology,Management of Stroke in Neonates and Children: A Scientific Statement From the American Heart Association/American Stroke Association,https://doi.org/10.1161/str.0000000000000183,2019,673,https://openalex.org/W2911497402
+2713,Epidemiology,Management of Stroke in Neonates and Children: A Scientific Statement From the American Heart Association/American Stroke Association,https://doi.org/10.1161/str.0000000000000183,2019,676,https://openalex.org/W2911497402
 2713,Epidemiology,Hemicraniectomy and Durotomy Upon Deterioration From Infarction-Related Swelling Trial,https://doi.org/10.1161/strokeaha.113.003200,2014,137,https://openalex.org/W2107367362
-3203,Clinical Psychology,Why do people watch pornography? The motivational basis of pornography use.,https://doi.org/10.1037/adb0000603,2020,152,https://openalex.org/W3046771307
-3203,Clinical Psychology,Engaging the vulnerable: A rapid review of public health communication aimed at migrants during the COVID-19 pandemic in Europe,https://doi.org/10.1016/j.jmh.2020.100004,2020,104,https://openalex.org/W3101251808
+2713,Epidemiology,Changes in Liver Steatosis After Switching From Efavirenz to Raltegravir Among Human Immunodeficiency Virus–Infected Patients With Nonalcoholic Fatty Liver Disease,https://doi.org/10.1093/cid/cix467,2017,55,https://openalex.org/W2794770794
+2713,Epidemiology,Hot topics on vertebral osteomyelitis from the International Society of Antimicrobial Chemotherapy,https://doi.org/10.1016/j.ijantimicag.2019.06.013,2019,42,https://openalex.org/W2953095807
+2713,Epidemiology,Chronic and integrated care in Catalonia,https://doi.org/10.5334/ijic.2205,2015,39,https://openalex.org/W1875759011
+2713,Epidemiology,The role of mitochondrial oxidative stress in the metabolic alterations in diet‐induced obesity in rats,https://doi.org/10.1096/fj.201900347rr,2019,35,https://openalex.org/W2966245656
+2713,Epidemiology,Influenza Virus Infection in Nonhuman Primates,https://doi.org/10.3201/eid1810.120214,2012,34,https://openalex.org/W2120341230
+2713,Epidemiology,Gene Expression Profiling and Functional Characterization of Macrophages in Response to Circulatory Microparticles Produced during &lt;b&gt;&lt;i&gt;Trypanosoma cruzi&lt;/i&gt;&lt;/b&gt; Infection and Chagas Disease,https://doi.org/10.1159/000451055,2016,33,https://openalex.org/W2558742480
+2713,Epidemiology,A Comparison of Pertussis Rates in the Northwest Territories: Pre‐ and Postacellular Pertussis Vaccine Introduction in Children and Adolescents,https://doi.org/10.1155/2005/642315,2005,27,https://openalex.org/W2249253073
+3203,Clinical Psychology,Why do people watch pornography? The motivational basis of pornography use.,https://doi.org/10.1037/adb0000603,2020,153,https://openalex.org/W3046771307
+3203,Clinical Psychology,Engaging the vulnerable: A rapid review of public health communication aimed at migrants during the COVID-19 pandemic in Europe,https://doi.org/10.1016/j.jmh.2020.100004,2020,105,https://openalex.org/W3101251808
 3203,Clinical Psychology,Gambling in Canada During the COVID Lockdown: Prospective National Survey,https://doi.org/10.1007/s10899-021-10073-8,2021,27,https://openalex.org/W3199739820
+3203,Clinical Psychology,Internet Addiction and Mental and Physical Fatigue,https://doi.org/10.2991/itmr.7.1.3,2018,25,https://openalex.org/W2892830033
+3203,Clinical Psychology,Violence against psychiatrists by patients: survey in a London mental health trust,https://doi.org/10.1192/pb.bp.106.012815,2007,23,https://openalex.org/W2039375610
+3203,Clinical Psychology,Hands-off: Study protocol of a two-armed randomized controlled trial of a web-based self-help tool to reduce problematic pornography use,https://doi.org/10.1556/2006.2020.00037,2020,19,https://openalex.org/W3042389184
+3203,Clinical Psychology,Vitamin D deficiency in psychiatric in-patients and treatment with daily supplements of calcium and ergocalciferol,https://doi.org/10.1192/pb.bp.107.019109,2008,15,https://openalex.org/W1966913745
+3203,Clinical Psychology,"Long Covid: a global health issue – a prospective, cohort study set in four continents",https://doi.org/10.1136/bmjgh-2024-015245,2024,14,https://openalex.org/W4403597443
+3203,Clinical Psychology,Understanding Esports-related Betting and Gambling: A Systematic Review of the Literature,https://doi.org/10.1007/s10899-023-10256-5,2023,13,https://openalex.org/W4386951691
+3203,Clinical Psychology,Naming emotions in motion: Alexithymic traits impact the perception of implied motion in facial displays of affect.,https://doi.org/10.1037/emo0000546,2019,13,https://openalex.org/W2907749420
 2746,Surgery,Renal impairment after ileostomy formation: a frequent event with long‐term consequences,https://doi.org/10.1111/codi.14866,2019,80,https://openalex.org/W2977066913
 2746,Surgery,High-Resolution Sonography of the Palmar Cutaneous Branch of the Median Nerve,https://doi.org/10.2214/ajr.07.3383,2008,78,https://openalex.org/W2119368792
 2746,Surgery,"Practical Experience with Sonographically Guided Phenol Instillation of Stump Neuroma: Predictors of Effects, Success, and Outcome",https://doi.org/10.2214/ajr.07.2050,2008,75,https://openalex.org/W2053632054
+2746,Surgery,Ultrasound of the Lateral Femoral Cutaneous Nerve,https://doi.org/10.1097/aap.0b013e31819a4fc6,2009,59,https://openalex.org/W2022039221
+2746,Surgery,Peripheral Nerves: Ultrasound-Guided Interventional Procedures,https://doi.org/10.1055/s-0030-1268066,2010,47,https://openalex.org/W2074233830
+2746,Surgery,Nerve Compression Syndromes,https://doi.org/10.1007/978-3-540-49084-5_4,2008,44,https://openalex.org/W2161784866
+2746,Surgery,Hot topics on vertebral osteomyelitis from the International Society of Antimicrobial Chemotherapy,https://doi.org/10.1016/j.ijantimicag.2019.06.013,2019,42,https://openalex.org/W2953095807
+2746,Surgery,Antibacterial effect and proposed mechanism of action of a topical surgical adhesive,https://doi.org/10.1016/j.ajic.2017.07.008,2017,35,https://openalex.org/W2749809481
+2746,Surgery,Automatic stent reconstruction in optical coherence tomography based on a deep convolutional model,https://doi.org/10.1364/boe.390113,2020,32,https://openalex.org/W3028248625
+2746,Surgery,The skin: largest organ of the body,https://doi.org/10.12968/bjha.2021.15.9.446,2021,30,https://openalex.org/W3205043922
 2739,"Public Health, Environmental and Occupational Health","Health Care Response to CCHF in US Soldier and Nosocomial Transmission to Health Care Providers, Germany, 2009",https://doi.org/10.3201/eid2101.141413,2014,93,https://openalex.org/W2090061125
 2739,"Public Health, Environmental and Occupational Health",Horizon Scanning to Predict and Prioritize Invasive Alien Species With the Potential to Threaten Human Health and Economies on Cyprus,https://doi.org/10.3389/fevo.2020.566281,2020,45,https://openalex.org/W3093662191
 2739,"Public Health, Environmental and Occupational Health",Gene Expression Profiling and Functional Characterization of Macrophages in Response to Circulatory Microparticles Produced during &lt;b&gt;&lt;i&gt;Trypanosoma cruzi&lt;/i&gt;&lt;/b&gt; Infection and Chagas Disease,https://doi.org/10.1159/000451055,2016,33,https://openalex.org/W2558742480
-3314,Anthropology,Late survival of Neanderthals at the southernmost extreme of Europe,https://doi.org/10.1038/nature05195,2006,454,https://openalex.org/W2048313731
-3314,Anthropology,A rock engraving made by Neanderthals in Gibraltar,https://doi.org/10.1073/pnas.1411529111,2014,351,https://openalex.org/W2111876746
-3314,Anthropology,Neanderthal exploitation of marine mammals in Gibraltar,https://doi.org/10.1073/pnas.0805474105,2008,331,https://openalex.org/W2032414506
-1911,Paleontology,The genomic history of the Iberian Peninsula over the past 8000 years,https://doi.org/10.1126/science.aav4040,2019,527,https://openalex.org/W2922043930
-1911,Paleontology,Late survival of Neanderthals at the southernmost extreme of Europe,https://doi.org/10.1038/nature05195,2006,454,https://openalex.org/W2048313731
-1911,Paleontology,A rock engraving made by Neanderthals in Gibraltar,https://doi.org/10.1073/pnas.1411529111,2014,351,https://openalex.org/W2111876746
+2739,"Public Health, Environmental and Occupational Health",Horizon scanning for potential invasive non‐native species across the United Kingdom Overseas Territories,https://doi.org/10.1111/conl.12928,2022,21,https://openalex.org/W4310224231
+2739,"Public Health, Environmental and Occupational Health",Managing Ruptured Splenic Ectopic Pregnancy Without Splenectomy: Case Report and Literature Review,https://doi.org/10.1007/s43032-021-00476-8,2021,19,https://openalex.org/W3130671871
+2739,"Public Health, Environmental and Occupational Health",Unique Pattern of Enzootic Primate Viruses in Gibraltar Macaques,https://doi.org/10.3201/eid1407.071643,2008,19,https://openalex.org/W2060508354
+2739,"Public Health, Environmental and Occupational Health",Vitamin D deficiency in psychiatric in-patients and treatment with daily supplements of calcium and ergocalciferol,https://doi.org/10.1192/pb.bp.107.019109,2008,15,https://openalex.org/W1966913745
+2739,"Public Health, Environmental and Occupational Health",[Miltefosine versus meglumine antimoniate in the treatment of mucosal leishmaniasis].,,2014,15,https://openalex.org/W1776768392
+2739,"Public Health, Environmental and Occupational Health",Influence of Pregnancy on Sexual Desire in Pregnant Women and Their Partners: Systematic Review,https://doi.org/10.3389/phrs.2023.1606308,2024,12,https://openalex.org/W4391029449
+2739,"Public Health, Environmental and Occupational Health",Nondental Invasive Procedures and Risk of Infective Endocarditis: Time for a Revisit: A Science Advisory From the American Heart Association,https://doi.org/10.1161/cir.0000000000001180,2023,9,https://openalex.org/W4387369302
+3314,Anthropology,Late survival of Neanderthals at the southernmost extreme of Europe,https://doi.org/10.1038/nature05195,2006,456,https://openalex.org/W2048313731
+3314,Anthropology,A rock engraving made by Neanderthals in Gibraltar,https://doi.org/10.1073/pnas.1411529111,2014,354,https://openalex.org/W2111876746
+3314,Anthropology,Neanderthal exploitation of marine mammals in Gibraltar,https://doi.org/10.1073/pnas.0805474105,2008,333,https://openalex.org/W2032414506
+3314,Anthropology,Rapid ecological turnover and its impact on Neanderthal and other human populations,https://doi.org/10.1016/j.tree.2007.02.001,2007,278,https://openalex.org/W2148189996
+3314,Anthropology,Birds of a Feather: Neanderthal Exploitation of Raptors and Corvids,https://doi.org/10.1371/journal.pone.0045927,2012,259,https://openalex.org/W2000887400
+3314,Anthropology,Marine mollusc exploitation in Mediterranean prehistory: An overview,https://doi.org/10.1016/j.quaint.2010.09.001,2010,225,https://openalex.org/W2085801852
+3314,Anthropology,Holocene environmental change in a montane region of southern Europe with a long history of human settlement,https://doi.org/10.1016/j.quascirev.2007.03.013,2007,220,https://openalex.org/W2126533403
+3314,Anthropology,Earliest Known Use of Marine Resources by Neanderthals,https://doi.org/10.1371/journal.pone.0024026,2011,215,https://openalex.org/W2042215994
+3314,Anthropology,The historical origins of aridity and vegetation degradation in southeastern Spain,https://doi.org/10.1016/j.jaridenv.2008.11.014,2009,190,https://openalex.org/W2000949500
+3314,Anthropology,A coastal reservoir of biodiversity for Upper Pleistocene human populations: palaeoecological investigations in Gorham's Cave (Gibraltar) in the context of the Iberian Peninsula,https://doi.org/10.1016/j.quascirev.2008.08.016,2008,177,https://openalex.org/W1970888869
+1911,Paleontology,The genomic history of the Iberian Peninsula over the past 8000 years,https://doi.org/10.1126/science.aav4040,2019,530,https://openalex.org/W2922043930
+1911,Paleontology,Late survival of Neanderthals at the southernmost extreme of Europe,https://doi.org/10.1038/nature05195,2006,456,https://openalex.org/W2048313731
+1911,Paleontology,A rock engraving made by Neanderthals in Gibraltar,https://doi.org/10.1073/pnas.1411529111,2014,354,https://openalex.org/W2111876746
+1911,Paleontology,Neanderthal exploitation of marine mammals in Gibraltar,https://doi.org/10.1073/pnas.0805474105,2008,333,https://openalex.org/W2032414506
+1911,Paleontology,Birds of a Feather: Neanderthal Exploitation of Raptors and Corvids,https://doi.org/10.1371/journal.pone.0045927,2012,259,https://openalex.org/W2000887400
+1911,Paleontology,Marine mollusc exploitation in Mediterranean prehistory: An overview,https://doi.org/10.1016/j.quaint.2010.09.001,2010,225,https://openalex.org/W2085801852
+1911,Paleontology,Holocene environmental change in a montane region of southern Europe with a long history of human settlement,https://doi.org/10.1016/j.quascirev.2007.03.013,2007,220,https://openalex.org/W2126533403
+1911,Paleontology,Earliest Known Use of Marine Resources by Neanderthals,https://doi.org/10.1371/journal.pone.0024026,2011,215,https://openalex.org/W2042215994
+1911,Paleontology,Biogeography and evolution of the genus Homo,https://doi.org/10.1016/j.tree.2005.05.019,2005,148,https://openalex.org/W2067995211
+1911,Paleontology,"Environmental availability, behavioural diversity and diet: a zooarchaeological approach from the TD10-1 sublevel of Gran Dolina (Sierra de Atapuerca, Burgos, Spain) and Bolomor Cave (Valencia, Spain)",https://doi.org/10.1016/j.quascirev.2013.03.008,2013,146,https://openalex.org/W2005020185
 2740,Pulmonary and Respiratory Medicine,Pediatric Pulmonary Hypertension,https://doi.org/10.1161/cir.0000000000000329,2015,1070,https://openalex.org/W2178108213
 2740,Pulmonary and Respiratory Medicine,Oxygen and Mortality in COVID-19 Pneumonia: A Comparative Analysis of Supplemental Oxygen Policies and Health Outcomes Across 26 Countries,https://doi.org/10.3389/fpubh.2021.580585,2021,33,https://openalex.org/W3177571953
 2740,Pulmonary and Respiratory Medicine,Automatic stent reconstruction in optical coherence tomography based on a deep convolutional model,https://doi.org/10.1364/boe.390113,2020,32,https://openalex.org/W3028248625
-3312,Sociology and Political Science,Why do people watch pornography? The motivational basis of pornography use.,https://doi.org/10.1037/adb0000603,2020,152,https://openalex.org/W3046771307
+2740,Pulmonary and Respiratory Medicine,Delayed but successful response to noninvasive ventilation in COPD patients with acute hypercapnic respiratory failure,https://doi.org/10.2147/copd.s136241,2017,22,https://openalex.org/W2619782382
+2740,Pulmonary and Respiratory Medicine,Angiography-based coronary flow reserve: The feasibility of automatic computation by artificial intelligence,https://doi.org/10.5603/cj.a2021.0087,2021,15,https://openalex.org/W3191197533
+2740,Pulmonary and Respiratory Medicine,Oxygen and mortality in COVID-19 pneumonia: a comparative analysis of supplemental oxygen policies and health outcomes across 26 countries,https://doi.org/10.1101/2020.07.03.20145763,2020,11,https://openalex.org/W3039202590
+2740,Pulmonary and Respiratory Medicine,"Effectiveness and Safety of Palbociclib plus Endocrine Therapy in Hormone Receptor– Positive, HER2-Negative Metastatic Breast Cancer: Real-World Results",https://doi.org/10.4212/cjhp.v75i1.3252,2022,8,https://openalex.org/W4206837320
+2740,Pulmonary and Respiratory Medicine,"Anatomy and physiology, 10. The respiratory system",https://doi.org/10.12968/bjha.2018.12.4.178,2018,7,https://openalex.org/W2797245992
+2740,Pulmonary and Respiratory Medicine,Long-term outcome of upper limb autogenous arteriovenous fistulas for hemodialysis access,https://doi.org/10.4103/1319-2442.106303,2013,6,https://openalex.org/W2036728766
+2740,Pulmonary and Respiratory Medicine,Oxygen and Mortality in COVID-19 Pneumonia: A Comparative Analysis of Supplemental Oxygen Policies and Health Outcomes Across 26 Countries,https://doi.org/10.2139/ssrn.3633151,2020,6,https://openalex.org/W3186285275
+3312,Sociology and Political Science,Why do people watch pornography? The motivational basis of pornography use.,https://doi.org/10.1037/adb0000603,2020,153,https://openalex.org/W3046771307
 3312,Sociology and Political Science,The appropriation of new organizational forms within networks of practice: Founder and founder-related ideological power,https://doi.org/10.1177/0018726707079200,2007,44,https://openalex.org/W2123560829
 3312,Sociology and Political Science,Internet Addiction and Mental and Physical Fatigue,https://doi.org/10.2991/itmr.7.1.3,2018,25,https://openalex.org/W2892830033
-1204,Archeology,The genomic history of the Iberian Peninsula over the past 8000 years,https://doi.org/10.1126/science.aav4040,2019,527,https://openalex.org/W2922043930
-1204,Archeology,Late survival of Neanderthals at the southernmost extreme of Europe,https://doi.org/10.1038/nature05195,2006,454,https://openalex.org/W2048313731
-1204,Archeology,Marine mollusc exploitation in Mediterranean prehistory: An overview,https://doi.org/10.1016/j.quaint.2010.09.001,2010,224,https://openalex.org/W2085801852
+3312,Sociology and Political Science,Violence against psychiatrists by patients: survey in a London mental health trust,https://doi.org/10.1192/pb.bp.106.012815,2007,23,https://openalex.org/W2039375610
+3312,Sociology and Political Science,Improvements in Disaster Planning and Directions for Nursing Management,https://doi.org/10.1097/nna.0b013e3181b9224b,2009,16,https://openalex.org/W2010417517
+3312,Sociology and Political Science,Implementing AML/CFT measures that address the risks and not tick boxes,https://doi.org/10.1108/13581980710744093,2007,15,https://openalex.org/W2083111140
+3312,Sociology and Political Science,"Mondialisation, Clusterisation et recyclage colonial",https://doi.org/10.4000/echogeo.13586,2013,15,https://openalex.org/W1980219794
+3312,Sociology and Political Science,Understanding Esports-related Betting and Gambling: A Systematic Review of the Literature,https://doi.org/10.1007/s10899-023-10256-5,2023,13,https://openalex.org/W4386951691
+3312,Sociology and Political Science,"Fixed Lines, Permanent Transitions. International Borders, Cross-Border Communities and the Transforming Experience of Otherness",https://doi.org/10.1080/08865655.2017.1344105,2017,11,https://openalex.org/W2740522374
+3312,Sociology and Political Science,Editorial: What Is the Role for Effective Pedagogy in Contemporary Higher Education?,https://doi.org/10.3389/fpsyg.2018.01299,2018,11,https://openalex.org/W2884190978
+1204,Archeology,The genomic history of the Iberian Peninsula over the past 8000 years,https://doi.org/10.1126/science.aav4040,2019,530,https://openalex.org/W2922043930
+1204,Archeology,Late survival of Neanderthals at the southernmost extreme of Europe,https://doi.org/10.1038/nature05195,2006,456,https://openalex.org/W2048313731
+1204,Archeology,Marine mollusc exploitation in Mediterranean prehistory: An overview,https://doi.org/10.1016/j.quaint.2010.09.001,2010,225,https://openalex.org/W2085801852
+1204,Archeology,Earliest Known Use of Marine Resources by Neanderthals,https://doi.org/10.1371/journal.pone.0024026,2011,215,https://openalex.org/W2042215994
+1204,Archeology,A coastal reservoir of biodiversity for Upper Pleistocene human populations: palaeoecological investigations in Gorham's Cave (Gibraltar) in the context of the Iberian Peninsula,https://doi.org/10.1016/j.quascirev.2008.08.016,2008,177,https://openalex.org/W1970888869
+1204,Archeology,Biogeography and evolution of the genus Homo,https://doi.org/10.1016/j.tree.2005.05.019,2005,148,https://openalex.org/W2067995211
+1204,Archeology,"Environmental availability, behavioural diversity and diet: a zooarchaeological approach from the TD10-1 sublevel of Gran Dolina (Sierra de Atapuerca, Burgos, Spain) and Bolomor Cave (Valencia, Spain)",https://doi.org/10.1016/j.quascirev.2013.03.008,2013,146,https://openalex.org/W2005020185
+1204,Archeology,"Gorham's Cave, Gibraltar—The persistence of a Neanderthal population",https://doi.org/10.1016/j.quaint.2007.11.016,2007,122,https://openalex.org/W2020309569
+1204,Archeology,Using Bones to Shape Stones: MIS 9 Bone Retouchers at Both Edges of the Mediterranean Sea,https://doi.org/10.1371/journal.pone.0076780,2013,110,https://openalex.org/W1996082404
+1204,Archeology,On the importance of coastal areas in the survival of Neanderthal populations during the Late Pleistocene,https://doi.org/10.1016/j.quascirev.2008.08.033,2008,81,https://openalex.org/W2007316650

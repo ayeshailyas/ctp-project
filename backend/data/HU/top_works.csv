@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-1312,Molecular Biology,IQ-TREE 2: New Models and Efficient Methods for Phylogenetic Inference in the Genomic Era,https://doi.org/10.1093/molbev/msaa015,2020,13633,https://openalex.org/W3005235420
-1312,Molecular Biology,Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines,https://doi.org/10.1080/20013078.2018.1535750,2018,10297,https://openalex.org/W2900756811
-1312,Molecular Biology,Antiinflammatory Therapy with Canakinumab for Atherosclerotic Disease,https://doi.org/10.1056/nejmoa1707914,2017,8381,https://openalex.org/W2748400555
-2505,Materials Chemistry,Evolution of Surface Functional Groups in a Series of Progressively Oxidized Graphite Oxides,https://doi.org/10.1021/cm060258+,2006,1751,https://openalex.org/W1998574376
-2505,Materials Chemistry,Accurate secondary structure prediction and fold recognition for circular dichroism spectroscopy,https://doi.org/10.1073/pnas.1500851112,2015,1621,https://openalex.org/W1588979652
-2505,Materials Chemistry,IUPred2A: context-dependent prediction of protein disorder as a function of redox state and protein binding,https://doi.org/10.1093/nar/gky384,2018,1466,https://openalex.org/W2806884808
-1110,Plant Science,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4839,https://openalex.org/W2110375946
-1110,Plant Science,Proline: a multifunctional amino acid,https://doi.org/10.1016/j.tplants.2009.11.009,2009,3954,https://openalex.org/W2135572188
-1110,Plant Science,Shifting the limits in wheat research and breeding using a fully annotated reference genome,https://doi.org/10.1126/science.aar7191,2018,3210,https://openalex.org/W2886785109
-2208,Electrical and Electronic Engineering,Evolution of Surface Functional Groups in a Series of Progressively Oxidized Graphite Oxides,https://doi.org/10.1021/cm060258+,2006,1751,https://openalex.org/W1998574376
+1312,Molecular Biology,IQ-TREE 2: New Models and Efficient Methods for Phylogenetic Inference in the Genomic Era,https://doi.org/10.1093/molbev/msaa015,2020,13753,https://openalex.org/W3005235420
+1312,Molecular Biology,Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines,https://doi.org/10.1080/20013078.2018.1535750,2018,10328,https://openalex.org/W2900756811
+1312,Molecular Biology,Antiinflammatory Therapy with Canakinumab for Atherosclerotic Disease,https://doi.org/10.1056/nejmoa1707914,2017,8419,https://openalex.org/W2748400555
+1312,Molecular Biology,Biological properties of extracellular vesicles and their physiological functions,https://doi.org/10.3402/jev.v4.27066,2015,5548,https://openalex.org/W2170852633
+1312,Molecular Biology,Uncovering the overlapping community structure of complex networks in nature and society,https://doi.org/10.1038/nature03607,2005,5320,https://openalex.org/W2164928285
+1312,Molecular Biology,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4851,https://openalex.org/W2110375946
+1312,Molecular Biology,Cardiovascular and Renal Outcomes with Empagliflozin in Heart Failure,https://doi.org/10.1056/nejmoa2022190,2020,4550,https://openalex.org/W3081830235
+1312,Molecular Biology,"An online survival analysis tool to rapidly assess the effect of 22,277 genes on breast cancer prognosis using microarray data of 1,809 patients",https://doi.org/10.1007/s10549-009-0674-9,2009,4249,https://openalex.org/W2085934079
+1312,Molecular Biology,Proline: a multifunctional amino acid,https://doi.org/10.1016/j.tplants.2009.11.009,2009,3972,https://openalex.org/W2135572188
+1312,Molecular Biology,"Temsirolimus, Interferon Alfa, or Both for Advanced Renal-Cell Carcinoma",https://doi.org/10.1056/nejmoa066838,2007,3625,https://openalex.org/W2153867442
+2505,Materials Chemistry,Evolution of Surface Functional Groups in a Series of Progressively Oxidized Graphite Oxides,https://doi.org/10.1021/cm060258+,2006,1756,https://openalex.org/W1998574376
+2505,Materials Chemistry,Accurate secondary structure prediction and fold recognition for circular dichroism spectroscopy,https://doi.org/10.1073/pnas.1500851112,2015,1625,https://openalex.org/W1588979652
+2505,Materials Chemistry,IUPred2A: context-dependent prediction of protein disorder as a function of redox state and protein binding,https://doi.org/10.1093/nar/gky384,2018,1470,https://openalex.org/W2806884808
+2505,Materials Chemistry,Why is Tanimoto index an appropriate choice for fingerprint-based similarity calculations?,https://doi.org/10.1186/s13321-015-0069-3,2015,1443,https://openalex.org/W2151697120
+2505,Materials Chemistry,"Nanotechnology in Sustainable Agriculture: Recent Developments, Challenges, and Perspectives",https://doi.org/10.3389/fmicb.2017.01014,2017,1424,https://openalex.org/W2671169680
+2505,Materials Chemistry,BeStSel: a web server for accurate protein secondary structure prediction and fold recognition from the circular dichroism spectra,https://doi.org/10.1093/nar/gky497,2018,1055,https://openalex.org/W2808618567
+2505,Materials Chemistry,Fuzzy complexes: polymorphism and structural disorder in protein–protein interactions,https://doi.org/10.1016/j.tibs.2007.10.003,2007,1054,https://openalex.org/W2023487073
+2505,Materials Chemistry,The Pairwise Energy Content Estimated from Amino Acid Composition Discriminates between Folded and Intrinsically Unstructured Proteins,https://doi.org/10.1016/j.jmb.2005.01.071,2005,1035,https://openalex.org/W2161199282
+2505,Materials Chemistry,A Short Course on Topological Insulators,https://doi.org/10.1007/978-3-319-25607-8,2016,1034,https://openalex.org/W3102897980
+2505,Materials Chemistry,γ-Valerolactone—a sustainable liquid for energy and carbon-based chemicals,https://doi.org/10.1039/b712863k,2007,951,https://openalex.org/W2075087451
+1110,Plant Science,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4851,https://openalex.org/W2110375946
+1110,Plant Science,Proline: a multifunctional amino acid,https://doi.org/10.1016/j.tplants.2009.11.009,2009,3972,https://openalex.org/W2135572188
+1110,Plant Science,Shifting the limits in wheat research and breeding using a fully annotated reference genome,https://doi.org/10.1126/science.aar7191,2018,3224,https://openalex.org/W2886785109
+1110,Plant Science,The effect of drought and heat stress on reproductive processes in cereals,https://doi.org/10.1111/j.1365-3040.2007.01727.x,2007,2003,https://openalex.org/W2160030559
+1110,Plant Science,Molecular definitions of autophagy and related processes,https://doi.org/10.15252/embj.201796697,2017,1539,https://openalex.org/W2621728938
+1110,Plant Science,"Plant Circadian Clocks Increase Photosynthesis, Growth, Survival, and Competitive Advantage",https://doi.org/10.1126/science.1115581,2005,1471,https://openalex.org/W2104266531
+1110,Plant Science,Priming: Getting Ready for Battle,https://doi.org/10.1094/mpmi-19-1062,2006,1460,https://openalex.org/W2140270616
+1110,Plant Science,"The endophytic fungus Piriformospora indica reprograms barley to salt-stress tolerance, disease resistance, and higher yield",https://doi.org/10.1073/pnas.0504423102,2005,1285,https://openalex.org/W2023017257
+1110,Plant Science,Pesticide productivity and food security. A review,https://doi.org/10.1007/s13593-012-0105-x,2012,1102,https://openalex.org/W2008899936
+1110,Plant Science,Changes to taxonomy and the International Code of Virus Classification and Nomenclature ratified by the International Committee on Taxonomy of Viruses (2018),https://doi.org/10.1007/s00705-018-3847-1,2018,1087,https://openalex.org/W2605606775
+2208,Electrical and Electronic Engineering,Evolution of Surface Functional Groups in a Series of Progressively Oxidized Graphite Oxides,https://doi.org/10.1021/cm060258+,2006,1756,https://openalex.org/W1998574376
 2208,Electrical and Electronic Engineering,Tailoring the atomic structure of graphene nanoribbons by scanning tunnelling microscope lithography,https://doi.org/10.1038/nnano.2008.149,2008,946,https://openalex.org/W1993743444
 2208,Electrical and Electronic Engineering,Poly(ADP-ribose) polymerase and the therapeutic effects of its inhibitors,https://doi.org/10.1038/nrd1718,2005,886,https://openalex.org/W2095798342
-3107,"Atomic and Molecular Physics, and Optics",Restoring the Density-Gradient Expansion for Exchange in Solids and Surfaces,https://doi.org/10.1103/physrevlett.100.136406,2008,10944,https://openalex.org/W2016168218
-3107,"Atomic and Molecular Physics, and Optics",Advanced Virgo: a second-generation interferometric gravitational wave detector,https://doi.org/10.1088/0264-9381/32/2/024001,2014,3785,https://openalex.org/W1994870116
-3107,"Atomic and Molecular Physics, and Optics",Entanglement detection,https://doi.org/10.1016/j.physrep.2009.02.004,2009,2268,https://openalex.org/W3038000163
-2746,Surgery,Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction,https://doi.org/10.1056/nejmoa1911303,2019,6201,https://openalex.org/W2974260792
-2746,Surgery,Cardiovascular and Renal Outcomes with Empagliflozin in Heart Failure,https://doi.org/10.1056/nejmoa2022190,2020,4527,https://openalex.org/W3081830235
-2746,Surgery,The 2016 update of the International Study Group (ISGPS) definition and grading of postoperative pancreatic fistula: 11 Years After,https://doi.org/10.1016/j.surg.2016.11.014,2016,3804,https://openalex.org/W2565595087
-2204,Biomedical Engineering,Exhaled breath condensate: methodological recommendations and unresolved questions,https://doi.org/10.1183/09031936.05.00029705,2005,1244,https://openalex.org/W1989935661
-2204,Biomedical Engineering,Catalytic Conversion of Carbohydrates to Initial Platform Chemicals: Chemistry and Sustainability,https://doi.org/10.1021/acs.chemrev.7b00395,2017,1205,https://openalex.org/W2769456954
-2204,Biomedical Engineering,Genome sequencing and analysis of the versatile cell factory Aspergillus niger CBS 513.88,https://doi.org/10.1038/nbt1282,2007,1164,https://openalex.org/W2119938020
-1605,Organic Chemistry,"Efficient, Selective, and Recyclable Palladium Catalysts in Carbon−Carbon Coupling Reactions",https://doi.org/10.1021/cr100355b,2011,1026,https://openalex.org/W2037312560
-1605,Organic Chemistry,Highly Enantioselective Conjugate Addition of Nitromethane to Chalcones Using Bifunctional Cinchona Organocatalysts,https://doi.org/10.1021/ol050431s,2005,972,https://openalex.org/W2141165026
-1605,Organic Chemistry,The Roles of Subsurface Carbon and Hydrogen in Palladium-Catalyzed Alkyne Hydrogenation,https://doi.org/10.1126/science.1155200,2008,908,https://openalex.org/W2067232632
-3305,"Geography, Planning and Development","Crowdsourcing, Citizen Science or Volunteered Geographic Information? The Current State of Crowdsourced Geographic Information",https://doi.org/10.3390/ijgi5050055,2016,410,https://openalex.org/W3102725001
+2208,Electrical and Electronic Engineering,Petawatt and exawatt class lasers worldwide,https://doi.org/10.1017/hpl.2019.36,2019,860,https://openalex.org/W2969385702
+2208,Electrical and Electronic Engineering,Subretinal electronic chips allow blind patients to read letters and combine them to words,https://doi.org/10.1098/rspb.2010.1747,2010,816,https://openalex.org/W2158326388
+2208,Electrical and Electronic Engineering,Room-temperature magnetic order on zigzag edges of narrow graphene nanoribbons,https://doi.org/10.1038/nature13831,2014,774,https://openalex.org/W2011350333
+2208,Electrical and Electronic Engineering,The global footprint of mobile communications: The ecological and economic perspective,https://doi.org/10.1109/mcom.2011.5978416,2011,689,https://openalex.org/W2133019626
+2208,Electrical and Electronic Engineering,The Sky Is Not the Limit: LTE for Unmanned Aerial Vehicles,https://doi.org/10.1109/mcom.2018.1700643,2018,659,https://openalex.org/W2738731084
+2208,Electrical and Electronic Engineering,Chatter suppression techniques in metal cutting,https://doi.org/10.1016/j.cirp.2016.06.004,2016,648,https://openalex.org/W2505714040
+2208,Electrical and Electronic Engineering,Coherent control of single spins in silicon carbide at room temperature,https://doi.org/10.1038/nmat4145,2014,610,https://openalex.org/W1972333911
+3107,"Atomic and Molecular Physics, and Optics",Restoring the Density-Gradient Expansion for Exchange in Solids and Surfaces,https://doi.org/10.1103/physrevlett.100.136406,2008,10979,https://openalex.org/W2016168218
+3107,"Atomic and Molecular Physics, and Optics",Advanced Virgo: a second-generation interferometric gravitational wave detector,https://doi.org/10.1088/0264-9381/32/2/024001,2014,3797,https://openalex.org/W1994870116
+3107,"Atomic and Molecular Physics, and Optics",Entanglement detection,https://doi.org/10.1016/j.physrep.2009.02.004,2009,2273,https://openalex.org/W3038000163
+3107,"Atomic and Molecular Physics, and Optics",The Photodetector Array Camera and Spectrometer (PACS) on the <i>Herschel</i>Space Observatory,https://doi.org/10.1051/0004-6361/201014535,2010,2128,https://openalex.org/W2097350628
+3107,"Atomic and Molecular Physics, and Optics",Table of experimental nuclear ground state charge radii: An update,https://doi.org/10.1016/j.adt.2011.12.006,2012,1600,https://openalex.org/W1997664190
+3107,"Atomic and Molecular Physics, and Optics",RIPL – Reference Input Parameter Library for Calculation of Nuclear Reactions and Nuclear Data Evaluations,https://doi.org/10.1016/j.nds.2009.10.004,2009,1335,https://openalex.org/W2066217039
+3107,"Atomic and Molecular Physics, and Optics",Color Difference Thresholds in Dentistry,https://doi.org/10.1111/jerd.12149,2015,1197,https://openalex.org/W1913669301
+3107,"Atomic and Molecular Physics, and Optics",A Short Course on Topological Insulators,https://doi.org/10.1007/978-3-319-25607-8,2016,1034,https://openalex.org/W3102897980
+3107,"Atomic and Molecular Physics, and Optics",Prescription for the design and selection of density functional approximations: More constraint satisfaction with fewer fits,https://doi.org/10.1063/1.1904565,2005,932,https://openalex.org/W2117307259
+3107,"Atomic and Molecular Physics, and Optics",Cold atoms in cavity-generated dynamical optical potentials,https://doi.org/10.1103/revmodphys.85.553,2013,888,https://openalex.org/W1985865446
+2746,Surgery,Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction,https://doi.org/10.1056/nejmoa1911303,2019,6229,https://openalex.org/W2974260792
+2746,Surgery,Cardiovascular and Renal Outcomes with Empagliflozin in Heart Failure,https://doi.org/10.1056/nejmoa2022190,2020,4550,https://openalex.org/W3081830235
+2746,Surgery,The 2016 update of the International Study Group (ISGPS) definition and grading of postoperative pancreatic fistula: 11 Years After,https://doi.org/10.1016/j.surg.2016.11.014,2016,3818,https://openalex.org/W2565595087
+2746,Surgery,Fractional Flow Reserve–Guided PCI versus Medical Therapy in Stable Coronary Disease,https://doi.org/10.1056/nejmoa1205361,2012,2631,https://openalex.org/W2133924558
+2746,Surgery,"First-line nivolumab plus chemotherapy versus chemotherapy alone for advanced gastric, gastro-oesophageal junction, and oesophageal adenocarcinoma (CheckMate 649): a randomised, open-label, phase 3 trial",https://doi.org/10.1016/s0140-6736(21)00797-2,2021,2574,https://openalex.org/W3171517418
+2746,Surgery,"Ramucirumab plus paclitaxel versus placebo plus paclitaxel in patients with previously treated advanced gastric or gastro-oesophageal junction adenocarcinoma (RAINBOW): a double-blind, randomised phase 3 trial",https://doi.org/10.1016/s1470-2045(14)70420-6,2014,2379,https://openalex.org/W2111237964
+2746,Surgery,Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction,https://doi.org/10.1056/nejmoa2206286,2022,2224,https://openalex.org/W4293354639
+2746,Surgery,Initial Invasive or Conservative Strategy for Stable Coronary Disease,https://doi.org/10.1056/nejmoa1915922,2020,2205,https://openalex.org/W3014025744
+2746,Surgery,Incidence trends for childhood type 1 diabetes in Europe during 1989–2003 and predicted new cases 2005–20: a multicentre prospective registration study,https://doi.org/10.1016/s0140-6736(09)60568-7,2009,1844,https://openalex.org/W2000549941
+2746,Surgery,"Third European Evidence-based Consensus on Diagnosis and Management of Ulcerative Colitis. Part 1: Definitions, Diagnosis, Extra-intestinal Manifestations, Pregnancy, Cancer Surveillance, Surgery, and Ileo-anal Pouch Disorders",https://doi.org/10.1093/ecco-jcc/jjx008,2017,1794,https://openalex.org/W2583633660
+2204,Biomedical Engineering,Exhaled breath condensate: methodological recommendations and unresolved questions,https://doi.org/10.1183/09031936.05.00029705,2005,1246,https://openalex.org/W1989935661
+2204,Biomedical Engineering,Catalytic Conversion of Carbohydrates to Initial Platform Chemicals: Chemistry and Sustainability,https://doi.org/10.1021/acs.chemrev.7b00395,2017,1211,https://openalex.org/W2769456954
+2204,Biomedical Engineering,Genome sequencing and analysis of the versatile cell factory Aspergillus niger CBS 513.88,https://doi.org/10.1038/nbt1282,2007,1166,https://openalex.org/W2119938020
+2204,Biomedical Engineering,"Antimicrobial strategies centered around reactive oxygen species – bactericidal antibiotics, photodynamic therapy, and beyond",https://doi.org/10.1111/1574-6976.12026,2013,1036,https://openalex.org/W2147173298
+2204,Biomedical Engineering,γ-Valerolactone—a sustainable liquid for energy and carbon-based chemicals,https://doi.org/10.1039/b712863k,2007,951,https://openalex.org/W2075087451
+2204,Biomedical Engineering,Classification of liptinite – ICCP System 1994,https://doi.org/10.1016/j.coal.2016.11.004,2016,939,https://openalex.org/W2008874249
+2204,Biomedical Engineering,"The effect of bioenergy expansion: Food, energy, and environment",https://doi.org/10.1016/j.rser.2014.01.056,2014,925,https://openalex.org/W1988730360
+2204,Biomedical Engineering,Supervised pattern recognition in food analysis,https://doi.org/10.1016/j.chroma.2007.05.024,2007,918,https://openalex.org/W2018244852
+2204,Biomedical Engineering,Chatter suppression techniques in metal cutting,https://doi.org/10.1016/j.cirp.2016.06.004,2016,648,https://openalex.org/W2505714040
+2204,Biomedical Engineering,Expanding the medicinal chemistry synthetic toolbox,https://doi.org/10.1038/nrd.2018.116,2018,648,https://openalex.org/W2888349794
+1605,Organic Chemistry,"Efficient, Selective, and Recyclable Palladium Catalysts in Carbon−Carbon Coupling Reactions",https://doi.org/10.1021/cr100355b,2011,1027,https://openalex.org/W2037312560
+1605,Organic Chemistry,Highly Enantioselective Conjugate Addition of Nitromethane to Chalcones Using Bifunctional Cinchona Organocatalysts,https://doi.org/10.1021/ol050431s,2005,974,https://openalex.org/W2141165026
+1605,Organic Chemistry,The Roles of Subsurface Carbon and Hydrogen in Palladium-Catalyzed Alkyne Hydrogenation,https://doi.org/10.1126/science.1155200,2008,909,https://openalex.org/W2067232632
+1605,Organic Chemistry,Single-Dose Psilocybin for a Treatment-Resistant Episode of Major Depression,https://doi.org/10.1056/nejmoa2206443,2022,887,https://openalex.org/W4308146982
+1605,Organic Chemistry,Self-healing gels based on constitutional dynamic chemistry and their potential applications,https://doi.org/10.1039/c4cs00219a,2014,857,https://openalex.org/W1994952188
+1605,Organic Chemistry,Innovations and Green Chemistry,https://doi.org/10.1021/cr078380v,2007,705,https://openalex.org/W2051004637
+1605,Organic Chemistry,Novel Biocompatible Polysaccharide‐Based Self‐Healing Hydrogel,https://doi.org/10.1002/adfm.201401502,2015,643,https://openalex.org/W2123971331
+1605,Organic Chemistry,Discovery of a planetary-mass companion within the gap of the transition disk around PDS 70,https://doi.org/10.1051/0004-6361/201832957,2018,639,https://openalex.org/W2810503551
+1605,Organic Chemistry,Bond order and valence indices: A personal account,https://doi.org/10.1002/jcc.20494,2006,544,https://openalex.org/W2062464564
+1605,Organic Chemistry,Females with Fabry disease frequently have major organ involvement: Lessons from the Fabry Registry,https://doi.org/10.1016/j.ymgme.2007.09.013,2007,523,https://openalex.org/W2026893678
+3305,"Geography, Planning and Development","Crowdsourcing, Citizen Science or Volunteered Geographic Information? The Current State of Crowdsourced Geographic Information",https://doi.org/10.3390/ijgi5050055,2016,411,https://openalex.org/W3102725001
 3305,"Geography, Planning and Development",Next-generation Digital Earth,https://doi.org/10.1073/pnas.1202383109,2012,379,https://openalex.org/W2147002317
-3305,"Geography, Planning and Development",A Comparative Study of the Use of Visual Communicative Signals in Interactions Between Dogs (Canis familiaris) and Humans and Cats (Felis catus) and Humans.,https://doi.org/10.1037/0735-7036.119.2.179,2005,320,https://openalex.org/W2003676323
-3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2957,https://openalex.org/W2161411308
-3312,Sociology and Political Science,Evolutionary games on graphs,https://doi.org/10.1016/j.physrep.2007.04.004,2007,2826,https://openalex.org/W1992195122
-3312,Sociology and Political Science,Pervasive human-driven decline of life on Earth points to the need for transformative change,https://doi.org/10.1126/science.aax3100,2019,2334,https://openalex.org/W2995840337
+3305,"Geography, Planning and Development",A Comparative Study of the Use of Visual Communicative Signals in Interactions Between Dogs (Canis familiaris) and Humans and Cats (Felis catus) and Humans.,https://doi.org/10.1037/0735-7036.119.2.179,2005,321,https://openalex.org/W2003676323
+3305,"Geography, Planning and Development",Digital Earth 2020: towards the vision for the next decade,https://doi.org/10.1080/17538947.2011.638500,2011,283,https://openalex.org/W2015544772
+3305,"Geography, Planning and Development",Understanding 6th-century barbarian social organization and migration through paleogenomics,https://doi.org/10.1038/s41467-018-06024-4,2018,193,https://openalex.org/W2951473752
+3305,"Geography, Planning and Development",Democracy and welfare in hard times: The social policy of the Orbán Government in Hungary between 2010 and 2014,https://doi.org/10.1177/0958928714545446,2014,188,https://openalex.org/W2140255252
+3305,"Geography, Planning and Development",Did the first farmers of central and eastern Europe produce dairy foods?,https://doi.org/10.1017/s0003598x00115017,2005,184,https://openalex.org/W2112338078
+3305,"Geography, Planning and Development",A friend or an enemy? Dogs’ reaction to an unfamiliar person showing behavioural cues of threat and friendliness at different times,https://doi.org/10.1016/j.applanim.2005.02.001,2005,169,https://openalex.org/W2123031205
+3305,"Geography, Planning and Development",Dog-logic: inferential reasoning in a two-way choice task and its restricted use,https://doi.org/10.1016/j.anbehav.2007.03.004,2007,157,https://openalex.org/W2088744280
+3305,"Geography, Planning and Development",Urban sprawl and land conversion in post-socialist cities: The case of metropolitan Budapest,https://doi.org/10.1016/j.cities.2019.03.018,2019,154,https://openalex.org/W2928602481
+3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2973,https://openalex.org/W2161411308
+3312,Sociology and Political Science,Evolutionary games on graphs,https://doi.org/10.1016/j.physrep.2007.04.004,2007,2835,https://openalex.org/W1992195122
+3312,Sociology and Political Science,Pervasive human-driven decline of life on Earth points to the need for transformative change,https://doi.org/10.1126/science.aax3100,2019,2345,https://openalex.org/W2995840337
+3312,Sociology and Political Science,Coevolutionary games—A mini review,https://doi.org/10.1016/j.biosystems.2009.10.003,2009,1868,https://openalex.org/W2000929155
+3312,Sociology and Political Science,The relationship between addictive use of social media and video games and symptoms of psychiatric disorders: A large-scale cross-sectional study.,https://doi.org/10.1037/adb0000160,2016,1774,https://openalex.org/W2314751257
+3312,Sociology and Political Science,Contrasting Computational Models of Mate Preference Integration Across 45 Countries,https://doi.org/10.1038/s41598-019-52748-8,2019,1773,https://openalex.org/W2983201012
+3312,Sociology and Political Science,Quantifying social group evolution,https://doi.org/10.1038/nature05670,2007,1655,https://openalex.org/W2092124750
+3312,Sociology and Political Science,Statistical physics of human cooperation,https://doi.org/10.1016/j.physrep.2017.05.004,2017,1422,https://openalex.org/W2618208446
+3312,Sociology and Political Science,Evolutionary dynamics of group interactions on structured populations: a review,https://doi.org/10.1098/rsif.2012.0997,2013,1256,https://openalex.org/W2118847390
+3312,Sociology and Political Science,National differences in gender–science stereotypes predict national sex differences in science and math achievement,https://doi.org/10.1073/pnas.0809921106,2009,999,https://openalex.org/W2108193005

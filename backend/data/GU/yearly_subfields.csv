@@ -1,966 +1,966 @@
 year,id,name,works_count,country,fetch_date
-2005,1110,Plant Science,29,GU,2025-12-01 19:09:04
-2005,2303,Ecology,12,GU,2025-12-01 19:09:04
-2005,1312,Molecular Biology,9,GU,2025-12-01 19:09:04
-2005,2306,Global and Planetary Change,9,GU,2025-12-01 19:09:04
-2005,1105,"Ecology, Evolution, Behavior and Systematics",7,GU,2025-12-01 19:09:04
-2005,1910,Oceanography,5,GU,2025-12-01 19:09:04
-2005,1109,Insect Science,4,GU,2025-12-01 19:09:04
-2005,1111,Soil Science,4,GU,2025-12-01 19:09:04
-2005,2212,Ocean Engineering,4,GU,2025-12-01 19:09:04
-2005,1305,Biotechnology,3,GU,2025-12-01 19:09:04
-2005,1311,Genetics,3,GU,2025-12-01 19:09:04
-2005,2307,"Health, Toxicology and Mutagenesis",3,GU,2025-12-01 19:09:04
-2005,3304,Education,3,GU,2025-12-01 19:09:04
-2005,1104,Aquatic Science,2,GU,2025-12-01 19:09:04
-2005,1106,Food Science,2,GU,2025-12-01 19:09:04
-2005,1307,Cell Biology,2,GU,2025-12-01 19:09:04
-2005,2403,Immunology,2,GU,2025-12-01 19:09:04
-2005,2704,Biochemistry,2,GU,2025-12-01 19:09:04
-2005,1102,Agronomy and Crop Science,1,GU,2025-12-01 19:09:04
-2005,1605,Organic Chemistry,1,GU,2025-12-01 19:09:04
-2005,1902,Atmospheric Science,1,GU,2025-12-01 19:09:04
-2005,1904,Earth-Surface Processes,1,GU,2025-12-01 19:09:04
-2005,1906,Geochemistry and Petrology,1,GU,2025-12-01 19:09:04
-2005,2210,Mechanical Engineering,1,GU,2025-12-01 19:09:04
-2005,2310,Pollution,1,GU,2025-12-01 19:09:04
-2005,2312,Water Science and Technology,1,GU,2025-12-01 19:09:04
-2005,2406,Virology,1,GU,2025-12-01 19:09:04
-2005,2502,Biomaterials,1,GU,2025-12-01 19:09:04
-2005,2916,Nutrition and Dietetics,1,GU,2025-12-01 19:09:04
-2005,3305,"Geography, Planning and Development",1,GU,2025-12-01 19:09:04
-2005,3317,Demography,1,GU,2025-12-01 19:09:04
-2005,3320,Political Science and International Relations,1,GU,2025-12-01 19:09:04
-2006,2303,Ecology,9,GU,2025-12-01 19:09:04
-2006,3304,Education,7,GU,2025-12-01 19:09:04
-2006,1105,"Ecology, Evolution, Behavior and Systematics",6,GU,2025-12-01 19:09:04
-2006,1109,Insect Science,5,GU,2025-12-01 19:09:04
-2006,1110,Plant Science,5,GU,2025-12-01 19:09:04
-2006,1910,Oceanography,4,GU,2025-12-01 19:09:04
-2006,3312,Sociology and Political Science,4,GU,2025-12-01 19:09:04
-2006,3305,"Geography, Planning and Development",3,GU,2025-12-01 19:09:04
-2006,1305,Biotechnology,2,GU,2025-12-01 19:09:04
-2006,1710,Information Systems,2,GU,2025-12-01 19:09:04
-2006,1902,Atmospheric Science,2,GU,2025-12-01 19:09:04
-2006,1904,Earth-Surface Processes,2,GU,2025-12-01 19:09:04
-2006,2306,Global and Planetary Change,2,GU,2025-12-01 19:09:04
-2006,3203,Clinical Psychology,2,GU,2025-12-01 19:09:04
-2006,3317,Demography,2,GU,2025-12-01 19:09:04
-2006,3318,Gender Studies,2,GU,2025-12-01 19:09:04
-2006,1106,Food Science,1,GU,2025-12-01 19:09:04
-2006,1303,Biochemistry,1,GU,2025-12-01 19:09:04
-2006,1311,Genetics,1,GU,2025-12-01 19:09:04
-2006,1312,Molecular Biology,1,GU,2025-12-01 19:09:04
-2006,1706,Computer Science Applications,1,GU,2025-12-01 19:09:04
-2006,1906,Geochemistry and Petrology,1,GU,2025-12-01 19:09:04
-2006,1911,Paleontology,1,GU,2025-12-01 19:09:04
-2006,2105,"Renewable Energy, Sustainability and the Environment",1,GU,2025-12-01 19:09:04
-2006,2210,Mechanical Engineering,1,GU,2025-12-01 19:09:04
-2006,2304,Environmental Chemistry,1,GU,2025-12-01 19:09:04
-2006,2307,"Health, Toxicology and Mutagenesis",1,GU,2025-12-01 19:09:04
-2006,2310,Pollution,1,GU,2025-12-01 19:09:04
-2006,2403,Immunology,1,GU,2025-12-01 19:09:04
-2006,2736,Pharmacology,1,GU,2025-12-01 19:09:04
-2006,3207,Social Psychology,1,GU,2025-12-01 19:09:04
-2006,3313,Transportation,1,GU,2025-12-01 19:09:04
-2006,3316,Cultural Studies,1,GU,2025-12-01 19:09:04
-2006,3614,Radiological and Ultrasound Technology,1,GU,2025-12-01 19:09:04
-2007,2303,Ecology,9,GU,2025-12-01 19:09:04
-2007,2306,Global and Planetary Change,5,GU,2025-12-01 19:09:04
-2007,1110,Plant Science,4,GU,2025-12-01 19:09:04
-2007,3312,Sociology and Political Science,4,GU,2025-12-01 19:09:04
-2007,1910,Oceanography,3,GU,2025-12-01 19:09:04
-2007,1105,"Ecology, Evolution, Behavior and Systematics",2,GU,2025-12-01 19:09:04
-2007,1305,Biotechnology,2,GU,2025-12-01 19:09:04
-2007,1312,Molecular Biology,2,GU,2025-12-01 19:09:04
-2007,2212,Ocean Engineering,2,GU,2025-12-01 19:09:04
-2007,2309,Nature and Landscape Conservation,2,GU,2025-12-01 19:09:04
-2007,3305,"Geography, Planning and Development",2,GU,2025-12-01 19:09:04
-2007,3316,Cultural Studies,2,GU,2025-12-01 19:09:04
-2007,1102,Agronomy and Crop Science,1,GU,2025-12-01 19:09:04
-2007,1108,Horticulture,1,GU,2025-12-01 19:09:04
-2007,1109,Insect Science,1,GU,2025-12-01 19:09:04
-2007,1306,Cancer Research,1,GU,2025-12-01 19:09:04
-2007,1311,Genetics,1,GU,2025-12-01 19:09:04
-2007,1406,Marketing,1,GU,2025-12-01 19:09:04
-2007,1605,Organic Chemistry,1,GU,2025-12-01 19:09:04
-2007,1902,Atmospheric Science,1,GU,2025-12-01 19:09:04
-2007,2304,Environmental Chemistry,1,GU,2025-12-01 19:09:04
-2007,2308,"Management, Monitoring, Policy and Law",1,GU,2025-12-01 19:09:04
-2007,2738,Psychiatry and Mental health,1,GU,2025-12-01 19:09:04
-2007,3203,Clinical Psychology,1,GU,2025-12-01 19:09:04
-2007,3204,Developmental and Educational Psychology,1,GU,2025-12-01 19:09:04
-2007,3207,Social Psychology,1,GU,2025-12-01 19:09:04
-2007,3304,Education,1,GU,2025-12-01 19:09:04
-2007,3311,Safety Research,1,GU,2025-12-01 19:09:04
-2007,3314,Anthropology,1,GU,2025-12-01 19:09:04
-2007,3317,Demography,1,GU,2025-12-01 19:09:04
-2007,3600,General Health Professions,1,GU,2025-12-01 19:09:04
-2007,3612,"Physical Therapy, Sports Therapy and Rehabilitation",1,GU,2025-12-01 19:09:04
-2008,3305,"Geography, Planning and Development",7,GU,2025-12-01 19:09:04
-2008,1305,Biotechnology,6,GU,2025-12-01 19:09:04
-2008,3312,Sociology and Political Science,6,GU,2025-12-01 19:09:04
-2008,1110,Plant Science,4,GU,2025-12-01 19:09:04
-2008,1312,Molecular Biology,4,GU,2025-12-01 19:09:04
-2008,2303,Ecology,4,GU,2025-12-01 19:09:04
-2008,3314,Anthropology,4,GU,2025-12-01 19:09:04
-2008,1902,Atmospheric Science,3,GU,2025-12-01 19:09:04
-2008,2736,Pharmacology,3,GU,2025-12-01 19:09:04
-2008,3304,Education,3,GU,2025-12-01 19:09:04
-2008,1105,"Ecology, Evolution, Behavior and Systematics",2,GU,2025-12-01 19:09:04
-2008,1204,Archeology,2,GU,2025-12-01 19:09:04
-2008,1605,Organic Chemistry,2,GU,2025-12-01 19:09:04
-2008,1802,Information Systems and Management,2,GU,2025-12-01 19:09:04
-2008,1910,Oceanography,2,GU,2025-12-01 19:09:04
-2008,1109,Insect Science,1,GU,2025-12-01 19:09:04
-2008,1306,Cancer Research,1,GU,2025-12-01 19:09:04
-2008,1310,Endocrinology,1,GU,2025-12-01 19:09:04
-2008,1604,Inorganic Chemistry,1,GU,2025-12-01 19:09:04
-2008,1710,Information Systems,1,GU,2025-12-01 19:09:04
-2008,1803,Management Science and Operations Research,1,GU,2025-12-01 19:09:04
-2008,1904,Earth-Surface Processes,1,GU,2025-12-01 19:09:04
-2008,1906,Geochemistry and Petrology,1,GU,2025-12-01 19:09:04
-2008,1911,Paleontology,1,GU,2025-12-01 19:09:04
-2008,2212,Ocean Engineering,1,GU,2025-12-01 19:09:04
-2008,2306,Global and Planetary Change,1,GU,2025-12-01 19:09:04
-2008,2307,"Health, Toxicology and Mutagenesis",1,GU,2025-12-01 19:09:04
-2008,2309,Nature and Landscape Conservation,1,GU,2025-12-01 19:09:04
-2008,2311,Industrial and Manufacturing Engineering,1,GU,2025-12-01 19:09:04
-2008,2502,Biomaterials,1,GU,2025-12-01 19:09:04
-2008,3204,Developmental and Educational Psychology,1,GU,2025-12-01 19:09:04
-2008,3207,Social Psychology,1,GU,2025-12-01 19:09:04
-2008,3308,Law,1,GU,2025-12-01 19:09:04
-2008,3311,Safety Research,1,GU,2025-12-01 19:09:04
-2008,3317,Demography,1,GU,2025-12-01 19:09:04
-2008,3600,General Health Professions,1,GU,2025-12-01 19:09:04
-2009,2303,Ecology,13,GU,2025-12-01 19:09:04
-2009,1105,"Ecology, Evolution, Behavior and Systematics",10,GU,2025-12-01 19:09:04
-2009,1110,Plant Science,10,GU,2025-12-01 19:09:04
-2009,1305,Biotechnology,8,GU,2025-12-01 19:09:04
-2009,3304,Education,7,GU,2025-12-01 19:09:04
-2009,3312,Sociology and Political Science,7,GU,2025-12-01 19:09:04
-2009,1109,Insect Science,6,GU,2025-12-01 19:09:04
-2009,2736,Pharmacology,6,GU,2025-12-01 19:09:04
-2009,1605,Organic Chemistry,4,GU,2025-12-01 19:09:04
-2009,1910,Oceanography,4,GU,2025-12-01 19:09:04
-2009,1911,Paleontology,4,GU,2025-12-01 19:09:04
-2009,2306,Global and Planetary Change,4,GU,2025-12-01 19:09:04
-2009,3305,"Geography, Planning and Development",4,GU,2025-12-01 19:09:04
-2009,1204,Archeology,2,GU,2025-12-01 19:09:04
-2009,1710,Information Systems,2,GU,2025-12-01 19:09:04
-2009,1902,Atmospheric Science,2,GU,2025-12-01 19:09:04
-2009,2403,Immunology,2,GU,2025-12-01 19:09:04
-2009,2502,Biomaterials,2,GU,2025-12-01 19:09:04
-2009,1100,General Agricultural and Biological Sciences,1,GU,2025-12-01 19:09:04
-2009,1104,Aquatic Science,1,GU,2025-12-01 19:09:04
-2009,1111,Soil Science,1,GU,2025-12-01 19:09:04
-2009,1203,Language and Linguistics,1,GU,2025-12-01 19:09:04
-2009,1208,Literature and Literary Theory,1,GU,2025-12-01 19:09:04
-2009,1306,Cancer Research,1,GU,2025-12-01 19:09:04
-2009,1307,Cell Biology,1,GU,2025-12-01 19:09:04
-2009,1311,Genetics,1,GU,2025-12-01 19:09:04
-2009,1312,Molecular Biology,1,GU,2025-12-01 19:09:04
-2009,1406,Marketing,1,GU,2025-12-01 19:09:04
-2009,1706,Computer Science Applications,1,GU,2025-12-01 19:09:04
-2009,2002,Economics and Econometrics,1,GU,2025-12-01 19:09:04
-2009,2205,Civil and Structural Engineering,1,GU,2025-12-01 19:09:04
-2009,2212,Ocean Engineering,1,GU,2025-12-01 19:09:04
-2009,2302,Ecological Modeling,1,GU,2025-12-01 19:09:04
-2009,2308,"Management, Monitoring, Policy and Law",1,GU,2025-12-01 19:09:04
-2009,2404,Microbiology,1,GU,2025-12-01 19:09:04
-2009,2916,Nutrition and Dietetics,1,GU,2025-12-01 19:09:04
-2009,3005,Toxicology,1,GU,2025-12-01 19:09:04
-2009,3203,Clinical Psychology,1,GU,2025-12-01 19:09:04
-2009,3204,Developmental and Educational Psychology,1,GU,2025-12-01 19:09:04
-2009,3307,Human Factors and Ergonomics,1,GU,2025-12-01 19:09:04
-2009,3600,General Health Professions,1,GU,2025-12-01 19:09:04
-2009,3612,"Physical Therapy, Sports Therapy and Rehabilitation",1,GU,2025-12-01 19:09:04
-2009,3616,Speech and Hearing,1,GU,2025-12-01 19:09:04
-2010,2303,Ecology,15,GU,2025-12-01 19:09:04
-2010,1110,Plant Science,8,GU,2025-12-01 19:09:04
-2010,1105,"Ecology, Evolution, Behavior and Systematics",7,GU,2025-12-01 19:09:04
-2010,1910,Oceanography,7,GU,2025-12-01 19:09:04
-2010,2306,Global and Planetary Change,6,GU,2025-12-01 19:09:04
-2010,3312,Sociology and Political Science,6,GU,2025-12-01 19:09:04
-2010,1305,Biotechnology,5,GU,2025-12-01 19:09:04
-2010,1312,Molecular Biology,4,GU,2025-12-01 19:09:04
-2010,3304,Education,4,GU,2025-12-01 19:09:04
-2010,1109,Insect Science,2,GU,2025-12-01 19:09:04
-2010,1307,Cell Biology,2,GU,2025-12-01 19:09:04
-2010,1911,Paleontology,2,GU,2025-12-01 19:09:04
-2010,2105,"Renewable Energy, Sustainability and the Environment",2,GU,2025-12-01 19:09:04
-2010,2304,Environmental Chemistry,2,GU,2025-12-01 19:09:04
-2010,2502,Biomaterials,2,GU,2025-12-01 19:09:04
-2010,2736,Pharmacology,2,GU,2025-12-01 19:09:04
-2010,3204,Developmental and Educational Psychology,2,GU,2025-12-01 19:09:04
-2010,3305,"Geography, Planning and Development",2,GU,2025-12-01 19:09:04
-2010,3313,Transportation,2,GU,2025-12-01 19:09:04
-2010,3317,Demography,2,GU,2025-12-01 19:09:04
-2010,1203,Language and Linguistics,1,GU,2025-12-01 19:09:04
-2010,1311,Genetics,1,GU,2025-12-01 19:09:04
-2010,1605,Organic Chemistry,1,GU,2025-12-01 19:09:04
-2010,1802,Information Systems and Management,1,GU,2025-12-01 19:09:04
-2010,1902,Atmospheric Science,1,GU,2025-12-01 19:09:04
-2010,1904,Earth-Surface Processes,1,GU,2025-12-01 19:09:04
-2010,1906,Geochemistry and Petrology,1,GU,2025-12-01 19:09:04
-2010,1907,Geology,1,GU,2025-12-01 19:09:04
-2010,2002,Economics and Econometrics,1,GU,2025-12-01 19:09:04
-2010,2212,Ocean Engineering,1,GU,2025-12-01 19:09:04
-2010,2308,"Management, Monitoring, Policy and Law",1,GU,2025-12-01 19:09:04
-2010,2309,Nature and Landscape Conservation,1,GU,2025-12-01 19:09:04
-2010,2403,Immunology,1,GU,2025-12-01 19:09:04
-2010,3207,Social Psychology,1,GU,2025-12-01 19:09:04
-2010,3320,Political Science and International Relations,1,GU,2025-12-01 19:09:04
-2010,3605,Health Information Management,1,GU,2025-12-01 19:09:04
-2011,3304,Education,21,GU,2025-12-01 19:09:04
-2011,2303,Ecology,19,GU,2025-12-01 19:09:04
-2011,1105,"Ecology, Evolution, Behavior and Systematics",14,GU,2025-12-01 19:09:04
-2011,1110,Plant Science,12,GU,2025-12-01 19:09:04
-2011,2306,Global and Planetary Change,10,GU,2025-12-01 19:09:04
-2011,1312,Molecular Biology,8,GU,2025-12-01 19:09:04
-2011,3312,Sociology and Political Science,7,GU,2025-12-01 19:09:04
-2011,1109,Insect Science,6,GU,2025-12-01 19:09:04
-2011,1910,Oceanography,6,GU,2025-12-01 19:09:04
-2011,1305,Biotechnology,5,GU,2025-12-01 19:09:04
-2011,1902,Atmospheric Science,5,GU,2025-12-01 19:09:04
-2011,3305,"Geography, Planning and Development",5,GU,2025-12-01 19:09:04
-2011,2309,Nature and Landscape Conservation,3,GU,2025-12-01 19:09:04
-2011,1311,Genetics,2,GU,2025-12-01 19:09:04
-2011,1604,Inorganic Chemistry,2,GU,2025-12-01 19:09:04
-2011,1605,Organic Chemistry,2,GU,2025-12-01 19:09:04
-2011,1710,Information Systems,2,GU,2025-12-01 19:09:04
-2011,1911,Paleontology,2,GU,2025-12-01 19:09:04
-2011,2204,Biomedical Engineering,2,GU,2025-12-01 19:09:04
-2011,2308,"Management, Monitoring, Policy and Law",2,GU,2025-12-01 19:09:04
-2011,2736,Pharmacology,2,GU,2025-12-01 19:09:04
-2011,1103,Animal Science and Zoology,1,GU,2025-12-01 19:09:04
-2011,1104,Aquatic Science,1,GU,2025-12-01 19:09:04
-2011,1203,Language and Linguistics,1,GU,2025-12-01 19:09:04
-2011,1204,Archeology,1,GU,2025-12-01 19:09:04
-2011,1307,Cell Biology,1,GU,2025-12-01 19:09:04
-2011,1309,Developmental Biology,1,GU,2025-12-01 19:09:04
-2011,1408,Strategy and Management,1,GU,2025-12-01 19:09:04
-2011,1502,Bioengineering,1,GU,2025-12-01 19:09:04
-2011,1702,Artificial Intelligence,1,GU,2025-12-01 19:09:04
-2011,1706,Computer Science Applications,1,GU,2025-12-01 19:09:04
-2011,1802,Information Systems and Management,1,GU,2025-12-01 19:09:04
-2011,1904,Earth-Surface Processes,1,GU,2025-12-01 19:09:04
-2011,1906,Geochemistry and Petrology,1,GU,2025-12-01 19:09:04
-2011,2210,Mechanical Engineering,1,GU,2025-12-01 19:09:04
-2011,2212,Ocean Engineering,1,GU,2025-12-01 19:09:04
-2011,2302,Ecological Modeling,1,GU,2025-12-01 19:09:04
-2011,2502,Biomaterials,1,GU,2025-12-01 19:09:04
-2011,2504,"Electronic, Optical and Magnetic Materials",1,GU,2025-12-01 19:09:04
-2011,2505,Materials Chemistry,1,GU,2025-12-01 19:09:04
-2011,3207,Social Psychology,1,GU,2025-12-01 19:09:04
-2011,3314,Anthropology,1,GU,2025-12-01 19:09:04
-2011,3317,Demography,1,GU,2025-12-01 19:09:04
-2011,3318,Gender Studies,1,GU,2025-12-01 19:09:04
-2011,3320,Political Science and International Relations,1,GU,2025-12-01 19:09:04
-2011,3614,Radiological and Ultrasound Technology,1,GU,2025-12-01 19:09:04
-2012,2303,Ecology,16,GU,2025-12-01 19:09:04
-2012,1110,Plant Science,12,GU,2025-12-01 19:09:04
-2012,1105,"Ecology, Evolution, Behavior and Systematics",10,GU,2025-12-01 19:09:04
-2012,2306,Global and Planetary Change,8,GU,2025-12-01 19:09:04
-2012,1109,Insect Science,7,GU,2025-12-01 19:09:04
-2012,1910,Oceanography,7,GU,2025-12-01 19:09:04
-2012,3312,Sociology and Political Science,7,GU,2025-12-01 19:09:04
-2012,1911,Paleontology,6,GU,2025-12-01 19:09:04
-2012,1312,Molecular Biology,5,GU,2025-12-01 19:09:04
-2012,1902,Atmospheric Science,5,GU,2025-12-01 19:09:04
-2012,3305,"Geography, Planning and Development",5,GU,2025-12-01 19:09:04
-2012,1305,Biotechnology,4,GU,2025-12-01 19:09:04
-2012,1104,Aquatic Science,3,GU,2025-12-01 19:09:04
-2012,1311,Genetics,3,GU,2025-12-01 19:09:04
-2012,1106,Food Science,2,GU,2025-12-01 19:09:04
-2012,2212,Ocean Engineering,2,GU,2025-12-01 19:09:04
-2012,2307,"Health, Toxicology and Mutagenesis",2,GU,2025-12-01 19:09:04
-2012,2736,Pharmacology,2,GU,2025-12-01 19:09:04
-2012,3315,Communication,2,GU,2025-12-01 19:09:04
-2012,3600,General Health Professions,2,GU,2025-12-01 19:09:04
-2012,1100,General Agricultural and Biological Sciences,1,GU,2025-12-01 19:09:04
-2012,1200,General Arts and Humanities,1,GU,2025-12-01 19:09:04
-2012,1204,Archeology,1,GU,2025-12-01 19:09:04
-2012,1306,Cancer Research,1,GU,2025-12-01 19:09:04
-2012,1404,Management Information Systems,1,GU,2025-12-01 19:09:04
-2012,1710,Information Systems,1,GU,2025-12-01 19:09:04
-2012,1802,Information Systems and Management,1,GU,2025-12-01 19:09:04
-2012,1906,Geochemistry and Petrology,1,GU,2025-12-01 19:09:04
-2012,2302,Ecological Modeling,1,GU,2025-12-01 19:09:04
-2012,2304,Environmental Chemistry,1,GU,2025-12-01 19:09:04
-2012,2309,Nature and Landscape Conservation,1,GU,2025-12-01 19:09:04
-2012,2403,Immunology,1,GU,2025-12-01 19:09:04
-2012,2502,Biomaterials,1,GU,2025-12-01 19:09:04
-2012,3103,Astronomy and Astrophysics,1,GU,2025-12-01 19:09:04
-2012,3204,Developmental and Educational Psychology,1,GU,2025-12-01 19:09:04
-2012,3205,Experimental and Cognitive Psychology,1,GU,2025-12-01 19:09:04
-2012,3207,Social Psychology,1,GU,2025-12-01 19:09:04
-2012,3304,Education,1,GU,2025-12-01 19:09:04
-2012,3311,Safety Research,1,GU,2025-12-01 19:09:04
-2012,3314,Anthropology,1,GU,2025-12-01 19:09:04
-2012,3320,Political Science and International Relations,1,GU,2025-12-01 19:09:04
-2012,3321,Public Administration,1,GU,2025-12-01 19:09:04
-2013,3305,"Geography, Planning and Development",23,GU,2025-12-01 19:09:04
-2013,2303,Ecology,21,GU,2025-12-01 19:09:04
-2013,1911,Paleontology,13,GU,2025-12-01 19:09:04
-2013,1105,"Ecology, Evolution, Behavior and Systematics",11,GU,2025-12-01 19:09:04
-2013,3312,Sociology and Political Science,11,GU,2025-12-01 19:09:04
-2013,1110,Plant Science,10,GU,2025-12-01 19:09:04
-2013,1902,Atmospheric Science,9,GU,2025-12-01 19:09:04
-2013,2306,Global and Planetary Change,8,GU,2025-12-01 19:09:04
-2013,1204,Archeology,7,GU,2025-12-01 19:09:04
-2013,1910,Oceanography,7,GU,2025-12-01 19:09:04
-2013,3304,Education,7,GU,2025-12-01 19:09:04
-2013,1802,Information Systems and Management,6,GU,2025-12-01 19:09:04
-2013,2309,Nature and Landscape Conservation,5,GU,2025-12-01 19:09:04
-2013,3317,Demography,4,GU,2025-12-01 19:09:04
-2013,1104,Aquatic Science,3,GU,2025-12-01 19:09:04
-2013,1312,Molecular Biology,3,GU,2025-12-01 19:09:04
-2013,2502,Biomaterials,3,GU,2025-12-01 19:09:04
-2013,1307,Cell Biology,2,GU,2025-12-01 19:09:04
-2013,1311,Genetics,2,GU,2025-12-01 19:09:04
-2013,1407,Organizational Behavior and Human Resource Management,2,GU,2025-12-01 19:09:04
-2013,1904,Earth-Surface Processes,2,GU,2025-12-01 19:09:04
-2013,3314,Anthropology,2,GU,2025-12-01 19:09:04
-2013,1305,Biotechnology,1,GU,2025-12-01 19:09:04
-2013,1306,Cancer Research,1,GU,2025-12-01 19:09:04
-2013,1309,Developmental Biology,1,GU,2025-12-01 19:09:04
-2013,1405,Management of Technology and Innovation,1,GU,2025-12-01 19:09:04
-2013,1408,Strategy and Management,1,GU,2025-12-01 19:09:04
-2013,1602,Analytical Chemistry,1,GU,2025-12-01 19:09:04
-2013,1702,Artificial Intelligence,1,GU,2025-12-01 19:09:04
-2013,1906,Geochemistry and Petrology,1,GU,2025-12-01 19:09:04
-2013,2002,Economics and Econometrics,1,GU,2025-12-01 19:09:04
-2013,2204,Biomedical Engineering,1,GU,2025-12-01 19:09:04
-2013,2302,Ecological Modeling,1,GU,2025-12-01 19:09:04
-2013,2304,Environmental Chemistry,1,GU,2025-12-01 19:09:04
-2013,2305,Environmental Engineering,1,GU,2025-12-01 19:09:04
-2013,2308,"Management, Monitoring, Policy and Law",1,GU,2025-12-01 19:09:04
-2013,2312,Water Science and Technology,1,GU,2025-12-01 19:09:04
-2013,2504,"Electronic, Optical and Magnetic Materials",1,GU,2025-12-01 19:09:04
-2013,2707,Complementary and alternative medicine,1,GU,2025-12-01 19:09:04
-2013,2736,Pharmacology,1,GU,2025-12-01 19:09:04
-2013,2739,"Public Health, Environmental and Occupational Health",1,GU,2025-12-01 19:09:04
-2013,2741,"Radiology, Nuclear Medicine and Imaging",1,GU,2025-12-01 19:09:04
-2013,2916,Nutrition and Dietetics,1,GU,2025-12-01 19:09:04
-2013,3204,Developmental and Educational Psychology,1,GU,2025-12-01 19:09:04
-2013,3207,Social Psychology,1,GU,2025-12-01 19:09:04
-2013,3306,Health,1,GU,2025-12-01 19:09:04
-2013,3315,Communication,1,GU,2025-12-01 19:09:04
-2013,3316,Cultural Studies,1,GU,2025-12-01 19:09:04
-2013,3318,Gender Studies,1,GU,2025-12-01 19:09:04
-2013,3320,Political Science and International Relations,1,GU,2025-12-01 19:09:04
-2013,3321,Public Administration,1,GU,2025-12-01 19:09:04
-2013,3603,Complementary and Manual Therapy,1,GU,2025-12-01 19:09:04
-2013,3614,Radiological and Ultrasound Technology,1,GU,2025-12-01 19:09:04
-2014,1910,Oceanography,15,GU,2025-12-01 19:09:04
-2014,1110,Plant Science,14,GU,2025-12-01 19:09:04
-2014,1105,"Ecology, Evolution, Behavior and Systematics",13,GU,2025-12-01 19:09:04
-2014,2303,Ecology,13,GU,2025-12-01 19:09:04
-2014,3305,"Geography, Planning and Development",11,GU,2025-12-01 19:09:04
-2014,1911,Paleontology,9,GU,2025-12-01 19:09:04
-2014,2306,Global and Planetary Change,9,GU,2025-12-01 19:09:04
-2014,1312,Molecular Biology,8,GU,2025-12-01 19:09:04
-2014,3304,Education,8,GU,2025-12-01 19:09:04
-2014,1109,Insect Science,7,GU,2025-12-01 19:09:04
-2014,1902,Atmospheric Science,7,GU,2025-12-01 19:09:04
-2014,3312,Sociology and Political Science,7,GU,2025-12-01 19:09:04
-2014,2502,Biomaterials,5,GU,2025-12-01 19:09:04
-2014,1204,Archeology,4,GU,2025-12-01 19:09:04
-2014,1311,Genetics,4,GU,2025-12-01 19:09:04
-2014,3317,Demography,3,GU,2025-12-01 19:09:04
-2014,3204,Developmental and Educational Psychology,2,GU,2025-12-01 19:09:04
-2014,3306,Health,2,GU,2025-12-01 19:09:04
-2014,3320,Political Science and International Relations,2,GU,2025-12-01 19:09:04
-2014,3600,General Health Professions,2,GU,2025-12-01 19:09:04
-2014,1100,General Agricultural and Biological Sciences,1,GU,2025-12-01 19:09:04
-2014,1102,Agronomy and Crop Science,1,GU,2025-12-01 19:09:04
-2014,1104,Aquatic Science,1,GU,2025-12-01 19:09:04
-2014,1111,Soil Science,1,GU,2025-12-01 19:09:04
-2014,1306,Cancer Research,1,GU,2025-12-01 19:09:04
-2014,1702,Artificial Intelligence,1,GU,2025-12-01 19:09:04
-2014,1706,Computer Science Applications,1,GU,2025-12-01 19:09:04
-2014,1710,Information Systems,1,GU,2025-12-01 19:09:04
-2014,2000,"General Economics, Econometrics and Finance",1,GU,2025-12-01 19:09:04
-2014,2002,Economics and Econometrics,1,GU,2025-12-01 19:09:04
-2014,2304,Environmental Chemistry,1,GU,2025-12-01 19:09:04
-2014,2309,Nature and Landscape Conservation,1,GU,2025-12-01 19:09:04
-2014,2310,Pollution,1,GU,2025-12-01 19:09:04
-2014,2712,"Endocrinology, Diabetes and Metabolism",1,GU,2025-12-01 19:09:04
-2014,2728,Neurology,1,GU,2025-12-01 19:09:04
-2014,2739,"Public Health, Environmental and Occupational Health",1,GU,2025-12-01 19:09:04
-2014,2808,Neurology,1,GU,2025-12-01 19:09:04
-2014,3203,Clinical Psychology,1,GU,2025-12-01 19:09:04
-2014,3314,Anthropology,1,GU,2025-12-01 19:09:04
-2014,3316,Cultural Studies,1,GU,2025-12-01 19:09:04
-2014,3506,Periodontics,1,GU,2025-12-01 19:09:04
-2014,3604,Emergency Medical Services,1,GU,2025-12-01 19:09:04
-2015,1105,"Ecology, Evolution, Behavior and Systematics",12,GU,2025-12-01 19:09:04
-2015,2303,Ecology,10,GU,2025-12-01 19:09:04
-2015,3312,Sociology and Political Science,10,GU,2025-12-01 19:09:04
-2015,1312,Molecular Biology,9,GU,2025-12-01 19:09:04
-2015,1110,Plant Science,8,GU,2025-12-01 19:09:04
-2015,3305,"Geography, Planning and Development",6,GU,2025-12-01 19:09:04
-2015,1911,Paleontology,4,GU,2025-12-01 19:09:04
-2015,3304,Education,4,GU,2025-12-01 19:09:04
-2015,1902,Atmospheric Science,3,GU,2025-12-01 19:09:04
-2015,1910,Oceanography,3,GU,2025-12-01 19:09:04
-2015,2502,Biomaterials,3,GU,2025-12-01 19:09:04
-2015,1305,Biotechnology,2,GU,2025-12-01 19:09:04
-2015,1802,Information Systems and Management,2,GU,2025-12-01 19:09:04
-2015,2306,Global and Planetary Change,2,GU,2025-12-01 19:09:04
-2015,2705,Cardiology and Cardiovascular Medicine,2,GU,2025-12-01 19:09:04
-2015,3207,Social Psychology,2,GU,2025-12-01 19:09:04
-2015,3317,Demography,2,GU,2025-12-01 19:09:04
-2015,3506,Periodontics,2,GU,2025-12-01 19:09:04
-2015,1108,Horticulture,1,GU,2025-12-01 19:09:04
-2015,1200,General Arts and Humanities,1,GU,2025-12-01 19:09:04
-2015,1209,Museology,1,GU,2025-12-01 19:09:04
-2015,1212,Religious studies,1,GU,2025-12-01 19:09:04
-2015,1306,Cancer Research,1,GU,2025-12-01 19:09:04
-2015,1307,Cell Biology,1,GU,2025-12-01 19:09:04
-2015,1406,Marketing,1,GU,2025-12-01 19:09:04
-2015,1702,Artificial Intelligence,1,GU,2025-12-01 19:09:04
-2015,1710,Information Systems,1,GU,2025-12-01 19:09:04
-2015,2302,Ecological Modeling,1,GU,2025-12-01 19:09:04
-2015,2309,Nature and Landscape Conservation,1,GU,2025-12-01 19:09:04
-2015,2403,Immunology,1,GU,2025-12-01 19:09:04
-2015,2708,Dermatology,1,GU,2025-12-01 19:09:04
-2015,2730,Oncology,1,GU,2025-12-01 19:09:04
-2015,2733,Otorhinolaryngology,1,GU,2025-12-01 19:09:04
-2015,2735,"Pediatrics, Perinatology and Child Health",1,GU,2025-12-01 19:09:04
-2015,2739,"Public Health, Environmental and Occupational Health",1,GU,2025-12-01 19:09:04
-2015,2740,Pulmonary and Respiratory Medicine,1,GU,2025-12-01 19:09:04
-2015,3203,Clinical Psychology,1,GU,2025-12-01 19:09:04
-2015,3204,Developmental and Educational Psychology,1,GU,2025-12-01 19:09:04
-2015,3316,Cultural Studies,1,GU,2025-12-01 19:09:04
-2016,2303,Ecology,28,GU,2025-12-01 19:09:04
-2016,3305,"Geography, Planning and Development",18,GU,2025-12-01 19:09:04
-2016,3312,Sociology and Political Science,17,GU,2025-12-01 19:09:04
-2016,1911,Paleontology,16,GU,2025-12-01 19:09:04
-2016,1910,Oceanography,9,GU,2025-12-01 19:09:04
-2016,2306,Global and Planetary Change,9,GU,2025-12-01 19:09:04
-2016,1105,"Ecology, Evolution, Behavior and Systematics",8,GU,2025-12-01 19:09:04
-2016,3304,Education,8,GU,2025-12-01 19:09:04
-2016,1110,Plant Science,7,GU,2025-12-01 19:09:04
-2016,1710,Information Systems,5,GU,2025-12-01 19:09:04
-2016,1902,Atmospheric Science,5,GU,2025-12-01 19:09:04
-2016,3315,Communication,5,GU,2025-12-01 19:09:04
-2016,1312,Molecular Biology,4,GU,2025-12-01 19:09:04
-2016,3207,Social Psychology,4,GU,2025-12-01 19:09:04
-2016,1109,Insect Science,3,GU,2025-12-01 19:09:04
-2016,1204,Archeology,3,GU,2025-12-01 19:09:04
-2016,1802,Information Systems and Management,3,GU,2025-12-01 19:09:04
-2016,3316,Cultural Studies,3,GU,2025-12-01 19:09:04
-2016,3317,Demography,3,GU,2025-12-01 19:09:04
-2016,1104,Aquatic Science,2,GU,2025-12-01 19:09:04
-2016,1407,Organizational Behavior and Human Resource Management,2,GU,2025-12-01 19:09:04
-2016,1702,Artificial Intelligence,2,GU,2025-12-01 19:09:04
-2016,2309,Nature and Landscape Conservation,2,GU,2025-12-01 19:09:04
-2016,2502,Biomaterials,2,GU,2025-12-01 19:09:04
-2016,3204,Developmental and Educational Psychology,2,GU,2025-12-01 19:09:04
-2016,3205,Experimental and Cognitive Psychology,2,GU,2025-12-01 19:09:04
-2016,3314,Anthropology,2,GU,2025-12-01 19:09:04
-2016,1100,General Agricultural and Biological Sciences,1,GU,2025-12-01 19:09:04
-2016,1106,Food Science,1,GU,2025-12-01 19:09:04
-2016,1111,Soil Science,1,GU,2025-12-01 19:09:04
-2016,1211,Philosophy,1,GU,2025-12-01 19:09:04
-2016,1305,Biotechnology,1,GU,2025-12-01 19:09:04
-2016,1311,Genetics,1,GU,2025-12-01 19:09:04
-2016,1408,Strategy and Management,1,GU,2025-12-01 19:09:04
-2016,1707,Computer Vision and Pattern Recognition,1,GU,2025-12-01 19:09:04
-2016,1904,Earth-Surface Processes,1,GU,2025-12-01 19:09:04
-2016,2000,"General Economics, Econometrics and Finance",1,GU,2025-12-01 19:09:04
-2016,2204,Biomedical Engineering,1,GU,2025-12-01 19:09:04
-2016,2738,Psychiatry and Mental health,1,GU,2025-12-01 19:09:04
-2016,3107,"Atomic and Molecular Physics, and Optics",1,GU,2025-12-01 19:09:04
-2016,3203,Clinical Psychology,1,GU,2025-12-01 19:09:04
-2016,3311,Safety Research,1,GU,2025-12-01 19:09:04
-2016,3600,General Health Professions,1,GU,2025-12-01 19:09:04
-2017,2303,Ecology,24,GU,2025-12-01 19:09:04
-2017,3312,Sociology and Political Science,20,GU,2025-12-01 19:09:04
-2017,1105,"Ecology, Evolution, Behavior and Systematics",15,GU,2025-12-01 19:09:04
-2017,2306,Global and Planetary Change,12,GU,2025-12-01 19:09:04
-2017,1910,Oceanography,9,GU,2025-12-01 19:09:04
-2017,1911,Paleontology,8,GU,2025-12-01 19:09:04
-2017,1110,Plant Science,7,GU,2025-12-01 19:09:04
-2017,1312,Molecular Biology,7,GU,2025-12-01 19:09:04
-2017,3304,Education,7,GU,2025-12-01 19:09:04
-2017,3305,"Geography, Planning and Development",7,GU,2025-12-01 19:09:04
-2017,3317,Demography,6,GU,2025-12-01 19:09:04
-2017,3207,Social Psychology,4,GU,2025-12-01 19:09:04
-2017,1104,Aquatic Science,3,GU,2025-12-01 19:09:04
-2017,1204,Archeology,3,GU,2025-12-01 19:09:04
-2017,1710,Information Systems,3,GU,2025-12-01 19:09:04
-2017,1802,Information Systems and Management,3,GU,2025-12-01 19:09:04
-2017,2309,Nature and Landscape Conservation,3,GU,2025-12-01 19:09:04
-2017,1305,Biotechnology,2,GU,2025-12-01 19:09:04
-2017,1306,Cancer Research,2,GU,2025-12-01 19:09:04
-2017,1311,Genetics,2,GU,2025-12-01 19:09:04
-2017,1902,Atmospheric Science,2,GU,2025-12-01 19:09:04
-2017,1904,Earth-Surface Processes,2,GU,2025-12-01 19:09:04
-2017,2739,"Public Health, Environmental and Occupational Health",2,GU,2025-12-01 19:09:04
-2017,3315,Communication,2,GU,2025-12-01 19:09:04
-2017,1100,General Agricultural and Biological Sciences,1,GU,2025-12-01 19:09:04
-2017,1102,Agronomy and Crop Science,1,GU,2025-12-01 19:09:04
-2017,1109,Insect Science,1,GU,2025-12-01 19:09:04
-2017,1111,Soil Science,1,GU,2025-12-01 19:09:04
-2017,1212,Religious studies,1,GU,2025-12-01 19:09:04
-2017,1402,Accounting,1,GU,2025-12-01 19:09:04
-2017,1408,Strategy and Management,1,GU,2025-12-01 19:09:04
-2017,1606,Physical and Theoretical Chemistry,1,GU,2025-12-01 19:09:04
-2017,2204,Biomedical Engineering,1,GU,2025-12-01 19:09:04
-2017,2302,Ecological Modeling,1,GU,2025-12-01 19:09:04
-2017,2304,Environmental Chemistry,1,GU,2025-12-01 19:09:04
-2017,2305,Environmental Engineering,1,GU,2025-12-01 19:09:04
-2017,2403,Immunology,1,GU,2025-12-01 19:09:04
-2017,2404,Microbiology,1,GU,2025-12-01 19:09:04
-2017,2502,Biomaterials,1,GU,2025-12-01 19:09:04
-2017,2705,Cardiology and Cardiovascular Medicine,1,GU,2025-12-01 19:09:04
-2017,2713,Epidemiology,1,GU,2025-12-01 19:09:04
-2017,2725,Infectious Diseases,1,GU,2025-12-01 19:09:04
-2017,2736,Pharmacology,1,GU,2025-12-01 19:09:04
-2017,3204,Developmental and Educational Psychology,1,GU,2025-12-01 19:09:04
-2017,3313,Transportation,1,GU,2025-12-01 19:09:04
-2017,3314,Anthropology,1,GU,2025-12-01 19:09:04
-2017,3316,Cultural Studies,1,GU,2025-12-01 19:09:04
-2017,3320,Political Science and International Relations,1,GU,2025-12-01 19:09:04
-2017,3322,Urban Studies,1,GU,2025-12-01 19:09:04
-2018,2303,Ecology,26,GU,2025-12-01 19:09:04
-2018,1105,"Ecology, Evolution, Behavior and Systematics",14,GU,2025-12-01 19:09:04
-2018,2306,Global and Planetary Change,13,GU,2025-12-01 19:09:04
-2018,3312,Sociology and Political Science,11,GU,2025-12-01 19:09:04
-2018,1312,Molecular Biology,8,GU,2025-12-01 19:09:04
-2018,1910,Oceanography,8,GU,2025-12-01 19:09:04
-2018,2309,Nature and Landscape Conservation,8,GU,2025-12-01 19:09:04
-2018,1110,Plant Science,7,GU,2025-12-01 19:09:04
-2018,3304,Education,4,GU,2025-12-01 19:09:04
-2018,1109,Insect Science,3,GU,2025-12-01 19:09:04
-2018,1802,Information Systems and Management,3,GU,2025-12-01 19:09:04
-2018,2502,Biomaterials,3,GU,2025-12-01 19:09:04
-2018,3305,"Geography, Planning and Development",3,GU,2025-12-01 19:09:04
-2018,1305,Biotechnology,2,GU,2025-12-01 19:09:04
-2018,1307,Cell Biology,2,GU,2025-12-01 19:09:04
-2018,1311,Genetics,2,GU,2025-12-01 19:09:04
-2018,1902,Atmospheric Science,2,GU,2025-12-01 19:09:04
-2018,1904,Earth-Surface Processes,2,GU,2025-12-01 19:09:04
-2018,1911,Paleontology,2,GU,2025-12-01 19:09:04
-2018,2736,Pharmacology,2,GU,2025-12-01 19:09:04
-2018,2737,Physiology,2,GU,2025-12-01 19:09:04
-2018,2739,"Public Health, Environmental and Occupational Health",2,GU,2025-12-01 19:09:04
-2018,3317,Demography,2,GU,2025-12-01 19:09:04
-2018,3320,Political Science and International Relations,2,GU,2025-12-01 19:09:04
-2018,3604,Emergency Medical Services,2,GU,2025-12-01 19:09:04
-2018,1100,General Agricultural and Biological Sciences,1,GU,2025-12-01 19:09:04
-2018,1108,Horticulture,1,GU,2025-12-01 19:09:04
-2018,1111,Soil Science,1,GU,2025-12-01 19:09:04
-2018,1202,History,1,GU,2025-12-01 19:09:04
-2018,1211,Philosophy,1,GU,2025-12-01 19:09:04
-2018,1306,Cancer Research,1,GU,2025-12-01 19:09:04
-2018,1308,Clinical Biochemistry,1,GU,2025-12-01 19:09:04
-2018,1402,Accounting,1,GU,2025-12-01 19:09:04
-2018,1406,Marketing,1,GU,2025-12-01 19:09:04
-2018,1604,Inorganic Chemistry,1,GU,2025-12-01 19:09:04
-2018,1702,Artificial Intelligence,1,GU,2025-12-01 19:09:04
-2018,1803,Management Science and Operations Research,1,GU,2025-12-01 19:09:04
-2018,2105,"Renewable Energy, Sustainability and the Environment",1,GU,2025-12-01 19:09:04
-2018,2210,Mechanical Engineering,1,GU,2025-12-01 19:09:04
-2018,2302,Ecological Modeling,1,GU,2025-12-01 19:09:04
-2018,2308,"Management, Monitoring, Policy and Law",1,GU,2025-12-01 19:09:04
-2018,2312,Water Science and Technology,1,GU,2025-12-01 19:09:04
-2018,2404,Microbiology,1,GU,2025-12-01 19:09:04
-2018,3203,Clinical Psychology,1,GU,2025-12-01 19:09:04
-2018,3207,Social Psychology,1,GU,2025-12-01 19:09:04
-2018,3306,Health,1,GU,2025-12-01 19:09:04
-2018,3308,Law,1,GU,2025-12-01 19:09:04
-2018,3315,Communication,1,GU,2025-12-01 19:09:04
-2018,3316,Cultural Studies,1,GU,2025-12-01 19:09:04
-2018,3321,Public Administration,1,GU,2025-12-01 19:09:04
-2018,3506,Periodontics,1,GU,2025-12-01 19:09:04
-2018,3600,General Health Professions,1,GU,2025-12-01 19:09:04
-2019,2303,Ecology,30,GU,2025-12-01 19:09:04
-2019,1910,Oceanography,29,GU,2025-12-01 19:09:04
-2019,1105,"Ecology, Evolution, Behavior and Systematics",16,GU,2025-12-01 19:09:04
-2019,1312,Molecular Biology,16,GU,2025-12-01 19:09:04
-2019,2306,Global and Planetary Change,16,GU,2025-12-01 19:09:04
-2019,3312,Sociology and Political Science,15,GU,2025-12-01 19:09:04
-2019,3304,Education,11,GU,2025-12-01 19:09:04
-2019,2309,Nature and Landscape Conservation,8,GU,2025-12-01 19:09:04
-2019,1110,Plant Science,6,GU,2025-12-01 19:09:04
-2019,1911,Paleontology,6,GU,2025-12-01 19:09:04
-2019,1305,Biotechnology,5,GU,2025-12-01 19:09:04
-2019,3305,"Geography, Planning and Development",4,GU,2025-12-01 19:09:04
-2019,3317,Demography,4,GU,2025-12-01 19:09:04
-2019,3600,General Health Professions,4,GU,2025-12-01 19:09:04
-2019,1311,Genetics,3,GU,2025-12-01 19:09:04
-2019,1710,Information Systems,3,GU,2025-12-01 19:09:04
-2019,3204,Developmental and Educational Psychology,3,GU,2025-12-01 19:09:04
-2019,1100,General Agricultural and Biological Sciences,2,GU,2025-12-01 19:09:04
-2019,1109,Insect Science,2,GU,2025-12-01 19:09:04
-2019,1111,Soil Science,2,GU,2025-12-01 19:09:04
-2019,1307,Cell Biology,2,GU,2025-12-01 19:09:04
-2019,1902,Atmospheric Science,2,GU,2025-12-01 19:09:04
-2019,2212,Ocean Engineering,2,GU,2025-12-01 19:09:04
-2019,2302,Ecological Modeling,2,GU,2025-12-01 19:09:04
-2019,2308,"Management, Monitoring, Policy and Law",2,GU,2025-12-01 19:09:04
-2019,2502,Biomaterials,2,GU,2025-12-01 19:09:04
-2019,2739,"Public Health, Environmental and Occupational Health",2,GU,2025-12-01 19:09:04
-2019,3320,Political Science and International Relations,2,GU,2025-12-01 19:09:04
-2019,1102,Agronomy and Crop Science,1,GU,2025-12-01 19:09:04
-2019,1203,Language and Linguistics,1,GU,2025-12-01 19:09:04
-2019,1211,Philosophy,1,GU,2025-12-01 19:09:04
-2019,1212,Religious studies,1,GU,2025-12-01 19:09:04
-2019,1213,Visual Arts and Performing Arts,1,GU,2025-12-01 19:09:04
-2019,1310,Endocrinology,1,GU,2025-12-01 19:09:04
-2019,1405,Management of Technology and Innovation,1,GU,2025-12-01 19:09:04
-2019,1606,Physical and Theoretical Chemistry,1,GU,2025-12-01 19:09:04
-2019,1706,Computer Science Applications,1,GU,2025-12-01 19:09:04
-2019,1802,Information Systems and Management,1,GU,2025-12-01 19:09:04
-2019,1803,Management Science and Operations Research,1,GU,2025-12-01 19:09:04
-2019,1904,Earth-Surface Processes,1,GU,2025-12-01 19:09:04
-2019,2002,Economics and Econometrics,1,GU,2025-12-01 19:09:04
-2019,2204,Biomedical Engineering,1,GU,2025-12-01 19:09:04
-2019,2304,Environmental Chemistry,1,GU,2025-12-01 19:09:04
-2019,2736,Pharmacology,1,GU,2025-12-01 19:09:04
-2019,2748,Urology,1,GU,2025-12-01 19:09:04
-2019,2916,Nutrition and Dietetics,1,GU,2025-12-01 19:09:04
-2019,3203,Clinical Psychology,1,GU,2025-12-01 19:09:04
-2019,3207,Social Psychology,1,GU,2025-12-01 19:09:04
-2019,3306,Health,1,GU,2025-12-01 19:09:04
-2019,3307,Human Factors and Ergonomics,1,GU,2025-12-01 19:09:04
-2019,3315,Communication,1,GU,2025-12-01 19:09:04
-2019,3316,Cultural Studies,1,GU,2025-12-01 19:09:04
-2019,3321,Public Administration,1,GU,2025-12-01 19:09:04
-2019,3611,Pharmacy,1,GU,2025-12-01 19:09:04
-2020,3312,Sociology and Political Science,28,GU,2025-12-01 19:09:04
-2020,2303,Ecology,27,GU,2025-12-01 19:09:04
-2020,1105,"Ecology, Evolution, Behavior and Systematics",23,GU,2025-12-01 19:09:04
-2020,2306,Global and Planetary Change,22,GU,2025-12-01 19:09:04
-2020,1110,Plant Science,16,GU,2025-12-01 19:09:04
-2020,1910,Oceanography,8,GU,2025-12-01 19:09:04
-2020,1911,Paleontology,8,GU,2025-12-01 19:09:04
-2020,3203,Clinical Psychology,8,GU,2025-12-01 19:09:04
-2020,1312,Molecular Biology,7,GU,2025-12-01 19:09:04
-2020,3304,Education,7,GU,2025-12-01 19:09:04
-2020,1305,Biotechnology,6,GU,2025-12-01 19:09:04
-2020,1311,Genetics,6,GU,2025-12-01 19:09:04
-2020,2309,Nature and Landscape Conservation,6,GU,2025-12-01 19:09:04
-2020,2736,Pharmacology,6,GU,2025-12-01 19:09:04
-2020,3305,"Geography, Planning and Development",6,GU,2025-12-01 19:09:04
-2020,1710,Information Systems,5,GU,2025-12-01 19:09:04
-2020,1902,Atmospheric Science,5,GU,2025-12-01 19:09:04
-2020,1802,Information Systems and Management,4,GU,2025-12-01 19:09:04
-2020,1109,Insect Science,3,GU,2025-12-01 19:09:04
-2020,2002,Economics and Econometrics,3,GU,2025-12-01 19:09:04
-2020,2302,Ecological Modeling,3,GU,2025-12-01 19:09:04
-2020,3207,Social Psychology,3,GU,2025-12-01 19:09:04
-2020,3320,Political Science and International Relations,3,GU,2025-12-01 19:09:04
-2020,3600,General Health Professions,3,GU,2025-12-01 19:09:04
-2020,1211,Philosophy,2,GU,2025-12-01 19:09:04
-2020,1307,Cell Biology,2,GU,2025-12-01 19:09:04
-2020,1702,Artificial Intelligence,2,GU,2025-12-01 19:09:04
-2020,2304,Environmental Chemistry,2,GU,2025-12-01 19:09:04
-2020,2735,"Pediatrics, Perinatology and Child Health",2,GU,2025-12-01 19:09:04
-2020,3315,Communication,2,GU,2025-12-01 19:09:04
-2020,3317,Demography,2,GU,2025-12-01 19:09:04
-2020,1108,Horticulture,1,GU,2025-12-01 19:09:04
-2020,1111,Soil Science,1,GU,2025-12-01 19:09:04
-2020,1204,Archeology,1,GU,2025-12-01 19:09:04
-2020,1208,Literature and Literary Theory,1,GU,2025-12-01 19:09:04
-2020,1212,Religious studies,1,GU,2025-12-01 19:09:04
-2020,1306,Cancer Research,1,GU,2025-12-01 19:09:04
-2020,1310,Endocrinology,1,GU,2025-12-01 19:09:04
-2020,1404,Management Information Systems,1,GU,2025-12-01 19:09:04
-2020,1406,Marketing,1,GU,2025-12-01 19:09:04
-2020,1407,Organizational Behavior and Human Resource Management,1,GU,2025-12-01 19:09:04
-2020,1408,Strategy and Management,1,GU,2025-12-01 19:09:04
-2020,1706,Computer Science Applications,1,GU,2025-12-01 19:09:04
-2020,1904,Earth-Surface Processes,1,GU,2025-12-01 19:09:04
-2020,2105,"Renewable Energy, Sustainability and the Environment",1,GU,2025-12-01 19:09:04
-2020,2202,Aerospace Engineering,1,GU,2025-12-01 19:09:04
-2020,2305,Environmental Engineering,1,GU,2025-12-01 19:09:04
-2020,2308,"Management, Monitoring, Policy and Law",1,GU,2025-12-01 19:09:04
-2020,2312,Water Science and Technology,1,GU,2025-12-01 19:09:04
-2020,2403,Immunology,1,GU,2025-12-01 19:09:04
-2020,2502,Biomaterials,1,GU,2025-12-01 19:09:04
-2020,2611,Modeling and Simulation,1,GU,2025-12-01 19:09:04
-2020,2705,Cardiology and Cardiovascular Medicine,1,GU,2025-12-01 19:09:04
-2020,2739,"Public Health, Environmental and Occupational Health",1,GU,2025-12-01 19:09:04
-2020,3202,Applied Psychology,1,GU,2025-12-01 19:09:04
-2020,3204,Developmental and Educational Psychology,1,GU,2025-12-01 19:09:04
-2020,3306,Health,1,GU,2025-12-01 19:09:04
-2020,3311,Safety Research,1,GU,2025-12-01 19:09:04
-2020,3314,Anthropology,1,GU,2025-12-01 19:09:04
-2020,3506,Periodontics,1,GU,2025-12-01 19:09:04
-2021,2303,Ecology,34,GU,2025-12-01 19:09:04
-2021,3312,Sociology and Political Science,24,GU,2025-12-01 19:09:04
-2021,2306,Global and Planetary Change,18,GU,2025-12-01 19:09:04
-2021,1105,"Ecology, Evolution, Behavior and Systematics",17,GU,2025-12-01 19:09:04
-2021,3304,Education,13,GU,2025-12-01 19:09:04
-2021,1910,Oceanography,12,GU,2025-12-01 19:09:04
-2021,1110,Plant Science,9,GU,2025-12-01 19:09:04
-2021,2309,Nature and Landscape Conservation,9,GU,2025-12-01 19:09:04
-2021,1312,Molecular Biology,8,GU,2025-12-01 19:09:04
-2021,1311,Genetics,7,GU,2025-12-01 19:09:04
-2021,1305,Biotechnology,6,GU,2025-12-01 19:09:04
-2021,3305,"Geography, Planning and Development",6,GU,2025-12-01 19:09:04
-2021,3315,Communication,6,GU,2025-12-01 19:09:04
-2021,2302,Ecological Modeling,5,GU,2025-12-01 19:09:04
-2021,1306,Cancer Research,4,GU,2025-12-01 19:09:04
-2021,3203,Clinical Psychology,4,GU,2025-12-01 19:09:04
-2021,3317,Demography,4,GU,2025-12-01 19:09:04
-2021,3320,Political Science and International Relations,4,GU,2025-12-01 19:09:04
-2021,1702,Artificial Intelligence,3,GU,2025-12-01 19:09:04
-2021,1911,Paleontology,3,GU,2025-12-01 19:09:04
-2021,3207,Social Psychology,3,GU,2025-12-01 19:09:04
-2021,3600,General Health Professions,3,GU,2025-12-01 19:09:04
-2021,1104,Aquatic Science,2,GU,2025-12-01 19:09:04
-2021,1108,Horticulture,2,GU,2025-12-01 19:09:04
-2021,1710,Information Systems,2,GU,2025-12-01 19:09:04
-2021,2002,Economics and Econometrics,2,GU,2025-12-01 19:09:04
-2021,2502,Biomaterials,2,GU,2025-12-01 19:09:04
-2021,2725,Infectious Diseases,2,GU,2025-12-01 19:09:04
-2021,2736,Pharmacology,2,GU,2025-12-01 19:09:04
-2021,2739,"Public Health, Environmental and Occupational Health",2,GU,2025-12-01 19:09:04
-2021,3313,Transportation,2,GU,2025-12-01 19:09:04
-2021,1109,Insect Science,1,GU,2025-12-01 19:09:04
-2021,1111,Soil Science,1,GU,2025-12-01 19:09:04
-2021,1203,Language and Linguistics,1,GU,2025-12-01 19:09:04
-2021,1204,Archeology,1,GU,2025-12-01 19:09:04
-2021,1208,Literature and Literary Theory,1,GU,2025-12-01 19:09:04
-2021,1213,Visual Arts and Performing Arts,1,GU,2025-12-01 19:09:04
-2021,1402,Accounting,1,GU,2025-12-01 19:09:04
-2021,1404,Management Information Systems,1,GU,2025-12-01 19:09:04
-2021,1406,Marketing,1,GU,2025-12-01 19:09:04
-2021,1407,Organizational Behavior and Human Resource Management,1,GU,2025-12-01 19:09:04
-2021,1408,Strategy and Management,1,GU,2025-12-01 19:09:04
-2021,1605,Organic Chemistry,1,GU,2025-12-01 19:09:04
-2021,1706,Computer Science Applications,1,GU,2025-12-01 19:09:04
-2021,1709,Human-Computer Interaction,1,GU,2025-12-01 19:09:04
-2021,1902,Atmospheric Science,1,GU,2025-12-01 19:09:04
-2021,2000,"General Economics, Econometrics and Finance",1,GU,2025-12-01 19:09:04
-2021,2105,"Renewable Energy, Sustainability and the Environment",1,GU,2025-12-01 19:09:04
-2021,2304,Environmental Chemistry,1,GU,2025-12-01 19:09:04
-2021,2308,"Management, Monitoring, Policy and Law",1,GU,2025-12-01 19:09:04
-2021,2311,Industrial and Manufacturing Engineering,1,GU,2025-12-01 19:09:04
-2021,2312,Water Science and Technology,1,GU,2025-12-01 19:09:04
-2021,2403,Immunology,1,GU,2025-12-01 19:09:04
-2021,2405,Parasitology,1,GU,2025-12-01 19:09:04
-2021,2406,Virology,1,GU,2025-12-01 19:09:04
-2021,2735,"Pediatrics, Perinatology and Child Health",1,GU,2025-12-01 19:09:04
-2021,2746,Surgery,1,GU,2025-12-01 19:09:04
-2021,3204,Developmental and Educational Psychology,1,GU,2025-12-01 19:09:04
-2021,3303,Development,1,GU,2025-12-01 19:09:04
-2021,3306,Health,1,GU,2025-12-01 19:09:04
-2021,3308,Law,1,GU,2025-12-01 19:09:04
-2021,3309,Library and Information Sciences,1,GU,2025-12-01 19:09:04
-2021,3311,Safety Research,1,GU,2025-12-01 19:09:04
-2021,3314,Anthropology,1,GU,2025-12-01 19:09:04
-2021,3316,Cultural Studies,1,GU,2025-12-01 19:09:04
-2021,3318,Gender Studies,1,GU,2025-12-01 19:09:04
-2021,3404,Small Animals,1,GU,2025-12-01 19:09:04
-2021,3504,Oral Surgery,1,GU,2025-12-01 19:09:04
-2021,3506,Periodontics,1,GU,2025-12-01 19:09:04
-2022,2303,Ecology,42,GU,2025-12-01 19:09:04
-2022,3312,Sociology and Political Science,23,GU,2025-12-01 19:09:04
-2022,2306,Global and Planetary Change,22,GU,2025-12-01 19:09:04
-2022,1910,Oceanography,19,GU,2025-12-01 19:09:04
-2022,1312,Molecular Biology,18,GU,2025-12-01 19:09:04
-2022,1105,"Ecology, Evolution, Behavior and Systematics",10,GU,2025-12-01 19:09:04
-2022,1911,Paleontology,10,GU,2025-12-01 19:09:04
-2022,1110,Plant Science,9,GU,2025-12-01 19:09:04
-2022,3305,"Geography, Planning and Development",9,GU,2025-12-01 19:09:04
-2022,2309,Nature and Landscape Conservation,6,GU,2025-12-01 19:09:04
-2022,2502,Biomaterials,6,GU,2025-12-01 19:09:04
-2022,3304,Education,6,GU,2025-12-01 19:09:04
-2022,3317,Demography,6,GU,2025-12-01 19:09:04
-2022,3203,Clinical Psychology,4,GU,2025-12-01 19:09:04
-2022,3314,Anthropology,4,GU,2025-12-01 19:09:04
-2022,3320,Political Science and International Relations,4,GU,2025-12-01 19:09:04
-2022,1109,Insect Science,3,GU,2025-12-01 19:09:04
-2022,1311,Genetics,3,GU,2025-12-01 19:09:04
-2022,2105,"Renewable Energy, Sustainability and the Environment",3,GU,2025-12-01 19:09:04
-2022,2304,Environmental Chemistry,3,GU,2025-12-01 19:09:04
-2022,2403,Immunology,3,GU,2025-12-01 19:09:04
-2022,3306,Health,3,GU,2025-12-01 19:09:04
-2022,3600,General Health Professions,3,GU,2025-12-01 19:09:04
-2022,1104,Aquatic Science,2,GU,2025-12-01 19:09:04
-2022,1305,Biotechnology,2,GU,2025-12-01 19:09:04
-2022,1310,Endocrinology,2,GU,2025-12-01 19:09:04
-2022,1407,Organizational Behavior and Human Resource Management,2,GU,2025-12-01 19:09:04
-2022,1802,Information Systems and Management,2,GU,2025-12-01 19:09:04
-2022,1902,Atmospheric Science,2,GU,2025-12-01 19:09:04
-2022,2212,Ocean Engineering,2,GU,2025-12-01 19:09:04
-2022,2302,Ecological Modeling,2,GU,2025-12-01 19:09:04
-2022,2739,"Public Health, Environmental and Occupational Health",2,GU,2025-12-01 19:09:04
-2022,3205,Experimental and Cognitive Psychology,2,GU,2025-12-01 19:09:04
-2022,3315,Communication,2,GU,2025-12-01 19:09:04
-2022,3316,Cultural Studies,2,GU,2025-12-01 19:09:04
-2022,1100,General Agricultural and Biological Sciences,1,GU,2025-12-01 19:09:04
-2022,1106,Food Science,1,GU,2025-12-01 19:09:04
-2022,1108,Horticulture,1,GU,2025-12-01 19:09:04
-2022,1206,Conservation,1,GU,2025-12-01 19:09:04
-2022,1208,Literature and Literary Theory,1,GU,2025-12-01 19:09:04
-2022,1307,Cell Biology,1,GU,2025-12-01 19:09:04
-2022,1314,Physiology,1,GU,2025-12-01 19:09:04
-2022,1605,Organic Chemistry,1,GU,2025-12-01 19:09:04
-2022,1702,Artificial Intelligence,1,GU,2025-12-01 19:09:04
-2022,1705,Computer Networks and Communications,1,GU,2025-12-01 19:09:04
-2022,2211,Mechanics of Materials,1,GU,2025-12-01 19:09:04
-2022,2215,Building and Construction,1,GU,2025-12-01 19:09:04
-2022,2305,Environmental Engineering,1,GU,2025-12-01 19:09:04
-2022,2307,"Health, Toxicology and Mutagenesis",1,GU,2025-12-01 19:09:04
-2022,2308,"Management, Monitoring, Policy and Law",1,GU,2025-12-01 19:09:04
-2022,2402,Applied Microbiology and Biotechnology,1,GU,2025-12-01 19:09:04
-2022,2507,Polymers and Plastics,1,GU,2025-12-01 19:09:04
-2022,2611,Modeling and Simulation,1,GU,2025-12-01 19:09:04
-2022,2705,Cardiology and Cardiovascular Medicine,1,GU,2025-12-01 19:09:04
-2022,2713,Epidemiology,1,GU,2025-12-01 19:09:04
-2022,2736,Pharmacology,1,GU,2025-12-01 19:09:04
-2022,2916,Nutrition and Dietetics,1,GU,2025-12-01 19:09:04
-2022,3103,Astronomy and Astrophysics,1,GU,2025-12-01 19:09:04
-2022,3303,Development,1,GU,2025-12-01 19:09:04
-2022,3307,Human Factors and Ergonomics,1,GU,2025-12-01 19:09:04
-2022,3308,Law,1,GU,2025-12-01 19:09:04
-2022,3313,Transportation,1,GU,2025-12-01 19:09:04
-2022,3614,Radiological and Ultrasound Technology,1,GU,2025-12-01 19:09:04
-2023,2303,Ecology,45,GU,2025-12-01 19:09:04
-2023,2306,Global and Planetary Change,28,GU,2025-12-01 19:09:04
-2023,1910,Oceanography,24,GU,2025-12-01 19:09:04
-2023,3312,Sociology and Political Science,16,GU,2025-12-01 19:09:04
-2023,1312,Molecular Biology,14,GU,2025-12-01 19:09:04
-2023,1105,"Ecology, Evolution, Behavior and Systematics",13,GU,2025-12-01 19:09:04
-2023,1110,Plant Science,11,GU,2025-12-01 19:09:04
-2023,3304,Education,11,GU,2025-12-01 19:09:04
-2023,2309,Nature and Landscape Conservation,8,GU,2025-12-01 19:09:04
-2023,1311,Genetics,7,GU,2025-12-01 19:09:04
-2023,1710,Information Systems,5,GU,2025-12-01 19:09:04
-2023,3305,"Geography, Planning and Development",5,GU,2025-12-01 19:09:04
-2023,1104,Aquatic Science,4,GU,2025-12-01 19:09:04
-2023,1106,Food Science,4,GU,2025-12-01 19:09:04
-2023,1109,Insect Science,4,GU,2025-12-01 19:09:04
-2023,1305,Biotechnology,4,GU,2025-12-01 19:09:04
-2023,1911,Paleontology,4,GU,2025-12-01 19:09:04
-2023,2403,Immunology,4,GU,2025-12-01 19:09:04
-2023,3317,Demography,4,GU,2025-12-01 19:09:04
-2023,1907,Geology,3,GU,2025-12-01 19:09:04
-2023,1908,Geophysics,3,GU,2025-12-01 19:09:04
-2023,2502,Biomaterials,3,GU,2025-12-01 19:09:04
-2023,1211,Philosophy,2,GU,2025-12-01 19:09:04
-2023,1406,Marketing,2,GU,2025-12-01 19:09:04
-2023,1702,Artificial Intelligence,2,GU,2025-12-01 19:09:04
-2023,1802,Information Systems and Management,2,GU,2025-12-01 19:09:04
-2023,1902,Atmospheric Science,2,GU,2025-12-01 19:09:04
-2023,2002,Economics and Econometrics,2,GU,2025-12-01 19:09:04
-2023,2302,Ecological Modeling,2,GU,2025-12-01 19:09:04
-2023,2308,"Management, Monitoring, Policy and Law",2,GU,2025-12-01 19:09:04
-2023,1111,Soil Science,1,GU,2025-12-01 19:09:04
-2023,1204,Archeology,1,GU,2025-12-01 19:09:04
-2023,1306,Cancer Research,1,GU,2025-12-01 19:09:04
-2023,1308,Clinical Biochemistry,1,GU,2025-12-01 19:09:04
-2023,1402,Accounting,1,GU,2025-12-01 19:09:04
-2023,1403,Business and International Management,1,GU,2025-12-01 19:09:04
-2023,1407,Organizational Behavior and Human Resource Management,1,GU,2025-12-01 19:09:04
-2023,1706,Computer Science Applications,1,GU,2025-12-01 19:09:04
-2023,2208,Electrical and Electronic Engineering,1,GU,2025-12-01 19:09:04
-2023,2210,Mechanical Engineering,1,GU,2025-12-01 19:09:04
-2023,2212,Ocean Engineering,1,GU,2025-12-01 19:09:04
-2023,2405,Parasitology,1,GU,2025-12-01 19:09:04
-2023,2611,Modeling and Simulation,1,GU,2025-12-01 19:09:04
-2023,2708,Dermatology,1,GU,2025-12-01 19:09:04
-2023,2725,Infectious Diseases,1,GU,2025-12-01 19:09:04
-2023,2735,"Pediatrics, Perinatology and Child Health",1,GU,2025-12-01 19:09:04
-2023,2736,Pharmacology,1,GU,2025-12-01 19:09:04
-2023,2804,Cellular and Molecular Neuroscience,1,GU,2025-12-01 19:09:04
-2023,3203,Clinical Psychology,1,GU,2025-12-01 19:09:04
-2023,3204,Developmental and Educational Psychology,1,GU,2025-12-01 19:09:04
-2023,3207,Social Psychology,1,GU,2025-12-01 19:09:04
-2023,3306,Health,1,GU,2025-12-01 19:09:04
-2023,3311,Safety Research,1,GU,2025-12-01 19:09:04
-2023,3313,Transportation,1,GU,2025-12-01 19:09:04
-2023,3315,Communication,1,GU,2025-12-01 19:09:04
-2023,3316,Cultural Studies,1,GU,2025-12-01 19:09:04
-2023,3320,Political Science and International Relations,1,GU,2025-12-01 19:09:04
-2023,3600,General Health Professions,1,GU,2025-12-01 19:09:04
-2023,3604,Emergency Medical Services,1,GU,2025-12-01 19:09:04
-2024,2303,Ecology,35,GU,2025-12-01 19:09:04
-2024,2306,Global and Planetary Change,23,GU,2025-12-01 19:09:04
-2024,1910,Oceanography,16,GU,2025-12-01 19:09:04
-2024,2309,Nature and Landscape Conservation,14,GU,2025-12-01 19:09:04
-2024,1105,"Ecology, Evolution, Behavior and Systematics",11,GU,2025-12-01 19:09:04
-2024,1312,Molecular Biology,11,GU,2025-12-01 19:09:04
-2024,1110,Plant Science,10,GU,2025-12-01 19:09:04
-2024,1911,Paleontology,8,GU,2025-12-01 19:09:04
-2024,3312,Sociology and Political Science,8,GU,2025-12-01 19:09:04
-2024,1311,Genetics,5,GU,2025-12-01 19:09:04
-2024,3207,Social Psychology,5,GU,2025-12-01 19:09:04
-2024,2308,"Management, Monitoring, Policy and Law",4,GU,2025-12-01 19:09:04
-2024,1109,Insect Science,3,GU,2025-12-01 19:09:04
-2024,1309,Developmental Biology,3,GU,2025-12-01 19:09:04
-2024,1902,Atmospheric Science,3,GU,2025-12-01 19:09:04
-2024,3304,Education,3,GU,2025-12-01 19:09:04
-2024,1104,Aquatic Science,2,GU,2025-12-01 19:09:04
-2024,1305,Biotechnology,2,GU,2025-12-01 19:09:04
-2024,2304,Environmental Chemistry,2,GU,2025-12-01 19:09:04
-2024,2403,Immunology,2,GU,2025-12-01 19:09:04
-2024,2502,Biomaterials,2,GU,2025-12-01 19:09:04
-2024,3203,Clinical Psychology,2,GU,2025-12-01 19:09:04
-2024,3305,"Geography, Planning and Development",2,GU,2025-12-01 19:09:04
-2024,1100,General Agricultural and Biological Sciences,1,GU,2025-12-01 19:09:04
-2024,1106,Food Science,1,GU,2025-12-01 19:09:04
-2024,1108,Horticulture,1,GU,2025-12-01 19:09:04
-2024,1111,Soil Science,1,GU,2025-12-01 19:09:04
-2024,1204,Archeology,1,GU,2025-12-01 19:09:04
-2024,1306,Cancer Research,1,GU,2025-12-01 19:09:04
-2024,1307,Cell Biology,1,GU,2025-12-01 19:09:04
-2024,1310,Endocrinology,1,GU,2025-12-01 19:09:04
-2024,1709,Human-Computer Interaction,1,GU,2025-12-01 19:09:04
-2024,2205,Civil and Structural Engineering,1,GU,2025-12-01 19:09:04
-2024,2210,Mechanical Engineering,1,GU,2025-12-01 19:09:04
-2024,2212,Ocean Engineering,1,GU,2025-12-01 19:09:04
-2024,2302,Ecological Modeling,1,GU,2025-12-01 19:09:04
-2024,2311,Industrial and Manufacturing Engineering,1,GU,2025-12-01 19:09:04
-2024,2707,Complementary and alternative medicine,1,GU,2025-12-01 19:09:04
-2024,2727,Nephrology,1,GU,2025-12-01 19:09:04
-2024,2733,Otorhinolaryngology,1,GU,2025-12-01 19:09:04
-2024,2734,Pathology and Forensic Medicine,1,GU,2025-12-01 19:09:04
-2024,2736,Pharmacology,1,GU,2025-12-01 19:09:04
-2024,2916,Nutrition and Dietetics,1,GU,2025-12-01 19:09:04
-2024,3004,Pharmacology,1,GU,2025-12-01 19:09:04
-2024,3311,Safety Research,1,GU,2025-12-01 19:09:04
-2024,3316,Cultural Studies,1,GU,2025-12-01 19:09:04
-2024,3506,Periodontics,1,GU,2025-12-01 19:09:04
-2025,2303,Ecology,28,GU,2025-12-01 19:09:04
-2025,2306,Global and Planetary Change,15,GU,2025-12-01 19:09:04
-2025,1910,Oceanography,10,GU,2025-12-01 19:09:04
-2025,1312,Molecular Biology,8,GU,2025-12-01 19:09:04
-2025,3312,Sociology and Political Science,8,GU,2025-12-01 19:09:04
-2025,1105,"Ecology, Evolution, Behavior and Systematics",7,GU,2025-12-01 19:09:04
-2025,1311,Genetics,7,GU,2025-12-01 19:09:04
-2025,2309,Nature and Landscape Conservation,5,GU,2025-12-01 19:09:04
-2025,1110,Plant Science,4,GU,2025-12-01 19:09:04
-2025,1911,Paleontology,4,GU,2025-12-01 19:09:04
-2025,2308,"Management, Monitoring, Policy and Law",3,GU,2025-12-01 19:09:04
-2025,3305,"Geography, Planning and Development",3,GU,2025-12-01 19:09:04
-2025,1109,Insect Science,2,GU,2025-12-01 19:09:04
-2025,1305,Biotechnology,2,GU,2025-12-01 19:09:04
-2025,1408,Strategy and Management,2,GU,2025-12-01 19:09:04
-2025,2403,Immunology,2,GU,2025-12-01 19:09:04
-2025,2502,Biomaterials,2,GU,2025-12-01 19:09:04
-2025,2804,Cellular and Molecular Neuroscience,2,GU,2025-12-01 19:09:04
-2025,3304,Education,2,GU,2025-12-01 19:09:04
-2025,3320,Political Science and International Relations,2,GU,2025-12-01 19:09:04
-2025,1100,General Agricultural and Biological Sciences,1,GU,2025-12-01 19:09:04
-2025,1106,Food Science,1,GU,2025-12-01 19:09:04
-2025,1108,Horticulture,1,GU,2025-12-01 19:09:04
-2025,1207,History and Philosophy of Science,1,GU,2025-12-01 19:09:04
-2025,1406,Marketing,1,GU,2025-12-01 19:09:04
-2025,1710,Information Systems,1,GU,2025-12-01 19:09:04
-2025,2003,Finance,1,GU,2025-12-01 19:09:04
-2025,2405,Parasitology,1,GU,2025-12-01 19:09:04
-2025,2808,Neurology,1,GU,2025-12-01 19:09:04
-2025,3203,Clinical Psychology,1,GU,2025-12-01 19:09:04
-2025,3207,Social Psychology,1,GU,2025-12-01 19:09:04
-2025,3317,Demography,1,GU,2025-12-01 19:09:04
-2025,3600,General Health Professions,1,GU,2025-12-01 19:09:04
-2025,3614,Radiological and Ultrasound Technology,1,GU,2025-12-01 19:09:04
+2005,1110,Plant Science,29,GU,2025-12-03 12:46:13
+2005,2303,Ecology,12,GU,2025-12-03 12:46:13
+2005,1312,Molecular Biology,9,GU,2025-12-03 12:46:13
+2005,2306,Global and Planetary Change,9,GU,2025-12-03 12:46:13
+2005,1105,"Ecology, Evolution, Behavior and Systematics",7,GU,2025-12-03 12:46:13
+2005,1910,Oceanography,5,GU,2025-12-03 12:46:13
+2005,1109,Insect Science,4,GU,2025-12-03 12:46:13
+2005,1111,Soil Science,4,GU,2025-12-03 12:46:13
+2005,2212,Ocean Engineering,4,GU,2025-12-03 12:46:13
+2005,1305,Biotechnology,3,GU,2025-12-03 12:46:13
+2005,1311,Genetics,3,GU,2025-12-03 12:46:13
+2005,2307,"Health, Toxicology and Mutagenesis",3,GU,2025-12-03 12:46:13
+2005,3304,Education,3,GU,2025-12-03 12:46:13
+2005,1104,Aquatic Science,2,GU,2025-12-03 12:46:13
+2005,1106,Food Science,2,GU,2025-12-03 12:46:13
+2005,1307,Cell Biology,2,GU,2025-12-03 12:46:13
+2005,2403,Immunology,2,GU,2025-12-03 12:46:13
+2005,2704,Biochemistry,2,GU,2025-12-03 12:46:13
+2005,1102,Agronomy and Crop Science,1,GU,2025-12-03 12:46:13
+2005,1605,Organic Chemistry,1,GU,2025-12-03 12:46:13
+2005,1902,Atmospheric Science,1,GU,2025-12-03 12:46:13
+2005,1904,Earth-Surface Processes,1,GU,2025-12-03 12:46:13
+2005,1906,Geochemistry and Petrology,1,GU,2025-12-03 12:46:13
+2005,2210,Mechanical Engineering,1,GU,2025-12-03 12:46:13
+2005,2310,Pollution,1,GU,2025-12-03 12:46:13
+2005,2312,Water Science and Technology,1,GU,2025-12-03 12:46:13
+2005,2406,Virology,1,GU,2025-12-03 12:46:13
+2005,2502,Biomaterials,1,GU,2025-12-03 12:46:13
+2005,2916,Nutrition and Dietetics,1,GU,2025-12-03 12:46:13
+2005,3305,"Geography, Planning and Development",1,GU,2025-12-03 12:46:13
+2005,3317,Demography,1,GU,2025-12-03 12:46:13
+2005,3320,Political Science and International Relations,1,GU,2025-12-03 12:46:13
+2006,2303,Ecology,9,GU,2025-12-03 12:46:13
+2006,3304,Education,7,GU,2025-12-03 12:46:13
+2006,1105,"Ecology, Evolution, Behavior and Systematics",6,GU,2025-12-03 12:46:13
+2006,1109,Insect Science,5,GU,2025-12-03 12:46:13
+2006,1110,Plant Science,5,GU,2025-12-03 12:46:13
+2006,1910,Oceanography,4,GU,2025-12-03 12:46:13
+2006,3312,Sociology and Political Science,4,GU,2025-12-03 12:46:13
+2006,3305,"Geography, Planning and Development",3,GU,2025-12-03 12:46:13
+2006,1305,Biotechnology,2,GU,2025-12-03 12:46:13
+2006,1710,Information Systems,2,GU,2025-12-03 12:46:13
+2006,1902,Atmospheric Science,2,GU,2025-12-03 12:46:13
+2006,1904,Earth-Surface Processes,2,GU,2025-12-03 12:46:13
+2006,2306,Global and Planetary Change,2,GU,2025-12-03 12:46:13
+2006,3203,Clinical Psychology,2,GU,2025-12-03 12:46:13
+2006,3317,Demography,2,GU,2025-12-03 12:46:13
+2006,3318,Gender Studies,2,GU,2025-12-03 12:46:13
+2006,1106,Food Science,1,GU,2025-12-03 12:46:13
+2006,1303,Biochemistry,1,GU,2025-12-03 12:46:13
+2006,1311,Genetics,1,GU,2025-12-03 12:46:13
+2006,1312,Molecular Biology,1,GU,2025-12-03 12:46:13
+2006,1706,Computer Science Applications,1,GU,2025-12-03 12:46:13
+2006,1906,Geochemistry and Petrology,1,GU,2025-12-03 12:46:13
+2006,1911,Paleontology,1,GU,2025-12-03 12:46:13
+2006,2105,"Renewable Energy, Sustainability and the Environment",1,GU,2025-12-03 12:46:13
+2006,2210,Mechanical Engineering,1,GU,2025-12-03 12:46:13
+2006,2304,Environmental Chemistry,1,GU,2025-12-03 12:46:13
+2006,2307,"Health, Toxicology and Mutagenesis",1,GU,2025-12-03 12:46:13
+2006,2310,Pollution,1,GU,2025-12-03 12:46:13
+2006,2403,Immunology,1,GU,2025-12-03 12:46:13
+2006,2736,Pharmacology,1,GU,2025-12-03 12:46:13
+2006,3207,Social Psychology,1,GU,2025-12-03 12:46:13
+2006,3313,Transportation,1,GU,2025-12-03 12:46:13
+2006,3316,Cultural Studies,1,GU,2025-12-03 12:46:13
+2006,3614,Radiological and Ultrasound Technology,1,GU,2025-12-03 12:46:13
+2007,2303,Ecology,9,GU,2025-12-03 12:46:13
+2007,2306,Global and Planetary Change,5,GU,2025-12-03 12:46:13
+2007,1110,Plant Science,4,GU,2025-12-03 12:46:13
+2007,3312,Sociology and Political Science,4,GU,2025-12-03 12:46:13
+2007,1910,Oceanography,3,GU,2025-12-03 12:46:13
+2007,1105,"Ecology, Evolution, Behavior and Systematics",2,GU,2025-12-03 12:46:13
+2007,1305,Biotechnology,2,GU,2025-12-03 12:46:13
+2007,1312,Molecular Biology,2,GU,2025-12-03 12:46:13
+2007,2212,Ocean Engineering,2,GU,2025-12-03 12:46:13
+2007,2309,Nature and Landscape Conservation,2,GU,2025-12-03 12:46:13
+2007,3305,"Geography, Planning and Development",2,GU,2025-12-03 12:46:13
+2007,3316,Cultural Studies,2,GU,2025-12-03 12:46:13
+2007,1102,Agronomy and Crop Science,1,GU,2025-12-03 12:46:13
+2007,1108,Horticulture,1,GU,2025-12-03 12:46:13
+2007,1109,Insect Science,1,GU,2025-12-03 12:46:13
+2007,1306,Cancer Research,1,GU,2025-12-03 12:46:13
+2007,1311,Genetics,1,GU,2025-12-03 12:46:13
+2007,1406,Marketing,1,GU,2025-12-03 12:46:13
+2007,1605,Organic Chemistry,1,GU,2025-12-03 12:46:13
+2007,1902,Atmospheric Science,1,GU,2025-12-03 12:46:13
+2007,2304,Environmental Chemistry,1,GU,2025-12-03 12:46:13
+2007,2308,"Management, Monitoring, Policy and Law",1,GU,2025-12-03 12:46:13
+2007,2738,Psychiatry and Mental health,1,GU,2025-12-03 12:46:13
+2007,3203,Clinical Psychology,1,GU,2025-12-03 12:46:13
+2007,3204,Developmental and Educational Psychology,1,GU,2025-12-03 12:46:13
+2007,3207,Social Psychology,1,GU,2025-12-03 12:46:13
+2007,3304,Education,1,GU,2025-12-03 12:46:13
+2007,3311,Safety Research,1,GU,2025-12-03 12:46:13
+2007,3314,Anthropology,1,GU,2025-12-03 12:46:13
+2007,3317,Demography,1,GU,2025-12-03 12:46:13
+2007,3600,General Health Professions,1,GU,2025-12-03 12:46:13
+2007,3612,"Physical Therapy, Sports Therapy and Rehabilitation",1,GU,2025-12-03 12:46:13
+2008,3305,"Geography, Planning and Development",7,GU,2025-12-03 12:46:13
+2008,1305,Biotechnology,6,GU,2025-12-03 12:46:13
+2008,3312,Sociology and Political Science,6,GU,2025-12-03 12:46:13
+2008,1110,Plant Science,4,GU,2025-12-03 12:46:13
+2008,1312,Molecular Biology,4,GU,2025-12-03 12:46:13
+2008,2303,Ecology,4,GU,2025-12-03 12:46:13
+2008,3314,Anthropology,4,GU,2025-12-03 12:46:13
+2008,1902,Atmospheric Science,3,GU,2025-12-03 12:46:13
+2008,2736,Pharmacology,3,GU,2025-12-03 12:46:13
+2008,3304,Education,3,GU,2025-12-03 12:46:13
+2008,1105,"Ecology, Evolution, Behavior and Systematics",2,GU,2025-12-03 12:46:13
+2008,1204,Archeology,2,GU,2025-12-03 12:46:13
+2008,1605,Organic Chemistry,2,GU,2025-12-03 12:46:13
+2008,1802,Information Systems and Management,2,GU,2025-12-03 12:46:13
+2008,1910,Oceanography,2,GU,2025-12-03 12:46:13
+2008,1109,Insect Science,1,GU,2025-12-03 12:46:13
+2008,1306,Cancer Research,1,GU,2025-12-03 12:46:13
+2008,1310,Endocrinology,1,GU,2025-12-03 12:46:13
+2008,1604,Inorganic Chemistry,1,GU,2025-12-03 12:46:13
+2008,1710,Information Systems,1,GU,2025-12-03 12:46:13
+2008,1803,Management Science and Operations Research,1,GU,2025-12-03 12:46:13
+2008,1904,Earth-Surface Processes,1,GU,2025-12-03 12:46:13
+2008,1906,Geochemistry and Petrology,1,GU,2025-12-03 12:46:13
+2008,1911,Paleontology,1,GU,2025-12-03 12:46:13
+2008,2212,Ocean Engineering,1,GU,2025-12-03 12:46:13
+2008,2306,Global and Planetary Change,1,GU,2025-12-03 12:46:13
+2008,2307,"Health, Toxicology and Mutagenesis",1,GU,2025-12-03 12:46:13
+2008,2309,Nature and Landscape Conservation,1,GU,2025-12-03 12:46:13
+2008,2311,Industrial and Manufacturing Engineering,1,GU,2025-12-03 12:46:13
+2008,2502,Biomaterials,1,GU,2025-12-03 12:46:13
+2008,3204,Developmental and Educational Psychology,1,GU,2025-12-03 12:46:13
+2008,3207,Social Psychology,1,GU,2025-12-03 12:46:13
+2008,3308,Law,1,GU,2025-12-03 12:46:13
+2008,3311,Safety Research,1,GU,2025-12-03 12:46:13
+2008,3317,Demography,1,GU,2025-12-03 12:46:13
+2008,3600,General Health Professions,1,GU,2025-12-03 12:46:13
+2009,2303,Ecology,13,GU,2025-12-03 12:46:13
+2009,1105,"Ecology, Evolution, Behavior and Systematics",10,GU,2025-12-03 12:46:13
+2009,1110,Plant Science,10,GU,2025-12-03 12:46:13
+2009,1305,Biotechnology,8,GU,2025-12-03 12:46:13
+2009,3304,Education,7,GU,2025-12-03 12:46:13
+2009,3312,Sociology and Political Science,7,GU,2025-12-03 12:46:13
+2009,1109,Insect Science,6,GU,2025-12-03 12:46:13
+2009,2736,Pharmacology,6,GU,2025-12-03 12:46:13
+2009,1605,Organic Chemistry,4,GU,2025-12-03 12:46:13
+2009,1910,Oceanography,4,GU,2025-12-03 12:46:13
+2009,1911,Paleontology,4,GU,2025-12-03 12:46:13
+2009,2306,Global and Planetary Change,4,GU,2025-12-03 12:46:13
+2009,3305,"Geography, Planning and Development",4,GU,2025-12-03 12:46:13
+2009,1204,Archeology,2,GU,2025-12-03 12:46:13
+2009,1710,Information Systems,2,GU,2025-12-03 12:46:13
+2009,1902,Atmospheric Science,2,GU,2025-12-03 12:46:13
+2009,2403,Immunology,2,GU,2025-12-03 12:46:13
+2009,2502,Biomaterials,2,GU,2025-12-03 12:46:13
+2009,1100,General Agricultural and Biological Sciences,1,GU,2025-12-03 12:46:13
+2009,1104,Aquatic Science,1,GU,2025-12-03 12:46:13
+2009,1111,Soil Science,1,GU,2025-12-03 12:46:13
+2009,1203,Language and Linguistics,1,GU,2025-12-03 12:46:13
+2009,1208,Literature and Literary Theory,1,GU,2025-12-03 12:46:13
+2009,1306,Cancer Research,1,GU,2025-12-03 12:46:13
+2009,1307,Cell Biology,1,GU,2025-12-03 12:46:13
+2009,1311,Genetics,1,GU,2025-12-03 12:46:13
+2009,1312,Molecular Biology,1,GU,2025-12-03 12:46:13
+2009,1406,Marketing,1,GU,2025-12-03 12:46:13
+2009,1706,Computer Science Applications,1,GU,2025-12-03 12:46:13
+2009,2002,Economics and Econometrics,1,GU,2025-12-03 12:46:13
+2009,2205,Civil and Structural Engineering,1,GU,2025-12-03 12:46:13
+2009,2212,Ocean Engineering,1,GU,2025-12-03 12:46:13
+2009,2302,Ecological Modeling,1,GU,2025-12-03 12:46:13
+2009,2308,"Management, Monitoring, Policy and Law",1,GU,2025-12-03 12:46:13
+2009,2404,Microbiology,1,GU,2025-12-03 12:46:13
+2009,2916,Nutrition and Dietetics,1,GU,2025-12-03 12:46:13
+2009,3005,Toxicology,1,GU,2025-12-03 12:46:13
+2009,3203,Clinical Psychology,1,GU,2025-12-03 12:46:13
+2009,3204,Developmental and Educational Psychology,1,GU,2025-12-03 12:46:13
+2009,3307,Human Factors and Ergonomics,1,GU,2025-12-03 12:46:13
+2009,3600,General Health Professions,1,GU,2025-12-03 12:46:13
+2009,3612,"Physical Therapy, Sports Therapy and Rehabilitation",1,GU,2025-12-03 12:46:13
+2009,3616,Speech and Hearing,1,GU,2025-12-03 12:46:13
+2010,2303,Ecology,15,GU,2025-12-03 12:46:13
+2010,1110,Plant Science,8,GU,2025-12-03 12:46:13
+2010,1105,"Ecology, Evolution, Behavior and Systematics",7,GU,2025-12-03 12:46:13
+2010,1910,Oceanography,7,GU,2025-12-03 12:46:13
+2010,2306,Global and Planetary Change,6,GU,2025-12-03 12:46:13
+2010,3312,Sociology and Political Science,6,GU,2025-12-03 12:46:13
+2010,1305,Biotechnology,5,GU,2025-12-03 12:46:13
+2010,1312,Molecular Biology,4,GU,2025-12-03 12:46:13
+2010,3304,Education,4,GU,2025-12-03 12:46:13
+2010,1109,Insect Science,2,GU,2025-12-03 12:46:13
+2010,1307,Cell Biology,2,GU,2025-12-03 12:46:13
+2010,1911,Paleontology,2,GU,2025-12-03 12:46:13
+2010,2105,"Renewable Energy, Sustainability and the Environment",2,GU,2025-12-03 12:46:13
+2010,2304,Environmental Chemistry,2,GU,2025-12-03 12:46:13
+2010,2502,Biomaterials,2,GU,2025-12-03 12:46:13
+2010,2736,Pharmacology,2,GU,2025-12-03 12:46:13
+2010,3204,Developmental and Educational Psychology,2,GU,2025-12-03 12:46:13
+2010,3305,"Geography, Planning and Development",2,GU,2025-12-03 12:46:13
+2010,3313,Transportation,2,GU,2025-12-03 12:46:13
+2010,3317,Demography,2,GU,2025-12-03 12:46:13
+2010,1203,Language and Linguistics,1,GU,2025-12-03 12:46:13
+2010,1311,Genetics,1,GU,2025-12-03 12:46:13
+2010,1605,Organic Chemistry,1,GU,2025-12-03 12:46:13
+2010,1802,Information Systems and Management,1,GU,2025-12-03 12:46:13
+2010,1902,Atmospheric Science,1,GU,2025-12-03 12:46:13
+2010,1904,Earth-Surface Processes,1,GU,2025-12-03 12:46:13
+2010,1906,Geochemistry and Petrology,1,GU,2025-12-03 12:46:13
+2010,1907,Geology,1,GU,2025-12-03 12:46:13
+2010,2002,Economics and Econometrics,1,GU,2025-12-03 12:46:13
+2010,2212,Ocean Engineering,1,GU,2025-12-03 12:46:13
+2010,2308,"Management, Monitoring, Policy and Law",1,GU,2025-12-03 12:46:13
+2010,2309,Nature and Landscape Conservation,1,GU,2025-12-03 12:46:13
+2010,2403,Immunology,1,GU,2025-12-03 12:46:13
+2010,3207,Social Psychology,1,GU,2025-12-03 12:46:13
+2010,3320,Political Science and International Relations,1,GU,2025-12-03 12:46:13
+2010,3605,Health Information Management,1,GU,2025-12-03 12:46:13
+2011,3304,Education,21,GU,2025-12-03 12:46:13
+2011,2303,Ecology,19,GU,2025-12-03 12:46:13
+2011,1105,"Ecology, Evolution, Behavior and Systematics",14,GU,2025-12-03 12:46:13
+2011,1110,Plant Science,12,GU,2025-12-03 12:46:13
+2011,2306,Global and Planetary Change,10,GU,2025-12-03 12:46:13
+2011,1312,Molecular Biology,8,GU,2025-12-03 12:46:13
+2011,3312,Sociology and Political Science,7,GU,2025-12-03 12:46:13
+2011,1109,Insect Science,6,GU,2025-12-03 12:46:13
+2011,1910,Oceanography,6,GU,2025-12-03 12:46:13
+2011,1305,Biotechnology,5,GU,2025-12-03 12:46:13
+2011,1902,Atmospheric Science,5,GU,2025-12-03 12:46:13
+2011,3305,"Geography, Planning and Development",5,GU,2025-12-03 12:46:13
+2011,2309,Nature and Landscape Conservation,3,GU,2025-12-03 12:46:13
+2011,1311,Genetics,2,GU,2025-12-03 12:46:13
+2011,1604,Inorganic Chemistry,2,GU,2025-12-03 12:46:13
+2011,1605,Organic Chemistry,2,GU,2025-12-03 12:46:13
+2011,1710,Information Systems,2,GU,2025-12-03 12:46:13
+2011,1911,Paleontology,2,GU,2025-12-03 12:46:13
+2011,2204,Biomedical Engineering,2,GU,2025-12-03 12:46:13
+2011,2308,"Management, Monitoring, Policy and Law",2,GU,2025-12-03 12:46:13
+2011,2736,Pharmacology,2,GU,2025-12-03 12:46:13
+2011,1103,Animal Science and Zoology,1,GU,2025-12-03 12:46:13
+2011,1104,Aquatic Science,1,GU,2025-12-03 12:46:13
+2011,1203,Language and Linguistics,1,GU,2025-12-03 12:46:13
+2011,1204,Archeology,1,GU,2025-12-03 12:46:13
+2011,1307,Cell Biology,1,GU,2025-12-03 12:46:13
+2011,1309,Developmental Biology,1,GU,2025-12-03 12:46:13
+2011,1408,Strategy and Management,1,GU,2025-12-03 12:46:13
+2011,1502,Bioengineering,1,GU,2025-12-03 12:46:13
+2011,1702,Artificial Intelligence,1,GU,2025-12-03 12:46:13
+2011,1706,Computer Science Applications,1,GU,2025-12-03 12:46:13
+2011,1802,Information Systems and Management,1,GU,2025-12-03 12:46:13
+2011,1904,Earth-Surface Processes,1,GU,2025-12-03 12:46:13
+2011,1906,Geochemistry and Petrology,1,GU,2025-12-03 12:46:13
+2011,2210,Mechanical Engineering,1,GU,2025-12-03 12:46:13
+2011,2212,Ocean Engineering,1,GU,2025-12-03 12:46:13
+2011,2302,Ecological Modeling,1,GU,2025-12-03 12:46:13
+2011,2502,Biomaterials,1,GU,2025-12-03 12:46:13
+2011,2504,"Electronic, Optical and Magnetic Materials",1,GU,2025-12-03 12:46:13
+2011,2505,Materials Chemistry,1,GU,2025-12-03 12:46:13
+2011,3207,Social Psychology,1,GU,2025-12-03 12:46:13
+2011,3314,Anthropology,1,GU,2025-12-03 12:46:13
+2011,3317,Demography,1,GU,2025-12-03 12:46:13
+2011,3318,Gender Studies,1,GU,2025-12-03 12:46:13
+2011,3320,Political Science and International Relations,1,GU,2025-12-03 12:46:13
+2011,3614,Radiological and Ultrasound Technology,1,GU,2025-12-03 12:46:13
+2012,2303,Ecology,16,GU,2025-12-03 12:46:13
+2012,1110,Plant Science,12,GU,2025-12-03 12:46:13
+2012,1105,"Ecology, Evolution, Behavior and Systematics",10,GU,2025-12-03 12:46:13
+2012,2306,Global and Planetary Change,8,GU,2025-12-03 12:46:13
+2012,1109,Insect Science,7,GU,2025-12-03 12:46:13
+2012,1910,Oceanography,7,GU,2025-12-03 12:46:13
+2012,3312,Sociology and Political Science,7,GU,2025-12-03 12:46:13
+2012,1911,Paleontology,6,GU,2025-12-03 12:46:13
+2012,1312,Molecular Biology,5,GU,2025-12-03 12:46:13
+2012,1902,Atmospheric Science,5,GU,2025-12-03 12:46:13
+2012,3305,"Geography, Planning and Development",5,GU,2025-12-03 12:46:13
+2012,1305,Biotechnology,4,GU,2025-12-03 12:46:13
+2012,1104,Aquatic Science,3,GU,2025-12-03 12:46:13
+2012,1311,Genetics,3,GU,2025-12-03 12:46:13
+2012,1106,Food Science,2,GU,2025-12-03 12:46:13
+2012,2212,Ocean Engineering,2,GU,2025-12-03 12:46:13
+2012,2307,"Health, Toxicology and Mutagenesis",2,GU,2025-12-03 12:46:13
+2012,2736,Pharmacology,2,GU,2025-12-03 12:46:13
+2012,3315,Communication,2,GU,2025-12-03 12:46:13
+2012,3600,General Health Professions,2,GU,2025-12-03 12:46:13
+2012,1100,General Agricultural and Biological Sciences,1,GU,2025-12-03 12:46:13
+2012,1200,General Arts and Humanities,1,GU,2025-12-03 12:46:13
+2012,1204,Archeology,1,GU,2025-12-03 12:46:13
+2012,1306,Cancer Research,1,GU,2025-12-03 12:46:13
+2012,1404,Management Information Systems,1,GU,2025-12-03 12:46:13
+2012,1710,Information Systems,1,GU,2025-12-03 12:46:13
+2012,1802,Information Systems and Management,1,GU,2025-12-03 12:46:13
+2012,1906,Geochemistry and Petrology,1,GU,2025-12-03 12:46:13
+2012,2302,Ecological Modeling,1,GU,2025-12-03 12:46:13
+2012,2304,Environmental Chemistry,1,GU,2025-12-03 12:46:13
+2012,2309,Nature and Landscape Conservation,1,GU,2025-12-03 12:46:13
+2012,2403,Immunology,1,GU,2025-12-03 12:46:13
+2012,2502,Biomaterials,1,GU,2025-12-03 12:46:13
+2012,3103,Astronomy and Astrophysics,1,GU,2025-12-03 12:46:13
+2012,3204,Developmental and Educational Psychology,1,GU,2025-12-03 12:46:13
+2012,3205,Experimental and Cognitive Psychology,1,GU,2025-12-03 12:46:13
+2012,3207,Social Psychology,1,GU,2025-12-03 12:46:13
+2012,3304,Education,1,GU,2025-12-03 12:46:13
+2012,3311,Safety Research,1,GU,2025-12-03 12:46:13
+2012,3314,Anthropology,1,GU,2025-12-03 12:46:13
+2012,3320,Political Science and International Relations,1,GU,2025-12-03 12:46:13
+2012,3321,Public Administration,1,GU,2025-12-03 12:46:13
+2013,3305,"Geography, Planning and Development",23,GU,2025-12-03 12:46:13
+2013,2303,Ecology,21,GU,2025-12-03 12:46:13
+2013,1911,Paleontology,13,GU,2025-12-03 12:46:13
+2013,1105,"Ecology, Evolution, Behavior and Systematics",11,GU,2025-12-03 12:46:13
+2013,3312,Sociology and Political Science,11,GU,2025-12-03 12:46:13
+2013,1110,Plant Science,10,GU,2025-12-03 12:46:13
+2013,1902,Atmospheric Science,9,GU,2025-12-03 12:46:13
+2013,2306,Global and Planetary Change,8,GU,2025-12-03 12:46:13
+2013,1204,Archeology,7,GU,2025-12-03 12:46:13
+2013,1910,Oceanography,7,GU,2025-12-03 12:46:13
+2013,3304,Education,7,GU,2025-12-03 12:46:13
+2013,1802,Information Systems and Management,6,GU,2025-12-03 12:46:13
+2013,2309,Nature and Landscape Conservation,5,GU,2025-12-03 12:46:13
+2013,3317,Demography,4,GU,2025-12-03 12:46:13
+2013,1104,Aquatic Science,3,GU,2025-12-03 12:46:13
+2013,1312,Molecular Biology,3,GU,2025-12-03 12:46:13
+2013,2502,Biomaterials,3,GU,2025-12-03 12:46:13
+2013,1307,Cell Biology,2,GU,2025-12-03 12:46:13
+2013,1311,Genetics,2,GU,2025-12-03 12:46:13
+2013,1407,Organizational Behavior and Human Resource Management,2,GU,2025-12-03 12:46:13
+2013,1904,Earth-Surface Processes,2,GU,2025-12-03 12:46:13
+2013,3314,Anthropology,2,GU,2025-12-03 12:46:13
+2013,1305,Biotechnology,1,GU,2025-12-03 12:46:13
+2013,1306,Cancer Research,1,GU,2025-12-03 12:46:13
+2013,1309,Developmental Biology,1,GU,2025-12-03 12:46:13
+2013,1405,Management of Technology and Innovation,1,GU,2025-12-03 12:46:13
+2013,1408,Strategy and Management,1,GU,2025-12-03 12:46:13
+2013,1602,Analytical Chemistry,1,GU,2025-12-03 12:46:13
+2013,1702,Artificial Intelligence,1,GU,2025-12-03 12:46:13
+2013,1906,Geochemistry and Petrology,1,GU,2025-12-03 12:46:13
+2013,2002,Economics and Econometrics,1,GU,2025-12-03 12:46:13
+2013,2204,Biomedical Engineering,1,GU,2025-12-03 12:46:13
+2013,2302,Ecological Modeling,1,GU,2025-12-03 12:46:13
+2013,2304,Environmental Chemistry,1,GU,2025-12-03 12:46:13
+2013,2305,Environmental Engineering,1,GU,2025-12-03 12:46:13
+2013,2308,"Management, Monitoring, Policy and Law",1,GU,2025-12-03 12:46:13
+2013,2312,Water Science and Technology,1,GU,2025-12-03 12:46:13
+2013,2504,"Electronic, Optical and Magnetic Materials",1,GU,2025-12-03 12:46:13
+2013,2707,Complementary and alternative medicine,1,GU,2025-12-03 12:46:13
+2013,2736,Pharmacology,1,GU,2025-12-03 12:46:13
+2013,2739,"Public Health, Environmental and Occupational Health",1,GU,2025-12-03 12:46:13
+2013,2741,"Radiology, Nuclear Medicine and Imaging",1,GU,2025-12-03 12:46:13
+2013,2916,Nutrition and Dietetics,1,GU,2025-12-03 12:46:13
+2013,3204,Developmental and Educational Psychology,1,GU,2025-12-03 12:46:13
+2013,3207,Social Psychology,1,GU,2025-12-03 12:46:13
+2013,3306,Health,1,GU,2025-12-03 12:46:13
+2013,3315,Communication,1,GU,2025-12-03 12:46:13
+2013,3316,Cultural Studies,1,GU,2025-12-03 12:46:13
+2013,3318,Gender Studies,1,GU,2025-12-03 12:46:13
+2013,3320,Political Science and International Relations,1,GU,2025-12-03 12:46:13
+2013,3321,Public Administration,1,GU,2025-12-03 12:46:13
+2013,3603,Complementary and Manual Therapy,1,GU,2025-12-03 12:46:13
+2013,3614,Radiological and Ultrasound Technology,1,GU,2025-12-03 12:46:13
+2014,1910,Oceanography,15,GU,2025-12-03 12:46:13
+2014,1110,Plant Science,14,GU,2025-12-03 12:46:13
+2014,1105,"Ecology, Evolution, Behavior and Systematics",13,GU,2025-12-03 12:46:13
+2014,2303,Ecology,13,GU,2025-12-03 12:46:13
+2014,3305,"Geography, Planning and Development",11,GU,2025-12-03 12:46:13
+2014,1911,Paleontology,9,GU,2025-12-03 12:46:13
+2014,2306,Global and Planetary Change,9,GU,2025-12-03 12:46:13
+2014,1312,Molecular Biology,8,GU,2025-12-03 12:46:13
+2014,3304,Education,8,GU,2025-12-03 12:46:13
+2014,1109,Insect Science,7,GU,2025-12-03 12:46:13
+2014,1902,Atmospheric Science,7,GU,2025-12-03 12:46:13
+2014,3312,Sociology and Political Science,7,GU,2025-12-03 12:46:13
+2014,2502,Biomaterials,5,GU,2025-12-03 12:46:13
+2014,1204,Archeology,4,GU,2025-12-03 12:46:13
+2014,1311,Genetics,4,GU,2025-12-03 12:46:13
+2014,3317,Demography,3,GU,2025-12-03 12:46:13
+2014,3204,Developmental and Educational Psychology,2,GU,2025-12-03 12:46:13
+2014,3306,Health,2,GU,2025-12-03 12:46:13
+2014,3320,Political Science and International Relations,2,GU,2025-12-03 12:46:13
+2014,3600,General Health Professions,2,GU,2025-12-03 12:46:13
+2014,1100,General Agricultural and Biological Sciences,1,GU,2025-12-03 12:46:13
+2014,1102,Agronomy and Crop Science,1,GU,2025-12-03 12:46:13
+2014,1104,Aquatic Science,1,GU,2025-12-03 12:46:13
+2014,1111,Soil Science,1,GU,2025-12-03 12:46:13
+2014,1306,Cancer Research,1,GU,2025-12-03 12:46:13
+2014,1702,Artificial Intelligence,1,GU,2025-12-03 12:46:13
+2014,1706,Computer Science Applications,1,GU,2025-12-03 12:46:13
+2014,1710,Information Systems,1,GU,2025-12-03 12:46:13
+2014,2000,"General Economics, Econometrics and Finance",1,GU,2025-12-03 12:46:13
+2014,2002,Economics and Econometrics,1,GU,2025-12-03 12:46:13
+2014,2304,Environmental Chemistry,1,GU,2025-12-03 12:46:13
+2014,2309,Nature and Landscape Conservation,1,GU,2025-12-03 12:46:13
+2014,2310,Pollution,1,GU,2025-12-03 12:46:13
+2014,2712,"Endocrinology, Diabetes and Metabolism",1,GU,2025-12-03 12:46:13
+2014,2728,Neurology,1,GU,2025-12-03 12:46:13
+2014,2739,"Public Health, Environmental and Occupational Health",1,GU,2025-12-03 12:46:13
+2014,2808,Neurology,1,GU,2025-12-03 12:46:13
+2014,3203,Clinical Psychology,1,GU,2025-12-03 12:46:13
+2014,3314,Anthropology,1,GU,2025-12-03 12:46:13
+2014,3316,Cultural Studies,1,GU,2025-12-03 12:46:13
+2014,3506,Periodontics,1,GU,2025-12-03 12:46:13
+2014,3604,Emergency Medical Services,1,GU,2025-12-03 12:46:13
+2015,1105,"Ecology, Evolution, Behavior and Systematics",12,GU,2025-12-03 12:46:13
+2015,2303,Ecology,10,GU,2025-12-03 12:46:13
+2015,3312,Sociology and Political Science,10,GU,2025-12-03 12:46:13
+2015,1312,Molecular Biology,9,GU,2025-12-03 12:46:13
+2015,1110,Plant Science,8,GU,2025-12-03 12:46:13
+2015,3305,"Geography, Planning and Development",6,GU,2025-12-03 12:46:13
+2015,1911,Paleontology,4,GU,2025-12-03 12:46:13
+2015,3304,Education,4,GU,2025-12-03 12:46:13
+2015,1902,Atmospheric Science,3,GU,2025-12-03 12:46:13
+2015,1910,Oceanography,3,GU,2025-12-03 12:46:13
+2015,2502,Biomaterials,3,GU,2025-12-03 12:46:13
+2015,1305,Biotechnology,2,GU,2025-12-03 12:46:13
+2015,1802,Information Systems and Management,2,GU,2025-12-03 12:46:13
+2015,2306,Global and Planetary Change,2,GU,2025-12-03 12:46:13
+2015,2705,Cardiology and Cardiovascular Medicine,2,GU,2025-12-03 12:46:13
+2015,3207,Social Psychology,2,GU,2025-12-03 12:46:13
+2015,3317,Demography,2,GU,2025-12-03 12:46:13
+2015,3506,Periodontics,2,GU,2025-12-03 12:46:13
+2015,1108,Horticulture,1,GU,2025-12-03 12:46:13
+2015,1200,General Arts and Humanities,1,GU,2025-12-03 12:46:13
+2015,1209,Museology,1,GU,2025-12-03 12:46:13
+2015,1212,Religious studies,1,GU,2025-12-03 12:46:13
+2015,1306,Cancer Research,1,GU,2025-12-03 12:46:13
+2015,1307,Cell Biology,1,GU,2025-12-03 12:46:13
+2015,1406,Marketing,1,GU,2025-12-03 12:46:13
+2015,1702,Artificial Intelligence,1,GU,2025-12-03 12:46:13
+2015,1710,Information Systems,1,GU,2025-12-03 12:46:13
+2015,2302,Ecological Modeling,1,GU,2025-12-03 12:46:13
+2015,2309,Nature and Landscape Conservation,1,GU,2025-12-03 12:46:13
+2015,2403,Immunology,1,GU,2025-12-03 12:46:13
+2015,2708,Dermatology,1,GU,2025-12-03 12:46:13
+2015,2730,Oncology,1,GU,2025-12-03 12:46:13
+2015,2733,Otorhinolaryngology,1,GU,2025-12-03 12:46:13
+2015,2735,"Pediatrics, Perinatology and Child Health",1,GU,2025-12-03 12:46:13
+2015,2739,"Public Health, Environmental and Occupational Health",1,GU,2025-12-03 12:46:13
+2015,2740,Pulmonary and Respiratory Medicine,1,GU,2025-12-03 12:46:13
+2015,3203,Clinical Psychology,1,GU,2025-12-03 12:46:13
+2015,3204,Developmental and Educational Psychology,1,GU,2025-12-03 12:46:13
+2015,3316,Cultural Studies,1,GU,2025-12-03 12:46:13
+2016,2303,Ecology,28,GU,2025-12-03 12:46:13
+2016,3305,"Geography, Planning and Development",18,GU,2025-12-03 12:46:13
+2016,3312,Sociology and Political Science,17,GU,2025-12-03 12:46:13
+2016,1911,Paleontology,16,GU,2025-12-03 12:46:13
+2016,1910,Oceanography,9,GU,2025-12-03 12:46:13
+2016,2306,Global and Planetary Change,9,GU,2025-12-03 12:46:13
+2016,1105,"Ecology, Evolution, Behavior and Systematics",8,GU,2025-12-03 12:46:13
+2016,3304,Education,8,GU,2025-12-03 12:46:13
+2016,1110,Plant Science,7,GU,2025-12-03 12:46:13
+2016,1710,Information Systems,5,GU,2025-12-03 12:46:13
+2016,1902,Atmospheric Science,5,GU,2025-12-03 12:46:13
+2016,3315,Communication,5,GU,2025-12-03 12:46:13
+2016,1312,Molecular Biology,4,GU,2025-12-03 12:46:13
+2016,3207,Social Psychology,4,GU,2025-12-03 12:46:13
+2016,1109,Insect Science,3,GU,2025-12-03 12:46:13
+2016,1204,Archeology,3,GU,2025-12-03 12:46:13
+2016,1802,Information Systems and Management,3,GU,2025-12-03 12:46:13
+2016,3316,Cultural Studies,3,GU,2025-12-03 12:46:13
+2016,3317,Demography,3,GU,2025-12-03 12:46:13
+2016,1104,Aquatic Science,2,GU,2025-12-03 12:46:13
+2016,1407,Organizational Behavior and Human Resource Management,2,GU,2025-12-03 12:46:13
+2016,1702,Artificial Intelligence,2,GU,2025-12-03 12:46:13
+2016,2309,Nature and Landscape Conservation,2,GU,2025-12-03 12:46:13
+2016,2502,Biomaterials,2,GU,2025-12-03 12:46:13
+2016,3204,Developmental and Educational Psychology,2,GU,2025-12-03 12:46:13
+2016,3205,Experimental and Cognitive Psychology,2,GU,2025-12-03 12:46:13
+2016,3314,Anthropology,2,GU,2025-12-03 12:46:13
+2016,1100,General Agricultural and Biological Sciences,1,GU,2025-12-03 12:46:13
+2016,1106,Food Science,1,GU,2025-12-03 12:46:13
+2016,1111,Soil Science,1,GU,2025-12-03 12:46:13
+2016,1211,Philosophy,1,GU,2025-12-03 12:46:13
+2016,1305,Biotechnology,1,GU,2025-12-03 12:46:13
+2016,1311,Genetics,1,GU,2025-12-03 12:46:13
+2016,1408,Strategy and Management,1,GU,2025-12-03 12:46:13
+2016,1707,Computer Vision and Pattern Recognition,1,GU,2025-12-03 12:46:13
+2016,1904,Earth-Surface Processes,1,GU,2025-12-03 12:46:13
+2016,2000,"General Economics, Econometrics and Finance",1,GU,2025-12-03 12:46:13
+2016,2204,Biomedical Engineering,1,GU,2025-12-03 12:46:13
+2016,2738,Psychiatry and Mental health,1,GU,2025-12-03 12:46:13
+2016,3107,"Atomic and Molecular Physics, and Optics",1,GU,2025-12-03 12:46:13
+2016,3203,Clinical Psychology,1,GU,2025-12-03 12:46:13
+2016,3311,Safety Research,1,GU,2025-12-03 12:46:13
+2016,3600,General Health Professions,1,GU,2025-12-03 12:46:13
+2017,2303,Ecology,24,GU,2025-12-03 12:46:13
+2017,3312,Sociology and Political Science,20,GU,2025-12-03 12:46:13
+2017,1105,"Ecology, Evolution, Behavior and Systematics",15,GU,2025-12-03 12:46:13
+2017,2306,Global and Planetary Change,12,GU,2025-12-03 12:46:13
+2017,1910,Oceanography,9,GU,2025-12-03 12:46:13
+2017,1911,Paleontology,8,GU,2025-12-03 12:46:13
+2017,1110,Plant Science,7,GU,2025-12-03 12:46:13
+2017,1312,Molecular Biology,7,GU,2025-12-03 12:46:13
+2017,3304,Education,7,GU,2025-12-03 12:46:13
+2017,3305,"Geography, Planning and Development",7,GU,2025-12-03 12:46:13
+2017,3317,Demography,6,GU,2025-12-03 12:46:13
+2017,3207,Social Psychology,4,GU,2025-12-03 12:46:13
+2017,1104,Aquatic Science,3,GU,2025-12-03 12:46:13
+2017,1204,Archeology,3,GU,2025-12-03 12:46:13
+2017,1710,Information Systems,3,GU,2025-12-03 12:46:13
+2017,1802,Information Systems and Management,3,GU,2025-12-03 12:46:13
+2017,2309,Nature and Landscape Conservation,3,GU,2025-12-03 12:46:13
+2017,1305,Biotechnology,2,GU,2025-12-03 12:46:13
+2017,1306,Cancer Research,2,GU,2025-12-03 12:46:13
+2017,1311,Genetics,2,GU,2025-12-03 12:46:13
+2017,1902,Atmospheric Science,2,GU,2025-12-03 12:46:13
+2017,1904,Earth-Surface Processes,2,GU,2025-12-03 12:46:13
+2017,2739,"Public Health, Environmental and Occupational Health",2,GU,2025-12-03 12:46:13
+2017,3315,Communication,2,GU,2025-12-03 12:46:13
+2017,1100,General Agricultural and Biological Sciences,1,GU,2025-12-03 12:46:13
+2017,1102,Agronomy and Crop Science,1,GU,2025-12-03 12:46:13
+2017,1109,Insect Science,1,GU,2025-12-03 12:46:13
+2017,1111,Soil Science,1,GU,2025-12-03 12:46:13
+2017,1212,Religious studies,1,GU,2025-12-03 12:46:13
+2017,1402,Accounting,1,GU,2025-12-03 12:46:13
+2017,1408,Strategy and Management,1,GU,2025-12-03 12:46:13
+2017,1606,Physical and Theoretical Chemistry,1,GU,2025-12-03 12:46:13
+2017,2204,Biomedical Engineering,1,GU,2025-12-03 12:46:13
+2017,2302,Ecological Modeling,1,GU,2025-12-03 12:46:13
+2017,2304,Environmental Chemistry,1,GU,2025-12-03 12:46:13
+2017,2305,Environmental Engineering,1,GU,2025-12-03 12:46:13
+2017,2403,Immunology,1,GU,2025-12-03 12:46:13
+2017,2404,Microbiology,1,GU,2025-12-03 12:46:13
+2017,2502,Biomaterials,1,GU,2025-12-03 12:46:13
+2017,2705,Cardiology and Cardiovascular Medicine,1,GU,2025-12-03 12:46:13
+2017,2713,Epidemiology,1,GU,2025-12-03 12:46:13
+2017,2725,Infectious Diseases,1,GU,2025-12-03 12:46:13
+2017,2736,Pharmacology,1,GU,2025-12-03 12:46:13
+2017,3204,Developmental and Educational Psychology,1,GU,2025-12-03 12:46:13
+2017,3313,Transportation,1,GU,2025-12-03 12:46:13
+2017,3314,Anthropology,1,GU,2025-12-03 12:46:13
+2017,3316,Cultural Studies,1,GU,2025-12-03 12:46:13
+2017,3320,Political Science and International Relations,1,GU,2025-12-03 12:46:13
+2017,3322,Urban Studies,1,GU,2025-12-03 12:46:13
+2018,2303,Ecology,26,GU,2025-12-03 12:46:13
+2018,1105,"Ecology, Evolution, Behavior and Systematics",14,GU,2025-12-03 12:46:13
+2018,2306,Global and Planetary Change,13,GU,2025-12-03 12:46:13
+2018,3312,Sociology and Political Science,11,GU,2025-12-03 12:46:13
+2018,1312,Molecular Biology,8,GU,2025-12-03 12:46:13
+2018,1910,Oceanography,8,GU,2025-12-03 12:46:13
+2018,2309,Nature and Landscape Conservation,8,GU,2025-12-03 12:46:13
+2018,1110,Plant Science,7,GU,2025-12-03 12:46:13
+2018,3304,Education,4,GU,2025-12-03 12:46:13
+2018,1109,Insect Science,3,GU,2025-12-03 12:46:13
+2018,1802,Information Systems and Management,3,GU,2025-12-03 12:46:13
+2018,2502,Biomaterials,3,GU,2025-12-03 12:46:13
+2018,3305,"Geography, Planning and Development",3,GU,2025-12-03 12:46:13
+2018,1305,Biotechnology,2,GU,2025-12-03 12:46:13
+2018,1307,Cell Biology,2,GU,2025-12-03 12:46:13
+2018,1311,Genetics,2,GU,2025-12-03 12:46:13
+2018,1902,Atmospheric Science,2,GU,2025-12-03 12:46:13
+2018,1904,Earth-Surface Processes,2,GU,2025-12-03 12:46:13
+2018,1911,Paleontology,2,GU,2025-12-03 12:46:13
+2018,2736,Pharmacology,2,GU,2025-12-03 12:46:13
+2018,2737,Physiology,2,GU,2025-12-03 12:46:13
+2018,2739,"Public Health, Environmental and Occupational Health",2,GU,2025-12-03 12:46:13
+2018,3317,Demography,2,GU,2025-12-03 12:46:13
+2018,3320,Political Science and International Relations,2,GU,2025-12-03 12:46:13
+2018,3604,Emergency Medical Services,2,GU,2025-12-03 12:46:13
+2018,1100,General Agricultural and Biological Sciences,1,GU,2025-12-03 12:46:13
+2018,1108,Horticulture,1,GU,2025-12-03 12:46:13
+2018,1111,Soil Science,1,GU,2025-12-03 12:46:13
+2018,1202,History,1,GU,2025-12-03 12:46:13
+2018,1211,Philosophy,1,GU,2025-12-03 12:46:13
+2018,1306,Cancer Research,1,GU,2025-12-03 12:46:13
+2018,1308,Clinical Biochemistry,1,GU,2025-12-03 12:46:13
+2018,1402,Accounting,1,GU,2025-12-03 12:46:13
+2018,1406,Marketing,1,GU,2025-12-03 12:46:13
+2018,1604,Inorganic Chemistry,1,GU,2025-12-03 12:46:13
+2018,1702,Artificial Intelligence,1,GU,2025-12-03 12:46:13
+2018,1803,Management Science and Operations Research,1,GU,2025-12-03 12:46:13
+2018,2105,"Renewable Energy, Sustainability and the Environment",1,GU,2025-12-03 12:46:13
+2018,2210,Mechanical Engineering,1,GU,2025-12-03 12:46:13
+2018,2302,Ecological Modeling,1,GU,2025-12-03 12:46:13
+2018,2308,"Management, Monitoring, Policy and Law",1,GU,2025-12-03 12:46:13
+2018,2312,Water Science and Technology,1,GU,2025-12-03 12:46:13
+2018,2404,Microbiology,1,GU,2025-12-03 12:46:13
+2018,3203,Clinical Psychology,1,GU,2025-12-03 12:46:13
+2018,3207,Social Psychology,1,GU,2025-12-03 12:46:13
+2018,3306,Health,1,GU,2025-12-03 12:46:13
+2018,3308,Law,1,GU,2025-12-03 12:46:13
+2018,3315,Communication,1,GU,2025-12-03 12:46:13
+2018,3316,Cultural Studies,1,GU,2025-12-03 12:46:13
+2018,3321,Public Administration,1,GU,2025-12-03 12:46:13
+2018,3506,Periodontics,1,GU,2025-12-03 12:46:13
+2018,3600,General Health Professions,1,GU,2025-12-03 12:46:13
+2019,2303,Ecology,30,GU,2025-12-03 12:46:13
+2019,1910,Oceanography,29,GU,2025-12-03 12:46:13
+2019,1105,"Ecology, Evolution, Behavior and Systematics",16,GU,2025-12-03 12:46:13
+2019,1312,Molecular Biology,16,GU,2025-12-03 12:46:13
+2019,2306,Global and Planetary Change,16,GU,2025-12-03 12:46:13
+2019,3312,Sociology and Political Science,15,GU,2025-12-03 12:46:13
+2019,3304,Education,11,GU,2025-12-03 12:46:13
+2019,2309,Nature and Landscape Conservation,8,GU,2025-12-03 12:46:13
+2019,1110,Plant Science,6,GU,2025-12-03 12:46:13
+2019,1911,Paleontology,6,GU,2025-12-03 12:46:13
+2019,1305,Biotechnology,5,GU,2025-12-03 12:46:13
+2019,3305,"Geography, Planning and Development",4,GU,2025-12-03 12:46:13
+2019,3317,Demography,4,GU,2025-12-03 12:46:13
+2019,3600,General Health Professions,4,GU,2025-12-03 12:46:13
+2019,1311,Genetics,3,GU,2025-12-03 12:46:13
+2019,1710,Information Systems,3,GU,2025-12-03 12:46:13
+2019,3204,Developmental and Educational Psychology,3,GU,2025-12-03 12:46:13
+2019,1100,General Agricultural and Biological Sciences,2,GU,2025-12-03 12:46:13
+2019,1109,Insect Science,2,GU,2025-12-03 12:46:13
+2019,1111,Soil Science,2,GU,2025-12-03 12:46:13
+2019,1307,Cell Biology,2,GU,2025-12-03 12:46:13
+2019,1902,Atmospheric Science,2,GU,2025-12-03 12:46:13
+2019,2212,Ocean Engineering,2,GU,2025-12-03 12:46:13
+2019,2302,Ecological Modeling,2,GU,2025-12-03 12:46:13
+2019,2308,"Management, Monitoring, Policy and Law",2,GU,2025-12-03 12:46:13
+2019,2502,Biomaterials,2,GU,2025-12-03 12:46:13
+2019,2739,"Public Health, Environmental and Occupational Health",2,GU,2025-12-03 12:46:13
+2019,3320,Political Science and International Relations,2,GU,2025-12-03 12:46:13
+2019,1102,Agronomy and Crop Science,1,GU,2025-12-03 12:46:13
+2019,1203,Language and Linguistics,1,GU,2025-12-03 12:46:13
+2019,1211,Philosophy,1,GU,2025-12-03 12:46:13
+2019,1212,Religious studies,1,GU,2025-12-03 12:46:13
+2019,1213,Visual Arts and Performing Arts,1,GU,2025-12-03 12:46:13
+2019,1310,Endocrinology,1,GU,2025-12-03 12:46:13
+2019,1405,Management of Technology and Innovation,1,GU,2025-12-03 12:46:13
+2019,1606,Physical and Theoretical Chemistry,1,GU,2025-12-03 12:46:13
+2019,1706,Computer Science Applications,1,GU,2025-12-03 12:46:13
+2019,1802,Information Systems and Management,1,GU,2025-12-03 12:46:13
+2019,1803,Management Science and Operations Research,1,GU,2025-12-03 12:46:13
+2019,1904,Earth-Surface Processes,1,GU,2025-12-03 12:46:13
+2019,2002,Economics and Econometrics,1,GU,2025-12-03 12:46:13
+2019,2204,Biomedical Engineering,1,GU,2025-12-03 12:46:13
+2019,2304,Environmental Chemistry,1,GU,2025-12-03 12:46:13
+2019,2736,Pharmacology,1,GU,2025-12-03 12:46:13
+2019,2748,Urology,1,GU,2025-12-03 12:46:13
+2019,2916,Nutrition and Dietetics,1,GU,2025-12-03 12:46:13
+2019,3203,Clinical Psychology,1,GU,2025-12-03 12:46:13
+2019,3207,Social Psychology,1,GU,2025-12-03 12:46:13
+2019,3306,Health,1,GU,2025-12-03 12:46:13
+2019,3307,Human Factors and Ergonomics,1,GU,2025-12-03 12:46:13
+2019,3315,Communication,1,GU,2025-12-03 12:46:13
+2019,3316,Cultural Studies,1,GU,2025-12-03 12:46:13
+2019,3321,Public Administration,1,GU,2025-12-03 12:46:13
+2019,3611,Pharmacy,1,GU,2025-12-03 12:46:13
+2020,3312,Sociology and Political Science,28,GU,2025-12-03 12:46:13
+2020,2303,Ecology,27,GU,2025-12-03 12:46:13
+2020,1105,"Ecology, Evolution, Behavior and Systematics",23,GU,2025-12-03 12:46:13
+2020,2306,Global and Planetary Change,22,GU,2025-12-03 12:46:13
+2020,1110,Plant Science,16,GU,2025-12-03 12:46:13
+2020,1910,Oceanography,8,GU,2025-12-03 12:46:13
+2020,1911,Paleontology,8,GU,2025-12-03 12:46:13
+2020,3203,Clinical Psychology,8,GU,2025-12-03 12:46:13
+2020,1312,Molecular Biology,7,GU,2025-12-03 12:46:13
+2020,3304,Education,7,GU,2025-12-03 12:46:13
+2020,1305,Biotechnology,6,GU,2025-12-03 12:46:13
+2020,1311,Genetics,6,GU,2025-12-03 12:46:13
+2020,2309,Nature and Landscape Conservation,6,GU,2025-12-03 12:46:13
+2020,2736,Pharmacology,6,GU,2025-12-03 12:46:13
+2020,3305,"Geography, Planning and Development",6,GU,2025-12-03 12:46:13
+2020,1710,Information Systems,5,GU,2025-12-03 12:46:13
+2020,1902,Atmospheric Science,5,GU,2025-12-03 12:46:13
+2020,1802,Information Systems and Management,4,GU,2025-12-03 12:46:13
+2020,1109,Insect Science,3,GU,2025-12-03 12:46:13
+2020,2002,Economics and Econometrics,3,GU,2025-12-03 12:46:13
+2020,2302,Ecological Modeling,3,GU,2025-12-03 12:46:13
+2020,3207,Social Psychology,3,GU,2025-12-03 12:46:13
+2020,3320,Political Science and International Relations,3,GU,2025-12-03 12:46:13
+2020,3600,General Health Professions,3,GU,2025-12-03 12:46:13
+2020,1211,Philosophy,2,GU,2025-12-03 12:46:13
+2020,1307,Cell Biology,2,GU,2025-12-03 12:46:13
+2020,1702,Artificial Intelligence,2,GU,2025-12-03 12:46:13
+2020,2304,Environmental Chemistry,2,GU,2025-12-03 12:46:13
+2020,2735,"Pediatrics, Perinatology and Child Health",2,GU,2025-12-03 12:46:13
+2020,3315,Communication,2,GU,2025-12-03 12:46:13
+2020,3317,Demography,2,GU,2025-12-03 12:46:13
+2020,1108,Horticulture,1,GU,2025-12-03 12:46:13
+2020,1111,Soil Science,1,GU,2025-12-03 12:46:13
+2020,1204,Archeology,1,GU,2025-12-03 12:46:13
+2020,1208,Literature and Literary Theory,1,GU,2025-12-03 12:46:13
+2020,1212,Religious studies,1,GU,2025-12-03 12:46:13
+2020,1306,Cancer Research,1,GU,2025-12-03 12:46:13
+2020,1310,Endocrinology,1,GU,2025-12-03 12:46:13
+2020,1404,Management Information Systems,1,GU,2025-12-03 12:46:13
+2020,1406,Marketing,1,GU,2025-12-03 12:46:13
+2020,1407,Organizational Behavior and Human Resource Management,1,GU,2025-12-03 12:46:13
+2020,1408,Strategy and Management,1,GU,2025-12-03 12:46:13
+2020,1706,Computer Science Applications,1,GU,2025-12-03 12:46:13
+2020,1904,Earth-Surface Processes,1,GU,2025-12-03 12:46:13
+2020,2105,"Renewable Energy, Sustainability and the Environment",1,GU,2025-12-03 12:46:13
+2020,2202,Aerospace Engineering,1,GU,2025-12-03 12:46:13
+2020,2305,Environmental Engineering,1,GU,2025-12-03 12:46:13
+2020,2308,"Management, Monitoring, Policy and Law",1,GU,2025-12-03 12:46:13
+2020,2312,Water Science and Technology,1,GU,2025-12-03 12:46:13
+2020,2403,Immunology,1,GU,2025-12-03 12:46:13
+2020,2502,Biomaterials,1,GU,2025-12-03 12:46:13
+2020,2611,Modeling and Simulation,1,GU,2025-12-03 12:46:13
+2020,2705,Cardiology and Cardiovascular Medicine,1,GU,2025-12-03 12:46:13
+2020,2739,"Public Health, Environmental and Occupational Health",1,GU,2025-12-03 12:46:13
+2020,3202,Applied Psychology,1,GU,2025-12-03 12:46:13
+2020,3204,Developmental and Educational Psychology,1,GU,2025-12-03 12:46:13
+2020,3306,Health,1,GU,2025-12-03 12:46:13
+2020,3311,Safety Research,1,GU,2025-12-03 12:46:13
+2020,3314,Anthropology,1,GU,2025-12-03 12:46:13
+2020,3506,Periodontics,1,GU,2025-12-03 12:46:13
+2021,2303,Ecology,34,GU,2025-12-03 12:46:13
+2021,3312,Sociology and Political Science,24,GU,2025-12-03 12:46:13
+2021,2306,Global and Planetary Change,18,GU,2025-12-03 12:46:13
+2021,1105,"Ecology, Evolution, Behavior and Systematics",17,GU,2025-12-03 12:46:13
+2021,3304,Education,13,GU,2025-12-03 12:46:13
+2021,1910,Oceanography,12,GU,2025-12-03 12:46:13
+2021,1110,Plant Science,9,GU,2025-12-03 12:46:13
+2021,2309,Nature and Landscape Conservation,9,GU,2025-12-03 12:46:13
+2021,1312,Molecular Biology,8,GU,2025-12-03 12:46:13
+2021,1311,Genetics,7,GU,2025-12-03 12:46:13
+2021,1305,Biotechnology,6,GU,2025-12-03 12:46:13
+2021,3305,"Geography, Planning and Development",6,GU,2025-12-03 12:46:13
+2021,3315,Communication,6,GU,2025-12-03 12:46:13
+2021,2302,Ecological Modeling,5,GU,2025-12-03 12:46:13
+2021,1306,Cancer Research,4,GU,2025-12-03 12:46:13
+2021,3203,Clinical Psychology,4,GU,2025-12-03 12:46:13
+2021,3317,Demography,4,GU,2025-12-03 12:46:13
+2021,3320,Political Science and International Relations,4,GU,2025-12-03 12:46:13
+2021,1702,Artificial Intelligence,3,GU,2025-12-03 12:46:13
+2021,1911,Paleontology,3,GU,2025-12-03 12:46:13
+2021,3207,Social Psychology,3,GU,2025-12-03 12:46:13
+2021,3600,General Health Professions,3,GU,2025-12-03 12:46:13
+2021,1104,Aquatic Science,2,GU,2025-12-03 12:46:13
+2021,1108,Horticulture,2,GU,2025-12-03 12:46:13
+2021,1710,Information Systems,2,GU,2025-12-03 12:46:13
+2021,2002,Economics and Econometrics,2,GU,2025-12-03 12:46:13
+2021,2502,Biomaterials,2,GU,2025-12-03 12:46:13
+2021,2725,Infectious Diseases,2,GU,2025-12-03 12:46:13
+2021,2736,Pharmacology,2,GU,2025-12-03 12:46:13
+2021,2739,"Public Health, Environmental and Occupational Health",2,GU,2025-12-03 12:46:13
+2021,3313,Transportation,2,GU,2025-12-03 12:46:13
+2021,1109,Insect Science,1,GU,2025-12-03 12:46:13
+2021,1111,Soil Science,1,GU,2025-12-03 12:46:13
+2021,1203,Language and Linguistics,1,GU,2025-12-03 12:46:13
+2021,1204,Archeology,1,GU,2025-12-03 12:46:13
+2021,1208,Literature and Literary Theory,1,GU,2025-12-03 12:46:13
+2021,1213,Visual Arts and Performing Arts,1,GU,2025-12-03 12:46:13
+2021,1402,Accounting,1,GU,2025-12-03 12:46:13
+2021,1404,Management Information Systems,1,GU,2025-12-03 12:46:13
+2021,1406,Marketing,1,GU,2025-12-03 12:46:13
+2021,1407,Organizational Behavior and Human Resource Management,1,GU,2025-12-03 12:46:13
+2021,1408,Strategy and Management,1,GU,2025-12-03 12:46:13
+2021,1605,Organic Chemistry,1,GU,2025-12-03 12:46:13
+2021,1706,Computer Science Applications,1,GU,2025-12-03 12:46:13
+2021,1709,Human-Computer Interaction,1,GU,2025-12-03 12:46:13
+2021,1902,Atmospheric Science,1,GU,2025-12-03 12:46:13
+2021,2000,"General Economics, Econometrics and Finance",1,GU,2025-12-03 12:46:13
+2021,2105,"Renewable Energy, Sustainability and the Environment",1,GU,2025-12-03 12:46:13
+2021,2304,Environmental Chemistry,1,GU,2025-12-03 12:46:13
+2021,2308,"Management, Monitoring, Policy and Law",1,GU,2025-12-03 12:46:13
+2021,2311,Industrial and Manufacturing Engineering,1,GU,2025-12-03 12:46:13
+2021,2312,Water Science and Technology,1,GU,2025-12-03 12:46:13
+2021,2403,Immunology,1,GU,2025-12-03 12:46:13
+2021,2405,Parasitology,1,GU,2025-12-03 12:46:13
+2021,2406,Virology,1,GU,2025-12-03 12:46:13
+2021,2735,"Pediatrics, Perinatology and Child Health",1,GU,2025-12-03 12:46:13
+2021,2746,Surgery,1,GU,2025-12-03 12:46:13
+2021,3204,Developmental and Educational Psychology,1,GU,2025-12-03 12:46:13
+2021,3303,Development,1,GU,2025-12-03 12:46:13
+2021,3306,Health,1,GU,2025-12-03 12:46:13
+2021,3308,Law,1,GU,2025-12-03 12:46:13
+2021,3309,Library and Information Sciences,1,GU,2025-12-03 12:46:13
+2021,3311,Safety Research,1,GU,2025-12-03 12:46:13
+2021,3314,Anthropology,1,GU,2025-12-03 12:46:13
+2021,3316,Cultural Studies,1,GU,2025-12-03 12:46:13
+2021,3318,Gender Studies,1,GU,2025-12-03 12:46:13
+2021,3404,Small Animals,1,GU,2025-12-03 12:46:13
+2021,3504,Oral Surgery,1,GU,2025-12-03 12:46:13
+2021,3506,Periodontics,1,GU,2025-12-03 12:46:13
+2022,2303,Ecology,42,GU,2025-12-03 12:46:13
+2022,3312,Sociology and Political Science,23,GU,2025-12-03 12:46:13
+2022,2306,Global and Planetary Change,22,GU,2025-12-03 12:46:13
+2022,1910,Oceanography,19,GU,2025-12-03 12:46:13
+2022,1312,Molecular Biology,18,GU,2025-12-03 12:46:13
+2022,1105,"Ecology, Evolution, Behavior and Systematics",10,GU,2025-12-03 12:46:13
+2022,1911,Paleontology,10,GU,2025-12-03 12:46:13
+2022,1110,Plant Science,9,GU,2025-12-03 12:46:13
+2022,3305,"Geography, Planning and Development",9,GU,2025-12-03 12:46:13
+2022,2309,Nature and Landscape Conservation,6,GU,2025-12-03 12:46:13
+2022,2502,Biomaterials,6,GU,2025-12-03 12:46:13
+2022,3304,Education,6,GU,2025-12-03 12:46:13
+2022,3317,Demography,6,GU,2025-12-03 12:46:13
+2022,3203,Clinical Psychology,4,GU,2025-12-03 12:46:13
+2022,3314,Anthropology,4,GU,2025-12-03 12:46:13
+2022,3320,Political Science and International Relations,4,GU,2025-12-03 12:46:13
+2022,1109,Insect Science,3,GU,2025-12-03 12:46:13
+2022,1311,Genetics,3,GU,2025-12-03 12:46:13
+2022,2105,"Renewable Energy, Sustainability and the Environment",3,GU,2025-12-03 12:46:13
+2022,2304,Environmental Chemistry,3,GU,2025-12-03 12:46:13
+2022,2403,Immunology,3,GU,2025-12-03 12:46:13
+2022,3306,Health,3,GU,2025-12-03 12:46:13
+2022,3600,General Health Professions,3,GU,2025-12-03 12:46:13
+2022,1104,Aquatic Science,2,GU,2025-12-03 12:46:13
+2022,1305,Biotechnology,2,GU,2025-12-03 12:46:13
+2022,1310,Endocrinology,2,GU,2025-12-03 12:46:13
+2022,1407,Organizational Behavior and Human Resource Management,2,GU,2025-12-03 12:46:13
+2022,1802,Information Systems and Management,2,GU,2025-12-03 12:46:13
+2022,1902,Atmospheric Science,2,GU,2025-12-03 12:46:13
+2022,2212,Ocean Engineering,2,GU,2025-12-03 12:46:13
+2022,2302,Ecological Modeling,2,GU,2025-12-03 12:46:13
+2022,2739,"Public Health, Environmental and Occupational Health",2,GU,2025-12-03 12:46:13
+2022,3205,Experimental and Cognitive Psychology,2,GU,2025-12-03 12:46:13
+2022,3315,Communication,2,GU,2025-12-03 12:46:13
+2022,3316,Cultural Studies,2,GU,2025-12-03 12:46:13
+2022,1100,General Agricultural and Biological Sciences,1,GU,2025-12-03 12:46:13
+2022,1106,Food Science,1,GU,2025-12-03 12:46:13
+2022,1108,Horticulture,1,GU,2025-12-03 12:46:13
+2022,1206,Conservation,1,GU,2025-12-03 12:46:13
+2022,1208,Literature and Literary Theory,1,GU,2025-12-03 12:46:13
+2022,1307,Cell Biology,1,GU,2025-12-03 12:46:13
+2022,1314,Physiology,1,GU,2025-12-03 12:46:13
+2022,1605,Organic Chemistry,1,GU,2025-12-03 12:46:13
+2022,1702,Artificial Intelligence,1,GU,2025-12-03 12:46:13
+2022,1705,Computer Networks and Communications,1,GU,2025-12-03 12:46:13
+2022,2211,Mechanics of Materials,1,GU,2025-12-03 12:46:13
+2022,2215,Building and Construction,1,GU,2025-12-03 12:46:13
+2022,2305,Environmental Engineering,1,GU,2025-12-03 12:46:13
+2022,2307,"Health, Toxicology and Mutagenesis",1,GU,2025-12-03 12:46:13
+2022,2308,"Management, Monitoring, Policy and Law",1,GU,2025-12-03 12:46:13
+2022,2402,Applied Microbiology and Biotechnology,1,GU,2025-12-03 12:46:13
+2022,2507,Polymers and Plastics,1,GU,2025-12-03 12:46:13
+2022,2611,Modeling and Simulation,1,GU,2025-12-03 12:46:13
+2022,2705,Cardiology and Cardiovascular Medicine,1,GU,2025-12-03 12:46:13
+2022,2713,Epidemiology,1,GU,2025-12-03 12:46:13
+2022,2736,Pharmacology,1,GU,2025-12-03 12:46:13
+2022,2916,Nutrition and Dietetics,1,GU,2025-12-03 12:46:13
+2022,3103,Astronomy and Astrophysics,1,GU,2025-12-03 12:46:13
+2022,3303,Development,1,GU,2025-12-03 12:46:13
+2022,3307,Human Factors and Ergonomics,1,GU,2025-12-03 12:46:13
+2022,3308,Law,1,GU,2025-12-03 12:46:13
+2022,3313,Transportation,1,GU,2025-12-03 12:46:13
+2022,3614,Radiological and Ultrasound Technology,1,GU,2025-12-03 12:46:13
+2023,2303,Ecology,45,GU,2025-12-03 12:46:13
+2023,2306,Global and Planetary Change,28,GU,2025-12-03 12:46:13
+2023,1910,Oceanography,24,GU,2025-12-03 12:46:13
+2023,3312,Sociology and Political Science,16,GU,2025-12-03 12:46:13
+2023,1312,Molecular Biology,14,GU,2025-12-03 12:46:13
+2023,1105,"Ecology, Evolution, Behavior and Systematics",13,GU,2025-12-03 12:46:13
+2023,1110,Plant Science,11,GU,2025-12-03 12:46:13
+2023,3304,Education,11,GU,2025-12-03 12:46:13
+2023,2309,Nature and Landscape Conservation,8,GU,2025-12-03 12:46:13
+2023,1311,Genetics,7,GU,2025-12-03 12:46:13
+2023,1710,Information Systems,5,GU,2025-12-03 12:46:13
+2023,3305,"Geography, Planning and Development",5,GU,2025-12-03 12:46:13
+2023,1104,Aquatic Science,4,GU,2025-12-03 12:46:13
+2023,1106,Food Science,4,GU,2025-12-03 12:46:13
+2023,1109,Insect Science,4,GU,2025-12-03 12:46:13
+2023,1305,Biotechnology,4,GU,2025-12-03 12:46:13
+2023,1911,Paleontology,4,GU,2025-12-03 12:46:13
+2023,2403,Immunology,4,GU,2025-12-03 12:46:13
+2023,3317,Demography,4,GU,2025-12-03 12:46:13
+2023,1907,Geology,3,GU,2025-12-03 12:46:13
+2023,1908,Geophysics,3,GU,2025-12-03 12:46:13
+2023,2502,Biomaterials,3,GU,2025-12-03 12:46:13
+2023,1211,Philosophy,2,GU,2025-12-03 12:46:13
+2023,1406,Marketing,2,GU,2025-12-03 12:46:13
+2023,1702,Artificial Intelligence,2,GU,2025-12-03 12:46:13
+2023,1802,Information Systems and Management,2,GU,2025-12-03 12:46:13
+2023,1902,Atmospheric Science,2,GU,2025-12-03 12:46:13
+2023,2002,Economics and Econometrics,2,GU,2025-12-03 12:46:13
+2023,2302,Ecological Modeling,2,GU,2025-12-03 12:46:13
+2023,2308,"Management, Monitoring, Policy and Law",2,GU,2025-12-03 12:46:13
+2023,1111,Soil Science,1,GU,2025-12-03 12:46:13
+2023,1204,Archeology,1,GU,2025-12-03 12:46:13
+2023,1306,Cancer Research,1,GU,2025-12-03 12:46:13
+2023,1308,Clinical Biochemistry,1,GU,2025-12-03 12:46:13
+2023,1402,Accounting,1,GU,2025-12-03 12:46:13
+2023,1403,Business and International Management,1,GU,2025-12-03 12:46:13
+2023,1407,Organizational Behavior and Human Resource Management,1,GU,2025-12-03 12:46:13
+2023,1706,Computer Science Applications,1,GU,2025-12-03 12:46:13
+2023,2208,Electrical and Electronic Engineering,1,GU,2025-12-03 12:46:13
+2023,2210,Mechanical Engineering,1,GU,2025-12-03 12:46:13
+2023,2212,Ocean Engineering,1,GU,2025-12-03 12:46:13
+2023,2405,Parasitology,1,GU,2025-12-03 12:46:13
+2023,2611,Modeling and Simulation,1,GU,2025-12-03 12:46:13
+2023,2708,Dermatology,1,GU,2025-12-03 12:46:13
+2023,2725,Infectious Diseases,1,GU,2025-12-03 12:46:13
+2023,2735,"Pediatrics, Perinatology and Child Health",1,GU,2025-12-03 12:46:13
+2023,2736,Pharmacology,1,GU,2025-12-03 12:46:13
+2023,2804,Cellular and Molecular Neuroscience,1,GU,2025-12-03 12:46:13
+2023,3203,Clinical Psychology,1,GU,2025-12-03 12:46:13
+2023,3204,Developmental and Educational Psychology,1,GU,2025-12-03 12:46:13
+2023,3207,Social Psychology,1,GU,2025-12-03 12:46:13
+2023,3306,Health,1,GU,2025-12-03 12:46:13
+2023,3311,Safety Research,1,GU,2025-12-03 12:46:13
+2023,3313,Transportation,1,GU,2025-12-03 12:46:13
+2023,3315,Communication,1,GU,2025-12-03 12:46:13
+2023,3316,Cultural Studies,1,GU,2025-12-03 12:46:13
+2023,3320,Political Science and International Relations,1,GU,2025-12-03 12:46:13
+2023,3600,General Health Professions,1,GU,2025-12-03 12:46:13
+2023,3604,Emergency Medical Services,1,GU,2025-12-03 12:46:13
+2024,2303,Ecology,35,GU,2025-12-03 12:46:13
+2024,2306,Global and Planetary Change,23,GU,2025-12-03 12:46:13
+2024,1910,Oceanography,16,GU,2025-12-03 12:46:13
+2024,2309,Nature and Landscape Conservation,14,GU,2025-12-03 12:46:13
+2024,1105,"Ecology, Evolution, Behavior and Systematics",11,GU,2025-12-03 12:46:13
+2024,1312,Molecular Biology,11,GU,2025-12-03 12:46:13
+2024,1110,Plant Science,10,GU,2025-12-03 12:46:13
+2024,1911,Paleontology,8,GU,2025-12-03 12:46:13
+2024,3312,Sociology and Political Science,8,GU,2025-12-03 12:46:13
+2024,1311,Genetics,5,GU,2025-12-03 12:46:13
+2024,3207,Social Psychology,5,GU,2025-12-03 12:46:13
+2024,2308,"Management, Monitoring, Policy and Law",4,GU,2025-12-03 12:46:13
+2024,1109,Insect Science,3,GU,2025-12-03 12:46:13
+2024,1309,Developmental Biology,3,GU,2025-12-03 12:46:13
+2024,1902,Atmospheric Science,3,GU,2025-12-03 12:46:13
+2024,3304,Education,3,GU,2025-12-03 12:46:13
+2024,1104,Aquatic Science,2,GU,2025-12-03 12:46:13
+2024,1305,Biotechnology,2,GU,2025-12-03 12:46:13
+2024,2304,Environmental Chemistry,2,GU,2025-12-03 12:46:13
+2024,2403,Immunology,2,GU,2025-12-03 12:46:13
+2024,2502,Biomaterials,2,GU,2025-12-03 12:46:13
+2024,3203,Clinical Psychology,2,GU,2025-12-03 12:46:13
+2024,3305,"Geography, Planning and Development",2,GU,2025-12-03 12:46:13
+2024,1100,General Agricultural and Biological Sciences,1,GU,2025-12-03 12:46:13
+2024,1106,Food Science,1,GU,2025-12-03 12:46:13
+2024,1108,Horticulture,1,GU,2025-12-03 12:46:13
+2024,1111,Soil Science,1,GU,2025-12-03 12:46:13
+2024,1204,Archeology,1,GU,2025-12-03 12:46:13
+2024,1306,Cancer Research,1,GU,2025-12-03 12:46:13
+2024,1307,Cell Biology,1,GU,2025-12-03 12:46:13
+2024,1310,Endocrinology,1,GU,2025-12-03 12:46:13
+2024,1709,Human-Computer Interaction,1,GU,2025-12-03 12:46:13
+2024,2205,Civil and Structural Engineering,1,GU,2025-12-03 12:46:13
+2024,2210,Mechanical Engineering,1,GU,2025-12-03 12:46:13
+2024,2212,Ocean Engineering,1,GU,2025-12-03 12:46:13
+2024,2302,Ecological Modeling,1,GU,2025-12-03 12:46:13
+2024,2311,Industrial and Manufacturing Engineering,1,GU,2025-12-03 12:46:13
+2024,2707,Complementary and alternative medicine,1,GU,2025-12-03 12:46:13
+2024,2727,Nephrology,1,GU,2025-12-03 12:46:13
+2024,2733,Otorhinolaryngology,1,GU,2025-12-03 12:46:13
+2024,2734,Pathology and Forensic Medicine,1,GU,2025-12-03 12:46:13
+2024,2736,Pharmacology,1,GU,2025-12-03 12:46:13
+2024,2916,Nutrition and Dietetics,1,GU,2025-12-03 12:46:13
+2024,3004,Pharmacology,1,GU,2025-12-03 12:46:13
+2024,3311,Safety Research,1,GU,2025-12-03 12:46:13
+2024,3316,Cultural Studies,1,GU,2025-12-03 12:46:13
+2024,3506,Periodontics,1,GU,2025-12-03 12:46:13
+2025,2303,Ecology,28,GU,2025-12-03 12:46:13
+2025,2306,Global and Planetary Change,15,GU,2025-12-03 12:46:13
+2025,1910,Oceanography,10,GU,2025-12-03 12:46:13
+2025,1312,Molecular Biology,8,GU,2025-12-03 12:46:13
+2025,3312,Sociology and Political Science,8,GU,2025-12-03 12:46:13
+2025,1105,"Ecology, Evolution, Behavior and Systematics",7,GU,2025-12-03 12:46:13
+2025,1311,Genetics,7,GU,2025-12-03 12:46:13
+2025,2309,Nature and Landscape Conservation,5,GU,2025-12-03 12:46:13
+2025,1110,Plant Science,4,GU,2025-12-03 12:46:13
+2025,1911,Paleontology,4,GU,2025-12-03 12:46:13
+2025,2308,"Management, Monitoring, Policy and Law",3,GU,2025-12-03 12:46:13
+2025,3305,"Geography, Planning and Development",3,GU,2025-12-03 12:46:13
+2025,1109,Insect Science,2,GU,2025-12-03 12:46:13
+2025,1305,Biotechnology,2,GU,2025-12-03 12:46:13
+2025,1408,Strategy and Management,2,GU,2025-12-03 12:46:13
+2025,2403,Immunology,2,GU,2025-12-03 12:46:13
+2025,2502,Biomaterials,2,GU,2025-12-03 12:46:13
+2025,2804,Cellular and Molecular Neuroscience,2,GU,2025-12-03 12:46:13
+2025,3304,Education,2,GU,2025-12-03 12:46:13
+2025,3320,Political Science and International Relations,2,GU,2025-12-03 12:46:13
+2025,1100,General Agricultural and Biological Sciences,1,GU,2025-12-03 12:46:13
+2025,1106,Food Science,1,GU,2025-12-03 12:46:13
+2025,1108,Horticulture,1,GU,2025-12-03 12:46:13
+2025,1207,History and Philosophy of Science,1,GU,2025-12-03 12:46:13
+2025,1406,Marketing,1,GU,2025-12-03 12:46:13
+2025,1710,Information Systems,1,GU,2025-12-03 12:46:13
+2025,2003,Finance,1,GU,2025-12-03 12:46:13
+2025,2405,Parasitology,1,GU,2025-12-03 12:46:13
+2025,2808,Neurology,1,GU,2025-12-03 12:46:13
+2025,3203,Clinical Psychology,1,GU,2025-12-03 12:46:13
+2025,3207,Social Psychology,1,GU,2025-12-03 12:46:13
+2025,3317,Demography,1,GU,2025-12-03 12:46:13
+2025,3600,General Health Professions,1,GU,2025-12-03 12:46:13
+2025,3614,Radiological and Ultrasound Technology,1,GU,2025-12-03 12:46:13

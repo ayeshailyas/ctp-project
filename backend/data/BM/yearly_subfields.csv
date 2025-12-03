@@ -1,508 +1,508 @@
 year,id,name,works_count,country,fetch_date
-2005,1705,Computer Networks and Communications,8,BM,2025-12-01 19:11:51
-2005,1710,Information Systems,8,BM,2025-12-01 19:11:51
-2005,2303,Ecology,8,BM,2025-12-01 19:11:51
-2005,1910,Oceanography,6,BM,2025-12-01 19:11:51
-2005,1702,Artificial Intelligence,4,BM,2025-12-01 19:11:51
-2005,1902,Atmospheric Science,4,BM,2025-12-01 19:11:51
-2005,2304,Environmental Chemistry,3,BM,2025-12-01 19:11:51
-2005,2306,Global and Planetary Change,3,BM,2025-12-01 19:11:51
-2005,1312,Molecular Biology,2,BM,2025-12-01 19:11:51
-2005,1711,Signal Processing,2,BM,2025-12-01 19:11:51
-2005,1712,Software,2,BM,2025-12-01 19:11:51
-2005,2208,Electrical and Electronic Engineering,2,BM,2025-12-01 19:11:51
-2005,2309,Nature and Landscape Conservation,2,BM,2025-12-01 19:11:51
-2005,1104,Aquatic Science,1,BM,2025-12-01 19:11:51
-2005,1110,Plant Science,1,BM,2025-12-01 19:11:51
-2005,1404,Management Information Systems,1,BM,2025-12-01 19:11:51
-2005,1508,Process Chemistry and Technology,1,BM,2025-12-01 19:11:51
-2005,1708,Hardware and Architecture,1,BM,2025-12-01 19:11:51
-2005,1904,Earth-Surface Processes,1,BM,2025-12-01 19:11:51
-2005,1906,Geochemistry and Petrology,1,BM,2025-12-01 19:11:51
-2005,2210,Mechanical Engineering,1,BM,2025-12-01 19:11:51
-2005,2403,Immunology,1,BM,2025-12-01 19:11:51
-2005,3312,Sociology and Political Science,1,BM,2025-12-01 19:11:51
-2006,1705,Computer Networks and Communications,13,BM,2025-12-01 19:11:51
-2006,1710,Information Systems,11,BM,2025-12-01 19:11:51
-2006,1910,Oceanography,11,BM,2025-12-01 19:11:51
-2006,2303,Ecology,8,BM,2025-12-01 19:11:51
-2006,1702,Artificial Intelligence,7,BM,2025-12-01 19:11:51
-2006,1902,Atmospheric Science,6,BM,2025-12-01 19:11:51
-2006,2306,Global and Planetary Change,5,BM,2025-12-01 19:11:51
-2006,1711,Signal Processing,4,BM,2025-12-01 19:11:51
-2006,1712,Software,4,BM,2025-12-01 19:11:51
-2006,2208,Electrical and Electronic Engineering,3,BM,2025-12-01 19:11:51
-2006,1105,"Ecology, Evolution, Behavior and Systematics",2,BM,2025-12-01 19:11:51
-2006,1312,Molecular Biology,2,BM,2025-12-01 19:11:51
-2006,2210,Mechanical Engineering,2,BM,2025-12-01 19:11:51
-2006,2310,Pollution,2,BM,2025-12-01 19:11:51
-2006,1104,Aquatic Science,1,BM,2025-12-01 19:11:51
-2006,1109,Insect Science,1,BM,2025-12-01 19:11:51
-2006,1311,Genetics,1,BM,2025-12-01 19:11:51
-2006,1404,Management Information Systems,1,BM,2025-12-01 19:11:51
-2006,1703,Computational Theory and Mathematics,1,BM,2025-12-01 19:11:51
-2006,1707,Computer Vision and Pattern Recognition,1,BM,2025-12-01 19:11:51
-2006,1708,Hardware and Architecture,1,BM,2025-12-01 19:11:51
-2006,1709,Human-Computer Interaction,1,BM,2025-12-01 19:11:51
-2006,1802,Information Systems and Management,1,BM,2025-12-01 19:11:51
-2006,1803,Management Science and Operations Research,1,BM,2025-12-01 19:11:51
-2006,1904,Earth-Surface Processes,1,BM,2025-12-01 19:11:51
-2006,1908,Geophysics,1,BM,2025-12-01 19:11:51
-2006,2304,Environmental Chemistry,1,BM,2025-12-01 19:11:51
-2006,2307,"Health, Toxicology and Mutagenesis",1,BM,2025-12-01 19:11:51
-2006,2309,Nature and Landscape Conservation,1,BM,2025-12-01 19:11:51
-2006,2713,Epidemiology,1,BM,2025-12-01 19:11:51
-2006,3303,Development,1,BM,2025-12-01 19:11:51
-2006,3312,Sociology and Political Science,1,BM,2025-12-01 19:11:51
-2007,1910,Oceanography,23,BM,2025-12-01 19:11:51
-2007,2303,Ecology,18,BM,2025-12-01 19:11:51
-2007,1705,Computer Networks and Communications,10,BM,2025-12-01 19:11:51
-2007,1710,Information Systems,9,BM,2025-12-01 19:11:51
-2007,1702,Artificial Intelligence,7,BM,2025-12-01 19:11:51
-2007,1902,Atmospheric Science,7,BM,2025-12-01 19:11:51
-2007,2306,Global and Planetary Change,4,BM,2025-12-01 19:11:51
-2007,2304,Environmental Chemistry,3,BM,2025-12-01 19:11:51
-2007,2309,Nature and Landscape Conservation,3,BM,2025-12-01 19:11:51
-2007,1104,Aquatic Science,2,BM,2025-12-01 19:11:51
-2007,1404,Management Information Systems,2,BM,2025-12-01 19:11:51
-2007,1707,Computer Vision and Pattern Recognition,2,BM,2025-12-01 19:11:51
-2007,1709,Human-Computer Interaction,2,BM,2025-12-01 19:11:51
-2007,1712,Software,2,BM,2025-12-01 19:11:51
-2007,1904,Earth-Surface Processes,2,BM,2025-12-01 19:11:51
-2007,2208,Electrical and Electronic Engineering,2,BM,2025-12-01 19:11:51
-2007,1102,Agronomy and Crop Science,1,BM,2025-12-01 19:11:51
-2007,1706,Computer Science Applications,1,BM,2025-12-01 19:11:51
-2007,1802,Information Systems and Management,1,BM,2025-12-01 19:11:51
-2007,1804,"Statistics, Probability and Uncertainty",1,BM,2025-12-01 19:11:51
-2007,1908,Geophysics,1,BM,2025-12-01 19:11:51
-2007,2212,Ocean Engineering,1,BM,2025-12-01 19:11:51
-2007,2311,Industrial and Manufacturing Engineering,1,BM,2025-12-01 19:11:51
-2007,2312,Water Science and Technology,1,BM,2025-12-01 19:11:51
-2007,2613,Statistics and Probability,1,BM,2025-12-01 19:11:51
-2007,3312,Sociology and Political Science,1,BM,2025-12-01 19:11:51
-2007,3315,Communication,1,BM,2025-12-01 19:11:51
-2007,3404,Small Animals,1,BM,2025-12-01 19:11:51
-2008,1910,Oceanography,21,BM,2025-12-01 19:11:51
-2008,1705,Computer Networks and Communications,20,BM,2025-12-01 19:11:51
-2008,2306,Global and Planetary Change,17,BM,2025-12-01 19:11:51
-2008,2303,Ecology,16,BM,2025-12-01 19:11:51
-2008,1710,Information Systems,13,BM,2025-12-01 19:11:51
-2008,1702,Artificial Intelligence,6,BM,2025-12-01 19:11:51
-2008,1902,Atmospheric Science,6,BM,2025-12-01 19:11:51
-2008,3312,Sociology and Political Science,5,BM,2025-12-01 19:11:51
-2008,2309,Nature and Landscape Conservation,4,BM,2025-12-01 19:11:51
-2008,1712,Software,3,BM,2025-12-01 19:11:51
-2008,2208,Electrical and Electronic Engineering,3,BM,2025-12-01 19:11:51
-2008,1105,"Ecology, Evolution, Behavior and Systematics",2,BM,2025-12-01 19:11:51
-2008,1706,Computer Science Applications,2,BM,2025-12-01 19:11:51
-2008,1711,Signal Processing,2,BM,2025-12-01 19:11:51
-2008,1906,Geochemistry and Petrology,2,BM,2025-12-01 19:11:51
-2008,2610,Mathematical Physics,2,BM,2025-12-01 19:11:51
-2008,2613,Statistics and Probability,2,BM,2025-12-01 19:11:51
-2008,3404,Small Animals,2,BM,2025-12-01 19:11:51
-2008,1104,Aquatic Science,1,BM,2025-12-01 19:11:51
-2008,1110,Plant Science,1,BM,2025-12-01 19:11:51
-2008,1306,Cancer Research,1,BM,2025-12-01 19:11:51
-2008,1312,Molecular Biology,1,BM,2025-12-01 19:11:51
-2008,1404,Management Information Systems,1,BM,2025-12-01 19:11:51
-2008,1703,Computational Theory and Mathematics,1,BM,2025-12-01 19:11:51
-2008,1707,Computer Vision and Pattern Recognition,1,BM,2025-12-01 19:11:51
-2008,1708,Hardware and Architecture,1,BM,2025-12-01 19:11:51
-2008,1709,Human-Computer Interaction,1,BM,2025-12-01 19:11:51
-2008,1802,Information Systems and Management,1,BM,2025-12-01 19:11:51
-2008,1904,Earth-Surface Processes,1,BM,2025-12-01 19:11:51
-2008,1908,Geophysics,1,BM,2025-12-01 19:11:51
-2008,1911,Paleontology,1,BM,2025-12-01 19:11:51
-2008,2105,"Renewable Energy, Sustainability and the Environment",1,BM,2025-12-01 19:11:51
-2008,2207,Control and Systems Engineering,1,BM,2025-12-01 19:11:51
-2008,2302,Ecological Modeling,1,BM,2025-12-01 19:11:51
-2008,2304,Environmental Chemistry,1,BM,2025-12-01 19:11:51
-2008,2307,"Health, Toxicology and Mutagenesis",1,BM,2025-12-01 19:11:51
-2008,2308,"Management, Monitoring, Policy and Law",1,BM,2025-12-01 19:11:51
-2008,2916,Nutrition and Dietetics,1,BM,2025-12-01 19:11:51
-2009,1910,Oceanography,25,BM,2025-12-01 19:11:51
-2009,1705,Computer Networks and Communications,16,BM,2025-12-01 19:11:51
-2009,1710,Information Systems,15,BM,2025-12-01 19:11:51
-2009,2306,Global and Planetary Change,15,BM,2025-12-01 19:11:51
-2009,2303,Ecology,10,BM,2025-12-01 19:11:51
-2009,1902,Atmospheric Science,6,BM,2025-12-01 19:11:51
-2009,2304,Environmental Chemistry,5,BM,2025-12-01 19:11:51
-2009,1706,Computer Science Applications,4,BM,2025-12-01 19:11:51
-2009,1712,Software,4,BM,2025-12-01 19:11:51
-2009,2208,Electrical and Electronic Engineering,4,BM,2025-12-01 19:11:51
-2009,1312,Molecular Biology,3,BM,2025-12-01 19:11:51
-2009,1906,Geochemistry and Petrology,3,BM,2025-12-01 19:11:51
-2009,1707,Computer Vision and Pattern Recognition,2,BM,2025-12-01 19:11:51
-2009,1802,Information Systems and Management,2,BM,2025-12-01 19:11:51
-2009,2310,Pollution,2,BM,2025-12-01 19:11:51
-2009,1104,Aquatic Science,1,BM,2025-12-01 19:11:51
-2009,1110,Plant Science,1,BM,2025-12-01 19:11:51
-2009,1302,Aging,1,BM,2025-12-01 19:11:51
-2009,1311,Genetics,1,BM,2025-12-01 19:11:51
-2009,1604,Inorganic Chemistry,1,BM,2025-12-01 19:11:51
-2009,1702,Artificial Intelligence,1,BM,2025-12-01 19:11:51
-2009,1709,Human-Computer Interaction,1,BM,2025-12-01 19:11:51
-2009,1711,Signal Processing,1,BM,2025-12-01 19:11:51
-2009,1911,Paleontology,1,BM,2025-12-01 19:11:51
-2009,2204,Biomedical Engineering,1,BM,2025-12-01 19:11:51
-2009,2212,Ocean Engineering,1,BM,2025-12-01 19:11:51
-2009,2307,"Health, Toxicology and Mutagenesis",1,BM,2025-12-01 19:11:51
-2009,2502,Biomaterials,1,BM,2025-12-01 19:11:51
-2009,2737,Physiology,1,BM,2025-12-01 19:11:51
-2009,2916,Nutrition and Dietetics,1,BM,2025-12-01 19:11:51
-2009,3004,Pharmacology,1,BM,2025-12-01 19:11:51
-2009,3315,Communication,1,BM,2025-12-01 19:11:51
-2010,1910,Oceanography,22,BM,2025-12-01 19:11:51
-2010,2303,Ecology,19,BM,2025-12-01 19:11:51
-2010,2306,Global and Planetary Change,9,BM,2025-12-01 19:11:51
-2010,1705,Computer Networks and Communications,6,BM,2025-12-01 19:11:51
-2010,1710,Information Systems,4,BM,2025-12-01 19:11:51
-2010,1902,Atmospheric Science,4,BM,2025-12-01 19:11:51
-2010,1312,Molecular Biology,3,BM,2025-12-01 19:11:51
-2010,2304,Environmental Chemistry,3,BM,2025-12-01 19:11:51
-2010,2307,"Health, Toxicology and Mutagenesis",3,BM,2025-12-01 19:11:51
-2010,1105,"Ecology, Evolution, Behavior and Systematics",2,BM,2025-12-01 19:11:51
-2010,2208,Electrical and Electronic Engineering,2,BM,2025-12-01 19:11:51
-2010,2310,Pollution,2,BM,2025-12-01 19:11:51
-2010,3312,Sociology and Political Science,2,BM,2025-12-01 19:11:51
-2010,1104,Aquatic Science,1,BM,2025-12-01 19:11:51
-2010,1110,Plant Science,1,BM,2025-12-01 19:11:51
-2010,1311,Genetics,1,BM,2025-12-01 19:11:51
-2010,1702,Artificial Intelligence,1,BM,2025-12-01 19:11:51
-2010,1706,Computer Science Applications,1,BM,2025-12-01 19:11:51
-2010,1708,Hardware and Architecture,1,BM,2025-12-01 19:11:51
-2010,1709,Human-Computer Interaction,1,BM,2025-12-01 19:11:51
-2010,1712,Software,1,BM,2025-12-01 19:11:51
-2010,1904,Earth-Surface Processes,1,BM,2025-12-01 19:11:51
-2010,1906,Geochemistry and Petrology,1,BM,2025-12-01 19:11:51
-2010,2308,"Management, Monitoring, Policy and Law",1,BM,2025-12-01 19:11:51
-2010,2403,Immunology,1,BM,2025-12-01 19:11:51
-2010,2404,Microbiology,1,BM,2025-12-01 19:11:51
-2010,2405,Parasitology,1,BM,2025-12-01 19:11:51
-2010,3109,Statistical and Nonlinear Physics,1,BM,2025-12-01 19:11:51
-2011,1910,Oceanography,24,BM,2025-12-01 19:11:51
-2011,2303,Ecology,14,BM,2025-12-01 19:11:51
-2011,2306,Global and Planetary Change,11,BM,2025-12-01 19:11:51
-2011,1710,Information Systems,7,BM,2025-12-01 19:11:51
-2011,1705,Computer Networks and Communications,3,BM,2025-12-01 19:11:51
-2011,1902,Atmospheric Science,3,BM,2025-12-01 19:11:51
-2011,1712,Software,2,BM,2025-12-01 19:11:51
-2011,2304,Environmental Chemistry,2,BM,2025-12-01 19:11:51
-2011,2309,Nature and Landscape Conservation,2,BM,2025-12-01 19:11:51
-2011,3109,Statistical and Nonlinear Physics,2,BM,2025-12-01 19:11:51
-2011,1104,Aquatic Science,1,BM,2025-12-01 19:11:51
-2011,1312,Molecular Biology,1,BM,2025-12-01 19:11:51
-2011,1314,Physiology,1,BM,2025-12-01 19:11:51
-2011,1404,Management Information Systems,1,BM,2025-12-01 19:11:51
-2011,1702,Artificial Intelligence,1,BM,2025-12-01 19:11:51
-2011,1703,Computational Theory and Mathematics,1,BM,2025-12-01 19:11:51
-2011,1706,Computer Science Applications,1,BM,2025-12-01 19:11:51
-2011,1711,Signal Processing,1,BM,2025-12-01 19:11:51
-2011,1802,Information Systems and Management,1,BM,2025-12-01 19:11:51
-2011,2000,"General Economics, Econometrics and Finance",1,BM,2025-12-01 19:11:51
-2011,2207,Control and Systems Engineering,1,BM,2025-12-01 19:11:51
-2011,2310,Pollution,1,BM,2025-12-01 19:11:51
-2011,3315,Communication,1,BM,2025-12-01 19:11:51
-2012,1910,Oceanography,31,BM,2025-12-01 19:11:51
-2012,2303,Ecology,13,BM,2025-12-01 19:11:51
-2012,2306,Global and Planetary Change,10,BM,2025-12-01 19:11:51
-2012,2304,Environmental Chemistry,7,BM,2025-12-01 19:11:51
-2012,1710,Information Systems,6,BM,2025-12-01 19:11:51
-2012,1902,Atmospheric Science,6,BM,2025-12-01 19:11:51
-2012,1705,Computer Networks and Communications,4,BM,2025-12-01 19:11:51
-2012,1712,Software,4,BM,2025-12-01 19:11:51
-2012,1311,Genetics,3,BM,2025-12-01 19:11:51
-2012,2307,"Health, Toxicology and Mutagenesis",3,BM,2025-12-01 19:11:51
-2012,2310,Pollution,3,BM,2025-12-01 19:11:51
-2012,1105,"Ecology, Evolution, Behavior and Systematics",2,BM,2025-12-01 19:11:51
-2012,1312,Molecular Biology,2,BM,2025-12-01 19:11:51
-2012,1702,Artificial Intelligence,2,BM,2025-12-01 19:11:51
-2012,1706,Computer Science Applications,2,BM,2025-12-01 19:11:51
-2012,2309,Nature and Landscape Conservation,2,BM,2025-12-01 19:11:51
-2012,3109,Statistical and Nonlinear Physics,2,BM,2025-12-01 19:11:51
-2012,3315,Communication,2,BM,2025-12-01 19:11:51
-2012,1110,Plant Science,1,BM,2025-12-01 19:11:51
-2012,1508,Process Chemistry and Technology,1,BM,2025-12-01 19:11:51
-2012,1711,Signal Processing,1,BM,2025-12-01 19:11:51
-2012,1906,Geochemistry and Petrology,1,BM,2025-12-01 19:11:51
-2012,1911,Paleontology,1,BM,2025-12-01 19:11:51
-2012,2212,Ocean Engineering,1,BM,2025-12-01 19:11:51
-2012,2743,Reproductive Medicine,1,BM,2025-12-01 19:11:51
-2012,3107,"Atomic and Molecular Physics, and Optics",1,BM,2025-12-01 19:11:51
-2012,3312,Sociology and Political Science,1,BM,2025-12-01 19:11:51
-2013,1910,Oceanography,34,BM,2025-12-01 19:11:51
-2013,2303,Ecology,25,BM,2025-12-01 19:11:51
-2013,2306,Global and Planetary Change,16,BM,2025-12-01 19:11:51
-2013,1705,Computer Networks and Communications,7,BM,2025-12-01 19:11:51
-2013,1710,Information Systems,7,BM,2025-12-01 19:11:51
-2013,1902,Atmospheric Science,5,BM,2025-12-01 19:11:51
-2013,1105,"Ecology, Evolution, Behavior and Systematics",4,BM,2025-12-01 19:11:51
-2013,1312,Molecular Biology,4,BM,2025-12-01 19:11:51
-2013,1702,Artificial Intelligence,4,BM,2025-12-01 19:11:51
-2013,1906,Geochemistry and Petrology,4,BM,2025-12-01 19:11:51
-2013,2208,Electrical and Electronic Engineering,3,BM,2025-12-01 19:11:51
-2013,1109,Insect Science,2,BM,2025-12-01 19:11:51
-2013,1712,Software,2,BM,2025-12-01 19:11:51
-2013,2308,"Management, Monitoring, Policy and Law",2,BM,2025-12-01 19:11:51
-2013,3312,Sociology and Political Science,2,BM,2025-12-01 19:11:51
-2013,1104,Aquatic Science,1,BM,2025-12-01 19:11:51
-2013,1306,Cancer Research,1,BM,2025-12-01 19:11:51
-2013,1706,Computer Science Applications,1,BM,2025-12-01 19:11:51
-2013,1707,Computer Vision and Pattern Recognition,1,BM,2025-12-01 19:11:51
-2013,1802,Information Systems and Management,1,BM,2025-12-01 19:11:51
-2013,1907,Geology,1,BM,2025-12-01 19:11:51
-2013,1911,Paleontology,1,BM,2025-12-01 19:11:51
-2013,2304,Environmental Chemistry,1,BM,2025-12-01 19:11:51
-2013,2305,Environmental Engineering,1,BM,2025-12-01 19:11:51
-2013,2307,"Health, Toxicology and Mutagenesis",1,BM,2025-12-01 19:11:51
-2013,2310,Pollution,1,BM,2025-12-01 19:11:51
-2013,3300,General Social Sciences,1,BM,2025-12-01 19:11:51
-2013,3315,Communication,1,BM,2025-12-01 19:11:51
-2014,1910,Oceanography,24,BM,2025-12-01 19:11:51
-2014,1902,Atmospheric Science,17,BM,2025-12-01 19:11:51
-2014,2304,Environmental Chemistry,11,BM,2025-12-01 19:11:51
-2014,2303,Ecology,9,BM,2025-12-01 19:11:51
-2014,2306,Global and Planetary Change,6,BM,2025-12-01 19:11:51
-2014,1705,Computer Networks and Communications,4,BM,2025-12-01 19:11:51
-2014,1710,Information Systems,2,BM,2025-12-01 19:11:51
-2014,1712,Software,2,BM,2025-12-01 19:11:51
-2014,1906,Geochemistry and Petrology,2,BM,2025-12-01 19:11:51
-2014,2208,Electrical and Electronic Engineering,2,BM,2025-12-01 19:11:51
-2014,2307,"Health, Toxicology and Mutagenesis",2,BM,2025-12-01 19:11:51
-2014,2310,Pollution,2,BM,2025-12-01 19:11:51
-2014,1104,Aquatic Science,1,BM,2025-12-01 19:11:51
-2014,1708,Hardware and Architecture,1,BM,2025-12-01 19:11:51
-2014,1904,Earth-Surface Processes,1,BM,2025-12-01 19:11:51
-2014,2212,Ocean Engineering,1,BM,2025-12-01 19:11:51
-2014,2309,Nature and Landscape Conservation,1,BM,2025-12-01 19:11:51
-2015,1910,Oceanography,25,BM,2025-12-01 19:11:51
-2015,2303,Ecology,16,BM,2025-12-01 19:11:51
-2015,2306,Global and Planetary Change,14,BM,2025-12-01 19:11:51
-2015,1902,Atmospheric Science,13,BM,2025-12-01 19:11:51
-2015,1312,Molecular Biology,4,BM,2025-12-01 19:11:51
-2015,2309,Nature and Landscape Conservation,4,BM,2025-12-01 19:11:51
-2015,1104,Aquatic Science,3,BM,2025-12-01 19:11:51
-2015,1710,Information Systems,3,BM,2025-12-01 19:11:51
-2015,1904,Earth-Surface Processes,2,BM,2025-12-01 19:11:51
-2015,2212,Ocean Engineering,2,BM,2025-12-01 19:11:51
-2015,2304,Environmental Chemistry,2,BM,2025-12-01 19:11:51
-2015,1105,"Ecology, Evolution, Behavior and Systematics",1,BM,2025-12-01 19:11:51
-2015,1110,Plant Science,1,BM,2025-12-01 19:11:51
-2015,1304,Biophysics,1,BM,2025-12-01 19:11:51
-2015,1305,Biotechnology,1,BM,2025-12-01 19:11:51
-2015,1314,Physiology,1,BM,2025-12-01 19:11:51
-2015,1705,Computer Networks and Communications,1,BM,2025-12-01 19:11:51
-2015,1712,Software,1,BM,2025-12-01 19:11:51
-2015,1906,Geochemistry and Petrology,1,BM,2025-12-01 19:11:51
-2015,1908,Geophysics,1,BM,2025-12-01 19:11:51
-2015,1911,Paleontology,1,BM,2025-12-01 19:11:51
-2015,2214,Media Technology,1,BM,2025-12-01 19:11:51
-2015,2307,"Health, Toxicology and Mutagenesis",1,BM,2025-12-01 19:11:51
-2015,2311,Industrial and Manufacturing Engineering,1,BM,2025-12-01 19:11:51
-2015,2736,Pharmacology,1,BM,2025-12-01 19:11:51
-2015,3005,Toxicology,1,BM,2025-12-01 19:11:51
-2016,1910,Oceanography,24,BM,2025-12-01 19:11:51
-2016,2306,Global and Planetary Change,18,BM,2025-12-01 19:11:51
-2016,2303,Ecology,15,BM,2025-12-01 19:11:51
-2016,1902,Atmospheric Science,7,BM,2025-12-01 19:11:51
-2016,1312,Molecular Biology,4,BM,2025-12-01 19:11:51
-2016,2304,Environmental Chemistry,3,BM,2025-12-01 19:11:51
-2016,1911,Paleontology,2,BM,2025-12-01 19:11:51
-2016,2309,Nature and Landscape Conservation,2,BM,2025-12-01 19:11:51
-2016,1104,Aquatic Science,1,BM,2025-12-01 19:11:51
-2016,1105,"Ecology, Evolution, Behavior and Systematics",1,BM,2025-12-01 19:11:51
-2016,1311,Genetics,1,BM,2025-12-01 19:11:51
-2016,1605,Organic Chemistry,1,BM,2025-12-01 19:11:51
-2016,1710,Information Systems,1,BM,2025-12-01 19:11:51
-2016,1904,Earth-Surface Processes,1,BM,2025-12-01 19:11:51
-2016,1908,Geophysics,1,BM,2025-12-01 19:11:51
-2016,2206,Computational Mechanics,1,BM,2025-12-01 19:11:51
-2016,2212,Ocean Engineering,1,BM,2025-12-01 19:11:51
-2016,2305,Environmental Engineering,1,BM,2025-12-01 19:11:51
-2016,2308,"Management, Monitoring, Policy and Law",1,BM,2025-12-01 19:11:51
-2016,2311,Industrial and Manufacturing Engineering,1,BM,2025-12-01 19:11:51
-2016,2739,"Public Health, Environmental and Occupational Health",1,BM,2025-12-01 19:11:51
-2016,3207,Social Psychology,1,BM,2025-12-01 19:11:51
-2017,1910,Oceanography,27,BM,2025-12-01 19:11:51
-2017,2303,Ecology,24,BM,2025-12-01 19:11:51
-2017,2306,Global and Planetary Change,21,BM,2025-12-01 19:11:51
-2017,1902,Atmospheric Science,6,BM,2025-12-01 19:11:51
-2017,2309,Nature and Landscape Conservation,6,BM,2025-12-01 19:11:51
-2017,1312,Molecular Biology,4,BM,2025-12-01 19:11:51
-2017,1904,Earth-Surface Processes,2,BM,2025-12-01 19:11:51
-2017,2308,"Management, Monitoring, Policy and Law",2,BM,2025-12-01 19:11:51
-2017,1204,Archeology,1,BM,2025-12-01 19:11:51
-2017,1906,Geochemistry and Petrology,1,BM,2025-12-01 19:11:51
-2017,1911,Paleontology,1,BM,2025-12-01 19:11:51
-2017,2212,Ocean Engineering,1,BM,2025-12-01 19:11:51
-2017,2214,Media Technology,1,BM,2025-12-01 19:11:51
-2017,2307,"Health, Toxicology and Mutagenesis",1,BM,2025-12-01 19:11:51
-2017,2736,Pharmacology,1,BM,2025-12-01 19:11:51
-2017,3312,Sociology and Political Science,1,BM,2025-12-01 19:11:51
-2018,1910,Oceanography,25,BM,2025-12-01 19:11:51
-2018,2303,Ecology,15,BM,2025-12-01 19:11:51
-2018,2306,Global and Planetary Change,14,BM,2025-12-01 19:11:51
-2018,1902,Atmospheric Science,8,BM,2025-12-01 19:11:51
-2018,2304,Environmental Chemistry,3,BM,2025-12-01 19:11:51
-2018,2309,Nature and Landscape Conservation,3,BM,2025-12-01 19:11:51
-2018,1105,"Ecology, Evolution, Behavior and Systematics",1,BM,2025-12-01 19:11:51
-2018,1110,Plant Science,1,BM,2025-12-01 19:11:51
-2018,1311,Genetics,1,BM,2025-12-01 19:11:51
-2018,1312,Molecular Biology,1,BM,2025-12-01 19:11:51
-2018,1607,Spectroscopy,1,BM,2025-12-01 19:11:51
-2018,1705,Computer Networks and Communications,1,BM,2025-12-01 19:11:51
-2018,1911,Paleontology,1,BM,2025-12-01 19:11:51
-2018,2202,Aerospace Engineering,1,BM,2025-12-01 19:11:51
-2018,2208,Electrical and Electronic Engineering,1,BM,2025-12-01 19:11:51
-2018,2214,Media Technology,1,BM,2025-12-01 19:11:51
-2018,2310,Pollution,1,BM,2025-12-01 19:11:51
-2018,2311,Industrial and Manufacturing Engineering,1,BM,2025-12-01 19:11:51
-2018,2312,Water Science and Technology,1,BM,2025-12-01 19:11:51
-2018,3312,Sociology and Political Science,1,BM,2025-12-01 19:11:51
-2018,3314,Anthropology,1,BM,2025-12-01 19:11:51
-2019,2303,Ecology,31,BM,2025-12-01 19:11:51
-2019,1910,Oceanography,30,BM,2025-12-01 19:11:51
-2019,2306,Global and Planetary Change,22,BM,2025-12-01 19:11:51
-2019,1312,Molecular Biology,8,BM,2025-12-01 19:11:51
-2019,2212,Ocean Engineering,8,BM,2025-12-01 19:11:51
-2019,1911,Paleontology,4,BM,2025-12-01 19:11:51
-2019,2304,Environmental Chemistry,4,BM,2025-12-01 19:11:51
-2019,1204,Archeology,3,BM,2025-12-01 19:11:51
-2019,2309,Nature and Landscape Conservation,3,BM,2025-12-01 19:11:51
-2019,1311,Genetics,2,BM,2025-12-01 19:11:51
-2019,1902,Atmospheric Science,2,BM,2025-12-01 19:11:51
-2019,1105,"Ecology, Evolution, Behavior and Systematics",1,BM,2025-12-01 19:11:51
-2019,1305,Biotechnology,1,BM,2025-12-01 19:11:51
-2019,1310,Endocrinology,1,BM,2025-12-01 19:11:51
-2019,2302,Ecological Modeling,1,BM,2025-12-01 19:11:51
-2019,2307,"Health, Toxicology and Mutagenesis",1,BM,2025-12-01 19:11:51
-2019,2308,"Management, Monitoring, Policy and Law",1,BM,2025-12-01 19:11:51
-2019,2403,Immunology,1,BM,2025-12-01 19:11:51
-2019,2613,Statistics and Probability,1,BM,2025-12-01 19:11:51
-2020,1910,Oceanography,38,BM,2025-12-01 19:11:51
-2020,2303,Ecology,27,BM,2025-12-01 19:11:51
-2020,2306,Global and Planetary Change,17,BM,2025-12-01 19:11:51
-2020,1902,Atmospheric Science,8,BM,2025-12-01 19:11:51
-2020,1105,"Ecology, Evolution, Behavior and Systematics",6,BM,2025-12-01 19:11:51
-2020,1312,Molecular Biology,4,BM,2025-12-01 19:11:51
-2020,2309,Nature and Landscape Conservation,3,BM,2025-12-01 19:11:51
-2020,2310,Pollution,3,BM,2025-12-01 19:11:51
-2020,1309,Developmental Biology,2,BM,2025-12-01 19:11:51
-2020,1311,Genetics,2,BM,2025-12-01 19:11:51
-2020,1702,Artificial Intelligence,2,BM,2025-12-01 19:11:51
-2020,2304,Environmental Chemistry,2,BM,2025-12-01 19:11:51
-2020,1307,Cell Biology,1,BM,2025-12-01 19:11:51
-2020,1404,Management Information Systems,1,BM,2025-12-01 19:11:51
-2020,1607,Spectroscopy,1,BM,2025-12-01 19:11:51
-2020,1904,Earth-Surface Processes,1,BM,2025-12-01 19:11:51
-2020,1907,Geology,1,BM,2025-12-01 19:11:51
-2020,1911,Paleontology,1,BM,2025-12-01 19:11:51
-2020,2202,Aerospace Engineering,1,BM,2025-12-01 19:11:51
-2020,2210,Mechanical Engineering,1,BM,2025-12-01 19:11:51
-2020,2212,Ocean Engineering,1,BM,2025-12-01 19:11:51
-2020,2214,Media Technology,1,BM,2025-12-01 19:11:51
-2020,2305,Environmental Engineering,1,BM,2025-12-01 19:11:51
-2020,2307,"Health, Toxicology and Mutagenesis",1,BM,2025-12-01 19:11:51
-2020,2308,"Management, Monitoring, Policy and Law",1,BM,2025-12-01 19:11:51
-2020,2403,Immunology,1,BM,2025-12-01 19:11:51
-2020,2405,Parasitology,1,BM,2025-12-01 19:11:51
-2021,1910,Oceanography,19,BM,2025-12-01 19:11:51
-2021,2303,Ecology,18,BM,2025-12-01 19:11:51
-2021,2306,Global and Planetary Change,15,BM,2025-12-01 19:11:51
-2021,1902,Atmospheric Science,12,BM,2025-12-01 19:11:51
-2021,1312,Molecular Biology,4,BM,2025-12-01 19:11:51
-2021,1702,Artificial Intelligence,2,BM,2025-12-01 19:11:51
-2021,2302,Ecological Modeling,2,BM,2025-12-01 19:11:51
-2021,2305,Environmental Engineering,2,BM,2025-12-01 19:11:51
-2021,1109,Insect Science,1,BM,2025-12-01 19:11:51
-2021,1111,Soil Science,1,BM,2025-12-01 19:11:51
-2021,1307,Cell Biology,1,BM,2025-12-01 19:11:51
-2021,1311,Genetics,1,BM,2025-12-01 19:11:51
-2021,1906,Geochemistry and Petrology,1,BM,2025-12-01 19:11:51
-2021,1907,Geology,1,BM,2025-12-01 19:11:51
-2021,2002,Economics and Econometrics,1,BM,2025-12-01 19:11:51
-2021,2210,Mechanical Engineering,1,BM,2025-12-01 19:11:51
-2021,2304,Environmental Chemistry,1,BM,2025-12-01 19:11:51
-2021,2309,Nature and Landscape Conservation,1,BM,2025-12-01 19:11:51
-2021,3109,Statistical and Nonlinear Physics,1,BM,2025-12-01 19:11:51
-2022,1910,Oceanography,23,BM,2025-12-01 19:11:51
-2022,2303,Ecology,22,BM,2025-12-01 19:11:51
-2022,2306,Global and Planetary Change,15,BM,2025-12-01 19:11:51
-2022,1902,Atmospheric Science,9,BM,2025-12-01 19:11:51
-2022,1312,Molecular Biology,8,BM,2025-12-01 19:11:51
-2022,1311,Genetics,2,BM,2025-12-01 19:11:51
-2022,2210,Mechanical Engineering,2,BM,2025-12-01 19:11:51
-2022,2302,Ecological Modeling,2,BM,2025-12-01 19:11:51
-2022,2304,Environmental Chemistry,2,BM,2025-12-01 19:11:51
-2022,2305,Environmental Engineering,2,BM,2025-12-01 19:11:51
-2022,2308,"Management, Monitoring, Policy and Law",2,BM,2025-12-01 19:11:51
-2022,2309,Nature and Landscape Conservation,2,BM,2025-12-01 19:11:51
-2022,1105,"Ecology, Evolution, Behavior and Systematics",1,BM,2025-12-01 19:11:51
-2022,1106,Food Science,1,BM,2025-12-01 19:11:51
-2022,1204,Archeology,1,BM,2025-12-01 19:11:51
-2022,1607,Spectroscopy,1,BM,2025-12-01 19:11:51
-2022,1904,Earth-Surface Processes,1,BM,2025-12-01 19:11:51
-2022,2002,Economics and Econometrics,1,BM,2025-12-01 19:11:51
-2022,2212,Ocean Engineering,1,BM,2025-12-01 19:11:51
-2022,2214,Media Technology,1,BM,2025-12-01 19:11:51
-2022,2310,Pollution,1,BM,2025-12-01 19:11:51
-2022,2403,Immunology,1,BM,2025-12-01 19:11:51
-2022,2727,Nephrology,1,BM,2025-12-01 19:11:51
-2022,2740,Pulmonary and Respiratory Medicine,1,BM,2025-12-01 19:11:51
-2022,3312,Sociology and Political Science,1,BM,2025-12-01 19:11:51
-2023,1910,Oceanography,35,BM,2025-12-01 19:11:51
-2023,2303,Ecology,28,BM,2025-12-01 19:11:51
-2023,2306,Global and Planetary Change,23,BM,2025-12-01 19:11:51
-2023,1902,Atmospheric Science,15,BM,2025-12-01 19:11:51
-2023,1312,Molecular Biology,6,BM,2025-12-01 19:11:51
-2023,2309,Nature and Landscape Conservation,6,BM,2025-12-01 19:11:51
-2023,2304,Environmental Chemistry,4,BM,2025-12-01 19:11:51
-2023,1702,Artificial Intelligence,3,BM,2025-12-01 19:11:51
-2023,1911,Paleontology,3,BM,2025-12-01 19:11:51
-2023,1904,Earth-Surface Processes,2,BM,2025-12-01 19:11:51
-2023,1906,Geochemistry and Petrology,2,BM,2025-12-01 19:11:51
-2023,2307,"Health, Toxicology and Mutagenesis",2,BM,2025-12-01 19:11:51
-2023,2310,Pollution,2,BM,2025-12-01 19:11:51
-2023,2312,Water Science and Technology,2,BM,2025-12-01 19:11:51
-2023,1703,Computational Theory and Mathematics,1,BM,2025-12-01 19:11:51
-2023,1802,Information Systems and Management,1,BM,2025-12-01 19:11:51
-2023,2208,Electrical and Electronic Engineering,1,BM,2025-12-01 19:11:51
-2023,2311,Industrial and Manufacturing Engineering,1,BM,2025-12-01 19:11:51
-2023,2403,Immunology,1,BM,2025-12-01 19:11:51
-2023,2502,Biomaterials,1,BM,2025-12-01 19:11:51
-2024,2303,Ecology,29,BM,2025-12-01 19:11:51
-2024,1910,Oceanography,24,BM,2025-12-01 19:11:51
-2024,1312,Molecular Biology,11,BM,2025-12-01 19:11:51
-2024,2306,Global and Planetary Change,6,BM,2025-12-01 19:11:51
-2024,2304,Environmental Chemistry,4,BM,2025-12-01 19:11:51
-2024,1902,Atmospheric Science,3,BM,2025-12-01 19:11:51
-2024,2309,Nature and Landscape Conservation,3,BM,2025-12-01 19:11:51
-2024,1607,Spectroscopy,2,BM,2025-12-01 19:11:51
-2024,1104,Aquatic Science,1,BM,2025-12-01 19:11:51
-2024,1105,"Ecology, Evolution, Behavior and Systematics",1,BM,2025-12-01 19:11:51
-2024,1305,Biotechnology,1,BM,2025-12-01 19:11:51
-2024,1309,Developmental Biology,1,BM,2025-12-01 19:11:51
-2024,1311,Genetics,1,BM,2025-12-01 19:11:51
-2024,1906,Geochemistry and Petrology,1,BM,2025-12-01 19:11:51
-2024,2212,Ocean Engineering,1,BM,2025-12-01 19:11:51
-2024,2214,Media Technology,1,BM,2025-12-01 19:11:51
-2024,2302,Ecological Modeling,1,BM,2025-12-01 19:11:51
-2024,2307,"Health, Toxicology and Mutagenesis",1,BM,2025-12-01 19:11:51
-2024,2308,"Management, Monitoring, Policy and Law",1,BM,2025-12-01 19:11:51
-2024,3103,Astronomy and Astrophysics,1,BM,2025-12-01 19:11:51
-2025,1910,Oceanography,14,BM,2025-12-01 19:11:51
-2025,2303,Ecology,12,BM,2025-12-01 19:11:51
-2025,1902,Atmospheric Science,5,BM,2025-12-01 19:11:51
-2025,1911,Paleontology,4,BM,2025-12-01 19:11:51
-2025,1904,Earth-Surface Processes,3,BM,2025-12-01 19:11:51
-2025,2304,Environmental Chemistry,3,BM,2025-12-01 19:11:51
-2025,2306,Global and Planetary Change,3,BM,2025-12-01 19:11:51
-2025,1312,Molecular Biology,2,BM,2025-12-01 19:11:51
-2025,2309,Nature and Landscape Conservation,2,BM,2025-12-01 19:11:51
-2025,1109,Insect Science,1,BM,2025-12-01 19:11:51
-2025,1110,Plant Science,1,BM,2025-12-01 19:11:51
-2025,1307,Cell Biology,1,BM,2025-12-01 19:11:51
-2025,1705,Computer Networks and Communications,1,BM,2025-12-01 19:11:51
-2025,2208,Electrical and Electronic Engineering,1,BM,2025-12-01 19:11:51
-2025,2302,Ecological Modeling,1,BM,2025-12-01 19:11:51
-2025,2305,Environmental Engineering,1,BM,2025-12-01 19:11:51
+2005,1705,Computer Networks and Communications,8,BM,2025-12-03 12:49:00
+2005,1710,Information Systems,8,BM,2025-12-03 12:49:00
+2005,2303,Ecology,8,BM,2025-12-03 12:49:00
+2005,1910,Oceanography,6,BM,2025-12-03 12:49:00
+2005,1702,Artificial Intelligence,4,BM,2025-12-03 12:49:00
+2005,1902,Atmospheric Science,4,BM,2025-12-03 12:49:00
+2005,2304,Environmental Chemistry,3,BM,2025-12-03 12:49:00
+2005,2306,Global and Planetary Change,3,BM,2025-12-03 12:49:00
+2005,1312,Molecular Biology,2,BM,2025-12-03 12:49:00
+2005,1711,Signal Processing,2,BM,2025-12-03 12:49:00
+2005,1712,Software,2,BM,2025-12-03 12:49:00
+2005,2208,Electrical and Electronic Engineering,2,BM,2025-12-03 12:49:00
+2005,2309,Nature and Landscape Conservation,2,BM,2025-12-03 12:49:00
+2005,1104,Aquatic Science,1,BM,2025-12-03 12:49:00
+2005,1110,Plant Science,1,BM,2025-12-03 12:49:00
+2005,1404,Management Information Systems,1,BM,2025-12-03 12:49:00
+2005,1508,Process Chemistry and Technology,1,BM,2025-12-03 12:49:00
+2005,1708,Hardware and Architecture,1,BM,2025-12-03 12:49:00
+2005,1904,Earth-Surface Processes,1,BM,2025-12-03 12:49:00
+2005,1906,Geochemistry and Petrology,1,BM,2025-12-03 12:49:00
+2005,2210,Mechanical Engineering,1,BM,2025-12-03 12:49:00
+2005,2403,Immunology,1,BM,2025-12-03 12:49:00
+2005,3312,Sociology and Political Science,1,BM,2025-12-03 12:49:00
+2006,1705,Computer Networks and Communications,13,BM,2025-12-03 12:49:00
+2006,1710,Information Systems,11,BM,2025-12-03 12:49:00
+2006,1910,Oceanography,11,BM,2025-12-03 12:49:00
+2006,2303,Ecology,8,BM,2025-12-03 12:49:00
+2006,1702,Artificial Intelligence,7,BM,2025-12-03 12:49:00
+2006,1902,Atmospheric Science,6,BM,2025-12-03 12:49:00
+2006,2306,Global and Planetary Change,5,BM,2025-12-03 12:49:00
+2006,1711,Signal Processing,4,BM,2025-12-03 12:49:00
+2006,1712,Software,4,BM,2025-12-03 12:49:00
+2006,2208,Electrical and Electronic Engineering,3,BM,2025-12-03 12:49:00
+2006,1105,"Ecology, Evolution, Behavior and Systematics",2,BM,2025-12-03 12:49:00
+2006,1312,Molecular Biology,2,BM,2025-12-03 12:49:00
+2006,2210,Mechanical Engineering,2,BM,2025-12-03 12:49:00
+2006,2310,Pollution,2,BM,2025-12-03 12:49:00
+2006,1104,Aquatic Science,1,BM,2025-12-03 12:49:00
+2006,1109,Insect Science,1,BM,2025-12-03 12:49:00
+2006,1311,Genetics,1,BM,2025-12-03 12:49:00
+2006,1404,Management Information Systems,1,BM,2025-12-03 12:49:00
+2006,1703,Computational Theory and Mathematics,1,BM,2025-12-03 12:49:00
+2006,1707,Computer Vision and Pattern Recognition,1,BM,2025-12-03 12:49:00
+2006,1708,Hardware and Architecture,1,BM,2025-12-03 12:49:00
+2006,1709,Human-Computer Interaction,1,BM,2025-12-03 12:49:00
+2006,1802,Information Systems and Management,1,BM,2025-12-03 12:49:00
+2006,1803,Management Science and Operations Research,1,BM,2025-12-03 12:49:00
+2006,1904,Earth-Surface Processes,1,BM,2025-12-03 12:49:00
+2006,1908,Geophysics,1,BM,2025-12-03 12:49:00
+2006,2304,Environmental Chemistry,1,BM,2025-12-03 12:49:00
+2006,2307,"Health, Toxicology and Mutagenesis",1,BM,2025-12-03 12:49:00
+2006,2309,Nature and Landscape Conservation,1,BM,2025-12-03 12:49:00
+2006,2713,Epidemiology,1,BM,2025-12-03 12:49:00
+2006,3303,Development,1,BM,2025-12-03 12:49:00
+2006,3312,Sociology and Political Science,1,BM,2025-12-03 12:49:00
+2007,1910,Oceanography,23,BM,2025-12-03 12:49:00
+2007,2303,Ecology,18,BM,2025-12-03 12:49:00
+2007,1705,Computer Networks and Communications,10,BM,2025-12-03 12:49:00
+2007,1710,Information Systems,9,BM,2025-12-03 12:49:00
+2007,1702,Artificial Intelligence,7,BM,2025-12-03 12:49:00
+2007,1902,Atmospheric Science,7,BM,2025-12-03 12:49:00
+2007,2306,Global and Planetary Change,4,BM,2025-12-03 12:49:00
+2007,2304,Environmental Chemistry,3,BM,2025-12-03 12:49:00
+2007,2309,Nature and Landscape Conservation,3,BM,2025-12-03 12:49:00
+2007,1104,Aquatic Science,2,BM,2025-12-03 12:49:00
+2007,1404,Management Information Systems,2,BM,2025-12-03 12:49:00
+2007,1707,Computer Vision and Pattern Recognition,2,BM,2025-12-03 12:49:00
+2007,1709,Human-Computer Interaction,2,BM,2025-12-03 12:49:00
+2007,1712,Software,2,BM,2025-12-03 12:49:00
+2007,1904,Earth-Surface Processes,2,BM,2025-12-03 12:49:00
+2007,2208,Electrical and Electronic Engineering,2,BM,2025-12-03 12:49:00
+2007,1102,Agronomy and Crop Science,1,BM,2025-12-03 12:49:00
+2007,1706,Computer Science Applications,1,BM,2025-12-03 12:49:00
+2007,1802,Information Systems and Management,1,BM,2025-12-03 12:49:00
+2007,1804,"Statistics, Probability and Uncertainty",1,BM,2025-12-03 12:49:00
+2007,1908,Geophysics,1,BM,2025-12-03 12:49:00
+2007,2212,Ocean Engineering,1,BM,2025-12-03 12:49:00
+2007,2311,Industrial and Manufacturing Engineering,1,BM,2025-12-03 12:49:00
+2007,2312,Water Science and Technology,1,BM,2025-12-03 12:49:00
+2007,2613,Statistics and Probability,1,BM,2025-12-03 12:49:00
+2007,3312,Sociology and Political Science,1,BM,2025-12-03 12:49:00
+2007,3315,Communication,1,BM,2025-12-03 12:49:00
+2007,3404,Small Animals,1,BM,2025-12-03 12:49:00
+2008,1910,Oceanography,21,BM,2025-12-03 12:49:00
+2008,1705,Computer Networks and Communications,20,BM,2025-12-03 12:49:00
+2008,2306,Global and Planetary Change,17,BM,2025-12-03 12:49:00
+2008,2303,Ecology,16,BM,2025-12-03 12:49:00
+2008,1710,Information Systems,13,BM,2025-12-03 12:49:00
+2008,1702,Artificial Intelligence,6,BM,2025-12-03 12:49:00
+2008,1902,Atmospheric Science,6,BM,2025-12-03 12:49:00
+2008,3312,Sociology and Political Science,5,BM,2025-12-03 12:49:00
+2008,2309,Nature and Landscape Conservation,4,BM,2025-12-03 12:49:00
+2008,1712,Software,3,BM,2025-12-03 12:49:00
+2008,2208,Electrical and Electronic Engineering,3,BM,2025-12-03 12:49:00
+2008,1105,"Ecology, Evolution, Behavior and Systematics",2,BM,2025-12-03 12:49:00
+2008,1706,Computer Science Applications,2,BM,2025-12-03 12:49:00
+2008,1711,Signal Processing,2,BM,2025-12-03 12:49:00
+2008,1906,Geochemistry and Petrology,2,BM,2025-12-03 12:49:00
+2008,2610,Mathematical Physics,2,BM,2025-12-03 12:49:00
+2008,2613,Statistics and Probability,2,BM,2025-12-03 12:49:00
+2008,3404,Small Animals,2,BM,2025-12-03 12:49:00
+2008,1104,Aquatic Science,1,BM,2025-12-03 12:49:00
+2008,1110,Plant Science,1,BM,2025-12-03 12:49:00
+2008,1306,Cancer Research,1,BM,2025-12-03 12:49:00
+2008,1312,Molecular Biology,1,BM,2025-12-03 12:49:00
+2008,1404,Management Information Systems,1,BM,2025-12-03 12:49:00
+2008,1703,Computational Theory and Mathematics,1,BM,2025-12-03 12:49:00
+2008,1707,Computer Vision and Pattern Recognition,1,BM,2025-12-03 12:49:00
+2008,1708,Hardware and Architecture,1,BM,2025-12-03 12:49:00
+2008,1709,Human-Computer Interaction,1,BM,2025-12-03 12:49:00
+2008,1802,Information Systems and Management,1,BM,2025-12-03 12:49:00
+2008,1904,Earth-Surface Processes,1,BM,2025-12-03 12:49:00
+2008,1908,Geophysics,1,BM,2025-12-03 12:49:00
+2008,1911,Paleontology,1,BM,2025-12-03 12:49:00
+2008,2105,"Renewable Energy, Sustainability and the Environment",1,BM,2025-12-03 12:49:00
+2008,2207,Control and Systems Engineering,1,BM,2025-12-03 12:49:00
+2008,2302,Ecological Modeling,1,BM,2025-12-03 12:49:00
+2008,2304,Environmental Chemistry,1,BM,2025-12-03 12:49:00
+2008,2307,"Health, Toxicology and Mutagenesis",1,BM,2025-12-03 12:49:00
+2008,2308,"Management, Monitoring, Policy and Law",1,BM,2025-12-03 12:49:00
+2008,2916,Nutrition and Dietetics,1,BM,2025-12-03 12:49:00
+2009,1910,Oceanography,25,BM,2025-12-03 12:49:00
+2009,1705,Computer Networks and Communications,16,BM,2025-12-03 12:49:00
+2009,1710,Information Systems,15,BM,2025-12-03 12:49:00
+2009,2306,Global and Planetary Change,15,BM,2025-12-03 12:49:00
+2009,2303,Ecology,10,BM,2025-12-03 12:49:00
+2009,1902,Atmospheric Science,6,BM,2025-12-03 12:49:00
+2009,2304,Environmental Chemistry,5,BM,2025-12-03 12:49:00
+2009,1706,Computer Science Applications,4,BM,2025-12-03 12:49:00
+2009,1712,Software,4,BM,2025-12-03 12:49:00
+2009,2208,Electrical and Electronic Engineering,4,BM,2025-12-03 12:49:00
+2009,1312,Molecular Biology,3,BM,2025-12-03 12:49:00
+2009,1906,Geochemistry and Petrology,3,BM,2025-12-03 12:49:00
+2009,1707,Computer Vision and Pattern Recognition,2,BM,2025-12-03 12:49:00
+2009,1802,Information Systems and Management,2,BM,2025-12-03 12:49:00
+2009,2310,Pollution,2,BM,2025-12-03 12:49:00
+2009,1104,Aquatic Science,1,BM,2025-12-03 12:49:00
+2009,1110,Plant Science,1,BM,2025-12-03 12:49:00
+2009,1302,Aging,1,BM,2025-12-03 12:49:00
+2009,1311,Genetics,1,BM,2025-12-03 12:49:00
+2009,1604,Inorganic Chemistry,1,BM,2025-12-03 12:49:00
+2009,1702,Artificial Intelligence,1,BM,2025-12-03 12:49:00
+2009,1709,Human-Computer Interaction,1,BM,2025-12-03 12:49:00
+2009,1711,Signal Processing,1,BM,2025-12-03 12:49:00
+2009,1911,Paleontology,1,BM,2025-12-03 12:49:00
+2009,2204,Biomedical Engineering,1,BM,2025-12-03 12:49:00
+2009,2212,Ocean Engineering,1,BM,2025-12-03 12:49:00
+2009,2307,"Health, Toxicology and Mutagenesis",1,BM,2025-12-03 12:49:00
+2009,2502,Biomaterials,1,BM,2025-12-03 12:49:00
+2009,2737,Physiology,1,BM,2025-12-03 12:49:00
+2009,2916,Nutrition and Dietetics,1,BM,2025-12-03 12:49:00
+2009,3004,Pharmacology,1,BM,2025-12-03 12:49:00
+2009,3315,Communication,1,BM,2025-12-03 12:49:00
+2010,1910,Oceanography,22,BM,2025-12-03 12:49:00
+2010,2303,Ecology,19,BM,2025-12-03 12:49:00
+2010,2306,Global and Planetary Change,9,BM,2025-12-03 12:49:00
+2010,1705,Computer Networks and Communications,6,BM,2025-12-03 12:49:00
+2010,1710,Information Systems,4,BM,2025-12-03 12:49:00
+2010,1902,Atmospheric Science,4,BM,2025-12-03 12:49:00
+2010,1312,Molecular Biology,3,BM,2025-12-03 12:49:00
+2010,2304,Environmental Chemistry,3,BM,2025-12-03 12:49:00
+2010,2307,"Health, Toxicology and Mutagenesis",3,BM,2025-12-03 12:49:00
+2010,1105,"Ecology, Evolution, Behavior and Systematics",2,BM,2025-12-03 12:49:00
+2010,2208,Electrical and Electronic Engineering,2,BM,2025-12-03 12:49:00
+2010,2310,Pollution,2,BM,2025-12-03 12:49:00
+2010,3312,Sociology and Political Science,2,BM,2025-12-03 12:49:00
+2010,1104,Aquatic Science,1,BM,2025-12-03 12:49:00
+2010,1110,Plant Science,1,BM,2025-12-03 12:49:00
+2010,1311,Genetics,1,BM,2025-12-03 12:49:00
+2010,1702,Artificial Intelligence,1,BM,2025-12-03 12:49:00
+2010,1706,Computer Science Applications,1,BM,2025-12-03 12:49:00
+2010,1708,Hardware and Architecture,1,BM,2025-12-03 12:49:00
+2010,1709,Human-Computer Interaction,1,BM,2025-12-03 12:49:00
+2010,1712,Software,1,BM,2025-12-03 12:49:00
+2010,1904,Earth-Surface Processes,1,BM,2025-12-03 12:49:00
+2010,1906,Geochemistry and Petrology,1,BM,2025-12-03 12:49:00
+2010,2308,"Management, Monitoring, Policy and Law",1,BM,2025-12-03 12:49:00
+2010,2403,Immunology,1,BM,2025-12-03 12:49:00
+2010,2404,Microbiology,1,BM,2025-12-03 12:49:00
+2010,2405,Parasitology,1,BM,2025-12-03 12:49:00
+2010,3109,Statistical and Nonlinear Physics,1,BM,2025-12-03 12:49:00
+2011,1910,Oceanography,24,BM,2025-12-03 12:49:00
+2011,2303,Ecology,14,BM,2025-12-03 12:49:00
+2011,2306,Global and Planetary Change,11,BM,2025-12-03 12:49:00
+2011,1710,Information Systems,7,BM,2025-12-03 12:49:00
+2011,1705,Computer Networks and Communications,3,BM,2025-12-03 12:49:00
+2011,1902,Atmospheric Science,3,BM,2025-12-03 12:49:00
+2011,1712,Software,2,BM,2025-12-03 12:49:00
+2011,2304,Environmental Chemistry,2,BM,2025-12-03 12:49:00
+2011,2309,Nature and Landscape Conservation,2,BM,2025-12-03 12:49:00
+2011,3109,Statistical and Nonlinear Physics,2,BM,2025-12-03 12:49:00
+2011,1104,Aquatic Science,1,BM,2025-12-03 12:49:00
+2011,1312,Molecular Biology,1,BM,2025-12-03 12:49:00
+2011,1314,Physiology,1,BM,2025-12-03 12:49:00
+2011,1404,Management Information Systems,1,BM,2025-12-03 12:49:00
+2011,1702,Artificial Intelligence,1,BM,2025-12-03 12:49:00
+2011,1703,Computational Theory and Mathematics,1,BM,2025-12-03 12:49:00
+2011,1706,Computer Science Applications,1,BM,2025-12-03 12:49:00
+2011,1711,Signal Processing,1,BM,2025-12-03 12:49:00
+2011,1802,Information Systems and Management,1,BM,2025-12-03 12:49:00
+2011,2000,"General Economics, Econometrics and Finance",1,BM,2025-12-03 12:49:00
+2011,2207,Control and Systems Engineering,1,BM,2025-12-03 12:49:00
+2011,2310,Pollution,1,BM,2025-12-03 12:49:00
+2011,3315,Communication,1,BM,2025-12-03 12:49:00
+2012,1910,Oceanography,31,BM,2025-12-03 12:49:00
+2012,2303,Ecology,13,BM,2025-12-03 12:49:00
+2012,2306,Global and Planetary Change,10,BM,2025-12-03 12:49:00
+2012,2304,Environmental Chemistry,7,BM,2025-12-03 12:49:00
+2012,1710,Information Systems,6,BM,2025-12-03 12:49:00
+2012,1902,Atmospheric Science,6,BM,2025-12-03 12:49:00
+2012,1705,Computer Networks and Communications,4,BM,2025-12-03 12:49:00
+2012,1712,Software,4,BM,2025-12-03 12:49:00
+2012,1311,Genetics,3,BM,2025-12-03 12:49:00
+2012,2307,"Health, Toxicology and Mutagenesis",3,BM,2025-12-03 12:49:00
+2012,2310,Pollution,3,BM,2025-12-03 12:49:00
+2012,1105,"Ecology, Evolution, Behavior and Systematics",2,BM,2025-12-03 12:49:00
+2012,1312,Molecular Biology,2,BM,2025-12-03 12:49:00
+2012,1702,Artificial Intelligence,2,BM,2025-12-03 12:49:00
+2012,1706,Computer Science Applications,2,BM,2025-12-03 12:49:00
+2012,2309,Nature and Landscape Conservation,2,BM,2025-12-03 12:49:00
+2012,3109,Statistical and Nonlinear Physics,2,BM,2025-12-03 12:49:00
+2012,3315,Communication,2,BM,2025-12-03 12:49:00
+2012,1110,Plant Science,1,BM,2025-12-03 12:49:00
+2012,1508,Process Chemistry and Technology,1,BM,2025-12-03 12:49:00
+2012,1711,Signal Processing,1,BM,2025-12-03 12:49:00
+2012,1906,Geochemistry and Petrology,1,BM,2025-12-03 12:49:00
+2012,1911,Paleontology,1,BM,2025-12-03 12:49:00
+2012,2212,Ocean Engineering,1,BM,2025-12-03 12:49:00
+2012,2743,Reproductive Medicine,1,BM,2025-12-03 12:49:00
+2012,3107,"Atomic and Molecular Physics, and Optics",1,BM,2025-12-03 12:49:00
+2012,3312,Sociology and Political Science,1,BM,2025-12-03 12:49:00
+2013,1910,Oceanography,34,BM,2025-12-03 12:49:00
+2013,2303,Ecology,25,BM,2025-12-03 12:49:00
+2013,2306,Global and Planetary Change,16,BM,2025-12-03 12:49:00
+2013,1705,Computer Networks and Communications,7,BM,2025-12-03 12:49:00
+2013,1710,Information Systems,7,BM,2025-12-03 12:49:00
+2013,1902,Atmospheric Science,5,BM,2025-12-03 12:49:00
+2013,1105,"Ecology, Evolution, Behavior and Systematics",4,BM,2025-12-03 12:49:00
+2013,1312,Molecular Biology,4,BM,2025-12-03 12:49:00
+2013,1702,Artificial Intelligence,4,BM,2025-12-03 12:49:00
+2013,1906,Geochemistry and Petrology,4,BM,2025-12-03 12:49:00
+2013,2208,Electrical and Electronic Engineering,3,BM,2025-12-03 12:49:00
+2013,1109,Insect Science,2,BM,2025-12-03 12:49:00
+2013,1712,Software,2,BM,2025-12-03 12:49:00
+2013,2308,"Management, Monitoring, Policy and Law",2,BM,2025-12-03 12:49:00
+2013,3312,Sociology and Political Science,2,BM,2025-12-03 12:49:00
+2013,1104,Aquatic Science,1,BM,2025-12-03 12:49:00
+2013,1306,Cancer Research,1,BM,2025-12-03 12:49:00
+2013,1706,Computer Science Applications,1,BM,2025-12-03 12:49:00
+2013,1707,Computer Vision and Pattern Recognition,1,BM,2025-12-03 12:49:00
+2013,1802,Information Systems and Management,1,BM,2025-12-03 12:49:00
+2013,1907,Geology,1,BM,2025-12-03 12:49:00
+2013,1911,Paleontology,1,BM,2025-12-03 12:49:00
+2013,2304,Environmental Chemistry,1,BM,2025-12-03 12:49:00
+2013,2305,Environmental Engineering,1,BM,2025-12-03 12:49:00
+2013,2307,"Health, Toxicology and Mutagenesis",1,BM,2025-12-03 12:49:00
+2013,2310,Pollution,1,BM,2025-12-03 12:49:00
+2013,3300,General Social Sciences,1,BM,2025-12-03 12:49:00
+2013,3315,Communication,1,BM,2025-12-03 12:49:00
+2014,1910,Oceanography,24,BM,2025-12-03 12:49:00
+2014,1902,Atmospheric Science,17,BM,2025-12-03 12:49:00
+2014,2304,Environmental Chemistry,11,BM,2025-12-03 12:49:00
+2014,2303,Ecology,9,BM,2025-12-03 12:49:00
+2014,2306,Global and Planetary Change,6,BM,2025-12-03 12:49:00
+2014,1705,Computer Networks and Communications,4,BM,2025-12-03 12:49:00
+2014,1710,Information Systems,2,BM,2025-12-03 12:49:00
+2014,1712,Software,2,BM,2025-12-03 12:49:00
+2014,1906,Geochemistry and Petrology,2,BM,2025-12-03 12:49:00
+2014,2208,Electrical and Electronic Engineering,2,BM,2025-12-03 12:49:00
+2014,2307,"Health, Toxicology and Mutagenesis",2,BM,2025-12-03 12:49:00
+2014,2310,Pollution,2,BM,2025-12-03 12:49:00
+2014,1104,Aquatic Science,1,BM,2025-12-03 12:49:00
+2014,1708,Hardware and Architecture,1,BM,2025-12-03 12:49:00
+2014,1904,Earth-Surface Processes,1,BM,2025-12-03 12:49:00
+2014,2212,Ocean Engineering,1,BM,2025-12-03 12:49:00
+2014,2309,Nature and Landscape Conservation,1,BM,2025-12-03 12:49:00
+2015,1910,Oceanography,25,BM,2025-12-03 12:49:00
+2015,2303,Ecology,16,BM,2025-12-03 12:49:00
+2015,2306,Global and Planetary Change,14,BM,2025-12-03 12:49:00
+2015,1902,Atmospheric Science,13,BM,2025-12-03 12:49:00
+2015,1312,Molecular Biology,4,BM,2025-12-03 12:49:00
+2015,2309,Nature and Landscape Conservation,4,BM,2025-12-03 12:49:00
+2015,1104,Aquatic Science,3,BM,2025-12-03 12:49:00
+2015,1710,Information Systems,3,BM,2025-12-03 12:49:00
+2015,1904,Earth-Surface Processes,2,BM,2025-12-03 12:49:00
+2015,2212,Ocean Engineering,2,BM,2025-12-03 12:49:00
+2015,2304,Environmental Chemistry,2,BM,2025-12-03 12:49:00
+2015,1105,"Ecology, Evolution, Behavior and Systematics",1,BM,2025-12-03 12:49:00
+2015,1110,Plant Science,1,BM,2025-12-03 12:49:00
+2015,1304,Biophysics,1,BM,2025-12-03 12:49:00
+2015,1305,Biotechnology,1,BM,2025-12-03 12:49:00
+2015,1314,Physiology,1,BM,2025-12-03 12:49:00
+2015,1705,Computer Networks and Communications,1,BM,2025-12-03 12:49:00
+2015,1712,Software,1,BM,2025-12-03 12:49:00
+2015,1906,Geochemistry and Petrology,1,BM,2025-12-03 12:49:00
+2015,1908,Geophysics,1,BM,2025-12-03 12:49:00
+2015,1911,Paleontology,1,BM,2025-12-03 12:49:00
+2015,2214,Media Technology,1,BM,2025-12-03 12:49:00
+2015,2307,"Health, Toxicology and Mutagenesis",1,BM,2025-12-03 12:49:00
+2015,2311,Industrial and Manufacturing Engineering,1,BM,2025-12-03 12:49:00
+2015,2736,Pharmacology,1,BM,2025-12-03 12:49:00
+2015,3005,Toxicology,1,BM,2025-12-03 12:49:00
+2016,1910,Oceanography,24,BM,2025-12-03 12:49:00
+2016,2306,Global and Planetary Change,18,BM,2025-12-03 12:49:00
+2016,2303,Ecology,15,BM,2025-12-03 12:49:00
+2016,1902,Atmospheric Science,7,BM,2025-12-03 12:49:00
+2016,1312,Molecular Biology,4,BM,2025-12-03 12:49:00
+2016,2304,Environmental Chemistry,3,BM,2025-12-03 12:49:00
+2016,1911,Paleontology,2,BM,2025-12-03 12:49:00
+2016,2309,Nature and Landscape Conservation,2,BM,2025-12-03 12:49:00
+2016,1104,Aquatic Science,1,BM,2025-12-03 12:49:00
+2016,1105,"Ecology, Evolution, Behavior and Systematics",1,BM,2025-12-03 12:49:00
+2016,1311,Genetics,1,BM,2025-12-03 12:49:00
+2016,1605,Organic Chemistry,1,BM,2025-12-03 12:49:00
+2016,1710,Information Systems,1,BM,2025-12-03 12:49:00
+2016,1904,Earth-Surface Processes,1,BM,2025-12-03 12:49:00
+2016,1908,Geophysics,1,BM,2025-12-03 12:49:00
+2016,2206,Computational Mechanics,1,BM,2025-12-03 12:49:00
+2016,2212,Ocean Engineering,1,BM,2025-12-03 12:49:00
+2016,2305,Environmental Engineering,1,BM,2025-12-03 12:49:00
+2016,2308,"Management, Monitoring, Policy and Law",1,BM,2025-12-03 12:49:00
+2016,2311,Industrial and Manufacturing Engineering,1,BM,2025-12-03 12:49:00
+2016,2739,"Public Health, Environmental and Occupational Health",1,BM,2025-12-03 12:49:00
+2016,3207,Social Psychology,1,BM,2025-12-03 12:49:00
+2017,1910,Oceanography,27,BM,2025-12-03 12:49:00
+2017,2303,Ecology,24,BM,2025-12-03 12:49:00
+2017,2306,Global and Planetary Change,21,BM,2025-12-03 12:49:00
+2017,1902,Atmospheric Science,6,BM,2025-12-03 12:49:00
+2017,2309,Nature and Landscape Conservation,6,BM,2025-12-03 12:49:00
+2017,1312,Molecular Biology,4,BM,2025-12-03 12:49:00
+2017,1904,Earth-Surface Processes,2,BM,2025-12-03 12:49:00
+2017,2308,"Management, Monitoring, Policy and Law",2,BM,2025-12-03 12:49:00
+2017,1204,Archeology,1,BM,2025-12-03 12:49:00
+2017,1906,Geochemistry and Petrology,1,BM,2025-12-03 12:49:00
+2017,1911,Paleontology,1,BM,2025-12-03 12:49:00
+2017,2212,Ocean Engineering,1,BM,2025-12-03 12:49:00
+2017,2214,Media Technology,1,BM,2025-12-03 12:49:00
+2017,2307,"Health, Toxicology and Mutagenesis",1,BM,2025-12-03 12:49:00
+2017,2736,Pharmacology,1,BM,2025-12-03 12:49:00
+2017,3312,Sociology and Political Science,1,BM,2025-12-03 12:49:00
+2018,1910,Oceanography,25,BM,2025-12-03 12:49:00
+2018,2303,Ecology,15,BM,2025-12-03 12:49:00
+2018,2306,Global and Planetary Change,14,BM,2025-12-03 12:49:00
+2018,1902,Atmospheric Science,8,BM,2025-12-03 12:49:00
+2018,2304,Environmental Chemistry,3,BM,2025-12-03 12:49:00
+2018,2309,Nature and Landscape Conservation,3,BM,2025-12-03 12:49:00
+2018,1105,"Ecology, Evolution, Behavior and Systematics",1,BM,2025-12-03 12:49:00
+2018,1110,Plant Science,1,BM,2025-12-03 12:49:00
+2018,1311,Genetics,1,BM,2025-12-03 12:49:00
+2018,1312,Molecular Biology,1,BM,2025-12-03 12:49:00
+2018,1607,Spectroscopy,1,BM,2025-12-03 12:49:00
+2018,1705,Computer Networks and Communications,1,BM,2025-12-03 12:49:00
+2018,1911,Paleontology,1,BM,2025-12-03 12:49:00
+2018,2202,Aerospace Engineering,1,BM,2025-12-03 12:49:00
+2018,2208,Electrical and Electronic Engineering,1,BM,2025-12-03 12:49:00
+2018,2214,Media Technology,1,BM,2025-12-03 12:49:00
+2018,2310,Pollution,1,BM,2025-12-03 12:49:00
+2018,2311,Industrial and Manufacturing Engineering,1,BM,2025-12-03 12:49:00
+2018,2312,Water Science and Technology,1,BM,2025-12-03 12:49:00
+2018,3312,Sociology and Political Science,1,BM,2025-12-03 12:49:00
+2018,3314,Anthropology,1,BM,2025-12-03 12:49:00
+2019,2303,Ecology,31,BM,2025-12-03 12:49:00
+2019,1910,Oceanography,30,BM,2025-12-03 12:49:00
+2019,2306,Global and Planetary Change,22,BM,2025-12-03 12:49:00
+2019,1312,Molecular Biology,8,BM,2025-12-03 12:49:00
+2019,2212,Ocean Engineering,8,BM,2025-12-03 12:49:00
+2019,1911,Paleontology,4,BM,2025-12-03 12:49:00
+2019,2304,Environmental Chemistry,4,BM,2025-12-03 12:49:00
+2019,1204,Archeology,3,BM,2025-12-03 12:49:00
+2019,2309,Nature and Landscape Conservation,3,BM,2025-12-03 12:49:00
+2019,1311,Genetics,2,BM,2025-12-03 12:49:00
+2019,1902,Atmospheric Science,2,BM,2025-12-03 12:49:00
+2019,1105,"Ecology, Evolution, Behavior and Systematics",1,BM,2025-12-03 12:49:00
+2019,1305,Biotechnology,1,BM,2025-12-03 12:49:00
+2019,1310,Endocrinology,1,BM,2025-12-03 12:49:00
+2019,2302,Ecological Modeling,1,BM,2025-12-03 12:49:00
+2019,2307,"Health, Toxicology and Mutagenesis",1,BM,2025-12-03 12:49:00
+2019,2308,"Management, Monitoring, Policy and Law",1,BM,2025-12-03 12:49:00
+2019,2403,Immunology,1,BM,2025-12-03 12:49:00
+2019,2613,Statistics and Probability,1,BM,2025-12-03 12:49:00
+2020,1910,Oceanography,38,BM,2025-12-03 12:49:00
+2020,2303,Ecology,27,BM,2025-12-03 12:49:00
+2020,2306,Global and Planetary Change,17,BM,2025-12-03 12:49:00
+2020,1902,Atmospheric Science,8,BM,2025-12-03 12:49:00
+2020,1105,"Ecology, Evolution, Behavior and Systematics",6,BM,2025-12-03 12:49:00
+2020,1312,Molecular Biology,4,BM,2025-12-03 12:49:00
+2020,2309,Nature and Landscape Conservation,3,BM,2025-12-03 12:49:00
+2020,2310,Pollution,3,BM,2025-12-03 12:49:00
+2020,1309,Developmental Biology,2,BM,2025-12-03 12:49:00
+2020,1311,Genetics,2,BM,2025-12-03 12:49:00
+2020,1702,Artificial Intelligence,2,BM,2025-12-03 12:49:00
+2020,2304,Environmental Chemistry,2,BM,2025-12-03 12:49:00
+2020,1307,Cell Biology,1,BM,2025-12-03 12:49:00
+2020,1404,Management Information Systems,1,BM,2025-12-03 12:49:00
+2020,1607,Spectroscopy,1,BM,2025-12-03 12:49:00
+2020,1904,Earth-Surface Processes,1,BM,2025-12-03 12:49:00
+2020,1907,Geology,1,BM,2025-12-03 12:49:00
+2020,1911,Paleontology,1,BM,2025-12-03 12:49:00
+2020,2202,Aerospace Engineering,1,BM,2025-12-03 12:49:00
+2020,2210,Mechanical Engineering,1,BM,2025-12-03 12:49:00
+2020,2212,Ocean Engineering,1,BM,2025-12-03 12:49:00
+2020,2214,Media Technology,1,BM,2025-12-03 12:49:00
+2020,2305,Environmental Engineering,1,BM,2025-12-03 12:49:00
+2020,2307,"Health, Toxicology and Mutagenesis",1,BM,2025-12-03 12:49:00
+2020,2308,"Management, Monitoring, Policy and Law",1,BM,2025-12-03 12:49:00
+2020,2403,Immunology,1,BM,2025-12-03 12:49:00
+2020,2405,Parasitology,1,BM,2025-12-03 12:49:00
+2021,1910,Oceanography,19,BM,2025-12-03 12:49:00
+2021,2303,Ecology,18,BM,2025-12-03 12:49:00
+2021,2306,Global and Planetary Change,15,BM,2025-12-03 12:49:00
+2021,1902,Atmospheric Science,12,BM,2025-12-03 12:49:00
+2021,1312,Molecular Biology,4,BM,2025-12-03 12:49:00
+2021,1702,Artificial Intelligence,2,BM,2025-12-03 12:49:00
+2021,2302,Ecological Modeling,2,BM,2025-12-03 12:49:00
+2021,2305,Environmental Engineering,2,BM,2025-12-03 12:49:00
+2021,1109,Insect Science,1,BM,2025-12-03 12:49:00
+2021,1111,Soil Science,1,BM,2025-12-03 12:49:00
+2021,1307,Cell Biology,1,BM,2025-12-03 12:49:00
+2021,1311,Genetics,1,BM,2025-12-03 12:49:00
+2021,1906,Geochemistry and Petrology,1,BM,2025-12-03 12:49:00
+2021,1907,Geology,1,BM,2025-12-03 12:49:00
+2021,2002,Economics and Econometrics,1,BM,2025-12-03 12:49:00
+2021,2210,Mechanical Engineering,1,BM,2025-12-03 12:49:00
+2021,2304,Environmental Chemistry,1,BM,2025-12-03 12:49:00
+2021,2309,Nature and Landscape Conservation,1,BM,2025-12-03 12:49:00
+2021,3109,Statistical and Nonlinear Physics,1,BM,2025-12-03 12:49:00
+2022,1910,Oceanography,23,BM,2025-12-03 12:49:00
+2022,2303,Ecology,22,BM,2025-12-03 12:49:00
+2022,2306,Global and Planetary Change,15,BM,2025-12-03 12:49:00
+2022,1902,Atmospheric Science,9,BM,2025-12-03 12:49:00
+2022,1312,Molecular Biology,8,BM,2025-12-03 12:49:00
+2022,1311,Genetics,2,BM,2025-12-03 12:49:00
+2022,2210,Mechanical Engineering,2,BM,2025-12-03 12:49:00
+2022,2302,Ecological Modeling,2,BM,2025-12-03 12:49:00
+2022,2304,Environmental Chemistry,2,BM,2025-12-03 12:49:00
+2022,2305,Environmental Engineering,2,BM,2025-12-03 12:49:00
+2022,2308,"Management, Monitoring, Policy and Law",2,BM,2025-12-03 12:49:00
+2022,2309,Nature and Landscape Conservation,2,BM,2025-12-03 12:49:00
+2022,1105,"Ecology, Evolution, Behavior and Systematics",1,BM,2025-12-03 12:49:00
+2022,1106,Food Science,1,BM,2025-12-03 12:49:00
+2022,1204,Archeology,1,BM,2025-12-03 12:49:00
+2022,1607,Spectroscopy,1,BM,2025-12-03 12:49:00
+2022,1904,Earth-Surface Processes,1,BM,2025-12-03 12:49:00
+2022,2002,Economics and Econometrics,1,BM,2025-12-03 12:49:00
+2022,2212,Ocean Engineering,1,BM,2025-12-03 12:49:00
+2022,2214,Media Technology,1,BM,2025-12-03 12:49:00
+2022,2310,Pollution,1,BM,2025-12-03 12:49:00
+2022,2403,Immunology,1,BM,2025-12-03 12:49:00
+2022,2727,Nephrology,1,BM,2025-12-03 12:49:00
+2022,2740,Pulmonary and Respiratory Medicine,1,BM,2025-12-03 12:49:00
+2022,3312,Sociology and Political Science,1,BM,2025-12-03 12:49:00
+2023,1910,Oceanography,35,BM,2025-12-03 12:49:00
+2023,2303,Ecology,28,BM,2025-12-03 12:49:00
+2023,2306,Global and Planetary Change,23,BM,2025-12-03 12:49:00
+2023,1902,Atmospheric Science,15,BM,2025-12-03 12:49:00
+2023,1312,Molecular Biology,6,BM,2025-12-03 12:49:00
+2023,2309,Nature and Landscape Conservation,6,BM,2025-12-03 12:49:00
+2023,2304,Environmental Chemistry,4,BM,2025-12-03 12:49:00
+2023,1702,Artificial Intelligence,3,BM,2025-12-03 12:49:00
+2023,1911,Paleontology,3,BM,2025-12-03 12:49:00
+2023,1904,Earth-Surface Processes,2,BM,2025-12-03 12:49:00
+2023,1906,Geochemistry and Petrology,2,BM,2025-12-03 12:49:00
+2023,2307,"Health, Toxicology and Mutagenesis",2,BM,2025-12-03 12:49:00
+2023,2310,Pollution,2,BM,2025-12-03 12:49:00
+2023,2312,Water Science and Technology,2,BM,2025-12-03 12:49:00
+2023,1703,Computational Theory and Mathematics,1,BM,2025-12-03 12:49:00
+2023,1802,Information Systems and Management,1,BM,2025-12-03 12:49:00
+2023,2208,Electrical and Electronic Engineering,1,BM,2025-12-03 12:49:00
+2023,2311,Industrial and Manufacturing Engineering,1,BM,2025-12-03 12:49:00
+2023,2403,Immunology,1,BM,2025-12-03 12:49:00
+2023,2502,Biomaterials,1,BM,2025-12-03 12:49:00
+2024,2303,Ecology,29,BM,2025-12-03 12:49:00
+2024,1910,Oceanography,24,BM,2025-12-03 12:49:00
+2024,1312,Molecular Biology,11,BM,2025-12-03 12:49:00
+2024,2306,Global and Planetary Change,6,BM,2025-12-03 12:49:00
+2024,2304,Environmental Chemistry,4,BM,2025-12-03 12:49:00
+2024,1902,Atmospheric Science,3,BM,2025-12-03 12:49:00
+2024,2309,Nature and Landscape Conservation,3,BM,2025-12-03 12:49:00
+2024,1607,Spectroscopy,2,BM,2025-12-03 12:49:00
+2024,1104,Aquatic Science,1,BM,2025-12-03 12:49:00
+2024,1105,"Ecology, Evolution, Behavior and Systematics",1,BM,2025-12-03 12:49:00
+2024,1305,Biotechnology,1,BM,2025-12-03 12:49:00
+2024,1309,Developmental Biology,1,BM,2025-12-03 12:49:00
+2024,1311,Genetics,1,BM,2025-12-03 12:49:00
+2024,1906,Geochemistry and Petrology,1,BM,2025-12-03 12:49:00
+2024,2212,Ocean Engineering,1,BM,2025-12-03 12:49:00
+2024,2214,Media Technology,1,BM,2025-12-03 12:49:00
+2024,2302,Ecological Modeling,1,BM,2025-12-03 12:49:00
+2024,2307,"Health, Toxicology and Mutagenesis",1,BM,2025-12-03 12:49:00
+2024,2308,"Management, Monitoring, Policy and Law",1,BM,2025-12-03 12:49:00
+2024,3103,Astronomy and Astrophysics,1,BM,2025-12-03 12:49:00
+2025,1910,Oceanography,14,BM,2025-12-03 12:49:00
+2025,2303,Ecology,12,BM,2025-12-03 12:49:00
+2025,1902,Atmospheric Science,5,BM,2025-12-03 12:49:00
+2025,1911,Paleontology,4,BM,2025-12-03 12:49:00
+2025,1904,Earth-Surface Processes,3,BM,2025-12-03 12:49:00
+2025,2304,Environmental Chemistry,3,BM,2025-12-03 12:49:00
+2025,2306,Global and Planetary Change,3,BM,2025-12-03 12:49:00
+2025,1312,Molecular Biology,2,BM,2025-12-03 12:49:00
+2025,2309,Nature and Landscape Conservation,2,BM,2025-12-03 12:49:00
+2025,1109,Insect Science,1,BM,2025-12-03 12:49:00
+2025,1110,Plant Science,1,BM,2025-12-03 12:49:00
+2025,1307,Cell Biology,1,BM,2025-12-03 12:49:00
+2025,1705,Computer Networks and Communications,1,BM,2025-12-03 12:49:00
+2025,2208,Electrical and Electronic Engineering,1,BM,2025-12-03 12:49:00
+2025,2302,Ecological Modeling,1,BM,2025-12-03 12:49:00
+2025,2305,Environmental Engineering,1,BM,2025-12-03 12:49:00

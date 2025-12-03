@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-1110,Plant Science,Medicinal plants: Traditions of yesterday and drugs of tomorrow,https://doi.org/10.1016/j.mam.2005.07.008,2005,2273,https://openalex.org/W1965565026
-1110,Plant Science,Phenolics as potential antioxidant therapeutic agents: Mechanism and actions,https://doi.org/10.1016/j.mrfmmm.2005.03.023,2005,1476,https://openalex.org/W2001795223
-1110,Plant Science,Fungal diversity notes 111–252—taxonomic and phylogenetic contributions to fungal taxa,https://doi.org/10.1007/s13225-015-0346-5,2015,717,https://openalex.org/W2190700649
+1110,Plant Science,Medicinal plants: Traditions of yesterday and drugs of tomorrow,https://doi.org/10.1016/j.mam.2005.07.008,2005,2282,https://openalex.org/W1965565026
+1110,Plant Science,Phenolics as potential antioxidant therapeutic agents: Mechanism and actions,https://doi.org/10.1016/j.mrfmmm.2005.03.023,2005,1478,https://openalex.org/W2001795223
+1110,Plant Science,Fungal diversity notes 111–252—taxonomic and phylogenetic contributions to fungal taxa,https://doi.org/10.1007/s13225-015-0346-5,2015,722,https://openalex.org/W2190700649
+1110,Plant Science,"The Faces of Fungi database: fungal names linked with morphology, phylogeny and human impacts",https://doi.org/10.1007/s13225-015-0351-8,2015,693,https://openalex.org/W1928057741
+1110,Plant Science,Traditional Medicines in Africa: An Appraisal of Ten Potent African Medicinal Plants,https://doi.org/10.1155/2013/617459,2013,609,https://openalex.org/W2157525511
+1110,Plant Science,Fungal diversity notes 367–490: taxonomic and phylogenetic contributions to fungal taxa,https://doi.org/10.1007/s13225-016-0373-x,2016,498,https://openalex.org/W4211036915
+1110,Plant Science,Unambiguous identification of fungi: where do we stand and how accurate and precise is fungal DNA barcoding?,https://doi.org/10.1186/s43008-020-00033-z,2020,457,https://openalex.org/W3040709534
+1110,Plant Science,Families of Sordariomycetes,https://doi.org/10.1007/s13225-016-0369-6,2016,419,https://openalex.org/W2424727007
+1110,Plant Science,Notes for genera: Ascomycota,https://doi.org/10.1007/s13225-017-0386-0,2017,328,https://openalex.org/W2762272814
+1110,Plant Science,Fungal diversity notes 929–1035: taxonomic and phylogenetic contributions on genera and species of fungi,https://doi.org/10.1007/s13225-019-00421-w,2019,327,https://openalex.org/W2943233012
 2208,Electrical and Electronic Engineering,"Tellurene: its physical properties, scalable nanomanufacturing, and device applications",https://doi.org/10.1039/c8cs00598b,2018,290,https://openalex.org/W2885487088
 2208,Electrical and Electronic Engineering,Generation expansion planning optimisation with renewable energy integration: A review,https://doi.org/10.1016/j.rser.2016.11.120,2016,267,https://openalex.org/W2558804746
 2208,Electrical and Electronic Engineering,A hybrid method for forecasting the energy output of photovoltaic systems,https://doi.org/10.1016/j.enconman.2015.02.052,2015,157,https://openalex.org/W2000779101
-1312,Molecular Biology,Genome-wide association study in individuals of South Asian ancestry identifies six new type 2 diabetes susceptibility loci,https://doi.org/10.1038/ng.921,2011,538,https://openalex.org/W1989970381
-1312,Molecular Biology,Epigenome-wide association of DNA methylation markers in peripheral blood from Indian Asians and Europeans with incident type 2 diabetes: a nested case-control study,https://doi.org/10.1016/s2213-8587(15)00127-8,2015,526,https://openalex.org/W1808248494
-1312,Molecular Biology,Fungal diversity notes 367–490: taxonomic and phylogenetic contributions to fungal taxa,https://doi.org/10.1007/s13225-016-0373-x,2016,494,https://openalex.org/W4211036915
-3312,Sociology and Political Science,Consumers acceptance of artificially intelligent (AI) device use in service delivery,https://doi.org/10.1016/j.ijinfomgt.2019.03.008,2019,1035,https://openalex.org/W2947308709
-3312,Sociology and Political Science,The role of transport infrastructure in international tourism development: A gravity model approach,https://doi.org/10.1016/j.tourman.2007.09.005,2007,631,https://openalex.org/W2082170866
-3312,Sociology and Political Science,Residents’ attitudes to tourism: a longitudinal study of 140 articles from 1984 to 2010,https://doi.org/10.1080/09669582.2012.673621,2012,416,https://openalex.org/W1977430153
-2002,Economics and Econometrics,The role of transport infrastructure in international tourism development: A gravity model approach,https://doi.org/10.1016/j.tourman.2007.09.005,2007,631,https://openalex.org/W2082170866
-2002,Economics and Econometrics,The CO 2 emissions-income nexus: Evidence from rich countries,https://doi.org/10.1016/j.enpol.2010.11.050,2011,423,https://openalex.org/W2013688776
-2002,Economics and Econometrics,Transport infrastructure and tourism development,https://doi.org/10.1016/j.annals.2007.05.010,2007,411,https://openalex.org/W2046375376
-1705,Computer Networks and Communications,"On big data, artificial intelligence and smart cities",https://doi.org/10.1016/j.cities.2019.01.032,2019,1033,https://openalex.org/W2912275277
+2208,Electrical and Electronic Engineering,"Kinetic, equilibrium, thermodynamic studies and spectroscopic analysis of Alizarin Red S removal by mustard husk",https://doi.org/10.1016/j.jece.2013.09.021,2013,142,https://openalex.org/W1965798736
+2208,Electrical and Electronic Engineering,Evolutionary Multi-objective Environmental/Economic Dispatch: Stochastic Versus Deterministic Approaches,https://doi.org/10.1007/978-3-540-31880-4_47,2005,120,https://openalex.org/W1537337291
+2208,Electrical and Electronic Engineering,Adding value with CLEWS – Modelling the energy system and its interdependencies for Mauritius,https://doi.org/10.1016/j.apenergy.2013.08.083,2013,117,https://openalex.org/W1971984806
+2208,Electrical and Electronic Engineering,Bioelectrochemical systems using microalgae – A concise research update,https://doi.org/10.1016/j.chemosphere.2017.02.132,2017,114,https://openalex.org/W2593989674
+2208,Electrical and Electronic Engineering,Impacts of ICT on the natural ecosystem: A grassroot analysis for promoting socio-environmental sustainability,https://doi.org/10.1016/j.rser.2015.12.147,2016,103,https://openalex.org/W2235675257
+2208,Electrical and Electronic Engineering,Investigation of the relationship between the white layer thickness and 3D surface texture parameters in the die sinking EDM process,https://doi.org/10.1016/j.precisioneng.2005.02.001,2005,94,https://openalex.org/W2082428519
+2208,Electrical and Electronic Engineering,A Review of Mobile Ad hoc NETwork (MANET) Protocols and their Applications,https://doi.org/10.1109/iciccs51141.2021.9432258,2021,81,https://openalex.org/W3166067649
+1312,Molecular Biology,Genome-wide association study in individuals of South Asian ancestry identifies six new type 2 diabetes susceptibility loci,https://doi.org/10.1038/ng.921,2011,539,https://openalex.org/W1989970381
+1312,Molecular Biology,Epigenome-wide association of DNA methylation markers in peripheral blood from Indian Asians and Europeans with incident type 2 diabetes: a nested case-control study,https://doi.org/10.1016/s2213-8587(15)00127-8,2015,527,https://openalex.org/W1808248494
+1312,Molecular Biology,Fungal diversity notes 367–490: taxonomic and phylogenetic contributions to fungal taxa,https://doi.org/10.1007/s13225-016-0373-x,2016,498,https://openalex.org/W4211036915
+1312,Molecular Biology,Enabling the genomic revolution in Africa,https://doi.org/10.1126/science.1251546,2014,484,https://openalex.org/W2002732332
+1312,Molecular Biology,Conservation of oceanic island floras: Present and future global challenges,https://doi.org/10.1016/j.ppees.2009.10.001,2010,395,https://openalex.org/W2164756615
+1312,Molecular Biology,Inhibition of dark fermentative bio-hydrogen production: A review,https://doi.org/10.1016/j.ijhydene.2016.03.057,2016,331,https://openalex.org/W2340613567
+1312,Molecular Biology,Fungal diversity notes 929–1035: taxonomic and phylogenetic contributions on genera and species of fungi,https://doi.org/10.1007/s13225-019-00421-w,2019,327,https://openalex.org/W2943233012
+1312,Molecular Biology,Fungal diversity notes 491–602: taxonomic and phylogenetic contributions to fungal taxa,https://doi.org/10.1007/s13225-017-0378-0,2017,304,https://openalex.org/W4211102453
+1312,Molecular Biology,Fungal diversity notes 603–708: taxonomic and phylogenetic notes on genera and species,https://doi.org/10.1007/s13225-017-0391-3,2017,289,https://openalex.org/W2772039660
+1312,Molecular Biology,Global genetic diversity of<i>Aedes aegypti</i>,https://doi.org/10.1111/mec.13866,2016,271,https://openalex.org/W2525424881
+3312,Sociology and Political Science,Consumers acceptance of artificially intelligent (AI) device use in service delivery,https://doi.org/10.1016/j.ijinfomgt.2019.03.008,2019,1042,https://openalex.org/W2947308709
+3312,Sociology and Political Science,The role of transport infrastructure in international tourism development: A gravity model approach,https://doi.org/10.1016/j.tourman.2007.09.005,2007,636,https://openalex.org/W2082170866
+3312,Sociology and Political Science,Residents’ attitudes to tourism: a longitudinal study of 140 articles from 1984 to 2010,https://doi.org/10.1080/09669582.2012.673621,2012,417,https://openalex.org/W1977430153
+3312,Sociology and Political Science,Assessing the dynamic economic impact of tourism for island economies,https://doi.org/10.1016/j.annals.2010.08.009,2010,397,https://openalex.org/W1964780554
+3312,Sociology and Political Science,London residents' support for the 2012 Olympic Games: The mediating effect of overall attitude,https://doi.org/10.1016/j.tourman.2012.08.003,2012,387,https://openalex.org/W2041592677
+3312,Sociology and Political Science,International Tourism and Outbreak of Coronavirus (COVID-19): A Cross-Country Analysis,https://doi.org/10.1177/0047287520931593,2020,348,https://openalex.org/W3038538535
+3312,Sociology and Political Science,Service quality and customer satisfaction: The moderating effects of hotel star rating,https://doi.org/10.1016/j.ijhm.2019.102414,2019,345,https://openalex.org/W2991627427
+3312,Sociology and Political Science,Residents’ Support for Tourism,https://doi.org/10.1177/0047287515592972,2015,320,https://openalex.org/W754917385
+3312,Sociology and Political Science,Residents’ impact perceptions of and attitudes towards tourism development: a meta-analysis,https://doi.org/10.1080/19368623.2018.1516589,2018,287,https://openalex.org/W2892321301
+3312,Sociology and Political Science,"Examining the Structural Relationships of Destination Image, Perceived Value, Tourist Satisfaction and Loyalty: Case of Mauritius",https://doi.org/10.1016/j.sbspro.2015.01.1198,2015,281,https://openalex.org/W2082051390
+2002,Economics and Econometrics,The role of transport infrastructure in international tourism development: A gravity model approach,https://doi.org/10.1016/j.tourman.2007.09.005,2007,636,https://openalex.org/W2082170866
+2002,Economics and Econometrics,The CO 2 emissions-income nexus: Evidence from rich countries,https://doi.org/10.1016/j.enpol.2010.11.050,2011,424,https://openalex.org/W2013688776
+2002,Economics and Econometrics,Transport infrastructure and tourism development,https://doi.org/10.1016/j.annals.2007.05.010,2007,412,https://openalex.org/W2046375376
+2002,Economics and Econometrics,Assessing the dynamic economic impact of tourism for island economies,https://doi.org/10.1016/j.annals.2010.08.009,2010,397,https://openalex.org/W1964780554
+2002,Economics and Econometrics,What determines success of an e-government service? Validation of an integrative model of e-filing continuance usage,https://doi.org/10.1016/j.giq.2018.03.004,2018,366,https://openalex.org/W2793319820
+2002,Economics and Econometrics,International Tourism and Outbreak of Coronavirus (COVID-19): A Cross-Country Analysis,https://doi.org/10.1177/0047287520931593,2020,348,https://openalex.org/W3038538535
+2002,Economics and Econometrics,Tourism Competitiveness: Price and Quality,https://doi.org/10.5367/0000000053297202,2005,182,https://openalex.org/W132774637
+2002,Economics and Econometrics,Working capital level influence on SME profitability,https://doi.org/10.1108/jsbed-01-2014-0014,2016,143,https://openalex.org/W1196119975
+2002,Economics and Econometrics,Impact of Economic and Financial Development on Environmental Degradation: Evidence from Small Island Developing States (SIDS),https://doi.org/10.1080/1540496x.2018.1519696,2018,108,https://openalex.org/W2896692549
+2002,Economics and Econometrics,Transport infrastructure and foreign direct investment,https://doi.org/10.1002/jid.1506,2008,103,https://openalex.org/W1970230072
+1705,Computer Networks and Communications,"On big data, artificial intelligence and smart cities",https://doi.org/10.1016/j.cities.2019.01.032,2019,1038,https://openalex.org/W2912275277
 1705,Computer Networks and Communications,A Wireless Sensor Network Air Pollution Monitoring System,https://doi.org/10.5121/ijwmn.2010.2203,2010,301,https://openalex.org/W2005844032
-1705,Computer Networks and Communications,A Taxonomy of Network Threats and the Effect of Current Datasets on Intrusion Detection Systems,https://doi.org/10.1109/access.2020.3000179,2020,212,https://openalex.org/W3033213260
-1702,Artificial Intelligence,Consumers acceptance of artificially intelligent (AI) device use in service delivery,https://doi.org/10.1016/j.ijinfomgt.2019.03.008,2019,1035,https://openalex.org/W2947308709
-1702,Artificial Intelligence,Daily energy expenditure through the human life course,https://doi.org/10.1126/science.abe5017,2021,507,https://openalex.org/W3183815414
-1702,Artificial Intelligence,Multi-criteria GIS-based modelling technique for identifying potential solar farm sites: A case study in Mauritius,https://doi.org/10.1016/j.renene.2018.08.105,2018,231,https://openalex.org/W2889595953
+1705,Computer Networks and Communications,A Taxonomy of Network Threats and the Effect of Current Datasets on Intrusion Detection Systems,https://doi.org/10.1109/access.2020.3000179,2020,214,https://openalex.org/W3033213260
+1705,Computer Networks and Communications,Exploring the Internet of Things (IoT) in Education: A Review,https://doi.org/10.1007/978-981-13-3338-5_23,2019,113,https://openalex.org/W2908151518
+1705,Computer Networks and Communications,A Review of Mobile Ad hoc NETwork (MANET) Protocols and their Applications,https://doi.org/10.1109/iciccs51141.2021.9432258,2021,81,https://openalex.org/W3166067649
+1705,Computer Networks and Communications,"Personalized and Adaptive Context-Aware Mobile Learning: Review, challenges and future directions",https://doi.org/10.1007/s10639-022-10942-8,2022,61,https://openalex.org/W4210994573
+1705,Computer Networks and Communications,Energy-efficient chain-cluster based intelligent routing technique for wireless sensor networks,https://doi.org/10.1016/j.aci.2018.02.004,2018,60,https://openalex.org/W2790604902
+1705,Computer Networks and Communications,"The future of university education: Examination, transcript, and certificate system using blockchain",https://doi.org/10.1002/cae.22381,2021,51,https://openalex.org/W3118267627
+1705,Computer Networks and Communications,A lightweight replay attack detection framework for battery depended IoT devices designed for healthcare,https://doi.org/10.1109/ictus.2017.8286118,2017,46,https://openalex.org/W2786603699
+1705,Computer Networks and Communications,READA: Redundancy Elimination for Accurate Data Aggregation in Wireless Sensor Networks,https://doi.org/10.4236/wsn.2010.24041,2010,45,https://openalex.org/W2153841237
+1702,Artificial Intelligence,Consumers acceptance of artificially intelligent (AI) device use in service delivery,https://doi.org/10.1016/j.ijinfomgt.2019.03.008,2019,1042,https://openalex.org/W2947308709
+1702,Artificial Intelligence,Daily energy expenditure through the human life course,https://doi.org/10.1126/science.abe5017,2021,509,https://openalex.org/W3183815414
+1702,Artificial Intelligence,Multi-criteria GIS-based modelling technique for identifying potential solar farm sites: A case study in Mauritius,https://doi.org/10.1016/j.renene.2018.08.105,2018,232,https://openalex.org/W2889595953
+1702,Artificial Intelligence,A Taxonomy of Network Threats and the Effect of Current Datasets on Intrusion Detection Systems,https://doi.org/10.1109/access.2020.3000179,2020,214,https://openalex.org/W3033213260
+1702,Artificial Intelligence,Customers’ acceptance of artificially intelligent service robots: The influence of trust and culture,https://doi.org/10.1016/j.ijinfomgt.2023.102623,2023,187,https://openalex.org/W4317669872
+1702,Artificial Intelligence,A hybrid method for forecasting the energy output of photovoltaic systems,https://doi.org/10.1016/j.enconman.2015.02.052,2015,157,https://openalex.org/W2000779101
+1702,Artificial Intelligence,Fifty years of information management research: A conceptual structure analysis using structural topic modeling,https://doi.org/10.1016/j.ijinfomgt.2021.102316,2021,145,https://openalex.org/W3124006669
+1702,Artificial Intelligence,Knowledge management in higher education institutions: enablers and barriers in Mauritius,https://doi.org/10.1108/tlo-03-2017-0030,2017,134,https://openalex.org/W2618223808
+1702,Artificial Intelligence,Multi- class classification of breast cancer abnormalities using Deep Convolutional Neural Network (CNN),https://doi.org/10.1371/journal.pone.0256500,2021,118,https://openalex.org/W3195475698
+1702,Artificial Intelligence,"Identification of optimal wind, solar and hybrid wind-solar farming sites using fuzzy logic modelling",https://doi.org/10.1016/j.energy.2019.116056,2019,92,https://openalex.org/W2971522335
 1710,Information Systems,Exploring the Internet of Things (IoT) in Education: A Review,https://doi.org/10.1007/978-981-13-3338-5_23,2019,113,https://openalex.org/W2908151518
 1710,Information Systems,Cognitive load management in mobile learning systems: principles and theories,https://doi.org/10.1007/s40692-020-00173-6,2020,95,https://openalex.org/W3048546900
 1710,Information Systems,"Augmented reality, the future of contextual mobile learning",https://doi.org/10.1108/itse-07-2015-0017,2016,95,https://openalex.org/W2475209639
-2303,Ecology,Coral bleaching: the role of the host,https://doi.org/10.1016/j.tree.2008.09.005,2008,572,https://openalex.org/W2069226066
+1710,Information Systems,Accommodating Soft Skills in Software Project Management,https://doi.org/10.28945/2923,2005,73,https://openalex.org/W1814415493
+1710,Information Systems,Teaching and learning physics using technology: Making a case for the affective domain,https://doi.org/10.1080/20004508.2017.1343606,2017,63,https://openalex.org/W2730433808
+1710,Information Systems,Foreign Aid and Economic Growth in Developing Countries: Evidence from Sub-Saharan Africa,https://doi.org/10.4236/tel.2017.75099,2017,61,https://openalex.org/W2746390007
+1710,Information Systems,"Personalized and Adaptive Context-Aware Mobile Learning: Review, challenges and future directions",https://doi.org/10.1007/s10639-022-10942-8,2022,61,https://openalex.org/W4210994573
+1710,Information Systems,Developing reproducible bioinformatics analysis workflows for heterogeneous computing environments to support African genomics,https://doi.org/10.1186/s12859-018-2446-1,2018,53,https://openalex.org/W2902201297
+1710,Information Systems,"The future of university education: Examination, transcript, and certificate system using blockchain",https://doi.org/10.1002/cae.22381,2021,51,https://openalex.org/W3118267627
+1710,Information Systems,CSR as a tool to fight against poverty: the case of Mauritius,https://doi.org/10.1108/17471110910939971,2009,48,https://openalex.org/W2094938509
+2303,Ecology,Coral bleaching: the role of the host,https://doi.org/10.1016/j.tree.2008.09.005,2008,573,https://openalex.org/W2069226066
 2303,Ecology,How Life History Influences Population Dynamics in Fluctuating Environments,https://doi.org/10.1086/673497,2013,224,https://openalex.org/W2127402692
 2303,Ecology,"Ethnopharmacology, Phytochemistry, and Global Distribution of Mangroves―A Comprehensive Review",https://doi.org/10.3390/md17040231,2019,178,https://openalex.org/W2940394258
-1106,Food Science,Essential Oils as Natural Sources of Fragrance Compounds for Cosmetics and Cosmeceuticals,https://doi.org/10.3390/molecules26030666,2021,550,https://openalex.org/W3124865939
-1106,Food Science,"Chemistry, bioactivities, mode of action and industrial applications of essential oils",https://doi.org/10.1016/j.tifs.2020.04.025,2020,304,https://openalex.org/W3021593568
-1106,Food Science,A systematic review on black pepper <i>(Piper nigrum</i> L.): from folk uses to pharmacological applications,https://doi.org/10.1080/10408398.2019.1565489,2019,288,https://openalex.org/W2913190706
+2303,Ecology,"Effects of geography, taxa, water flow, and temperature variation on coral bleaching intensity in Mauritius",https://doi.org/10.3354/meps298131,2005,169,https://openalex.org/W2027271010
+2303,Ecology,Standards for documenting and monitoring bird reintroduction projects,https://doi.org/10.1111/j.1755-263x.2010.00113.x,2010,165,https://openalex.org/W2163088923
+2303,Ecology,Algal symbionts increase oxidative damage and death in coral larvae at high temperatures,https://doi.org/10.3354/meps07857,2008,161,https://openalex.org/W2042187076
+2303,Ecology,The Fourth Global Coral Bleaching Event: Where do we go from here?,https://doi.org/10.1007/s00338-024-02504-w,2024,126,https://openalex.org/W4399174757
+2303,Ecology,New universal ITS2 primers for high-resolution herbivory analyses using DNA metabarcoding in both tropical and temperate zones,https://doi.org/10.1038/s41598-018-26648-2,2018,120,https://openalex.org/W2807347642
+2303,Ecology,Differential effects of copper on three species of scleractinian corals and their algal symbionts (Symbiodinium spp.),https://doi.org/10.1016/j.aquatox.2009.12.021,2010,118,https://openalex.org/W2143946867
+2303,Ecology,The Use of Extant Non-Indigenous Tortoises as a Restoration Tool to Replace Extinct Ecosystem Engineers,https://doi.org/10.1111/j.1526-100x.2009.00612.x,2009,115,https://openalex.org/W1978401332
+1106,Food Science,Essential Oils as Natural Sources of Fragrance Compounds for Cosmetics and Cosmeceuticals,https://doi.org/10.3390/molecules26030666,2021,552,https://openalex.org/W3124865939
+1106,Food Science,"Chemistry, bioactivities, mode of action and industrial applications of essential oils",https://doi.org/10.1016/j.tifs.2020.04.025,2020,305,https://openalex.org/W3021593568
+1106,Food Science,A systematic review on black pepper <i>(Piper nigrum</i> L.): from folk uses to pharmacological applications,https://doi.org/10.1080/10408398.2019.1565489,2019,290,https://openalex.org/W2913190706
+1106,Food Science,"Extraction, Characterisation, and Application of Pectin from Tropical and Sub-Tropical Fruits: A Review",https://doi.org/10.1080/87559129.2020.1733008,2020,256,https://openalex.org/W3010098211
+1106,Food Science,Climate Change and Emerging Food Safety Issues: A Review,https://doi.org/10.4315/jfp-21-141,2021,238,https://openalex.org/W3173551749
+1106,Food Science,Nutritional and functional roles of millets—A review,https://doi.org/10.1111/jfbc.12859,2019,168,https://openalex.org/W2937586875
+1106,Food Science,"Combating breast cancer using combination therapy with 3 phytochemicals: Piperine, sulforaphane, and thymoquinone",https://doi.org/10.1002/cncr.32022,2019,146,https://openalex.org/W2915528638
+1106,Food Science,"Stevia rebaudiana Bertoni.: an updated review of its health benefits, industrial applications and safety",https://doi.org/10.1016/j.tifs.2020.04.030,2020,138,https://openalex.org/W3020448002
+1106,Food Science,"Antimicrobial, antibiotic potentiating activity and phytochemical profile of essential oils from exotic and endemic medicinal plants of Mauritius",https://doi.org/10.1016/j.indcrop.2015.03.058,2015,124,https://openalex.org/W1986134017
+1106,Food Science,Screening of traditional antidiabetic medicinal plants of mauritius for possible <i>α</i>‐amylase inhibitory effects <i>in vitro</i>,https://doi.org/10.1002/ptr.1839,2006,115,https://openalex.org/W2053328867

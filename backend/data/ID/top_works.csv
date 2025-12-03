@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
 3304,Education,Manajemen Sumber Daya Manusia,https://doi.org/10.31539/alignment.v2i1.721,2019,5054,https://openalex.org/W2955311731
-3304,Education,Is the CVI an acceptable indicator of content validity? Appraisal and recommendations,https://doi.org/10.1002/nur.20199,2007,4374,https://openalex.org/W2078199993
-3304,Education,BELAJAR DAN PEMBELAJARAN,https://doi.org/10.24952/fitrah.v3i2.945,2017,2714,https://openalex.org/W2921488632
-1710,Information Systems,ANALISIS DATA KUALITATIF,https://doi.org/10.18592/alhadharah.v17i33.2374,2019,2874,https://openalex.org/W2913450733
-1710,Information Systems,BELAJAR DAN PEMBELAJARAN,https://doi.org/10.24952/fitrah.v3i2.945,2017,2714,https://openalex.org/W2921488632
+3304,Education,Is the CVI an acceptable indicator of content validity? Appraisal and recommendations,https://doi.org/10.1002/nur.20199,2007,4399,https://openalex.org/W2078199993
+3304,Education,BELAJAR DAN PEMBELAJARAN,https://doi.org/10.24952/fitrah.v3i2.945,2017,2715,https://openalex.org/W2921488632
+3304,Education,Evaluasi Pembelajaran,https://doi.org/10.37680/ssa.v1i2.3582,2023,2645,https://openalex.org/W4390352677
+3304,Education,Teori Belajar dan Pembelajaran,https://doi.org/10.30997/dt.v2i1.302,2017,1359,https://openalex.org/W2768494752
+3304,Education,Pembelajaran Daring di Tengah Wabah Covid-19,https://doi.org/10.22437/bio.v6i2.9759,2020,1328,https://openalex.org/W3037441598
+3304,Education,PERANAN MEDIA PEMBELAJARAN DALAM MENINGKATKAN MINAT BELAJAR MAHASISWA,https://doi.org/10.32585/jkp.v2i2.113,2018,1272,https://openalex.org/W2967645575
+3304,Education,The Perceptions of Primary School Teachers of Online Learning during the COVID-19 Pandemic Period: A Case Study in Indonesia,https://doi.org/10.29333/ejecs/388,2020,1126,https://openalex.org/W3039868574
+3304,Education,Pembelajaran Online di Tengah Pandemi Covid-19,https://doi.org/10.31605/ijes.v2i2.659,2020,1060,https://openalex.org/W3020405192
+3304,Education,FILSAFAT PENDIDIKAN ISLAM,https://doi.org/10.24252/ip.v6i2.5231,2017,1049,https://openalex.org/W2944703284
+1710,Information Systems,ANALISIS DATA KUALITATIF,https://doi.org/10.18592/alhadharah.v17i33.2374,2019,2876,https://openalex.org/W2913450733
+1710,Information Systems,BELAJAR DAN PEMBELAJARAN,https://doi.org/10.24952/fitrah.v3i2.945,2017,2715,https://openalex.org/W2921488632
 1710,Information Systems,Evaluasi Pembelajaran,https://doi.org/10.37680/ssa.v1i2.3582,2023,2645,https://openalex.org/W4390352677
-3312,Sociology and Political Science,Coronavirus Disease 2019: Tinjauan Literatur Terkini,https://doi.org/10.7454/jpdi.v7i1.415,2020,1448,https://openalex.org/W3015186860
-3312,Sociology and Political Science,Review and analysis of current responses to COVID-19 in Indonesia: Period of January to March 2020,https://doi.org/10.1016/j.pdisas.2020.100091,2020,1241,https://openalex.org/W3014719091
-3312,Sociology and Political Science,Environmental Income and Rural Livelihoods: A Global-Comparative Analysis,https://doi.org/10.1016/j.worlddev.2014.03.006,2014,1035,https://openalex.org/W2170853760
-3317,Demography,MANAJEMEN SUMBER DAYA MANUSIA,https://doi.org/10.35673/ajmpi.v9i2.429,2019,1711,https://openalex.org/W2970954386
-3317,Demography,The potential of Indonesian mangrove forests for global climate change mitigation,https://doi.org/10.1038/nclimate2734,2015,779,https://openalex.org/W998093192
-3317,Demography,TEKNIK-TEKNIK OBSERVASI (Sebuah Alternatif Metode Pengumpulan Data Kualitatif Ilmu-ilmu Sosial),https://doi.org/10.21580/at.v8i1.1163,2017,753,https://openalex.org/W2748920582
+1710,Information Systems,Memahami desain metode penelitian kualitatif,https://doi.org/10.21831/hum.v21i1.38075,2021,1663,https://openalex.org/W3159646287
+1710,Information Systems,METODOLOGI PENELITIAN KESEHATAN,https://doi.org/10.31219/osf.io/cmv89,2021,1388,https://openalex.org/W4235532671
+1710,Information Systems,Teori Belajar dan Pembelajaran,https://doi.org/10.30997/dt.v2i1.302,2017,1359,https://openalex.org/W2768494752
+1710,Information Systems,PERANAN MEDIA PEMBELAJARAN DALAM MENINGKATKAN MINAT BELAJAR MAHASISWA,https://doi.org/10.32585/jkp.v2i2.113,2018,1272,https://openalex.org/W2967645575
+1710,Information Systems,Integration K-Means Clustering Method and Elbow Method For Identification of The Best Customer Profile Cluster,https://doi.org/10.1088/1757-899x/336/1/012017,2018,1098,https://openalex.org/W2802772536
+1710,Information Systems,Pembelajaran Online di Tengah Pandemi Covid-19,https://doi.org/10.31605/ijes.v2i2.659,2020,1060,https://openalex.org/W3020405192
+1710,Information Systems,"Dampak Covid-19 pada Pendidikan di Indonesia: Sekolah, Keterampilan, dan Proses Pembelajaran",https://doi.org/10.15408/sjsbs.v7i5.15314,2020,1033,https://openalex.org/W3017173732
+3312,Sociology and Political Science,Coronavirus Disease 2019: Tinjauan Literatur Terkini,https://doi.org/10.7454/jpdi.v7i1.415,2020,1449,https://openalex.org/W3015186860
+3312,Sociology and Political Science,Review and analysis of current responses to COVID-19 in Indonesia: Period of January to March 2020,https://doi.org/10.1016/j.pdisas.2020.100091,2020,1243,https://openalex.org/W3014719091
+3312,Sociology and Political Science,Environmental Income and Rural Livelihoods: A Global-Comparative Analysis,https://doi.org/10.1016/j.worlddev.2014.03.006,2014,1038,https://openalex.org/W2170853760
+3312,Sociology and Political Science,"Dampak Covid-19 pada Pendidikan di Indonesia: Sekolah, Keterampilan, dan Proses Pembelajaran",https://doi.org/10.15408/sjsbs.v7i5.15314,2020,1033,https://openalex.org/W3017173732
+3312,Sociology and Political Science,The human imperative of stabilizing global climate change at 1.5°C,https://doi.org/10.1126/science.aaw6974,2019,918,https://openalex.org/W2974545260
+3312,Sociology and Political Science,Metode Penelitian Kualitatif Studi Pustaka,https://doi.org/10.33487/edumaspul.v6i1.3394,2022,790,https://openalex.org/W4294714162
+3312,Sociology and Political Science,Kebijakan Pemberlakuan Lock Down Sebagai Antisipasi Penyebaran Corona Virus Covid-19,https://doi.org/10.15408/sjsbs.v7i3.15083,2020,726,https://openalex.org/W3013996241
+3312,Sociology and Political Science,Corona virus diseases (Covid-19): Sebuah tinjauan literatur,https://doi.org/10.30604/well.95212020,2020,657,https://openalex.org/W3011492654
+3312,Sociology and Political Science,Janeway’s Immunobiology,https://doi.org/10.22146/teknosains.5992,2012,655,https://openalex.org/W2296221004
+3312,Sociology and Political Science,Dampak Pandemi COVID-19 terhadap Perekonomian Indonesia,https://doi.org/10.22216/jbe.v5i2.5313,2020,623,https://openalex.org/W3046743374
+3317,Demography,MANAJEMEN SUMBER DAYA MANUSIA,https://doi.org/10.35673/ajmpi.v9i2.429,2019,1712,https://openalex.org/W2970954386
+3317,Demography,The potential of Indonesian mangrove forests for global climate change mitigation,https://doi.org/10.1038/nclimate2734,2015,784,https://openalex.org/W998093192
+3317,Demography,TEKNIK-TEKNIK OBSERVASI (Sebuah Alternatif Metode Pengumpulan Data Kualitatif Ilmu-ilmu Sosial),https://doi.org/10.21580/at.v8i1.1163,2017,755,https://openalex.org/W2748920582
+3317,Demography,Identifying Digital Transformation Paths in the Business Model of SMEs during the COVID-19 Pandemic,https://doi.org/10.3390/joitmc6040104,2020,643,https://openalex.org/W3089517677
+3317,Demography,The mHealth App Usability Questionnaire (MAUQ): Development and Validation Study,https://doi.org/10.2196/11500,2019,631,https://openalex.org/W2929198708
+3317,Demography,Dampak Pandemi COVID-19 terhadap Perekonomian Indonesia,https://doi.org/10.22216/jbe.v5i2.5313,2020,623,https://openalex.org/W3046743374
+3317,Demography,Metodologi Penelitian Bisnis,,2019,618,https://openalex.org/W3086772204
+3317,Demography,DAMPAK COVID-19 TERHADAP UMKM DI INDONESIA,,2020,551,https://openalex.org/W3039177460
+3317,Demography,MANAJEMEN SUMBER DAYA MANUSIA,https://doi.org/10.31219/osf.io/yq85t,2020,550,https://openalex.org/W4246909751
+3317,Demography,Analisis kinerja keuangan,https://doi.org/10.29264/jkin.v14i1.2444,2018,525,https://openalex.org/W2793479668
 1408,Strategy and Management,Uji Validitas dan Reliabilitas Instrumen Penelitian Kuantitatif,https://doi.org/10.18592/tarbiyah.v7i1.2100,2018,671,https://openalex.org/W2890196419
-1408,Strategy and Management,Pursuing green growth in technology firms through the connections between environmental innovation and sustainable business performance: Does service capability matter?,https://doi.org/10.1016/j.resconrec.2018.09.031,2018,648,https://openalex.org/W2897358992
+1408,Strategy and Management,Pursuing green growth in technology firms through the connections between environmental innovation and sustainable business performance: Does service capability matter?,https://doi.org/10.1016/j.resconrec.2018.09.031,2018,651,https://openalex.org/W2897358992
 1408,Strategy and Management,The collaboration index: a measure for supply chain collaboration,https://doi.org/10.1108/09600030510577421,2005,553,https://openalex.org/W2040837002
-2735,"Pediatrics, Perinatology and Child Health",Coronavirus Disease 2019: Tinjauan Literatur Terkini,https://doi.org/10.7454/jpdi.v7i1.415,2020,1448,https://openalex.org/W3015186860
+1408,Strategy and Management,Global patterns and trends in the use and management of commercial NTFPs: Implications for livelihoods and conservation,https://doi.org/10.1016/j.worlddev.2004.10.007,2005,517,https://openalex.org/W2029568597
+1408,Strategy and Management,"Type of earnings management and the effect of ownership structure, firm size, and corporate-governance practices: Evidence from Indonesia",https://doi.org/10.1016/j.intacc.2008.01.001,2008,487,https://openalex.org/W2098267900
+1408,Strategy and Management,"Effects of environmental strategy, environmental uncertainty and top management's commitment on corporate environmental performance: The role of environmental management accounting",https://doi.org/10.1016/j.jclepro.2018.01.106,2018,480,https://openalex.org/W2792475383
+1408,Strategy and Management,An integrative framework for supply chain collaboration,https://doi.org/10.1108/09574090510634548,2005,470,https://openalex.org/W2057117981
+1408,Strategy and Management,"The effect of work environment, leadership style, and organizational culture towards job satisfaction and its implication towards employee performance in Parador Hotels and Resorts, Indonesia",https://doi.org/10.1108/ijlma-10-2016-0085,2017,453,https://openalex.org/W2765252927
+1408,Strategy and Management,The role of supply-chain initiatives in reducing deforestation,https://doi.org/10.1038/s41558-017-0061-1,2018,450,https://openalex.org/W2786764113
+1408,Strategy and Management,Business Strategies and Competitive Advantage: The Role of Performance and Innovation,https://doi.org/10.3390/joitmc8030163,2022,427,https://openalex.org/W4296004703
+2735,"Pediatrics, Perinatology and Child Health",Coronavirus Disease 2019: Tinjauan Literatur Terkini,https://doi.org/10.7454/jpdi.v7i1.415,2020,1449,https://openalex.org/W3015186860
 2735,"Pediatrics, Perinatology and Child Health",METODOLOGI PENELITIAN KESEHATAN,https://doi.org/10.31219/osf.io/cmv89,2021,1388,https://openalex.org/W4235532671
-2735,"Pediatrics, Perinatology and Child Health",Maternal and Neonatal Morbidity and Mortality Among Pregnant Women With and Without COVID-19 Infection,https://doi.org/10.1001/jamapediatrics.2021.1050,2021,1301,https://openalex.org/W3153280783
-1702,Artificial Intelligence,ANALISIS DATA KUALITATIF,https://doi.org/10.18592/alhadharah.v17i33.2374,2019,2874,https://openalex.org/W2913450733
-1702,Artificial Intelligence,Memahami desain metode penelitian kualitatif,https://doi.org/10.21831/hum.v21i1.38075,2021,1662,https://openalex.org/W3159646287
-1702,Artificial Intelligence,Coronavirus Disease 2019: Tinjauan Literatur Terkini,https://doi.org/10.7454/jpdi.v7i1.415,2020,1448,https://openalex.org/W3015186860
+2735,"Pediatrics, Perinatology and Child Health",Maternal and Neonatal Morbidity and Mortality Among Pregnant Women With and Without COVID-19 Infection,https://doi.org/10.1001/jamapediatrics.2021.1050,2021,1307,https://openalex.org/W3153280783
+2735,"Pediatrics, Perinatology and Child Health",A living WHO guideline on drugs for covid-19,https://doi.org/10.1136/bmj.m3379,2020,1046,https://openalex.org/W3081745349
+2735,"Pediatrics, Perinatology and Child Health",Kebijakan Pemberlakuan Lock Down Sebagai Antisipasi Penyebaran Corona Virus Covid-19,https://doi.org/10.15408/sjsbs.v7i3.15083,2020,726,https://openalex.org/W3013996241
+2735,"Pediatrics, Perinatology and Child Health",Effect of payments for health care on poverty estimates in 11 countries in Asia: an analysis of household survey data,https://doi.org/10.1016/s0140-6736(06)69560-3,2006,685,https://openalex.org/W2109725907
+2735,"Pediatrics, Perinatology and Child Health",A review of child stunting determinants in <scp>Indonesia</scp>,https://doi.org/10.1111/mcn.12617,2018,667,https://openalex.org/W2804956866
+2735,"Pediatrics, Perinatology and Child Health",Moving towards universal health coverage: health insurance reforms in nine developing countries in Africa and Asia,https://doi.org/10.1016/s0140-6736(12)61147-7,2012,629,https://openalex.org/W2041725211
+2735,"Pediatrics, Perinatology and Child Health",Catastrophic payments for health care in Asia,https://doi.org/10.1002/hec.1209,2007,616,https://openalex.org/W2137321576
+2735,"Pediatrics, Perinatology and Child Health",Dampak Pandemi Covid-19 Terhadap Dunia Pendidikan,https://doi.org/10.31599/jki.v1i1.265,2020,564,https://openalex.org/W3056062813
+1702,Artificial Intelligence,ANALISIS DATA KUALITATIF,https://doi.org/10.18592/alhadharah.v17i33.2374,2019,2876,https://openalex.org/W2913450733
+1702,Artificial Intelligence,Memahami desain metode penelitian kualitatif,https://doi.org/10.21831/hum.v21i1.38075,2021,1663,https://openalex.org/W3159646287
+1702,Artificial Intelligence,Coronavirus Disease 2019: Tinjauan Literatur Terkini,https://doi.org/10.7454/jpdi.v7i1.415,2020,1449,https://openalex.org/W3015186860
+1702,Artificial Intelligence,METODOLOGI PENELITIAN KESEHATAN,https://doi.org/10.31219/osf.io/cmv89,2021,1388,https://openalex.org/W4235532671
+1702,Artificial Intelligence,A review of multi-objective optimization: Methods and its applications,https://doi.org/10.1080/23311916.2018.1502242,2018,973,https://openalex.org/W2884165914
+1702,Artificial Intelligence,PENGEMBANGAN MEDIA PEMBELAJARAN BERBASIS TEKNOLOGI INFORMASI,https://doi.org/10.21831/jpai.v8i2.949,2010,644,https://openalex.org/W1533811953
+1702,Artificial Intelligence,KONSEP SISTEM INFORMASI,https://doi.org/10.17509/jap.v3i1.6095,2017,622,https://openalex.org/W2807792091
+1702,Artificial Intelligence,Deep Learning in Image Classification using Residual Network (ResNet) Variants for Detection of Colorectal Cancer,https://doi.org/10.1016/j.procs.2021.01.025,2021,484,https://openalex.org/W3129469040
+1702,Artificial Intelligence,Augmented Reality-assisted Pictorial Storybook: Media to Enhance Discipline Character of Primary School Students,https://doi.org/10.17509/mimbar-sd.v6i1.16415,2019,463,https://openalex.org/W2937129633
+1702,Artificial Intelligence,IMPLEMENTASI GENETIC FUZZY SYSTEM UNTUK MENGIDENTIFIKASI HASIL CURIAN KENDARAAN BERMOTOR DI POLDA LAMPUNG,https://doi.org/10.30873/simada.v1i1.1110,2018,452,https://openalex.org/W2891256416
 3308,Law,MEWUJUDKAN GOOD GOVERNANCE MELALUI PELAYANAN PUBLIK,https://doi.org/10.54783/dialektika.v19i1.62,2021,579,https://openalex.org/W4312346959
 3308,Law,COVID-19 pandemic,https://doi.org/10.53730/ijhs.v5n2.2937,2021,486,https://openalex.org/W4206039048
-3308,Law,Metodologi Penelitian Hukum sebagai Instrumen Mengurai Permasalahan Hukum Kontemporer,https://doi.org/10.14710/gk.2020.7504,2020,451,https://openalex.org/W4297846838
+3308,Law,Metodologi Penelitian Hukum sebagai Instrumen Mengurai Permasalahan Hukum Kontemporer,https://doi.org/10.14710/gk.2020.7504,2020,454,https://openalex.org/W4297846838
+3308,Law,Participation Non-Governmental Organization In Protecting Child Rights In The Area Of Social Conflict,,2017,289,https://openalex.org/W3112850620
+3308,Law,MENYOROTI BUDAYA PATRIARKI DI INDONESIA,https://doi.org/10.24198/share.v7i1.13820,2017,287,https://openalex.org/W2756269263
+3308,Law,Bersama Melawan Virus Covid 19 di Indonesia,https://doi.org/10.15408/sjsbs.v7i6.15325,2020,266,https://openalex.org/W3017132317
+3308,Law,REVOLUSI INDUSTRI 4.0 DAN TANTANGAN PERUBAHAN SOSIAL,https://doi.org/10.12962/j23546026.y2018i5.4417,2018,258,https://openalex.org/W2908436919
+3308,Law,PEMAHAMAN TERHADAP ASAS KEPASTIAN HUKUM MELALUI KONSTRUKSI PENALARAN POSITIVISME HUKUM,https://doi.org/10.14710/crepido.1.1.13-22,2019,232,https://openalex.org/W2996047567
+3308,Law,KENAKALAN REMAJA DAN PENANGANANNYA,https://doi.org/10.24198/jppm.v4i2.14393,2017,220,https://openalex.org/W2787534892
+3308,Law,ANALISIS SITUASI KESEHATAN MENTAL PADA MASYARAKAT DI INDONESIA DAN STRATEGI PENANGGULANGANNYA,https://doi.org/10.26553/jikm.2018.9.1.1-10,2018,192,https://openalex.org/W2955147601
 1402,Accounting,Analisis kinerja keuangan,https://doi.org/10.29264/jkin.v14i1.2444,2018,525,https://openalex.org/W2793479668
 1402,Accounting,"Type of earnings management and the effect of ownership structure, firm size, and corporate-governance practices: Evidence from Indonesia",https://doi.org/10.1016/j.intacc.2008.01.001,2008,487,https://openalex.org/W2098267900
-1402,Accounting,The effect of good corporate governance mechanism and corporate social responsibility on financial performance with earnings management as mediating variable,https://doi.org/10.1108/ajar-06-2018-0008,2018,401,https://openalex.org/W2912049223
-1100,General Agricultural and Biological Sciences,Environmental Income and Rural Livelihoods: A Global-Comparative Analysis,https://doi.org/10.1016/j.worlddev.2014.03.006,2014,1035,https://openalex.org/W2170853760
+1402,Accounting,The effect of good corporate governance mechanism and corporate social responsibility on financial performance with earnings management as mediating variable,https://doi.org/10.1108/ajar-06-2018-0008,2018,403,https://openalex.org/W2912049223
+1402,Accounting,PENTINGNYA LITERASI KEUANGAN BAGI PENGELOLAAN KEUANGAN PRIBADI,https://doi.org/10.21831/nominal.v6i1.14330,2017,393,https://openalex.org/W2621289732
+1402,Accounting,"EFFECTS OF RETURN ON ASSET, DEBT TO ASSET RATIO, CURRENT RATIO, FIRM SIZE, AND DIVIDEND PAYOUT RATIO ON FIRM VALUE",https://doi.org/10.32479/ijefi.8595,2019,325,https://openalex.org/W2971859158
+1402,Accounting,"PENGARUH RETURN ON ASSETS, LEVERAGE, CORPORATE GOVERNANCE, UKURAN PERUSAHAAN DAN KOMPENSASI RUGI FISKAL PADA TAX AVOIDANCE",,2013,307,https://openalex.org/W1484527137
+1402,Accounting,Exploring corporate social responsibility disclosure: the case of Islamic banks,https://doi.org/10.1108/17538391011072417,2010,305,https://openalex.org/W2042978039
+1402,Accounting,Corporate social reporting: empirical evidence from Indonesia Stock Exchange,https://doi.org/10.1108/17538391011072435,2010,289,https://openalex.org/W2007984588
+1402,Accounting,"PENGARUH LEVERAGE, UKURAN PERUSAHAAN, PERTUMBUHAN PERUSAHAAN, DAN PROFITABILITAS TERHADAP NILAI PERUSAHAAN PADA PERUSAHAAN PROPERTI",,2017,286,https://openalex.org/W2603278954
+1402,Accounting,"Financial inclusion, economic growth, and poverty alleviation: evidence from eastern Indonesia",https://doi.org/10.1016/j.heliyon.2020.e05235,2020,272,https://openalex.org/W3093458806
+1100,General Agricultural and Biological Sciences,Environmental Income and Rural Livelihoods: A Global-Comparative Analysis,https://doi.org/10.1016/j.worlddev.2014.03.006,2014,1038,https://openalex.org/W2170853760
 1100,General Agricultural and Biological Sciences,Trade-offs between multifunctionality and profit in tropical smallholder landscapes,https://doi.org/10.1038/s41467-020-15013-5,2020,765,https://openalex.org/W3009916829
 1100,General Agricultural and Biological Sciences,Metodologi Penelitian Bisnis,,2019,618,https://openalex.org/W3086772204
+1100,General Agricultural and Biological Sciences,"Trends, drivers and impacts of changes in swidden cultivation in tropical forest-agriculture frontiers: A global assessment",https://doi.org/10.1016/j.gloenvcha.2011.10.009,2012,602,https://openalex.org/W2102142855
+1100,General Agricultural and Biological Sciences,High surface area activated carbon prepared from cassava peel by chemical activation,https://doi.org/10.1016/j.biortech.2005.04.029,2005,443,https://openalex.org/W2084441339
+1100,General Agricultural and Biological Sciences,"Empty forests, empty stomachs? Bushmeat and livelihoods in the Congo and Amazon Basins",https://doi.org/10.1505/146554811798293872,2011,433,https://openalex.org/W2135735879
+1100,General Agricultural and Biological Sciences,Integrated landscape approaches to managing social and environmental issues in the tropics: learning from the past to guide the future,https://doi.org/10.1111/gcb.13284,2016,377,https://openalex.org/W2300776204
+1100,General Agricultural and Biological Sciences,Permasalahan Stunting dan Pencegahannya,https://doi.org/10.35816/jiskh.v11i1.253,2020,339,https://openalex.org/W3038343158
+1100,General Agricultural and Biological Sciences,Getting REDD to work locally: lessons learned from integrated conservation and development projects,https://doi.org/10.1016/j.envsci.2010.01.002,2010,329,https://openalex.org/W1978675886
+1100,General Agricultural and Biological Sciences,"Forests, Livelihoods, and Conservation: Broadening the Empirical Base",https://doi.org/10.1016/j.worlddev.2014.03.007,2014,308,https://openalex.org/W2123388556

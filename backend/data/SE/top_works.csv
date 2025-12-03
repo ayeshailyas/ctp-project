@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-1312,Molecular Biology,Features and development of <i>Coot</i>,https://doi.org/10.1107/s0907444910007493,2010,27988,https://openalex.org/W2124026197
-1312,Molecular Biology,MrBayes 3.2: Efficient Bayesian Phylogenetic Inference and Model Choice Across a Large Model Space,https://doi.org/10.1093/sysbio/sys029,2012,26201,https://openalex.org/W2148698435
-1312,Molecular Biology,GROMACS: High performance molecular simulations through multi-level parallelism from laptops to supercomputers,https://doi.org/10.1016/j.softx.2015.06.001,2015,23588,https://openalex.org/W1031578623
-2208,Electrical and Electronic Engineering,Massive MIMO for next generation wireless systems,https://doi.org/10.1109/mcom.2014.6736761,2014,6620,https://openalex.org/W2141682101
-2208,Electrical and Electronic Engineering,New tools for automated high-resolution cryo-EM structure determination in RELION-3,https://doi.org/10.7554/elife.42166,2018,5208,https://openalex.org/W2899714098
-2208,Electrical and Electronic Engineering,Scaling Up MIMO: Opportunities and Challenges with Very Large Arrays,https://doi.org/10.1109/msp.2011.2178495,2012,4495,https://openalex.org/W2128513990
-2746,Surgery,Minimal criteria for defining multipotent mesenchymal stromal cells. The International Society for Cellular Therapy position statement,https://doi.org/10.1080/14653240600855905,2006,17147,https://openalex.org/W2025371271
-2746,Surgery,European Guidelines on cardiovascular disease prevention in clinical practice (version 2012): The Fifth Joint Task Force of the European Society of Cardiology and Other Societies on Cardiovascular Disease Prevention in Clinical Practice (constituted by representatives of nine societies and by invited experts) * Developed with the special contribution of the European Association for Cardiovascular Prevention &amp; Rehabilitation (EACPR),https://doi.org/10.1093/eurheartj/ehs092,2012,8481,https://openalex.org/W3021842026
-2746,Surgery,Inter-Society Consensus for the Management of Peripheral Arterial Disease (TASC II),https://doi.org/10.1016/j.jvs.2006.12.037,2007,8014,https://openalex.org/W2144985796
+1312,Molecular Biology,Features and development of <i>Coot</i>,https://doi.org/10.1107/s0907444910007493,2010,28103,https://openalex.org/W2124026197
+1312,Molecular Biology,MrBayes 3.2: Efficient Bayesian Phylogenetic Inference and Model Choice Across a Large Model Space,https://doi.org/10.1093/sysbio/sys029,2012,26290,https://openalex.org/W2148698435
+1312,Molecular Biology,GROMACS: High performance molecular simulations through multi-level parallelism from laptops to supercomputers,https://doi.org/10.1016/j.softx.2015.06.001,2015,23801,https://openalex.org/W1031578623
+1312,Molecular Biology,Full-length transcriptome assembly from RNA-Seq data without a reference genome,https://doi.org/10.1038/nbt.1883,2011,21636,https://openalex.org/W2126419817
+1312,Molecular Biology,"GROMACS: Fast, flexible, and free",https://doi.org/10.1002/jcc.20291,2005,17837,https://openalex.org/W2171268876
+1312,Molecular Biology,A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity,https://doi.org/10.1126/science.1225829,2012,16412,https://openalex.org/W2045435533
+1312,Molecular Biology,"GROMACS 4:  Algorithms for Highly Efficient, Load-Balanced, and Scalable Molecular Simulation",https://doi.org/10.1021/ct700301q,2008,15590,https://openalex.org/W1966078827
+1312,Molecular Biology,The MIQE Guidelines: Minimum Information for Publication of Quantitative Real-Time PCR Experiments,https://doi.org/10.1373/clinchem.2008.112797,2009,15324,https://openalex.org/W2168420558
+1312,Molecular Biology,Integrative Analysis of Complex Cancer Genomics and Clinical Profiles Using the cBioPortal,https://doi.org/10.1126/scisignal.2004088,2013,15293,https://openalex.org/W2114843025
+1312,Molecular Biology,Tissue-based map of the human proteome,https://doi.org/10.1126/science.1260419,2015,14856,https://openalex.org/W2012034410
+2208,Electrical and Electronic Engineering,Massive MIMO for next generation wireless systems,https://doi.org/10.1109/mcom.2014.6736761,2014,6624,https://openalex.org/W2141682101
+2208,Electrical and Electronic Engineering,New tools for automated high-resolution cryo-EM structure determination in RELION-3,https://doi.org/10.7554/elife.42166,2018,5239,https://openalex.org/W2899714098
+2208,Electrical and Electronic Engineering,Scaling Up MIMO: Opportunities and Challenges with Very Large Arrays,https://doi.org/10.1109/msp.2011.2178495,2012,4497,https://openalex.org/W2128513990
+2208,Electrical and Electronic Engineering,The atomic simulation environment—a Python library for working with atoms,https://doi.org/10.1088/1361-648x/aa680e,2017,4157,https://openalex.org/W2601081289
+2208,Electrical and Electronic Engineering,Tisagenlecleucel in Adult Relapsed or Refractory Diffuse Large B-Cell Lymphoma,https://doi.org/10.1056/nejmoa1804980,2018,3765,https://openalex.org/W2903062212
+2208,Electrical and Electronic Engineering,Energy and Spectral Efficiency of Very Large Multiuser MIMO Systems,https://doi.org/10.1109/tcomm.2013.020413.110848,2013,3186,https://openalex.org/W1971443733
+2208,Electrical and Electronic Engineering,Organic solar cells based on non-fullerene acceptors,https://doi.org/10.1038/nmat5063,2018,2716,https://openalex.org/W2784506527
+2208,Electrical and Electronic Engineering,Higher-accuracy van der Waals density functional,https://doi.org/10.1103/physrevb.82.081101,2010,2636,https://openalex.org/W1988320534
+2208,Electrical and Electronic Engineering,A systematic study of the class imbalance problem in convolutional neural networks,https://doi.org/10.1016/j.neunet.2018.07.011,2018,2634,https://openalex.org/W2767106145
+2208,Electrical and Electronic Engineering,Cell-Free Massive MIMO Versus Small Cells,https://doi.org/10.1109/twc.2017.2655515,2017,2426,https://openalex.org/W2286275639
+2746,Surgery,Minimal criteria for defining multipotent mesenchymal stromal cells. The International Society for Cellular Therapy position statement,https://doi.org/10.1080/14653240600855905,2006,17180,https://openalex.org/W2025371271
+2746,Surgery,European Guidelines on cardiovascular disease prevention in clinical practice (version 2012): The Fifth Joint Task Force of the European Society of Cardiology and Other Societies on Cardiovascular Disease Prevention in Clinical Practice (constituted by representatives of nine societies and by invited experts) * Developed with the special contribution of the European Association for Cardiovascular Prevention &amp; Rehabilitation (EACPR),https://doi.org/10.1093/eurheartj/ehs092,2012,8482,https://openalex.org/W3021842026
+2746,Surgery,Inter-Society Consensus for the Management of Peripheral Arterial Disease (TASC II),https://doi.org/10.1016/j.jvs.2006.12.037,2007,8020,https://openalex.org/W2144985796
+2746,Surgery,2016 European Guidelines on cardiovascular disease prevention in clinical practice,https://doi.org/10.1093/eurheartj/ehw106,2016,6291,https://openalex.org/W2402599050
+2746,Surgery,Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction,https://doi.org/10.1056/nejmoa1911303,2019,6229,https://openalex.org/W2974260792
+2746,Surgery,Dapagliflozin and Cardiovascular Outcomes in Type 2 Diabetes,https://doi.org/10.1056/nejmoa1812389,2018,5887,https://openalex.org/W2900413769
+2746,Surgery,2021 ESC Guidelines on cardiovascular disease prevention in clinical practice,https://doi.org/10.1093/eurheartj/ehab484,2021,5443,https://openalex.org/W3197233987
+2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5319,https://openalex.org/W2993259418
+2746,Surgery,TGFβ attenuates tumour response to PD-L1 blockade by contributing to exclusion of T cells,https://doi.org/10.1038/nature25501,2018,5070,https://openalex.org/W2785803176
+2746,Surgery,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4782,https://openalex.org/W2953804067
 2204,Biomedical Engineering,Sensitivity and False Alarm Rate of a Fall Sensor in Long-Term Fall Detection in the Elderly,https://doi.org/10.1159/000362720,2014,18940,https://openalex.org/W2008854521
-2204,Biomedical Engineering,Diagnostic criteria for multiple sclerosis: 2010 Revisions to the McDonald criteria,https://doi.org/10.1002/ana.22366,2011,9660,https://openalex.org/W2122545833
-2204,Biomedical Engineering,Two-Dimensional Transition Metal Carbides,https://doi.org/10.1021/nn204153h,2012,4399,https://openalex.org/W1981729886
-2713,Epidemiology,"Inflammation, Atherosclerosis, and Coronary Artery Disease",https://doi.org/10.1056/nejmra043430,2005,8572,https://openalex.org/W2094941678
-2713,Epidemiology,Antiinflammatory Therapy with Canakinumab for Atherosclerotic Disease,https://doi.org/10.1056/nejmoa1707914,2017,8381,https://openalex.org/W2748400555
-2713,Epidemiology,Thrombolysis with Alteplase 3 to 4.5 Hours after Acute Ischemic Stroke,https://doi.org/10.1056/nejmoa0804656,2008,6403,https://openalex.org/W2159233098
-2737,Physiology,Sarcopenia: revised European consensus on definition and diagnosis,https://doi.org/10.1093/ageing/afy169,2018,12349,https://openalex.org/W2897513125
-2737,Physiology,Sarcopenia: European consensus on definition and diagnosis,https://doi.org/10.1093/ageing/afq034,2010,11267,https://openalex.org/W2102902846
-2737,Physiology,NIA‐AA Research Framework: Toward a biological definition of Alzheimer's disease,https://doi.org/10.1016/j.jalz.2018.02.018,2018,9263,https://openalex.org/W2798054687
-2740,Pulmonary and Respiratory Medicine,Inter-Society Consensus for the Management of Peripheral Arterial Disease (TASC II),https://doi.org/10.1016/j.jvs.2006.12.037,2007,8014,https://openalex.org/W2144985796
-2740,Pulmonary and Respiratory Medicine,Geant4 developments and applications,https://doi.org/10.1109/tns.2006.869826,2006,6529,https://openalex.org/W2128881154
-2740,Pulmonary and Respiratory Medicine,Angiotensin–Neprilysin Inhibition versus Enalapril in Heart Failure,https://doi.org/10.1056/nejmoa1409077,2014,6479,https://openalex.org/W2113698123
-3312,Sociology and Political Science,Global prevalence of dementia: a Delphi consensus study,https://doi.org/10.1016/s0140-6736(05)67889-0,2005,5277,https://openalex.org/W2014886338
-3312,Sociology and Political Science,ADAPTIVE GOVERNANCE OF SOCIAL-ECOLOGICAL SYSTEMS,https://doi.org/10.1146/annurev.energy.30.050504.144511,2005,5191,https://openalex.org/W1976759885
-3312,Sociology and Political Science,"Resilience Thinking: Integrating Resilience, Adaptability and Transformability",https://doi.org/10.5751/es-03610-150420,2010,4104,https://openalex.org/W2127569725
-2505,Materials Chemistry,Features and development of <i>Coot</i>,https://doi.org/10.1107/s0907444910007493,2010,27988,https://openalex.org/W2124026197
-2505,Materials Chemistry,GROMACS: High performance molecular simulations through multi-level parallelism from laptops to supercomputers,https://doi.org/10.1016/j.softx.2015.06.001,2015,23588,https://openalex.org/W1031578623
-2505,Materials Chemistry,"GROMACS 4:  Algorithms for Highly Efficient, Load-Balanced, and Scalable Molecular Simulation",https://doi.org/10.1021/ct700301q,2008,15564,https://openalex.org/W1966078827
-1311,Genetics,MrBayes 3.2: Efficient Bayesian Phylogenetic Inference and Model Choice Across a Large Model Space,https://doi.org/10.1093/sysbio/sys029,2012,26201,https://openalex.org/W2148698435
-1311,Genetics,"Analysis of protein-coding genetic variation in 60,706 humans",https://doi.org/10.1038/nature19057,2016,10052,https://openalex.org/W2256016639
-1311,Genetics,Biological insights from 108 schizophrenia-associated genetic loci,https://doi.org/10.1038/nature13595,2014,7891,https://openalex.org/W2101357408
+2204,Biomedical Engineering,Diagnostic criteria for multiple sclerosis: 2010 Revisions to the McDonald criteria,https://doi.org/10.1002/ana.22366,2011,9668,https://openalex.org/W2122545833
+2204,Biomedical Engineering,Two-Dimensional Transition Metal Carbides,https://doi.org/10.1021/nn204153h,2012,4416,https://openalex.org/W1981729886
+2204,Biomedical Engineering,The atomic simulation environment—a Python library for working with atoms,https://doi.org/10.1088/1361-648x/aa680e,2017,4157,https://openalex.org/W2601081289
+2204,Biomedical Engineering,Targeted Temperature Management at 33°C versus 36°C after Cardiac Arrest,https://doi.org/10.1056/nejmoa1310519,2013,2681,https://openalex.org/W2171886225
+2204,Biomedical Engineering,Pretreatment of Lignocellulosic Wastes to Improve Ethanol and Biogas Production: A Review,https://doi.org/10.3390/ijms9091621,2008,2560,https://openalex.org/W2109587007
+2204,Biomedical Engineering,Hyperelastic modelling of arterial layers with distributed collagen fibre orientations,https://doi.org/10.1098/rsif.2005.0073,2005,2300,https://openalex.org/W2166739553
+2204,Biomedical Engineering,Carbon capture and storage update,https://doi.org/10.1039/c3ee42350f,2013,2212,https://openalex.org/W2156157987
+2204,Biomedical Engineering,The Human Cell Atlas,https://doi.org/10.7554/elife.27041,2017,2175,https://openalex.org/W2612519453
+2204,Biomedical Engineering,Localization via ultra-wideband radios: a look at positioning aspects for future sensor networks,https://doi.org/10.1109/msp.2005.1458289,2005,2018,https://openalex.org/W2012462772
+2713,Epidemiology,"Inflammation, Atherosclerosis, and Coronary Artery Disease",https://doi.org/10.1056/nejmra043430,2005,8581,https://openalex.org/W2094941678
+2713,Epidemiology,Antiinflammatory Therapy with Canakinumab for Atherosclerotic Disease,https://doi.org/10.1056/nejmoa1707914,2017,8419,https://openalex.org/W2748400555
+2713,Epidemiology,Thrombolysis with Alteplase 3 to 4.5 Hours after Acute Ischemic Stroke,https://doi.org/10.1056/nejmoa0804656,2008,6417,https://openalex.org/W2159233098
+2713,Epidemiology,"Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(15)60692-4,2015,6355,https://openalex.org/W2098082628
+2713,Epidemiology,"Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-years for 32 Cancer Groups, 1990 to 2015",https://doi.org/10.1001/jamaoncol.2016.5688,2016,6202,https://openalex.org/W2560322684
+2713,Epidemiology,Molecular mechanisms of cell death: recommendations of the Nomenclature Committee on Cell Death 2018,https://doi.org/10.1038/s41418-017-0012-4,2018,6049,https://openalex.org/W2788640168
+2713,Epidemiology,"Discovery, research, and development of new antibiotics: the WHO priority list of antibiotic-resistant bacteria and tuberculosis",https://doi.org/10.1016/s1473-3099(17)30753-3,2017,5670,https://openalex.org/W2779019546
+2713,Epidemiology,"Epidemiology, Patterns of Care, and Mortality for Patients With Acute Respiratory Distress Syndrome in Intensive Care Units in 50 Countries",https://doi.org/10.1001/jama.2016.0291,2016,5395,https://openalex.org/W2286228001
+2713,Epidemiology,Neuroimaging standards for research into small vessel disease and its contribution to ageing and neurodegeneration,https://doi.org/10.1016/s1474-4422(13)70124-8,2013,5082,https://openalex.org/W2158742097
+2713,Epidemiology,External review and validation of the Swedish national inpatient register,https://doi.org/10.1186/1471-2458-11-450,2011,4814,https://openalex.org/W2166018731
+2737,Physiology,Sarcopenia: revised European consensus on definition and diagnosis,https://doi.org/10.1093/ageing/afy169,2018,12434,https://openalex.org/W2897513125
+2737,Physiology,Sarcopenia: European consensus on definition and diagnosis,https://doi.org/10.1093/ageing/afq034,2010,11293,https://openalex.org/W2102902846
+2737,Physiology,NIA‐AA Research Framework: Toward a biological definition of Alzheimer's disease,https://doi.org/10.1016/j.jalz.2018.02.018,2018,9315,https://openalex.org/W2798054687
+2737,Physiology,Neuroinflammation in Alzheimer's disease,https://doi.org/10.1016/s1474-4422(15)70016-5,2015,5604,https://openalex.org/W2087243986
+2737,Physiology,Definition and classification of cancer cachexia: an international consensus,https://doi.org/10.1016/s1470-2045(10)70218-7,2011,5281,https://openalex.org/W2145280166
+2737,Physiology,Genetic studies of body mass index yield new insights for obesity biology,https://doi.org/10.1038/nature14177,2015,4726,https://openalex.org/W2039153962
+2737,Physiology,Allergic Rhinitis and its Impact on Asthma (ARIA) 2008*,https://doi.org/10.1111/j.1398-9995.2007.01620.x,2008,4604,https://openalex.org/W2164132449
+2737,Physiology,"Meta-analysis of 74,046 individuals identifies 11 new susceptibility loci for Alzheimer's disease",https://doi.org/10.1038/ng.2802,2013,4475,https://openalex.org/W2115779804
+2737,Physiology,Functional interactions between the gut microbiota and host metabolism,https://doi.org/10.1038/nature11552,2012,4263,https://openalex.org/W2149515881
+2737,Physiology,"Worldwide time trends in the prevalence of symptoms of asthma, allergic rhinoconjunctivitis, and eczema in childhood: ISAAC Phases One and Three repeat multicountry cross-sectional surveys",https://doi.org/10.1016/s0140-6736(06)69283-0,2006,4159,https://openalex.org/W2120793327
+2740,Pulmonary and Respiratory Medicine,Inter-Society Consensus for the Management of Peripheral Arterial Disease (TASC II),https://doi.org/10.1016/j.jvs.2006.12.037,2007,8020,https://openalex.org/W2144985796
+2740,Pulmonary and Respiratory Medicine,Geant4 developments and applications,https://doi.org/10.1109/tns.2006.869826,2006,6553,https://openalex.org/W2128881154
+2740,Pulmonary and Respiratory Medicine,Angiotensin–Neprilysin Inhibition versus Enalapril in Heart Failure,https://doi.org/10.1056/nejmoa1409077,2014,6490,https://openalex.org/W2113698123
+2740,Pulmonary and Respiratory Medicine,Thrombolysis with Alteplase 3 to 4.5 Hours after Acute Ischemic Stroke,https://doi.org/10.1056/nejmoa0804656,2008,6417,https://openalex.org/W2159233098
+2740,Pulmonary and Respiratory Medicine,"Epidemiology, Patterns of Care, and Mortality for Patients With Acute Respiratory Distress Syndrome in Intensive Care Units in 50 Countries",https://doi.org/10.1001/jama.2016.0291,2016,5395,https://openalex.org/W2286228001
+2740,Pulmonary and Respiratory Medicine,Allergic Rhinitis and its Impact on Asthma (ARIA) 2008*,https://doi.org/10.1111/j.1398-9995.2007.01620.x,2008,4604,https://openalex.org/W2164132449
+2740,Pulmonary and Respiratory Medicine,Gastric cancer,https://doi.org/10.1016/s0140-6736(20)31288-5,2020,4394,https://openalex.org/W4210990885
+2740,Pulmonary and Respiratory Medicine,Screening and Prostate-Cancer Mortality in a Randomized European Study,https://doi.org/10.1056/nejmoa0810084,2009,3948,https://openalex.org/W2095761465
+2740,Pulmonary and Respiratory Medicine,The 2016 update of the International Study Group (ISGPS) definition and grading of postoperative pancreatic fistula: 11 Years After,https://doi.org/10.1016/j.surg.2016.11.014,2016,3818,https://openalex.org/W2565595087
+2740,Pulmonary and Respiratory Medicine,Prevention of Venous Thromboembolism,https://doi.org/10.1378/chest.08-0656,2008,3764,https://openalex.org/W2124120026
+3312,Sociology and Political Science,Global prevalence of dementia: a Delphi consensus study,https://doi.org/10.1016/s0140-6736(05)67889-0,2005,5281,https://openalex.org/W2014886338
+3312,Sociology and Political Science,ADAPTIVE GOVERNANCE OF SOCIAL-ECOLOGICAL SYSTEMS,https://doi.org/10.1146/annurev.energy.30.050504.144511,2005,5200,https://openalex.org/W1976759885
+3312,Sociology and Political Science,"Resilience Thinking: Integrating Resilience, Adaptability and Transformability",https://doi.org/10.5751/es-03610-150420,2010,4119,https://openalex.org/W2127569725
+3312,Sociology and Political Science,Identification of influential spreaders in complex networks,https://doi.org/10.1038/nphys1746,2010,3035,https://openalex.org/W2133131640
+3312,Sociology and Political Science,Methodological challenges in qualitative content analysis: A discussion paper,https://doi.org/10.1016/j.nedt.2017.06.002,2017,2893,https://openalex.org/W2721771326
+3312,Sociology and Political Science,Social-Ecological Resilience to Coastal Disasters,https://doi.org/10.1126/science.1112122,2005,2577,https://openalex.org/W2123587734
+3312,Sociology and Political Science,Contextualizing Entrepreneurship—Conceptual Challenges and Ways Forward,https://doi.org/10.1111/j.1540-6520.2010.00427.x,2011,2405,https://openalex.org/W2035713844
+3312,Sociology and Political Science,Pervasive human-driven decline of life on Earth points to the need for transformative change,https://doi.org/10.1126/science.aax3100,2019,2345,https://openalex.org/W2995840337
+3312,Sociology and Political Science,The Swedish personal identity number: possibilities and pitfalls in healthcare and medical research,https://doi.org/10.1007/s10654-009-9350-y,2009,2291,https://openalex.org/W2141761576
+3312,Sociology and Political Science,Scale and Cross-Scale Dynamics: Governance and Information in a Multilevel World,https://doi.org/10.5751/es-01759-110208,2006,2140,https://openalex.org/W1768791706
+2505,Materials Chemistry,Features and development of <i>Coot</i>,https://doi.org/10.1107/s0907444910007493,2010,28103,https://openalex.org/W2124026197
+2505,Materials Chemistry,GROMACS: High performance molecular simulations through multi-level parallelism from laptops to supercomputers,https://doi.org/10.1016/j.softx.2015.06.001,2015,23801,https://openalex.org/W1031578623
+2505,Materials Chemistry,"GROMACS 4:  Algorithms for Highly Efficient, Load-Balanced, and Scalable Molecular Simulation",https://doi.org/10.1021/ct700301q,2008,15590,https://openalex.org/W1966078827
+2505,Materials Chemistry,Two‐Dimensional Nanocrystals Produced by Exfoliation of Ti<sub>3</sub>AlC<sub>2</sub>,https://doi.org/10.1002/adma.201102306,2011,10690,https://openalex.org/W2014451195
+2505,Materials Chemistry,Dye-Sensitized Solar Cells,https://doi.org/10.1021/cr900356p,2010,8731,https://openalex.org/W2116327492
+2505,Materials Chemistry,GROMACS 4.5: a high-throughput and highly parallel open source molecular simulation toolkit,https://doi.org/10.1093/bioinformatics/btt055,2013,7268,https://openalex.org/W2160544821
+2505,Materials Chemistry,The MM/PBSA and MM/GBSA methods to estimate ligand-binding affinities,https://doi.org/10.1517/17460441.2015.1032936,2015,4544,https://openalex.org/W2095719702
+2505,Materials Chemistry,Two-Dimensional Transition Metal Carbides,https://doi.org/10.1021/nn204153h,2012,4416,https://openalex.org/W1981729886
+2505,Materials Chemistry,The atomic simulation environment—a Python library for working with atoms,https://doi.org/10.1088/1361-648x/aa680e,2017,4157,https://openalex.org/W2601081289
+2505,Materials Chemistry,Present and Future of Surface-Enhanced Raman Scattering,https://doi.org/10.1021/acsnano.9b04224,2019,3421,https://openalex.org/W2971763914
+1311,Genetics,MrBayes 3.2: Efficient Bayesian Phylogenetic Inference and Model Choice Across a Large Model Space,https://doi.org/10.1093/sysbio/sys029,2012,26290,https://openalex.org/W2148698435
+1311,Genetics,"Analysis of protein-coding genetic variation in 60,706 humans",https://doi.org/10.1038/nature19057,2016,10070,https://openalex.org/W2256016639
+1311,Genetics,Biological insights from 108 schizophrenia-associated genetic loci,https://doi.org/10.1038/nature13595,2014,7902,https://openalex.org/W2101357408
+1311,Genetics,The new frontier of genome engineering with CRISPR-Cas9,https://doi.org/10.1126/science.1258096,2014,6537,https://openalex.org/W2050480410
+1311,Genetics,Common polygenic variation contributes to risk of schizophrenia and bipolar disorder,https://doi.org/10.1038/nature08185,2009,4937,https://openalex.org/W2098597355
+1311,Genetics,Genetic studies of body mass index yield new insights for obesity biology,https://doi.org/10.1038/nature14177,2015,4726,https://openalex.org/W2039153962
+1311,Genetics,Host–microbe interactions have shaped the genetic architecture of inflammatory bowel disease,https://doi.org/10.1038/nature11582,2012,4725,https://openalex.org/W2143625465
+1311,Genetics,"Meta-analysis of 74,046 individuals identifies 11 new susceptibility loci for Alzheimer's disease",https://doi.org/10.1038/ng.2802,2013,4475,https://openalex.org/W2115779804
+1311,Genetics,BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis,https://doi.org/10.1371/journal.pcbi.1006650,2019,4174,https://openalex.org/W2901954177
+1311,Genetics,Chronic inflammation in the etiology of disease across the life span,https://doi.org/10.1038/s41591-019-0675-0,2019,4148,https://openalex.org/W2993908729

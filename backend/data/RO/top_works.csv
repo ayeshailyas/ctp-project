@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-2208,Electrical and Electronic Engineering,Multiresonant Frequency-Locked Loop for Grid Synchronization of Power Converters Under Distorted Grid Conditions,https://doi.org/10.1109/tie.2010.2042420,2010,1069,https://openalex.org/W2006246155
-2208,Electrical and Electronic Engineering,Adaptive optimal control for continuous-time linear systems based on policy iteration,https://doi.org/10.1016/j.automatica.2008.08.017,2008,888,https://openalex.org/W2024303516
+2208,Electrical and Electronic Engineering,Multiresonant Frequency-Locked Loop for Grid Synchronization of Power Converters Under Distorted Grid Conditions,https://doi.org/10.1109/tie.2010.2042420,2010,1070,https://openalex.org/W2006246155
+2208,Electrical and Electronic Engineering,Adaptive optimal control for continuous-time linear systems based on policy iteration,https://doi.org/10.1016/j.automatica.2008.08.017,2008,890,https://openalex.org/W2024303516
 2208,Electrical and Electronic Engineering,Automotive Electric Propulsion Systems With Reduced or No Permanent Magnets: An Overview,https://doi.org/10.1109/tie.2014.2301754,2014,771,https://openalex.org/W2056538626
-2204,Biomedical Engineering,New fractional derivatives with nonlocal and non-singular kernel: Theory and application to heat transfer model,https://doi.org/10.2298/tsci160111018a,2016,3581,https://openalex.org/W2963641381
-2204,Biomedical Engineering,Boundary-layer flow of a nanofluid past a stretching sheet,https://doi.org/10.1016/j.ijheatmasstransfer.2010.01.032,2010,2238,https://openalex.org/W2030190859
-2204,Biomedical Engineering,Analytical Methods Used in Determining Antioxidant Activity: A Review,https://doi.org/10.3390/ijms22073380,2021,1623,https://openalex.org/W3146013771
-2210,Mechanical Engineering,Boundary-layer flow of a nanofluid past a stretching sheet,https://doi.org/10.1016/j.ijheatmasstransfer.2010.01.032,2010,2238,https://openalex.org/W2030190859
-2210,Mechanical Engineering,"Fiber-Reinforced Polymer Composites: Manufacturing, Properties, and Applications",https://doi.org/10.3390/polym11101667,2019,1435,https://openalex.org/W2979363123
-2210,Mechanical Engineering,A Comprehensive Review of Thermal Energy Storage,https://doi.org/10.3390/su10010191,2018,1124,https://openalex.org/W2786385826
-2505,Materials Chemistry,Catalysis in Ionic Liquids,https://doi.org/10.1021/cr050948h,2007,2320,https://openalex.org/W2025247704
-2505,Materials Chemistry,Biomedical Applications of Silver Nanoparticles: An Up-to-Date Overview,https://doi.org/10.3390/nano8090681,2018,1238,https://openalex.org/W2888786190
-2505,Materials Chemistry,FTIR Spectroscopy for Carbon Family Study,https://doi.org/10.1080/10408347.2016.1157013,2016,1206,https://openalex.org/W2291688091
-1312,Molecular Biology,Antiinflammatory Therapy with Canakinumab for Atherosclerotic Disease,https://doi.org/10.1056/nejmoa1707914,2017,8381,https://openalex.org/W2748400555
-1312,Molecular Biology,Natural products in drug discovery: advances and opportunities,https://doi.org/10.1038/s41573-020-00114-z,2021,4277,https://openalex.org/W3119952098
-1312,Molecular Biology,The role of antioxidants in the chemistry of oxidative stress: A review,https://doi.org/10.1016/j.ejmech.2015.04.040,2015,2708,https://openalex.org/W1976950210
-2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5316,https://openalex.org/W2993259418
-2746,Surgery,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4779,https://openalex.org/W2953804067
-2746,Surgery,Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction,https://doi.org/10.1056/nejmoa2206286,2022,2203,https://openalex.org/W4293354639
+2208,Electrical and Electronic Engineering,Cortical High-Density Counterstream Architectures,https://doi.org/10.1126/science.1238406,2013,632,https://openalex.org/W1993665893
+2208,Electrical and Electronic Engineering,Blockchain Based Decentralized Management of Demand Response Programs in Smart Energy Grids,https://doi.org/10.3390/s18010162,2018,605,https://openalex.org/W2783275103
+2208,Electrical and Electronic Engineering,Piezoelectric Energy Harvesting Solutions: A Review,https://doi.org/10.3390/s20123512,2020,586,https://openalex.org/W3036249939
+2208,Electrical and Electronic Engineering,Influence of humidity on CO sensing with p-type CuO thick film gas sensors,https://doi.org/10.1016/j.snb.2010.10.046,2010,548,https://openalex.org/W2038375196
+2208,Electrical and Electronic Engineering,Recent advances in cellulose and chitosan based membranes for water purification: A concise review,https://doi.org/10.1016/j.carbpol.2016.03.030,2016,545,https://openalex.org/W2301070830
+2208,Electrical and Electronic Engineering,The ACS Virgo Cluster Survey. VIII. The Nuclei of Early‐Type Galaxies,https://doi.org/10.1086/504042,2006,509,https://openalex.org/W2089780396
+2208,Electrical and Electronic Engineering,High Performance Current Controller for Selective Harmonic Compensation in Active Power Filters,https://doi.org/10.1109/tpel.2007.904060,2007,507,https://openalex.org/W2135885367
+2204,Biomedical Engineering,New fractional derivatives with nonlocal and non-singular kernel: Theory and application to heat transfer model,https://doi.org/10.2298/tsci160111018a,2016,3593,https://openalex.org/W2963641381
+2204,Biomedical Engineering,Boundary-layer flow of a nanofluid past a stretching sheet,https://doi.org/10.1016/j.ijheatmasstransfer.2010.01.032,2010,2242,https://openalex.org/W2030190859
+2204,Biomedical Engineering,Analytical Methods Used in Determining Antioxidant Activity: A Review,https://doi.org/10.3390/ijms22073380,2021,1647,https://openalex.org/W3146013771
+2204,Biomedical Engineering,Biomedical Applications of Silver Nanoparticles: An Up-to-Date Overview,https://doi.org/10.3390/nano8090681,2018,1241,https://openalex.org/W2888786190
+2204,Biomedical Engineering,A review of the applications of nanofluids in solar energy,https://doi.org/10.1016/j.ijheatmasstransfer.2012.10.037,2012,1234,https://openalex.org/W2038133462
+2204,Biomedical Engineering,EFSUMB Guidelines and Recommendations on the Clinical Use of Ultrasound Elastography. Part 1: Basic Principles and Technology,https://doi.org/10.1055/s-0033-1335205,2013,1149,https://openalex.org/W2027622024
+2204,Biomedical Engineering,The EFSUMB Guidelines and Recommendations on the Clinical Practice of Contrast Enhanced Ultrasound (CEUS): Update 2011 on non-hepatic applications,https://doi.org/10.1055/s-0031-1281676,2011,1057,https://openalex.org/W2156653782
+2204,Biomedical Engineering,EFSUMB Guidelines and Recommendations on the Clinical Use of Ultrasound Elastography.Part 2: Clinical Applications,https://doi.org/10.1055/s-0033-1335375,2013,926,https://openalex.org/W2056642787
+2204,Biomedical Engineering,Recent advances in modeling and simulation of nanofluid flows-Part I: Fundamentals and theory,https://doi.org/10.1016/j.physrep.2018.11.004,2018,895,https://openalex.org/W2905272168
+2204,Biomedical Engineering,Biotechnology—a sustainable alternative for chemical industry,https://doi.org/10.1016/j.biotechadv.2005.03.004,2005,691,https://openalex.org/W2038175194
+2210,Mechanical Engineering,Boundary-layer flow of a nanofluid past a stretching sheet,https://doi.org/10.1016/j.ijheatmasstransfer.2010.01.032,2010,2242,https://openalex.org/W2030190859
+2210,Mechanical Engineering,"Fiber-Reinforced Polymer Composites: Manufacturing, Properties, and Applications",https://doi.org/10.3390/polym11101667,2019,1447,https://openalex.org/W2979363123
+2210,Mechanical Engineering,A Comprehensive Review of Thermal Energy Storage,https://doi.org/10.3390/su10010191,2018,1129,https://openalex.org/W2786385826
+2210,Mechanical Engineering,Ultrasonic arrays for non-destructive evaluation: A review,https://doi.org/10.1016/j.ndteint.2006.03.006,2006,1079,https://openalex.org/W2065455715
+2210,Mechanical Engineering,FDM process parameters influence over the mechanical properties of polymer specimens: A review,https://doi.org/10.1016/j.polymertesting.2018.05.020,2018,918,https://openalex.org/W2803400344
+2210,Mechanical Engineering,Recent advances in modeling and simulation of nanofluid flows-Part I: Fundamentals and theory,https://doi.org/10.1016/j.physrep.2018.11.004,2018,895,https://openalex.org/W2905272168
+2210,Mechanical Engineering,Functionalised heterogeneous catalysts for sustainable biomass valorisation,https://doi.org/10.1039/c8cs00410b,2018,643,https://openalex.org/W2891706685
+2210,Mechanical Engineering,Advances in porous and nanoscale catalysts for viable biomass conversion,https://doi.org/10.1039/c8cs00452h,2019,603,https://openalex.org/W2916999760
+2210,Mechanical Engineering,Piezoelectric Energy Harvesting Solutions: A Review,https://doi.org/10.3390/s20123512,2020,586,https://openalex.org/W3036249939
+2210,Mechanical Engineering,Biodegradable Mg alloys for orthopedic implants – A review,https://doi.org/10.1016/j.jma.2021.06.024,2021,495,https://openalex.org/W3183699615
+2505,Materials Chemistry,Catalysis in Ionic Liquids,https://doi.org/10.1021/cr050948h,2007,2324,https://openalex.org/W2025247704
+2505,Materials Chemistry,Biomedical Applications of Silver Nanoparticles: An Up-to-Date Overview,https://doi.org/10.3390/nano8090681,2018,1241,https://openalex.org/W2888786190
+2505,Materials Chemistry,FTIR Spectroscopy for Carbon Family Study,https://doi.org/10.1080/10408347.2016.1157013,2016,1211,https://openalex.org/W2291688091
+2505,Materials Chemistry,Structure of Polydopamine: A Never-Ending Story?,https://doi.org/10.1021/la4020288,2013,981,https://openalex.org/W2016486725
+2505,Materials Chemistry,X-Ray Diffraction: Instrumentation and Applications,https://doi.org/10.1080/10408347.2014.949616,2015,814,https://openalex.org/W2055837091
+2505,Materials Chemistry,Oxidation of multiwalled carbon nanotubes by nitric acid,https://doi.org/10.1016/j.carbon.2005.06.019,2005,758,https://openalex.org/W2115503299
+2505,Materials Chemistry,Catalytic NO<sub><i>x</i></sub> Abatement Systems for Mobile Sources: From Three-Way to Lean Burn after-Treatment Technologies,https://doi.org/10.1021/cr100168g,2011,723,https://openalex.org/W2320557733
+2505,Materials Chemistry,Reduced graphene oxide today,https://doi.org/10.1039/c9tc04916a,2019,642,https://openalex.org/W2997981563
+2505,Materials Chemistry,"Quantum dots in imaging, drug delivery and sensor applications",https://doi.org/10.2147/ijn.s138624,2017,613,https://openalex.org/W2740839736
+2505,Materials Chemistry,Advances in porous and nanoscale catalysts for viable biomass conversion,https://doi.org/10.1039/c8cs00452h,2019,603,https://openalex.org/W2916999760
+1312,Molecular Biology,Antiinflammatory Therapy with Canakinumab for Atherosclerotic Disease,https://doi.org/10.1056/nejmoa1707914,2017,8419,https://openalex.org/W2748400555
+1312,Molecular Biology,Natural products in drug discovery: advances and opportunities,https://doi.org/10.1038/s41573-020-00114-z,2021,4316,https://openalex.org/W3119952098
+1312,Molecular Biology,The role of antioxidants in the chemistry of oxidative stress: A review,https://doi.org/10.1016/j.ejmech.2015.04.040,2015,2713,https://openalex.org/W1976950210
+1312,Molecular Biology,"Dulaglutide and cardiovascular outcomes in type 2 diabetes (REWIND): a double-blind, randomised placebo-controlled trial",https://doi.org/10.1016/s0140-6736(19)31149-3,2019,2678,https://openalex.org/W2948612418
+1312,Molecular Biology,"Lifestyle, Oxidative Stress, and Antioxidants: Back and Forth in the Pathophysiology of Chronic Diseases",https://doi.org/10.3389/fphys.2020.00694,2020,1772,https://openalex.org/W3039077710
+1312,Molecular Biology,Therapeutic targeting of the NRF2 and KEAP1 partnership in chronic diseases,https://doi.org/10.1038/s41573-018-0008-x,2019,1253,https://openalex.org/W2907855283
+1312,Molecular Biology,miRNAs as Biomarkers in Disease: Latest Findings Regarding Their Role in Diagnosis and Prognosis,https://doi.org/10.3390/cells9020276,2020,1226,https://openalex.org/W3001041847
+1312,Molecular Biology,"Emerging pollutants in the environment: present and future challenges in biomonitoring, ecological risks and bioremediation",https://doi.org/10.1016/j.nbt.2014.01.001,2014,1204,https://openalex.org/W2012385474
+1312,Molecular Biology,Vascular endothelial growth factor (VEGF) - key factor in normal and pathological angiogenesis.,,2018,1160,https://openalex.org/W2982653531
+1312,Molecular Biology,Whole-Genome and Epigenomic Landscapes of Etiologically Distinct Subtypes of Cholangiocarcinoma,https://doi.org/10.1158/2159-8290.cd-17-0368,2017,919,https://openalex.org/W2724543993
+2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5319,https://openalex.org/W2993259418
+2746,Surgery,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4782,https://openalex.org/W2953804067
+2746,Surgery,Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction,https://doi.org/10.1056/nejmoa2206286,2022,2224,https://openalex.org/W4293354639
+2746,Surgery,"Worldwide Prevalence and Burden of Functional Gastrointestinal Disorders, Results of Rome Foundation Global Study",https://doi.org/10.1053/j.gastro.2020.04.014,2020,1897,https://openalex.org/W3016136018
+2746,Surgery,Individual patient data meta-analysis of controlled attenuation parameter (CAP) technology for assessing steatosis,https://doi.org/10.1016/j.jhep.2016.12.022,2016,1109,https://openalex.org/W2564467149
+2746,Surgery,Consensus guidelines of ECCO/ESPGHAN on the medical management of pediatric Crohn's disease,https://doi.org/10.1016/j.crohns.2014.04.005,2014,1026,https://openalex.org/W2135936774
+2746,Surgery,Whole-Genome and Epigenomic Landscapes of Etiologically Distinct Subtypes of Cholangiocarcinoma,https://doi.org/10.1158/2159-8290.cd-17-0368,2017,919,https://openalex.org/W2724543993
+2746,Surgery,Prasugrel versus Clopidogrel for Acute Coronary Syndromes without Revascularization,https://doi.org/10.1056/nejmoa1205512,2012,857,https://openalex.org/W2109577952
+2746,Surgery,"Rivaroxaban with or without aspirin in patients with stable peripheral or carotid artery disease: an international, randomised, double-blind, placebo-controlled trial",https://doi.org/10.1016/s0140-6736(17)32409-1,2017,836,https://openalex.org/W4229536675
+2746,Surgery,"Capecitabine and cisplatin with or without cetuximab for patients with previously untreated advanced gastric cancer (EXPAND): a randomised, open-label phase 3 trial",https://doi.org/10.1016/s1470-2045(13)70102-5,2013,825,https://openalex.org/W2152362765
 3312,Sociology and Political Science,Contrasting Computational Models of Mate Preference Integration Across 45 Countries,https://doi.org/10.1038/s41598-019-52748-8,2019,1773,https://openalex.org/W2983201012
 3312,Sociology and Political Science,The Prevalence and Correlates of Binge Eating Disorder in the World Health Organization World Mental Health Surveys,https://doi.org/10.1016/j.biopsych.2012.11.020,2013,1312,https://openalex.org/W1978365558
-3312,Sociology and Political Science,National differences in gender–science stereotypes predict national sex differences in science and math achievement,https://doi.org/10.1073/pnas.0809921106,2009,997,https://openalex.org/W2108193005
-2002,Economics and Econometrics,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4779,https://openalex.org/W2953804067
-2002,Economics and Econometrics,The global burden of women’s cancers: a grand challenge in global health,https://doi.org/10.1016/s0140-6736(16)31392-7,2016,1070,https://openalex.org/W2548000951
-2002,Economics and Econometrics,The state of hypertension care in 44 low-income and middle-income countries: a cross-sectional study of nationally representative individual-level data from 1·1 million adults,https://doi.org/10.1016/s0140-6736(19)30955-9,2019,800,https://openalex.org/W2962471769
+3312,Sociology and Political Science,National differences in gender–science stereotypes predict national sex differences in science and math achievement,https://doi.org/10.1073/pnas.0809921106,2009,999,https://openalex.org/W2108193005
+3312,Sociology and Political Science,Structural model robustness checks in PLS-SEM,https://doi.org/10.1177/1354816618823921,2019,946,https://openalex.org/W2911250209
+3312,Sociology and Political Science,Single Item Measures in Psychological Science,https://doi.org/10.1027/1015-5759/a000699,2022,747,https://openalex.org/W4210559752
+3312,Sociology and Political Science,Drylands extent and environmental issues. A global approach,https://doi.org/10.1016/j.earscirev.2016.08.003,2016,708,https://openalex.org/W2508111570
+3312,Sociology and Political Science,"Work Flexibility, Job Satisfaction, and Job Performance among Romanian Employees—Implications for Sustainable Human Resource Management",https://doi.org/10.3390/su12156086,2020,665,https://openalex.org/W3045815039
+3312,Sociology and Political Science,Prevalence of pathological internet use among adolescents in <scp>E</scp>urope: demographic and social factors,https://doi.org/10.1111/j.1360-0443.2012.03946.x,2012,659,https://openalex.org/W2130475706
+3312,Sociology and Political Science,The impact of social media influencers on travel decisions: the role of trust in consumer decision journey,https://doi.org/10.1080/13683500.2021.1895729,2021,582,https://openalex.org/W3139175024
+3312,Sociology and Political Science,"To be, or not to be, a non-native freshwater fish?",https://doi.org/10.1111/j.1439-0426.2005.00690.x,2005,552,https://openalex.org/W2118841479
+2002,Economics and Econometrics,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4782,https://openalex.org/W2953804067
+2002,Economics and Econometrics,The global burden of women’s cancers: a grand challenge in global health,https://doi.org/10.1016/s0140-6736(16)31392-7,2016,1073,https://openalex.org/W2548000951
+2002,Economics and Econometrics,The state of hypertension care in 44 low-income and middle-income countries: a cross-sectional study of nationally representative individual-level data from 1·1 million adults,https://doi.org/10.1016/s0140-6736(19)30955-9,2019,805,https://openalex.org/W2962471769
+2002,Economics and Econometrics,EU-Wi<i>d</i>e Cross-Section<i>a</i>l Obser<i>v</i>at<i>i</i>o<i>n</i>al Study of Lipid-Modifying Therapy Use in Se<i>c</i>ondary and Pr<i>i</i>mary Care: the DA VINCI study,https://doi.org/10.1093/eurjpc/zwaa047,2020,664,https://openalex.org/W3120916025
+2002,Economics and Econometrics,Council of International Organizations for Medical Sciences,https://doi.org/10.1007/978-1-4614-5283-6_27,2012,658,https://openalex.org/W74922302
+2002,Economics and Econometrics,The effect of financial development on renewable energy consumption. A panel data approach,https://doi.org/10.1016/j.renene.2019.09.005,2019,591,https://openalex.org/W2971665459
+2002,Economics and Econometrics,COVID-19 and the United States financial markets’ volatility,https://doi.org/10.1016/j.frl.2020.101699,2020,550,https://openalex.org/W3044693676
+2002,Economics and Econometrics,Role of green technology innovation and renewable energy in carbon neutrality: A sustainable investigation from Turkey,https://doi.org/10.1016/j.jenvman.2021.113004,2021,547,https://openalex.org/W3169462745
+2002,Economics and Econometrics,Mapping the Sustainable Development Goals Relationships,https://doi.org/10.3390/su12083359,2020,523,https://openalex.org/W3016584396
+2002,Economics and Econometrics,EFNS guidelines for the diagnosis and management of Alzheimer’s disease,https://doi.org/10.1111/j.1468-1331.2010.03040.x,2010,481,https://openalex.org/W2113976466
 1702,Artificial Intelligence,API design for machine learning software: experiences from the scikit-learn project,,2013,1791,https://openalex.org/W1728842521
-1702,Artificial Intelligence,Binary grey wolf optimization approaches for feature selection,https://doi.org/10.1016/j.neucom.2015.06.083,2015,1315,https://openalex.org/W1444952417
+1702,Artificial Intelligence,Binary grey wolf optimization approaches for feature selection,https://doi.org/10.1016/j.neucom.2015.06.083,2015,1316,https://openalex.org/W1444952417
 1702,Artificial Intelligence,The anomalous magnetic moment of the muon in the Standard Model,https://doi.org/10.5167/uzh-191493,2020,1200,https://openalex.org/W3049342414
-2207,Control and Systems Engineering,Multiresonant Frequency-Locked Loop for Grid Synchronization of Power Converters Under Distorted Grid Conditions,https://doi.org/10.1109/tie.2010.2042420,2010,1069,https://openalex.org/W2006246155
-2207,Control and Systems Engineering,A Survey of Actor-Critic Reinforcement Learning: Standard and Natural Policy Gradients,https://doi.org/10.1109/tsmcc.2012.2218595,2012,992,https://openalex.org/W2046376809
+1702,Artificial Intelligence,The anomalous magnetic moment of the muon in the Standard Model,https://doi.org/10.1016/j.physrep.2020.07.006,2020,1087,https://openalex.org/W3034678343
+1702,Artificial Intelligence,A Survey of Actor-Critic Reinforcement Learning: Standard and Natural Policy Gradients,https://doi.org/10.1109/tsmcc.2012.2218595,2012,993,https://openalex.org/W2046376809
+1702,Artificial Intelligence,"What makes an AI device human-like? The role of interaction quality, empathy and perceived psychological anthropomorphic characteristics in the acceptance of artificial intelligence in the service industry",https://doi.org/10.1016/j.chb.2021.106855,2021,648,https://openalex.org/W3157200701
+1702,Artificial Intelligence,Challenges in representation learning: A report on three machine learning contests,https://doi.org/10.1016/j.neunet.2014.09.005,2014,626,https://openalex.org/W2744909235
+1702,Artificial Intelligence,Automated parameterisation for multi-scale image segmentation on multiple layers,https://doi.org/10.1016/j.isprsjprs.2013.11.018,2014,606,https://openalex.org/W2095028777
+1702,Artificial Intelligence,"A survey on deep learning tools dealing with data scarcity: definitions, challenges, solutions, tips, and applications",https://doi.org/10.1186/s40537-023-00727-2,2023,592,https://openalex.org/W4365504037
+1702,Artificial Intelligence,Multilayer perceptron and neural networks,https://doi.org/10.5555/1639537.1639542,2009,590,https://openalex.org/W2148489082
+2207,Control and Systems Engineering,Multiresonant Frequency-Locked Loop for Grid Synchronization of Power Converters Under Distorted Grid Conditions,https://doi.org/10.1109/tie.2010.2042420,2010,1070,https://openalex.org/W2006246155
+2207,Control and Systems Engineering,A Survey of Actor-Critic Reinforcement Learning: Standard and Natural Policy Gradients,https://doi.org/10.1109/tsmcc.2012.2218595,2012,993,https://openalex.org/W2046376809
 2207,Control and Systems Engineering,Automotive Electric Propulsion Systems With Reduced or No Permanent Magnets: An Overview,https://doi.org/10.1109/tie.2014.2301754,2014,771,https://openalex.org/W2056538626
+2207,Control and Systems Engineering,Nonlinear Differential Equations of Monotone Types in Banach Spaces,https://doi.org/10.1007/978-1-4419-5542-5,2009,756,https://openalex.org/W1607530402
+2207,Control and Systems Engineering,Blockchain Based Decentralized Management of Demand Response Programs in Smart Energy Grids,https://doi.org/10.3390/s18010162,2018,605,https://openalex.org/W2783275103
+2207,Control and Systems Engineering,A survey on industrial applications of fuzzy control,https://doi.org/10.1016/j.compind.2010.10.001,2010,515,https://openalex.org/W2086274107
+2207,Control and Systems Engineering,High Performance Current Controller for Selective Harmonic Compensation in Active Power Filters,https://doi.org/10.1109/tpel.2007.904060,2007,507,https://openalex.org/W2135885367
+2207,Control and Systems Engineering,Evaluation of Three-Phase Transformerless Photovoltaic Inverter Topologies,https://doi.org/10.1109/tpel.2009.2020800,2009,447,https://openalex.org/W2131855287
+2207,Control and Systems Engineering,Active Flux Concept for Motion-Sensorless Unified AC Drives,https://doi.org/10.1109/tpel.2008.2002394,2008,407,https://openalex.org/W2102083353
+2207,Control and Systems Engineering,Energy Storage Technologies: The Past and the Present,https://doi.org/10.1109/jproc.2014.2359545,2014,358,https://openalex.org/W1994534915

@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-1312,Molecular Biology,Near-optimal probabilistic RNA-seq quantification,https://doi.org/10.1038/nbt.3519,2016,10042,https://openalex.org/W2323326409
-1312,Molecular Biology,Signatures of mutational processes in human cancer,https://doi.org/10.1038/nature12477,2013,9727,https://openalex.org/W2152061559
-1312,Molecular Biology,"Meta-analysis of 74,046 individuals identifies 11 new susceptibility loci for Alzheimer's disease",https://doi.org/10.1038/ng.2802,2013,4465,https://openalex.org/W2115779804
-1902,Atmospheric Science,"Orbital and Millennial Antarctic Climate Variability over the Past 800,000 Years",https://doi.org/10.1126/science.1141038,2007,2617,https://openalex.org/W2076517688
-1902,Atmospheric Science,Global Carbon Budget 2020,https://doi.org/10.5194/essd-12-3269-2020,2020,2406,https://openalex.org/W3093432062
-1902,Atmospheric Science,Permafrost is warming at a global scale,https://doi.org/10.1038/s41467-018-08240-4,2019,1898,https://openalex.org/W2908898337
-2303,Ecology,The Circumpolar Arctic vegetation map,https://doi.org/10.1111/j.1654-1103.2005.tb02365.x,2005,1075,https://openalex.org/W2316175344
-2303,Ecology,The superior effect of nature based solutions in land management for enhancing ecosystem services,https://doi.org/10.1016/j.scitotenv.2017.08.077,2017,993,https://openalex.org/W2749797865
-2303,Ecology,Spectral and Spatial Classification of Hyperspectral Data Using SVMs and Morphological Profiles,https://doi.org/10.1109/tgrs.2008.922034,2008,955,https://openalex.org/W4320339642
-3312,Sociology and Political Science,Development: Time to leave GDP behind,https://doi.org/10.1038/505283a,2014,657,https://openalex.org/W2051147555
-3312,Sociology and Political Science,Online data collection in academic research: advantages and limitations,https://doi.org/10.1111/j.1467-8535.2006.00638.x,2006,621,https://openalex.org/W2144015836
-3312,Sociology and Political Science,Polygenic prediction of educational attainment within and between families from genome-wide association analyses in 3 million individuals,https://doi.org/10.1038/s41588-022-01016-z,2022,599,https://openalex.org/W4220711675
-1311,Genetics,Finding the missing heritability of complex diseases,https://doi.org/10.1038/nature08494,2009,8323,https://openalex.org/W1980991473
-1311,Genetics,"Meta-analysis of 74,046 individuals identifies 11 new susceptibility loci for Alzheimer's disease",https://doi.org/10.1038/ng.2802,2013,4465,https://openalex.org/W2115779804
-1311,Genetics,"Biological, clinical and population relevance of 95 loci for blood lipids",https://doi.org/10.1038/nature09270,2010,3620,https://openalex.org/W2115801316
-2306,Global and Planetary Change,"Climatological mean and decadal change in surface ocean pCO<sub>2</sub>, and net sea-air CO<sub>2</sub> flux over the global oceans",https://doi.org/10.1016/j.dsr2.2008.12.009,2009,2440,https://openalex.org/W2063534846
-2306,Global and Planetary Change,Global Carbon Budget 2020,https://doi.org/10.5194/essd-12-3269-2020,2020,2406,https://openalex.org/W3093432062
-2306,Global and Planetary Change,Twenty-three unsolved problems in hydrology (UPH) – a community perspective,https://doi.org/10.1080/02626667.2019.1620507,2019,1044,https://openalex.org/W2951276077
-2739,"Public Health, Environmental and Occupational Health",Aspirin versus Placebo in Pregnancies at High Risk for Preterm Preeclampsia,https://doi.org/10.1056/nejmoa1704559,2017,2019,https://openalex.org/W2730504020
+1312,Molecular Biology,Near-optimal probabilistic RNA-seq quantification,https://doi.org/10.1038/nbt.3519,2016,10094,https://openalex.org/W2323326409
+1312,Molecular Biology,Signatures of mutational processes in human cancer,https://doi.org/10.1038/nature12477,2013,9747,https://openalex.org/W2152061559
+1312,Molecular Biology,"Meta-analysis of 74,046 individuals identifies 11 new susceptibility loci for Alzheimer's disease",https://doi.org/10.1038/ng.2802,2013,4475,https://openalex.org/W2115779804
+1312,Molecular Biology,What is flux balance analysis?,https://doi.org/10.1038/nbt.1614,2010,3896,https://openalex.org/W2078355959
+1312,Molecular Biology,Discovery and refinement of loci associated with lipid levels,https://doi.org/10.1038/ng.2797,2013,3214,https://openalex.org/W2153118028
+1312,Molecular Biology,Mash: fast genome and metagenome distance estimation using MinHash,https://doi.org/10.1186/s13059-016-0997-x,2016,3176,https://openalex.org/W2950150251
+1312,Molecular Biology,"Genetic meta-analysis of diagnosed Alzheimer’s disease identifies new risk loci and implicates Aβ, tau, immunity and lipid processing",https://doi.org/10.1038/s41588-019-0358-2,2019,2963,https://openalex.org/W2916749909
+1312,Molecular Biology,"Diabetes Mellitus, Fasting Glucose, and Risk of Cause-Specific Death",https://doi.org/10.1056/nejmoa1008862,2011,2637,https://openalex.org/W2126919962
+1312,Molecular Biology,Genome-wide meta-analysis identifies new loci and functional pathways influencing Alzheimer’s disease risk,https://doi.org/10.1038/s41588-018-0311-9,2019,2358,https://openalex.org/W2908002252
+1312,Molecular Biology,Variant of transcription factor 7-like 2 (TCF7L2) gene confers risk of type 2 diabetes,https://doi.org/10.1038/ng1732,2006,2241,https://openalex.org/W1965141016
+1902,Atmospheric Science,"Orbital and Millennial Antarctic Climate Variability over the Past 800,000 Years",https://doi.org/10.1126/science.1141038,2007,2623,https://openalex.org/W2076517688
+1902,Atmospheric Science,Global Carbon Budget 2020,https://doi.org/10.5194/essd-12-3269-2020,2020,2407,https://openalex.org/W3093432062
+1902,Atmospheric Science,Permafrost is warming at a global scale,https://doi.org/10.1038/s41467-018-08240-4,2019,1913,https://openalex.org/W2908898337
+1902,Atmospheric Science,Deep Learning for Hyperspectral Image Classification: An Overview,https://doi.org/10.1109/tgrs.2019.2907932,2019,1640,https://openalex.org/W2942454403
+1902,Atmospheric Science,Classification of hyperspectral data from urban areas based on extended morphological profiles,https://doi.org/10.1109/tgrs.2004.842478,2005,1368,https://openalex.org/W2114819256
+1902,Atmospheric Science,Advances in Spectral-Spatial Classification of Hyperspectral Images,https://doi.org/10.1109/jproc.2012.2197589,2012,1249,https://openalex.org/W2001298023
+1902,Atmospheric Science,The Circumpolar Arctic vegetation map,https://doi.org/10.1111/j.1654-1103.2005.tb02365.x,2005,1078,https://openalex.org/W2316175344
+1902,Atmospheric Science,"Persistent scatterer interferometric synthetic aperture radar for crustal deformation analysis, with application to Volcán Alcedo, Galápagos",https://doi.org/10.1029/2006jb004763,2007,1069,https://openalex.org/W2013211795
+1902,Atmospheric Science,Spectral and Spatial Classification of Hyperspectral Data Using SVMs and Morphological Profiles,https://doi.org/10.1109/tgrs.2008.922034,2008,956,https://openalex.org/W4320339642
+1902,Atmospheric Science,Plot-scale evidence of tundra vegetation change and links to recent summer warming,https://doi.org/10.1038/nclimate1465,2012,951,https://openalex.org/W2020464995
+2303,Ecology,The Circumpolar Arctic vegetation map,https://doi.org/10.1111/j.1654-1103.2005.tb02365.x,2005,1078,https://openalex.org/W2316175344
+2303,Ecology,The superior effect of nature based solutions in land management for enhancing ecosystem services,https://doi.org/10.1016/j.scitotenv.2017.08.077,2017,997,https://openalex.org/W2749797865
+2303,Ecology,Spectral and Spatial Classification of Hyperspectral Data Using SVMs and Morphological Profiles,https://doi.org/10.1109/tgrs.2008.922034,2008,956,https://openalex.org/W4320339642
+2303,Ecology,Spectral and spatial classification of hyperspectral data using SVMs and morphological profiles,https://doi.org/10.1109/igarss.2007.4423943,2007,907,https://openalex.org/W2043665634
+2303,Ecology,Alternatives to antibiotics—a pipeline portfolio review,https://doi.org/10.1016/s1473-3099(15)00466-1,2016,816,https://openalex.org/W2239738725
+2303,Ecology,Advances in Hyperspectral Image Classification: Earth Monitoring with Statistical Learning Methods,https://doi.org/10.1109/msp.2013.2279179,2013,730,https://openalex.org/W2008847349
+2303,Ecology,SVM- and MRF-Based Method for Accurate Classification of Hyperspectral Images,https://doi.org/10.1109/lgrs.2010.2047711,2010,730,https://openalex.org/W2131864940
+2303,Ecology,Tracking of Arctic terns<i>Sterna paradisaea</i>reveals longest animal migration,https://doi.org/10.1073/pnas.0909493107,2010,545,https://openalex.org/W2058997872
+2303,Ecology,Multisource and Multitemporal Data Fusion in Remote Sensing: A Comprehensive Review of the State of the Art,https://doi.org/10.1109/mgrs.2018.2890023,2019,518,https://openalex.org/W2923136550
+2303,Ecology,Higher predation risk for insect prey at low latitudes and elevations,https://doi.org/10.1126/science.aaj1631,2017,497,https://openalex.org/W2616111333
+3312,Sociology and Political Science,Development: Time to leave GDP behind,https://doi.org/10.1038/505283a,2014,660,https://openalex.org/W2051147555
+3312,Sociology and Political Science,Online data collection in academic research: advantages and limitations,https://doi.org/10.1111/j.1467-8535.2006.00638.x,2006,622,https://openalex.org/W2144015836
+3312,Sociology and Political Science,Polygenic prediction of educational attainment within and between families from genome-wide association analyses in 3 million individuals,https://doi.org/10.1038/s41588-022-01016-z,2022,608,https://openalex.org/W4220711675
+3312,Sociology and Political Science,Maximizing Opportunities and Minimizing Risks for Children Online: The Role of Digital Skills in Emerging Strategies of Parental Mediation,https://doi.org/10.1111/jcom.12277,2017,591,https://openalex.org/W2565578188
+3312,Sociology and Political Science,Beyond the ‘east–west’ dichotomy: Global variation in cultural models of selfhood.,https://doi.org/10.1037/xge0000175,2016,525,https://openalex.org/W2474075425
+3312,Sociology and Political Science,Reconceptualizing the ‘Anthropos’ in the Anthropocene: Integrating the social sciences and humanities in global environmental change research,https://doi.org/10.1016/j.envsci.2012.11.004,2012,499,https://openalex.org/W2030841867
+3312,Sociology and Political Science,Making meaning: children’s perspectives expressed through drawings,https://doi.org/10.1080/03004430802666999,2009,450,https://openalex.org/W2040411440
+3312,Sociology and Political Science,Co-benefits of addressing climate change can motivate action around the world,https://doi.org/10.1038/nclimate2814,2015,424,https://openalex.org/W2259778813
+3312,Sociology and Political Science,"Official Labeling, Criminal Embeddedness, and Subsequent Delinquency",https://doi.org/10.1177/0022427805280068,2006,402,https://openalex.org/W2564268179
+3312,Sociology and Political Science,“I have turned into a foreman here at home”: Families and work–life balance in times of COVID‐19 in a gender equality paradise,https://doi.org/10.1111/gwao.12552,2020,354,https://openalex.org/W3087441080
+1311,Genetics,Finding the missing heritability of complex diseases,https://doi.org/10.1038/nature08494,2009,8342,https://openalex.org/W1980991473
+1311,Genetics,"Meta-analysis of 74,046 individuals identifies 11 new susceptibility loci for Alzheimer's disease",https://doi.org/10.1038/ng.2802,2013,4475,https://openalex.org/W2115779804
+1311,Genetics,"Biological, clinical and population relevance of 95 loci for blood lipids",https://doi.org/10.1038/nature09270,2010,3623,https://openalex.org/W2115801316
+1311,Genetics,Discovery and refinement of loci associated with lipid levels,https://doi.org/10.1038/ng.2797,2013,3214,https://openalex.org/W2153118028
+1311,Genetics,"Genetic meta-analysis of diagnosed Alzheimer’s disease identifies new risk loci and implicates Aβ, tau, immunity and lipid processing",https://doi.org/10.1038/s41588-019-0358-2,2019,2963,https://openalex.org/W2916749909
+1311,Genetics,"Association analyses of 249,796 individuals reveal 18 new loci associated with body mass index",https://doi.org/10.1038/ng.686,2010,2932,https://openalex.org/W2147311167
+1311,Genetics,Identification of common genetic risk variants for autism spectrum disorder,https://doi.org/10.1038/s41588-019-0344-8,2019,2402,https://openalex.org/W2914482125
+1311,Genetics,Mapping genomic loci implicates genes and synaptic biology in schizophrenia,https://doi.org/10.1038/s41586-022-04434-5,2022,2399,https://openalex.org/W4223520055
+1311,Genetics,Genome-wide meta-analysis identifies new loci and functional pathways influencing Alzheimer’s disease risk,https://doi.org/10.1038/s41588-018-0311-9,2019,2358,https://openalex.org/W2908002252
+1311,Genetics,Variant of transcription factor 7-like 2 (TCF7L2) gene confers risk of type 2 diabetes,https://doi.org/10.1038/ng1732,2006,2241,https://openalex.org/W1965141016
+2306,Global and Planetary Change,"Climatological mean and decadal change in surface ocean pCO<sub>2</sub>, and net sea-air CO<sub>2</sub> flux over the global oceans",https://doi.org/10.1016/j.dsr2.2008.12.009,2009,2446,https://openalex.org/W2063534846
+2306,Global and Planetary Change,Global Carbon Budget 2020,https://doi.org/10.5194/essd-12-3269-2020,2020,2407,https://openalex.org/W3093432062
+2306,Global and Planetary Change,Twenty-three unsolved problems in hydrology (UPH) – a community perspective,https://doi.org/10.1080/02626667.2019.1620507,2019,1048,https://openalex.org/W2951276077
+2306,Global and Planetary Change,The superior effect of nature based solutions in land management for enhancing ecosystem services,https://doi.org/10.1016/j.scitotenv.2017.08.077,2017,997,https://openalex.org/W2749797865
+2306,Global and Planetary Change,Morphological Attribute Profiles for the Analysis of Very High Resolution Images,https://doi.org/10.1109/tgrs.2010.2048116,2010,705,https://openalex.org/W2127199143
+2306,Global and Planetary Change,"The likely impact of elevated [CO<sub>2</sub>], nitrogen deposition, increased temperature and management on carbon sequestration in temperate and boreal forest ecosystems: a literature review",https://doi.org/10.1111/j.1469-8137.2007.01967.x,2007,681,https://openalex.org/W2018510764
+2306,Global and Planetary Change,Effect of dietary components on the gut microbiota of aquatic animals. A never‐ending story?,https://doi.org/10.1111/anu.12346,2015,653,https://openalex.org/W2147990122
+2306,Global and Planetary Change,Persistent effects of pre-Columbian plant domestication on Amazonian forest composition,https://doi.org/10.1126/science.aal0157,2017,652,https://openalex.org/W2594233224
+2306,Global and Planetary Change,Ecology: Managing Evolving Fish Stocks,https://doi.org/10.1126/science.1148089,2007,616,https://openalex.org/W2136168956
+2306,Global and Planetary Change,"The effect of temperature and fish size on growth, feed intake, food conversion efficiency and stomach evacuation rate of Atlantic salmon post-smolts",https://doi.org/10.1016/j.aquaculture.2008.06.042,2008,504,https://openalex.org/W2095750989
+2739,"Public Health, Environmental and Occupational Health",Aspirin versus Placebo in Pregnancies at High Risk for Preterm Preeclampsia,https://doi.org/10.1056/nejmoa1704559,2017,2029,https://openalex.org/W2730504020
 2739,"Public Health, Environmental and Occupational Health",Mapping cis- and trans-regulatory effects across multiple tissues in twins,https://doi.org/10.1038/ng.2394,2012,776,https://openalex.org/W2019232525
-2739,"Public Health, Environmental and Occupational Health",Rising rural body-mass index is the main driver of the global obesity epidemic in adults,https://doi.org/10.1038/s41586-019-1171-x,2019,697,https://openalex.org/W2945386046
-2208,Electrical and Electronic Engineering,Modeling the Electrochemical Hydrogen Oxidation and Evolution Reactions on the Basis of Density Functional Theory Calculations,https://doi.org/10.1021/jp1048887,2010,1183,https://openalex.org/W2074527904
-2208,Electrical and Electronic Engineering,Ionized physical vapor deposition (IPVD): A review of technology and applications,https://doi.org/10.1016/j.tsf.2006.03.033,2006,1034,https://openalex.org/W2161508873
-2208,Electrical and Electronic Engineering,Density functional theory calculations for the hydrogen evolution reaction in an electrochemical double layer on the Pt(111) electrode,https://doi.org/10.1039/b700099e,2007,851,https://openalex.org/W2100929361
-2713,Epidemiology,"Liver Fibrosis, but No Other Histologic Features, Is Associated With Long-term Outcomes of Patients With Nonalcoholic Fatty Liver Disease",https://doi.org/10.1053/j.gastro.2015.04.043,2015,2794,https://openalex.org/W1964572117
-2713,Epidemiology,Quadrivalent Vaccine against Human Papillomavirus to Prevent High-Grade Cervical Lesions,https://doi.org/10.1056/nejmoa061741,2007,2035,https://openalex.org/W2127043059
-2713,Epidemiology,Association studies of up to 1.2 million individuals yield new insights into the genetic etiology of tobacco and alcohol use,https://doi.org/10.1038/s41588-018-0307-5,2019,2009,https://openalex.org/W2909598358
-1908,Geophysics,The Amount of Recycled Crust in Sources of Mantle-Derived Melts,https://doi.org/10.1126/science.1138113,2007,1409,https://openalex.org/W2069053606
-1908,Geophysics,"Persistent scatterer interferometric synthetic aperture radar for crustal deformation analysis, with application to Volcán Alcedo, Galápagos",https://doi.org/10.1029/2006jb004763,2007,1064,https://openalex.org/W2013211795
+2739,"Public Health, Environmental and Occupational Health",Rising rural body-mass index is the main driver of the global obesity epidemic in adults,https://doi.org/10.1038/s41586-019-1171-x,2019,700,https://openalex.org/W2945386046
+2739,"Public Health, Environmental and Occupational Health",Large-scale genome-wide meta-analysis of polycystic ovary syndrome suggests shared genetic architecture for different diagnosis criteria,https://doi.org/10.1371/journal.pgen.1007813,2018,649,https://openalex.org/W2795286808
+2739,"Public Health, Environmental and Occupational Health",BMI in relation to sperm count: an updated systematic review and collaborative meta-analysis,https://doi.org/10.1093/humupd/dms050,2012,636,https://openalex.org/W2124182468
+2739,"Public Health, Environmental and Occupational Health","Age, Gene/Environment Susceptibility-Reykjavik Study: Multidisciplinary Applied Phenomics",https://doi.org/10.1093/aje/kwk115,2007,583,https://openalex.org/W2142560075
+2739,"Public Health, Environmental and Occupational Health",European Resuscitation Council Guidelines 2021: Executive summary,https://doi.org/10.1016/j.resuscitation.2021.02.003,2021,568,https://openalex.org/W3147500225
+2739,"Public Health, Environmental and Occupational Health","Physical Activity Attenuates the Influence of FTO Variants on Obesity Risk: A Meta-Analysis of 218,166 Adults and 19,268 Children",https://doi.org/10.1371/journal.pmed.1001116,2011,543,https://openalex.org/W2142435658
+2739,"Public Health, Environmental and Occupational Health",Emergence and spread of vancomycin resistance among enterococci in Europe,https://doi.org/10.2807/ese.13.47.19046-en,2008,539,https://openalex.org/W1508893821
+2739,"Public Health, Environmental and Occupational Health",The Epidemiology of Dengue in the Americas Over the Last Three Decades: A Worrisome Reality,https://doi.org/10.4269/ajtmh.2010.09-0346,2010,529,https://openalex.org/W2111934369
+2208,Electrical and Electronic Engineering,Modeling the Electrochemical Hydrogen Oxidation and Evolution Reactions on the Basis of Density Functional Theory Calculations,https://doi.org/10.1021/jp1048887,2010,1186,https://openalex.org/W2074527904
+2208,Electrical and Electronic Engineering,Ionized physical vapor deposition (IPVD): A review of technology and applications,https://doi.org/10.1016/j.tsf.2006.03.033,2006,1035,https://openalex.org/W2161508873
+2208,Electrical and Electronic Engineering,Density functional theory calculations for the hydrogen evolution reaction in an electrochemical double layer on the Pt(111) electrode,https://doi.org/10.1039/b700099e,2007,855,https://openalex.org/W2100929361
+2208,Electrical and Electronic Engineering,High power impulse magnetron sputtering discharge,https://doi.org/10.1116/1.3691832,2012,699,https://openalex.org/W2090071143
+2208,Electrical and Electronic Engineering,A clean slate 4D approach to network control and management,https://doi.org/10.1145/1096536.1096541,2005,654,https://openalex.org/W2164284397
+2208,Electrical and Electronic Engineering,Direct membrane filtration for wastewater treatment and resource recovery: A review,https://doi.org/10.1016/j.scitotenv.2019.136375,2019,576,https://openalex.org/W2996854322
+2208,Electrical and Electronic Engineering,Dynamic strain determination using fibre-optic cables allows imaging of seismological and structural features,https://doi.org/10.1038/s41467-018-04860-y,2018,565,https://openalex.org/W2809685438
+2208,Electrical and Electronic Engineering,Physics and technology of magnetron sputtering discharges,https://doi.org/10.1088/1361-6595/abb7bd,2020,455,https://openalex.org/W3085849249
+2208,Electrical and Electronic Engineering,Global transition path search for dislocation formation in Ge on Si(001),https://doi.org/10.1016/j.cpc.2016.04.001,2016,441,https://openalex.org/W2327438196
+2208,Electrical and Electronic Engineering,Forecasting stock indices using radial basis function neural networks optimized by artificial fish swarm algorithm,https://doi.org/10.1016/j.knosys.2010.11.001,2010,397,https://openalex.org/W2045001586
+2713,Epidemiology,"Liver Fibrosis, but No Other Histologic Features, Is Associated With Long-term Outcomes of Patients With Nonalcoholic Fatty Liver Disease",https://doi.org/10.1053/j.gastro.2015.04.043,2015,2801,https://openalex.org/W1964572117
+2713,Epidemiology,Quadrivalent Vaccine against Human Papillomavirus to Prevent High-Grade Cervical Lesions,https://doi.org/10.1056/nejmoa061741,2007,2036,https://openalex.org/W2127043059
+2713,Epidemiology,Association studies of up to 1.2 million individuals yield new insights into the genetic etiology of tobacco and alcohol use,https://doi.org/10.1038/s41588-018-0307-5,2019,2021,https://openalex.org/W2909598358
+2713,Epidemiology,European guideline for the diagnosis and treatment of insomnia,https://doi.org/10.1111/jsr.12594,2017,1906,https://openalex.org/W2753866150
+2713,Epidemiology,Hydroxyethyl Starch 130/0.42 versus Ringer's Acetate in Severe Sepsis,https://doi.org/10.1056/nejmoa1204242,2012,1809,https://openalex.org/W2132135347
+2713,Epidemiology,Triglycerides and the Risk of Coronary Heart Disease,https://doi.org/10.1161/circulationaha.106.637793,2006,1397,https://openalex.org/W1976428272
+2713,Epidemiology,"C-Reactive Protein, Fibrinogen, and Cardiovascular Disease Prediction",https://doi.org/10.1056/nejmoa1107477,2012,1109,https://openalex.org/W1520348292
+2713,Epidemiology,Genome-Wide Association Analysis Identifies Variants Associated with Nonalcoholic Fatty Liver Disease That Have Distinct Effects on Metabolic Traits,https://doi.org/10.1371/journal.pgen.1001324,2011,978,https://openalex.org/W2156760391
+2713,Epidemiology,Case Definition and Phenotype Standardization in Drug-Induced Liver Injury,https://doi.org/10.1038/clpt.2011.58,2011,966,https://openalex.org/W1972199218
+2713,Epidemiology,Common variants associated with plasma triglycerides and risk for coronary artery disease,https://doi.org/10.1038/ng.2795,2013,879,https://openalex.org/W2163969089
+1908,Geophysics,The Amount of Recycled Crust in Sources of Mantle-Derived Melts,https://doi.org/10.1126/science.1138113,2007,1414,https://openalex.org/W2069053606
+1908,Geophysics,"Persistent scatterer interferometric synthetic aperture radar for crustal deformation analysis, with application to Volcán Alcedo, Galápagos",https://doi.org/10.1029/2006jb004763,2007,1069,https://openalex.org/W2013211795
 1908,Geophysics,"Volcanism in Iceland in historical time: Volcano types, eruption styles and eruptive history",https://doi.org/10.1016/j.jog.2006.09.005,2006,579,https://openalex.org/W2067703344
+1908,Geophysics,Dynamic strain determination using fibre-optic cables allows imaging of seismological and structural features,https://doi.org/10.1038/s41467-018-04860-y,2018,565,https://openalex.org/W2809685438
+1908,Geophysics,"Segmented lateral dyke growth in a rifting event at Bárðarbunga volcanic system, Iceland",https://doi.org/10.1038/nature14111,2014,516,https://openalex.org/W1970334697
+1908,Geophysics,Mineral sequestration of carbon dioxide in basalt: A pre-injection overview of the CarbFix project,https://doi.org/10.1016/j.ijggc.2009.11.013,2010,427,https://openalex.org/W2107753785
+1908,Geophysics,Intrusion triggering of the 2010 Eyjafjallajökull explosive eruption,https://doi.org/10.1038/nature09558,2010,396,https://openalex.org/W2044643221
+1908,Geophysics,"Gradual caldera collapse at Bárdarbunga volcano, Iceland, regulated by lateral magma outflow",https://doi.org/10.1126/science.aaf8988,2016,296,https://openalex.org/W2466905028
+1908,Geophysics,Geophysical constraints on the dynamics of spreading centres from rifting episodes on land,https://doi.org/10.1038/ngeo1428,2012,283,https://openalex.org/W2051046669
+1908,Geophysics,"Iron and lithium isotope systematics of the Hekla volcano, Iceland — Evidence for Fe isotope fractionation during magma differentiation",https://doi.org/10.1016/j.chemgeo.2008.06.021,2008,275,https://openalex.org/W2046406137

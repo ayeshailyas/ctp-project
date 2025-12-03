@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-3600,General Health Professions,"Not enough there, too many here: understanding geographical imbalances in the distribution of the health workforce",https://doi.org/10.1186/1478-4491-4-12,2006,716,https://openalex.org/W1857614722
+3600,General Health Professions,"Not enough there, too many here: understanding geographical imbalances in the distribution of the health workforce",https://doi.org/10.1186/1478-4491-4-12,2006,718,https://openalex.org/W1857614722
 3600,General Health Professions,"International Tourism Highlights, 2019 Edition",https://doi.org/10.18111/9789284421152,2019,691,https://openalex.org/W4211018079
 3600,General Health Professions,Contribution of chronic diseases to disability in elderly people in countries with low and middle incomes: a 10/66 Dementia Research Group population-based survey,https://doi.org/10.1016/s0140-6736(09)61829-8,2009,471,https://openalex.org/W2107466701
+3600,General Health Professions,"Prevalence of dementia in Latin America, India, and China: a population-based cross-sectional survey",https://doi.org/10.1016/s0140-6736(08)61002-8,2008,461,https://openalex.org/W2100484216
+3600,General Health Professions,The Global State of the Genetic Counseling Profession,https://doi.org/10.1038/s41431-018-0252-x,2018,364,https://openalex.org/W2895534446
+3600,General Health Professions,The protocols for the 10/66 dementia research group population-based research programme,https://doi.org/10.1186/1471-2458-7-165,2007,353,https://openalex.org/W2023611349
+3600,General Health Professions,"Call for emergency action to limit global temperature increases, restore biodiversity, and protect health",https://doi.org/10.1136/bmj.n1734,2021,334,https://openalex.org/W3196326237
+3600,General Health Professions,Prevalence of dementia in Latin America: a collaborative study of population-based cohorts,https://doi.org/10.1017/s1041610209009430,2009,330,https://openalex.org/W2107706865
+3600,General Health Professions,Parental Burnout Around the Globe: a 42-Country Study,https://doi.org/10.1007/s42761-020-00028-4,2021,262,https://openalex.org/W3137450077
+3600,General Health Professions,La Investigación Cualitativa,,2015,251,https://openalex.org/W1538960628
 3304,Education,La Investigación Cualitativa,,2015,251,https://openalex.org/W1538960628
 3304,Education,Basic numerical capacities and prevalence of developmental dyscalculia: The Havana Survey.,https://doi.org/10.1037/a0025356,2011,174,https://openalex.org/W2166710118
 3304,Education,Teaching of Energy Issues: A Debate Proposal for a Global Reorientation,https://doi.org/10.1007/s11191-005-5036-3,2006,124,https://openalex.org/W1988738833
-2739,"Public Health, Environmental and Occupational Health",Dengue: a continuing global threat,https://doi.org/10.1038/nrmicro2460,2010,2000,https://openalex.org/W2042479028
-2739,"Public Health, Environmental and Occupational Health",Dengue,https://doi.org/10.1016/s0140-6736(14)60572-9,2014,1234,https://openalex.org/W4211135732
-2739,"Public Health, Environmental and Occupational Health",Secondary infection as a risk factor for dengue hemorrhagic fever/dengue shock syndrome: an historical perspective and role of antibody-dependent enhancement of infection,https://doi.org/10.1007/s00705-013-1645-3,2013,705,https://openalex.org/W2053490656
+3304,Education,El desempeño del docente como factor asociado a la calidad educativa en América Latina,https://doi.org/10.15517/revedu.v42i2.27033,2018,120,https://openalex.org/W2884613190
+3304,Education,Using a mobile phone acceleration sensor in physics experiments on free and damped harmonic oscillations,https://doi.org/10.1119/1.4793438,2013,99,https://openalex.org/W1967152085
+3304,Education,Next directions in measurement of the home mathematics environment: An international and interdisciplinary perspective,https://doi.org/10.5964/jnc.6143,2021,97,https://openalex.org/W3175701282
+3304,Education,Peripheral Inflammatory Markers Contributing to Comorbidities in Autism,https://doi.org/10.3390/bs6040029,2016,84,https://openalex.org/W2561965738
+3304,Education,Competencias genéricas y formación profesional: un análisis desde la docencia universitaria,https://doi.org/10.35362/rie470710,2008,84,https://openalex.org/W2100441592
+3304,Education,QEEG Spectral and Coherence Assessment of Autistic Children in Three Different Experimental Conditions,https://doi.org/10.1007/s10803-013-1909-5,2013,63,https://openalex.org/W2085488079
+3304,Education,Effective leadership and communication strategies in disadvantaged contexts in the digital age,https://doi.org/10.56294/sctconf2023532,2023,61,https://openalex.org/W4391455931
+2739,"Public Health, Environmental and Occupational Health",Dengue: a continuing global threat,https://doi.org/10.1038/nrmicro2460,2010,2003,https://openalex.org/W2042479028
+2739,"Public Health, Environmental and Occupational Health",Dengue,https://doi.org/10.1016/s0140-6736(14)60572-9,2014,1244,https://openalex.org/W4211135732
+2739,"Public Health, Environmental and Occupational Health",Secondary infection as a risk factor for dengue hemorrhagic fever/dengue shock syndrome: an historical perspective and role of antibody-dependent enhancement of infection,https://doi.org/10.1007/s00705-013-1645-3,2013,706,https://openalex.org/W2053490656
+2739,"Public Health, Environmental and Occupational Health",Dengue infection,https://doi.org/10.1038/nrdp.2016.55,2016,683,https://openalex.org/W4211002680
+2739,"Public Health, Environmental and Occupational Health",The future of Chagas disease control,https://doi.org/10.1016/j.pt.2006.09.011,2006,658,https://openalex.org/W2013771584
+2739,"Public Health, Environmental and Occupational Health",Evaluation of diagnostic tests: dengue,https://doi.org/10.1038/nrmicro2459,2010,567,https://openalex.org/W2043352558
+2739,"Public Health, Environmental and Occupational Health",The Epidemiology of Dengue in the Americas Over the Last Three Decades: A Worrisome Reality,https://doi.org/10.4269/ajtmh.2010.09-0346,2010,529,https://openalex.org/W2111934369
+2739,"Public Health, Environmental and Occupational Health",Adding It Up: Investing in Sexual and Reproductive Health 2019,https://doi.org/10.1363/2020.31593,2020,401,https://openalex.org/W4245832682
+2739,"Public Health, Environmental and Occupational Health",CARMELA: Assessment of Cardiovascular Risk in Seven Latin American Cities,https://doi.org/10.1016/j.amjmed.2007.08.038,2008,391,https://openalex.org/W2058895413
+2739,"Public Health, Environmental and Occupational Health",Functional Regulatory T Cells Accumulate in Aged Hosts and Promote Chronic Infectious Disease Reactivation,https://doi.org/10.4049/jimmunol.181.3.1835,2008,377,https://openalex.org/W1510545292
 2746,Surgery,Oral Health and Risk of Squamous Cell Carcinoma of the Head and Neck and Esophagus: Results of Two Multicentric Case-Control Studies,https://doi.org/10.1093/aje/kwm193,2007,407,https://openalex.org/W2098819327
 2746,Surgery,Regulation of Treg functionality by acetylation-mediated Foxp3 protein stabilization,https://doi.org/10.1182/blood-2009-02-207118,2009,364,https://openalex.org/W2019918813
-2746,Surgery,Global Retinoblastoma Presentation and Analysis by National Income Level,https://doi.org/10.1001/jamaoncol.2019.6716,2020,341,https://openalex.org/W3008735477
-1110,Plant Science,Insights from the genome of the biotrophic fungal plant pathogen Ustilago maydis,https://doi.org/10.1038/nature05248,2006,1204,https://openalex.org/W2007497503
-1110,Plant Science,Emerging Virus Diseases Transmitted by Whiteflies,https://doi.org/10.1146/annurev-phyto-072910-095235,2011,973,https://openalex.org/W2126667640
-1110,Plant Science,Genetics of phosphate solubilization and its potential applications for improving plant growth-promoting bacteria,https://doi.org/10.1007/s11104-006-9056-9,2006,802,https://openalex.org/W2125763531
-1312,Molecular Biology,gmx_MMPBSA: A New Tool to Perform End-State Free Energy Calculations with GROMACS,https://doi.org/10.1021/acs.jctc.1c00645,2021,2257,https://openalex.org/W3202287440
-1312,Molecular Biology,The Proteomics Identifications (PRIDE) database and associated tools: status in 2013,https://doi.org/10.1093/nar/gks1262,2012,1939,https://openalex.org/W2157918066
-1312,Molecular Biology,Insights from the genome of the biotrophic fungal plant pathogen Ustilago maydis,https://doi.org/10.1038/nature05248,2006,1204,https://openalex.org/W2007497503
-1100,General Agricultural and Biological Sciences,Agroecologically efficient agricultural systems for smallholder farmers: contributions to food sovereignty,https://doi.org/10.1007/s13593-011-0065-6,2011,737,https://openalex.org/W2023696667
+2746,Surgery,Global Retinoblastoma Presentation and Analysis by National Income Level,https://doi.org/10.1001/jamaoncol.2019.6716,2020,342,https://openalex.org/W3008735477
+2746,Surgery,The open abdomen in trauma and non-trauma patients: WSES guidelines,https://doi.org/10.1186/s13017-018-0167-4,2018,306,https://openalex.org/W2787787585
+2746,Surgery,Therapeutic efficacy of ozone in patients with diabetic foot,https://doi.org/10.1016/j.ejphar.2005.08.020,2005,290,https://openalex.org/W2111641814
+2746,Surgery,Prognostic Factors in Noncirrhotic Patients With Splanchnic Vein Thromboses,https://doi.org/10.1111/j.1572-0241.2007.01477.x,2007,287,https://openalex.org/W1976872959
+2746,Surgery,Preoperative Predictors for Postoperative Clinical Outcome in Lumbar Spinal Stenosis,https://doi.org/10.1097/01.brs.0000231727.88477.da,2006,285,https://openalex.org/W2065691469
+2746,Surgery,Multisystem inflammatory syndrome in children is driven by zonulin-dependent loss of gut mucosal barrier,https://doi.org/10.1172/jci149633,2021,245,https://openalex.org/W3165602562
+2746,Surgery,Comparison of the value of PCNA and Ki-67 as markers of cell proliferation in ameloblastic tumors,https://doi.org/10.4317/medoral.18573,2012,242,https://openalex.org/W2135730291
+2746,Surgery,Influence of mixed sugarcane bagasse samples evaluated by elemental and physical–chemical composition,https://doi.org/10.1016/j.indcrop.2014.11.003,2014,235,https://openalex.org/W2060426475
+1110,Plant Science,Insights from the genome of the biotrophic fungal plant pathogen Ustilago maydis,https://doi.org/10.1038/nature05248,2006,1206,https://openalex.org/W2007497503
+1110,Plant Science,Emerging Virus Diseases Transmitted by Whiteflies,https://doi.org/10.1146/annurev-phyto-072910-095235,2011,976,https://openalex.org/W2126667640
+1110,Plant Science,Genetics of phosphate solubilization and its potential applications for improving plant growth-promoting bacteria,https://doi.org/10.1007/s11104-006-9056-9,2006,803,https://openalex.org/W2125763531
+1110,Plant Science,Therapeutic Potential of Quercetin: New Insights and Perspectives for Human Health,https://doi.org/10.1021/acsomega.0c01818,2020,628,https://openalex.org/W3024750580
+1110,Plant Science,High temperature effects on photosynthetic activity of two tomato cultivars with different heat susceptibility,https://doi.org/10.1016/j.jplph.2004.07.014,2005,603,https://openalex.org/W2007590944
+1110,Plant Science,Review of Levan polysaccharide: From a century of past experiences to future prospects,https://doi.org/10.1016/j.biotechadv.2016.05.002,2016,401,https://openalex.org/W2386226323
+1110,Plant Science,"Non-destructive measurement of acidity, soluble solids and firmness of Satsuma mandarin using Vis/NIR-spectroscopy techniques",https://doi.org/10.1016/j.jfoodeng.2005.06.036,2005,360,https://openalex.org/W2054934498
+1110,Plant Science,A mutation in the voltage‐gated sodium channel gene associated with pyrethroid resistance in Latin American <i>Aedes aegypti</i>,https://doi.org/10.1111/j.1365-2583.2007.00774.x,2007,348,https://openalex.org/W1839046251
+1110,Plant Science,The arbuscular mycorrhizal symbiosis enhances the photosynthetic efficiency and the antioxidative response of rice plants subjected to drought stress,https://doi.org/10.1016/j.jplph.2010.01.018,2010,330,https://openalex.org/W2090482029
+1110,Plant Science,Notes for genera: Ascomycota,https://doi.org/10.1007/s13225-017-0386-0,2017,328,https://openalex.org/W2762272814
+1312,Molecular Biology,gmx_MMPBSA: A New Tool to Perform End-State Free Energy Calculations with GROMACS,https://doi.org/10.1021/acs.jctc.1c00645,2021,2296,https://openalex.org/W3202287440
+1312,Molecular Biology,The Proteomics Identifications (PRIDE) database and associated tools: status in 2013,https://doi.org/10.1093/nar/gks1262,2012,1940,https://openalex.org/W2157918066
+1312,Molecular Biology,Insights from the genome of the biotrophic fungal plant pathogen Ustilago maydis,https://doi.org/10.1038/nature05248,2006,1206,https://openalex.org/W2007497503
+1312,Molecular Biology,"Substrate Fate in Activated Macrophages: A Comparison between Innate, Classic, and Alternative Activation",https://doi.org/10.4049/jimmunol.0901698,2010,973,https://openalex.org/W1548584275
+1312,Molecular Biology,Machine learning in bioinformatics,https://doi.org/10.1093/bib/bbk007,2006,844,https://openalex.org/W2098740506
+1312,Molecular Biology,High temperature effects on photosynthetic activity of two tomato cultivars with different heat susceptibility,https://doi.org/10.1016/j.jplph.2004.07.014,2005,603,https://openalex.org/W2007590944
+1312,Molecular Biology,Phylogeny and classification of <i>Pinus</i>,https://doi.org/10.2307/25065300,2005,472,https://openalex.org/W2045116202
+1312,Molecular Biology,Preparation and Characterization of Chitosan Obtained from Shells of Shrimp (Litopenaeus vannamei Boone),https://doi.org/10.3390/md15050141,2017,402,https://openalex.org/W2616820116
+1312,Molecular Biology,"Effective connectivity: Influence, causality and biophysical modeling",https://doi.org/10.1016/j.neuroimage.2011.03.058,2011,390,https://openalex.org/W2147933447
+1312,Molecular Biology,"The HUman MicroNucleus project on eXfoLiated buccal cells (HUMNXL): The role of life-style, host factors, occupational exposures, health status, and assay protocol",https://doi.org/10.1016/j.mrrev.2011.06.005,2011,386,https://openalex.org/W2026518249
+1100,General Agricultural and Biological Sciences,Agroecologically efficient agricultural systems for smallholder farmers: contributions to food sovereignty,https://doi.org/10.1007/s13593-011-0065-6,2011,739,https://openalex.org/W2023696667
 1100,General Agricultural and Biological Sciences,The top 100 questions of importance to the future of global agriculture,https://doi.org/10.3763/ijas.2010.0534,2010,525,https://openalex.org/W1969784023
 1100,General Agricultural and Biological Sciences,Globalization of Conservation: A View from the South,https://doi.org/10.1126/science.1145560,2007,129,https://openalex.org/W2143279822
-3312,Sociology and Political Science,Dengue: a continuing global threat,https://doi.org/10.1038/nrmicro2460,2010,2000,https://openalex.org/W2042479028
+1100,General Agricultural and Biological Sciences,“Plant Glutathione S-transferases: An overview”,https://doi.org/10.1016/j.plgene.2020.100233,2020,116,https://openalex.org/W3027247906
+1100,General Agricultural and Biological Sciences,Institutionalizing agroecology: successes and challenges in Cuba,https://doi.org/10.1007/s10460-008-9156-7,2008,74,https://openalex.org/W2045849000
+1100,General Agricultural and Biological Sciences,Agroecology and the Development of Indicators of Food Sovereignty in Cuban Food Systems,https://doi.org/10.1080/10440046.2010.519205,2010,64,https://openalex.org/W2079368345
+1100,General Agricultural and Biological Sciences,What economic democracy for degrowth? Some comments on the contribution of socialist models and Cuban agroecology,https://doi.org/10.1016/j.futures.2012.03.021,2012,63,https://openalex.org/W2057819093
+1100,General Agricultural and Biological Sciences,"The current potential of low-carbon economy and biomass-based electricity in Cuba. The case of sugarcane, energy cane and marabu (Dichrostachys cinerea) as biomass sources",https://doi.org/10.1016/j.jclepro.2017.11.209,2017,63,https://openalex.org/W2769722563
+1100,General Agricultural and Biological Sciences,Canonical pedagogical content knowledge by CoRes for teaching acid–base chemistry at high school,https://doi.org/10.1039/c4rp00125g,2015,50,https://openalex.org/W1848734159
+1100,General Agricultural and Biological Sciences,Contribution of farmers' experiments and innovations to Cuba's agricultural innovation system,https://doi.org/10.1017/s1742170511000251,2011,48,https://openalex.org/W2038083444
+3312,Sociology and Political Science,Dengue: a continuing global threat,https://doi.org/10.1038/nrmicro2460,2010,2003,https://openalex.org/W2042479028
 3312,Sociology and Political Science,Contrasting Computational Models of Mate Preference Integration Across 45 Countries,https://doi.org/10.1038/s41598-019-52748-8,2019,1773,https://openalex.org/W2983201012
 3312,Sociology and Political Science,The protocols for the 10/66 dementia research group population-based research programme,https://doi.org/10.1186/1471-2458-7-165,2007,353,https://openalex.org/W2023611349
+3312,Sociology and Political Science,Sex Differences in Mate Preferences Across 45 Countries: A Large-Scale Replication,https://doi.org/10.1177/0956797620904154,2020,313,https://openalex.org/W3011838269
+3312,Sociology and Political Science,Predictors and dynamics of postpartum relapses in women with multiple sclerosis,https://doi.org/10.1177/1352458513507816,2013,184,https://openalex.org/W2054962526
+3312,Sociology and Political Science,<i>Aedes aegypti</i>Larval Indices and Risk for Dengue Epidemics,https://doi.org/10.3201/eid1205.050866,2006,177,https://openalex.org/W2105587944
+3312,Sociology and Political Science,Community involvement in dengue vector control: cluster randomised trial,https://doi.org/10.1136/bmj.b1959,2009,161,https://openalex.org/W2143305057
+3312,Sociology and Political Science,Clima y cultura organizacional: dos componentes esenciales en la productividad laboral,,2009,150,https://openalex.org/W1920815637
+3312,Sociology and Political Science,The development of children's preferences for equality and equity across 13 individualistic and collectivist cultures,https://doi.org/10.1111/desc.12729,2018,144,https://openalex.org/W2890989244
+3312,Sociology and Political Science,"""The contribution of chronic diseases to the prevalence of dependence among older people in Latin America, China and India: a 10/66 Dementia Research Group population-based survey""",https://doi.org/10.1186/1471-2318-10-53,2010,142,https://openalex.org/W2048145302
 1106,Food Science,"Piper Species: A Comprehensive Review on Their Phytochemistry, Biological Activities and Applications",https://doi.org/10.3390/molecules24071364,2019,459,https://openalex.org/W2930186920
-1106,Food Science,High proportion of cactus species threatened with extinction,https://doi.org/10.1038/nplants.2015.142,2015,348,https://openalex.org/W2283941717
+1106,Food Science,High proportion of cactus species threatened with extinction,https://doi.org/10.1038/nplants.2015.142,2015,350,https://openalex.org/W2283941717
 1106,Food Science,A review of volatile analytical methods for determining the botanical origin of honey,https://doi.org/10.1016/j.foodchem.2006.07.068,2006,254,https://openalex.org/W2009818711
-2713,Epidemiology,Weight Loss Through Lifestyle Modification Significantly Reduces Features of Nonalcoholic Steatohepatitis,https://doi.org/10.1053/j.gastro.2015.04.005,2015,2214,https://openalex.org/W2091106363
-2713,Epidemiology,Evaluation and Treatment of Chagas Disease in the United States,https://doi.org/10.1001/jama.298.18.2171,2007,760,https://openalex.org/W2013276329
+1106,Food Science,"Phenolic profiles, antioxidant activity and in vitro antiviral properties of apple pomace",https://doi.org/10.1016/j.foodchem.2009.09.073,2009,232,https://openalex.org/W2133084792
+1106,Food Science,Health benefits and health claims of probiotics: bridging science and marketing,https://doi.org/10.1017/s000711451100287x,2011,210,https://openalex.org/W2140726233
+1106,Food Science,Cuban and Brazilian Red Propolis: Botanical Origin and Comparative Analysis by High-Performance Liquid Chromatography–Photodiode Array Detection/Electrospray Ionization Tandem Mass Spectrometry,https://doi.org/10.1021/jf201280z,2011,187,https://openalex.org/W2008045574
+1106,Food Science,Chitosan−Whey Protein Edible Films Produced in the Absence or Presence of Transglutaminase:  Analysis of Their Mechanical and Barrier Properties,https://doi.org/10.1021/bm050661u,2006,180,https://openalex.org/W2002943351
+1106,Food Science,"Food craving: new contributions on its assessment, moderators, and consequences",https://doi.org/10.3389/fpsyg.2015.00021,2015,166,https://openalex.org/W1977712983
+1106,Food Science,Anaerobic co-digestion of solid slaughterhouse wastes with agro-residues: Synergistic and antagonistic interactions determined in batch digestion assays,https://doi.org/10.1016/j.cej.2014.02.008,2014,163,https://openalex.org/W2073651397
+1106,Food Science,Potential applications of nanotechnology in the agro-food sector,https://doi.org/10.1590/s0101-20612010000300002,2010,148,https://openalex.org/W2118481813
+2713,Epidemiology,Weight Loss Through Lifestyle Modification Significantly Reduces Features of Nonalcoholic Steatohepatitis,https://doi.org/10.1053/j.gastro.2015.04.005,2015,2233,https://openalex.org/W2091106363
+2713,Epidemiology,Evaluation and Treatment of Chagas Disease in the United States,https://doi.org/10.1001/jama.298.18.2171,2007,761,https://openalex.org/W2013276329
 2713,Epidemiology,Towards tuberculosis elimination: an action framework for low-incidence countries,https://doi.org/10.1183/09031936.00214014,2015,749,https://openalex.org/W2109182328
+2713,Epidemiology,Fibrosis Severity as a Determinant of Cause-Specific Mortality in Patients With Advanced Nonalcoholic Fatty Liver Disease: A Multi-National Cohort Study,https://doi.org/10.1053/j.gastro.2018.04.034,2018,742,https://openalex.org/W2800368679
+2713,Epidemiology,Advancing the global public health agenda for NAFLD: a consensus statement,https://doi.org/10.1038/s41575-021-00523-4,2021,664,https://openalex.org/W3208129759
+2713,Epidemiology,The future of Chagas disease control,https://doi.org/10.1016/j.pt.2006.09.011,2006,658,https://openalex.org/W2013771584
+2713,Epidemiology,Management of latent<i>Mycobacterium tuberculosis</i>infection: WHO guidelines for low tuberculosis burden countries,https://doi.org/10.1183/13993003.01245-2015,2015,551,https://openalex.org/W2184272173
+2713,Epidemiology,Properties and clinical performance of vaccines containing outer membrane vesicles from Neisseria meningitidis,https://doi.org/10.1016/j.vaccine.2009.04.071,2009,401,https://openalex.org/W2050277020
+2713,Epidemiology,Sexual behaviours and the risk of head and neck cancers: a pooled analysis in the International Head and Neck Cancer Epidemiology (INHANCE) consortium,https://doi.org/10.1093/ije/dyp350,2009,379,https://openalex.org/W2118975989
+2713,Epidemiology,HIV-1 suppression and durable control by combining single broadly neutralizing antibodies and antiretroviral drugs in humanized mice,https://doi.org/10.1073/pnas.1315295110,2013,270,https://openalex.org/W2166378435

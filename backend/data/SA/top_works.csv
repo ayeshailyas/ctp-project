@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-2208,Electrical and Electronic Engineering,30 Years of Lithium‐Ion Batteries,https://doi.org/10.1002/adma.201800561,2018,5528,https://openalex.org/W2808025896
-2208,Electrical and Electronic Engineering,Low trap-state density and long carrier diffusion in organolead trihalide perovskite single crystals,https://doi.org/10.1126/science.aaa2725,2015,4885,https://openalex.org/W2006304022
-2208,Electrical and Electronic Engineering,Wireless Communications Through Reconfigurable Intelligent Surfaces,https://doi.org/10.1109/access.2019.2935192,2019,3033,https://openalex.org/W2968810373
-2505,Materials Chemistry,"Nanoparticles: Properties, applications and toxicities",https://doi.org/10.1016/j.arabjc.2017.05.011,2017,6333,https://openalex.org/W2616129231
-2505,Materials Chemistry,Low trap-state density and long carrier diffusion in organolead trihalide perovskite single crystals,https://doi.org/10.1126/science.aaa2725,2015,4885,https://openalex.org/W2006304022
-2505,Materials Chemistry,Heterojunction Photocatalysts,https://doi.org/10.1002/adma.201601694,2017,4432,https://openalex.org/W4211152862
-1312,Molecular Biology,MEGA6: Molecular Evolutionary Genetics Analysis Version 6.0,https://doi.org/10.1093/molbev/mst197,2013,47274,https://openalex.org/W2152207030
-1312,Molecular Biology,MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms,https://doi.org/10.1093/molbev/msy096,2018,36227,https://openalex.org/W2799524357
-1312,Molecular Biology,MEGA11: Molecular Evolutionary Genetics Analysis Version 11,https://doi.org/10.1093/molbev/msab120,2021,18919,https://openalex.org/W4251751280
-2204,Biomedical Engineering,"Nanoparticles: Properties, applications and toxicities",https://doi.org/10.1016/j.arabjc.2017.05.011,2017,6333,https://openalex.org/W2616129231
-2204,Biomedical Engineering,"Cancer nanomedicine: progress, challenges and opportunities",https://doi.org/10.1038/nrc.2016.108,2016,5318,https://openalex.org/W2554773181
-2204,Biomedical Engineering,New trends in removing heavy metals from industrial wastewater,https://doi.org/10.1016/j.arabjc.2010.07.019,2010,2960,https://openalex.org/W2043219105
-1702,Artificial Intelligence,MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms,https://doi.org/10.1093/molbev/msy096,2018,36227,https://openalex.org/W2799524357
-1702,Artificial Intelligence,Review of Particle Physics,https://doi.org/10.1103/physrevd.86.010001,2012,5837,https://openalex.org/W1581228648
-1702,Artificial Intelligence,A survey of deep neural network architectures and their applications,https://doi.org/10.1016/j.neucom.2016.12.038,2016,3147,https://openalex.org/W2565516711
-2210,Mechanical Engineering,Advances in engineering hydrogels,https://doi.org/10.1126/science.aaf3627,2017,2602,https://openalex.org/W2610784388
-2210,Mechanical Engineering,Carbon capture and conversion using metal–organic frameworks and MOF-based materials,https://doi.org/10.1039/c8cs00829a,2019,2358,https://openalex.org/W2942998504
-2210,Mechanical Engineering,Porous materials with optimal adsorption thermodynamics and kinetics for CO2 separation,https://doi.org/10.1038/nature11893,2013,2277,https://openalex.org/W2062904068
-2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5316,https://openalex.org/W2993259418
-2746,Surgery,Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction,https://doi.org/10.1056/nejmoa2206286,2022,2203,https://openalex.org/W4293354639
-2746,Surgery,Intestinal Inflammation Targets Cancer-Inducing Activity of the Microbiota,https://doi.org/10.1126/science.1224820,2012,2121,https://openalex.org/W2089643849
-1110,Plant Science,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4839,https://openalex.org/W2110375946
-1110,Plant Science,Shifting the limits in wheat research and breeding using a fully annotated reference genome,https://doi.org/10.1126/science.aar7191,2018,3210,https://openalex.org/W2886785109
-1110,Plant Science,Crop Production under Drought and Heat Stress: Plant Responses and Management Options,https://doi.org/10.3389/fpls.2017.01147,2017,2387,https://openalex.org/W2731951690
-1605,Organic Chemistry,"The atom, the molecule, and the covalent organic framework",https://doi.org/10.1126/science.aal1585,2017,3049,https://openalex.org/W2594238106
+2208,Electrical and Electronic Engineering,30 Years of Lithium‐Ion Batteries,https://doi.org/10.1002/adma.201800561,2018,5549,https://openalex.org/W2808025896
+2208,Electrical and Electronic Engineering,Low trap-state density and long carrier diffusion in organolead trihalide perovskite single crystals,https://doi.org/10.1126/science.aaa2725,2015,4893,https://openalex.org/W2006304022
+2208,Electrical and Electronic Engineering,Wireless Communications Through Reconfigurable Intelligent Surfaces,https://doi.org/10.1109/access.2019.2935192,2019,3039,https://openalex.org/W2968810373
+2208,Electrical and Electronic Engineering,Insight on Tafel slopes from a microkinetic analysis of aqueous electrocatalysis for energy conversion,https://doi.org/10.1038/srep13801,2015,2915,https://openalex.org/W2410039023
+2208,Electrical and Electronic Engineering,"Smart Radio Environments Empowered by Reconfigurable Intelligent Surfaces: How it Works, State of Research, and Road Ahead",https://doi.org/10.1109/jsac.2020.3007211,2021,2777,https://openalex.org/W3043220753
+2208,Electrical and Electronic Engineering,Highly Crystalline Multimetallic Nanoframes with Three-Dimensional Electrocatalytic Surfaces,https://doi.org/10.1126/science.1249061,2014,2671,https://openalex.org/W2073872893
+2208,Electrical and Electronic Engineering,Ultrathin 2D/2D WO3/g-C3N4 step-scheme H2-production photocatalyst,https://doi.org/10.1016/j.apcatb.2018.11.011,2018,2567,https://openalex.org/W2900199409
+2208,Electrical and Electronic Engineering,g‐C<sub>3</sub>N<sub>4</sub>‐Based Heterostructured Photocatalysts,https://doi.org/10.1002/aenm.201701503,2017,2395,https://openalex.org/W2759147296
+2208,Electrical and Electronic Engineering,Cellular architecture and key technologies for 5G wireless communication networks,https://doi.org/10.1109/mcom.2014.6736752,2014,2209,https://openalex.org/W2147584524
+2208,Electrical and Electronic Engineering,Janus monolayers of transition metal dichalcogenides,https://doi.org/10.1038/nnano.2017.100,2017,2149,https://openalex.org/W2614371951
+2505,Materials Chemistry,"Nanoparticles: Properties, applications and toxicities",https://doi.org/10.1016/j.arabjc.2017.05.011,2017,6359,https://openalex.org/W2616129231
+2505,Materials Chemistry,Low trap-state density and long carrier diffusion in organolead trihalide perovskite single crystals,https://doi.org/10.1126/science.aaa2725,2015,4893,https://openalex.org/W2006304022
+2505,Materials Chemistry,Heterojunction Photocatalysts,https://doi.org/10.1002/adma.201601694,2017,4456,https://openalex.org/W4211152862
+2505,Materials Chemistry,Polymeric Photocatalysts Based on Graphitic Carbon Nitride,https://doi.org/10.1002/adma.201500033,2015,3538,https://openalex.org/W2078107904
+2505,Materials Chemistry,Simultaneous phase and size control of upconversion nanocrystals through lanthanide doping,https://doi.org/10.1038/nature08777,2010,3087,https://openalex.org/W2018691490
+2505,Materials Chemistry,"The atom, the molecule, and the covalent organic framework",https://doi.org/10.1126/science.aal1585,2017,3064,https://openalex.org/W2594238106
+2505,Materials Chemistry,Applied Topological Analysis of Crystal Structures with the Program Package ToposPro,https://doi.org/10.1021/cg500498k,2014,2997,https://openalex.org/W2328906361
+2505,Materials Chemistry,"Nanomaterials: a review of synthesis methods, properties, recent progress, and challenges",https://doi.org/10.1039/d0ma00807a,2021,2697,https://openalex.org/W3131843789
+2505,Materials Chemistry,Ultrathin 2D/2D WO3/g-C3N4 step-scheme H2-production photocatalyst,https://doi.org/10.1016/j.apcatb.2018.11.011,2018,2567,https://openalex.org/W2900199409
+2505,Materials Chemistry,Cellular uptake of nanoparticles: journey inside the cell,https://doi.org/10.1039/c6cs00636a,2017,2501,https://openalex.org/W2624317658
+1312,Molecular Biology,MEGA6: Molecular Evolutionary Genetics Analysis Version 6.0,https://doi.org/10.1093/molbev/mst197,2013,47305,https://openalex.org/W2152207030
+1312,Molecular Biology,MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms,https://doi.org/10.1093/molbev/msy096,2018,36360,https://openalex.org/W2799524357
+1312,Molecular Biology,MEGA11: Molecular Evolutionary Genetics Analysis Version 11,https://doi.org/10.1093/molbev/msab120,2021,19059,https://openalex.org/W4251751280
+1312,Molecular Biology,A global reference for human genetic variation,https://doi.org/10.1038/nature15393,2015,18697,https://openalex.org/W2104549677
+1312,Molecular Biology,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4851,https://openalex.org/W2110375946
+1312,Molecular Biology,Richness of human gut microbiome correlates with metabolic markers,https://doi.org/10.1038/nature12506,2013,4503,https://openalex.org/W2004549986
+1312,Molecular Biology,Dynamics and Stabilization of the Human Gut Microbiome during the First Year of Life,https://doi.org/10.1016/j.chom.2015.04.004,2015,3173,https://openalex.org/W2143196592
+1312,Molecular Biology,"A reference panel of 64,976 haplotypes for genotype imputation",https://doi.org/10.1038/ng.3643,2016,3124,https://openalex.org/W2511515754
+1312,Molecular Biology,Dynamic regulation of genome-wide pre-mRNA splicing and stress tolerance by the Sm-like protein LSm5 in Arabidopsis,https://doi.org/10.1186/gb-2014-15-1-r1,2014,2190,https://openalex.org/W1970707135
+1312,Molecular Biology,Intestinal Inflammation Targets Cancer-Inducing Activity of the Microbiota,https://doi.org/10.1126/science.1224820,2012,2127,https://openalex.org/W2089643849
+2204,Biomedical Engineering,"Nanoparticles: Properties, applications and toxicities",https://doi.org/10.1016/j.arabjc.2017.05.011,2017,6359,https://openalex.org/W2616129231
+2204,Biomedical Engineering,"Cancer nanomedicine: progress, challenges and opportunities",https://doi.org/10.1038/nrc.2016.108,2016,5335,https://openalex.org/W2554773181
+2204,Biomedical Engineering,New trends in removing heavy metals from industrial wastewater,https://doi.org/10.1016/j.arabjc.2010.07.019,2010,2967,https://openalex.org/W2043219105
+2204,Biomedical Engineering,"Synthesis, properties, and biomedical applications of gelatin methacryloyl (GelMA) hydrogels",https://doi.org/10.1016/j.biomaterials.2015.08.045,2015,2709,https://openalex.org/W1120477740
+2204,Biomedical Engineering,Advances in engineering hydrogels,https://doi.org/10.1126/science.aaf3627,2017,2614,https://openalex.org/W2610784388
+2204,Biomedical Engineering,Cellular uptake of nanoparticles: journey inside the cell,https://doi.org/10.1039/c6cs00636a,2017,2501,https://openalex.org/W2624317658
+2204,Biomedical Engineering,Review and evaluation of hydrogen production methods for better sustainability,https://doi.org/10.1016/j.ijhydene.2014.12.035,2015,2375,https://openalex.org/W2012136380
+2204,Biomedical Engineering,KaKs_Calculator 2.0: A Toolkit Incorporating Gamma-Series Methods and Sliding Window Strategies,https://doi.org/10.1016/s1672-0229(10)60008-3,2010,2035,https://openalex.org/W1982372752
+2204,Biomedical Engineering,A comprehensive review summarizing the effect of electrospinning parameters and potential applications of nanofibers in biomedical and biotechnology,https://doi.org/10.1016/j.arabjc.2015.11.015,2015,1709,https://openalex.org/W2193245378
+2204,Biomedical Engineering,Efficient techniques for the removal of toxic heavy metals from aquatic environment: A review,https://doi.org/10.1016/j.jece.2017.05.029,2017,1585,https://openalex.org/W2618578455
+1702,Artificial Intelligence,MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms,https://doi.org/10.1093/molbev/msy096,2018,36360,https://openalex.org/W2799524357
+1702,Artificial Intelligence,Review of Particle Physics,https://doi.org/10.1103/physrevd.86.010001,2012,5840,https://openalex.org/W1581228648
+1702,Artificial Intelligence,A survey of deep neural network architectures and their applications,https://doi.org/10.1016/j.neucom.2016.12.038,2016,3153,https://openalex.org/W2565516711
+1702,Artificial Intelligence,"Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",https://doi.org/10.1016/j.ijinfomgt.2023.102642,2023,2960,https://openalex.org/W4360620450
+1702,Artificial Intelligence,ActivityNet: A large-scale video benchmark for human activity understanding,https://doi.org/10.1109/cvpr.2015.7298698,2015,2507,https://openalex.org/W1927052826
+1702,Artificial Intelligence,Revolutionizing healthcare: the role of artificial intelligence in clinical practice,https://doi.org/10.1186/s12909-023-04698-z,2023,2117,https://openalex.org/W4386958277
+1702,Artificial Intelligence,Molecular Evolutionary Genetics Analysis (MEGA) for macOS,https://doi.org/10.1093/molbev/msz312,2019,1700,https://openalex.org/W2999168229
+1702,Artificial Intelligence,Coronavirus Pandemic (COVID-19),https://doi.org/10.4018/ijswis.2021040101,2021,1616,https://openalex.org/W3153743799
+1702,Artificial Intelligence,DeepGCNs: Can GCNs Go As Deep As CNNs?,https://doi.org/10.1109/iccv.2019.00936,2019,1265,https://openalex.org/W2990045899
+1702,Artificial Intelligence,"Deep Learning for Medical Image Processing: Overview, Challenges and the Future",https://doi.org/10.1007/978-3-319-65981-7_12,2017,1192,https://openalex.org/W2607941059
+2210,Mechanical Engineering,Advances in engineering hydrogels,https://doi.org/10.1126/science.aaf3627,2017,2614,https://openalex.org/W2610784388
+2210,Mechanical Engineering,Carbon capture and conversion using metal–organic frameworks and MOF-based materials,https://doi.org/10.1039/c8cs00829a,2019,2375,https://openalex.org/W2942998504
+2210,Mechanical Engineering,Porous materials with optimal adsorption thermodynamics and kinetics for CO2 separation,https://doi.org/10.1038/nature11893,2013,2280,https://openalex.org/W2062904068
+2210,Mechanical Engineering,Review on recent progress of nanostructured anode materials for Li-ion batteries,https://doi.org/10.1016/j.jpowsour.2013.11.103,2014,2017,https://openalex.org/W2081518165
+2210,Mechanical Engineering,Catalytic oxidation of volatile organic compounds (VOCs) – A review,https://doi.org/10.1016/j.atmosenv.2016.05.031,2016,1514,https://openalex.org/W2400628662
+2210,Mechanical Engineering,"The chemistry of metal–organic frameworks for CO2 capture, regeneration and conversion",https://doi.org/10.1038/natrevmats.2017.45,2017,1379,https://openalex.org/W2737439951
+2210,Mechanical Engineering,Recent developments in phase change materials for energy storage applications: A review,https://doi.org/10.1016/j.ijheatmasstransfer.2018.09.126,2018,1362,https://openalex.org/W2895295357
+2210,Mechanical Engineering,Gas/vapour separation using ultra-microporous metal–organic frameworks: insights into the structure/separation relationship,https://doi.org/10.1039/c7cs00153c,2017,1251,https://openalex.org/W2617009200
+2210,Mechanical Engineering,Energy harvesting in wireless sensor networks: A comprehensive review,https://doi.org/10.1016/j.rser.2015.11.010,2015,1150,https://openalex.org/W2182132145
+2210,Mechanical Engineering,Recent progress in the development and properties of novel metal matrix nanocomposites reinforced with carbon nanotubes and graphene nanosheets,https://doi.org/10.1016/j.mser.2013.08.001,2013,1103,https://openalex.org/W2052368681
+2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5319,https://openalex.org/W2993259418
+2746,Surgery,Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction,https://doi.org/10.1056/nejmoa2206286,2022,2224,https://openalex.org/W4293354639
+2746,Surgery,Intestinal Inflammation Targets Cancer-Inducing Activity of the Microbiota,https://doi.org/10.1126/science.1224820,2012,2127,https://openalex.org/W2089643849
+2746,Surgery,Long-term outcome in patients with a pathological complete response after chemoradiation for rectal cancer: a pooled analysis of individual patient data,https://doi.org/10.1016/s1470-2045(10)70172-8,2010,1891,https://openalex.org/W2144717403
+2746,Surgery,"Marine omega-3 fatty acids and inflammatory processes: Effects, mechanisms and clinical relevance",https://doi.org/10.1016/j.bbalip.2014.08.010,2014,1537,https://openalex.org/W2000537420
+2746,Surgery,Metagenomic analysis of faecal microbiome as a tool towards targeted non-invasive biomarkers for colorectal cancer,https://doi.org/10.1136/gutjnl-2015-309800,2015,1231,https://openalex.org/W2178425989
+2746,Surgery,"Mycobacterium tuberculosis complex genetic diversity: mining the fourth international spoligotyping database (SpolDB4) for classification, population genetics and epidemiology",https://doi.org/10.1186/1471-2180-6-23,2006,1020,https://openalex.org/W2096162460
+2746,Surgery,Probiotics for prevention of necrotizing enterocolitis in preterm infants,https://doi.org/10.1002/14651858.cd005496.pub4,2014,931,https://openalex.org/W2007807635
+2746,Surgery,Use of the Instantaneous Wave-free Ratio or Fractional Flow Reserve in PCI,https://doi.org/10.1056/nejmoa1700445,2017,911,https://openalex.org/W2597278873
+2746,Surgery,Bioprinting 3D microfibrous scaffolds for engineering endothelialized myocardium and heart-on-a-chip,https://doi.org/10.1016/j.biomaterials.2016.09.003,2016,903,https://openalex.org/W2509523536
+1110,Plant Science,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4851,https://openalex.org/W2110375946
+1110,Plant Science,Shifting the limits in wheat research and breeding using a fully annotated reference genome,https://doi.org/10.1126/science.aar7191,2018,3224,https://openalex.org/W2886785109
+1110,Plant Science,Crop Production under Drought and Heat Stress: Plant Responses and Management Options,https://doi.org/10.3389/fpls.2017.01147,2017,2400,https://openalex.org/W2731951690
+1110,Plant Science,Dynamic regulation of genome-wide pre-mRNA splicing and stress tolerance by the Sm-like protein LSm5 in Arabidopsis,https://doi.org/10.1186/gb-2014-15-1-r1,2014,2190,https://openalex.org/W1970707135
+1110,Plant Science,Drought Stress Impacts on Plants and Different Approaches to Alleviate Its Adverse Effects,https://doi.org/10.3390/plants10020259,2021,1600,https://openalex.org/W3125847321
+1110,Plant Science,Seaweed Extracts as Biostimulants of Plant Growth and Development,https://doi.org/10.1007/s00344-009-9103-x,2009,1590,https://openalex.org/W1991191712
+1110,Plant Science,RNA virus interference via CRISPR/Cas13a system in plants,https://doi.org/10.1186/s13059-017-1381-1,2018,1447,https://openalex.org/W2765284830
+1110,Plant Science,A review on therapeutic potential of Nigella sativa: A miracle herb,https://doi.org/10.1016/s2221-1691(13)60075-1,2013,1370,https://openalex.org/W2154853392
+1110,Plant Science,In vitro reconstitution of an abscisic acid signalling pathway,https://doi.org/10.1038/nature08599,2009,1329,https://openalex.org/W1978838242
+1110,Plant Science,Impact of mycotoxins on humans and animals,https://doi.org/10.1016/j.jscs.2010.06.006,2010,1215,https://openalex.org/W1987876328
+1605,Organic Chemistry,"The atom, the molecule, and the covalent organic framework",https://doi.org/10.1126/science.aal1585,2017,3064,https://openalex.org/W2594238106
 1605,Organic Chemistry,C−H Activation for the Construction of C−B Bonds,https://doi.org/10.1021/cr900206p,2009,2678,https://openalex.org/W1974001124
-1605,Organic Chemistry,Magnetically Recoverable Nanocatalysts,https://doi.org/10.1021/cr100230z,2011,1653,https://openalex.org/W2043210417
-2739,"Public Health, Environmental and Occupational Health","A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010",https://doi.org/10.1016/s0140-6736(12)61766-8,2012,11832,https://openalex.org/W2110052313
-2739,"Public Health, Environmental and Occupational Health","Global, regional, and national prevalence of overweight and obesity in children and adults during 1980–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(14)60460-8,2014,11822,https://openalex.org/W2163710303
-2739,"Public Health, Environmental and Occupational Health","Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(15)60692-4,2015,6348,https://openalex.org/W2098082628
+1605,Organic Chemistry,Magnetically Recoverable Nanocatalysts,https://doi.org/10.1021/cr100230z,2011,1656,https://openalex.org/W2043210417
+1605,Organic Chemistry,"Metal–Organic Frameworks in Heterogeneous Catalysis: Recent Progress, New Trends, and Future Perspectives",https://doi.org/10.1021/acs.chemrev.9b00685,2020,1595,https://openalex.org/W3014055873
+1605,Organic Chemistry,Chemical treatment technologies for waste-water recycling—an overview,https://doi.org/10.1039/c2ra20340e,2012,1561,https://openalex.org/W1995157919
+1605,Organic Chemistry,Principles and mechanisms of photocatalytic dye degradation on TiO<sub>2</sub>based photocatalysts: a comparative overview,https://doi.org/10.1039/c4ra06658h,2014,1368,https://openalex.org/W2040697085
+1605,Organic Chemistry,Environmental Remediation and Application of Nanoscale Zero-Valent Iron and Its Composites for the Removal of Heavy Metal Ions: A Review,https://doi.org/10.1021/acs.est.6b01897,2016,1305,https://openalex.org/W2472231696
+1605,Organic Chemistry,"Review on Methylene Blue: Its Properties, Uses, Toxicity and Photodegradation",https://doi.org/10.3390/w14020242,2022,1250,https://openalex.org/W4206755807
+1605,Organic Chemistry,Green chemistry by nano-catalysis,https://doi.org/10.1039/b921171c,2010,1174,https://openalex.org/W2023639591
+1605,Organic Chemistry,Non-Fullerene Electron Acceptors for Use in Organic Solar Cells,https://doi.org/10.1021/acs.accounts.5b00199,2015,1148,https://openalex.org/W2419613619
+2739,"Public Health, Environmental and Occupational Health","A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010",https://doi.org/10.1016/s0140-6736(12)61766-8,2012,11843,https://openalex.org/W2110052313
+2739,"Public Health, Environmental and Occupational Health","Global, regional, and national prevalence of overweight and obesity in children and adults during 1980–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(14)60460-8,2014,11837,https://openalex.org/W2163710303
+2739,"Public Health, Environmental and Occupational Health","Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(15)60692-4,2015,6355,https://openalex.org/W2098082628
+2739,"Public Health, Environmental and Occupational Health",Richness of human gut microbiome correlates with metabolic markers,https://doi.org/10.1038/nature12506,2013,4503,https://openalex.org/W2004549986
+2739,"Public Health, Environmental and Occupational Health","A 2 year multidomain intervention of diet, exercise, cognitive training, and vascular risk monitoring versus control to prevent cognitive decline in at-risk elderly people (FINGER): a randomised controlled trial",https://doi.org/10.1016/s0140-6736(15)60461-5,2015,3324,https://openalex.org/W2109527205
+2739,"Public Health, Environmental and Occupational Health",Revolutionizing healthcare: the role of artificial intelligence in clinical practice,https://doi.org/10.1186/s12909-023-04698-z,2023,2117,https://openalex.org/W4386958277
+2739,"Public Health, Environmental and Occupational Health",Global and regional effects of potentially modifiable risk factors associated with acute stroke in 32 countries (INTERSTROKE): a case-control study,https://doi.org/10.1016/s0140-6736(16)30506-2,2016,2073,https://openalex.org/W2463406035
+2739,"Public Health, Environmental and Occupational Health",The SCARE Statement: Consensus-based surgical case report guidelines,https://doi.org/10.1016/j.ijsu.2016.08.014,2016,1677,https://openalex.org/W2513329101
+2739,"Public Health, Environmental and Occupational Health",The global burden of dengue: an analysis from the Global Burden of Disease Study 2013,https://doi.org/10.1016/s1473-3099(16)00026-8,2016,1063,https://openalex.org/W2260392875
+2739,"Public Health, Environmental and Occupational Health","Prevalence of periodontal disease, its association with systemic diseases and prevention.",,2017,1043,https://openalex.org/W2607294078

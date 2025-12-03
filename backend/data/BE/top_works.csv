@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-1312,Molecular Biology,The MIQE Guidelines: Minimum Information for Publication of Quantitative Real-Time PCR Experiments,https://doi.org/10.1373/clinchem.2008.112797,2009,15287,https://openalex.org/W2168420558
-1312,Molecular Biology,"Structure, function and diversity of the healthy human microbiome",https://doi.org/10.1038/nature11234,2012,11375,https://openalex.org/W2128769815
-1312,Molecular Biology,Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines,https://doi.org/10.1080/20013078.2018.1535750,2018,10297,https://openalex.org/W2900756811
-2208,Electrical and Electronic Engineering,Charge Transport in Organic Semiconductors,https://doi.org/10.1021/cr050140x,2007,4374,https://openalex.org/W2141517543
-2208,Electrical and Electronic Engineering,Topological photonics,https://doi.org/10.1103/revmodphys.91.015006,2019,3270,https://openalex.org/W4211161891
-2208,Electrical and Electronic Engineering,The Impact of Charging Plug-In Hybrid Electric Vehicles on a Residential Distribution Grid,https://doi.org/10.1109/tpwrs.2009.2036481,2009,2746,https://openalex.org/W2135797872
-2746,Surgery,The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3),https://doi.org/10.1001/jama.2016.0287,2016,25256,https://openalex.org/W2280404143
-2746,Surgery,European Guidelines on cardiovascular disease prevention in clinical practice (version 2012): The Fifth Joint Task Force of the European Society of Cardiology and Other Societies on Cardiovascular Disease Prevention in Clinical Practice (constituted by representatives of nine societies and by invited experts) * Developed with the special contribution of the European Association for Cardiovascular Prevention &amp; Rehabilitation (EACPR),https://doi.org/10.1093/eurheartj/ehs092,2012,8481,https://openalex.org/W3021842026
-2746,Surgery,2016 European Guidelines on cardiovascular disease prevention in clinical practice,https://doi.org/10.1093/eurheartj/ehw106,2016,6280,https://openalex.org/W2402599050
-3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2957,https://openalex.org/W2161411308
-3312,Sociology and Political Science,"Standards of Care for the Health of Transgender and Gender Diverse People, Version 8",https://doi.org/10.1080/26895269.2022.2100644,2022,2076,https://openalex.org/W4294732694
+1312,Molecular Biology,The MIQE Guidelines: Minimum Information for Publication of Quantitative Real-Time PCR Experiments,https://doi.org/10.1373/clinchem.2008.112797,2009,15324,https://openalex.org/W2168420558
+1312,Molecular Biology,"Structure, function and diversity of the healthy human microbiome",https://doi.org/10.1038/nature11234,2012,11407,https://openalex.org/W2128769815
+1312,Molecular Biology,Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines,https://doi.org/10.1080/20013078.2018.1535750,2018,10328,https://openalex.org/W2900756811
+1312,Molecular Biology,Posterior Summarization in Bayesian Phylogenetics Using Tracer 1.7,https://doi.org/10.1093/sysbio/syy032,2018,10159,https://openalex.org/W2801159594
+1312,Molecular Biology,Signatures of mutational processes in human cancer,https://doi.org/10.1038/nature12477,2013,9747,https://openalex.org/W2152061559
+1312,Molecular Biology,Pilon: An Integrated Tool for Comprehensive Microbial Variant Detection and Genome Assembly Improvement,https://doi.org/10.1371/journal.pone.0112963,2014,9421,https://openalex.org/W1982855075
+1312,Molecular Biology,De novo transcript sequence reconstruction from RNA-seq using the Trinity platform for reference generation and analysis,https://doi.org/10.1038/nprot.2013.084,2013,8547,https://openalex.org/W2011657487
+1312,Molecular Biology,Effects of radiotherapy with concomitant and adjuvant temozolomide versus radiotherapy alone on survival in glioblastoma in a randomised phase III study: 5-year analysis of the EORTC-NCIC trial,https://doi.org/10.1016/s1470-2045(09)70025-7,2009,7602,https://openalex.org/W2158681922
+1312,Molecular Biology,A metagenome-wide association study of gut microbiota in type 2 diabetes,https://doi.org/10.1038/nature11450,2012,6643,https://openalex.org/W2071841602
+1312,Molecular Biology,Metabolic Endotoxemia Initiates Obesity and Insulin Resistance,https://doi.org/10.2337/db06-1491,2007,6128,https://openalex.org/W2131536322
+2208,Electrical and Electronic Engineering,Charge Transport in Organic Semiconductors,https://doi.org/10.1021/cr050140x,2007,4389,https://openalex.org/W2141517543
+2208,Electrical and Electronic Engineering,Topological photonics,https://doi.org/10.1103/revmodphys.91.015006,2019,3281,https://openalex.org/W4211161891
+2208,Electrical and Electronic Engineering,The Impact of Charging Plug-In Hybrid Electric Vehicles on a Residential Distribution Grid,https://doi.org/10.1109/tpwrs.2009.2036481,2009,2748,https://openalex.org/W2135797872
+2208,Electrical and Electronic Engineering,Wetting and spreading,https://doi.org/10.1103/revmodphys.81.739,2009,2662,https://openalex.org/W2114955730
+2208,Electrical and Electronic Engineering,Surface chemistry of atomic layer deposition: A case study for the trimethylaluminum/water process,https://doi.org/10.1063/1.1940727,2005,2513,https://openalex.org/W1995191254
+2208,Electrical and Electronic Engineering,Silicon microring resonators,https://doi.org/10.1002/lpor.201100017,2011,2383,https://openalex.org/W2091382331
+2208,Electrical and Electronic Engineering,Nanowire transistors without junctions,https://doi.org/10.1038/nnano.2010.15,2010,2318,https://openalex.org/W2119378720
+2208,Electrical and Electronic Engineering,"Niraparib Maintenance Therapy in Platinum-Sensitive, Recurrent Ovarian Cancer",https://doi.org/10.1056/nejmoa1611310,2016,2315,https://openalex.org/W2528228811
+2208,Electrical and Electronic Engineering,Microbial fuel cells: novel biotechnology for energy generation,https://doi.org/10.1016/j.tibtech.2005.04.008,2005,2174,https://openalex.org/W2018853294
+2208,Electrical and Electronic Engineering,Recycling of rare earths: a critical review,https://doi.org/10.1016/j.jclepro.2012.12.037,2013,2159,https://openalex.org/W2011576100
+2746,Surgery,The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3),https://doi.org/10.1001/jama.2016.0287,2016,25385,https://openalex.org/W2280404143
+2746,Surgery,European Guidelines on cardiovascular disease prevention in clinical practice (version 2012): The Fifth Joint Task Force of the European Society of Cardiology and Other Societies on Cardiovascular Disease Prevention in Clinical Practice (constituted by representatives of nine societies and by invited experts) * Developed with the special contribution of the European Association for Cardiovascular Prevention &amp; Rehabilitation (EACPR),https://doi.org/10.1093/eurheartj/ehs092,2012,8482,https://openalex.org/W3021842026
+2746,Surgery,2016 European Guidelines on cardiovascular disease prevention in clinical practice,https://doi.org/10.1093/eurheartj/ehw106,2016,6291,https://openalex.org/W2402599050
+2746,Surgery,Comprehensive molecular characterization of gastric adenocarcinoma,https://doi.org/10.1038/nature13480,2014,6229,https://openalex.org/W2126547130
+2746,Surgery,2021 ESC Guidelines on cardiovascular disease prevention in clinical practice,https://doi.org/10.1093/eurheartj/ehab484,2021,5443,https://openalex.org/W3197233987
+2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5319,https://openalex.org/W2993259418
+2746,Surgery,Surviving Sepsis Campaign: International guidelines for management of severe sepsis and septic shock: 2008,https://doi.org/10.1007/s00134-007-0934-2,2007,4931,https://openalex.org/W2118858814
+2746,Surgery,2015 ESC Guidelines for the management of infective endocarditis,https://doi.org/10.1093/eurheartj/ehv319,2015,4800,https://openalex.org/W1920355337
+2746,Surgery,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4782,https://openalex.org/W2953804067
+2746,Surgery,2014 ESC/EACTS Guidelines on myocardial revascularization,https://doi.org/10.1093/ejcts/ezu366,2014,4200,https://openalex.org/W2115824015
+3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2973,https://openalex.org/W2161411308
+3312,Sociology and Political Science,"Standards of Care for the Health of Transgender and Gender Diverse People, Version 8",https://doi.org/10.1080/26895269.2022.2100644,2022,2095,https://openalex.org/W4294732694
+3312,Sociology and Political Science,The relationship between addictive use of social media and video games and symptoms of psychiatric disorders: A large-scale cross-sectional study.,https://doi.org/10.1037/adb0000160,2016,1774,https://openalex.org/W2314751257
 3312,Sociology and Political Science,Contrasting Computational Models of Mate Preference Integration Across 45 Countries,https://doi.org/10.1038/s41598-019-52748-8,2019,1773,https://openalex.org/W2983201012
-2740,Pulmonary and Respiratory Medicine,New response evaluation criteria in solid tumours: Revised RECIST guideline (version 1.1),https://doi.org/10.1016/j.ejca.2008.10.026,2008,27873,https://openalex.org/W2019607817
-2740,Pulmonary and Respiratory Medicine,Radiotherapy plus Concomitant and Adjuvant Temozolomide for Glioblastoma,https://doi.org/10.1056/nejmoa043330,2005,20678,https://openalex.org/W2096287682
-2740,Pulmonary and Respiratory Medicine,Surviving Sepsis Campaign,https://doi.org/10.1097/ccm.0b013e31827e83af,2013,9621,https://openalex.org/W3023757607
-2204,Biomedical Engineering,Photodynamic therapy of cancer: An update,https://doi.org/10.3322/caac.20114,2011,4991,https://openalex.org/W2151734986
-2204,Biomedical Engineering,To exploit the tumor microenvironment: Passive and active tumor targeting of nanocarriers for anti-cancer drug delivery,https://doi.org/10.1016/j.jconrel.2010.08.027,2010,2642,https://openalex.org/W2137634849
-2204,Biomedical Engineering,Lignin Biosynthesis and Structure,https://doi.org/10.1104/pp.110.155119,2010,2487,https://openalex.org/W2003604861
-2713,Epidemiology,The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3),https://doi.org/10.1001/jama.2016.0287,2016,25256,https://openalex.org/W2280404143
-2713,Epidemiology,"Structure, function and diversity of the healthy human microbiome",https://doi.org/10.1038/nature11234,2012,11375,https://openalex.org/W2128769815
-2713,Epidemiology,Surviving Sepsis Campaign,https://doi.org/10.1097/ccm.0b013e31827e83af,2013,9621,https://openalex.org/W3023757607
-2505,Materials Chemistry,Commentary: The Materials Project: A materials genome approach to accelerating materials innovation,https://doi.org/10.1063/1.4812323,2013,11220,https://openalex.org/W1992985800
-2505,Materials Chemistry,VASPKIT: A user-friendly interface facilitating high-throughput computing and analysis using VASP code,https://doi.org/10.1016/j.cpc.2021.108033,2021,5749,https://openalex.org/W3038025793
-2505,Materials Chemistry,Carbon Nanotubes: Present and Future Commercial Applications,https://doi.org/10.1126/science.1222453,2013,5374,https://openalex.org/W2029445495
-2002,Economics and Econometrics,2013 ESH/ESC Guidelines for the management of arterial hypertension,https://doi.org/10.1093/eurheartj/eht151,2013,13617,https://openalex.org/W2133416234
-2002,Economics and Econometrics,SPIRIT 2013 Statement: Defining Standard Protocol Items for Clinical Trials,https://doi.org/10.7326/0003-4819-158-3-201302050-00583,2013,7160,https://openalex.org/W2166023752
-2002,Economics and Econometrics,2021 ESC Guidelines on cardiovascular disease prevention in clinical practice,https://doi.org/10.1093/eurheartj/ehab484,2021,5394,https://openalex.org/W3197233987
-1311,Genetics,Posterior Summarization in Bayesian Phylogenetics Using Tracer 1.7,https://doi.org/10.1093/sysbio/syy032,2018,10102,https://openalex.org/W2801159594
-1311,Genetics,"Global and regional diabetes prevalence estimates for 2019 and projections for 2030 and 2045: Results from the International Diabetes Federation Diabetes Atlas, 9th edition",https://doi.org/10.1016/j.diabres.2019.107843,2019,9691,https://openalex.org/W2972869264
-1311,Genetics,Biological insights from 108 schizophrenia-associated genetic loci,https://doi.org/10.1038/nature13595,2014,7891,https://openalex.org/W2101357408
+3312,Sociology and Political Science,A Consensus-Based Checklist for Reporting of Survey Studies (CROSS),https://doi.org/10.1007/s11606-021-06737-1,2021,1704,https://openalex.org/W3154790864
+3312,Sociology and Political Science,Facebook Use Predicts Declines in Subjective Well-Being in Young Adults,https://doi.org/10.1371/journal.pone.0069841,2013,1506,https://openalex.org/W1994045792
+3312,Sociology and Political Science,Handbook of Research on Educational Communications and Technology,https://doi.org/10.1007/978-1-4614-3185-5,2013,1435,https://openalex.org/W2111041495
+3312,Sociology and Political Science,"COVID-19, school closures, and child poverty: a social crisis in the making",https://doi.org/10.1016/s2468-2667(20)30084-0,2020,1424,https://openalex.org/W3014463639
+3312,Sociology and Political Science,Social diversity promotes the emergence of cooperation in public goods games,https://doi.org/10.1038/nature06940,2008,1386,https://openalex.org/W2099540651
+3312,Sociology and Political Science,Populism as political communication style: An empirical study of political parties' discourse in Belgium,https://doi.org/10.1111/j.1475-6765.2006.00690.x,2007,1367,https://openalex.org/W2170152082
+2740,Pulmonary and Respiratory Medicine,New response evaluation criteria in solid tumours: Revised RECIST guideline (version 1.1),https://doi.org/10.1016/j.ejca.2008.10.026,2008,27977,https://openalex.org/W2019607817
+2740,Pulmonary and Respiratory Medicine,Radiotherapy plus Concomitant and Adjuvant Temozolomide for Glioblastoma,https://doi.org/10.1056/nejmoa043330,2005,20744,https://openalex.org/W2096287682
+2740,Pulmonary and Respiratory Medicine,Surviving Sepsis Campaign,https://doi.org/10.1097/ccm.0b013e31827e83af,2013,9629,https://openalex.org/W3023757607
+2740,Pulmonary and Respiratory Medicine,Effects of radiotherapy with concomitant and adjuvant temozolomide versus radiotherapy alone on survival in glioblastoma in a randomised phase III study: 5-year analysis of the EORTC-NCIC trial,https://doi.org/10.1016/s1470-2045(09)70025-7,2009,7602,https://openalex.org/W2158681922
+2740,Pulmonary and Respiratory Medicine,"Surviving Sepsis Campaign: International Guidelines for Management of Severe Sepsis and Septic Shock, 2012",https://doi.org/10.1007/s00134-012-2769-8,2013,7252,https://openalex.org/W2442246762
+2740,Pulmonary and Respiratory Medicine,"Trastuzumab in combination with chemotherapy versus chemotherapy alone for treatment of HER2-positive advanced gastric or gastro-oesophageal junction cancer (ToGA): a phase 3, open-label, randomised controlled trial",https://doi.org/10.1016/s0140-6736(10)61121-x,2010,7047,https://openalex.org/W2100439220
+2740,Pulmonary and Respiratory Medicine,Increased Survival in Pancreatic Cancer with nab-Paclitaxel plus Gemcitabine,https://doi.org/10.1056/nejmoa1304369,2013,6375,https://openalex.org/W2165480504
+2740,Pulmonary and Respiratory Medicine,Expert consensus document on arterial stiffness: methodological issues and clinical applications,https://doi.org/10.1093/eurheartj/ehl254,2006,5858,https://openalex.org/W2138209376
+2740,Pulmonary and Respiratory Medicine,The Immune Landscape of Cancer,https://doi.org/10.1016/j.immuni.2018.03.023,2018,5816,https://openalex.org/W2796207838
+2740,Pulmonary and Respiratory Medicine,Nivolumab versus Everolimus in Advanced Renal-Cell Carcinoma,https://doi.org/10.1056/nejmoa1510665,2015,5743,https://openalex.org/W2222086386
+2204,Biomedical Engineering,Photodynamic therapy of cancer: An update,https://doi.org/10.3322/caac.20114,2011,4996,https://openalex.org/W2151734986
+2204,Biomedical Engineering,To exploit the tumor microenvironment: Passive and active tumor targeting of nanocarriers for anti-cancer drug delivery,https://doi.org/10.1016/j.jconrel.2010.08.027,2010,2648,https://openalex.org/W2137634849
+2204,Biomedical Engineering,Lignin Biosynthesis and Structure,https://doi.org/10.1104/pp.110.155119,2010,2499,https://openalex.org/W2003604861
+2204,Biomedical Engineering,Pure and Pseudo-pure Fluid Thermophysical Property Evaluation and the Open-Source Thermophysical Property Library CoolProp,https://doi.org/10.1021/ie4033999,2014,2388,https://openalex.org/W2135536698
+2204,Biomedical Engineering,"Chemicals from lignin: an interplay of lignocellulose fractionation, depolymerisation, and upgrading",https://doi.org/10.1039/c7cs00566k,2018,2346,https://openalex.org/W2782590469
+2204,Biomedical Engineering,Nanowire transistors without junctions,https://doi.org/10.1038/nnano.2010.15,2010,2318,https://openalex.org/W2119378720
+2204,Biomedical Engineering,"Superparamagnetic iron oxide nanoparticles (SPIONs): Development, surface modification and applications in chemotherapy",https://doi.org/10.1016/j.addr.2010.05.006,2010,1825,https://openalex.org/W2073126015
+2204,Biomedical Engineering,Comparison of Dopamine and Norepinephrine in the Treatment of Shock,https://doi.org/10.1056/nejmoa0907118,2010,1823,https://openalex.org/W2095944485
+2204,Biomedical Engineering,Conversion of Wastes into Bioelectricity and Chemicals by Using Microbial Electrochemical Technologies,https://doi.org/10.1126/science.1217412,2012,1771,https://openalex.org/W2125471867
+2204,Biomedical Engineering,Food-101 – Mining Discriminative Components with Random Forests,https://doi.org/10.1007/978-3-319-10599-4_29,2014,1761,https://openalex.org/W12634471
+2713,Epidemiology,The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3),https://doi.org/10.1001/jama.2016.0287,2016,25385,https://openalex.org/W2280404143
+2713,Epidemiology,"Structure, function and diversity of the healthy human microbiome",https://doi.org/10.1038/nature11234,2012,11407,https://openalex.org/W2128769815
+2713,Epidemiology,Surviving Sepsis Campaign,https://doi.org/10.1097/ccm.0b013e31827e83af,2013,9629,https://openalex.org/W3023757607
+2713,Epidemiology,"IDF Diabetes Atlas: Global, regional and country-level diabetes prevalence estimates for 2021 and projections for 2045",https://doi.org/10.1016/j.diabres.2021.109119,2021,8408,https://openalex.org/W4200026682
+2713,Epidemiology,"Surviving Sepsis Campaign: International Guidelines for Management of Severe Sepsis and Septic Shock, 2012",https://doi.org/10.1007/s00134-012-2769-8,2013,7252,https://openalex.org/W2442246762
+2713,Epidemiology,Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock: 2016,https://doi.org/10.1007/s00134-017-4683-6,2017,6455,https://openalex.org/W3016555942
+2713,Epidemiology,Increased Survival in Pancreatic Cancer with nab-Paclitaxel plus Gemcitabine,https://doi.org/10.1056/nejmoa1304369,2013,6375,https://openalex.org/W2165480504
+2713,Epidemiology,Metabolic Endotoxemia Initiates Obesity and Insulin Resistance,https://doi.org/10.2337/db06-1491,2007,6128,https://openalex.org/W2131536322
+2713,Epidemiology,Molecular mechanisms of cell death: recommendations of the Nomenclature Committee on Cell Death 2018,https://doi.org/10.1038/s41418-017-0012-4,2018,6049,https://openalex.org/W2788640168
+2713,Epidemiology,Guidelines for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack,https://doi.org/10.1161/str.0000000000000024,2014,5133,https://openalex.org/W2124247204
+2505,Materials Chemistry,Commentary: The Materials Project: A materials genome approach to accelerating materials innovation,https://doi.org/10.1063/1.4812323,2013,11310,https://openalex.org/W1992985800
+2505,Materials Chemistry,VASPKIT: A user-friendly interface facilitating high-throughput computing and analysis using VASP code,https://doi.org/10.1016/j.cpc.2021.108033,2021,5845,https://openalex.org/W3038025793
+2505,Materials Chemistry,Carbon Nanotubes: Present and Future Commercial Applications,https://doi.org/10.1126/science.1222453,2013,5381,https://openalex.org/W2029445495
+2505,Materials Chemistry,"Python Materials Genomics (pymatgen): A robust, open-source python library for materials analysis",https://doi.org/10.1016/j.commatsci.2012.10.028,2012,3840,https://openalex.org/W2015197254
+2505,Materials Chemistry,Lanthanide-Based Luminescent Hybrid Materials,https://doi.org/10.1021/cr8003983,2009,3266,https://openalex.org/W2143402290
+2505,Materials Chemistry,"Review on nanoparticles and nanostructured materials: history, sources, toxicity and regulations",https://doi.org/10.3762/bjnano.9.98,2018,3096,https://openalex.org/W2796277309
+2505,Materials Chemistry,ACPYPE - AnteChamber PYthon Parser interfacE,https://doi.org/10.1186/1756-0500-5-367,2012,2867,https://openalex.org/W2045683699
+2505,Materials Chemistry,Interpretation of europium(III) spectra,https://doi.org/10.1016/j.ccr.2015.02.015,2015,2790,https://openalex.org/W2326411711
+2505,Materials Chemistry,The FoldX web server: an online force field,https://doi.org/10.1093/nar/gki387,2005,2705,https://openalex.org/W2023490488
+2505,Materials Chemistry,ABINIT: First-principles approach to material and nanosystem properties,https://doi.org/10.1016/j.cpc.2009.07.007,2009,2614,https://openalex.org/W2104757784
+2002,Economics and Econometrics,2013 ESH/ESC Guidelines for the management of arterial hypertension,https://doi.org/10.1093/eurheartj/eht151,2013,13620,https://openalex.org/W2133416234
+2002,Economics and Econometrics,SPIRIT 2013 Statement: Defining Standard Protocol Items for Clinical Trials,https://doi.org/10.7326/0003-4819-158-3-201302050-00583,2013,7197,https://openalex.org/W2166023752
+2002,Economics and Econometrics,2021 ESC Guidelines on cardiovascular disease prevention in clinical practice,https://doi.org/10.1093/eurheartj/ehab484,2021,5443,https://openalex.org/W3197233987
+2002,Economics and Econometrics,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4782,https://openalex.org/W2953804067
+2002,Economics and Econometrics,Shocks and Frictions in US Business Cycles: A Bayesian DSGE Approach,https://doi.org/10.1257/aer.97.3.586,2007,4500,https://openalex.org/W3123970111
+2002,Economics and Econometrics,Frailty Consensus: A Call to Action,https://doi.org/10.1016/j.jamda.2013.03.022,2013,3877,https://openalex.org/W2092170177
+2002,Economics and Econometrics,European guidelines on cardiovascular disease prevention in clinical practice: executive summary: Fourth Joint Task Force of the European Society of Cardiology and Other Societies on Cardiovascular Disease Prevention in Clinical Practice (Constituted by representatives of nine societies and by invited experts),https://doi.org/10.1093/eurheartj/ehm316,2007,3747,https://openalex.org/W3021659692
+2002,Economics and Econometrics,"Estimation and inference in two-stage, semi-parametric models of production processes",https://doi.org/10.1016/j.jeconom.2005.07.009,2005,3184,https://openalex.org/W2084660657
+2002,Economics and Econometrics,Crowdfunding: Tapping the right crowd,https://doi.org/10.1016/j.jbusvent.2013.07.003,2013,2550,https://openalex.org/W3121545263
+2002,Economics and Econometrics,In Search of Complementarity in Innovation Strategy: Internal R&amp;D and External Knowledge Acquisition,https://doi.org/10.1287/mnsc.1050.0470,2006,2405,https://openalex.org/W2104948296
+1311,Genetics,Posterior Summarization in Bayesian Phylogenetics Using Tracer 1.7,https://doi.org/10.1093/sysbio/syy032,2018,10159,https://openalex.org/W2801159594
+1311,Genetics,"Global and regional diabetes prevalence estimates for 2019 and projections for 2030 and 2045: Results from the International Diabetes Federation Diabetes Atlas, 9th edition",https://doi.org/10.1016/j.diabres.2019.107843,2019,9736,https://openalex.org/W2972869264
+1311,Genetics,Biological insights from 108 schizophrenia-associated genetic loci,https://doi.org/10.1038/nature13595,2014,7902,https://openalex.org/W2101357408
+1311,Genetics,IDF Diabetes Atlas: Global estimates of diabetes prevalence for 2017 and projections for 2045,https://doi.org/10.1016/j.diabres.2018.02.023,2018,7038,https://openalex.org/W2791011305
+1311,Genetics,Tisagenlecleucel in Children and Young Adults with B-Cell Lymphoblastic Leukemia,https://doi.org/10.1056/nejmoa1709866,2018,5226,https://openalex.org/W2787301955
+1311,Genetics,Classification of primary progressive aphasia and its variants,https://doi.org/10.1212/wnl.0b013e31821103e6,2011,4865,https://openalex.org/W2138190873
+1311,Genetics,Ant colony optimization,https://doi.org/10.1109/mci.2006.329691,2006,4831,https://openalex.org/W4292083457
+1311,Genetics,Host–microbe interactions have shaped the genetic architecture of inflammatory bowel disease,https://doi.org/10.1038/nature11582,2012,4725,https://openalex.org/W2143625465
+1311,Genetics,"Meta-analysis of 74,046 individuals identifies 11 new susceptibility loci for Alzheimer's disease",https://doi.org/10.1038/ng.2802,2013,4475,https://openalex.org/W2115779804
+1311,Genetics,qBase relative quantification framework and software for management and automated analysis of real-time quantitative PCR data,https://doi.org/10.1186/gb-2007-8-2-r19,2007,3922,https://openalex.org/W2138581811

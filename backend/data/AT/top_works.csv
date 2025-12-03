@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-1312,Molecular Biology,IQ-TREE: A Fast and Effective Stochastic Algorithm for Estimating Maximum-Likelihood Phylogenies,https://doi.org/10.1093/molbev/msu300,2014,24906,https://openalex.org/W2111647009
-1312,Molecular Biology,"Introducing mothur: Open-Source, Platform-Independent, Community-Supported Software for Describing and Comparing Microbial Communities",https://doi.org/10.1128/aem.01541-09,2009,20978,https://openalex.org/W2108718991
-1312,Molecular Biology,A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity,https://doi.org/10.1126/science.1225829,2012,16377,https://openalex.org/W2045435533
-2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5316,https://openalex.org/W2993259418
-2746,Surgery,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4779,https://openalex.org/W2953804067
-2746,Surgery,The 2016 update of the International Study Group (ISGPS) definition and grading of postoperative pancreatic fistula: 11 Years After,https://doi.org/10.1016/j.surg.2016.11.014,2016,3804,https://openalex.org/W2565595087
-2208,Electrical and Electronic Engineering,Conjugated Polymer-Based Organic Solar Cells,https://doi.org/10.1021/cr050149z,2007,6210,https://openalex.org/W2100077118
-2208,Electrical and Electronic Engineering,Cavity optomechanics,https://doi.org/10.1103/revmodphys.86.1391,2014,5298,https://openalex.org/W3037306418
-2208,Electrical and Electronic Engineering,Tisagenlecleucel in Adult Relapsed or Refractory Diffuse Large B-Cell Lymphoma,https://doi.org/10.1056/nejmoa1804980,2018,3754,https://openalex.org/W2903062212
-2204,Biomedical Engineering,Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria,https://doi.org/10.1016/s1474-4422(17)30470-2,2017,7275,https://openalex.org/W2777074421
-2204,Biomedical Engineering,A fracture-resistant high-entropy alloy for cryogenic applications,https://doi.org/10.1126/science.1254581,2014,5215,https://openalex.org/W1968985108
-2204,Biomedical Engineering,Organogenesis in a dish: Modeling development and disease using organoid technologies,https://doi.org/10.1126/science.1247125,2014,2632,https://openalex.org/W2044928246
-2740,Pulmonary and Respiratory Medicine,Radiotherapy plus Concomitant and Adjuvant Temozolomide for Glioblastoma,https://doi.org/10.1056/nejmoa043330,2005,20678,https://openalex.org/W2096287682
-2740,Pulmonary and Respiratory Medicine,Effects of radiotherapy with concomitant and adjuvant temozolomide versus radiotherapy alone on survival in glioblastoma in a randomised phase III study: 5-year analysis of the EORTC-NCIC trial,https://doi.org/10.1016/s1470-2045(09)70025-7,2009,7585,https://openalex.org/W2158681922
-2740,Pulmonary and Respiratory Medicine,2012 Revised International Chapel Hill Consensus Conference Nomenclature of Vasculitides,https://doi.org/10.1002/art.37715,2012,6268,https://openalex.org/W2031517139
-3312,Sociology and Political Science,"The Shared Socioeconomic Pathways and their energy, land use, and greenhouse gas emissions implications: An overview",https://doi.org/10.1016/j.gloenvcha.2016.05.009,2016,5775,https://openalex.org/W2410390527
-3312,Sociology and Political Science,The roads ahead: Narratives for shared socioeconomic pathways describing world futures in the 21st century,https://doi.org/10.1016/j.gloenvcha.2015.01.004,2015,3025,https://openalex.org/W1992193293
-3312,Sociology and Political Science,Prolific.ac—A subject pool for online experiments,https://doi.org/10.1016/j.jbef.2017.12.004,2017,2979,https://openalex.org/W2779206865
-1702,Artificial Intelligence,IQ-TREE: A Fast and Effective Stochastic Algorithm for Estimating Maximum-Likelihood Phylogenies,https://doi.org/10.1093/molbev/msu300,2014,24906,https://openalex.org/W2111647009
+1312,Molecular Biology,IQ-TREE: A Fast and Effective Stochastic Algorithm for Estimating Maximum-Likelihood Phylogenies,https://doi.org/10.1093/molbev/msu300,2014,25048,https://openalex.org/W2111647009
+1312,Molecular Biology,"Introducing mothur: Open-Source, Platform-Independent, Community-Supported Software for Describing and Comparing Microbial Communities",https://doi.org/10.1128/aem.01541-09,2009,21009,https://openalex.org/W2108718991
+1312,Molecular Biology,ModelFinder: fast model selection for accurate phylogenetic estimates,https://doi.org/10.1038/nmeth.4285,2017,16473,https://openalex.org/W2614081736
+1312,Molecular Biology,A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity,https://doi.org/10.1126/science.1225829,2012,16412,https://openalex.org/W2045435533
+1312,Molecular Biology,IQ-TREE 2: New Models and Efficient Methods for Phylogenetic Inference in the Genomic Era,https://doi.org/10.1093/molbev/msaa015,2020,13753,https://openalex.org/W3005235420
+1312,Molecular Biology,UFBoot2: Improving the Ultrafast Bootstrap Approximation,https://doi.org/10.1093/molbev/msx281,2017,9724,https://openalex.org/W2951464304
+1312,Molecular Biology,Evaluation of general 16S ribosomal RNA gene PCR primers for classical and next-generation sequencing-based diversity studies,https://doi.org/10.1093/nar/gks808,2012,8269,https://openalex.org/W2115701239
+1312,Molecular Biology,Effects of radiotherapy with concomitant and adjuvant temozolomide versus radiotherapy alone on survival in glioblastoma in a randomised phase III study: 5-year analysis of the EORTC-NCIC trial,https://doi.org/10.1016/s1470-2045(09)70025-7,2009,7602,https://openalex.org/W2158681922
+1312,Molecular Biology,The PRIDE database and related tools and resources in 2019: improving support for quantification data,https://doi.org/10.1093/nar/gky1106,2018,7126,https://openalex.org/W2899760200
+1312,Molecular Biology,<i>MGMT</i> Gene Silencing and Benefit from Temozolomide in Glioblastoma,https://doi.org/10.1056/nejmoa043331,2005,6997,https://openalex.org/W2105100844
+2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5319,https://openalex.org/W2993259418
+2746,Surgery,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4782,https://openalex.org/W2953804067
+2746,Surgery,The 2016 update of the International Study Group (ISGPS) definition and grading of postoperative pancreatic fistula: 11 Years After,https://doi.org/10.1016/j.surg.2016.11.014,2016,3818,https://openalex.org/W2565595087
+2746,Surgery,"Biological, clinical and population relevance of 95 loci for blood lipids",https://doi.org/10.1038/nature09270,2010,3623,https://openalex.org/W2115801316
+2746,Surgery,"Toward an Integrated Clinical, Molecular and Serological Classification of Inflammatory Bowel Disease: Report of a Working Party of the 2005 Montreal World Congress of Gastroenterology",https://doi.org/10.1155/2005/269076,2005,3311,https://openalex.org/W2188248802
+2746,Surgery,European Guidelines for Obesity Management in Adults,https://doi.org/10.1159/000442721,2015,3306,https://openalex.org/W2192722195
+2746,Surgery,"Heart Failure with Preserved and Reduced Ejection Fraction in Hemodialysis Patients: Prevalence, Disease Prediction and Prognosis",https://doi.org/10.1159/000473868,2017,2810,https://openalex.org/W2605975631
+2746,Surgery,Organogenesis in a dish: Modeling development and disease using organoid technologies,https://doi.org/10.1126/science.1247125,2014,2644,https://openalex.org/W2044928246
+2746,Surgery,"EAU-EANM-ESTRO-ESUR-SIOG Guidelines on Prostate Cancer—2020 Update. Part 1: Screening, Diagnosis, and Local Treatment with Curative Intent",https://doi.org/10.1016/j.eururo.2020.09.042,2020,2634,https://openalex.org/W3097158220
+2746,Surgery,EPOS 2012: European position paper on rhinosinusitis and nasal polyps 2012. A summary for otorhinolaryngologists,https://doi.org/10.4193/rhino12.000,2012,2374,https://openalex.org/W1885435857
+2208,Electrical and Electronic Engineering,Conjugated Polymer-Based Organic Solar Cells,https://doi.org/10.1021/cr050149z,2007,6213,https://openalex.org/W2100077118
+2208,Electrical and Electronic Engineering,Cavity optomechanics,https://doi.org/10.1103/revmodphys.86.1391,2014,5313,https://openalex.org/W3037306418
+2208,Electrical and Electronic Engineering,Tisagenlecleucel in Adult Relapsed or Refractory Diffuse Large B-Cell Lymphoma,https://doi.org/10.1056/nejmoa1804980,2018,3765,https://openalex.org/W2903062212
+2208,Electrical and Electronic Engineering,Ageing mechanisms in lithium-ion batteries,https://doi.org/10.1016/j.jpowsour.2005.01.006,2005,3608,https://openalex.org/W2077937117
+2208,Electrical and Electronic Engineering,Linear optical properties in the projector-augmented wave methodology,https://doi.org/10.1103/physrevb.73.045112,2006,3196,https://openalex.org/W2047877383
+2208,Electrical and Electronic Engineering,"Demand Side Management: Demand Response, Intelligent Energy Systems, and Smart Loads",https://doi.org/10.1109/tii.2011.2158841,2011,2770,https://openalex.org/W2155556726
+2208,Electrical and Electronic Engineering,An ultra-lightweight design for imperceptible plastic electronics,https://doi.org/10.1038/nature12314,2013,2401,https://openalex.org/W2061453480
+2208,Electrical and Electronic Engineering,Screened hybrid density functionals applied to solids,https://doi.org/10.1063/1.2187006,2006,2329,https://openalex.org/W2004117188
+2208,Electrical and Electronic Engineering,"Niraparib Maintenance Therapy in Platinum-Sensitive, Recurrent Ovarian Cancer",https://doi.org/10.1056/nejmoa1611310,2016,2315,https://openalex.org/W2528228811
+2208,Electrical and Electronic Engineering,A 128$\times$128 120 dB 15 $\mu$s Latency Asynchronous Temporal Contrast Vision Sensor,https://doi.org/10.1109/jssc.2007.914337,2008,2199,https://openalex.org/W2016574277
+2204,Biomedical Engineering,Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria,https://doi.org/10.1016/s1474-4422(17)30470-2,2017,7310,https://openalex.org/W2777074421
+2204,Biomedical Engineering,A fracture-resistant high-entropy alloy for cryogenic applications,https://doi.org/10.1126/science.1254581,2014,5253,https://openalex.org/W1968985108
+2204,Biomedical Engineering,Organogenesis in a dish: Modeling development and disease using organoid technologies,https://doi.org/10.1126/science.1247125,2014,2644,https://openalex.org/W2044928246
+2204,Biomedical Engineering,Proteome survey reveals modularity of the yeast cell machinery,https://doi.org/10.1038/nature04532,2006,2548,https://openalex.org/W2050721857
+2204,Biomedical Engineering,An ultra-lightweight design for imperceptible plastic electronics,https://doi.org/10.1038/nature12314,2013,2401,https://openalex.org/W2061453480
+2204,Biomedical Engineering,Hyperelastic modelling of arterial layers with distributed collagen fibre orientations,https://doi.org/10.1098/rsif.2005.0073,2005,2300,https://openalex.org/W2166739553
+2204,Biomedical Engineering,The role of surface charge in cellular uptake and cytotoxicity of medical nanoparticles,https://doi.org/10.2147/ijn.s36111,2012,2292,https://openalex.org/W2027876233
+2204,Biomedical Engineering,Comparison of Dopamine and Norepinephrine in the Treatment of Shock,https://doi.org/10.1056/nejmoa0907118,2010,1823,https://openalex.org/W2095944485
+2204,Biomedical Engineering,Ultrathin and lightweight organic solar cells with high flexibility,https://doi.org/10.1038/ncomms1772,2012,1674,https://openalex.org/W2088750456
+2204,Biomedical Engineering,The International Society of Heart and Lung Transplantation Guidelines for the care of heart transplant recipients,https://doi.org/10.1016/j.healun.2010.05.034,2010,1612,https://openalex.org/W2043250502
+2740,Pulmonary and Respiratory Medicine,Radiotherapy plus Concomitant and Adjuvant Temozolomide for Glioblastoma,https://doi.org/10.1056/nejmoa043330,2005,20744,https://openalex.org/W2096287682
+2740,Pulmonary and Respiratory Medicine,Effects of radiotherapy with concomitant and adjuvant temozolomide versus radiotherapy alone on survival in glioblastoma in a randomised phase III study: 5-year analysis of the EORTC-NCIC trial,https://doi.org/10.1016/s1470-2045(09)70025-7,2009,7602,https://openalex.org/W2158681922
+2740,Pulmonary and Respiratory Medicine,2012 Revised International Chapel Hill Consensus Conference Nomenclature of Vasculitides,https://doi.org/10.1002/art.37715,2012,6283,https://openalex.org/W2031517139
+2740,Pulmonary and Respiratory Medicine,Pembrolizumab plus Chemotherapy in Metastatic Non–Small-Cell Lung Cancer,https://doi.org/10.1056/nejmoa1801005,2018,6237,https://openalex.org/W2796582438
+2740,Pulmonary and Respiratory Medicine,Pan-cancer Immunogenomic Analyses Reveal Genotype-Immunophenotype Relationships and Predictors of Response to Checkpoint Blockade,https://doi.org/10.1016/j.celrep.2016.12.019,2017,5046,https://openalex.org/W2949273159
+2740,Pulmonary and Respiratory Medicine,Updated Clinical Classification of Pulmonary Hypertension,https://doi.org/10.1016/j.jacc.2013.10.029,2013,4154,https://openalex.org/W2183644045
+2740,Pulmonary and Respiratory Medicine,The 2016 update of the International Study Group (ISGPS) definition and grading of postoperative pancreatic fistula: 11 Years After,https://doi.org/10.1016/j.surg.2016.11.014,2016,3818,https://openalex.org/W2565595087
+2740,Pulmonary and Respiratory Medicine,Platinum-Based Chemotherapy plus Cetuximab in Head and Neck Cancer,https://doi.org/10.1056/nejmoa0802656,2008,3626,https://openalex.org/W2112845420
+2740,Pulmonary and Respiratory Medicine,Personalizing the treatment of women with early breast cancer: highlights of the St Gallen International Expert Consensus on the Primary Therapy of Early Breast Cancer 2013,https://doi.org/10.1093/annonc/mdt303,2013,3559,https://openalex.org/W2117775530
+2740,Pulmonary and Respiratory Medicine,2015 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension,https://doi.org/10.1183/13993003.01032-2015,2015,3102,https://openalex.org/W1866413456
+3312,Sociology and Political Science,"The Shared Socioeconomic Pathways and their energy, land use, and greenhouse gas emissions implications: An overview",https://doi.org/10.1016/j.gloenvcha.2016.05.009,2016,5804,https://openalex.org/W2410390527
+3312,Sociology and Political Science,The roads ahead: Narratives for shared socioeconomic pathways describing world futures in the 21st century,https://doi.org/10.1016/j.gloenvcha.2015.01.004,2015,3040,https://openalex.org/W1992193293
+3312,Sociology and Political Science,Prolific.ac—A subject pool for online experiments,https://doi.org/10.1016/j.jbef.2017.12.004,2017,2997,https://openalex.org/W2779206865
+3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2973,https://openalex.org/W2161411308
+3312,Sociology and Political Science,Evolution of indirect reciprocity,https://doi.org/10.1038/nature04131,2005,2693,https://openalex.org/W2157592153
+3312,Sociology and Political Science,Set-Theoretic Methods for the Social Sciences,https://doi.org/10.1017/cbo9781139004244,2012,2204,https://openalex.org/W3193792355
+3312,Sociology and Political Science,"Standards of Care for the Health of Transgender and Gender Diverse People, Version 8",https://doi.org/10.1080/26895269.2022.2100644,2022,2095,https://openalex.org/W4294732694
+3312,Sociology and Political Science,“Economic man” in cross-cultural perspective: Behavioral experiments in 15 small-scale societies,https://doi.org/10.1017/s0140525x05000142,2005,1875,https://openalex.org/W2125976408
+3312,Sociology and Political Science,Contrasting Computational Models of Mate Preference Integration Across 45 Countries,https://doi.org/10.1038/s41598-019-52748-8,2019,1773,https://openalex.org/W2983201012
+3312,Sociology and Political Science,A Consensus-Based Checklist for Reporting of Survey Studies (CROSS),https://doi.org/10.1007/s11606-021-06737-1,2021,1704,https://openalex.org/W3154790864
+1702,Artificial Intelligence,IQ-TREE: A Fast and Effective Stochastic Algorithm for Estimating Maximum-Likelihood Phylogenies,https://doi.org/10.1093/molbev/msu300,2014,25048,https://openalex.org/W2111647009
 1702,Artificial Intelligence,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.17863/cam.64134,2019,11500,https://openalex.org/W3103145119
-1702,Artificial Intelligence,Review of Particle Physics,https://doi.org/10.1093/ptep/ptac097,2022,5914,https://openalex.org/W2963002078
-2505,Materials Chemistry,ProSA-web: interactive web service for the recognition of errors in three-dimensional structures of proteins,https://doi.org/10.1093/nar/gkm290,2007,5601,https://openalex.org/W1992192767
-2505,Materials Chemistry,Accurate Band Gaps of Semiconductors and Insulators with a Semilocal Exchange-Correlation Potential,https://doi.org/10.1103/physrevlett.102.226401,2009,5538,https://openalex.org/W2017805851
-2505,Materials Chemistry,Accurate prediction of protein structures and interactions using a three-track neural network,https://doi.org/10.1126/science.abj8754,2021,5102,https://openalex.org/W3186179742
-2713,Epidemiology,Molecular mechanisms of cell death: recommendations of the Nomenclature Committee on Cell Death 2018,https://doi.org/10.1038/s41418-017-0012-4,2018,6012,https://openalex.org/W2788640168
-2713,Epidemiology,Neuroimaging standards for research into small vessel disease and its contribution to ageing and neurodegeneration,https://doi.org/10.1016/s1474-4422(13)70124-8,2013,5065,https://openalex.org/W2158742097
-2713,Epidemiology,"eggNOG 5.0: a hierarchical, functionally and phylogenetically annotated orthology resource based on 5090 organisms and 2502 viruses",https://doi.org/10.1093/nar/gky1085,2018,4522,https://openalex.org/W2900629010
-3107,"Atomic and Molecular Physics, and Optics",Accurate Band Gaps of Semiconductors and Insulators with a Semilocal Exchange-Correlation Potential,https://doi.org/10.1103/physrevlett.102.226401,2009,5538,https://openalex.org/W2017805851
-3107,"Atomic and Molecular Physics, and Optics",Cavity optomechanics,https://doi.org/10.1103/revmodphys.86.1391,2014,5298,https://openalex.org/W3037306418
-3107,"Atomic and Molecular Physics, and Optics",<i>Ab‐initio</i>simulations of materials using VASP: Density‐functional theory and beyond,https://doi.org/10.1002/jcc.21057,2008,4226,https://openalex.org/W2121817924
+1702,Artificial Intelligence,Review of Particle Physics,https://doi.org/10.1093/ptep/ptac097,2022,5925,https://openalex.org/W2963002078
+1702,Artificial Intelligence,Plešovice zircon — A new natural reference material for U–Pb and Hf isotopic microanalysis,https://doi.org/10.1016/j.chemgeo.2007.11.005,2007,4857,https://openalex.org/W2169766597
+1702,Artificial Intelligence,The security of practical quantum key distribution,https://doi.org/10.1103/revmodphys.81.1301,2009,3367,https://openalex.org/W2121213780
+1702,Artificial Intelligence,Convergence Results for Neural Networks via Electrodynamics,https://doi.org/10.4230/lipics.itcs.2018.22,2018,2911,https://openalex.org/W2963285578
+1702,Artificial Intelligence,Convolutional Two-Stream Network Fusion for Video Action Recognition,https://doi.org/10.1109/cvpr.2016.213,2016,2710,https://openalex.org/W2342662179
+1702,Artificial Intelligence,"The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions",https://doi.org/10.1038/sdata.2018.161,2018,2627,https://openalex.org/W2794825826
+1702,Artificial Intelligence,Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs),https://doi.org/10.48550/arxiv.1511.07289,2015,2310,https://openalex.org/W2176412452
+1702,Artificial Intelligence,Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery,https://doi.org/10.1007/978-3-319-59050-9_12,2017,2274,https://openalex.org/W2599354622
+2505,Materials Chemistry,ProSA-web: interactive web service for the recognition of errors in three-dimensional structures of proteins,https://doi.org/10.1093/nar/gkm290,2007,5627,https://openalex.org/W1992192767
+2505,Materials Chemistry,Accurate Band Gaps of Semiconductors and Insulators with a Semilocal Exchange-Correlation Potential,https://doi.org/10.1103/physrevlett.102.226401,2009,5560,https://openalex.org/W2017805851
+2505,Materials Chemistry,Accurate prediction of protein structures and interactions using a three-track neural network,https://doi.org/10.1126/science.abj8754,2021,5129,https://openalex.org/W3186179742
+2505,Materials Chemistry,Raman microspectroscopy of soot and related carbonaceous materials: Spectral analysis and structural information,https://doi.org/10.1016/j.carbon.2005.02.018,2005,4387,https://openalex.org/W2066931959
+2505,Materials Chemistry,"Photodetectors based on graphene, other two-dimensional materials and hybrid systems",https://doi.org/10.1038/nnano.2014.215,2014,3613,https://openalex.org/W2039418304
+2505,Materials Chemistry,WIEN2k: An Augmented Plane Wave Plus Local Orbitals Program for Calculating Crystal Properties,,2019,3380,https://openalex.org/W77753788
+2505,Materials Chemistry,"ENDF/B-VII.1 Nuclear Data for Science and Technology: Cross Sections, Covariances, Fission Product Yields and Decay Data",https://doi.org/10.1016/j.nds.2011.11.002,2011,2687,https://openalex.org/W2109415008
+2505,Materials Chemistry,First-principles calculations for point defects in solids,https://doi.org/10.1103/revmodphys.86.253,2014,2656,https://openalex.org/W1963934009
+2505,Materials Chemistry,The role of surface charge in cellular uptake and cytotoxicity of medical nanoparticles,https://doi.org/10.2147/ijn.s36111,2012,2292,https://openalex.org/W2027876233
+2505,Materials Chemistry,WIEN2k: An APW+lo program for calculating the properties of solids,https://doi.org/10.1063/1.5143061,2020,2233,https://openalex.org/W3008735797
+2713,Epidemiology,Molecular mechanisms of cell death: recommendations of the Nomenclature Committee on Cell Death 2018,https://doi.org/10.1038/s41418-017-0012-4,2018,6049,https://openalex.org/W2788640168
+2713,Epidemiology,Neuroimaging standards for research into small vessel disease and its contribution to ageing and neurodegeneration,https://doi.org/10.1016/s1474-4422(13)70124-8,2013,5082,https://openalex.org/W2158742097
+2713,Epidemiology,"eggNOG 5.0: a hierarchical, functionally and phylogenetically annotated orthology resource based on 5090 organisms and 2502 viruses",https://doi.org/10.1093/nar/gky1085,2018,4560,https://openalex.org/W2900629010
+2713,Epidemiology,Updated Clinical Classification of Pulmonary Hypertension,https://doi.org/10.1016/j.jacc.2013.10.029,2013,4154,https://openalex.org/W2183644045
+2713,Epidemiology,Infliximab for Induction and Maintenance Therapy for Ulcerative Colitis,https://doi.org/10.1056/nejmoa050516,2005,3806,https://openalex.org/W2171297959
+2713,Epidemiology,A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus–induced lung injury,https://doi.org/10.1038/nm1267,2005,3590,https://openalex.org/W2091671824
+2713,Epidemiology,"Toward an Integrated Clinical, Molecular and Serological Classification of Inflammatory Bowel Disease: Report of a Working Party of the 2005 Montreal World Congress of Gastroenterology",https://doi.org/10.1155/2005/269076,2005,3311,https://openalex.org/W2188248802
+2713,Epidemiology,"Adipocytokines: mediators linking adipose tissue, inflammation and immunity",https://doi.org/10.1038/nri1937,2006,3101,https://openalex.org/W2130064617
+2713,Epidemiology,"Infliximab, Azathioprine, or Combination Therapy for Crohn's Disease",https://doi.org/10.1056/nejmoa0904492,2010,3035,https://openalex.org/W2126807394
+2713,Epidemiology,Estimates of global seasonal influenza-associated respiratory mortality: a modelling study,https://doi.org/10.1016/s0140-6736(17)33293-2,2017,2792,https://openalex.org/W2775569101
+3107,"Atomic and Molecular Physics, and Optics",Accurate Band Gaps of Semiconductors and Insulators with a Semilocal Exchange-Correlation Potential,https://doi.org/10.1103/physrevlett.102.226401,2009,5560,https://openalex.org/W2017805851
+3107,"Atomic and Molecular Physics, and Optics",Cavity optomechanics,https://doi.org/10.1103/revmodphys.86.1391,2014,5313,https://openalex.org/W3037306418
+3107,"Atomic and Molecular Physics, and Optics",<i>Ab‐initio</i>simulations of materials using VASP: Density‐functional theory and beyond,https://doi.org/10.1002/jcc.21057,2008,4265,https://openalex.org/W2121817924
+3107,"Atomic and Molecular Physics, and Optics",Feshbach resonances in ultracold gases,https://doi.org/10.1103/revmodphys.82.1225,2010,3651,https://openalex.org/W1989563849
+3107,"Atomic and Molecular Physics, and Optics",The security of practical quantum key distribution,https://doi.org/10.1103/revmodphys.81.1301,2009,3367,https://openalex.org/W2121213780
+3107,"Atomic and Molecular Physics, and Optics",Linear optical properties in the projector-augmented wave methodology,https://doi.org/10.1103/physrevb.73.045112,2006,3196,https://openalex.org/W2047877383
+3107,"Atomic and Molecular Physics, and Optics",Non-Hermitian physics and PT symmetry,https://doi.org/10.1038/nphys4323,2018,2459,https://openalex.org/W2781491230
+3107,"Atomic and Molecular Physics, and Optics",Screened hybrid density functionals applied to solids,https://doi.org/10.1063/1.2187006,2006,2329,https://openalex.org/W2004117188
+3107,"Atomic and Molecular Physics, and Optics",Entanglement detection,https://doi.org/10.1016/j.physrep.2009.02.004,2009,2273,https://openalex.org/W3038000163
+3107,"Atomic and Molecular Physics, and Optics",Laser cooling of a nanomechanical oscillator into its quantum ground state,https://doi.org/10.1038/nature10461,2011,2191,https://openalex.org/W2074383155

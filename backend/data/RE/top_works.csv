@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-3312,Sociology and Political Science,"Influence of Temperature on Immature Development, Survival, Longevity, Fecundity, and Gonotrophic Cycles of<i>Aedes albopictus</i>, Vector of Chikungunya and Dengue in the Indian Ocean",https://doi.org/10.1603/033.046.0105,2009,510,https://openalex.org/W2194740676
-3312,Sociology and Political Science,"People's behaviour in the face of volcanic hazards: Perspectives from Javanese communities, Indonesia",https://doi.org/10.1016/j.jvolgeores.2007.12.013,2008,235,https://openalex.org/W1988357238
+3312,Sociology and Political Science,"Influence of Temperature on Immature Development, Survival, Longevity, Fecundity, and Gonotrophic Cycles of<i>Aedes albopictus</i>, Vector of Chikungunya and Dengue in the Indian Ocean",https://doi.org/10.1603/033.046.0105,2009,511,https://openalex.org/W2194740676
+3312,Sociology and Political Science,"People's behaviour in the face of volcanic hazards: Perspectives from Javanese communities, Indonesia",https://doi.org/10.1016/j.jvolgeores.2007.12.013,2008,236,https://openalex.org/W1988357238
 3312,Sociology and Political Science,Geographic Distribution and Developmental Sites of <i>Aedes albopictus</i> (Diptera: Culicidae) During a Chikungunya Epidemic Event,https://doi.org/10.1089/vbz.2007.0649,2008,193,https://openalex.org/W1987105959
-2306,Global and Planetary Change,Rate of tree carbon accumulation increases continuously with tree size,https://doi.org/10.1038/nature12914,2014,939,https://openalex.org/W2027699181
-2306,Global and Planetary Change,"Linking biodiversity, ecosystem services, and human well-being: three challenges for designing research for sustainability",https://doi.org/10.1016/j.cosust.2015.03.007,2015,750,https://openalex.org/W2022263686
-2306,Global and Planetary Change,An overview of models of stomatal conductance at the leaf level,https://doi.org/10.1111/j.1365-3040.2010.02181.x,2010,711,https://openalex.org/W2103848475
-2303,Ecology,"Sea cucumber fisheries: global analysis of stocks, management measures and drivers of overfishing",https://doi.org/10.1111/j.1467-2979.2011.00443.x,2011,467,https://openalex.org/W1924106145
+3312,Sociology and Political Science,Mental Health of Refugees and Migrants during the COVID-19 Pandemic: The Role of Experienced Discrimination and Daily Stressors,https://doi.org/10.3390/ijerph18126354,2021,122,https://openalex.org/W3170954976
+3312,Sociology and Political Science,"Medical brain drain: How many, where and why?",https://doi.org/10.1016/j.jhealeco.2020.102409,2020,118,https://openalex.org/W3115333221
+3312,Sociology and Political Science,"Challenges in groundwater resource management in coastal aquifers of East Africa: Investigations and lessons learnt in the Comoros Islands, Kenya and Tanzania",https://doi.org/10.1016/j.ejrh.2015.12.065,2016,106,https://openalex.org/W2286205753
+3312,Sociology and Political Science,Evidence of Habitat Structuring Aedes albopictus Populations in Réunion Island,https://doi.org/10.1371/journal.pntd.0002111,2013,91,https://openalex.org/W2062389365
+3312,Sociology and Political Science,“Co-construction” in deliberative democracy: lessons from the French Citizens’ Convention for Climate,https://doi.org/10.1057/s41599-022-01212-6,2022,90,https://openalex.org/W4281382050
+3312,Sociology and Political Science,Toward an identification of elements contributing to satisfaction with the tourism experience,https://doi.org/10.1177/1356766712468733,2013,83,https://openalex.org/W2127968176
+3312,Sociology and Political Science,Progressive Decrease in &lt;I&gt;Aedes aegypti&lt;/I&gt; Distribution in Reunion Island Since the 1900s,https://doi.org/10.1603/033.046.0644,2009,72,https://openalex.org/W2173910134
+2306,Global and Planetary Change,Rate of tree carbon accumulation increases continuously with tree size,https://doi.org/10.1038/nature12914,2014,942,https://openalex.org/W2027699181
+2306,Global and Planetary Change,"Linking biodiversity, ecosystem services, and human well-being: three challenges for designing research for sustainability",https://doi.org/10.1016/j.cosust.2015.03.007,2015,756,https://openalex.org/W2022263686
+2306,Global and Planetary Change,An overview of models of stomatal conductance at the leaf level,https://doi.org/10.1111/j.1365-3040.2010.02181.x,2010,713,https://openalex.org/W2103848475
+2306,Global and Planetary Change,The Lagrangian particle dispersion model FLEXPART version 10.4,https://doi.org/10.5194/gmd-12-4955-2019,2019,632,https://openalex.org/W2989833272
+2306,Global and Planetary Change,Recent Asian origin of chytrid fungi causing global amphibian declines,https://doi.org/10.1126/science.aar1965,2018,576,https://openalex.org/W2799512068
+2306,Global and Planetary Change,"Sea cucumber fisheries: global analysis of stocks, management measures and drivers of overfishing",https://doi.org/10.1111/j.1467-2979.2011.00443.x,2011,468,https://openalex.org/W1924106145
+2306,Global and Planetary Change,"Ground-based validation of the Copernicus Sentinel-5P TROPOMI NO <sub>2</sub> measurements with the NDACC ZSL-DOAS, MAX-DOAS and Pandonia global networks",https://doi.org/10.5194/amt-14-481-2021,2021,396,https://openalex.org/W3033069661
+2306,Global and Planetary Change,HyMeX-SOP1: The Field Campaign Dedicated to Heavy Precipitation and Flash Flooding in the Northwestern Mediterranean,https://doi.org/10.1175/bams-d-12-00244.1,2013,370,https://openalex.org/W2066689168
+2306,Global and Planetary Change,Global-scale atmosphere monitoring by in-service aircraft – current achievements and future prospects of the European Research Infrastructure IAGOS,https://doi.org/10.3402/tellusb.v67.28452,2015,368,https://openalex.org/W2170202293
+2306,Global and Planetary Change,Global Human Footprint on the Linkage between Biodiversity and Ecosystem Functioning in Reef Fishes,https://doi.org/10.1371/journal.pbio.1000606,2011,358,https://openalex.org/W2106752295
+2303,Ecology,"Sea cucumber fisheries: global analysis of stocks, management measures and drivers of overfishing",https://doi.org/10.1111/j.1467-2979.2011.00443.x,2011,468,https://openalex.org/W1924106145
 2303,Ecology,Global Human Footprint on the Linkage between Biodiversity and Ecosystem Functioning in Reef Fishes,https://doi.org/10.1371/journal.pbio.1000606,2011,358,https://openalex.org/W2106752295
-2303,Ecology,Impacts of Invasive Species on Food Webs,https://doi.org/10.1016/bs.aecr.2016.10.001,2017,351,https://openalex.org/W2567922469
+2303,Ecology,Impacts of Invasive Species on Food Webs,https://doi.org/10.1016/bs.aecr.2016.10.001,2017,353,https://openalex.org/W2567922469
+2303,Ecology,"Predator Crown-of-Thorns Starfish (Acanthaster planci) Outbreak, Mass Mortality of Corals, and Cascading Effects on Reef Fish and Benthic Communities",https://doi.org/10.1371/journal.pone.0047363,2012,347,https://openalex.org/W2011445647
+2303,Ecology,Scientists’ warning – The outstanding biodiversity of islands is in peril,https://doi.org/10.1016/j.gecco.2021.e01847,2021,299,https://openalex.org/W3202101187
+2303,Ecology,Western Indian Ocean coral communities: bleaching responses and susceptibility to extinction,https://doi.org/10.3354/meps337001,2007,298,https://openalex.org/W2048069353
+2303,Ecology,Gravity of human impacts mediates coral reef conservation gains,https://doi.org/10.1073/pnas.1708001115,2018,263,https://openalex.org/W2809574340
+2303,Ecology,Social–environmental drivers inform strategic management of coral reefs in the Anthropocene,https://doi.org/10.1038/s41559-019-0953-8,2019,254,https://openalex.org/W2955185753
+2303,Ecology,Applying global criteria to tracking data to define important areas for marine conservation,https://doi.org/10.1111/ddi.12411,2016,235,https://openalex.org/W2241512264
+2303,Ecology,Ecological Roles of Exploited Sea Cucumbers,https://doi.org/10.1201/9781315368597-8,2016,226,https://openalex.org/W4211174124
 3314,Anthropology,Tracing Arab-Islamic Inheritance in Madagascar: Study of the Y-chromosome and Mitochondrial DNA in the Antemoro,https://doi.org/10.1371/journal.pone.0080932,2013,44,https://openalex.org/W2140161921
 3314,Anthropology,Les déviances dans les organisations publiques en quête de performance. Vers une gestion prophylactique des risques de déviance,https://doi.org/10.7202/1011419ar,2012,34,https://openalex.org/W2133551334
 3314,Anthropology,Adam Smith's use of multiple references for his pin making example,https://doi.org/10.1080/09672560601025829,2006,31,https://openalex.org/W2006414599
-1110,Plant Science,TRY – a global database of plant traits,https://doi.org/10.1111/j.1365-2486.2011.02451.x,2011,2593,https://openalex.org/W2162584119
+3314,Anthropology,Le statut civil de droit local à Mayotte : une imposture ?,https://doi.org/10.3917/drs.080.0117,2012,21,https://openalex.org/W1565882803
+3314,Anthropology,Using Drones to Measure Jellyfish Density in Shallow Estuaries,https://doi.org/10.3390/jmse9060659,2021,17,https://openalex.org/W3167555052
+3314,Anthropology,Histoire biologique d’une population du sud-est malgache : les Antemoro,,2011,14,https://openalex.org/W54936482
+3314,Anthropology,Diagrams in the theory of differential equations (eighteenth to nineteenth centuries),https://doi.org/10.1007/s11229-012-0069-z,2012,11,https://openalex.org/W2044747879
+3314,Anthropology,Les condominios à Maputo : enjeux sociétaux et spatiaux autour de l'implantation des ensembles résidentiels sécurisés dans la capitale mozambicaine,https://doi.org/10.3917/ag.655.0247,2007,11,https://openalex.org/W2023266833
+3314,Anthropology,"Raisonner sur les épingles, l'exemple d'Adam Smith sur la division du travail",https://doi.org/10.3917/redp.154.0499,2005,8,https://openalex.org/W2006089107
+3314,Anthropology,"HOW ADAM SMITH FOUND INSPIRATION IN FRENCH TEXTS ON PIN MAKING IN THE EIGHTEENTH CENTURY: History of Economic Ideas. XIX, 2011/3, 41-67",,2011,7,https://openalex.org/W3124268937
+1110,Plant Science,TRY – a global database of plant traits,https://doi.org/10.1111/j.1365-2486.2011.02451.x,2011,2595,https://openalex.org/W2162584119
 1110,Plant Science,Emergence of genomic diversity and recurrent mutations in SARS-CoV-2,https://doi.org/10.1016/j.meegid.2020.104351,2020,887,https://openalex.org/W3021283406
-1110,Plant Science,An overview of models of stomatal conductance at the leaf level,https://doi.org/10.1111/j.1365-3040.2010.02181.x,2010,711,https://openalex.org/W2103848475
-1902,Atmospheric Science,The SURFEXv7.2 land and ocean surface platform for coupled or offline simulation of earth surface variables and fluxes,https://doi.org/10.5194/gmd-6-929-2013,2013,775,https://openalex.org/W2090592000
-1902,Atmospheric Science,The Lagrangian particle dispersion model FLEXPART version 10.4,https://doi.org/10.5194/gmd-12-4955-2019,2019,630,https://openalex.org/W2989833272
+1110,Plant Science,An overview of models of stomatal conductance at the leaf level,https://doi.org/10.1111/j.1365-3040.2010.02181.x,2010,713,https://openalex.org/W2103848475
+1110,Plant Science,Genome sequencing of the sweetpotato whitefly <i>Bemisia tabaci</i> MED/Q,https://doi.org/10.1093/gigascience/gix018,2017,475,https://openalex.org/W2611922188
+1110,Plant Science,Genomic Diversity and Recombination among Xylella fastidiosa Subspecies,https://doi.org/10.1128/aem,2019,432,https://openalex.org/W4288281161
+1110,Plant Science,A mosaic monoploid reference sequence for the highly complex genome of sugarcane,https://doi.org/10.1038/s41467-018-05051-5,2018,418,https://openalex.org/W2810624951
+1110,Plant Science,No evidence for increased transmissibility from recurrent mutations in SARS-CoV-2,https://doi.org/10.1038/s41467-020-19818-2,2020,312,https://openalex.org/W3106674057
+1110,Plant Science,The Spread of Tomato Yellow Leaf Curl Virus from the Middle East to the World,https://doi.org/10.1371/journal.ppat.1001164,2010,308,https://openalex.org/W2171250565
+1110,Plant Science,ICTV Virus Taxonomy Profile: Geminiviridae 2021,https://doi.org/10.1099/jgv.0.001696,2021,266,https://openalex.org/W4200550798
+1110,Plant Science,Evolution and ecology of plant viruses,https://doi.org/10.1038/s41579-019-0232-3,2019,259,https://openalex.org/W2958730175
+1902,Atmospheric Science,The SURFEXv7.2 land and ocean surface platform for coupled or offline simulation of earth surface variables and fluxes,https://doi.org/10.5194/gmd-6-929-2013,2013,776,https://openalex.org/W2090592000
+1902,Atmospheric Science,The Lagrangian particle dispersion model FLEXPART version 10.4,https://doi.org/10.5194/gmd-12-4955-2019,2019,632,https://openalex.org/W2989833272
 1902,Atmospheric Science,"Ground-based validation of the Copernicus Sentinel-5P TROPOMI NO <sub>2</sub> measurements with the NDACC ZSL-DOAS, MAX-DOAS and Pandonia global networks",https://doi.org/10.5194/amt-14-481-2021,2021,396,https://openalex.org/W3033069661
-1105,"Ecology, Evolution, Behavior and Systematics",Islands as model systems in ecology and evolution: prospects fifty years after MacArthur‐Wilson,https://doi.org/10.1111/ele.12398,2015,537,https://openalex.org/W2156521347
+1902,Atmospheric Science,HyMeX-SOP1: The Field Campaign Dedicated to Heavy Precipitation and Flash Flooding in the Northwestern Mediterranean,https://doi.org/10.1175/bams-d-12-00244.1,2013,370,https://openalex.org/W2066689168
+1902,Atmospheric Science,Global-scale atmosphere monitoring by in-service aircraft – current achievements and future prospects of the European Research Infrastructure IAGOS,https://doi.org/10.3402/tellusb.v67.28452,2015,368,https://openalex.org/W2170202293
+1902,Atmospheric Science,Overview of the Meso-NH model version 5.4 and its applications,https://doi.org/10.5194/gmd-11-1929-2018,2018,345,https://openalex.org/W2783422833
+1902,Atmospheric Science,Explosive growth in African combustion emissions from 2005 to 2030,https://doi.org/10.1088/1748-9326/9/3/035003,2014,227,https://openalex.org/W2132227582
+1902,Atmospheric Science,Validation of Tropospheric Emission Spectrometer (TES) nadir ozone profiles using ozonesonde measurements,https://doi.org/10.1029/2007jd008819,2008,225,https://openalex.org/W2112442849
+1902,Atmospheric Science,"Boulder and fine sediment transport and deposition by the 2004 tsunami in Lhok Nga (western Banda Aceh, Sumatra, Indonesia): A coupled offshore–onshore model",https://doi.org/10.1016/j.margeo.2009.10.011,2009,209,https://openalex.org/W2045234163
+1902,Atmospheric Science,Validation of Aura Microwave Limb Sounder Ozone by ozonesonde and lidar measurements,https://doi.org/10.1029/2007jd008776,2007,189,https://openalex.org/W2099401898
+1105,"Ecology, Evolution, Behavior and Systematics",Islands as model systems in ecology and evolution: prospects fifty years after MacArthur‐Wilson,https://doi.org/10.1111/ele.12398,2015,538,https://openalex.org/W2156521347
 1105,"Ecology, Evolution, Behavior and Systematics",Conservation of oceanic island floras: Present and future global challenges,https://doi.org/10.1016/j.ppees.2009.10.001,2010,395,https://openalex.org/W2164756615
 1105,"Ecology, Evolution, Behavior and Systematics","Ligand-binding properties of a juvenile hormone receptor, Methoprene-tolerant",https://doi.org/10.1073/pnas.1116123109,2011,364,https://openalex.org/W2065469900
+1105,"Ecology, Evolution, Behavior and Systematics","Topography‐driven isolation, speciation and a global increase of endemism with elevation",https://doi.org/10.1111/geb.12469,2016,353,https://openalex.org/W2467738893
+1105,"Ecology, Evolution, Behavior and Systematics",Impacts of Invasive Species on Food Webs,https://doi.org/10.1016/bs.aecr.2016.10.001,2017,353,https://openalex.org/W2567922469
+1105,"Ecology, Evolution, Behavior and Systematics",Scientists’ warning – The outstanding biodiversity of islands is in peril,https://doi.org/10.1016/j.gecco.2021.e01847,2021,299,https://openalex.org/W3202101187
+1105,"Ecology, Evolution, Behavior and Systematics",Sebacinales Everywhere: Previously Overlooked Ubiquitous Fungal Endophytes,https://doi.org/10.1371/journal.pone.0016793,2011,235,https://openalex.org/W2025141995
+1105,"Ecology, Evolution, Behavior and Systematics",The role of epiphytism in architecture and evolutionary constraint within mycorrhizal networks of tropical orchids,https://doi.org/10.1111/j.1365-294x.2012.05692.x,2012,182,https://openalex.org/W2152424122
+1105,"Ecology, Evolution, Behavior and Systematics",The Missing Response to Selection in the Wild,https://doi.org/10.1016/j.tree.2018.02.007,2018,180,https://openalex.org/W2795938519
+1105,"Ecology, Evolution, Behavior and Systematics",Natural hydroxyanthraquinoid pigments as potent food grade colorants: an overview,https://doi.org/10.1007/s13659-012-0086-0,2012,168,https://openalex.org/W2058447128
 1312,Molecular Biology,Emergence of genomic diversity and recurrent mutations in SARS-CoV-2,https://doi.org/10.1016/j.meegid.2020.104351,2020,887,https://openalex.org/W3021283406
 1312,Molecular Biology,"A Molecular Web: Endoplasmic Reticulum Stress, Inflammation, and Oxidative Stress",https://doi.org/10.3389/fncel.2014.00213,2014,574,https://openalex.org/W2002207827
 1312,Molecular Biology,The glycation of albumin: Structural and functional impacts,https://doi.org/10.1016/j.biochi.2010.12.003,2010,421,https://openalex.org/W2040634316
+1312,Molecular Biology,Conservation of oceanic island floras: Present and future global challenges,https://doi.org/10.1016/j.ppees.2009.10.001,2010,395,https://openalex.org/W2164756615
+1312,Molecular Biology,"Ligand-binding properties of a juvenile hormone receptor, Methoprene-tolerant",https://doi.org/10.1073/pnas.1116123109,2011,364,https://openalex.org/W2065469900
+1312,Molecular Biology,No evidence for increased transmissibility from recurrent mutations in SARS-CoV-2,https://doi.org/10.1038/s41467-020-19818-2,2020,312,https://openalex.org/W3106674057
+1312,Molecular Biology,ICTV Virus Taxonomy Profile: Geminiviridae 2021,https://doi.org/10.1099/jgv.0.001696,2021,266,https://openalex.org/W4200550798
+1312,Molecular Biology,Fungal Planet description sheets: 400–468,https://doi.org/10.3767/003158516x692185,2016,244,https://openalex.org/W2485412800
+1312,Molecular Biology,Vanillin formation from ferulic acid in Vanilla planifolia is catalysed by a single enzyme,https://doi.org/10.1038/ncomms5037,2014,224,https://openalex.org/W2131681747
+1312,Molecular Biology,Another continental pool in the terrestrial silicon cycle,https://doi.org/10.1038/nature03217,2005,211,https://openalex.org/W1994358078
 1208,Literature and Literary Theory,Introduction aux discours coloniaux,https://doi.org/10.14375/np.9782840508120,2011,29,https://openalex.org/W2298946300
 1208,Literature and Literary Theory,Formation en langues et littératie numérique en contextes ouverts,https://doi.org/10.17184/eac.9782813003911,2021,17,https://openalex.org/W3153782140
 1208,Literature and Literary Theory,"Trauma Narrative, Memorialization, and Mourning in Phyllis Alesia Perry's Stigmata",https://doi.org/10.1353/slj.0.0015,2008,14,https://openalex.org/W2086837114
+1208,Literature and Literary Theory,"Citoyenneté numérique et didactique des langues, quels points de contacts ?",https://doi.org/10.4000/lidil.9204,2021,11,https://openalex.org/W3153319223
+1208,Literature and Literary Theory,A deepfake-based study on facial expressiveness and social outcomes,https://doi.org/10.1038/s41598-024-53475-5,2024,8,https://openalex.org/W4391776397
+1208,Literature and Literary Theory,Learner Beliefs on L2 Attitudes and Motivation: An Exploratory Study,,2007,6,https://openalex.org/W2240714827
+1208,Literature and Literary Theory,Lehr- und Lernkompetenzen für die Interkomprehension. Perspektiven für die mehrsprachige Bildung,https://doi.org/10.31244/9783830992356,2020,5,https://openalex.org/W3003204244
+1208,Literature and Literary Theory,How do students develop intercultural competence during international mobility?,https://doi.org/10.1016/j.ijintrel.2024.102132,2025,4,https://openalex.org/W4401714100
+1208,Literature and Literary Theory,"Globalization and Change in India: The Rise of an ""Indian Dream"" in Miss New India: An Interview with Bharati Mukherjee",https://doi.org/10.1093/melus/mlu023,2014,3,https://openalex.org/W2054600563
+1208,Literature and Literary Theory,Le voyage imaginaire chez Cyrano et Fontenelle : expérience de pensée ou fable allégorique ?,https://doi.org/10.3917/dss.183.0393,2018,3,https://openalex.org/W2892239186
 1207,History and Philosophy of Science,Diagrams in the theory of differential equations (eighteenth to nineteenth centuries),https://doi.org/10.1007/s11229-012-0069-z,2012,11,https://openalex.org/W2044747879
 1207,History and Philosophy of Science,Outre-Mers. Revue d’histoire,https://doi.org/10.1163/_afco_asc_693,2014,10,https://openalex.org/W4295534827
 1207,History and Philosophy of Science,"Métissage, multi-appartenance, créolité à l’Île de La Réunion",https://doi.org/10.7202/1026164ar,2014,7,https://openalex.org/W1605694499
+1207,History and Philosophy of Science,"Maurice, petit pays, grandes ambitions",https://doi.org/10.4000/cybergeo.25660,2012,5,https://openalex.org/W1517631574
+1207,History and Philosophy of Science,The Cult of Maréchal Pétain and the Enrolment of Youth under Governor Annet (1941–1942),https://doi.org/10.1080/09523367.2011.592760,2011,4,https://openalex.org/W1971150992
+1207,History and Philosophy of Science,"Sport and Decolonisation: The Community Games, April 1960",https://doi.org/10.1080/09523367.2011.592766,2011,4,https://openalex.org/W1964564412
+1207,History and Philosophy of Science,"Published registered reports are rare, limited to one journal group, and inadequate for randomized controlled trials in the clinical field",https://doi.org/10.1016/j.jclinepi.2023.05.016,2023,4,https://openalex.org/W4378417928
+1207,History and Philosophy of Science,Le voyage imaginaire chez Cyrano et Fontenelle : expérience de pensée ou fable allégorique ?,https://doi.org/10.3917/dss.183.0393,2018,3,https://openalex.org/W2892239186
+1207,History and Philosophy of Science,Le musée de Villèle à La Réunion entre histoire et mémoire de l’esclavage. Un haut lieu de l’histoire sociale réunionnaise,https://doi.org/10.4000/insitu.10027,2013,3,https://openalex.org/W1987404648
+1207,History and Philosophy of Science,L'observatoire d'Ambohidempona à Madagascar (1888–1923): Pouvoir jésuite et science coloniale,https://doi.org/10.1353/fch.2011.0029,2011,3,https://openalex.org/W2097332220

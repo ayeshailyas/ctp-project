@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-1312,Molecular Biology,"Empagliflozin, Cardiovascular Outcomes, and Mortality in Type 2 Diabetes",https://doi.org/10.1056/nejmoa1504720,2015,11326,https://openalex.org/W2146264128
-1312,Molecular Biology,VSEARCH: a versatile open source tool for metagenomics,https://doi.org/10.7717/peerj.2584,2016,9988,https://openalex.org/W2513506562
-1312,Molecular Biology,Signatures of mutational processes in human cancer,https://doi.org/10.1038/nature12477,2013,9727,https://openalex.org/W2152061559
-3312,Sociology and Political Science,PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation,https://doi.org/10.7326/m18-0850,2018,33210,https://openalex.org/W2891378911
-3312,Sociology and Political Science,Sample Size in Qualitative Interview Studies,https://doi.org/10.1177/1049732315617444,2015,8786,https://openalex.org/W2305278139
-3312,Sociology and Political Science,"Dementia prevention, intervention, and care",https://doi.org/10.1016/s0140-6736(17)31363-6,2017,5936,https://openalex.org/W2736307756
-2746,Surgery,Evolocumab and Clinical Outcomes in Patients with Cardiovascular Disease,https://doi.org/10.1056/nejmoa1615664,2017,5517,https://openalex.org/W2596179513
-2746,Surgery,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4779,https://openalex.org/W2953804067
+1312,Molecular Biology,"Empagliflozin, Cardiovascular Outcomes, and Mortality in Type 2 Diabetes",https://doi.org/10.1056/nejmoa1504720,2015,11362,https://openalex.org/W2146264128
+1312,Molecular Biology,VSEARCH: a versatile open source tool for metagenomics,https://doi.org/10.7717/peerj.2584,2016,10001,https://openalex.org/W2513506562
+1312,Molecular Biology,Signatures of mutational processes in human cancer,https://doi.org/10.1038/nature12477,2013,9747,https://openalex.org/W2152061559
+1312,Molecular Biology,RNAmmer: consistent and rapid annotation of ribosomal RNA genes,https://doi.org/10.1093/nar/gkm160,2007,6084,https://openalex.org/W2045843097
+1312,Molecular Biology,"The genomic and transcriptomic architecture of 2,000 breast tumours reveals novel subgroups",https://doi.org/10.1038/nature10983,2012,6052,https://openalex.org/W2005895632
+1312,Molecular Biology,Biological properties of extracellular vesicles and their physiological functions,https://doi.org/10.3402/jev.v4.27066,2015,5548,https://openalex.org/W2170852633
+1312,Molecular Biology,Integrated genomic characterization of endometrial carcinoma,https://doi.org/10.1038/nature12113,2013,5483,https://openalex.org/W2041440766
+1312,Molecular Biology,Landscape of transcription in human cells,https://doi.org/10.1038/nature11233,2012,5272,https://openalex.org/W2166810745
+1312,Molecular Biology,Tisagenlecleucel in Children and Young Adults with B-Cell Lymphoblastic Leukemia,https://doi.org/10.1056/nejmoa1709866,2018,5226,https://openalex.org/W2787301955
+1312,Molecular Biology,A standardised static<i>in vitro</i>digestion method suitable for food – an international consensus,https://doi.org/10.1039/c3fo60702j,2014,5062,https://openalex.org/W2160446463
+3312,Sociology and Political Science,PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation,https://doi.org/10.7326/m18-0850,2018,33616,https://openalex.org/W2891378911
+3312,Sociology and Political Science,Sample Size in Qualitative Interview Studies,https://doi.org/10.1177/1049732315617444,2015,8885,https://openalex.org/W2305278139
+3312,Sociology and Political Science,"Dementia prevention, intervention, and care",https://doi.org/10.1016/s0140-6736(17)31363-6,2017,5949,https://openalex.org/W2736307756
+3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2973,https://openalex.org/W2161411308
+3312,Sociology and Political Science,The ODD protocol: A review and first update,https://doi.org/10.1016/j.ecolmodel.2010.08.019,2010,2364,https://openalex.org/W2140862057
+3312,Sociology and Political Science,"Immigrant Youth: Acculturation, Identity, and Adaptation",https://doi.org/10.1111/j.1464-0597.2006.00256.x,2006,2098,https://openalex.org/W2102576863
+3312,Sociology and Political Science,Effects of COVID-19 on business and research,https://doi.org/10.1016/j.jbusres.2020.06.008,2020,1956,https://openalex.org/W3033668954
+3312,Sociology and Political Science,Scientists’ warning to humanity: microorganisms and climate change,https://doi.org/10.1038/s41579-019-0222-5,2019,1927,https://openalex.org/W2952982270
+3312,Sociology and Political Science,The qualitative interview in IS research: Examining the craft,https://doi.org/10.1016/j.infoandorg.2006.11.001,2007,1819,https://openalex.org/W2086673082
+3312,Sociology and Political Science,"Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission",https://doi.org/10.1016/s0140-6736(24)01296-0,2024,1809,https://openalex.org/W4401164724
+2746,Surgery,Evolocumab and Clinical Outcomes in Patients with Cardiovascular Disease,https://doi.org/10.1056/nejmoa1615664,2017,5542,https://openalex.org/W2596179513
+2746,Surgery,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4782,https://openalex.org/W2953804067
 2746,Surgery,Isolated Hand Paresis: A Case Series,https://doi.org/10.1159/000350708,2013,4070,https://openalex.org/W2067395123
-2303,Ecology,Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems,https://doi.org/10.1016/s0140-6736(18)31788-4,2019,9471,https://openalex.org/W2909678677
-2303,Ecology,Persistence of soil organic matter as an ecosystem property,https://doi.org/10.1038/nature10386,2011,5562,https://openalex.org/W2132484323
-2303,Ecology,Using the satellite-derived NDVI to assess ecological responses to environmental change,https://doi.org/10.1016/j.tree.2005.05.011,2005,3186,https://openalex.org/W2153989276
-2306,Global and Planetary Change,The ERA5 global reanalysis,https://doi.org/10.1002/qj.3803,2020,26251,https://openalex.org/W3025949386
-2306,Global and Planetary Change,Bounding the role of black carbon in the climate system: A scientific assessment,https://doi.org/10.1002/jgrd.50171,2013,6454,https://openalex.org/W1907369419
-2306,Global and Planetary Change,Persistence of soil organic matter as an ecosystem property,https://doi.org/10.1038/nature10386,2011,5562,https://openalex.org/W2132484323
-3600,General Health Professions,The Cochrane Collaboration's tool for assessing risk of bias in randomised trials,https://doi.org/10.1136/bmj.d5928,2011,32221,https://openalex.org/W2098923148
-3600,General Health Professions,Depression and Quality of Life in Older Persons: A Review,https://doi.org/10.1159/000437299,2015,14077,https://openalex.org/W1845447069
-3600,General Health Professions,World Health Organization 2020 guidelines on physical activity and sedentary behaviour,https://doi.org/10.1136/bjsports-2020-102955,2020,9202,https://openalex.org/W3108106255
-2210,Mechanical Engineering,Improved allometric models to estimate the aboveground biomass of tropical trees,https://doi.org/10.1111/gcb.12629,2014,2692,https://openalex.org/W2133613984
-2210,Mechanical Engineering,Global Carbon Budget 2020,https://doi.org/10.5194/essd-12-3269-2020,2020,2406,https://openalex.org/W3093432062
+2746,Surgery,NLRP3 inflammasomes are required for atherogenesis and activated by cholesterol crystals,https://doi.org/10.1038/nature08938,2010,3764,https://openalex.org/W1972483153
+2746,Surgery,Empagliflozin and Progression of Kidney Disease in Type 2 Diabetes,https://doi.org/10.1056/nejmoa1515920,2016,3467,https://openalex.org/W2424539745
+2746,Surgery,"Prevention of cardiovascular events with an antihypertensive regimen of amlodipine adding perindopril as required versus atenolol adding bendroflumethiazide as required, in the Anglo-Scandinavian Cardiac Outcomes Trial-Blood Pressure Lowering Arm (ASCOT-BPLA): a multicentre randomised controlled trial",https://doi.org/10.1016/s0140-6736(05)67185-1,2005,2894,https://openalex.org/W2129991662
+2746,Surgery,Variant of <i>TREM2</i> Associated with the Risk of Alzheimer's Disease,https://doi.org/10.1056/nejmoa1211103,2012,2481,https://openalex.org/W2128613449
+2746,Surgery,Neoadjuvant Chemotherapy or Primary Surgery in Stage IIIC or IV Ovarian Cancer,https://doi.org/10.1056/nejmoa0908806,2010,2427,https://openalex.org/W2106767659
+2746,Surgery,The effects of lowering LDL cholesterol with simvastatin plus ezetimibe in patients with chronic kidney disease (Study of Heart and Renal Protection): a randomised placebo-controlled trial,https://doi.org/10.1016/s0140-6736(11)60739-3,2011,2405,https://openalex.org/W2134120087
+2746,Surgery,Statins and risk of incident diabetes: a collaborative meta-analysis of randomised statin trials,https://doi.org/10.1016/s0140-6736(09)61965-6,2010,2398,https://openalex.org/W2115169717
+2303,Ecology,Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems,https://doi.org/10.1016/s0140-6736(18)31788-4,2019,9538,https://openalex.org/W2909678677
+2303,Ecology,Persistence of soil organic matter as an ecosystem property,https://doi.org/10.1038/nature10386,2011,5583,https://openalex.org/W2132484323
+2303,Ecology,Using the satellite-derived NDVI to assess ecological responses to environmental change,https://doi.org/10.1016/j.tree.2005.05.011,2005,3205,https://openalex.org/W2153989276
+2303,Ecology,European phenological response to climate change matches the warming pattern,https://doi.org/10.1111/j.1365-2486.2006.01193.x,2006,3062,https://openalex.org/W2029411945
+2303,Ecology,Options for keeping the food system within environmental limits,https://doi.org/10.1038/s41586-018-0594-0,2018,2970,https://openalex.org/W2895932308
+2303,Ecology,Microbial biogeography: putting microorganisms on the map,https://doi.org/10.1038/nrmicro1341,2006,2911,https://openalex.org/W1985544238
+2303,Ecology,China and India lead in greening of the world through land-use management,https://doi.org/10.1038/s41893-019-0220-7,2019,2663,https://openalex.org/W2912077313
+2303,Ecology,A communal catalogue reveals Earth’s multiscale microbial diversity,https://doi.org/10.1038/nature24621,2017,2644,https://openalex.org/W2766358903
+2303,Ecology,Lakes and reservoirs as regulators of carbon cycling and climate,https://doi.org/10.4319/lo.2009.54.6_part_2.2298,2009,2613,https://openalex.org/W2108686678
+2303,Ecology,Multivariate dispersion as a measure of beta diversity,https://doi.org/10.1111/j.1461-0248.2006.00926.x,2006,2555,https://openalex.org/W2127366570
+2306,Global and Planetary Change,The ERA5 global reanalysis,https://doi.org/10.1002/qj.3803,2020,26412,https://openalex.org/W3025949386
+2306,Global and Planetary Change,Bounding the role of black carbon in the climate system: A scientific assessment,https://doi.org/10.1002/jgrd.50171,2013,6477,https://openalex.org/W1907369419
+2306,Global and Planetary Change,Persistence of soil organic matter as an ecosystem property,https://doi.org/10.1038/nature10386,2011,5583,https://openalex.org/W2132484323
+2306,Global and Planetary Change,Organic aerosol and global climate modelling: a review,https://doi.org/10.5194/acp-5-1053-2005,2005,3668,https://openalex.org/W2127510753
+2306,Global and Planetary Change,The Twentieth Century Reanalysis Project,https://doi.org/10.1002/qj.776,2011,3634,https://openalex.org/W2165242200
+2306,Global and Planetary Change,Using the satellite-derived NDVI to assess ecological responses to environmental change,https://doi.org/10.1016/j.tree.2005.05.011,2005,3205,https://openalex.org/W2153989276
+2306,Global and Planetary Change,A standard protocol for describing individual-based and agent-based models,https://doi.org/10.1016/j.ecolmodel.2006.04.023,2006,2880,https://openalex.org/W2145408484
+2306,Global and Planetary Change,China and India lead in greening of the world through land-use management,https://doi.org/10.1038/s41893-019-0220-7,2019,2663,https://openalex.org/W2912077313
+2306,Global and Planetary Change,Assessing the generality of global leaf trait relationships,https://doi.org/10.1111/j.1469-8137.2005.01349.x,2005,2556,https://openalex.org/W2153478495
+2306,Global and Planetary Change,Multivariate dispersion as a measure of beta diversity,https://doi.org/10.1111/j.1461-0248.2006.00926.x,2006,2555,https://openalex.org/W2127366570
+3600,General Health Professions,The Cochrane Collaboration's tool for assessing risk of bias in randomised trials,https://doi.org/10.1136/bmj.d5928,2011,32317,https://openalex.org/W2098923148
+3600,General Health Professions,Depression and Quality of Life in Older Persons: A Review,https://doi.org/10.1159/000437299,2015,14078,https://openalex.org/W1845447069
+3600,General Health Professions,World Health Organization 2020 guidelines on physical activity and sedentary behaviour,https://doi.org/10.1136/bjsports-2020-102955,2020,9291,https://openalex.org/W3108106255
+3600,General Health Professions,"Dementia prevention, intervention, and care",https://doi.org/10.1016/s0140-6736(17)31363-6,2017,5949,https://openalex.org/W2736307756
+3600,General Health Professions,Audit and feedback: effects on professional practice and healthcare outcomes,https://doi.org/10.1002/14651858.cd000259.pub3,2012,5445,https://openalex.org/W2105501846
+3600,General Health Professions,What is “quality of evidence” and why is it important to clinicians?,https://doi.org/10.1136/bmj.39490.551019.be,2008,3110,https://openalex.org/W2134236426
+3600,General Health Professions,GRADE guidelines: A new series of articles in the Journal of Clinical Epidemiology,https://doi.org/10.1016/j.jclinepi.2010.09.011,2010,2908,https://openalex.org/W2136403658
+3600,General Health Professions,Systematic text condensation: A strategy for qualitative analysis,https://doi.org/10.1177/1403494812465030,2012,2172,https://openalex.org/W2078904464
+3600,General Health Professions,"Patient safety, satisfaction, and quality of hospital care: cross sectional surveys of nurses and patients in 12 countries in Europe and the United States",https://doi.org/10.1136/bmj.e1717,2012,1943,https://openalex.org/W2126980369
+3600,General Health Professions,Continuing education meetings and workshops: effects on professional practice and health care outcomes,https://doi.org/10.1002/14651858.cd003030.pub2,2009,1783,https://openalex.org/W2111892415
+2210,Mechanical Engineering,Improved allometric models to estimate the aboveground biomass of tropical trees,https://doi.org/10.1111/gcb.12629,2014,2703,https://openalex.org/W2133613984
+2210,Mechanical Engineering,Global Carbon Budget 2020,https://doi.org/10.5194/essd-12-3269-2020,2020,2407,https://openalex.org/W3093432062
 2210,Mechanical Engineering,Trends in the sources and sinks of carbon dioxide,https://doi.org/10.1038/ngeo689,2009,2173,https://openalex.org/W2009163215
-1902,Atmospheric Science,The ERA5 global reanalysis,https://doi.org/10.1002/qj.3803,2020,26251,https://openalex.org/W3025949386
-1902,Atmospheric Science,"Wrong DOI, But Not my fault",https://doi.org/10.2458/azujsrc.55.16947,2010,9922,https://openalex.org/W2146687568
-1902,Atmospheric Science,Bounding the role of black carbon in the climate system: A scientific assessment,https://doi.org/10.1002/jgrd.50171,2013,6454,https://openalex.org/W1907369419
-2208,Electrical and Electronic Engineering,The atomic simulation environment—a Python library for working with atoms,https://doi.org/10.1088/1361-648x/aa680e,2017,4142,https://openalex.org/W2601081289
-2208,Electrical and Electronic Engineering,Tisagenlecleucel in Adult Relapsed or Refractory Diffuse Large B-Cell Lymphoma,https://doi.org/10.1056/nejmoa1804980,2018,3754,https://openalex.org/W2903062212
-2208,Electrical and Electronic Engineering,Mobile Edge Computing: A Survey,https://doi.org/10.1109/jiot.2017.2750180,2017,2318,https://openalex.org/W2751904527
-2739,"Public Health, Environmental and Occupational Health",GRADE: an emerging consensus on rating quality of evidence and strength of recommendations,https://doi.org/10.1136/bmj.39489.470347.ad,2008,19797,https://openalex.org/W2165010366
-2739,"Public Health, Environmental and Occupational Health","Global, regional, and national prevalence of overweight and obesity in children and adults during 1980–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(14)60460-8,2014,11822,https://openalex.org/W2163710303
-2739,"Public Health, Environmental and Occupational Health",Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems,https://doi.org/10.1016/s0140-6736(18)31788-4,2019,9471,https://openalex.org/W2909678677
+2210,Mechanical Engineering,Metal additive manufacturing in aerospace: A review,https://doi.org/10.1016/j.matdes.2021.110008,2021,1817,https://openalex.org/W3186352373
+2210,Mechanical Engineering,Conversion of Methanol to Hydrocarbons: How Zeolite Cavity and Pore Size Controls Product Selectivity,https://doi.org/10.1002/anie.201103657,2012,1739,https://openalex.org/W2053428471
+2210,Mechanical Engineering,Metallurgical recovery of metals from electronic waste: A review,https://doi.org/10.1016/j.jhazmat.2008.02.001,2008,1679,https://openalex.org/W2039034839
+2210,Mechanical Engineering,Global Carbon Budget 2019,https://doi.org/10.5194/essd-11-1783-2019,2019,1659,https://openalex.org/W2979653715
+2210,Mechanical Engineering,Global Carbon Budget 2018,https://doi.org/10.5194/essd-10-2141-2018,2018,1601,https://openalex.org/W2915336810
+2210,Mechanical Engineering,The material footprint of nations,https://doi.org/10.1073/pnas.1220362110,2013,1500,https://openalex.org/W2045987553
+2210,Mechanical Engineering,Global Carbon Budget 2017,https://doi.org/10.5194/essd-10-405-2018,2018,1130,https://openalex.org/W2915841000
+1902,Atmospheric Science,The ERA5 global reanalysis,https://doi.org/10.1002/qj.3803,2020,26412,https://openalex.org/W3025949386
+1902,Atmospheric Science,"IntCal13 and Marine13 Radiocarbon Age Calibration Curves 0–50,000 Years cal BP",https://doi.org/10.2458/azu_js_rc.55.16947,2013,9931,https://openalex.org/W2146687568
+1902,Atmospheric Science,Bounding the role of black carbon in the climate system: A scientific assessment,https://doi.org/10.1002/jgrd.50171,2013,6477,https://openalex.org/W1907369419
+1902,Atmospheric Science,Plešovice zircon — A new natural reference material for U–Pb and Hf isotopic microanalysis,https://doi.org/10.1016/j.chemgeo.2007.11.005,2007,4857,https://openalex.org/W2169766597
+1902,Atmospheric Science,"The formation, properties and impact of secondary organic aerosol: current and emerging issues",https://doi.org/10.5194/acp-9-5155-2009,2009,4369,https://openalex.org/W2116507044
+1902,Atmospheric Science,Organic aerosol and global climate modelling: a review,https://doi.org/10.5194/acp-5-1053-2005,2005,3668,https://openalex.org/W2127510753
+1902,Atmospheric Science,The Twentieth Century Reanalysis Project,https://doi.org/10.1002/qj.776,2011,3634,https://openalex.org/W2165242200
+1902,Atmospheric Science,A Geologic Time Scale 2004,https://doi.org/10.1017/cbo9780511536045,2005,2998,https://openalex.org/W1630322587
+1902,Atmospheric Science,Lakes and reservoirs as regulators of carbon cycling and climate,https://doi.org/10.4319/lo.2009.54.6_part_2.2298,2009,2613,https://openalex.org/W2108686678
+1902,Atmospheric Science,The Global Methane Budget 2000–2017,https://doi.org/10.5194/essd-12-1561-2020,2020,2436,https://openalex.org/W2972407136
+2208,Electrical and Electronic Engineering,The atomic simulation environment—a Python library for working with atoms,https://doi.org/10.1088/1361-648x/aa680e,2017,4157,https://openalex.org/W2601081289
+2208,Electrical and Electronic Engineering,Tisagenlecleucel in Adult Relapsed or Refractory Diffuse Large B-Cell Lymphoma,https://doi.org/10.1056/nejmoa1804980,2018,3765,https://openalex.org/W2903062212
+2208,Electrical and Electronic Engineering,Mobile Edge Computing: A Survey,https://doi.org/10.1109/jiot.2017.2750180,2017,2323,https://openalex.org/W2751904527
+2208,Electrical and Electronic Engineering,"Niraparib Maintenance Therapy in Platinum-Sensitive, Recurrent Ovarian Cancer",https://doi.org/10.1056/nejmoa1611310,2016,2315,https://openalex.org/W2528228811
+2208,Electrical and Electronic Engineering,Neuromorphic Silicon Neuron Circuits,https://doi.org/10.3389/fnins.2011.00073,2011,1723,https://openalex.org/W2156640153
+2208,Electrical and Electronic Engineering,Comparative Environmental Life Cycle Assessment of Conventional and Electric Vehicles,https://doi.org/10.1111/j.1530-9290.2012.00532.x,2012,1503,https://openalex.org/W2167885723
+2208,Electrical and Electronic Engineering,Smart sustainable cities of the future: An extensive interdisciplinary literature review,https://doi.org/10.1016/j.scs.2017.02.016,2017,1385,https://openalex.org/W2594141822
+2208,Electrical and Electronic Engineering,The Lattice Boltzmann Method,https://doi.org/10.1007/978-3-319-44649-3,2016,1304,https://openalex.org/W4239647010
+2208,Electrical and Electronic Engineering,"Properties, requirements and possibilities of smart windows for dynamic daylight and solar energy control in buildings: A state-of-the-art review",https://doi.org/10.1016/j.solmat.2009.08.021,2009,1259,https://openalex.org/W2040599106
+2208,Electrical and Electronic Engineering,UAV Communications for 5G and Beyond: Recent Advances and Future Trends,https://doi.org/10.1109/jiot.2018.2887086,2018,1154,https://openalex.org/W2904947504
+2739,"Public Health, Environmental and Occupational Health",GRADE: an emerging consensus on rating quality of evidence and strength of recommendations,https://doi.org/10.1136/bmj.39489.470347.ad,2008,19894,https://openalex.org/W2165010366
+2739,"Public Health, Environmental and Occupational Health","Global, regional, and national prevalence of overweight and obesity in children and adults during 1980–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(14)60460-8,2014,11837,https://openalex.org/W2163710303
+2739,"Public Health, Environmental and Occupational Health",Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems,https://doi.org/10.1016/s0140-6736(18)31788-4,2019,9538,https://openalex.org/W2909678677
+2739,"Public Health, Environmental and Occupational Health",GRADE guidelines: 1. Introduction—GRADE evidence profiles and summary of findings tables,https://doi.org/10.1016/j.jclinepi.2010.04.026,2011,9511,https://openalex.org/W2104675861
+2739,"Public Health, Environmental and Occupational Health",World Health Organization 2020 guidelines on physical activity and sedentary behaviour,https://doi.org/10.1136/bjsports-2020-102955,2020,9291,https://openalex.org/W3108106255
+2739,"Public Health, Environmental and Occupational Health","Global, regional, and national comparative risk assessment of 79 behavioural, environmental and occupational, and metabolic risks or clusters of risks, 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015",https://doi.org/10.1016/s0140-6736(16)31679-8,2016,7677,https://openalex.org/W1617145133
+2739,"Public Health, Environmental and Occupational Health",GRADE guidelines: 3. Rating the quality of evidence,https://doi.org/10.1016/j.jclinepi.2010.07.015,2011,7551,https://openalex.org/W2135400982
+2739,"Public Health, Environmental and Occupational Health","Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(15)60692-4,2015,6355,https://openalex.org/W2098082628
+2739,"Public Health, Environmental and Occupational Health","Global physical activity levels: surveillance progress, pitfalls, and prospects",https://doi.org/10.1016/s0140-6736(12)60646-1,2012,5645,https://openalex.org/W2114538920
+2739,"Public Health, Environmental and Occupational Health",Audit and feedback: effects on professional practice and healthcare outcomes,https://doi.org/10.1002/14651858.cd000259.pub3,2012,5445,https://openalex.org/W2105501846

@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-2505,Materials Chemistry,High energy density in silver niobate ceramics,https://doi.org/10.1039/c6ta06353e,2016,376,https://openalex.org/W2513003334
-2505,Materials Chemistry,Light-induced reactivity of gold and hybrid perovskite as a new possible degradation mechanism in perovskite solar cells,https://doi.org/10.1039/c7ta10217h,2017,170,https://openalex.org/W2777276934
+2505,Materials Chemistry,High energy density in silver niobate ceramics,https://doi.org/10.1039/c6ta06353e,2016,377,https://openalex.org/W2513003334
+2505,Materials Chemistry,Light-induced reactivity of gold and hybrid perovskite as a new possible degradation mechanism in perovskite solar cells,https://doi.org/10.1039/c7ta10217h,2017,171,https://openalex.org/W2777276934
 2505,Materials Chemistry,Ethanol conversion into butadiene over Zr-containing molecular sieves doped with silver,https://doi.org/10.1039/c4gc02202e,2015,146,https://openalex.org/W1977913338
-1312,Molecular Biology,“Green” Nanotechnologies: Synthesis of Metal Nanoparticles Using Plants,https://doi.org/10.32607/20758251-2014-6-1-35-44,2014,1592,https://openalex.org/W4294117312
-1312,Molecular Biology,Nanocarriers for delivery of platinum anticancer drugs,https://doi.org/10.1016/j.addr.2013.09.014,2013,385,https://openalex.org/W2091945030
-1312,Molecular Biology,"Effects of light intensity and nitrogen starvation on growth, total fatty acids and arachidonic acid in the green microalga Parietochloris incisa",https://doi.org/10.1007/s10811-007-9233-0,2007,353,https://openalex.org/W2103464952
+2505,Materials Chemistry,"Oxidation, defunctionalization and catalyst life cycle of carbon nanotubes: a Raman spectroscopy view",https://doi.org/10.1039/c6cp04657f,2016,127,https://openalex.org/W2564241218
+2505,Materials Chemistry,"Exploring viscosity, polarity and temperature sensitivity of BODIPY-based molecular rotors",https://doi.org/10.1039/c7cp03571c,2017,124,https://openalex.org/W2735343230
+2505,Materials Chemistry,Control of triplet state generation in heavy atom-free BODIPY–anthracene dyads by media polarity and structural factors,https://doi.org/10.1039/c7cp08472b,2018,123,https://openalex.org/W2787329441
+2505,Materials Chemistry,Heat Stress-Induced DNA Damage,https://doi.org/10.32607/20758251-2016-8-2-75-78,2016,118,https://openalex.org/W2437819969
+2505,Materials Chemistry,Modelling energy deposition in nanoscintillators to predict the efficiency of the X-ray-induced photodynamic effect,https://doi.org/10.1039/c4nr07444k,2015,94,https://openalex.org/W2094927447
+2505,Materials Chemistry,Metal nanoparticles in condensed media: preparation and the bulk and surface structural dynamics,https://doi.org/10.1070/rc2011v080n07abeh004201,2011,90,https://openalex.org/W2047837045
+2505,Materials Chemistry,Simulation of three-dimensional nonlinear fields of ultrasound therapeutic arrays,https://doi.org/10.1134/s1063771011030213,2011,87,https://openalex.org/W2072280985
+1312,Molecular Biology,“Green” Nanotechnologies: Synthesis of Metal Nanoparticles Using Plants,https://doi.org/10.32607/20758251-2014-6-1-35-44,2014,1596,https://openalex.org/W4294117312
+1312,Molecular Biology,Nanocarriers for delivery of platinum anticancer drugs,https://doi.org/10.1016/j.addr.2013.09.014,2013,387,https://openalex.org/W2091945030
+1312,Molecular Biology,"Effects of light intensity and nitrogen starvation on growth, total fatty acids and arachidonic acid in the green microalga Parietochloris incisa",https://doi.org/10.1007/s10811-007-9233-0,2007,354,https://openalex.org/W2103464952
+1312,Molecular Biology,Phytosterols: From Preclinical Evidence to Potential Clinical Applications,https://doi.org/10.3389/fphar.2020.599959,2021,262,https://openalex.org/W3119957195
+1312,Molecular Biology,Polymer micelles with cross-linked polyanion core for delivery of a cationic drug doxorubicin,https://doi.org/10.1016/j.jconrel.2009.04.019,2009,245,https://openalex.org/W2066888617
+1312,Molecular Biology,Fungal Planet description sheets: 400–468,https://doi.org/10.3767/003158516x692185,2016,244,https://openalex.org/W2485412800
+1312,Molecular Biology,Impact of Natural Compounds on Neurodegenerative Disorders: From Preclinical to Pharmacotherapeutics,https://doi.org/10.3390/jcm9041061,2020,235,https://openalex.org/W3015885418
+1312,Molecular Biology,"Membrane Protein Structure, Function, and Dynamics: a Perspective from Experiments and Theory",https://doi.org/10.1007/s00232-015-9802-0,2015,233,https://openalex.org/W2103496068
+1312,Molecular Biology,Fungal Planet description sheets: 716–784,https://doi.org/10.3767/persoonia.2018.40.10,2018,218,https://openalex.org/W2884861945
+1312,Molecular Biology,Evolutionary signals of selection on cognition from the great tit genome and methylome,https://doi.org/10.1038/ncomms10474,2016,216,https://openalex.org/W2272717953
 3312,Sociology and Political Science,Vulnerability assessment in natural hazard and risk analysis: current approaches and future challenges,https://doi.org/10.1007/s11069-012-0352-9,2012,212,https://openalex.org/W1968515196
 3312,Sociology and Political Science,Editorial for the special issue: vulnerability to natural hazards—the challenge of integration,https://doi.org/10.1007/s11069-011-9825-5,2011,177,https://openalex.org/W2058047372
-3312,Sociology and Political Science,Digital socialization in the cultural-historical paradigm: a changing child in a changing world,https://doi.org/10.17759/sps.2018090308,2018,129,https://openalex.org/W2899404694
-3107,"Atomic and Molecular Physics, and Optics",Advances in intense femtosecond laser filamentation in air,https://doi.org/10.1134/s1054660x11190054,2011,278,https://openalex.org/W1981409858
-3107,"Atomic and Molecular Physics, and Optics",Electrically pumped photonic integrated soliton microcomb,https://doi.org/10.1038/s41467-019-08498-2,2019,204,https://openalex.org/W2897505214
+3312,Sociology and Political Science,Digital socialization in the cultural-historical paradigm: a changing child in a changing world,https://doi.org/10.17759/sps.2018090308,2018,131,https://openalex.org/W2899404694
+3312,Sociology and Political Science,"Water quality, potential conflicts and solutions—an upstream–downstream analysis of the transnational Zarafshan River (Tajikistan, Uzbekistan)",https://doi.org/10.1007/s12665-013-2988-5,2013,126,https://openalex.org/W2113806956
+3312,Sociology and Political Science,Impact of remittances on economic growth and poverty reduction amongst CIS countries,https://doi.org/10.1080/14631377.2019.1678094,2019,103,https://openalex.org/W2989447998
+3312,Sociology and Political Science,Spatial development Strategy: Priorities and instruments,https://doi.org/10.32609/0042-8736-2019-1-135-145,2019,91,https://openalex.org/W2910374955
+3312,Sociology and Political Science,Medicinal Plant Use and Health Sovereignty: Findings from the Tajik and Afghan Pamirs,https://doi.org/10.1007/s10745-010-9356-9,2010,65,https://openalex.org/W2047736172
+3312,Sociology and Political Science,Alignment of Global and National Interest with Regional Strategic Priorities,https://doi.org/10.35854/1998-1627-2021-11-900-909,2021,58,https://openalex.org/W3216307377
+3312,Sociology and Political Science,Marketing Strategy for Early Childhood Education (ECE) Schools in the Digital Age,https://doi.org/10.31004/obsesi.v7i3.4454,2023,53,https://openalex.org/W4383683807
+3312,Sociology and Political Science,"The hydrography, evolution, and hydrological regime of the mouth area of the Shatt al-Arab River",https://doi.org/10.1134/s0097807809040022,2009,51,https://openalex.org/W2083203767
+3107,"Atomic and Molecular Physics, and Optics",Advances in intense femtosecond laser filamentation in air,https://doi.org/10.1134/s1054660x11190054,2011,280,https://openalex.org/W1981409858
+3107,"Atomic and Molecular Physics, and Optics",Electrically pumped photonic integrated soliton microcomb,https://doi.org/10.1038/s41467-019-08498-2,2019,205,https://openalex.org/W2897505214
 3107,"Atomic and Molecular Physics, and Optics",Measuring the Dzyaloshinskii–Moriya interaction in a weak ferromagnet,https://doi.org/10.1038/nphys2859,2014,187,https://openalex.org/W2166744231
+3107,"Atomic and Molecular Physics, and Optics",Individual nanoantennas empowered by bound states in the continuum for nonlinear photonics,https://doi.org/10.48550/arxiv.1908.09790,2019,175,https://openalex.org/W3099725048
+3107,"Atomic and Molecular Physics, and Optics",Primary electron transfer processes in photosynthetic reaction centers from oxygenic organisms,https://doi.org/10.1007/s11120-015-0088-y,2015,126,https://openalex.org/W2111037643
+3107,"Atomic and Molecular Physics, and Optics",1.5-octave chirped mirror for pulse compression down to sub-3 fs,https://doi.org/10.1007/s00340-006-2467-8,2006,120,https://openalex.org/W2044734287
+3107,"Atomic and Molecular Physics, and Optics","Efficient 1 W continuous-wave diode-pumped Er,Yb:YAl_3(BO_3)_4 laser",https://doi.org/10.1364/ol.32.003233,2007,117,https://openalex.org/W1970791571
+3107,"Atomic and Molecular Physics, and Optics","Collinear cluster tri-partition of 252Cf (sf) and in the 235U (nth, f ) reaction",https://doi.org/10.1140/epja/i2010-10988-8,2010,82,https://openalex.org/W2077398852
+3107,"Atomic and Molecular Physics, and Optics",Carbon nanotubes film based temperature sensors,https://doi.org/10.1016/j.physe.2011.05.025,2011,80,https://openalex.org/W1988586772
+3107,"Atomic and Molecular Physics, and Optics",The electronic structure and the nature of the chemical bond in CeO<sub>2</sub>,https://doi.org/10.1039/c8cp01442f,2018,77,https://openalex.org/W2806796706
 3320,Political Science and International Relations,Цифровое предприятие: трансформация в новую реальность,https://doi.org/10.17323/1998-0663.2018.2.45.54,2018,70,https://openalex.org/W2896348450
 3320,Political Science and International Relations,Medicinal Plant Use and Health Sovereignty: Findings from the Tajik and Afghan Pamirs,https://doi.org/10.1007/s10745-010-9356-9,2010,65,https://openalex.org/W2047736172
 3320,Political Science and International Relations,An Environmental history of Russia,https://doi.org/10.5860/choice.51-2049,2013,54,https://openalex.org/W1537145691
-2208,Electrical and Electronic Engineering,Electrically pumped photonic integrated soliton microcomb,https://doi.org/10.1038/s41467-019-08498-2,2019,204,https://openalex.org/W2897505214
+3320,Political Science and International Relations,"Perception of basic values, factors and structures socio-historical development of Russia (based on research and testing materials)",https://doi.org/10.12737/2587-6295-2022-6-3-9-19,2022,44,https://openalex.org/W4306168743
+3320,Political Science and International Relations,Economic Development and Sociopolitical Destabilization: A Re-Analysis,https://doi.org/10.21237/c7clio9137314,2018,37,https://openalex.org/W2623609288
+3320,Political Science and International Relations,Digital society: sociological perspective,https://doi.org/10.24290/1029-3736-2019-25-4-175-192,2020,37,https://openalex.org/W3005839476
+3320,Political Science and International Relations,Regions of Russia in the acute phase of the COVID crisis: differences from previous economic crises of the 2000s,https://doi.org/10.5922/1994-5280-2020-2-1,2020,31,https://openalex.org/W3080950228
+3320,Political Science and International Relations,Adapting the Tuning Programme Profiles to the Needs of Russian Higher Education,https://doi.org/10.18543/tjhe-1(1)-2013pp187-202,2014,29,https://openalex.org/W1916949401
+3320,Political Science and International Relations,Professional autonomy,https://doi.org/10.1515/nor-2015-0018,2015,27,https://openalex.org/W2234446132
+3320,Political Science and International Relations,Ecological standardization of soil and soil quality control,https://doi.org/10.1134/s1064229311050152,2011,26,https://openalex.org/W2061905417
+2208,Electrical and Electronic Engineering,Electrically pumped photonic integrated soliton microcomb,https://doi.org/10.1038/s41467-019-08498-2,2019,205,https://openalex.org/W2897505214
 2208,Electrical and Electronic Engineering,Individual nanoantennas empowered by bound states in the continuum for nonlinear photonics,https://doi.org/10.48550/arxiv.1908.09790,2019,175,https://openalex.org/W3099725048
-2208,Electrical and Electronic Engineering,Light-induced reactivity of gold and hybrid perovskite as a new possible degradation mechanism in perovskite solar cells,https://doi.org/10.1039/c7ta10217h,2017,170,https://openalex.org/W2777276934
-1605,Organic Chemistry,Metal-catalyzed regiodivergent organic reactions,https://doi.org/10.1039/c8cs00872h,2019,281,https://openalex.org/W2954570869
-1605,Organic Chemistry,Ring Opening of Donor–Acceptor Cyclopropanes with N-Nucleophiles,https://doi.org/10.1055/s-0036-1589021,2017,189,https://openalex.org/W2615604269
+2208,Electrical and Electronic Engineering,"Amine neuromediators, their precursors, and oxidation products in the culture of Escherichia coli K-12",https://doi.org/10.1134/s0003683809050068,2009,171,https://openalex.org/W2042220721
+2208,Electrical and Electronic Engineering,Light-induced reactivity of gold and hybrid perovskite as a new possible degradation mechanism in perovskite solar cells,https://doi.org/10.1039/c7ta10217h,2017,171,https://openalex.org/W2777276934
+2208,Electrical and Electronic Engineering,Optical coating design approaches based on the needle optimization technique,https://doi.org/10.1364/ao.46.000704,2007,141,https://openalex.org/W1989172277
+2208,Electrical and Electronic Engineering,O3–Na<sub>x</sub>Mn<sub>1/3</sub>Fe<sub>2/3</sub>O<sub>2</sub>as a positive electrode material for Na-ion batteries: structural evolutions and redox mechanisms upon Na<sup>+</sup>(de)intercalation,https://doi.org/10.1039/c4ta06688j,2015,138,https://openalex.org/W2143587065
+2208,Electrical and Electronic Engineering,A hybrid polymer/oxide/ionic-liquid solid electrolyte for Na-metal batteries,https://doi.org/10.1039/c6ta11165c,2017,122,https://openalex.org/W2588208843
+2208,Electrical and Electronic Engineering,1.5-octave chirped mirror for pulse compression down to sub-3 fs,https://doi.org/10.1007/s00340-006-2467-8,2006,120,https://openalex.org/W2044734287
+2208,Electrical and Electronic Engineering,"Efficient 1 W continuous-wave diode-pumped Er,Yb:YAl_3(BO_3)_4 laser",https://doi.org/10.1364/ol.32.003233,2007,117,https://openalex.org/W1970791571
+2208,Electrical and Electronic Engineering,"An ultrafast charging polyphenylamine-based cathode material for high rate lithium, sodium and potassium batteries",https://doi.org/10.1039/c8ta11572a,2019,90,https://openalex.org/W2933916908
+1605,Organic Chemistry,Metal-catalyzed regiodivergent organic reactions,https://doi.org/10.1039/c8cs00872h,2019,283,https://openalex.org/W2954570869
+1605,Organic Chemistry,Ring Opening of Donor–Acceptor Cyclopropanes with N-Nucleophiles,https://doi.org/10.1055/s-0036-1589021,2017,190,https://openalex.org/W2615604269
 1605,Organic Chemistry,Chemodivergent reactions,https://doi.org/10.1039/d0cs00125b,2020,187,https://openalex.org/W4211052226
-2204,Biomedical Engineering,High energy density in silver niobate ceramics,https://doi.org/10.1039/c6ta06353e,2016,376,https://openalex.org/W2513003334
-2204,Biomedical Engineering,HCh: New potentialities for the thermodynamic simulation of geochemical systems offered by windows,https://doi.org/10.1134/s0016702908080089,2008,261,https://openalex.org/W2142603796
+1605,Organic Chemistry,Chitosan and its hydrophobic derivatives: Preparation and aggregation in dilute aqueous solutions,https://doi.org/10.1134/s0965545x12060107,2012,130,https://openalex.org/W2040644634
+1605,Organic Chemistry,Epibatidine: A Promising Natural Alkaloid in Health,https://doi.org/10.3390/biom9010006,2018,88,https://openalex.org/W2906609434
+1605,Organic Chemistry,Janus tricyclononene polymers bearing tri(<i>n</i>-alkoxy)silyl side groups for membrane gas separation,https://doi.org/10.1039/c8ta06034g,2018,83,https://openalex.org/W2886397861
+1605,Organic Chemistry,"1,3-Diketones. Synthesis and properties",https://doi.org/10.1134/s1070428015060019,2015,72,https://openalex.org/W1132889728
+1605,Organic Chemistry,"Methods of extraction, preconcentration, and determination of quercetin",https://doi.org/10.1134/s106193481204003x,2012,68,https://openalex.org/W1982574849
+1605,Organic Chemistry,Radical trideuteromethylation with deuterated dimethyl sulfoxide in the synthesis of heterocycles and labelled building blocks,https://doi.org/10.1039/c6cc07196a,2016,68,https://openalex.org/W2527659556
+1605,Organic Chemistry,Characterization of two types of polysaccharides from Eremurus hissaricus roots growing in Tajikistan,https://doi.org/10.1016/j.foodhyd.2020.105768,2020,68,https://openalex.org/W3006600025
+2204,Biomedical Engineering,High energy density in silver niobate ceramics,https://doi.org/10.1039/c6ta06353e,2016,377,https://openalex.org/W2513003334
+2204,Biomedical Engineering,HCh: New potentialities for the thermodynamic simulation of geochemical systems offered by windows,https://doi.org/10.1134/s0016702908080089,2008,263,https://openalex.org/W2142603796
 2204,Biomedical Engineering,"Membrane Protein Structure, Function, and Dynamics: a Perspective from Experiments and Theory",https://doi.org/10.1007/s00232-015-9802-0,2015,233,https://openalex.org/W2103496068
+2204,Biomedical Engineering,Individual nanoantennas empowered by bound states in the continuum for nonlinear photonics,https://doi.org/10.48550/arxiv.1908.09790,2019,175,https://openalex.org/W3099725048
+2204,Biomedical Engineering,Ethanol conversion into butadiene over Zr-containing molecular sieves doped with silver,https://doi.org/10.1039/c4gc02202e,2015,146,https://openalex.org/W1977913338
+2204,Biomedical Engineering,Optical coating design approaches based on the needle optimization technique,https://doi.org/10.1364/ao.46.000704,2007,141,https://openalex.org/W1989172277
+2204,Biomedical Engineering,"Exploring viscosity, polarity and temperature sensitivity of BODIPY-based molecular rotors",https://doi.org/10.1039/c7cp03571c,2017,124,https://openalex.org/W2735343230
+2204,Biomedical Engineering,Modelling energy deposition in nanoscintillators to predict the efficiency of the X-ray-induced photodynamic effect,https://doi.org/10.1039/c4nr07444k,2015,94,https://openalex.org/W2094927447
+2204,Biomedical Engineering,Polyaniline based impedance humidity sensors,https://doi.org/10.1016/j.solidstatesciences.2013.01.005,2013,91,https://openalex.org/W1966500962
+2204,Biomedical Engineering,Metal nanoparticles in condensed media: preparation and the bulk and surface structural dynamics,https://doi.org/10.1070/rc2011v080n07abeh004201,2011,90,https://openalex.org/W2047837045
 2211,Mechanics of Materials,Femtosecond laser-induced breakdown spectroscopy,https://doi.org/10.1039/c5ja00301f,2015,265,https://openalex.org/W2145743502
-2211,Mechanics of Materials,HCh: New potentialities for the thermodynamic simulation of geochemical systems offered by windows,https://doi.org/10.1134/s0016702908080089,2008,261,https://openalex.org/W2142603796
+2211,Mechanics of Materials,HCh: New potentialities for the thermodynamic simulation of geochemical systems offered by windows,https://doi.org/10.1134/s0016702908080089,2008,263,https://openalex.org/W2142603796
 2211,Mechanics of Materials,Fractional integro-differential equations for electromagnetic waves in dielectric media,https://doi.org/10.1007/s11232-009-0029-z,2009,148,https://openalex.org/W2024842502
+2211,Mechanics of Materials,Femtosecond laser writing of subwave one-dimensional quasiperiodic nanostructures on a titanium surface,https://doi.org/10.1134/s0021364009140057,2009,81,https://openalex.org/W2123531100
+2211,Mechanics of Materials,Formation of nickel carbide in the course of deformation treatment of Ni-C mixtures,https://doi.org/10.1134/s0031918x10020079,2010,78,https://openalex.org/W1987187623
+2211,Mechanics of Materials,LANDSLIDES FROM MASSIVE ROCK SLOPE FAILURE AND ASSOCIATED PHENOMENA,https://doi.org/10.1007/978-1-4020-4037-5_1,2007,73,https://openalex.org/W2238796846
+2211,Mechanics of Materials,Deflagration-to-detonation transition in gases in tubes with cavities,https://doi.org/10.1007/s10891-010-0448-6,2010,67,https://openalex.org/W1986756460
+2211,Mechanics of Materials,Development and characterization of two-transducer imaging acousto-optic tunable filters with extended tuning range,https://doi.org/10.1364/ao.46.001081,2007,63,https://openalex.org/W2104836496
+2211,Mechanics of Materials,Can we reach very high intensity in air with femtosecond PW laser pulses?,https://doi.org/10.1134/s1054660x09150250,2009,63,https://openalex.org/W2066074215
+2211,Mechanics of Materials,Tien Shan Geohazards Database: Landslide susceptibility analysis,https://doi.org/10.1016/j.geomorph.2015.03.019,2015,61,https://openalex.org/W1984223470
 2210,Mechanical Engineering,Ethanol conversion into butadiene over Zr-containing molecular sieves doped with silver,https://doi.org/10.1039/c4gc02202e,2015,146,https://openalex.org/W1977913338
 2210,Mechanical Engineering,"Landslides triggered by the 1949 Khait earthquake, Tajikistan, and associated loss of life",https://doi.org/10.1016/j.enggeo.2009.08.007,2009,138,https://openalex.org/W2025909884
 2210,Mechanical Engineering,Singularly perturbed problems with boundary and internal layers,https://doi.org/10.1134/s0081543810010189,2010,91,https://openalex.org/W2106984915
+2210,Mechanical Engineering,Janus tricyclononene polymers bearing tri(<i>n</i>-alkoxy)silyl side groups for membrane gas separation,https://doi.org/10.1039/c8ta06034g,2018,83,https://openalex.org/W2886397861
+2210,Mechanical Engineering,Formation of nickel carbide in the course of deformation treatment of Ni-C mixtures,https://doi.org/10.1134/s0031918x10020079,2010,78,https://openalex.org/W1987187623
+2210,Mechanical Engineering,Investigation of the effect of accumulation of thickness errors in optical coating production by broadband optical monitoring,https://doi.org/10.1364/ao.45.007026,2006,72,https://openalex.org/W1965514257
+2210,Mechanical Engineering,The specific surface area and porous structure of graphite materials,https://doi.org/10.1134/s0036024409060260,2009,71,https://openalex.org/W1996323348
+2210,Mechanical Engineering,Creep and Long-Term Strength of Metals,https://doi.org/10.1201/b22242,2017,69,https://openalex.org/W2891575786
+2210,Mechanical Engineering,Influence of copper and potassium on the structure and carbidisation of supported iron catalysts for Fischer–Tropsch synthesis,https://doi.org/10.1039/c6cy02676a,2017,69,https://openalex.org/W2607391180
+2210,Mechanical Engineering,Syngas production by catalytic co-gasification of coal-biomass blends in a circulating fluidized bed gasifier,https://doi.org/10.1016/j.jclepro.2017.06.233,2017,66,https://openalex.org/W2730184753

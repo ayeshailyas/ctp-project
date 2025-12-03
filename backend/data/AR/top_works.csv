@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-1312,Molecular Biology,Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines,https://doi.org/10.1080/20013078.2018.1535750,2018,10297,https://openalex.org/W2900756811
-1312,Molecular Biology,Antiinflammatory Therapy with Canakinumab for Atherosclerotic Disease,https://doi.org/10.1056/nejmoa1707914,2017,8381,https://openalex.org/W2748400555
-1312,Molecular Biology,"Ferroptosis: A Regulated Cell Death Nexus Linking Metabolism, Redox Biology, and Disease",https://doi.org/10.1016/j.cell.2017.09.021,2017,6668,https://openalex.org/W2762087180
+1312,Molecular Biology,Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines,https://doi.org/10.1080/20013078.2018.1535750,2018,10328,https://openalex.org/W2900756811
+1312,Molecular Biology,Antiinflammatory Therapy with Canakinumab for Atherosclerotic Disease,https://doi.org/10.1056/nejmoa1707914,2017,8419,https://openalex.org/W2748400555
+1312,Molecular Biology,"Ferroptosis: A Regulated Cell Death Nexus Linking Metabolism, Redox Biology, and Disease",https://doi.org/10.1016/j.cell.2017.09.021,2017,6715,https://openalex.org/W2762087180
+1312,Molecular Biology,"TNT, a free program for phylogenetic analysis",https://doi.org/10.1111/j.1096-0031.2008.00217.x,2008,5266,https://openalex.org/W2151692850
+1312,Molecular Biology,Cardiovascular and Renal Outcomes with Empagliflozin in Heart Failure,https://doi.org/10.1056/nejmoa2022190,2020,4550,https://openalex.org/W3081830235
+1312,Molecular Biology,The MetaCyc database of metabolic pathways and enzymes and the BioCyc collection of pathway/genome databases,https://doi.org/10.1093/nar/gkv1164,2015,3449,https://openalex.org/W2128601422
+1312,Molecular Biology,Denosumab for Prevention of Fractures in Postmenopausal Women with Osteoporosis,https://doi.org/10.1056/nejmoa0809493,2009,3298,https://openalex.org/W2160005424
+1312,Molecular Biology,"Dulaglutide and cardiovascular outcomes in type 2 diabetes (REWIND): a double-blind, randomised placebo-controlled trial",https://doi.org/10.1016/s0140-6736(19)31149-3,2019,2678,https://openalex.org/W2948612418
+1312,Molecular Biology,"Circular RNAs in the Mammalian Brain Are Highly Abundant, Conserved, and Dynamically Expressed",https://doi.org/10.1016/j.molcel.2015.03.027,2015,2559,https://openalex.org/W1991082489
+1312,Molecular Biology,Recombinant protein expression in Escherichia coli: advances and challenges,https://doi.org/10.3389/fmicb.2014.00172,2014,2377,https://openalex.org/W2138820253
 3312,Sociology and Political Science,Guidelines of the American Thyroid Association for the Diagnosis and Management of Thyroid Disease During Pregnancy and Postpartum,https://doi.org/10.1089/thy.2011.0087,2011,2917,https://openalex.org/W2016236854
-3312,Sociology and Political Science,Pervasive human-driven decline of life on Earth points to the need for transformative change,https://doi.org/10.1126/science.aax3100,2019,2334,https://openalex.org/W2995840337
-3312,Sociology and Political Science,"Standards of Care for the Health of Transgender and Gender Diverse People, Version 8",https://doi.org/10.1080/26895269.2022.2100644,2022,2076,https://openalex.org/W4294732694
-1110,Plant Science,A global overview of drought and heat-induced tree mortality reveals emerging climate change risks for forests,https://doi.org/10.1016/j.foreco.2009.09.001,2009,7305,https://openalex.org/W2140131090
-1110,Plant Science,Global diversity and geography of soil fungi,https://doi.org/10.1126/science.1256688,2014,3367,https://openalex.org/W2145840889
-1110,Plant Science,TRY – a global database of plant traits,https://doi.org/10.1111/j.1365-2486.2011.02451.x,2011,2593,https://openalex.org/W2162584119
-2303,Ecology,A communal catalogue reveals Earth’s multiscale microbial diversity,https://doi.org/10.1038/nature24621,2017,2629,https://openalex.org/W2766358903
-2303,Ecology,Rebuilding Global Fisheries,https://doi.org/10.1126/science.1173146,2009,2151,https://openalex.org/W2156523992
-2303,Ecology,Global conservation outcomes depend on marine protected areas with five key features,https://doi.org/10.1038/nature13022,2014,1770,https://openalex.org/W1971625691
-1105,"Ecology, Evolution, Behavior and Systematics","TNT, a free program for phylogenetic analysis",https://doi.org/10.1111/j.1096-0031.2008.00217.x,2008,5262,https://openalex.org/W2151692850
-1105,"Ecology, Evolution, Behavior and Systematics",Global observed changes in daily climate extremes of temperature and precipitation,https://doi.org/10.1029/2005jd006290,2006,4321,https://openalex.org/W2000257837
-1105,"Ecology, Evolution, Behavior and Systematics",The global spectrum of plant form and function,https://doi.org/10.1038/nature16489,2015,2983,https://openalex.org/W2218052335
-3320,Political Science and International Relations,"Brokers, Voters, and Clientelism",https://doi.org/10.1017/cbo9781107324909,2013,1140,https://openalex.org/W3196446224
+3312,Sociology and Political Science,Pervasive human-driven decline of life on Earth points to the need for transformative change,https://doi.org/10.1126/science.aax3100,2019,2345,https://openalex.org/W2995840337
+3312,Sociology and Political Science,"Standards of Care for the Health of Transgender and Gender Diverse People, Version 8",https://doi.org/10.1080/26895269.2022.2100644,2022,2095,https://openalex.org/W4294732694
+3312,Sociology and Political Science,"STROCSS 2021: Strengthening the reporting of cohort, cross-sectional and case-control studies in surgery",https://doi.org/10.1016/j.ijsu.2021.106165,2021,2051,https://openalex.org/W3212282753
+3312,Sociology and Political Science,Why protect nature? Rethinking values and the environment,https://doi.org/10.1073/pnas.1525002113,2016,1567,https://openalex.org/W2272853385
+3312,Sociology and Political Science,Social research 2.0: virtual snowball sampling method using Facebook,https://doi.org/10.1108/10662241211199960,2012,1178,https://openalex.org/W2017319780
+3312,Sociology and Political Science,Acute Multidimensional Poverty: A New Index for Developing Countries,https://doi.org/10.2139/ssrn.1815243,2010,958,https://openalex.org/W2099898405
+3312,Sociology and Political Science,The human imperative of stabilizing global climate change at 1.5°C,https://doi.org/10.1126/science.aaw6974,2019,918,https://openalex.org/W2974545260
+3312,Sociology and Political Science,Unsafe abortion: the preventable pandemic,https://doi.org/10.1016/s0140-6736(06)69481-6,2006,882,https://openalex.org/W2144836996
+3312,Sociology and Political Science,Measuring Acute Poverty in the Developing World: Robustness and Scope of the Multidimensional Poverty Index,https://doi.org/10.1016/j.worlddev.2014.01.026,2014,791,https://openalex.org/W3123267936
+1110,Plant Science,A global overview of drought and heat-induced tree mortality reveals emerging climate change risks for forests,https://doi.org/10.1016/j.foreco.2009.09.001,2009,7325,https://openalex.org/W2140131090
+1110,Plant Science,Global diversity and geography of soil fungi,https://doi.org/10.1126/science.1256688,2014,3384,https://openalex.org/W2145840889
+1110,Plant Science,TRY – a global database of plant traits,https://doi.org/10.1111/j.1365-2486.2011.02451.x,2011,2595,https://openalex.org/W2162584119
+1110,Plant Science,Global convergence in the vulnerability of forests to drought,https://doi.org/10.1038/nature11688,2012,2535,https://openalex.org/W2119006714
+1110,Plant Science,Genome sequence and analysis of the tuber crop potato,https://doi.org/10.1038/nature10158,2011,2065,https://openalex.org/W2012331775
+1110,Plant Science,TRY plant trait database – enhanced coverage and open access,https://doi.org/10.1111/gcb.14904,2019,1865,https://openalex.org/W2983606184
+1110,Plant Science,"Rumen microbial community composition varies with diet and host, but a core microbiome is found across a wide geographical range",https://doi.org/10.1038/srep14567,2015,1588,https://openalex.org/W1842963151
+1110,Plant Science,Molecular definitions of autophagy and related processes,https://doi.org/10.15252/embj.201796697,2017,1539,https://openalex.org/W2621728938
+1110,Plant Science,Pollination and other ecosystem services produced by mobile organisms: a conceptual framework for the effects of land‐use change,https://doi.org/10.1111/j.1461-0248.2007.01018.x,2007,1445,https://openalex.org/W2101779884
+1110,Plant Science,"iTAK: A Program for Genome-wide Prediction and Classification of Plant Transcription Factors, Transcriptional Regulators, and Protein Kinases",https://doi.org/10.1016/j.molp.2016.09.014,2016,1272,https://openalex.org/W2529592713
+2303,Ecology,A communal catalogue reveals Earth’s multiscale microbial diversity,https://doi.org/10.1038/nature24621,2017,2644,https://openalex.org/W2766358903
+2303,Ecology,Rebuilding Global Fisheries,https://doi.org/10.1126/science.1173146,2009,2153,https://openalex.org/W2156523992
+2303,Ecology,Global conservation outcomes depend on marine protected areas with five key features,https://doi.org/10.1038/nature13022,2014,1775,https://openalex.org/W1971625691
+2303,Ecology,The Impact of Conservation on the Status of the World’s Vertebrates,https://doi.org/10.1126/science.1194442,2010,1510,https://openalex.org/W2111760270
+2303,Ecology,"The Status of the World's Land and Marine Mammals: Diversity, Threat, and Knowledge",https://doi.org/10.1126/science.1165115,2008,1503,https://openalex.org/W2057507880
+2303,Ecology,Plant Species Richness and Ecosystem Multifunctionality in Global Drylands,https://doi.org/10.1126/science.1215442,2012,1493,https://openalex.org/W2081284397
+2303,Ecology,Present and future global distributions of the marine Cyanobacteria<i>Prochlorococcus</i>and<i>Synechococcus</i>,https://doi.org/10.1073/pnas.1307701110,2013,1333,https://openalex.org/W2000946245
+2303,Ecology,Trading Water for Carbon with Biological Carbon Sequestration,https://doi.org/10.1126/science.1119282,2005,1299,https://openalex.org/W2139362435
+2303,Ecology,Plant trait responses to grazing – a global synthesis,https://doi.org/10.1111/j.1365-2486.2006.01288.x,2006,1118,https://openalex.org/W2066451700
+2303,Ecology,"The Ecology of Soil Carbon: Pools, Vulnerabilities, and Biotic and Abiotic Controls",https://doi.org/10.1146/annurev-ecolsys-112414-054234,2017,1066,https://openalex.org/W2612845390
+1105,"Ecology, Evolution, Behavior and Systematics","TNT, a free program for phylogenetic analysis",https://doi.org/10.1111/j.1096-0031.2008.00217.x,2008,5266,https://openalex.org/W2151692850
+1105,"Ecology, Evolution, Behavior and Systematics",Global observed changes in daily climate extremes of temperature and precipitation,https://doi.org/10.1029/2005jd006290,2006,4329,https://openalex.org/W2000257837
+1105,"Ecology, Evolution, Behavior and Systematics",The global spectrum of plant form and function,https://doi.org/10.1038/nature16489,2015,2995,https://openalex.org/W2218052335
+1105,"Ecology, Evolution, Behavior and Systematics",Wild Pollinators Enhance Fruit Set of Crops Regardless of Honey Bee Abundance,https://doi.org/10.1126/science.1230200,2013,2524,https://openalex.org/W2144693286
+1105,"Ecology, Evolution, Behavior and Systematics",Science for managing ecosystem services: Beyond the Millennium Ecosystem Assessment,https://doi.org/10.1073/pnas.0808772106,2009,2181,https://openalex.org/W2123610169
+1105,"Ecology, Evolution, Behavior and Systematics","<scp>TNT</scp> version 1.5, including a full implementation of phylogenetic morphometrics",https://doi.org/10.1111/cla.12160,2016,2146,https://openalex.org/W2342577284
+1105,"Ecology, Evolution, Behavior and Systematics",THE AMPHIBIAN TREE OF LIFE,https://doi.org/10.1206/0003-0090(2006)297[0001:tatol]2.0.co;2,2006,1901,https://openalex.org/W2162229689
+1105,"Ecology, Evolution, Behavior and Systematics",Safeguarding pollinators and their values to human well-being,https://doi.org/10.1038/nature20588,2016,1887,https://openalex.org/W2558467948
+1105,"Ecology, Evolution, Behavior and Systematics",Pollination and other ecosystem services produced by mobile organisms: a conceptual framework for the effects of land‐use change,https://doi.org/10.1111/j.1461-0248.2007.01018.x,2007,1445,https://openalex.org/W2101779884
+1105,"Ecology, Evolution, Behavior and Systematics",Scaling environmental change through the community‐level: a trait‐based response‐and‐effect framework for plants,https://doi.org/10.1111/j.1365-2486.2008.01557.x,2008,1222,https://openalex.org/W2162049685
+3320,Political Science and International Relations,"Brokers, Voters, and Clientelism",https://doi.org/10.1017/cbo9781107324909,2013,1141,https://openalex.org/W3196446224
 3320,Political Science and International Relations,"Brokers, Voters, and Clientelism: The Puzzle of Distributive Politics",https://doi.org/10.1017/cbo9781107324909,2013,726,https://openalex.org/W611922404
-3320,Political Science and International Relations,,https://doi.org/10.4324/9781003133520,2021,445,https://openalex.org/W4210771594
+3320,Political Science and International Relations,,https://doi.org/10.4324/9781003133520,2021,449,https://openalex.org/W4210771594
+3320,Political Science and International Relations,“News comes across when I’m in a moment of leisure”: Understanding the practices of incidental news consumption on social media,https://doi.org/10.1177/1461444817750396,2018,397,https://openalex.org/W2781528138
+3320,Political Science and International Relations,Representative Bureaucracy in Policing: Does It Increase Perceived Legitimacy?,https://doi.org/10.1093/jopart/muu006,2014,356,https://openalex.org/W2151815313
+3320,Political Science and International Relations,Neo-extractivism in Latin America,https://doi.org/10.1017/9781108752589,2019,309,https://openalex.org/W4211158137
+3320,Political Science and International Relations,The Rise of Post-Hegemonic Regionalism,https://doi.org/10.1007/978-94-007-2694-9,2012,289,https://openalex.org/W1571209003
+3320,Political Science and International Relations,Down but Not Out: Union Resurgence and Segmented Neocorporatism in Argentina (2003–2007),https://doi.org/10.1177/0032329207304318,2007,285,https://openalex.org/W3122611614
+3320,Political Science and International Relations,"School decentralization: Helping the good get better, but leaving the poor behind",https://doi.org/10.1016/j.jpubeco.2008.05.004,2008,263,https://openalex.org/W3123081803
+3320,Political Science and International Relations,Universal and contextualized public services: Digital public service innovation framework,https://doi.org/10.1016/j.giq.2016.05.004,2016,224,https://openalex.org/W2411346287
 3304,Education,World Report on Disability,https://doi.org/10.1111/j.1741-1130.2011.00320.x,2011,1692,https://openalex.org/W1519189148
-3304,Education,A systematic review of faculty development initiatives designed to improve teaching effectiveness in medical education: BEME Guide No. 8,https://doi.org/10.1080/01421590600902976,2006,1343,https://openalex.org/W2129024928
-3304,Education,A systematic review of faculty development initiatives designed to enhance teaching effectiveness: A 10-year update: BEME Guide No. 40,https://doi.org/10.1080/0142159x.2016.1181851,2016,692,https://openalex.org/W2466600903
+3304,Education,A systematic review of faculty development initiatives designed to improve teaching effectiveness in medical education: BEME Guide No. 8,https://doi.org/10.1080/01421590600902976,2006,1349,https://openalex.org/W2129024928
+3304,Education,A systematic review of faculty development initiatives designed to enhance teaching effectiveness: A 10-year update: BEME Guide No. 40,https://doi.org/10.1080/0142159x.2016.1181851,2016,698,https://openalex.org/W2466600903
+3304,Education,Sustainability and sustainable development: A review of principles and definitions,https://doi.org/10.1016/j.scitotenv.2021.147481,2021,661,https://openalex.org/W3159789627
+3304,Education,Higher education as a change agent for sustainability in different cultures and contexts,https://doi.org/10.1108/14676370810885916,2008,614,https://openalex.org/W2099578514
+3304,Education,Bases de la investigación cualitativa,,2014,475,https://openalex.org/W1546903954
+3304,Education,The impact of light and colour on psychological mood: a cross-cultural study of indoor work environments,https://doi.org/10.1080/00140130600858142,2006,379,https://openalex.org/W2005579671
+3304,Education,Levers and leverage points for pathways to sustainability,https://doi.org/10.1002/pan3.10124,2020,282,https://openalex.org/W3044606135
+3304,Education,What is digital literacy? A comparative review of publications across three language contexts,https://doi.org/10.1177/2042753020946291,2020,232,https://openalex.org/W3046818418
+3304,Education,Educational inequality and intergenerational mobility in Latin America: A new database,https://doi.org/10.1016/j.jdeveco.2018.05.016,2018,180,https://openalex.org/W2751123472
 2505,Materials Chemistry,"Heat shock proteins in cancer: diagnostic, prognostic, predictive, and treatment implications",https://doi.org/10.1379/csc-99r.1,2005,1403,https://openalex.org/W2125007784
-2505,Materials Chemistry,Self-assembled monolayers of thiols and dithiols on gold: new challenges for a well-known system,https://doi.org/10.1039/b907301a,2010,1385,https://openalex.org/W2030634530
-2505,Materials Chemistry,"DFTB+, a software package for efficient approximate density functional theory based atomistic simulations",https://doi.org/10.1063/1.5143190,2020,1036,https://openalex.org/W3013002235
+2505,Materials Chemistry,Self-assembled monolayers of thiols and dithiols on gold: new challenges for a well-known system,https://doi.org/10.1039/b907301a,2010,1387,https://openalex.org/W2030634530
+2505,Materials Chemistry,"DFTB+, a software package for efficient approximate density functional theory based atomistic simulations",https://doi.org/10.1063/1.5143190,2020,1044,https://openalex.org/W3013002235
+2505,Materials Chemistry,Soft magnetic materials for a sustainable and electrified world,https://doi.org/10.1126/science.aao0195,2018,999,https://openalex.org/W2898304272
+2505,Materials Chemistry,Correlation between Photovoltaic Performance and Impedance Spectroscopy of Dye-Sensitized Solar Cells Based on Ionic Liquids,https://doi.org/10.1021/jp066178a,2007,894,https://openalex.org/W1988967840
+2505,Materials Chemistry,A perspective on low-temperature solid oxide fuel cells,https://doi.org/10.1039/c5ee03858h,2016,866,https://openalex.org/W2253548421
+2505,Materials Chemistry,"Application of hydrides in hydrogen storage and compression: Achievements, outlook and perspectives",https://doi.org/10.1016/j.ijhydene.2019.01.104,2019,754,https://openalex.org/W2914300732
+2505,Materials Chemistry,The Chemistry behind Catechol‐Based Adhesion,https://doi.org/10.1002/anie.201801063,2018,746,https://openalex.org/W2791172047
+2505,Materials Chemistry,Two-dimensional electron gas with universal subbands at the surface of SrTiO3,https://doi.org/10.1038/nature09720,2011,700,https://openalex.org/W2085164934
+2505,Materials Chemistry,Electron Spectroscopy of Aqueous Solution Interfaces Reveals Surface Enhancement of Halides,https://doi.org/10.1126/science.1106525,2005,657,https://openalex.org/W3096986715
 3316,Cultural Studies,"Cultural Transmission of Ethnobotanical Knowledge in a Rural Community of Northwestern Patagonia, Argentina",https://doi.org/10.1663/0013-0001(2006)60[374:ctoeki]2.0.co;2,2006,249,https://openalex.org/W2041598118
-3316,Cultural Studies,Buen vivir: Emergent discourse within or beyond sustainable development?,https://doi.org/10.1016/j.ecolecon.2014.02.017,2014,177,https://openalex.org/W2105773162
+3316,Cultural Studies,Buen vivir: Emergent discourse within or beyond sustainable development?,https://doi.org/10.1016/j.ecolecon.2014.02.017,2014,178,https://openalex.org/W2105773162
 3316,Cultural Studies,Archaeology. The discipline of things,https://doi.org/10.37603/2250.7728.v17.n2.18203,2013,160,https://openalex.org/W2980011219
-2746,Surgery,Rosuvastatin to Prevent Vascular Events in Men and Women with Elevated C-Reactive Protein,https://doi.org/10.1056/nejmoa0807646,2008,6433,https://openalex.org/W2137983259
-2746,Surgery,Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction,https://doi.org/10.1056/nejmoa1911303,2019,6201,https://openalex.org/W2974260792
-2746,Surgery,Cardiovascular and Renal Outcomes with Empagliflozin in Heart Failure,https://doi.org/10.1056/nejmoa2022190,2020,4527,https://openalex.org/W3081830235
+3316,Cultural Studies,Ethnobotanical review of the Mapuche medicinal flora: Use patterns on a regional scale,https://doi.org/10.1016/j.jep.2009.01.003,2009,154,https://openalex.org/W2025047371
+3316,Cultural Studies,Peronismo y cultura de izquierda,,2012,151,https://openalex.org/W1849821074
+3316,Cultural Studies,Historia de la Familia en la Argentina Moderna (1870-2000),,2005,133,https://openalex.org/W1559935738
+3316,Cultural Studies,Dynamics of Text Generation with Realistic Zipf's Distribution,https://doi.org/10.1080/09296170500055293,2005,106,https://openalex.org/W1973589994
+3316,Cultural Studies,Universal Entropy of Word Ordering Across Linguistic Families,https://doi.org/10.1371/journal.pone.0019875,2011,93,https://openalex.org/W2401701515
+3316,Cultural Studies,Acoustic-Prosodic Entrainment and Social Behavior,,2012,92,https://openalex.org/W2101416990
+3316,Cultural Studies,"Los Estudios Comparativos: algunas notas históricas, epistemológicas y metodológicas",https://doi.org/10.1590/2175-623667609,2017,84,https://openalex.org/W2625175159
+2746,Surgery,Rosuvastatin to Prevent Vascular Events in Men and Women with Elevated C-Reactive Protein,https://doi.org/10.1056/nejmoa0807646,2008,6443,https://openalex.org/W2137983259
+2746,Surgery,Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction,https://doi.org/10.1056/nejmoa1911303,2019,6229,https://openalex.org/W2974260792
+2746,Surgery,Cardiovascular and Renal Outcomes with Empagliflozin in Heart Failure,https://doi.org/10.1056/nejmoa2022190,2020,4550,https://openalex.org/W3081830235
+2746,Surgery,Rosuvastatin to Prevent Vascular Events in Men and Women With Elevated C-Reactive Protein,https://doi.org/10.1097/01.ogx.0000344393.60303.0a,2009,3657,https://openalex.org/W3022401702
+2746,Surgery,Alirocumab and Cardiovascular Outcomes after Acute Coronary Syndrome,https://doi.org/10.1056/nejmoa1801174,2018,3198,https://openalex.org/W2899997727
+2746,Surgery,Human papillomavirus genotype attribution in invasive cervical cancer: a retrospective cross-sectional worldwide study,https://doi.org/10.1016/s1470-2045(10)70230-8,2010,2632,https://openalex.org/W2139736159
+2746,Surgery,"Global, regional, and national disease burden estimates of acute lower respiratory infections due to respiratory syncytial virus in young children in 2015: a systematic review and modelling study",https://doi.org/10.1016/s0140-6736(17)30938-8,2017,2276,https://openalex.org/W2727509207
+2746,Surgery,Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction,https://doi.org/10.1056/nejmoa2206286,2022,2224,https://openalex.org/W4293354639
+2746,Surgery,"Worldwide Prevalence and Burden of Functional Gastrointestinal Disorders, Results of Rome Foundation Global Study",https://doi.org/10.1053/j.gastro.2020.04.014,2020,1897,https://openalex.org/W3016136018
+2746,Surgery,A Novel Reconstructive Technique After Endoscopic Expanded Endonasal Approaches: Vascular Pedicle Nasoseptal Flap,https://doi.org/10.1097/01.mlg.0000234933.37779.e4,2006,1861,https://openalex.org/W2130343851

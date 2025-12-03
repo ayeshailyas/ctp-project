@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-2208,Electrical and Electronic Engineering,Graphitic Carbon Nitride (g-C<sub>3</sub>N<sub>4</sub>)-Based Photocatalysts for Artificial Photosynthesis and Environmental Remediation: Are We a Step Closer To Achieving Sustainability?,https://doi.org/10.1021/acs.chemrev.6b00075,2016,6629,https://openalex.org/W2401906193
-2208,Electrical and Electronic Engineering,Unmanned Aerial Vehicles (UAVs): A Survey on Civil Applications and Key Research Challenges,https://doi.org/10.1109/access.2019.2909530,2019,1979,https://openalex.org/W4213147678
-2208,Electrical and Electronic Engineering,A review of lithium-ion battery state of charge estimation and management system in electric vehicle applications: Challenges and recommendations,https://doi.org/10.1016/j.rser.2017.05.001,2017,1773,https://openalex.org/W2613389393
-3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2957,https://openalex.org/W2161411308
-3312,Sociology and Political Science,Pervasive human-driven decline of life on Earth points to the need for transformative change,https://doi.org/10.1126/science.aax3100,2019,2334,https://openalex.org/W2995840337
+2208,Electrical and Electronic Engineering,Graphitic Carbon Nitride (g-C<sub>3</sub>N<sub>4</sub>)-Based Photocatalysts for Artificial Photosynthesis and Environmental Remediation: Are We a Step Closer To Achieving Sustainability?,https://doi.org/10.1021/acs.chemrev.6b00075,2016,6650,https://openalex.org/W2401906193
+2208,Electrical and Electronic Engineering,Unmanned Aerial Vehicles (UAVs): A Survey on Civil Applications and Key Research Challenges,https://doi.org/10.1109/access.2019.2909530,2019,1993,https://openalex.org/W4213147678
+2208,Electrical and Electronic Engineering,A review of lithium-ion battery state of charge estimation and management system in electric vehicle applications: Challenges and recommendations,https://doi.org/10.1016/j.rser.2017.05.001,2017,1779,https://openalex.org/W2613389393
+2208,Electrical and Electronic Engineering,Progress in Flow Battery Research and Development,https://doi.org/10.1149/1.3599565,2011,1403,https://openalex.org/W1963712116
+2208,Electrical and Electronic Engineering,A review of energy sources and energy management system in electric vehicles,https://doi.org/10.1016/j.rser.2012.11.077,2012,1391,https://openalex.org/W2005647119
+2208,Electrical and Electronic Engineering,An overview of technologies for immobilization of enzymes and surface analysis techniques for immobilized enzymes,https://doi.org/10.1080/13102818.2015.1008192,2015,1368,https://openalex.org/W2038197401
+2208,Electrical and Electronic Engineering,Membrane technology enhancement in oil–water separation. A review,https://doi.org/10.1016/j.desal.2014.11.023,2014,1225,https://openalex.org/W2050626891
+2208,Electrical and Electronic Engineering,A Review of the Properties and Applications of Poly (Methyl Methacrylate) (PMMA),https://doi.org/10.1080/15583724.2015.1031377,2015,1188,https://openalex.org/W2144505530
+2208,Electrical and Electronic Engineering,"Humidity Sensors Principle, Mechanism, and Fabrication Technologies: A Comprehensive Review",https://doi.org/10.3390/s140507881,2014,1180,https://openalex.org/W2001086979
+2208,Electrical and Electronic Engineering,Harnessing Green IT: Principles and Practices,https://doi.org/10.1109/mitp.2008.10,2008,1153,https://openalex.org/W2145625823
+3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2973,https://openalex.org/W2161411308
+3312,Sociology and Political Science,Pervasive human-driven decline of life on Earth points to the need for transformative change,https://doi.org/10.1126/science.aax3100,2019,2345,https://openalex.org/W2995840337
 3312,Sociology and Political Science,Contrasting Computational Models of Mate Preference Integration Across 45 Countries,https://doi.org/10.1038/s41598-019-52748-8,2019,1773,https://openalex.org/W2983201012
-2204,Biomedical Engineering,Hydrogen production from renewable and sustainable energy resources: Promising green energy carrier for clean development,https://doi.org/10.1016/j.rser.2015.12.112,2016,2214,https://openalex.org/W2228940409
-2204,Biomedical Engineering,BODIPY dyes in photodynamic therapy,https://doi.org/10.1039/c2cs35216h,2012,1990,https://openalex.org/W2070789044
-2204,Biomedical Engineering,A review on pyrolysis of plastic wastes,https://doi.org/10.1016/j.enconman.2016.02.037,2016,1916,https://openalex.org/W2294827616
-3304,Education,ABC of Content Validation and Content Validity Index Calculation,https://doi.org/10.21315/eimj2019.11.2.6,2019,1590,https://openalex.org/W2954017678
-3304,Education,Qualitative research method-interviewing and observation,https://doi.org/10.4103/0976-0105.141942,2014,1188,https://openalex.org/W2087276125
-3304,Education,Challenges in the online component of blended learning: A systematic review,https://doi.org/10.1016/j.compedu.2019.103701,2019,1170,https://openalex.org/W2972324304
-2210,Mechanical Engineering,A review of recent developments in natural fibre composites and their mechanical performance,https://doi.org/10.1016/j.compositesa.2015.08.038,2015,3051,https://openalex.org/W1458577565
-2210,Mechanical Engineering,A review on applications and challenges of nanofluids,https://doi.org/10.1016/j.rser.2010.11.035,2011,1838,https://openalex.org/W2133599163
-2210,Mechanical Engineering,"An Overview on 3D Printing Technology: Technological, Materials, and Applications",https://doi.org/10.1016/j.promfg.2019.06.089,2019,1795,https://openalex.org/W2967464127
-1312,Molecular Biology,Apoptosis in cancer: from pathogenesis to treatment,https://doi.org/10.1186/1756-9966-30-87,2011,2747,https://openalex.org/W2158025958
-1312,Molecular Biology,Towards complete and error-free genome assemblies of all vertebrate species,https://doi.org/10.1038/s41586-021-03451-0,2021,2634,https://openalex.org/W3159728495
-1312,Molecular Biology,Scale for the assessment and rating of ataxia,https://doi.org/10.1212/01.wnl.0000219042.60538.92,2006,1839,https://openalex.org/W2117257456
-2505,Materials Chemistry,Graphitic Carbon Nitride (g-C<sub>3</sub>N<sub>4</sub>)-Based Photocatalysts for Artificial Photosynthesis and Environmental Remediation: Are We a Step Closer To Achieving Sustainability?,https://doi.org/10.1021/acs.chemrev.6b00075,2016,6629,https://openalex.org/W2401906193
-2505,Materials Chemistry,Nano based drug delivery systems: recent developments and future prospects,https://doi.org/10.1186/s12951-018-0392-8,2018,6031,https://openalex.org/W2890167612
-2505,Materials Chemistry,Review on Zinc Oxide Nanoparticles: Antibacterial Activity and Toxicity Mechanism,https://doi.org/10.1007/s40820-015-0040-x,2015,4122,https://openalex.org/W1990681348
-1702,Artificial Intelligence,State-of-the-art in artificial neural network applications: A survey,https://doi.org/10.1016/j.heliyon.2018.e00938,2018,2803,https://openalex.org/W2901312569
-1702,Artificial Intelligence,A Review on Evaluation Metrics for Data Classification Evaluations,https://doi.org/10.5121/ijdkp.2015.5201,2015,2523,https://openalex.org/W2330219538
-1702,Artificial Intelligence,Can AI Help in Screening Viral and COVID-19 Pneumonia?,https://doi.org/10.1109/access.2020.3010287,2020,1814,https://openalex.org/W3013277995
-1710,Information Systems,The rise of “big data” on cloud computing: Review and open research issues,https://doi.org/10.1016/j.is.2014.07.006,2014,2545,https://openalex.org/W2149140091
-1710,Information Systems,A Comparison between Two Main Academic Literature Collections: Web of Science and Scopus Databases,https://doi.org/10.5539/ass.v9n5p18,2013,1754,https://openalex.org/W2145535121
-1710,Information Systems,"K-means clustering algorithms: A comprehensive review, variants analysis, and advances in the era of big data",https://doi.org/10.1016/j.ins.2022.11.139,2022,1544,https://openalex.org/W4310494058
-1402,Accounting,Does board gender diversity improve the informativeness of stock prices?,https://doi.org/10.1016/j.jacceco.2011.01.005,2011,1475,https://openalex.org/W1987307803
-1402,Accounting,Female Directors and Earnings Quality*,https://doi.org/10.1111/j.1911-3846.2011.01071.x,2011,1225,https://openalex.org/W1526589366
-1402,Accounting,Benchmarking state-of-the-art classification algorithms for credit scoring: An update of research,https://doi.org/10.1016/j.ejor.2015.05.030,2015,1031,https://openalex.org/W2131816657
+3312,Sociology and Political Science,Scientific procedures and rationales for systematic literature reviews (SPAR‐4‐SLR),https://doi.org/10.1111/ijcs.12695,2021,1635,https://openalex.org/W3154271163
+3312,Sociology and Political Science,An assessment of the use of partial least squares structural equation modeling (PLS-SEM) in hospitality research,https://doi.org/10.1108/ijchm-10-2016-0568,2017,1356,https://openalex.org/W2768636149
+3312,Sociology and Political Science,Investigating Variation in Replicability,https://doi.org/10.1027/1864-9335/a000178,2014,1205,https://openalex.org/W1941783251
+3312,Sociology and Political Science,Testing and Controlling for Common Method Variance: A Review of Available Methods,https://doi.org/10.20547/jms.2014.1704202,2017,1139,https://openalex.org/W2729551988
+3312,Sociology and Political Science,Case Study As a Research Method,,2007,1080,https://openalex.org/W2108781206
+3312,Sociology and Political Science,Sample Size for Survey Research: Review and Recommendations,https://doi.org/10.47263/jasem.4(2)01,2020,1046,https://openalex.org/W3047225376
+3312,Sociology and Political Science,"Towards Sustainable Energy: A Systematic Review of Renewable Energy Sources, Technologies, and Public Opinions",https://doi.org/10.1109/access.2019.2906402,2019,1041,https://openalex.org/W2945102769
+2204,Biomedical Engineering,Hydrogen production from renewable and sustainable energy resources: Promising green energy carrier for clean development,https://doi.org/10.1016/j.rser.2015.12.112,2016,2224,https://openalex.org/W2228940409
+2204,Biomedical Engineering,BODIPY dyes in photodynamic therapy,https://doi.org/10.1039/c2cs35216h,2012,1992,https://openalex.org/W2070789044
+2204,Biomedical Engineering,A review on pyrolysis of plastic wastes,https://doi.org/10.1016/j.enconman.2016.02.037,2016,1927,https://openalex.org/W2294827616
+2204,Biomedical Engineering,Nanofiltration membranes review: Recent advances and future prospects,https://doi.org/10.1016/j.desal.2014.10.043,2014,1875,https://openalex.org/W2052356798
+2204,Biomedical Engineering,A review on applications and challenges of nanofluids,https://doi.org/10.1016/j.rser.2010.11.035,2011,1844,https://openalex.org/W2133599163
+2204,Biomedical Engineering,A comprehensive review on biodiesel as an alternative energy resource and its characteristics,https://doi.org/10.1016/j.rser.2012.01.003,2012,1799,https://openalex.org/W2124642471
+2204,Biomedical Engineering,"Polyurethane types, synthesis and applications – a review",https://doi.org/10.1039/c6ra14525f,2016,1590,https://openalex.org/W2552288163
+2204,Biomedical Engineering,"Techniques of EMG signal analysis: detection, processing, classification and applications",https://doi.org/10.1251/bpo115,2006,1563,https://openalex.org/W2158728671
+2204,Biomedical Engineering,Effect of process parameters on production of biochar from biomass waste through pyrolysis: A review,https://doi.org/10.1016/j.rser.2015.10.122,2015,1552,https://openalex.org/W2178640296
+2204,Biomedical Engineering,A review on biomass as a fuel for boilers,https://doi.org/10.1016/j.rser.2011.02.015,2011,1526,https://openalex.org/W2136888045
+3304,Education,ABC of Content Validation and Content Validity Index Calculation,https://doi.org/10.21315/eimj2019.11.2.6,2019,1605,https://openalex.org/W2954017678
+3304,Education,Qualitative research method-interviewing and observation,https://doi.org/10.4103/0976-0105.141942,2014,1192,https://openalex.org/W2087276125
+3304,Education,Challenges in the online component of blended learning: A systematic review,https://doi.org/10.1016/j.compedu.2019.103701,2019,1176,https://openalex.org/W2972324304
+3304,Education,Teaching and Learning with Technology: Effectiveness of ICT Integration in Schools,https://doi.org/10.21890/ijres.23596,2015,1092,https://openalex.org/W2123782234
+3304,Education,Facebook: An online environment for learning of English in institutions of higher education?,https://doi.org/10.1016/j.iheduc.2010.07.003,2010,823,https://openalex.org/W2125510672
+3304,Education,"The Effects of Prosocial Video Games on Prosocial Behaviors: International Evidence From Correlational, Longitudinal, and Experimental Studies",https://doi.org/10.1177/0146167209333045,2009,707,https://openalex.org/W2150077060
+3304,Education,Education 4.0 Made Simple: Ideas For Teaching,https://doi.org/10.7575/aiac.ijels.v.6n.3p.92,2018,703,https://openalex.org/W2888930780
+3304,Education,Online Learning Readiness Among University Students in Malaysia Amidst Covid-19,https://doi.org/10.24191/ajue.v16i2.10294,2020,558,https://openalex.org/W3048843671
+3304,Education,How does desktop virtual reality enhance learning outcomes? A structural equation modeling approach,https://doi.org/10.1016/j.compedu.2010.06.006,2010,553,https://openalex.org/W2013549369
+3304,Education,Technology Acceptance Model in M-learning context: A systematic review,https://doi.org/10.1016/j.compedu.2018.06.008,2018,538,https://openalex.org/W2805740843
+2210,Mechanical Engineering,A review of recent developments in natural fibre composites and their mechanical performance,https://doi.org/10.1016/j.compositesa.2015.08.038,2015,3067,https://openalex.org/W1458577565
+2210,Mechanical Engineering,A review on applications and challenges of nanofluids,https://doi.org/10.1016/j.rser.2010.11.035,2011,1844,https://openalex.org/W2133599163
+2210,Mechanical Engineering,"An Overview on 3D Printing Technology: Technological, Materials, and Applications",https://doi.org/10.1016/j.promfg.2019.06.089,2019,1807,https://openalex.org/W2967464127
+2210,Mechanical Engineering,Global strategies and potentials to curb CO2 emissions in cement industry,https://doi.org/10.1016/j.jclepro.2012.10.049,2012,1430,https://openalex.org/W1992749124
+2210,Mechanical Engineering,A review of heat treatment on polyacrylonitrile fiber,https://doi.org/10.1016/j.polymdegradstab.2007.03.023,2007,1346,https://openalex.org/W1980282438
+2210,Mechanical Engineering,"Homogeneous, heterogeneous and enzymatic catalysis for transesterification of high free fatty acid oil (waste cooking oil) to biodiesel: A review",https://doi.org/10.1016/j.biotechadv.2010.03.002,2010,1287,https://openalex.org/W2041865803
+2210,Mechanical Engineering,Kenaf fiber reinforced composites: A review,https://doi.org/10.1016/j.matdes.2011.04.008,2011,1207,https://openalex.org/W2081659289
+2210,Mechanical Engineering,"Non-edible vegetable oils: A critical evaluation of oil extraction, fatty acid compositions, biodiesel production, characteristics, engine performance and emissions production",https://doi.org/10.1016/j.rser.2012.10.013,2012,1193,https://openalex.org/W2028760790
+2210,Mechanical Engineering,"A comparative study on the predictive ability of the decision tree, support vector machine and neuro-fuzzy models in landslide susceptibility mapping using GIS",https://doi.org/10.1016/j.cageo.2012.08.023,2012,1170,https://openalex.org/W2088730795
+2210,Mechanical Engineering,A review of nanofluid stability properties and characterization in stationary conditions,https://doi.org/10.1016/j.ijheatmasstransfer.2011.04.014,2011,1136,https://openalex.org/W2122625849
+1312,Molecular Biology,Apoptosis in cancer: from pathogenesis to treatment,https://doi.org/10.1186/1756-9966-30-87,2011,2754,https://openalex.org/W2158025958
+1312,Molecular Biology,Towards complete and error-free genome assemblies of all vertebrate species,https://doi.org/10.1038/s41586-021-03451-0,2021,2650,https://openalex.org/W3159728495
+1312,Molecular Biology,Scale for the assessment and rating of ataxia,https://doi.org/10.1212/01.wnl.0000219042.60538.92,2006,1846,https://openalex.org/W2117257456
+1312,Molecular Biology,A comprehensive review on biodiesel as an alternative energy resource and its characteristics,https://doi.org/10.1016/j.rser.2012.01.003,2012,1799,https://openalex.org/W2124642471
+1312,Molecular Biology,Antioxidative peptides from food proteins: A review,https://doi.org/10.1016/j.peptides.2010.06.020,2010,1555,https://openalex.org/W2007482003
+1312,Molecular Biology,The Loss of Species: Mangrove Extinction Risk and Geographic Areas of Global Concern,https://doi.org/10.1371/journal.pone.0010095,2010,1461,https://openalex.org/W2137372170
+1312,Molecular Biology,"Homogeneous, heterogeneous and enzymatic catalysis for transesterification of high free fatty acid oil (waste cooking oil) to biodiesel: A review",https://doi.org/10.1016/j.biotechadv.2010.03.002,2010,1287,https://openalex.org/W2041865803
+1312,Molecular Biology,Pharmaceutical pollution of the world’s rivers,https://doi.org/10.1073/pnas.2113947119,2022,1265,https://openalex.org/W4212893393
+1312,Molecular Biology,"The E-Cadherin and N-Cadherin Switch in Epithelial-to-Mesenchymal Transition: Signaling, Therapeutic Implications, and Challenges",https://doi.org/10.3390/cells8101118,2019,1236,https://openalex.org/W2974147039
+1312,Molecular Biology,"Fish gelatin: properties, challenges, and prospects as an alternative to mammalian gelatins",https://doi.org/10.1016/j.foodhyd.2008.07.002,2008,1216,https://openalex.org/W2086626063
+2505,Materials Chemistry,Graphitic Carbon Nitride (g-C<sub>3</sub>N<sub>4</sub>)-Based Photocatalysts for Artificial Photosynthesis and Environmental Remediation: Are We a Step Closer To Achieving Sustainability?,https://doi.org/10.1021/acs.chemrev.6b00075,2016,6650,https://openalex.org/W2401906193
+2505,Materials Chemistry,Nano based drug delivery systems: recent developments and future prospects,https://doi.org/10.1186/s12951-018-0392-8,2018,6074,https://openalex.org/W2890167612
+2505,Materials Chemistry,Review on Zinc Oxide Nanoparticles: Antibacterial Activity and Toxicity Mechanism,https://doi.org/10.1007/s40820-015-0040-x,2015,4135,https://openalex.org/W1990681348
+2505,Materials Chemistry,"A review of shape memory alloy research, applications and opportunities",https://doi.org/10.1016/j.matdes.2013.11.084,2013,3800,https://openalex.org/W1973565005
+2505,Materials Chemistry,"Review on nanoparticles and nanostructured materials: history, sources, toxicity and regulations",https://doi.org/10.3762/bjnano.9.98,2018,3096,https://openalex.org/W2796277309
+2505,Materials Chemistry,"Heterogeneous photocatalytic degradation of organic contaminants over titanium dioxide: A review of fundamentals, progress and problems",https://doi.org/10.1016/j.jphotochemrev.2007.12.003,2008,2889,https://openalex.org/W2086150366
+2505,Materials Chemistry,X-ray analysis of ZnO nanoparticles by Williamson–Hall and size–strain plot methods,https://doi.org/10.1016/j.solidstatesciences.2010.11.024,2010,2482,https://openalex.org/W1983378088
+2505,Materials Chemistry,"A review of ZnO nanoparticles as solar photocatalysts: Synthesis, mechanisms and applications",https://doi.org/10.1016/j.rser.2017.08.020,2017,2341,https://openalex.org/W2748928903
+2505,Materials Chemistry,Recent developments of zinc oxide based photocatalyst in water treatment technology: A review,https://doi.org/10.1016/j.watres.2015.09.045,2015,2237,https://openalex.org/W1854025783
+2505,Materials Chemistry,BODIPY dyes in photodynamic therapy,https://doi.org/10.1039/c2cs35216h,2012,1992,https://openalex.org/W2070789044
+1702,Artificial Intelligence,State-of-the-art in artificial neural network applications: A survey,https://doi.org/10.1016/j.heliyon.2018.e00938,2018,2816,https://openalex.org/W2901312569
+1702,Artificial Intelligence,A Review on Evaluation Metrics for Data Classification Evaluations,https://doi.org/10.5121/ijdkp.2015.5201,2015,2536,https://openalex.org/W2330219538
+1702,Artificial Intelligence,Can AI Help in Screening Viral and COVID-19 Pneumonia?,https://doi.org/10.1109/access.2020.3010287,2020,1817,https://openalex.org/W3013277995
+1702,Artificial Intelligence,Time-series clustering – A decade review,https://doi.org/10.1016/j.is.2015.04.007,2015,1685,https://openalex.org/W1894414046
+1702,Artificial Intelligence,Water cycle algorithm – A novel metaheuristic optimization method for solving constrained engineering optimization problems,https://doi.org/10.1016/j.compstruc.2012.07.010,2012,1595,https://openalex.org/W2096673585
+1702,Artificial Intelligence,"K-means clustering algorithms: A comprehensive review, variants analysis, and advances in the era of big data",https://doi.org/10.1016/j.ins.2022.11.139,2022,1575,https://openalex.org/W4310494058
+1702,Artificial Intelligence,Black hole: A new heuristic optimization approach for data clustering,https://doi.org/10.1016/j.ins.2012.08.023,2012,1315,https://openalex.org/W2056811412
+1702,Artificial Intelligence,Reptile Search Algorithm (RSA): A nature-inspired meta-heuristic optimizer,https://doi.org/10.1016/j.eswa.2021.116158,2021,1281,https://openalex.org/W3212797097
+1702,Artificial Intelligence,A Survey of Machine and Deep Learning Methods for Internet of Things (IoT) Security,https://doi.org/10.1109/comst.2020.2988293,2022,1095,https://openalex.org/W3020687048
+1702,Artificial Intelligence,Forecasting of photovoltaic power generation and model optimization: A review,https://doi.org/10.1016/j.rser.2017.08.017,2017,1073,https://openalex.org/W2751698537
+1710,Information Systems,The rise of “big data” on cloud computing: Review and open research issues,https://doi.org/10.1016/j.is.2014.07.006,2014,2547,https://openalex.org/W2149140091
+1710,Information Systems,A Comparison between Two Main Academic Literature Collections: Web of Science and Scopus Databases,https://doi.org/10.5539/ass.v9n5p18,2013,1759,https://openalex.org/W2145535121
+1710,Information Systems,"K-means clustering algorithms: A comprehensive review, variants analysis, and advances in the era of big data",https://doi.org/10.1016/j.ins.2022.11.139,2022,1575,https://openalex.org/W4310494058
+1710,Information Systems,Teaching and Learning with Technology: Effectiveness of ICT Integration in Schools,https://doi.org/10.21890/ijres.23596,2015,1092,https://openalex.org/W2123782234
+1710,Information Systems,Edge computing: A survey,https://doi.org/10.1016/j.future.2019.02.050,2019,994,https://openalex.org/W2915771847
+1710,Information Systems,Current research on Internet of Things (IoT) security: A survey,https://doi.org/10.1016/j.comnet.2018.11.025,2018,921,https://openalex.org/W2903294440
+1710,Information Systems,Financial development and openness: Evidence from panel data,https://doi.org/10.1016/j.jdeveco.2008.06.006,2008,816,https://openalex.org/W2097425676
+1710,Information Systems,Intelligent heart disease prediction system using data mining techniques,https://doi.org/10.1109/aiccsa.2008.4493524,2008,804,https://openalex.org/W2103069675
+1710,Information Systems,Text Mining: Use of TF-IDF to Examine the Relevance of Words to Documents,https://doi.org/10.5120/ijca2018917395,2018,744,https://openalex.org/W2883730939
+1710,Information Systems,Does too much finance harm economic growth?,https://doi.org/10.1016/j.jbankfin.2013.12.020,2014,731,https://openalex.org/W2090721537
+1402,Accounting,Does board gender diversity improve the informativeness of stock prices?,https://doi.org/10.1016/j.jacceco.2011.01.005,2011,1478,https://openalex.org/W1987307803
+1402,Accounting,Female Directors and Earnings Quality*,https://doi.org/10.1111/j.1911-3846.2011.01071.x,2011,1228,https://openalex.org/W1526589366
+1402,Accounting,Benchmarking state-of-the-art classification algorithms for credit scoring: An update of research,https://doi.org/10.1016/j.ejor.2015.05.030,2015,1033,https://openalex.org/W2131816657
+1402,Accounting,Financial development and openness: Evidence from panel data,https://doi.org/10.1016/j.jdeveco.2008.06.006,2008,816,https://openalex.org/W2097425676
+1402,Accounting,"Board, audit committee, culture and earnings management: Malaysian evidence",https://doi.org/10.1108/02686900610680549,2006,811,https://openalex.org/W2077300573
+1402,Accounting,Does too much finance harm economic growth?,https://doi.org/10.1016/j.jbankfin.2013.12.020,2014,731,https://openalex.org/W2090721537
+1402,Accounting,The relationship between corporate social responsibility disclosure and corporate governance characteristics in Malaysian public listed companies,https://doi.org/10.1108/17471110910964496,2009,701,https://openalex.org/W1984627443
+1402,Accounting,Applying the Theory of Planned Behavior (TPB) in <i>halal</i> food purchasing,https://doi.org/10.1108/10569211111111676,2011,693,https://openalex.org/W2017438442
+1402,Accounting,Earnings quality: Some evidence on the role of auditor tenure and auditors’ industry expertise,https://doi.org/10.1016/j.jacceco.2009.03.001,2009,635,https://openalex.org/W2060315039
+1402,Accounting,"Family control, board independence and earnings management: Evidence based on Hong Kong firms",https://doi.org/10.1016/j.jaccpubpol.2009.06.002,2009,581,https://openalex.org/W2024528653

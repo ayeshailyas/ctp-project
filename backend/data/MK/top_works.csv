@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
 3312,Sociology and Political Science,Digital Ethnography: Principles and Practice,,2015,1078,https://openalex.org/W2272619614
-3312,Sociology and Political Science,Preventing problematic internet use during the COVID-19 pandemic: Consensus guidance,https://doi.org/10.1016/j.comppsych.2020.152180,2020,799,https://openalex.org/W3025109728
-3312,Sociology and Political Science,Beyond GDP: Measuring and achieving global genuine progress,https://doi.org/10.1016/j.ecolecon.2013.04.019,2013,732,https://openalex.org/W2140904828
+3312,Sociology and Political Science,Preventing problematic internet use during the COVID-19 pandemic: Consensus guidance,https://doi.org/10.1016/j.comppsych.2020.152180,2020,800,https://openalex.org/W3025109728
+3312,Sociology and Political Science,Beyond GDP: Measuring and achieving global genuine progress,https://doi.org/10.1016/j.ecolecon.2013.04.019,2013,735,https://openalex.org/W2140904828
+3312,Sociology and Political Science,The Social Order of the Underworld,https://doi.org/10.1093/acprof:oso/9780199328499.001.0001,2014,400,https://openalex.org/W2301974951
+3312,Sociology and Political Science,"Expressive Political Behaviour: Foundations, Scope and Implications",https://doi.org/10.1017/s0007123411000020,2011,320,https://openalex.org/W2132774477
+3312,Sociology and Political Science,Conspiracy mentality and political orientation across 26 countries,https://doi.org/10.1038/s41562-021-01258-7,2022,314,https://openalex.org/W4205698483
+3312,Sociology and Political Science,"Digital Dominance: The Power of Google, Amazon, Facebook and Apple",,2018,293,https://openalex.org/W2799596429
+3312,Sociology and Political Science,Economics of Blockchain,https://doi.org/10.2139/ssrn.2744751,2016,292,https://openalex.org/W2295894398
+3312,Sociology and Political Science,"Climate change, equity and the Sustainable Development Goals: an urban perspective",https://doi.org/10.1177/0956247816677778,2017,248,https://openalex.org/W2583258978
+3312,Sociology and Political Science,Do we need rules for “what's mine is yours”? Governance in collaborative consumption communities,https://doi.org/10.1016/j.jbusres.2015.11.011,2015,210,https://openalex.org/W2181126620
 2002,Economics and Econometrics,Key principles for the improved conduct of health technology assessments for resource allocation decisions,https://doi.org/10.1017/s0266462308080343,2008,480,https://openalex.org/W2140326213
-2002,Economics and Econometrics,National identity predicts public health support during a global pandemic,https://doi.org/10.1038/s41467-021-27668-9,2022,261,https://openalex.org/W4225690429
+2002,Economics and Econometrics,National identity predicts public health support during a global pandemic,https://doi.org/10.1038/s41467-021-27668-9,2022,262,https://openalex.org/W4225690429
 2002,Economics and Econometrics,Product innovation and firm performance in transition economies: A multi-stage estimation approach,https://doi.org/10.1016/j.techfore.2018.12.010,2018,249,https://openalex.org/W2904571575
+2002,Economics and Econometrics,Ecological cognition: expert decision-making behaviour in sport,https://doi.org/10.1080/1750984x.2017.1349826,2017,216,https://openalex.org/W2734804702
+2002,Economics and Econometrics,From Niche to Mainstream Method? A comprehensive mapping of QCA applications in journal articles from 1984 to 2011,https://doi.org/10.1177/1065912912468269,2013,198,https://openalex.org/W1638035824
+2002,Economics and Econometrics,Empirical Analysis of the Effects of Trade Openness on Economic Growth: An Evidence for South East European Countries,https://doi.org/10.1016/s2212-5671(15)00004-0,2015,169,https://openalex.org/W1149386776
+2002,Economics and Econometrics,Variation in GP decisions on antihypertensive treatment in oldest-old and frail individuals across 29 countries,https://doi.org/10.1186/s12877-017-0486-4,2017,164,https://openalex.org/W2606455055
+2002,Economics and Econometrics,Linking Porter’s generic strategies to firm performance,https://doi.org/10.1186/s43093-020-0009-1,2020,159,https://openalex.org/W3031119621
+2002,Economics and Econometrics,The impact of knowledge spillovers and innovation on firm-performance: findings from the Balkans countries,https://doi.org/10.1007/s11365-016-0393-8,2016,154,https://openalex.org/W2318182400
+2002,Economics and Econometrics,Does banking sector development promote economic growth? An empirical analysis for selected countries in Central and South Eastern Europe,https://doi.org/10.1080/1331677x.2014.947107,2014,128,https://openalex.org/W2092407531
 2208,Electrical and Electronic Engineering,A review of Internet of Things for smart home: Challenges and solutions,https://doi.org/10.1016/j.jclepro.2016.10.006,2016,1346,https://openalex.org/W2529556398
 2208,Electrical and Electronic Engineering,Status and prospects of Al2O3-based surface passivation schemes for silicon solar cells,https://doi.org/10.1116/1.4728205,2012,764,https://openalex.org/W2070687134
-2208,Electrical and Electronic Engineering,Ultralow surface recombination of c-Si substrates passivated by plasma-assisted atomic layer deposited Al2O3,https://doi.org/10.1063/1.2240736,2006,703,https://openalex.org/W2004423132
-1702,Artificial Intelligence,A Survey of Deep Active Learning,https://doi.org/10.1145/3472291,2021,922,https://openalex.org/W3205626500
-1702,Artificial Intelligence,OP-ELM: Optimally Pruned Extreme Learning Machine,https://doi.org/10.1109/tnn.2009.2036259,2009,757,https://openalex.org/W2130378394
-1702,Artificial Intelligence,An extensive experimental comparison of methods for multi-label learning,https://doi.org/10.1016/j.patcog.2012.03.004,2012,720,https://openalex.org/W2145827727
+2208,Electrical and Electronic Engineering,Ultralow surface recombination of c-Si substrates passivated by plasma-assisted atomic layer deposited Al2O3,https://doi.org/10.1063/1.2240736,2006,706,https://openalex.org/W2004423132
+2208,Electrical and Electronic Engineering,"Toxic heavy metals: impact on the environment and human health, and treatment with conducting organic polymers, a review",https://doi.org/10.1007/s11356-020-09354-3,2020,610,https://openalex.org/W3033585940
+2208,Electrical and Electronic Engineering,Sparse Signal Processing for Grant-Free Massive Connectivity: A Future Paradigm for Random Access Protocols in the Internet of Things,https://doi.org/10.1109/msp.2018.2844952,2018,492,https://openalex.org/W2890736047
+2208,Electrical and Electronic Engineering,"Social arrangements, technical designs and impacts of energy communities: A review",https://doi.org/10.1016/j.renene.2021.01.078,2021,327,https://openalex.org/W3125093885
+2208,Electrical and Electronic Engineering,Building with bubbles: the formation of high surface area honeycomb-like films via hydrogen bubble templated electrodeposition,https://doi.org/10.1039/c4cc06638c,2015,313,https://openalex.org/W2005200397
+2208,Electrical and Electronic Engineering,Deep belief network based electricity load forecasting: An analysis of Macedonian case,https://doi.org/10.1016/j.energy.2016.07.090,2016,292,https://openalex.org/W2490223215
+2208,Electrical and Electronic Engineering,On OH production in water containing atmospheric pressure plasmas,https://doi.org/10.1088/0963-0252/19/4/045025,2010,285,https://openalex.org/W2056771236
+2208,Electrical and Electronic Engineering,<i>In situ</i>spectroscopic ellipsometry as a versatile tool for studying atomic layer deposition,https://doi.org/10.1088/0022-3727/42/7/073001,2009,284,https://openalex.org/W2112201942
+1702,Artificial Intelligence,A Survey of Deep Active Learning,https://doi.org/10.1145/3472291,2021,925,https://openalex.org/W3205626500
+1702,Artificial Intelligence,OP-ELM: Optimally Pruned Extreme Learning Machine,https://doi.org/10.1109/tnn.2009.2036259,2009,758,https://openalex.org/W2130378394
+1702,Artificial Intelligence,An extensive experimental comparison of methods for multi-label learning,https://doi.org/10.1016/j.patcog.2012.03.004,2012,722,https://openalex.org/W2145827727
+1702,Artificial Intelligence,Benchmark Functions for the CEC'2013 Special Session and Competition on Large-Scale Global Optimization,,2013,372,https://openalex.org/W2916083864
+1702,Artificial Intelligence,Renewable energy: Present research and future scope of Artificial Intelligence,https://doi.org/10.1016/j.rser.2017.04.018,2017,339,https://openalex.org/W2606105023
+1702,Artificial Intelligence,Predicting academic performance: a systematic literature review,https://doi.org/10.1145/3293881.3295783,2018,324,https://openalex.org/W2909913588
+1702,Artificial Intelligence,Deep belief network based electricity load forecasting: An analysis of Macedonian case,https://doi.org/10.1016/j.energy.2016.07.090,2016,292,https://openalex.org/W2490223215
+1702,Artificial Intelligence,Evaluation of Sentiment Analysis in Finance: From Lexicons to Transformers,https://doi.org/10.1109/access.2020.3009626,2020,278,https://openalex.org/W3043424630
+1702,Artificial Intelligence,A New Approach to the Study of Translationese: Machine-learning the Difference between Original and Translated Text,https://doi.org/10.1093/llc/fqi039,2005,215,https://openalex.org/W2148959489
+1702,Artificial Intelligence,A Framework for Malicious Traffic Detection in IoT Healthcare Environment,https://doi.org/10.3390/s21093025,2021,195,https://openalex.org/W3159885303
 3320,Political Science and International Relations,"Expressive Political Behaviour: Foundations, Scope and Implications",https://doi.org/10.1017/s0007123411000020,2011,320,https://openalex.org/W2132774477
-3320,Political Science and International Relations,"“Geography of Opportunity”: Poverty, Place, and Educational Outcomes",https://doi.org/10.3102/0013189x08326409,2008,246,https://openalex.org/W2086179770
-3320,Political Science and International Relations,Capacity building: Facilitating citizen participation in local governance,https://doi.org/10.1111/j.1467-8500.2005.00465a.x,2005,169,https://openalex.org/W2034258480
-1710,Information Systems,Accounting and Auditing at the Time of Blockchain Technology: A Research Agenda,https://doi.org/10.1111/auar.12286,2019,399,https://openalex.org/W2932432602
+3320,Political Science and International Relations,"“Geography of Opportunity”: Poverty, Place, and Educational Outcomes",https://doi.org/10.3102/0013189x08326409,2008,247,https://openalex.org/W2086179770
+3320,Political Science and International Relations,A Novel ICT Framework for Sustainable Development Goals,https://doi.org/10.3390/su11071961,2019,170,https://openalex.org/W2929627427
+3320,Political Science and International Relations,Capacity building: Facilitating citizen participation in local governance,https://doi.org/10.1111/j.1467-8500.2005.00465a.x,2005,170,https://openalex.org/W2034258480
+3320,Political Science and International Relations,"Policy windows, ambiguity and Commission entrepreneurship: explaining the relaunch of the European Union's economic reform agenda",https://doi.org/10.1080/13501763.2013.800789,2013,162,https://openalex.org/W2002444651
+3320,Political Science and International Relations,"Punctuations and Turning Points in British Politics: The Policy Agenda of the Queen’s Speech, 1940–2005",https://doi.org/10.1017/s0007123409990068,2010,105,https://openalex.org/W2105117703
+3320,Political Science and International Relations,Routledge Handbook of Comparative Political Institutions,https://doi.org/10.4324/9781315731377,2015,97,https://openalex.org/W1556171291
+3320,Political Science and International Relations,Oxford Handbook of Freedom,,2018,81,https://openalex.org/W2737244831
+3320,Political Science and International Relations,Was the EU's Role in Conflict Management in Macedonia a Success?,https://doi.org/10.1080/17449050903086955,2009,69,https://openalex.org/W2024386294
+3320,Political Science and International Relations,Stabilization at the Expense of Peacebuilding in UN Peacekeeping Operations,https://doi.org/10.1163/19426720-02601001,2020,67,https://openalex.org/W3001611882
+1710,Information Systems,Accounting and Auditing at the Time of Blockchain Technology: A Research Agenda,https://doi.org/10.1111/auar.12286,2019,401,https://openalex.org/W2932432602
 1710,Information Systems,Blockchain solutions for big data challenges: A literature review,https://doi.org/10.1109/eurocon.2017.8011213,2017,377,https://openalex.org/W2749029156
 1710,Information Systems,Economics of Blockchain,https://doi.org/10.2139/ssrn.2744751,2016,292,https://openalex.org/W2295894398
-1312,Molecular Biology,Clinical Relevance of Biomarkers of Oxidative Stress,https://doi.org/10.1089/ars.2015.6317,2015,831,https://openalex.org/W2139131794
-1312,Molecular Biology,Clinical practice guideline on diagnosis and treatment of hyponatraemia,https://doi.org/10.1530/eje-13-1020,2014,764,https://openalex.org/W4294554863
-1312,Molecular Biology,An extensive experimental comparison of methods for multi-label learning,https://doi.org/10.1016/j.patcog.2012.03.004,2012,720,https://openalex.org/W2145827727
+1710,Information Systems,"Evaluating the structural validity of the Multifactor Leadership Questionnaire (MLQ), capturing the leadership factors of transformational-transactional leadership",https://doi.org/10.7903/cmr.704,2008,226,https://openalex.org/W1651132884
+1710,Information Systems,The impact of knowledge spillovers and innovation on firm-performance: findings from the Balkans countries,https://doi.org/10.1007/s11365-016-0393-8,2016,154,https://openalex.org/W2318182400
+1710,Information Systems,Big Data Analytics and Other Emerging Technologies: The Impact on the Australian Audit and Assurance Profession,https://doi.org/10.1111/auar.12305,2020,144,https://openalex.org/W3028278468
+1710,Information Systems,Mining Facebook Data for Predictive Personality Modeling,https://doi.org/10.1609/icwsm.v7i2.14466,2021,134,https://openalex.org/W2149202561
+1710,Information Systems,Does banking sector development promote economic growth? An empirical analysis for selected countries in Central and South Eastern Europe,https://doi.org/10.1080/1331677x.2014.947107,2014,128,https://openalex.org/W2092407531
+1710,Information Systems,Disrupting Governance: The New Institutional Economics of Distributed Ledger Technology,https://doi.org/10.2139/ssrn.2811995,2016,123,https://openalex.org/W2518442155
+1710,Information Systems,Formal semantics and verification for feature modeling,https://doi.org/10.1109/iceccs.2005.48,2005,112,https://openalex.org/W2172146003
+1312,Molecular Biology,Clinical Relevance of Biomarkers of Oxidative Stress,https://doi.org/10.1089/ars.2015.6317,2015,835,https://openalex.org/W2139131794
+1312,Molecular Biology,Clinical practice guideline on diagnosis and treatment of hyponatraemia,https://doi.org/10.1530/eje-13-1020,2014,767,https://openalex.org/W4294554863
+1312,Molecular Biology,An extensive experimental comparison of methods for multi-label learning,https://doi.org/10.1016/j.patcog.2012.03.004,2012,722,https://openalex.org/W2145827727
+1312,Molecular Biology,Clinical practice guideline on diagnosis and treatment of hyponatraemia,https://doi.org/10.1093/ndt/gfu040,2014,525,https://openalex.org/W4252928828
+1312,Molecular Biology,Cytokine storm and COVID-19: a chronicle of pro-inflammatory cytokines,https://doi.org/10.1098/rsob.200160,2020,373,https://openalex.org/W3087308906
+1312,Molecular Biology,"Applications of Machine Learning in Human Microbiome Studies: A Review on Feature Selection, Biomarker Identification, Disease Prediction and Treatment",https://doi.org/10.3389/fmicb.2021.634511,2021,326,https://openalex.org/W3132461044
+1312,Molecular Biology,"HMGB1: A Common Biomarker and Potential Target for TBI, Neuroinflammation, Epilepsy, and Cognitive Dysfunction",https://doi.org/10.3389/fnins.2018.00628,2018,286,https://openalex.org/W2889849480
+1312,Molecular Biology,A global analysis of Y-chromosomal haplotype diversity for 23 STR loci,https://doi.org/10.1016/j.fsigen.2014.04.008,2014,270,https://openalex.org/W2155845974
+1312,Molecular Biology,A multi-disciplinary perspective on emergent and future innovations in peer review,https://doi.org/10.12688/f1000research.12037.3,2017,241,https://openalex.org/W2737988770
+1312,Molecular Biology,"Membrane Protein Structure, Function, and Dynamics: a Perspective from Experiments and Theory",https://doi.org/10.1007/s00232-015-9802-0,2015,233,https://openalex.org/W2103496068
 1705,Computer Networks and Communications,A review of Internet of Things for smart home: Challenges and solutions,https://doi.org/10.1016/j.jclepro.2016.10.006,2016,1346,https://openalex.org/W2529556398
-1705,Computer Networks and Communications,Sparse Signal Processing for Grant-Free Massive Connectivity: A Future Paradigm for Random Access Protocols in the Internet of Things,https://doi.org/10.1109/msp.2018.2844952,2018,490,https://openalex.org/W2890736047
+1705,Computer Networks and Communications,Sparse Signal Processing for Grant-Free Massive Connectivity: A Future Paradigm for Random Access Protocols in the Internet of Things,https://doi.org/10.1109/msp.2018.2844952,2018,492,https://openalex.org/W2890736047
 1705,Computer Networks and Communications,Blockchain solutions for big data challenges: A literature review,https://doi.org/10.1109/eurocon.2017.8011213,2017,377,https://openalex.org/W2749029156
+1705,Computer Networks and Communications,Predicting academic performance: a systematic literature review,https://doi.org/10.1145/3293881.3295783,2018,324,https://openalex.org/W2909913588
+1705,Computer Networks and Communications,Estimating Topology of Networks,https://doi.org/10.1103/physrevlett.97.188701,2006,247,https://openalex.org/W2086895120
+1705,Computer Networks and Communications,"Literature on Wearable Technology for Connected Health: Scoping Review of Research Trends, Advances, and Barriers",https://doi.org/10.2196/14017,2019,225,https://openalex.org/W2971635999
+1705,Computer Networks and Communications,Model for rumor spreading over networks,https://doi.org/10.1103/physreve.81.056102,2010,211,https://openalex.org/W2040938924
+1705,Computer Networks and Communications,A Framework for Malicious Traffic Detection in IoT Healthcare Environment,https://doi.org/10.3390/s21093025,2021,195,https://openalex.org/W3159885303
+1705,Computer Networks and Communications,IoT agriculture system based on LoRaWAN,https://doi.org/10.1109/wfcs.2018.8402368,2018,182,https://openalex.org/W2850054110
+1705,Computer Networks and Communications,Exponential synchronization of memristive Cohen–Grossberg neural networks with mixed delays,https://doi.org/10.1007/s11571-013-9277-6,2014,179,https://openalex.org/W1992911135
 3600,General Health Professions,"JOB SATISFACTION, A LITERATURE REVIEW",,2011,782,https://openalex.org/W2133346135
 3600,General Health Professions,Key principles for the improved conduct of health technology assessments for resource allocation decisions,https://doi.org/10.1017/s0266462308080343,2008,480,https://openalex.org/W2140326213
-3600,General Health Professions,Are quality improvement collaboratives effective? A systematic review,https://doi.org/10.1136/bmjqs-2017-006926,2017,413,https://openalex.org/W2766809004
-3304,Education,"“Geography of Opportunity”: Poverty, Place, and Educational Outcomes",https://doi.org/10.3102/0013189x08326409,2008,246,https://openalex.org/W2086179770
+3600,General Health Professions,Are quality improvement collaboratives effective? A systematic review,https://doi.org/10.1136/bmjqs-2017-006926,2017,414,https://openalex.org/W2766809004
+3600,General Health Professions,Adverse childhood experiences and associations with health-harming behaviours in young adults: surveys in eight eastern European countries,https://doi.org/10.2471/blt.13.129247,2014,328,https://openalex.org/W2005715595
+3600,General Health Professions,Prevalence of Severe Obesity among Primary School Children in 21 European Countries,https://doi.org/10.1159/000500436,2019,310,https://openalex.org/W2941687566
+3600,General Health Professions,"Literature on Wearable Technology for Connected Health: Scoping Review of Research Trends, Advances, and Barriers",https://doi.org/10.2196/14017,2019,225,https://openalex.org/W2971635999
+3600,General Health Professions,Concepts and definitions of health and health-related values in the knowledge landscapes of the digital society,https://doi.org/10.3325/cmj.2017.58.431,2017,217,https://openalex.org/W2790380953
+3600,General Health Professions,Sampling Techniques (Probability) for Quantitative Social Science Researchers: A Conceptual Guidelines with Examples,https://doi.org/10.2478/seeur-2022-0023,2022,196,https://openalex.org/W4283767543
+3600,General Health Professions,Variation in GP decisions on antihypertensive treatment in oldest-old and frail individuals across 29 countries,https://doi.org/10.1186/s12877-017-0486-4,2017,164,https://openalex.org/W2606455055
+3600,General Health Professions,"Big data for education data mining, data analytics and web dashboards",,2015,161,https://openalex.org/W2170586871
+3304,Education,"“Geography of Opportunity”: Poverty, Place, and Educational Outcomes",https://doi.org/10.3102/0013189x08326409,2008,247,https://openalex.org/W2086179770
 3304,Education,"The context of Islamic entrepreneurship and business: concept, principles and perspectives",https://doi.org/10.1504/ijbg.2015.071906,2015,181,https://openalex.org/W2182275863
 3304,Education,INTERNET ADDICTION: A REVIEW OF THE FIRST TWENTY YEARS,https://doi.org/10.24869/psyd.2017.260,2017,180,https://openalex.org/W2755206989
+3304,Education,Advances in problematic usage of the internet research – A narrative review by experts from the European network for problematic usage of the internet,https://doi.org/10.1016/j.comppsych.2022.152346,2022,172,https://openalex.org/W4291914097
+3304,Education,The Effectiveness of Using Movies in the EFL Classroom – A Study Conducted at South East European University,https://doi.org/10.5901/ajis.2012.v2n4p121,2013,159,https://openalex.org/W2052617278
+3304,Education,Virtual Reality Technology as an Educational and Intervention Tool for Children with Autism Spectrum Disorder: Current Perspectives and Future Directions,https://doi.org/10.3390/bs12050138,2022,158,https://openalex.org/W4280547228
+3304,Education,Curriculum Change in Universities,https://doi.org/10.1177/097340820900300115,2009,155,https://openalex.org/W2072433272
+3304,Education,SYNCHRONOUS AND ASYNCHRONOUS E-LEARNING,https://doi.org/10.46827/ejoe.v5i2.3313,2020,147,https://openalex.org/W3086754269
+3304,Education,Use of early intervention for young children with autism spectrum disorder across Europe,https://doi.org/10.1177/1362361315577218,2015,126,https://openalex.org/W2138060423
+3304,Education,Entrepreneurial intentions from an Islamic perspective: a study of Muslim entrepreneurs in Indonesia,https://doi.org/10.1504/ijesb.2017.10004845,2017,103,https://openalex.org/W2614416405

@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-1204,Archeology,Plant foods and the dietary ecology of Neanderthals and early modern humans,https://doi.org/10.1016/j.jhevol.2013.12.014,2014,228,https://openalex.org/W2083776525
-1204,Archeology,"Using plant microfossils from dental calculus to recover human diet: a case study from Tell al-Raqā'i, Syria",https://doi.org/10.1016/j.jas.2007.12.005,2008,217,https://openalex.org/W2089563943
-1204,Archeology,Archaeogenomic distinctiveness of the Isthmo-Colombian area,https://doi.org/10.1016/j.cell.2021.02.040,2021,95,https://openalex.org/W3139311264
-1202,History,Starch Fossils and the Domestication and Dispersal of Chili Peppers ( <i>Capsicum</i> spp. L.) in the Americas,https://doi.org/10.1126/science.1136914,2007,409,https://openalex.org/W2112941921
+1204,Archeology,Plant foods and the dietary ecology of Neanderthals and early modern humans,https://doi.org/10.1016/j.jhevol.2013.12.014,2014,231,https://openalex.org/W2083776525
+1204,Archeology,"Using plant microfossils from dental calculus to recover human diet: a case study from Tell al-Raqā'i, Syria",https://doi.org/10.1016/j.jas.2007.12.005,2008,218,https://openalex.org/W2089563943
+1204,Archeology,Archaeogenomic distinctiveness of the Isthmo-Colombian area,https://doi.org/10.1016/j.cell.2021.02.040,2021,97,https://openalex.org/W3139311264
+1204,Archeology,"New evidence for the processing of wild cereal grains at Ohalo II, a 23 000-year-old campsite on the shore of the Sea of Galilee, Israel",https://doi.org/10.1017/s0003598x00048201,2012,90,https://openalex.org/W1871247782
+1204,Archeology,Analysis of the human Y-chromosome haplogroup Q characterizes ancient population movements in Eurasia and the Americas,https://doi.org/10.1186/s12915-018-0622-4,2019,58,https://openalex.org/W2922679276
+1204,Archeology,"Brains, islands and evolution: breaking all the rules",https://doi.org/10.1016/j.tree.2006.11.009,2006,52,https://openalex.org/W2050709198
+1204,Archeology,Source identification of western Oregon Douglas‐fir wood cores using mass spectrometry and random forest classification,https://doi.org/10.3732/apps.1600158,2017,48,https://openalex.org/W2613298103
+1204,Archeology,Study of iron benzoate as a novel steel corrosion inhibitor pigment for protective paint films,https://doi.org/10.1016/j.corsci.2007.05.008,2007,43,https://openalex.org/W2076611745
+1204,Archeology,Temple to Mithras Carrawburgh,https://doi.org/10.5281/zenodo.10299115,2018,37,https://openalex.org/W4393822127
+1204,Archeology,Analysis of Short-Term Steel Corrosion Products Formed in Tropical Marine Environments of Panama,https://doi.org/10.1155/2012/162729,2012,32,https://openalex.org/W2141275926
+1202,History,Starch Fossils and the Domestication and Dispersal of Chili Peppers ( <i>Capsicum</i> spp. L.) in the Americas,https://doi.org/10.1126/science.1136914,2007,410,https://openalex.org/W2112941921
 1202,History,Sparse Pre-Columbian Human Habitation in Western Amazonia,https://doi.org/10.1126/science.1219982,2012,241,https://openalex.org/W2074196267
 1202,History,Starch grain evidence for the preceramic dispersals of maize and root crops into tropical dry and humid forests of Panama,https://doi.org/10.1073/pnas.0611605104,2007,201,https://openalex.org/W2151084986
-1105,"Ecology, Evolution, Behavior and Systematics",The global spectrum of plant form and function,https://doi.org/10.1038/nature16489,2015,2983,https://openalex.org/W2218052335
-1105,"Ecology, Evolution, Behavior and Systematics","Amazonia Through Time: Andean Uplift, Climate Change, Landscape Evolution, and Biodiversity",https://doi.org/10.1126/science.1194585,2010,2269,https://openalex.org/W2112184907
-1105,"Ecology, Evolution, Behavior and Systematics",Hyperdominance in the Amazonian Tree Flora,https://doi.org/10.1126/science.1243092,2013,1351,https://openalex.org/W2134105845
-3312,Sociology and Political Science,"Constructing, conducting and interpreting animal social network analysis",https://doi.org/10.1111/1365-2656.12418,2015,907,https://openalex.org/W1828958803
-3312,Sociology and Political Science,Experimentally induced innovations lead to persistent culture via conformity in wild birds,https://doi.org/10.1038/nature13998,2014,706,https://openalex.org/W1982707930
-3312,Sociology and Political Science,Shared decision-making drives collective movement in wild baboons,https://doi.org/10.1126/science.aaa5099,2015,571,https://openalex.org/W2171848690
-3314,Anthropology,Species-specific responses of Late Quaternary megafauna to climate and humans,https://doi.org/10.1038/nature10574,2011,675,https://openalex.org/W2100346898
-3314,Anthropology,"Microfossils in calculus demonstrate consumption of plants and cooked foods in Neanderthal diets (Shanidar III, Iraq; Spy I and II, Belgium)",https://doi.org/10.1073/pnas.1016868108,2010,498,https://openalex.org/W2020706664
-3314,Anthropology,Plant foods and the dietary ecology of Neanderthals and early modern humans,https://doi.org/10.1016/j.jhevol.2013.12.014,2014,228,https://openalex.org/W2083776525
-3320,Political Science and International Relations,Ten simple rules for Global North researchers to stop perpetuating helicopter research in the Global South,https://doi.org/10.1371/journal.pcbi.1009277,2021,246,https://openalex.org/W3193474197
+1202,History,"Pre-Columbian agricultural landscapes, ecosystem engineers, and self-organized patchiness in Amazonia",https://doi.org/10.1073/pnas.0908925107,2010,195,https://openalex.org/W2049415297
+1202,History,"Preceramic maize from Paredones and Huaca Prieta, Peru",https://doi.org/10.1073/pnas.1120270109,2011,136,https://openalex.org/W2151522339
+1202,History,Anthropogenic influence on Amazonian forests in pre‐history: An ecological perspective,https://doi.org/10.1111/jbi.12638,2015,117,https://openalex.org/W1883782445
+1202,History,"Microfossil evidence for pre-Columbian maize dispersals in the neotropics from San Andrés, Tabasco, Mexico",https://doi.org/10.1073/pnas.0701425104,2007,115,https://openalex.org/W2120444211
+1202,History,"Prehistory of Native Americans on the Central American Land Bridge: Colonization, Dispersal, and Divergence",https://doi.org/10.1007/s10804-005-2486-4,2005,113,https://openalex.org/W1985378976
+1202,History,Amazonia and the Anthropocene: What was the spatial extent and intensity of human landscape modification in the Amazon Basin at the end of prehistory?,https://doi.org/10.1177/0959683615588374,2015,109,https://openalex.org/W634857327
+1202,History,"Diversity of cultivars and other plant resources used at habitation sites in the Llanos de Mojos, Beni, Bolivia: evidence from macrobotanical remains, starch grains, and phytoliths",https://doi.org/10.1016/j.jas.2011.09.021,2011,109,https://openalex.org/W2054347580
+1105,"Ecology, Evolution, Behavior and Systematics",The global spectrum of plant form and function,https://doi.org/10.1038/nature16489,2015,2995,https://openalex.org/W2218052335
+1105,"Ecology, Evolution, Behavior and Systematics","Amazonia Through Time: Andean Uplift, Climate Change, Landscape Evolution, and Biodiversity",https://doi.org/10.1126/science.1194585,2010,2278,https://openalex.org/W2112184907
+1105,"Ecology, Evolution, Behavior and Systematics",Hyperdominance in the Amazonian Tree Flora,https://doi.org/10.1126/science.1243092,2013,1354,https://openalex.org/W2134105845
+1105,"Ecology, Evolution, Behavior and Systematics",Drought sensitivity shapes species distribution patterns in tropical forests,https://doi.org/10.1038/nature05747,2007,1042,https://openalex.org/W2158086023
+1105,"Ecology, Evolution, Behavior and Systematics",Long-Distance Dispersal of Plants,https://doi.org/10.1126/science.1124975,2006,1020,https://openalex.org/W1982662500
+1105,"Ecology, Evolution, Behavior and Systematics",Soil nutrients influence spatial distributions of tropical tree species,https://doi.org/10.1073/pnas.0604666104,2007,961,https://openalex.org/W2121592212
+1105,"Ecology, Evolution, Behavior and Systematics",Plant functional traits have globally consistent effects on competition,https://doi.org/10.1038/nature16476,2015,914,https://openalex.org/W2235415383
+1105,"Ecology, Evolution, Behavior and Systematics",Formation of the Isthmus of Panama,https://doi.org/10.1126/sciadv.1600883,2016,914,https://openalex.org/W2516907192
+1105,"Ecology, Evolution, Behavior and Systematics","Constructing, conducting and interpreting animal social network analysis",https://doi.org/10.1111/1365-2656.12418,2015,910,https://openalex.org/W1828958803
+1105,"Ecology, Evolution, Behavior and Systematics",Biotic interactions and plant invasions,https://doi.org/10.1111/j.1461-0248.2006.00908.x,2006,791,https://openalex.org/W2164571272
+3312,Sociology and Political Science,"Constructing, conducting and interpreting animal social network analysis",https://doi.org/10.1111/1365-2656.12418,2015,910,https://openalex.org/W1828958803
+3312,Sociology and Political Science,Experimentally induced innovations lead to persistent culture via conformity in wild birds,https://doi.org/10.1038/nature13998,2014,709,https://openalex.org/W1982707930
+3312,Sociology and Political Science,Shared decision-making drives collective movement in wild baboons,https://doi.org/10.1126/science.aaa5099,2015,573,https://openalex.org/W2171848690
+3312,Sociology and Political Science,The case for ecological neutral theory,https://doi.org/10.1016/j.tree.2012.01.004,2012,337,https://openalex.org/W2017628158
+3312,Sociology and Political Science,From Individuals to Groups and Back: The Evolutionary Implications of Group Phenotypic Composition,https://doi.org/10.1016/j.tree.2015.07.005,2015,226,https://openalex.org/W2128068750
+3312,Sociology and Political Science,The evolution of mutualism,https://doi.org/10.1111/j.1420-9101.2010.02114.x,2010,220,https://openalex.org/W1915482485
+3312,Sociology and Political Science,Three-year Efficacy and Safety of Takeda’s Dengue Vaccine Candidate (TAK-003),https://doi.org/10.1093/cid/ciab864,2021,208,https://openalex.org/W3203455658
+3312,Sociology and Political Science,Digital marketing adoption and success for small businesses,https://doi.org/10.1108/jrim-04-2018-0062,2019,199,https://openalex.org/W2942500955
+3312,Sociology and Political Science,Social networks in primates: smart and tolerant species have more efficient networks,https://doi.org/10.1038/srep07600,2014,177,https://openalex.org/W2052025210
+3312,Sociology and Political Science,Inferring influence and leadership in moving animal groups,https://doi.org/10.1098/rstb.2017.0006,2018,154,https://openalex.org/W2791392674
+3314,Anthropology,Species-specific responses of Late Quaternary megafauna to climate and humans,https://doi.org/10.1038/nature10574,2011,677,https://openalex.org/W2100346898
+3314,Anthropology,"Microfossils in calculus demonstrate consumption of plants and cooked foods in Neanderthal diets (Shanidar III, Iraq; Spy I and II, Belgium)",https://doi.org/10.1073/pnas.1016868108,2010,499,https://openalex.org/W2020706664
+3314,Anthropology,Plant foods and the dietary ecology of Neanderthals and early modern humans,https://doi.org/10.1016/j.jhevol.2013.12.014,2014,231,https://openalex.org/W2083776525
+3314,Anthropology,Particularism and the retreat from theory in the archaeology of agricultural origins,https://doi.org/10.1073/pnas.1308938110,2014,143,https://openalex.org/W2035798022
+3314,Anthropology,"Rapid climate change and no-analog vegetation in lowland Central America during the last 86,000 years",https://doi.org/10.1016/j.quascirev.2012.01.025,2012,142,https://openalex.org/W2064680900
+3314,Anthropology,"Simple technologies and diverse food strategies of the Late Pleistocene and Early Holocene at Huaca Prieta, Coastal Peru",https://doi.org/10.1126/sciadv.1602778,2017,139,https://openalex.org/W2620199428
+3314,Anthropology,Beinghood and people-making in native Amazonia,https://doi.org/10.14318/hau2.1.010,2012,94,https://openalex.org/W1985251539
+3314,Anthropology,"New evidence for the processing of wild cereal grains at Ohalo II, a 23 000-year-old campsite on the shore of the Sea of Galilee, Israel",https://doi.org/10.1017/s0003598x00048201,2012,90,https://openalex.org/W1871247782
+3314,Anthropology,Was southern Central America an archipelago or a peninsula in the middle Miocene? A test using land-mammal body size,https://doi.org/10.1016/j.palaeo.2005.06.002,2005,82,https://openalex.org/W2149008031
+3314,Anthropology,"Chronology, mound-building and environment at Huaca Prieta, coastal Peru, from 13 700 to 4000 years ago",https://doi.org/10.1017/s0003598x00062451,2012,78,https://openalex.org/W2201022418
+3320,Political Science and International Relations,Ten simple rules for Global North researchers to stop perpetuating helicopter research in the Global South,https://doi.org/10.1371/journal.pcbi.1009277,2021,248,https://openalex.org/W3193474197
 3320,Political Science and International Relations,Teoría general del Estado,https://doi.org/10.61311/2953-2965.28,2022,71,https://openalex.org/W4387918934
 3320,Political Science and International Relations,Plan de Desarrollo Institucional,,2016,59,https://openalex.org/W2606207813
-2303,Ecology,Impacts of Biodiversity Loss on Ocean Ecosystem Services,https://doi.org/10.1126/science.1132294,2006,4370,https://openalex.org/W2156709416
-2303,Ecology,Sharing and community curation of mass spectrometry data with Global Natural Products Social Molecular Networking,https://doi.org/10.1038/nbt.3597,2016,4080,https://openalex.org/W2504691963
-2303,Ecology,"Depletion, Degradation, and Recovery Potential of Estuaries and Coastal Seas",https://doi.org/10.1126/science.1128035,2006,3212,https://openalex.org/W2067804762
-1110,Plant Science,Mycorrhiza-mediated competition between plants and decomposers drives soil carbon storage,https://doi.org/10.1038/nature12901,2014,1032,https://openalex.org/W2138353304
-1110,Plant Science,Long-Distance Dispersal of Plants,https://doi.org/10.1126/science.1124975,2006,1019,https://openalex.org/W1982662500
+3320,Political Science and International Relations,El poder constituyente,https://doi.org/10.37594/cathedra.n6.125,2017,58,https://openalex.org/W3016187081
+3320,Political Science and International Relations,Temple to Mithras Carrawburgh,https://doi.org/10.5281/zenodo.10299115,2018,37,https://openalex.org/W4393822127
+3320,Political Science and International Relations,"Submarine Cables, Cybersecurity and International Law: An Intersectional Analysis",,2015,33,https://openalex.org/W2225230668
+3320,Political Science and International Relations,The Legal Education of Pope Innocent III,https://doi.org/10.4324/9781003556947-2,2024,27,https://openalex.org/W814792477
+3320,Political Science and International Relations,Ministry of Defence of the Russian Federation,https://doi.org/10.5281/zenodo.10388565,2019,22,https://openalex.org/W4393645243
+3320,Political Science and International Relations,Mitigating losses: how scientific organisations can help address the impact of the COVID-19 pandemic on early-career researchers,https://doi.org/10.1057/s41599-021-00944-1,2021,20,https://openalex.org/W3215571054
+3320,Political Science and International Relations,Evidence does not support the rationale of the TEF,https://doi.org/10.21100/compass.v10i2.496,2017,17,https://openalex.org/W2616780521
+2303,Ecology,Impacts of Biodiversity Loss on Ocean Ecosystem Services,https://doi.org/10.1126/science.1132294,2006,4374,https://openalex.org/W2156709416
+2303,Ecology,Sharing and community curation of mass spectrometry data with Global Natural Products Social Molecular Networking,https://doi.org/10.1038/nbt.3597,2016,4116,https://openalex.org/W2504691963
+2303,Ecology,"Depletion, Degradation, and Recovery Potential of Estuaries and Coastal Seas",https://doi.org/10.1126/science.1128035,2006,3216,https://openalex.org/W2067804762
+2303,Ecology,SOAPnuke: a MapReduce acceleration-supported software for integrated quality control and preprocessing of high-throughput sequencing data,https://doi.org/10.1093/gigascience/gix120,2017,2346,https://openalex.org/W2774072836
+2303,Ecology,The Sorcerer II Global Ocean Sampling Expedition: Northwest Atlantic through Eastern Tropical Pacific,https://doi.org/10.1371/journal.pbio.0050077,2007,2077,https://openalex.org/W2093830129
+2303,Ecology,Terrestrial animal tracking as an eye on life and planet,https://doi.org/10.1126/science.aaa2478,2015,1565,https://openalex.org/W2140452356
+2303,Ecology,Impacts of roads and linear clearings on tropical forests,https://doi.org/10.1016/j.tree.2009.06.009,2009,1154,https://openalex.org/W2141947797
+2303,Ecology,Formation of the Isthmus of Panama,https://doi.org/10.1126/sciadv.1600883,2016,914,https://openalex.org/W2516907192
+2303,Ecology,Baselines and Degradation of Coral Reefs in the Northern Line Islands,https://doi.org/10.1371/journal.pone.0001548,2008,897,https://openalex.org/W2113903666
+2303,Ecology,"Caribbean Corals in Crisis: Record Thermal Stress, Bleaching, and Mortality in 2005",https://doi.org/10.1371/journal.pone.0013969,2010,889,https://openalex.org/W2156568771
+1110,Plant Science,Mycorrhiza-mediated competition between plants and decomposers drives soil carbon storage,https://doi.org/10.1038/nature12901,2014,1033,https://openalex.org/W2138353304
+1110,Plant Science,Long-Distance Dispersal of Plants,https://doi.org/10.1126/science.1124975,2006,1020,https://openalex.org/W1982662500
 1110,Plant Science,Biotic interactions and plant invasions,https://doi.org/10.1111/j.1461-0248.2006.00908.x,2006,791,https://openalex.org/W2164571272
-1311,Genetics,The Unified Neutral Theory of Biodiversity and Biogeography at Age Ten,https://doi.org/10.1016/j.tree.2011.03.024,2011,1076,https://openalex.org/W2100167171
-1311,Genetics,Developmental plasticity and the origin of species differences,https://doi.org/10.1073/pnas.0501844102,2005,961,https://openalex.org/W2057250255
-1311,Genetics,"Community-led, integrated, reproducible multi-omics with anvi’o",https://doi.org/10.1038/s41564-020-00834-3,2020,832,https://openalex.org/W3116000462
-2309,Nature and Landscape Conservation,The global spectrum of plant form and function,https://doi.org/10.1038/nature16489,2015,2983,https://openalex.org/W2218052335
-2309,Nature and Landscape Conservation,Improved allometric models to estimate the aboveground biomass of tropical trees,https://doi.org/10.1111/gcb.12629,2014,2692,https://openalex.org/W2133613984
-2309,Nature and Landscape Conservation,"Amazonia Through Time: Andean Uplift, Climate Change, Landscape Evolution, and Biodiversity",https://doi.org/10.1126/science.1194585,2010,2269,https://openalex.org/W2112184907
+1110,Plant Science,Phylogenetic signal in plant pathogen–host range,https://doi.org/10.1073/pnas.0607968104,2007,774,https://openalex.org/W2170409858
+1110,Plant Science,"Starch grain and phytolith evidence for early ninth millennium B.P. maize from the Central Balsas River Valley, Mexico",https://doi.org/10.1073/pnas.0812525106,2009,703,https://openalex.org/W2091355719
+1110,Plant Science,Relationships between phyllosphere bacterial communities and plant functional traits in a neotropical forest,https://doi.org/10.1073/pnas.1216057111,2014,656,https://openalex.org/W2075866460
+1110,Plant Science,Soil microbes drive the classic plant diversity–productivity pattern,https://doi.org/10.1890/10-0773.1,2010,646,https://openalex.org/W2045076507
+1110,Plant Science,Sensitivity of leaf size and shape to climate: global patterns and paleoclimatic applications,https://doi.org/10.1111/j.1469-8137.2010.03615.x,2011,607,https://openalex.org/W2117236901
+1110,Plant Science,Environmental and physiological determinants of carbon isotope discrimination in terrestrial plants,https://doi.org/10.1111/nph.12423,2013,600,https://openalex.org/W2171137015
+1110,Plant Science,Testing predictions of the <scp>J</scp>anzen–<scp>C</scp>onnell hypothesis: a meta‐analysis of experimental evidence for distance‐ and density‐dependent seed and seedling survival,https://doi.org/10.1111/1365-2745.12232,2014,589,https://openalex.org/W2149208876
+1311,Genetics,The Unified Neutral Theory of Biodiversity and Biogeography at Age Ten,https://doi.org/10.1016/j.tree.2011.03.024,2011,1079,https://openalex.org/W2100167171
+1311,Genetics,Developmental plasticity and the origin of species differences,https://doi.org/10.1073/pnas.0501844102,2005,963,https://openalex.org/W2057250255
+1311,Genetics,"Community-led, integrated, reproducible multi-omics with anvi’o",https://doi.org/10.1038/s41564-020-00834-3,2020,841,https://openalex.org/W3116000462
+1311,Genetics,Current perspectives and the future of domestication studies,https://doi.org/10.1073/pnas.1323964111,2014,831,https://openalex.org/W2073835608
+1311,Genetics,Soil microbes drive the classic plant diversity–productivity pattern,https://doi.org/10.1890/10-0773.1,2010,646,https://openalex.org/W2045076507
+1311,Genetics,Chromosomal rearrangements maintain a polymorphic supergene controlling butterfly mimicry,https://doi.org/10.1038/nature10341,2011,611,https://openalex.org/W1993608360
+1311,Genetics,The Evolution of Agriculture in Insects,https://doi.org/10.1146/annurev.ecolsys.36.102003.152626,2005,579,https://openalex.org/W2149027072
+1311,Genetics,Genomic architecture and introgression shape a butterfly radiation,https://doi.org/10.1126/science.aaw2090,2019,578,https://openalex.org/W2982348757
+1311,Genetics,Stingless bee nesting biology,https://doi.org/10.1051/apido:2006026,2006,562,https://openalex.org/W1977447105
+1311,Genetics,Higher predation risk for insect prey at low latitudes and elevations,https://doi.org/10.1126/science.aaj1631,2017,497,https://openalex.org/W2616111333
+2309,Nature and Landscape Conservation,The global spectrum of plant form and function,https://doi.org/10.1038/nature16489,2015,2995,https://openalex.org/W2218052335
+2309,Nature and Landscape Conservation,Improved allometric models to estimate the aboveground biomass of tropical trees,https://doi.org/10.1111/gcb.12629,2014,2703,https://openalex.org/W2133613984
+2309,Nature and Landscape Conservation,"Amazonia Through Time: Andean Uplift, Climate Change, Landscape Evolution, and Biodiversity",https://doi.org/10.1126/science.1194585,2010,2278,https://openalex.org/W2112184907
+2309,Nature and Landscape Conservation,Hyperdominance in the Amazonian Tree Flora,https://doi.org/10.1126/science.1243092,2013,1354,https://openalex.org/W2134105845
+2309,Nature and Landscape Conservation,Pervasive shifts in forest dynamics in a changing world,https://doi.org/10.1126/science.aaz9463,2020,1164,https://openalex.org/W3028823434
+2309,Nature and Landscape Conservation,Long-term decline of the Amazon carbon sink,https://doi.org/10.1038/nature14283,2015,1137,https://openalex.org/W2048605790
+2309,Nature and Landscape Conservation,Biomass resilience of Neotropical secondary forests,https://doi.org/10.1038/nature16512,2016,1085,https://openalex.org/W2261784637
+2309,Nature and Landscape Conservation,The Unified Neutral Theory of Biodiversity and Biogeography at Age Ten,https://doi.org/10.1016/j.tree.2011.03.024,2011,1079,https://openalex.org/W2100167171
+2309,Nature and Landscape Conservation,Drought sensitivity shapes species distribution patterns in tropical forests,https://doi.org/10.1038/nature05747,2007,1042,https://openalex.org/W2158086023
+2309,Nature and Landscape Conservation,Long-Distance Dispersal of Plants,https://doi.org/10.1126/science.1124975,2006,1020,https://openalex.org/W1982662500

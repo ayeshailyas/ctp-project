@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-3312,Sociology and Political Science,PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation,https://doi.org/10.7326/m18-0850,2018,33210,https://openalex.org/W2891378911
-3312,Sociology and Political Science,The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) Statement: Guidelines for reporting observational studies,https://doi.org/10.1016/j.ijsu.2014.07.013,2014,9083,https://openalex.org/W4294116629
-3312,Sociology and Political Science,Updated methodological guidance for the conduct of scoping reviews,https://doi.org/10.11124/jbies-20-00167,2020,5089,https://openalex.org/W3092419658
+3312,Sociology and Political Science,PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation,https://doi.org/10.7326/m18-0850,2018,33616,https://openalex.org/W2891378911
+3312,Sociology and Political Science,The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) Statement: Guidelines for reporting observational studies,https://doi.org/10.1016/j.ijsu.2014.07.013,2014,9129,https://openalex.org/W4294116629
+3312,Sociology and Political Science,Updated methodological guidance for the conduct of scoping reviews,https://doi.org/10.11124/jbies-20-00167,2020,5189,https://openalex.org/W3092419658
+3312,Sociology and Political Science,Preexposure Chemoprophylaxis for HIV Prevention in Men Who Have Sex with Men,https://doi.org/10.1056/nejmoa1011205,2010,4990,https://openalex.org/W2103920597
+3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2973,https://openalex.org/W2161411308
+3312,Sociology and Political Science,Methods and Data Analysis for Cross-Cultural Research,https://doi.org/10.1017/9781107415188,2021,2584,https://openalex.org/W1821066201
+3312,Sociology and Political Science,Pervasive human-driven decline of life on Earth points to the need for transformative change,https://doi.org/10.1126/science.aax3100,2019,2345,https://openalex.org/W2995840337
+3312,Sociology and Political Science,Racism and Health: Evidence and Needed Research,https://doi.org/10.1146/annurev-publhealth-040218-043750,2019,2147,https://openalex.org/W2907260560
+3312,Sociology and Political Science,"Standards of Care for the Health of Transgender and Gender Diverse People, Version 8",https://doi.org/10.1080/26895269.2022.2100644,2022,2095,https://openalex.org/W4294732694
+3312,Sociology and Political Science,Novel ecosystems: theoretical and management aspects of the new ecological world order,https://doi.org/10.1111/j.1466-822x.2006.00212.x,2006,2030,https://openalex.org/W2124696785
 1312,Molecular Biology,International Journal of Molecular Sciences,https://doi.org/10.3390/ijms,2024,10229,https://openalex.org/W4211246989
-1312,Molecular Biology,Circulating microRNAs as stable blood-based markers for cancer detection,https://doi.org/10.1073/pnas.0804549105,2008,7792,https://openalex.org/W2115093090
-1312,Molecular Biology,Accurate prediction of protein structures and interactions using a three-track neural network,https://doi.org/10.1126/science.abj8754,2021,5102,https://openalex.org/W3186179742
-3600,General Health Professions,World Health Organization 2020 guidelines on physical activity and sedentary behaviour,https://doi.org/10.1136/bjsports-2020-102955,2020,9202,https://openalex.org/W3108106255
-3600,General Health Professions,"Disability-adjusted life years (DALYs) for 291 diseases and injuries in 21 regions, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010",https://doi.org/10.1016/s0140-6736(12)61689-4,2012,8849,https://openalex.org/W2097950056
-3600,General Health Professions,Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010,https://doi.org/10.1016/s0140-6736(12)61729-2,2012,8175,https://openalex.org/W2108344016
-2725,Infectious Diseases,Prevention of HIV-1 Infection with Early Antiretroviral Therapy,https://doi.org/10.1056/nejmoa1105243,2011,6849,https://openalex.org/W2152505869
-2725,Infectious Diseases,Preexposure Chemoprophylaxis for HIV Prevention in Men Who Have Sex with Men,https://doi.org/10.1056/nejmoa1011205,2010,4984,https://openalex.org/W2103920597
-2725,Infectious Diseases,"Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK",https://doi.org/10.1016/s0140-6736(20)32661-1,2020,4937,https://openalex.org/W3111590711
-3304,Education,Developmental potential in the first 5 years for children in developing countries,https://doi.org/10.1016/s0140-6736(07)60032-4,2007,3501,https://openalex.org/W2071937436
-3304,Education,"Transdisciplinary research in sustainability science: practice, principles, and challenges",https://doi.org/10.1007/s11625-011-0149-x,2012,2691,https://openalex.org/W1982748232
-3304,Education,Global Prevalence of Autism and Other Pervasive Developmental Disorders,https://doi.org/10.1002/aur.239,2012,2533,https://openalex.org/W2098251401
-1110,Plant Science,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4839,https://openalex.org/W2110375946
-1110,Plant Science,The Top 10 fungal pathogens in molecular plant pathology,https://doi.org/10.1111/j.1364-3703.2011.00783.x,2012,4282,https://openalex.org/W2118751052
-1110,Plant Science,RDP4: Detection and analysis of recombination patterns in virus genomes,https://doi.org/10.1093/ve/vev003,2015,3272,https://openalex.org/W2171126517
-2713,Epidemiology,"Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-years for 32 Cancer Groups, 1990 to 2015",https://doi.org/10.1001/jamaoncol.2016.5688,2016,6197,https://openalex.org/W2560322684
-2713,Epidemiology,"Discovery, research, and development of new antibiotics: the WHO priority list of antibiotic-resistant bacteria and tuberculosis",https://doi.org/10.1016/s1473-3099(17)30753-3,2017,5637,https://openalex.org/W2779019546
-2713,Epidemiology,Preexposure Chemoprophylaxis for HIV Prevention in Men Who Have Sex with Men,https://doi.org/10.1056/nejmoa1011205,2010,4984,https://openalex.org/W2103920597
-2303,Ecology,Trophic Downgrading of Planet Earth,https://doi.org/10.1126/science.1205106,2011,3844,https://openalex.org/W2163744914
-2303,Ecology,Fire in the Earth System,https://doi.org/10.1126/science.1163886,2009,3088,https://openalex.org/W2171210136
-2303,Ecology,"The Global Syndemic of Obesity, Undernutrition, and Climate Change: The Lancet Commission report",https://doi.org/10.1016/s0140-6736(18)32822-8,2019,2729,https://openalex.org/W2912842935
-2002,Economics and Econometrics,PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation,https://doi.org/10.7326/m18-0850,2018,33210,https://openalex.org/W2891378911
-2002,Economics and Econometrics,Strengthening the Reporting of Observational Studies in Epidemiology (STROBE): Explanation and Elaboration,https://doi.org/10.1371/journal.pmed.0040297,2007,7920,https://openalex.org/W2116810060
-2002,Economics and Econometrics,SPIRIT 2013 Statement: Defining Standard Protocol Items for Clinical Trials,https://doi.org/10.7326/0003-4819-158-3-201302050-00583,2013,7160,https://openalex.org/W2166023752
-2739,"Public Health, Environmental and Occupational Health","Global, regional, and national prevalence of overweight and obesity in children and adults during 1980–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(14)60460-8,2014,11822,https://openalex.org/W2163710303
-2739,"Public Health, Environmental and Occupational Health",World Health Organization 2020 guidelines on physical activity and sedentary behaviour,https://doi.org/10.1136/bjsports-2020-102955,2020,9202,https://openalex.org/W3108106255
-2739,"Public Health, Environmental and Occupational Health",Guidance for conducting systematic scoping reviews,https://doi.org/10.1097/xeb.0000000000000050,2015,6713,https://openalex.org/W2105321265
+1312,Molecular Biology,Circulating microRNAs as stable blood-based markers for cancer detection,https://doi.org/10.1073/pnas.0804549105,2008,7797,https://openalex.org/W2115093090
+1312,Molecular Biology,Accurate prediction of protein structures and interactions using a three-track neural network,https://doi.org/10.1126/science.abj8754,2021,5129,https://openalex.org/W3186179742
+1312,Molecular Biology,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4851,https://openalex.org/W2110375946
+1312,Molecular Biology,The Top 10 fungal pathogens in molecular plant pathology,https://doi.org/10.1111/j.1364-3703.2011.00783.x,2012,4314,https://openalex.org/W2118751052
+1312,Molecular Biology,The Transcriptional Landscape of the Mammalian Genome,https://doi.org/10.1126/science.1112014,2005,3521,https://openalex.org/W2099468911
+1312,Molecular Biology,RDP4: Detection and analysis of recombination patterns in virus genomes,https://doi.org/10.1093/ve/vev003,2015,3289,https://openalex.org/W2171126517
+1312,Molecular Biology,Argonaute2 complexes carry a population of circulating microRNAs independent of vesicles in human plasma,https://doi.org/10.1073/pnas.1019055108,2011,3178,https://openalex.org/W2024206172
+1312,Molecular Biology,The accessible chromatin landscape of the human genome,https://doi.org/10.1038/nature11232,2012,2799,https://openalex.org/W1964963969
+1312,Molecular Biology,A DNA barcode for land plants,https://doi.org/10.1073/pnas.0905845106,2009,2697,https://openalex.org/W2071510336
+3600,General Health Professions,World Health Organization 2020 guidelines on physical activity and sedentary behaviour,https://doi.org/10.1136/bjsports-2020-102955,2020,9291,https://openalex.org/W3108106255
+3600,General Health Professions,"Disability-adjusted life years (DALYs) for 291 diseases and injuries in 21 regions, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010",https://doi.org/10.1016/s0140-6736(12)61689-4,2012,8860,https://openalex.org/W2097950056
+3600,General Health Professions,Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010,https://doi.org/10.1016/s0140-6736(12)61729-2,2012,8184,https://openalex.org/W2108344016
+3600,General Health Professions,Guidance for conducting systematic scoping reviews,https://doi.org/10.1097/xeb.0000000000000050,2015,6757,https://openalex.org/W2105321265
+3600,General Health Professions,Maternal and child undernutrition: consequences for adult health and human capital,https://doi.org/10.1016/s0140-6736(07)61692-4,2008,3784,https://openalex.org/W2075623847
+3600,General Health Professions,The Lancet Commission on global mental health and sustainable development,https://doi.org/10.1016/s0140-6736(18)31612-x,2018,2942,https://openalex.org/W2897623369
+3600,General Health Professions,The pandemic of physical inactivity: global action for public health,https://doi.org/10.1016/s0140-6736(12)60898-8,2012,2906,https://openalex.org/W2037427175
+3600,General Health Professions,Methods and Data Analysis for Cross-Cultural Research,https://doi.org/10.1017/9781107415188,2021,2584,https://openalex.org/W1821066201
+3600,General Health Professions,Strengthening the Reporting of Observational Studies in Epidemiology (STROBE): Explanation and elaboration,https://doi.org/10.1016/j.ijsu.2014.07.014,2014,2535,https://openalex.org/W4296024375
+3600,General Health Professions,Adolescence: a foundation for future health,https://doi.org/10.1016/s0140-6736(12)60072-5,2012,2453,https://openalex.org/W2048896374
+2725,Infectious Diseases,Prevention of HIV-1 Infection with Early Antiretroviral Therapy,https://doi.org/10.1056/nejmoa1105243,2011,6853,https://openalex.org/W2152505869
+2725,Infectious Diseases,Preexposure Chemoprophylaxis for HIV Prevention in Men Who Have Sex with Men,https://doi.org/10.1056/nejmoa1011205,2010,4990,https://openalex.org/W2103920597
+2725,Infectious Diseases,"Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK",https://doi.org/10.1016/s0140-6736(20)32661-1,2020,4943,https://openalex.org/W3111590711
+2725,Infectious Diseases,SARS-CoV-2 Receptor ACE2 Is an Interferon-Stimulated Gene in Human Airway Epithelial Cells and Is Detected in Specific Cell Subsets across Tissues,https://doi.org/10.1016/j.cell.2020.04.035,2020,2435,https://openalex.org/W3011134208
+2725,Infectious Diseases,"Effectiveness and Safety of Tenofovir Gel, an Antiretroviral Microbicide, for the Prevention of HIV Infection in Women",https://doi.org/10.1126/science.1193748,2010,2421,https://openalex.org/W2146634980
+2725,Infectious Diseases,Rapid Molecular Detection of Tuberculosis and Rifampin Resistance,https://doi.org/10.1056/nejmoa0907847,2010,2250,https://openalex.org/W2154326381
+2725,Infectious Diseases,Coronavirus envelope protein: current knowledge,https://doi.org/10.1186/s12985-019-1182-0,2019,2144,https://openalex.org/W2947642275
+2725,Infectious Diseases,A Predominantly Clonal Multi-Institutional Outbreak of<i>Clostridium difficile</i>–Associated Diarrhea with High Morbidity and Mortality,https://doi.org/10.1056/nejmoa051639,2005,1930,https://openalex.org/W2104518766
+2725,Infectious Diseases,Identification and characterization of transmitted and early founder virus envelopes in primary HIV-1 infection,https://doi.org/10.1073/pnas.0802203105,2008,1905,https://openalex.org/W2002574877
+2725,Infectious Diseases,An interferon-inducible neutrophil-driven blood transcriptional signature in human tuberculosis,https://doi.org/10.1038/nature09247,2010,1843,https://openalex.org/W2109543073
+3304,Education,Developmental potential in the first 5 years for children in developing countries,https://doi.org/10.1016/s0140-6736(07)60032-4,2007,3511,https://openalex.org/W2071937436
+3304,Education,"Transdisciplinary research in sustainability science: practice, principles, and challenges",https://doi.org/10.1007/s11625-011-0149-x,2012,2699,https://openalex.org/W1982748232
+3304,Education,Global Prevalence of Autism and Other Pervasive Developmental Disorders,https://doi.org/10.1002/aur.239,2012,2538,https://openalex.org/W2098251401
+3304,Education,A hands-on guide to doing content analysis,https://doi.org/10.1016/j.afjem.2017.08.001,2017,2157,https://openalex.org/W2748793112
+3304,Education,Decolonizing the university: New directions,https://doi.org/10.1177/1474022215618513,2016,1036,https://openalex.org/W2256002839
+3304,Education,Workplace-based assessment as an educational tool: AMEE Guide No. 31,https://doi.org/10.1080/01421590701775453,2007,869,https://openalex.org/W2141361828
+3304,Education,Learning Analytics,https://doi.org/10.1177/0002764213479366,2013,842,https://openalex.org/W2087750029
+3304,Education,Using Qualitative Evidence in Decision Making for Health and Social Interventions: An Approach to Assess Confidence in Findings from Qualitative Evidence Syntheses (GRADE-CERQual),https://doi.org/10.1371/journal.pmed.1001895,2015,805,https://openalex.org/W2107819237
+3304,Education,"Transformative, transgressive social learning: rethinking higher education pedagogy in times of systemic global dysfunction",https://doi.org/10.1016/j.cosust.2015.07.018,2015,578,https://openalex.org/W2201140054
+3304,Education,The role of transformation in learning and education for sustainability,https://doi.org/10.1016/j.jclepro.2018.07.017,2018,578,https://openalex.org/W2884330262
+1110,Plant Science,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4851,https://openalex.org/W2110375946
+1110,Plant Science,The Top 10 fungal pathogens in molecular plant pathology,https://doi.org/10.1111/j.1364-3703.2011.00783.x,2012,4314,https://openalex.org/W2118751052
+1110,Plant Science,RDP4: Detection and analysis of recombination patterns in virus genomes,https://doi.org/10.1093/ve/vev003,2015,3289,https://openalex.org/W2171126517
+1110,Plant Science,<b>ranger</b>: A Fast Implementation of Random Forests for High Dimensional Data in <i>C++</i> and <i>R</i>,https://doi.org/10.18637/jss.v077.i01,2017,2898,https://openalex.org/W2157395790
+1110,Plant Science,TRY – a global database of plant traits,https://doi.org/10.1111/j.1365-2486.2011.02451.x,2011,2595,https://openalex.org/W2162584119
+1110,Plant Science,TRY plant trait database – enhanced coverage and open access,https://doi.org/10.1111/gcb.14904,2019,1865,https://openalex.org/W2983606184
+1110,Plant Science,The evolutionary significance of polyploidy,https://doi.org/10.1038/nrg.2017.26,2017,1695,https://openalex.org/W2612079819
+1110,Plant Science,SDT: A Virus Classification Tool Based on Pairwise Sequence Alignment and Identity Calculation,https://doi.org/10.1371/journal.pone.0108277,2014,1655,https://openalex.org/W2037158686
+1110,Plant Science,"Rumen microbial community composition varies with diet and host, but a core microbiome is found across a wide geographical range",https://doi.org/10.1038/srep14567,2015,1588,https://openalex.org/W1842963151
+1110,Plant Science,Microbial Phosphorus Solubilization and Its Potential for Use in Sustainable Agriculture,https://doi.org/10.3389/fmicb.2017.00971,2017,1490,https://openalex.org/W2621263386
+2713,Epidemiology,"Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-years for 32 Cancer Groups, 1990 to 2015",https://doi.org/10.1001/jamaoncol.2016.5688,2016,6202,https://openalex.org/W2560322684
+2713,Epidemiology,"Discovery, research, and development of new antibiotics: the WHO priority list of antibiotic-resistant bacteria and tuberculosis",https://doi.org/10.1016/s1473-3099(17)30753-3,2017,5670,https://openalex.org/W2779019546
+2713,Epidemiology,Preexposure Chemoprophylaxis for HIV Prevention in Men Who Have Sex with Men,https://doi.org/10.1056/nejmoa1011205,2010,4990,https://openalex.org/W2103920597
+2713,Epidemiology,Global Prevalence of Myopia and High Myopia and Temporal Trends from 2000 through 2050,https://doi.org/10.1016/j.ophtha.2016.01.006,2016,4844,https://openalex.org/W2263495255
+2713,Epidemiology,Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021,https://doi.org/10.1007/s00134-021-06506-y,2021,4246,https://openalex.org/W3202964273
+2713,Epidemiology,Global and regional burden of stroke during 1990–2010: findings from the Global Burden of Disease Study 2010,https://doi.org/10.1016/s0140-6736(13)61953-4,2013,3819,https://openalex.org/W2155477484
+2713,Epidemiology,2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines,https://doi.org/10.1161/cir.0000000000000923,2020,3449,https://openalex.org/W3112785303
+2713,Epidemiology,"Consensus statement on concussion in sport—the 5<sup>th</sup> international conference on concussion in sport held in Berlin, October 2016",https://doi.org/10.1136/bjsports-2017-097699,2017,3205,https://openalex.org/W2610287704
+2713,Epidemiology,"Global, regional, and national estimates of levels of preterm birth in 2014: a systematic review and modelling analysis",https://doi.org/10.1016/s2214-109x(18)30451-0,2018,2964,https://openalex.org/W2899173353
+2713,Epidemiology,Estimates of global seasonal influenza-associated respiratory mortality: a modelling study,https://doi.org/10.1016/s0140-6736(17)33293-2,2017,2792,https://openalex.org/W2775569101
+2303,Ecology,Trophic Downgrading of Planet Earth,https://doi.org/10.1126/science.1205106,2011,3856,https://openalex.org/W2163744914
+2303,Ecology,Fire in the Earth System,https://doi.org/10.1126/science.1163886,2009,3095,https://openalex.org/W2171210136
+2303,Ecology,"The Global Syndemic of Obesity, Undernutrition, and Climate Change: The Lancet Commission report",https://doi.org/10.1016/s0140-6736(18)32822-8,2019,2739,https://openalex.org/W2912842935
+2303,Ecology,A proposed unified framework for biological invasions,https://doi.org/10.1016/j.tree.2011.03.023,2011,2420,https://openalex.org/W2162911488
+2303,Ecology,No saturation in the accumulation of alien species worldwide,https://doi.org/10.1038/ncomms14435,2017,2375,https://openalex.org/W2589100885
+2303,Ecology,Fire as a global ‘herbivore’: the ecology and evolution of flammable ecosystems,https://doi.org/10.1016/j.tree.2005.04.025,2005,2342,https://openalex.org/W2143618255
+2303,Ecology,Novel ecosystems: theoretical and management aspects of the new ecological world order,https://doi.org/10.1111/j.1466-822x.2006.00212.x,2006,2030,https://openalex.org/W2124696785
+2303,Ecology,Freshwater Ecoregions of the World: A New Map of Biogeographic Units for Freshwater Biodiversity Conservation,https://doi.org/10.1641/b580507,2008,1956,https://openalex.org/W2141121131
+2303,Ecology,Global conservation outcomes depend on marine protected areas with five key features,https://doi.org/10.1038/nature13022,2014,1775,https://openalex.org/W1971625691
+2303,Ecology,Functional landscape heterogeneity and animal biodiversity in agricultural landscapes,https://doi.org/10.1111/j.1461-0248.2010.01559.x,2010,1692,https://openalex.org/W2142023815
+2002,Economics and Econometrics,PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation,https://doi.org/10.7326/m18-0850,2018,33616,https://openalex.org/W2891378911
+2002,Economics and Econometrics,Strengthening the Reporting of Observational Studies in Epidemiology (STROBE): Explanation and Elaboration,https://doi.org/10.1371/journal.pmed.0040297,2007,7946,https://openalex.org/W2116810060
+2002,Economics and Econometrics,SPIRIT 2013 Statement: Defining Standard Protocol Items for Clinical Trials,https://doi.org/10.7326/0003-4819-158-3-201302050-00583,2013,7197,https://openalex.org/W2166023752
+2002,Economics and Econometrics,High-quality health systems in the Sustainable Development Goals era: time for a revolution,https://doi.org/10.1016/s2214-109x(18)30386-3,2018,3409,https://openalex.org/W2891125414
+2002,Economics and Econometrics,Paris Agreement climate proposals need a boost to keep warming well below 2 °C,https://doi.org/10.1038/nature18307,2016,3191,https://openalex.org/W2461419449
+2002,Economics and Econometrics,Twenty years of ecosystem services: How far have we come and how far do we still need to go?,https://doi.org/10.1016/j.ecoser.2017.09.008,2017,2578,https://openalex.org/W2756791498
+2002,Economics and Econometrics,Efficacy and Safety of Alirocumab in Reducing Lipids and Cardiovascular Events,https://doi.org/10.1056/nejmoa1501031,2015,2231,https://openalex.org/W2001328643
+2002,Economics and Econometrics,Grand challenges in global mental health,https://doi.org/10.1038/475027a,2011,1998,https://openalex.org/W2148602524
+2002,Economics and Econometrics,Heart failure: preventing disease and death worldwide,https://doi.org/10.1002/ehf2.12005,2014,1657,https://openalex.org/W2152865365
+2002,Economics and Econometrics,Valuing nature’s contributions to people: the IPBES approach,https://doi.org/10.1016/j.cosust.2016.12.006,2017,1598,https://openalex.org/W2589424942
+2739,"Public Health, Environmental and Occupational Health","Global, regional, and national prevalence of overweight and obesity in children and adults during 1980–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(14)60460-8,2014,11837,https://openalex.org/W2163710303
+2739,"Public Health, Environmental and Occupational Health",World Health Organization 2020 guidelines on physical activity and sedentary behaviour,https://doi.org/10.1136/bjsports-2020-102955,2020,9291,https://openalex.org/W3108106255
+2739,"Public Health, Environmental and Occupational Health",Guidance for conducting systematic scoping reviews,https://doi.org/10.1097/xeb.0000000000000050,2015,6757,https://openalex.org/W2105321265
+2739,"Public Health, Environmental and Occupational Health",Health professionals for a new century: transforming education to strengthen health systems in an interdependent world,https://doi.org/10.1016/s0140-6736(10)61854-5,2010,5493,https://openalex.org/W1981665776
+2739,"Public Health, Environmental and Occupational Health",Trophic Downgrading of Planet Earth,https://doi.org/10.1126/science.1205106,2011,3856,https://openalex.org/W2163744914
+2739,"Public Health, Environmental and Occupational Health",Chronic Health Conditions in Adult Survivors of Childhood Cancer,https://doi.org/10.1056/nejmsa060185,2006,3512,https://openalex.org/W2015758016
+2739,"Public Health, Environmental and Occupational Health","Consensus statement on concussion in sport—the 5<sup>th</sup> international conference on concussion in sport held in Berlin, October 2016",https://doi.org/10.1136/bjsports-2017-097699,2017,3205,https://openalex.org/W2610287704
+2739,"Public Health, Environmental and Occupational Health",The pandemic of physical inactivity: global action for public health,https://doi.org/10.1016/s0140-6736(12)60898-8,2012,2906,https://openalex.org/W2037427175
+2739,"Public Health, Environmental and Occupational Health",World Health Organization reference values for human semen characteristics*‡,https://doi.org/10.1093/humupd/dmp048,2009,2763,https://openalex.org/W2159902645
+2739,"Public Health, Environmental and Occupational Health",Adolescence: a foundation for future health,https://doi.org/10.1016/s0140-6736(12)60072-5,2012,2453,https://openalex.org/W2048896374

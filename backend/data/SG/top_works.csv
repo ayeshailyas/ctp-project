@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-2208,Electrical and Electronic Engineering,Extreme learning machine: Theory and applications,https://doi.org/10.1016/j.neucom.2005.12.126,2006,12777,https://openalex.org/W2111072639
-2208,Electrical and Electronic Engineering,Long-Range Balanced Electron- and Hole-Transport Lengths in Organic-Inorganic CH <sub>3</sub> NH <sub>3</sub> PbI <sub>3</sub>,https://doi.org/10.1126/science.1243167,2013,6601,https://openalex.org/W2129970907
-2208,Electrical and Electronic Engineering,Coordinate Attention for Efficient Mobile Network Design,https://doi.org/10.1109/cvpr46437.2021.01350,2021,4936,https://openalex.org/W3177052299
-1312,Molecular Biology,"Fast, scalable generation of high‐quality protein multiple sequence alignments using Clustal Omega",https://doi.org/10.1038/msb.2011.75,2011,15426,https://openalex.org/W2127322768
-1312,Molecular Biology,Fast and sensitive protein alignment using DIAMOND,https://doi.org/10.1038/nmeth.3176,2014,13463,https://openalex.org/W2045204781
-1312,Molecular Biology,Epithelial-Mesenchymal Transitions in Development and Disease,https://doi.org/10.1016/j.cell.2009.11.007,2009,9746,https://openalex.org/W1964081206
-2204,Biomedical Engineering,Roll-to-roll production of 30-inch graphene films for transparent electrodes,https://doi.org/10.1038/nnano.2010.132,2010,7956,https://openalex.org/W2097773259
-2204,Biomedical Engineering,"Characteristics of hemicellulose, cellulose and lignin pyrolysis",https://doi.org/10.1016/j.fuel.2006.12.013,2007,7376,https://openalex.org/W1992469412
-2204,Biomedical Engineering,Carbon quantum dots and their applications,https://doi.org/10.1039/c4cs00269e,2014,4585,https://openalex.org/W2136693699
-2505,Materials Chemistry,Combining theory and experiment in electrocatalysis: Insights into materials design,https://doi.org/10.1126/science.aad4998,2017,10958,https://openalex.org/W2573377826
-2505,Materials Chemistry,The chemistry of two-dimensional layered transition metal dichalcogenide nanosheets,https://doi.org/10.1038/nchem.1589,2013,9393,https://openalex.org/W2011899447
-2505,Materials Chemistry,Roll-to-roll production of 30-inch graphene films for transparent electrodes,https://doi.org/10.1038/nnano.2010.132,2010,7956,https://openalex.org/W2097773259
-1702,Artificial Intelligence,A Fast Learning Algorithm for Deep Belief Nets,https://doi.org/10.1162/neco.2006.18.7.1527,2006,15994,https://openalex.org/W2136922672
-1702,Artificial Intelligence,Extreme learning machine: Theory and applications,https://doi.org/10.1016/j.neucom.2005.12.126,2006,12777,https://openalex.org/W2111072639
-1702,Artificial Intelligence,Neural Collaborative Filtering,https://doi.org/10.1145/3038912.3052569,2017,6167,https://openalex.org/W2605350416
-1707,Computer Vision and Pattern Recognition,A Fast Learning Algorithm for Deep Belief Nets,https://doi.org/10.1162/neco.2006.18.7.1527,2006,15994,https://openalex.org/W2136922672
-1707,Computer Vision and Pattern Recognition,Neural Collaborative Filtering,https://doi.org/10.1145/3038912.3052569,2017,6167,https://openalex.org/W2605350416
-1707,Computer Vision and Pattern Recognition,Recent advances in convolutional neural networks,https://doi.org/10.1016/j.patcog.2017.10.013,2017,5851,https://openalex.org/W2962949934
-2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5316,https://openalex.org/W2993259418
-2746,Surgery,"Biological, clinical and population relevance of 95 loci for blood lipids",https://doi.org/10.1038/nature09270,2010,3620,https://openalex.org/W2115801316
-2746,Surgery,Global Prevalence of Helicobacter pylori Infection: Systematic Review and Meta-Analysis,https://doi.org/10.1053/j.gastro.2017.04.022,2017,3133,https://openalex.org/W2609752905
-3107,"Atomic and Molecular Physics, and Optics",Roll-to-roll production of 30-inch graphene films for transparent electrodes,https://doi.org/10.1038/nnano.2010.132,2010,7956,https://openalex.org/W2097773259
-3107,"Atomic and Molecular Physics, and Optics",The security of practical quantum key distribution,https://doi.org/10.1103/revmodphys.81.1301,2009,3357,https://openalex.org/W2121213780
-3107,"Atomic and Molecular Physics, and Optics",Discovery of a Weyl fermion semimetal and topological Fermi arcs,https://doi.org/10.1126/science.aaa9297,2015,3127,https://openalex.org/W2112784946
-2210,Mechanical Engineering,Sliding Mode Control in Electro-Mechanical Systems,https://doi.org/10.1201/9781420065619,2010,3180,https://openalex.org/W1537842733
-2210,Mechanical Engineering,Two-dimensional digital image correlation for in-plane displacement and strain measurement: a review,https://doi.org/10.1088/0957-0233/20/6/062001,2009,2891,https://openalex.org/W2081887802
-2210,Mechanical Engineering,"Generation of sulfate radical through heterogeneous catalysis for organic contaminants removal: Current development, challenges and prospects",https://doi.org/10.1016/j.apcatb.2016.04.003,2016,2503,https://openalex.org/W2337685078
-3312,Sociology and Political Science,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1136/bmj.n71,2021,75073,https://openalex.org/W3118615836
-3312,Sociology and Political Science,PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews,https://doi.org/10.1136/bmj.n160,2021,9293,https://openalex.org/W3123893780
-3312,Sociology and Political Science,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.31222/osf.io/v7gm2,2020,5072,https://openalex.org/W4236476849
+2208,Electrical and Electronic Engineering,Extreme learning machine: Theory and applications,https://doi.org/10.1016/j.neucom.2005.12.126,2006,12808,https://openalex.org/W2111072639
+2208,Electrical and Electronic Engineering,Long-Range Balanced Electron- and Hole-Transport Lengths in Organic-Inorganic CH <sub>3</sub> NH <sub>3</sub> PbI <sub>3</sub>,https://doi.org/10.1126/science.1243167,2013,6610,https://openalex.org/W2129970907
+2208,Electrical and Electronic Engineering,Coordinate Attention for Efficient Mobile Network Design,https://doi.org/10.1109/cvpr46437.2021.01350,2021,4972,https://openalex.org/W3177052299
+2208,Electrical and Electronic Engineering,Intelligent Reflecting Surface Enhanced Wireless Network via Joint Active and Passive Beamforming,https://doi.org/10.1109/twc.2019.2936025,2019,4155,https://openalex.org/W2969424089
+2208,Electrical and Electronic Engineering,Extreme learning machine: a new learning scheme of feedforward neural networks,https://doi.org/10.1109/ijcnn.2004.1380068,2005,4064,https://openalex.org/W2134603844
+2208,Electrical and Electronic Engineering,From Bulk to Monolayer MoS<sub>2</sub>: Evolution of Raman Scattering,https://doi.org/10.1002/adfm.201102111,2012,4019,https://openalex.org/W2048610167
+2208,Electrical and Electronic Engineering,Towards Smart and Reconfigurable Environment: Intelligent Reflecting Surface Aided Wireless Network,https://doi.org/10.1109/mcom.001.1900107,2019,3916,https://openalex.org/W2990747873
+2208,Electrical and Electronic Engineering,"Review on Recent Progress in Nitrogen-Doped Graphene: Synthesis, Characterization, and Its Potential Applications",https://doi.org/10.1021/cs200652y,2012,3489,https://openalex.org/W2038726293
+2208,Electrical and Electronic Engineering,Reconfigurable Intelligent Surfaces for Energy Efficiency in Wireless Communication,https://doi.org/10.1109/twc.2019.2922609,2018,3471,https://openalex.org/W2950077417
+2208,Electrical and Electronic Engineering,Perovskite light-emitting diodes with external quantum efficiency exceeding 20 per cent,https://doi.org/10.1038/s41586-018-0575-3,2018,3217,https://openalex.org/W2895126220
+1312,Molecular Biology,"Fast, scalable generation of high‐quality protein multiple sequence alignments using Clustal Omega",https://doi.org/10.1038/msb.2011.75,2011,15469,https://openalex.org/W2127322768
+1312,Molecular Biology,Fast and sensitive protein alignment using DIAMOND,https://doi.org/10.1038/nmeth.3176,2014,13547,https://openalex.org/W2045204781
+1312,Molecular Biology,Epithelial-Mesenchymal Transitions in Development and Disease,https://doi.org/10.1016/j.cell.2009.11.007,2009,9757,https://openalex.org/W1964081206
+1312,Molecular Biology,Primer-BLAST: A tool to design target-specific primers for polymerase chain reaction,https://doi.org/10.1186/1471-2105-13-134,2012,5911,https://openalex.org/W2032019813
+1312,Molecular Biology,Dimensionality reduction for visualizing single-cell data using UMAP,https://doi.org/10.1038/nbt.4314,2018,5339,https://openalex.org/W2902652978
+1312,Molecular Biology,Landscape of transcription in human cells,https://doi.org/10.1038/nature11233,2012,5272,https://openalex.org/W2166810745
+1312,Molecular Biology,Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project,https://doi.org/10.1038/nature05874,2007,5178,https://openalex.org/W2102304447
+1312,Molecular Biology,Biofilms: an emergent form of bacterial life,https://doi.org/10.1038/nrmicro.2016.94,2016,5153,https://openalex.org/W2480010979
+1312,Molecular Biology,"The GENCODE v7 catalog of human long noncoding RNAs: Analysis of their gene structure, evolution, and expression",https://doi.org/10.1101/gr.132159.111,2012,5113,https://openalex.org/W2141831115
+1312,Molecular Biology,Maftools: efficient and comprehensive analysis of somatic variants in cancer,https://doi.org/10.1101/gr.239244.118,2018,5039,https://openalex.org/W2896872272
+2204,Biomedical Engineering,Roll-to-roll production of 30-inch graphene films for transparent electrodes,https://doi.org/10.1038/nnano.2010.132,2010,7965,https://openalex.org/W2097773259
+2204,Biomedical Engineering,"Characteristics of hemicellulose, cellulose and lignin pyrolysis",https://doi.org/10.1016/j.fuel.2006.12.013,2007,7406,https://openalex.org/W1992469412
+2204,Biomedical Engineering,Carbon quantum dots and their applications,https://doi.org/10.1039/c4cs00269e,2014,4595,https://openalex.org/W2136693699
+2204,Biomedical Engineering,Epidermal Electronics,https://doi.org/10.1126/science.1206157,2011,4415,https://openalex.org/W4213360791
+2204,Biomedical Engineering,The Fano resonance in plasmonic nanostructures and metamaterials,https://doi.org/10.1038/nmat2810,2010,3777,https://openalex.org/W2058541903
+2204,Biomedical Engineering,Graphene-based composites,https://doi.org/10.1039/c1cs15078b,2011,3775,https://openalex.org/W2118609172
+2204,Biomedical Engineering,Single-Layer MoS<sub>2</sub>Phototransistors,https://doi.org/10.1021/nn2024557,2011,3410,https://openalex.org/W1905458101
+2204,Biomedical Engineering,Graphene oxide as a chemically tunable platform for optical applications,https://doi.org/10.1038/nchem.907,2010,3268,https://openalex.org/W2133020370
+2204,Biomedical Engineering,"Antibacterial Activity of Graphite, Graphite Oxide, Graphene Oxide, and Reduced Graphene Oxide: Membrane and Oxidative Stress",https://doi.org/10.1021/nn202451x,2011,2814,https://openalex.org/W2109966590
+2204,Biomedical Engineering,Nanoparticles in Photodynamic Therapy,https://doi.org/10.1021/cr5004198,2015,2773,https://openalex.org/W2320574135
+2505,Materials Chemistry,Combining theory and experiment in electrocatalysis: Insights into materials design,https://doi.org/10.1126/science.aad4998,2017,11004,https://openalex.org/W2573377826
+2505,Materials Chemistry,The chemistry of two-dimensional layered transition metal dichalcogenide nanosheets,https://doi.org/10.1038/nchem.1589,2013,9417,https://openalex.org/W2011899447
+2505,Materials Chemistry,Roll-to-roll production of 30-inch graphene films for transparent electrodes,https://doi.org/10.1038/nnano.2010.132,2010,7965,https://openalex.org/W2097773259
+2505,Materials Chemistry,2D materials and van der Waals heterostructures,https://doi.org/10.1126/science.aac9439,2016,6754,https://openalex.org/W2498106012
+2505,Materials Chemistry,Long-Range Balanced Electron- and Hole-Transport Lengths in Organic-Inorganic CH <sub>3</sub> NH <sub>3</sub> PbI <sub>3</sub>,https://doi.org/10.1126/science.1243167,2013,6610,https://openalex.org/W2129970907
+2505,Materials Chemistry,Recent Advances in Ultrathin Two-Dimensional Nanomaterials,https://doi.org/10.1021/acs.chemrev.6b00558,2017,4826,https://openalex.org/W2597054437
+2505,Materials Chemistry,Carbon quantum dots and their applications,https://doi.org/10.1039/c4cs00269e,2014,4595,https://openalex.org/W2136693699
+2505,Materials Chemistry,Anatase TiO2 single crystals with a large percentage of reactive facets,https://doi.org/10.1038/nature06964,2008,4019,https://openalex.org/W1990599339
+2505,Materials Chemistry,From Bulk to Monolayer MoS<sub>2</sub>: Evolution of Raman Scattering,https://doi.org/10.1002/adfm.201102111,2012,4019,https://openalex.org/W2048610167
+2505,Materials Chemistry,Graphene-based composites,https://doi.org/10.1039/c1cs15078b,2011,3775,https://openalex.org/W2118609172
+1702,Artificial Intelligence,A Fast Learning Algorithm for Deep Belief Nets,https://doi.org/10.1162/neco.2006.18.7.1527,2006,16017,https://openalex.org/W2136922672
+1702,Artificial Intelligence,Extreme learning machine: Theory and applications,https://doi.org/10.1016/j.neucom.2005.12.126,2006,12808,https://openalex.org/W2111072639
+1702,Artificial Intelligence,Neural Collaborative Filtering,https://doi.org/10.1145/3038912.3052569,2017,6179,https://openalex.org/W2605350416
+1702,Artificial Intelligence,Harris hawks optimization: Algorithm and applications,https://doi.org/10.1016/j.future.2019.02.028,2019,5473,https://openalex.org/W2919979744
+1702,Artificial Intelligence,Extreme Learning Machine for Regression and Multiclass Classification,https://doi.org/10.1109/tsmcb.2011.2168604,2011,5457,https://openalex.org/W2026131661
+1702,Artificial Intelligence,Differential Evolution: A Survey of the State-of-the-Art,https://doi.org/10.1109/tevc.2010.2059031,2010,4994,https://openalex.org/W2156194072
+1702,Artificial Intelligence,Coordinate Attention for Efficient Mobile Network Design,https://doi.org/10.1109/cvpr46437.2021.01350,2021,4972,https://openalex.org/W3177052299
+1702,Artificial Intelligence,On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation,https://doi.org/10.1371/journal.pone.0130140,2015,4298,https://openalex.org/W1787224781
+1702,Artificial Intelligence,"performance: An R Package for Assessment, Comparison and Testing of Statistical Models",https://doi.org/10.21105/joss.03139,2021,4240,https://openalex.org/W3153999239
+1702,Artificial Intelligence,"Behavioral Intention Formation in Knowledge Sharing: Examining the Roles of Extrinsic Motivators, Social-Psychological Forces, and Organizational Climate1",https://doi.org/10.2307/25148669,2005,4173,https://openalex.org/W2146125869
+1707,Computer Vision and Pattern Recognition,A Fast Learning Algorithm for Deep Belief Nets,https://doi.org/10.1162/neco.2006.18.7.1527,2006,16017,https://openalex.org/W2136922672
+1707,Computer Vision and Pattern Recognition,Neural Collaborative Filtering,https://doi.org/10.1145/3038912.3052569,2017,6179,https://openalex.org/W2605350416
+1707,Computer Vision and Pattern Recognition,Recent advances in convolutional neural networks,https://doi.org/10.1016/j.patcog.2017.10.013,2017,5875,https://openalex.org/W2962949934
+1707,Computer Vision and Pattern Recognition,Extreme Learning Machine for Regression and Multiclass Classification,https://doi.org/10.1109/tsmcb.2011.2168604,2011,5457,https://openalex.org/W2026131661
+1707,Computer Vision and Pattern Recognition,Coordinate Attention for Efficient Mobile Network Design,https://doi.org/10.1109/cvpr46437.2021.01350,2021,4972,https://openalex.org/W3177052299
+1707,Computer Vision and Pattern Recognition,On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation,https://doi.org/10.1371/journal.pone.0130140,2015,4298,https://openalex.org/W1787224781
+1707,Computer Vision and Pattern Recognition,ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks,https://doi.org/10.1007/978-3-030-11021-5_5,2019,3689,https://openalex.org/W2891158090
+1707,Computer Vision and Pattern Recognition,Robust Recovery of Subspace Structures by Low-Rank Representation,https://doi.org/10.1109/tpami.2012.88,2012,3526,https://openalex.org/W1997201895
+1707,Computer Vision and Pattern Recognition,LightGCN,https://doi.org/10.1145/3397271.3401063,2020,3511,https://openalex.org/W3045200674
+1707,Computer Vision and Pattern Recognition,RefineNet: Multi-path Refinement Networks for High-Resolution Semantic Segmentation,https://doi.org/10.1109/cvpr.2017.549,2017,3118,https://openalex.org/W2563705555
+2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5319,https://openalex.org/W2993259418
+2746,Surgery,"Biological, clinical and population relevance of 95 loci for blood lipids",https://doi.org/10.1038/nature09270,2010,3623,https://openalex.org/W2115801316
+2746,Surgery,Global Prevalence of Helicobacter pylori Infection: Systematic Review and Meta-Analysis,https://doi.org/10.1053/j.gastro.2017.04.022,2017,3150,https://openalex.org/W2609752905
+2746,Surgery,Three-Dimensional Scaffolds for Tissue Engineering Applications: Role of Porosity and Pore Size,https://doi.org/10.1089/ten.teb.2012.0437,2013,2505,https://openalex.org/W1984685797
+2746,Surgery,EPOS 2012: European position paper on rhinosinusitis and nasal polyps 2012. A summary for otorhinolaryngologists,https://doi.org/10.4193/rhino12.000,2012,2374,https://openalex.org/W1885435857
+2746,Surgery,Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction,https://doi.org/10.1056/nejmoa2206286,2022,2224,https://openalex.org/W4293354639
+2746,Surgery,Molecular analysis of gastric cancer identifies subtypes associated with distinct clinical outcomes,https://doi.org/10.1038/nm.3850,2015,2132,https://openalex.org/W2049397238
+2746,Surgery,"Worldwide Prevalence and Burden of Functional Gastrointestinal Disorders, Results of Rome Foundation Global Study",https://doi.org/10.1053/j.gastro.2020.04.014,2020,1897,https://openalex.org/W3016136018
+2746,Surgery,How to diagnose heart failure with preserved ejection fraction: the HFA–PEFF diagnostic algorithm: a consensus recommendation from the Heart Failure Association (HFA) of the European Society of Cardiology (ESC),https://doi.org/10.1093/eurheartj/ehz641,2019,1621,https://openalex.org/W2971111962
+2746,Surgery,"Global, regional, and national disease burden estimates of acute lower respiratory infections due to respiratory syncytial virus in children younger than 5 years in 2019: a systematic analysis",https://doi.org/10.1016/s0140-6736(22)00478-0,2022,1524,https://openalex.org/W4281385327
+3107,"Atomic and Molecular Physics, and Optics",Roll-to-roll production of 30-inch graphene films for transparent electrodes,https://doi.org/10.1038/nnano.2010.132,2010,7965,https://openalex.org/W2097773259
+3107,"Atomic and Molecular Physics, and Optics",The security of practical quantum key distribution,https://doi.org/10.1103/revmodphys.81.1301,2009,3367,https://openalex.org/W2121213780
+3107,"Atomic and Molecular Physics, and Optics",Discovery of a Weyl fermion semimetal and topological Fermi arcs,https://doi.org/10.1126/science.aaa9297,2015,3131,https://openalex.org/W2112784946
+3107,"Atomic and Molecular Physics, and Optics",Optically resonant dielectric nanostructures,https://doi.org/10.1126/science.aag2472,2016,2669,https://openalex.org/W2552835525
+3107,"Atomic and Molecular Physics, and Optics",Atomic‐Layer Graphene as a Saturable Absorber for Ultrafast Pulsed Lasers,https://doi.org/10.1002/adfm.200901007,2009,2543,https://openalex.org/W1973547567
+3107,"Atomic and Molecular Physics, and Optics",Field-Effect Tunneling Transistor Based on Vertical Graphene Heterostructures,https://doi.org/10.1126/science.1218461,2012,2508,https://openalex.org/W2039211361
+3107,"Atomic and Molecular Physics, and Optics",Bell nonlocality,https://doi.org/10.1103/revmodphys.86.419,2014,2428,https://openalex.org/W4211058570
+3107,"Atomic and Molecular Physics, and Optics",The classical-quantum boundary for correlations: Discord and related measures,https://doi.org/10.1103/revmodphys.84.1655,2012,1542,https://openalex.org/W2082014836
+3107,"Atomic and Molecular Physics, and Optics",A Weyl Fermion semimetal with surface Fermi arcs in the transition metal monopnictide TaAs class,https://doi.org/10.1038/ncomms8373,2015,1540,https://openalex.org/W2261951110
+3107,"Atomic and Molecular Physics, and Optics",Artificial Brownian motors: Controlling transport on the nanoscale,https://doi.org/10.1103/revmodphys.81.387,2009,1534,https://openalex.org/W2069327268
+2210,Mechanical Engineering,Sliding Mode Control in Electro-Mechanical Systems,https://doi.org/10.1201/9781420065619,2010,3181,https://openalex.org/W1537842733
+2210,Mechanical Engineering,Two-dimensional digital image correlation for in-plane displacement and strain measurement: a review,https://doi.org/10.1088/0957-0233/20/6/062001,2009,2899,https://openalex.org/W2081887802
+2210,Mechanical Engineering,"Generation of sulfate radical through heterogeneous catalysis for organic contaminants removal: Current development, challenges and prospects",https://doi.org/10.1016/j.apcatb.2016.04.003,2016,2512,https://openalex.org/W2337685078
+2210,Mechanical Engineering,Review of selective laser melting: Materials and applications,https://doi.org/10.1063/1.4935926,2015,2152,https://openalex.org/W2192772080
+2210,Mechanical Engineering,Heat transfer characteristics of nanofluids: a review,https://doi.org/10.1016/j.ijthermalsci.2006.06.010,2006,2097,https://openalex.org/W1985877704
+2210,Mechanical Engineering,Mixed matrix membranes (MMMs) comprising organic polymers with dispersed inorganic fillers for gas separation,https://doi.org/10.1016/j.progpolymsci.2007.01.008,2007,1728,https://openalex.org/W2126411288
+2210,Mechanical Engineering,"Stretchable, Transparent, Ionic Conductors",https://doi.org/10.1126/science.1240228,2013,1635,https://openalex.org/W2049078445
+2210,Mechanical Engineering,CO2 capture by solid adsorbents and their applications: current status and new trends,https://doi.org/10.1039/c0ee00064g,2010,1548,https://openalex.org/W2121022470
+2210,Mechanical Engineering,Enhanced thermal conductivity of TiO2—water based nanofluids,https://doi.org/10.1016/j.ijthermalsci.2004.12.005,2005,1344,https://openalex.org/W2072096676
+2210,Mechanical Engineering,Anisotropy and heterogeneity of microstructure and mechanical properties in metal additive manufacturing: A critical review,https://doi.org/10.1016/j.matdes.2017.11.021,2017,1323,https://openalex.org/W2767214661
+3312,Sociology and Political Science,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1136/bmj.n71,2021,76049,https://openalex.org/W3118615836
+3312,Sociology and Political Science,PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews,https://doi.org/10.1136/bmj.n160,2021,9394,https://openalex.org/W3123893780
+3312,Sociology and Political Science,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.31222/osf.io/v7gm2,2020,5086,https://openalex.org/W4236476849
+3312,Sociology and Political Science,The PRISMA 2020 statement: An updated guideline for reporting systematic reviews,https://doi.org/10.1371/journal.pmed.1003583,2021,4393,https://openalex.org/W3148962211
+3312,Sociology and Political Science,"Social Capital, Networks, and Knowledge Transfer",https://doi.org/10.5465/amr.2005.15281445,2005,3718,https://openalex.org/W2143439038
+3312,Sociology and Political Science,"A trust-based consumer decision-making model in electronic commerce: The role of trust, perceived risk, and their antecedents",https://doi.org/10.1016/j.dss.2007.07.001,2007,3379,https://openalex.org/W2093548531
+3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2973,https://openalex.org/W2161411308
+3312,Sociology and Political Science,Contributing Knowledge to Electronic Knowledge Repositories: An Empirical Investigation1,https://doi.org/10.2307/25148670,2005,2742,https://openalex.org/W2134049161
+3312,Sociology and Political Science,Influencer Marketing: How Message Value and Credibility Affect Consumer Trust of Branded Content on Social Media,https://doi.org/10.1080/15252019.2018.1533501,2018,2164,https://openalex.org/W2899351518
+3312,Sociology and Political Science,"STROCSS 2021: Strengthening the reporting of cohort, cross-sectional and case-control studies in surgery",https://doi.org/10.1016/j.ijsu.2021.106165,2021,2051,https://openalex.org/W3212282753

@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-2208,Electrical and Electronic Engineering,Copper Selenide Nanocrystals for Photothermal Therapy,https://doi.org/10.1021/nl201400z,2011,1395,https://openalex.org/W1988783116
+2208,Electrical and Electronic Engineering,Copper Selenide Nanocrystals for Photothermal Therapy,https://doi.org/10.1021/nl201400z,2011,1398,https://openalex.org/W1988783116
 2208,Electrical and Electronic Engineering,Low band gap polymers for organic photovoltaics,https://doi.org/10.1016/j.solmat.2007.01.015,2007,1331,https://openalex.org/W2006359365
 2208,Electrical and Electronic Engineering,Energy Management and Operational Planning of a Microgrid With a PV-Based Active Generator for Smart Grid Applications,https://doi.org/10.1109/tie.2011.2119451,2011,970,https://openalex.org/W2145397365
-1312,Molecular Biology,Natural products in drug discovery: advances and opportunities,https://doi.org/10.1038/s41573-020-00114-z,2021,4277,https://openalex.org/W3119952098
-1312,Molecular Biology,A Liquid-to-Solid Phase Transition of the ALS Protein FUS Accelerated by Disease Mutation,https://doi.org/10.1016/j.cell.2015.07.047,2015,2906,https://openalex.org/W1952608303
-1312,Molecular Biology,"VaxiJen: a server for prediction of protective antigens, tumour antigens and subunit vaccines",https://doi.org/10.1186/1471-2105-8-4,2007,2716,https://openalex.org/W2102367710
-2505,Materials Chemistry,Copper Selenide Nanocrystals for Photothermal Therapy,https://doi.org/10.1021/nl201400z,2011,1395,https://openalex.org/W1988783116
-2505,Materials Chemistry,Bilbao Crystallographic Server. II. Representations of crystallographic point groups and space groups,https://doi.org/10.1107/s0108767305040286,2006,1045,https://openalex.org/W1996820002
-2505,Materials Chemistry,Metal oxide nanoparticles and their applications in nanotechnology,https://doi.org/10.1007/s42452-019-0592-3,2019,948,https://openalex.org/W2944906172
+2208,Electrical and Electronic Engineering,Metal oxide nanoparticles and their applications in nanotechnology,https://doi.org/10.1007/s42452-019-0592-3,2019,957,https://openalex.org/W2944906172
+2208,Electrical and Electronic Engineering,"Theory of SEI Formation in Rechargeable Batteries: Capacity Fade, Accelerated Aging and Lifetime Prediction",https://doi.org/10.1149/2.044302jes,2012,846,https://openalex.org/W2340971382
+2208,Electrical and Electronic Engineering,"Review on electrode–electrolyte solution interactions, related to cathode materials for Li-ion batteries",https://doi.org/10.1016/j.jpowsour.2006.10.025,2006,676,https://openalex.org/W2169070800
+2208,Electrical and Electronic Engineering,Ultra-sensitive vibrational spectroscopy of protein monolayers with plasmonic nanoantenna arrays,https://doi.org/10.1073/pnas.0907459106,2009,647,https://openalex.org/W2035669546
+2208,Electrical and Electronic Engineering,Dispersion Properties of Optical Polymers,https://doi.org/10.12693/aphyspola.116.585,2009,570,https://openalex.org/W1679912445
+2208,Electrical and Electronic Engineering,Pt–Ru catalyzed hydrogen oxidation in alkaline media: oxophilic effect or electronic effect?,https://doi.org/10.1039/c4ee02564d,2014,515,https://openalex.org/W2029286928
+2208,Electrical and Electronic Engineering,A MHz-repetition-rate hard X-ray free-electron laser driven by a superconducting linear accelerator,https://doi.org/10.1038/s41566-020-0607-z,2020,490,https://openalex.org/W3025790685
+1312,Molecular Biology,Natural products in drug discovery: advances and opportunities,https://doi.org/10.1038/s41573-020-00114-z,2021,4316,https://openalex.org/W3119952098
+1312,Molecular Biology,A Liquid-to-Solid Phase Transition of the ALS Protein FUS Accelerated by Disease Mutation,https://doi.org/10.1016/j.cell.2015.07.047,2015,2923,https://openalex.org/W1952608303
+1312,Molecular Biology,"VaxiJen: a server for prediction of protective antigens, tumour antigens and subunit vaccines",https://doi.org/10.1186/1471-2105-8-4,2007,2729,https://openalex.org/W2102367710
+1312,Molecular Biology,"Patisiran, an RNAi Therapeutic, for Hereditary Transthyretin Amyloidosis",https://doi.org/10.1056/nejmoa1716153,2018,2677,https://openalex.org/W2810909862
+1312,Molecular Biology,Guidelines for the use and interpretation of assays for monitoring autophagy (4th edition)<sup>1</sup>,https://doi.org/10.1080/15548627.2020.1797280,2021,2364,https://openalex.org/W3108936441
+1312,Molecular Biology,New insights into the genetic etiology of Alzheimer’s disease and related dementias,https://doi.org/10.1038/s41588-022-01024-z,2022,2125,https://openalex.org/W4223591189
+1312,Molecular Biology,De novo mutations in schizophrenia implicate synaptic networks,https://doi.org/10.1038/nature12929,2014,1665,https://openalex.org/W2023962370
+1312,Molecular Biology,A survey of human brain transcriptome diversity at the single cell level,https://doi.org/10.1073/pnas.1507125112,2015,1485,https://openalex.org/W1552434751
+1312,Molecular Biology,Molecular Determinants of the Response of Glioblastomas to EGFR Kinase Inhibitors,https://doi.org/10.1056/nejmoa051918,2005,1439,https://openalex.org/W2070705072
+1312,Molecular Biology,Ancient human genomes suggest three ancestral populations for present-day Europeans,https://doi.org/10.1038/nature13673,2014,1419,https://openalex.org/W2050967443
+2505,Materials Chemistry,Copper Selenide Nanocrystals for Photothermal Therapy,https://doi.org/10.1021/nl201400z,2011,1398,https://openalex.org/W1988783116
+2505,Materials Chemistry,Bilbao Crystallographic Server. II. Representations of crystallographic point groups and space groups,https://doi.org/10.1107/s0108767305040286,2006,1048,https://openalex.org/W1996820002
+2505,Materials Chemistry,Metal oxide nanoparticles and their applications in nanotechnology,https://doi.org/10.1007/s42452-019-0592-3,2019,957,https://openalex.org/W2944906172
+2505,Materials Chemistry,Power of Infrared and Raman Spectroscopies to Characterize Metal-Organic Frameworks and Investigate Their Interaction with Guest Molecules,https://doi.org/10.1021/acs.chemrev.0c00487,2020,884,https://openalex.org/W3113271000
+2505,Materials Chemistry,Support nanostructure boosts oxygen transfer to catalytically active platinum nanoparticles,https://doi.org/10.1038/nmat2976,2011,863,https://openalex.org/W2061070241
+2505,Materials Chemistry,"DAMASK – The Düsseldorf Advanced Material Simulation Kit for modeling multi-physics crystal plasticity, thermal, and damage phenomena from the single crystal up to the component scale",https://doi.org/10.1016/j.commatsci.2018.04.030,2018,703,https://openalex.org/W2902212920
+2505,Materials Chemistry,Non-blinking and photostable upconverted luminescence from single lanthanide-doped nanocrystals,https://doi.org/10.1073/pnas.0904792106,2009,683,https://openalex.org/W1985272038
+2505,Materials Chemistry,Magnetic blocking in a linear iron(I) complex,https://doi.org/10.1038/nchem.1630,2013,629,https://openalex.org/W1999921319
+2505,Materials Chemistry,"The joint evaluated fission and fusion nuclear data library, JEFF-3.3",https://doi.org/10.1140/epja/s10050-020-00141-9,2020,616,https://openalex.org/W3043554932
+2505,Materials Chemistry,A Facile Aqueous Route to Synthesize Highly Ordered Mesoporous Polymers and Carbon Frameworks with <i>Ia</i>3<i>d</i> Bicontinuous Cubic Structure,https://doi.org/10.1021/ja0545721,2005,606,https://openalex.org/W1994903772
 1605,Organic Chemistry,Thermosensitive water-soluble copolymers with doubly responsive reversibly interacting entities,https://doi.org/10.1016/j.progpolymsci.2007.07.001,2007,729,https://openalex.org/W2037864161
-1605,Organic Chemistry,Ruthenium Complexes as Anticancer Agents,https://doi.org/10.2174/092986706776360941,2006,548,https://openalex.org/W2078034063
+1605,Organic Chemistry,Ruthenium Complexes as Anticancer Agents,https://doi.org/10.2174/092986706776360941,2006,551,https://openalex.org/W2078034063
 1605,Organic Chemistry,Synthetic and Natural Coumarins as Cytotoxic Agents,https://doi.org/10.2174/1568011053352550,2005,492,https://openalex.org/W2007887352
-2204,Biomedical Engineering,"Reverse osmosis desalination: Water sources, technology, and today's challenges",https://doi.org/10.1016/j.watres.2009.03.010,2009,3230,https://openalex.org/W2096623033
-2204,Biomedical Engineering,An overview of the chemical composition of biomass,https://doi.org/10.1016/j.fuel.2009.10.022,2009,2263,https://openalex.org/W2091248159
-2204,Biomedical Engineering,AllerTOP v.2—a server for in silico prediction of allergens,https://doi.org/10.1007/s00894-014-2278-5,2014,1244,https://openalex.org/W2015176909
+1605,Organic Chemistry,"Comparison of solid particles, globular proteins and surfactants as emulsifiers",https://doi.org/10.1039/b715933c,2008,462,https://openalex.org/W1976572039
+1605,Organic Chemistry,Natural antioxidants from herbs and spices,https://doi.org/10.1002/ejlt.200600127,2006,441,https://openalex.org/W1990709200
+1605,Organic Chemistry,DFT and experimental studies of the structure and vibrational spectra of curcumin,https://doi.org/10.1002/qua.20469,2005,435,https://openalex.org/W2011163900
+1605,Organic Chemistry,Coumarins as Antioxidants,https://doi.org/10.2174/092986711803414395,2011,410,https://openalex.org/W2138685395
+1605,Organic Chemistry,Antioxidant Activity and Phenolic Content of Betalain Extracts from Intact Plants and Hairy Root Cultures of the Red Beetroot Beta vulgaris cv. Detroit Dark Red,https://doi.org/10.1007/s11130-010-0156-6,2010,384,https://openalex.org/W2063482550
+1605,Organic Chemistry,Trends in Utilization of the Pharmacological Potential of Chalcones,https://doi.org/10.2174/157488410790410579,2010,326,https://openalex.org/W2090371347
+1605,Organic Chemistry,Topological indices for structure-activity correlations,https://doi.org/10.1007/bfb0111212,2007,324,https://openalex.org/W2227719014
+2204,Biomedical Engineering,"Reverse osmosis desalination: Water sources, technology, and today's challenges",https://doi.org/10.1016/j.watres.2009.03.010,2009,3244,https://openalex.org/W2096623033
+2204,Biomedical Engineering,An overview of the chemical composition of biomass,https://doi.org/10.1016/j.fuel.2009.10.022,2009,2267,https://openalex.org/W2091248159
+2204,Biomedical Engineering,AllerTOP v.2—a server for in silico prediction of allergens,https://doi.org/10.1007/s00894-014-2278-5,2014,1253,https://openalex.org/W2015176909
+2204,Biomedical Engineering,An overview of the composition and application of biomass ash. Part 1. Phase–mineral and chemical composition and classification,https://doi.org/10.1016/j.fuel.2012.09.041,2012,956,https://openalex.org/W2335521722
+2204,Biomedical Engineering,An overview of the organic and inorganic phase composition of biomass,https://doi.org/10.1016/j.fuel.2011.09.030,2011,940,https://openalex.org/W2166204353
+2204,Biomedical Engineering,Recent advances in biomaterials for 3D scaffolds: A review,https://doi.org/10.1016/j.bioactmat.2019.10.005,2019,855,https://openalex.org/W2981661151
+2204,Biomedical Engineering,Advantages and disadvantages of composition and properties of biomass in comparison with coal: An overview,https://doi.org/10.1016/j.fuel.2015.05.050,2015,664,https://openalex.org/W803459652
+2204,Biomedical Engineering,Ultra-sensitive vibrational spectroscopy of protein monolayers with plasmonic nanoantenna arrays,https://doi.org/10.1073/pnas.0907459106,2009,647,https://openalex.org/W2035669546
+2204,Biomedical Engineering,An overview of the composition and application of biomass ash.,https://doi.org/10.1016/j.fuel.2012.10.001,2012,499,https://openalex.org/W1970403262
+2204,Biomedical Engineering,"Engineering in Medicine and Biology Society (EMBC), 2014 36th Annual International Conference of the IEEE",,2014,478,https://openalex.org/W2504629029
 3107,"Atomic and Molecular Physics, and Optics",Low band gap polymers for organic photovoltaics,https://doi.org/10.1016/j.solmat.2007.01.015,2007,1331,https://openalex.org/W2006359365
-3107,"Atomic and Molecular Physics, and Optics",The ONIOM Method and Its Applications,https://doi.org/10.1021/cr5004419,2015,1226,https://openalex.org/W2069924395
-3107,"Atomic and Molecular Physics, and Optics","Stimulated Raman adiabatic passage in physics, chemistry, and beyond",https://doi.org/10.1103/revmodphys.89.015006,2017,793,https://openalex.org/W2346806770
-1110,Plant Science,Chlorophyll a fluorescence as a tool to monitor physiological status of plants under abiotic stress conditions,https://doi.org/10.1007/s11738-016-2113-y,2016,1168,https://openalex.org/W2321443763
-1110,Plant Science,Reactive oxygen species as signals that modulate plant stress responses and programmed cell death,https://doi.org/10.1002/bies.20493,2006,1153,https://openalex.org/W2015596353
+3107,"Atomic and Molecular Physics, and Optics",The ONIOM Method and Its Applications,https://doi.org/10.1021/cr5004419,2015,1234,https://openalex.org/W2069924395
+3107,"Atomic and Molecular Physics, and Optics","Stimulated Raman adiabatic passage in physics, chemistry, and beyond",https://doi.org/10.1103/revmodphys.89.015006,2017,796,https://openalex.org/W2346806770
+3107,"Atomic and Molecular Physics, and Optics","Frequently asked questions about chlorophyll fluorescence, the sequel",https://doi.org/10.1007/s11120-016-0318-y,2016,578,https://openalex.org/W2547269372
+3107,"Atomic and Molecular Physics, and Optics",Calculated Phase Diagrams for the Electrochemical Oxidation and Reduction of Water over Pt(111),https://doi.org/10.1021/jp0631735,2006,431,https://openalex.org/W2126488629
+3107,"Atomic and Molecular Physics, and Optics",Phase matching of high harmonic generation in the soft and hard X-ray regions of the spectrum,https://doi.org/10.1073/pnas.0903748106,2009,390,https://openalex.org/W2057516271
+3107,"Atomic and Molecular Physics, and Optics",Identification and Characterization of Surface Hydroxyl Groups by Infrared Spectroscopy,https://doi.org/10.1016/b978-0-12-800127-1.00002-3,2014,356,https://openalex.org/W2320852870
+3107,"Atomic and Molecular Physics, and Optics",Revealing the Design Principles of High‐Performance Biological Composites Using Ab initio and Multiscale Simulations: The Example of Lobster Cuticle,https://doi.org/10.1002/adma.200902019,2009,334,https://openalex.org/W2170495394
+3107,"Atomic and Molecular Physics, and Optics",Adaptive hydrophobic and hydrophilic interactions of mussel foot proteins with organic thin films,https://doi.org/10.1073/pnas.1315015110,2013,284,https://openalex.org/W1968489453
+3107,"Atomic and Molecular Physics, and Optics",Observation of Attraction between Dark Solitons,https://doi.org/10.1103/physrevlett.96.043901,2006,272,https://openalex.org/W2119042068
+1110,Plant Science,Chlorophyll a fluorescence as a tool to monitor physiological status of plants under abiotic stress conditions,https://doi.org/10.1007/s11738-016-2113-y,2016,1171,https://openalex.org/W2321443763
+1110,Plant Science,Reactive oxygen species as signals that modulate plant stress responses and programmed cell death,https://doi.org/10.1002/bies.20493,2006,1154,https://openalex.org/W2015596353
+1110,Plant Science,Soil nematode abundance and functional group composition at a global scale,https://doi.org/10.1038/s41586-019-1418-6,2019,1090,https://openalex.org/W2963407560
 1110,Plant Science,ZUSAMMENSETZUNG VON POPULATIONEN UND KORRELATIONSERSCHEINUNGEN VOM STANDPUNKT DER VERERBUNGSLEHRE AUS BETRACHTET,https://doi.org/10.1111/j.1601-5223.1928.tb02483.x,2010,1086,https://openalex.org/W1964737931
-2210,Mechanical Engineering,"DAMASK – The Düsseldorf Advanced Material Simulation Kit for modeling multi-physics crystal plasticity, thermal, and damage phenomena from the single crystal up to the component scale",https://doi.org/10.1016/j.commatsci.2018.04.030,2018,697,https://openalex.org/W2902212920
-2210,Mechanical Engineering,"Review on electrode–electrolyte solution interactions, related to cathode materials for Li-ion batteries",https://doi.org/10.1016/j.jpowsour.2006.10.025,2006,674,https://openalex.org/W2169070800
-2210,Mechanical Engineering,Aqueous piperazine as the new standard for CO2 capture technology,https://doi.org/10.1016/j.cej.2011.02.011,2011,507,https://openalex.org/W2014452947
-1702,Artificial Intelligence,On Intuitionistic Fuzzy Sets Theory,https://doi.org/10.1007/978-3-642-29127-2,2012,951,https://openalex.org/W217726381
-1702,Artificial Intelligence,Multilayer perceptron and neural networks,https://doi.org/10.5555/1639537.1639542,2009,589,https://openalex.org/W2148489082
+1110,Plant Science,An increased micronucleus frequency in peripheral blood lymphocytes predicts the risk of cancer in humans,https://doi.org/10.1093/carcin/bgl177,2006,995,https://openalex.org/W2126673711
+1110,Plant Science,Rewiring of the Fruit Metabolome in Tomato Breeding,https://doi.org/10.1016/j.cell.2017.12.019,2018,920,https://openalex.org/W2783749221
+1110,Plant Science,Phytoremediation of contaminated soils and groundwater: lessons from the field,https://doi.org/10.1007/s11356-009-0213-6,2009,917,https://openalex.org/W2098343482
+1110,Plant Science,ROS-mediated abiotic stress-induced programmed cell death in plants,https://doi.org/10.3389/fpls.2015.00069,2015,767,https://openalex.org/W2036623624
+1110,Plant Science,Frequently asked questions about in vivo chlorophyll fluorescence: practical issues,https://doi.org/10.1007/s11120-014-0024-6,2014,764,https://openalex.org/W2037838222
+1110,Plant Science,Heterochromatin drives compartmentalization of inverted and conventional nuclei,https://doi.org/10.1038/s41586-019-1275-3,2019,687,https://openalex.org/W2948487481
+2210,Mechanical Engineering,"DAMASK – The Düsseldorf Advanced Material Simulation Kit for modeling multi-physics crystal plasticity, thermal, and damage phenomena from the single crystal up to the component scale",https://doi.org/10.1016/j.commatsci.2018.04.030,2018,703,https://openalex.org/W2902212920
+2210,Mechanical Engineering,"Review on electrode–electrolyte solution interactions, related to cathode materials for Li-ion batteries",https://doi.org/10.1016/j.jpowsour.2006.10.025,2006,676,https://openalex.org/W2169070800
+2210,Mechanical Engineering,Aqueous piperazine as the new standard for CO2 capture technology,https://doi.org/10.1016/j.cej.2011.02.011,2011,510,https://openalex.org/W2014452947
+2210,Mechanical Engineering,Analysis of the dispersion of optical plastic materials,https://doi.org/10.1016/j.optmat.2006.07.010,2006,422,https://openalex.org/W2088137738
+2210,Mechanical Engineering,Transport of Gases and Vapors in Glassy and Rubbery Polymers,https://doi.org/10.1002/047002903x.ch1,2006,376,https://openalex.org/W1482952703
+2210,Mechanical Engineering,Mapping the Cu-BTC metal–organic framework (HKUST-1) stability envelope in the presence of water vapour for CO2 adsorption from flue gases,https://doi.org/10.1016/j.cej.2015.07.020,2015,337,https://openalex.org/W1795325825
+2210,Mechanical Engineering,Revealing the Design Principles of High‐Performance Biological Composites Using Ab initio and Multiscale Simulations: The Example of Lobster Cuticle,https://doi.org/10.1002/adma.200902019,2009,334,https://openalex.org/W2170495394
+2210,Mechanical Engineering,PEG-coated reverse osmosis membranes: Desalination properties and fouling resistance,https://doi.org/10.1016/j.memsci.2009.05.013,2009,288,https://openalex.org/W1998397884
+2210,Mechanical Engineering,Adaptation of a freshwater anammox population to high salinity wastewater,https://doi.org/10.1016/j.jbiotec.2006.05.012,2006,281,https://openalex.org/W1981855406
+2210,Mechanical Engineering,Modeling and control of a solar thermal power plant with thermal energy storage,https://doi.org/10.1016/j.ces.2011.12.009,2011,243,https://openalex.org/W2026284916
+1702,Artificial Intelligence,On Intuitionistic Fuzzy Sets Theory,https://doi.org/10.1007/978-3-642-29127-2,2012,952,https://openalex.org/W217726381
+1702,Artificial Intelligence,Multilayer perceptron and neural networks,https://doi.org/10.5555/1639537.1639542,2009,590,https://openalex.org/W2148489082
 1702,Artificial Intelligence,"Regulating Artificial Intelligence Systems: Risks, Challenges, Competencies, and Strategies",https://doi.org/10.2139/ssrn.2609777,2015,540,https://openalex.org/W1441180700
-2746,Surgery,Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction,https://doi.org/10.1056/nejmoa1911303,2019,6201,https://openalex.org/W2974260792
-2746,Surgery,Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction,https://doi.org/10.1056/nejmoa2206286,2022,2203,https://openalex.org/W4293354639
-2746,Surgery,Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines,https://doi.org/10.1186/s13017-020-00306-3,2020,1178,https://openalex.org/W3017264036
+1702,Artificial Intelligence,The evolution of Hofstede's doctrine,https://doi.org/10.1108/13527601111104269,2011,489,https://openalex.org/W1980794822
+1702,Artificial Intelligence,Picture fuzzy sets,https://doi.org/10.15625/1813-9663/30/4/5032,2015,464,https://openalex.org/W1983286635
+1702,Artificial Intelligence,"ChatGPT for tourism: applications, benefits and risks",https://doi.org/10.1108/tr-02-2023-0088,2023,388,https://openalex.org/W4362466759
+1702,Artificial Intelligence,Progress on robotics in hospitality and tourism: a review of the literature,https://doi.org/10.1108/jhtt-08-2018-0087,2019,379,https://openalex.org/W2946552193
+1702,Artificial Intelligence,Intuitionistic fuzzy interpretations of multi-criteria multi-person and multi-measurement tool decision making,https://doi.org/10.1080/00207720500382365,2005,330,https://openalex.org/W2092716173
+1702,Artificial Intelligence,"Optimal sizing of a grid-connected PV system for various PV module technologies and inclinations, inverter efficiency characteristics and locations",https://doi.org/10.1016/j.renene.2009.07.013,2009,297,https://openalex.org/W1967175825
+1702,Artificial Intelligence,Predicting Student Performance by Using Data Mining Methods for Classification,https://doi.org/10.2478/cait-2013-0006,2013,287,https://openalex.org/W2041304617
+2746,Surgery,Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction,https://doi.org/10.1056/nejmoa1911303,2019,6229,https://openalex.org/W2974260792
+2746,Surgery,Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction,https://doi.org/10.1056/nejmoa2206286,2022,2224,https://openalex.org/W4293354639
+2746,Surgery,Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines,https://doi.org/10.1186/s13017-020-00306-3,2020,1189,https://openalex.org/W3017264036
+2746,Surgery,Switching from Insulin to Oral Sulfonylureas in Patients with Diabetes Due to Kir6.2 Mutations,https://doi.org/10.1056/nejmoa061759,2006,971,https://openalex.org/W2164438031
+2746,Surgery,ECCO Guidelines on Therapeutics in Ulcerative Colitis: Medical Treatment,https://doi.org/10.1093/ecco-jcc/jjab178,2021,858,https://openalex.org/W4210258765
+2746,Surgery,Prasugrel versus Clopidogrel for Acute Coronary Syndromes without Revascularization,https://doi.org/10.1056/nejmoa1205512,2012,857,https://openalex.org/W2109577952
+2746,Surgery,"Capecitabine and cisplatin with or without cetuximab for patients with previously untreated advanced gastric cancer (EXPAND): a randomised, open-label phase 3 trial",https://doi.org/10.1016/s1470-2045(13)70102-5,2013,825,https://openalex.org/W2152362765
+2746,Surgery,Triglyceride Lowering with Pemafibrate to Reduce Cardiovascular Risk,https://doi.org/10.1056/nejmoa2210645,2022,593,https://openalex.org/W4308367139
+2746,Surgery,Interferon-γ release assays for the diagnosis of latent<i>Mycobacterium tuberculosis</i>infection: a systematic review and meta-analysis,https://doi.org/10.1183/09031936.00115110,2010,538,https://openalex.org/W2125086684
+2746,Surgery,A randomized multicentre trial to compare revascularization with optimal medical therapy for the treatment of chronic total coronary occlusions,https://doi.org/10.1093/eurheartj/ehy220,2018,533,https://openalex.org/W2801132219

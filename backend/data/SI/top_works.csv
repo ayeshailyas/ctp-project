@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-3312,Sociology and Political Science,Coevolutionary games—A mini review,https://doi.org/10.1016/j.biosystems.2009.10.003,2009,1864,https://openalex.org/W2000929155
+3312,Sociology and Political Science,Coevolutionary games—A mini review,https://doi.org/10.1016/j.biosystems.2009.10.003,2009,1868,https://openalex.org/W2000929155
 3312,Sociology and Political Science,Contrasting Computational Models of Mate Preference Integration Across 45 Countries,https://doi.org/10.1038/s41598-019-52748-8,2019,1773,https://openalex.org/W2983201012
-3312,Sociology and Political Science,Statistical physics of human cooperation,https://doi.org/10.1016/j.physrep.2017.05.004,2017,1419,https://openalex.org/W2618208446
-1312,Molecular Biology,"Introducing mothur: Open-Source, Platform-Independent, Community-Supported Software for Describing and Comparing Microbial Communities",https://doi.org/10.1128/aem.01541-09,2009,20978,https://openalex.org/W2108718991
-1312,Molecular Biology,Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines,https://doi.org/10.1080/20013078.2018.1535750,2018,10297,https://openalex.org/W2900756811
-1312,Molecular Biology,Biological properties of extracellular vesicles and their physiological functions,https://doi.org/10.3402/jev.v4.27066,2015,5522,https://openalex.org/W2170852633
-2505,Materials Chemistry,Application of corrosion inhibitors for steels in acidic media for the oil and gas industry: A review,https://doi.org/10.1016/j.corsci.2014.04.044,2014,1320,https://openalex.org/W1969764584
-2505,Materials Chemistry,Hallmarks of mechanochemistry: from nanoparticles to technology,https://doi.org/10.1039/c3cs35468g,2013,1179,https://openalex.org/W2071082437
-2505,Materials Chemistry,Ultrafast Switching to a Stable Hidden Quantum State in an Electronic Crystal,https://doi.org/10.1126/science.1241591,2014,694,https://openalex.org/W1511851223
-2208,Electrical and Electronic Engineering,QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials,https://doi.org/10.1088/0953-8984/21/39/395502,2009,27468,https://openalex.org/W2120145199
-2208,Electrical and Electronic Engineering,Advanced capabilities for materials modelling with Quantum ESPRESSO,https://doi.org/10.1088/1361-648x/aa8f79,2017,6714,https://openalex.org/W2757803490
-2208,Electrical and Electronic Engineering,Monolithic perovskite/silicon tandem solar cell with &gt;29% efficiency by enhanced hole extraction,https://doi.org/10.1126/science.abd4016,2020,1783,https://openalex.org/W3112882062
-2204,Biomedical Engineering,A comprehensive review of firefly algorithms,https://doi.org/10.1016/j.swevo.2013.06.001,2013,1257,https://openalex.org/W2044587647
-2204,Biomedical Engineering,PCI Strategies in Patients with Acute Myocardial Infarction and Cardiogenic Shock,https://doi.org/10.1056/nejmoa1710261,2017,1097,https://openalex.org/W2766152280
-2204,Biomedical Engineering,The Extraction of Neural Information from the Surface EMG for the Control of Upper-Limb Prostheses: Emerging Avenues and Challenges,https://doi.org/10.1109/tnsre.2014.2305111,2014,920,https://openalex.org/W2066327120
-2002,Economics and Econometrics,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4779,https://openalex.org/W2953804067
-2002,Economics and Econometrics,Impacts of the COVID-19 Pandemic on Life of Higher Education Students: A Global Perspective,https://doi.org/10.3390/su12208438,2020,1619,https://openalex.org/W3048244288
-2002,Economics and Econometrics,A Review of Footprint analysis tools for monitoring impacts on sustainability,https://doi.org/10.1016/j.jclepro.2012.02.036,2012,814,https://openalex.org/W1998769215
-2210,Mechanical Engineering,Hallmarks of mechanochemistry: from nanoparticles to technology,https://doi.org/10.1039/c3cs35468g,2013,1179,https://openalex.org/W2071082437
-2210,Mechanical Engineering,Segmentation-based deep-learning approach for surface-defect detection,https://doi.org/10.1007/s10845-019-01476-x,2019,711,https://openalex.org/W2923486253
-2210,Mechanical Engineering,A Comparative Study on Machine Learning Algorithms for Smart Manufacturing: Tool Wear Prediction Using Random Forests,https://doi.org/10.1115/1.4036350,2017,596,https://openalex.org/W2601486059
+3312,Sociology and Political Science,Statistical physics of human cooperation,https://doi.org/10.1016/j.physrep.2017.05.004,2017,1422,https://openalex.org/W2618208446
+3312,Sociology and Political Science,Understanding the Internet banking adoption: A unified theory of acceptance and use of technology and perceived risk application,https://doi.org/10.1016/j.ijinfomgt.2013.06.002,2013,1365,https://openalex.org/W1986221133
+3312,Sociology and Political Science,Sociology: Themes and Perspectives,,2006,1347,https://openalex.org/W1590698661
+3312,Sociology and Political Science,Evolutionary dynamics of group interactions on structured populations: a review,https://doi.org/10.1098/rsif.2012.0997,2013,1256,https://openalex.org/W2118847390
+3312,Sociology and Political Science,Exploratory Social Network Analysis with Pajek,https://doi.org/10.1017/cbo9780511806452,2005,1236,https://openalex.org/W4291733759
+3312,Sociology and Political Science,Web Surveys versus other Survey Modes: A Meta-Analysis Comparing Response Rates,https://doi.org/10.1177/147078530805000107,2008,979,https://openalex.org/W1493524810
+3312,Sociology and Political Science,THE LAW OF CRIME CONCENTRATION AND THE CRIMINOLOGY OF PLACE*,https://doi.org/10.1111/1745-9125.12070,2015,908,https://openalex.org/W1479955723
+3312,Sociology and Political Science,Evolutionary dynamics of group interactions on structured populations: a review,,2013,864,https://openalex.org/W3098439297
+1312,Molecular Biology,"Introducing mothur: Open-Source, Platform-Independent, Community-Supported Software for Describing and Comparing Microbial Communities",https://doi.org/10.1128/aem.01541-09,2009,21009,https://openalex.org/W2108718991
+1312,Molecular Biology,Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines,https://doi.org/10.1080/20013078.2018.1535750,2018,10328,https://openalex.org/W2900756811
+1312,Molecular Biology,Biological properties of extracellular vesicles and their physiological functions,https://doi.org/10.3402/jev.v4.27066,2015,5548,https://openalex.org/W2170852633
+1312,Molecular Biology,Host–microbe interactions have shaped the genetic architecture of inflammatory bowel disease,https://doi.org/10.1038/nature11582,2012,4725,https://openalex.org/W2143625465
+1312,Molecular Biology,Minimal information for studies of extracellular vesicles (MISEV2023): From basic to advanced approaches,https://doi.org/10.1002/jev2.12404,2024,2425,https://openalex.org/W4391649568
+1312,Molecular Biology,The Influence of Probiotics on the Firmicutes/Bacteroidetes Ratio in the Treatment of Obesity and Inflammatory Bowel disease,https://doi.org/10.3390/microorganisms8111715,2020,1684,https://openalex.org/W3096586635
+1312,Molecular Biology,Genome-wide meta-analysis identifies 56 bone mineral density loci and reveals 14 loci associated with risk of fracture,https://doi.org/10.1038/ng.2249,2012,1189,https://openalex.org/W2065766094
+1312,Molecular Biology,iCLIP reveals the function of hnRNP particles in splicing at individual nucleotide resolution,https://doi.org/10.1038/nsmb.1838,2010,1162,https://openalex.org/W2114532236
+1312,Molecular Biology,Characterizing the RNA targets and position-dependent splicing regulation by TDP-43,https://doi.org/10.1038/nn.2778,2011,1139,https://openalex.org/W2136949432
+1312,Molecular Biology,A large-scale evaluation of computational protein function prediction,https://doi.org/10.1038/nmeth.2340,2013,1047,https://openalex.org/W2117486996
+2505,Materials Chemistry,Application of corrosion inhibitors for steels in acidic media for the oil and gas industry: A review,https://doi.org/10.1016/j.corsci.2014.04.044,2014,1324,https://openalex.org/W1969764584
+2505,Materials Chemistry,Hallmarks of mechanochemistry: from nanoparticles to technology,https://doi.org/10.1039/c3cs35468g,2013,1182,https://openalex.org/W2071082437
+2505,Materials Chemistry,Ultrafast Switching to a Stable Hidden Quantum State in an Electronic Crystal,https://doi.org/10.1126/science.1241591,2014,696,https://openalex.org/W1511851223
+2505,Materials Chemistry,The giant electromechanical response in ferroelectric relaxors as a critical phenomenon,https://doi.org/10.1038/nature04854,2006,694,https://openalex.org/W2093578293
+2505,Materials Chemistry,Electrocaloric materials for future solid-state refrigeration technologies,https://doi.org/10.1016/j.pmatsci.2012.02.001,2012,692,https://openalex.org/W2008990995
+2505,Materials Chemistry,"Inhibition of copper corrosion by 1,2,3-benzotriazole: A review",https://doi.org/10.1016/j.corsci.2010.05.002,2010,652,https://openalex.org/W1970674409
+2505,Materials Chemistry,"The joint evaluated fission and fusion nuclear data library, JEFF-3.3",https://doi.org/10.1140/epja/s10050-020-00141-9,2020,616,https://openalex.org/W3043554932
+2505,Materials Chemistry,Complex Refractive Index Spectra of CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> Perovskite Thin Films Determined by Spectroscopic Ellipsometry and Spectrophotometry,https://doi.org/10.1021/jz502471h,2014,562,https://openalex.org/W2021960576
+2505,Materials Chemistry,Titanium dioxide in our everyday life; is it safe?,https://doi.org/10.2478/v10019-011-0037-0,2011,532,https://openalex.org/W2060857908
+2505,Materials Chemistry,Titanium nanostructures for biomedical applications,https://doi.org/10.1088/0957-4484/26/6/062002,2015,490,https://openalex.org/W2146487730
+2208,Electrical and Electronic Engineering,QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials,https://doi.org/10.1088/0953-8984/21/39/395502,2009,27516,https://openalex.org/W2120145199
+2208,Electrical and Electronic Engineering,Advanced capabilities for materials modelling with Quantum ESPRESSO,https://doi.org/10.1088/1361-648x/aa8f79,2017,6740,https://openalex.org/W2757803490
+2208,Electrical and Electronic Engineering,Monolithic perovskite/silicon tandem solar cell with &gt;29% efficiency by enhanced hole extraction,https://doi.org/10.1126/science.abd4016,2020,1793,https://openalex.org/W3112882062
+2208,Electrical and Electronic Engineering,Visualization of O-O peroxo-like dimers in high-capacity layered oxides for Li-ion batteries,https://doi.org/10.1126/science.aac8260,2015,799,https://openalex.org/W2219812451
+2208,Electrical and Electronic Engineering,Application of electrochemical impedance spectroscopy to commercial Li-ion cells: A review,https://doi.org/10.1016/j.jpowsour.2020.228742,2020,711,https://openalex.org/W3086568401
+2208,Electrical and Electronic Engineering,Identification of durable and non-durable FeNx sites in Fe–N–C materials for proton exchange membrane fuel cells,https://doi.org/10.1038/s41929-020-00545-2,2020,638,https://openalex.org/W3084901341
+2208,Electrical and Electronic Engineering,Cathode Composites for Li–S Batteries via the Use of Oxygenated Porous Architectures,https://doi.org/10.1021/ja2062659,2011,614,https://openalex.org/W1971756711
+2208,Electrical and Electronic Engineering,A Comparative Study on Machine Learning Algorithms for Smart Manufacturing: Tool Wear Prediction Using Random Forests,https://doi.org/10.1115/1.4036350,2017,600,https://openalex.org/W2601486059
+2208,Electrical and Electronic Engineering,The thermodynamic origin of hysteresis in insertion batteries,https://doi.org/10.1038/nmat2730,2010,590,https://openalex.org/W2078211541
+2208,Electrical and Electronic Engineering,Complex Refractive Index Spectra of CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> Perovskite Thin Films Determined by Spectroscopic Ellipsometry and Spectrophotometry,https://doi.org/10.1021/jz502471h,2014,562,https://openalex.org/W2021960576
+2204,Biomedical Engineering,A comprehensive review of firefly algorithms,https://doi.org/10.1016/j.swevo.2013.06.001,2013,1261,https://openalex.org/W2044587647
+2204,Biomedical Engineering,PCI Strategies in Patients with Acute Myocardial Infarction and Cardiogenic Shock,https://doi.org/10.1056/nejmoa1710261,2017,1101,https://openalex.org/W2766152280
+2204,Biomedical Engineering,The Extraction of Neural Information from the Surface EMG for the Control of Upper-Limb Prostheses: Emerging Avenues and Challenges,https://doi.org/10.1109/tnsre.2014.2305111,2014,922,https://openalex.org/W2066327120
+2204,Biomedical Engineering,"Electroporation-Based Technologies for Medicine: Principles, Applications, and Challenges",https://doi.org/10.1146/annurev-bioeng-071813-104622,2014,809,https://openalex.org/W2138045682
+2204,Biomedical Engineering,The giant electromechanical response in ferroelectric relaxors as a critical phenomenon,https://doi.org/10.1038/nature04854,2006,694,https://openalex.org/W2093578293
+2204,Biomedical Engineering,Electrocaloric materials for future solid-state refrigeration technologies,https://doi.org/10.1016/j.pmatsci.2012.02.001,2012,692,https://openalex.org/W2008990995
+2204,Biomedical Engineering,Membrane Electroporation and Electropermeabilization: Mechanisms and Models,https://doi.org/10.1146/annurev-biophys-052118-115451,2019,673,https://openalex.org/W2917550741
+2204,Biomedical Engineering,"A novel user authentication and key agreement scheme for heterogeneous ad hoc wireless sensor networks, based on the Internet of Things notion",https://doi.org/10.1016/j.adhoc.2014.03.009,2014,642,https://openalex.org/W2095054754
+2204,Biomedical Engineering,Extracorporeal Life Support in Infarct-Related Cardiogenic Shock,https://doi.org/10.1056/nejmoa2307227,2023,609,https://openalex.org/W4386208393
+2204,Biomedical Engineering,Multi-channel intramuscular and surface EMG decomposition by convolutive blind source separation,https://doi.org/10.1088/1741-2560/13/2/026027,2016,589,https://openalex.org/W2290981976
+2002,Economics and Econometrics,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4782,https://openalex.org/W2953804067
+2002,Economics and Econometrics,Impacts of the COVID-19 Pandemic on Life of Higher Education Students: A Global Perspective,https://doi.org/10.3390/su12208438,2020,1622,https://openalex.org/W3048244288
+2002,Economics and Econometrics,A Review of Footprint analysis tools for monitoring impacts on sustainability,https://doi.org/10.1016/j.jclepro.2012.02.036,2012,815,https://openalex.org/W1998769215
+2002,Economics and Econometrics,What drives eco-innovation? A review of an emerging literature,https://doi.org/10.1016/j.eist.2015.09.006,2015,682,https://openalex.org/W2185454817
+2002,Economics and Econometrics,"Artificial intelligence, firm growth, and product innovation",https://doi.org/10.1016/j.jfineco.2023.103745,2023,668,https://openalex.org/W4388962306
+2002,Economics and Econometrics,On Estimation in Relative Survival,https://doi.org/10.1111/j.1541-0420.2011.01640.x,2011,603,https://openalex.org/W2162885909
+2002,Economics and Econometrics,Understanding Video Games: The Essential Introduction,,2008,553,https://openalex.org/W1578667674
+2002,Economics and Econometrics,Energy efficiency and sustainable development goals (SDGs),https://doi.org/10.1016/j.energy.2021.122365,2021,541,https://openalex.org/W3209561545
+2002,Economics and Econometrics,Statistical tests for power-law cross-correlated processes,https://doi.org/10.1103/physreve.84.066118,2011,442,https://openalex.org/W2088510049
+2002,Economics and Econometrics,"Validation of the ""World Health Organization Disability Assessment Schedule, WHODAS-2"" in patients with chronic diseases",https://doi.org/10.1186/1477-7525-8-51,2010,421,https://openalex.org/W2101508023
+2210,Mechanical Engineering,Hallmarks of mechanochemistry: from nanoparticles to technology,https://doi.org/10.1039/c3cs35468g,2013,1182,https://openalex.org/W2071082437
+2210,Mechanical Engineering,Segmentation-based deep-learning approach for surface-defect detection,https://doi.org/10.1007/s10845-019-01476-x,2019,718,https://openalex.org/W2923486253
+2210,Mechanical Engineering,A Comparative Study on Machine Learning Algorithms for Smart Manufacturing: Tool Wear Prediction Using Random Forests,https://doi.org/10.1115/1.4036350,2017,600,https://openalex.org/W2601486059
+2210,Mechanical Engineering,Discovery of a Superconducting High-Entropy Alloy,https://doi.org/10.1103/physrevlett.113.107001,2014,520,https://openalex.org/W2318974813
+2210,Mechanical Engineering,Transitioning to sustainable production – Part I: application on machining technologies,https://doi.org/10.1016/j.jclepro.2009.08.010,2009,488,https://openalex.org/W1992932194
+2210,Mechanical Engineering,PEG modified poly(amide-b-ethylene oxide) membranes for CO2 separation,https://doi.org/10.1016/j.memsci.2007.09.023,2007,459,https://openalex.org/W2028141170
+2210,Mechanical Engineering,Structure and electrochemical performance of Li2MnSiO4 and Li2FeSiO4 as potential Li-battery cathode materials,https://doi.org/10.1016/j.elecom.2005.11.010,2005,450,https://openalex.org/W2050935409
+2210,Mechanical Engineering,Advances in Modeling and Simulation of Grinding Processes,https://doi.org/10.1016/j.cirp.2006.10.003,2006,440,https://openalex.org/W2058642013
+2210,Mechanical Engineering,Increasing the efficiency of PV panel with the use of PCM,https://doi.org/10.1016/j.renene.2016.06.011,2016,434,https://openalex.org/W2434822724
+2210,Mechanical Engineering,Cryogenic manufacturing processes,https://doi.org/10.1016/j.cirp.2016.06.007,2016,434,https://openalex.org/W2503084623
 1702,Artificial Intelligence,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.17863/cam.64134,2019,11500,https://openalex.org/W3103145119
-1702,Artificial Intelligence,Review of Particle Physics,https://doi.org/10.1093/ptep/ptac097,2022,5914,https://openalex.org/W2963002078
-1702,Artificial Intelligence,Self-Adapting Control Parameters in Differential Evolution: A Comparative Study on Numerical Benchmark Problems,https://doi.org/10.1109/tevc.2006.872133,2006,2978,https://openalex.org/W2162145193
+1702,Artificial Intelligence,Review of Particle Physics,https://doi.org/10.1093/ptep/ptac097,2022,5925,https://openalex.org/W2963002078
+1702,Artificial Intelligence,Self-Adapting Control Parameters in Differential Evolution: A Comparative Study on Numerical Benchmark Problems,https://doi.org/10.1109/tevc.2006.872133,2006,2982,https://openalex.org/W2162145193
+1702,Artificial Intelligence,Explaining prediction models and individual predictions with feature contributions,https://doi.org/10.1007/s10115-013-0679-x,2013,1968,https://openalex.org/W2129888542
+1702,Artificial Intelligence,When and how to develop domain-specific languages,https://doi.org/10.1145/1118890.1118892,2005,1684,https://openalex.org/W2014596857
+1702,Artificial Intelligence,Orange: data mining toolbox in python,,2013,1635,https://openalex.org/W2131850886
+1702,Artificial Intelligence,"Averages of b-hadron, c-hadron, and $$\tau $$ τ -lepton properties as of summer 2016",https://doi.org/10.1140/epjc/s10052-017-5058-4,2017,1372,https://openalex.org/W2163389141
+1702,Artificial Intelligence,A comprehensive review of firefly algorithms,https://doi.org/10.1016/j.swevo.2013.06.001,2013,1261,https://openalex.org/W2044587647
+1702,Artificial Intelligence,Exploration and exploitation in evolutionary algorithms,https://doi.org/10.1145/2480741.2480752,2013,1233,https://openalex.org/W1968075052
+1702,Artificial Intelligence,SMOTE for high-dimensional class-imbalanced data,https://doi.org/10.1186/1471-2105-14-106,2013,982,https://openalex.org/W1991181258
 3320,Political Science and International Relations,The Max Planck Encyclopedia of Public International Law,,2012,394,https://openalex.org/W1552399479
 3320,Political Science and International Relations,The CISG and Its General Principles,https://doi.org/10.2139/ssrn.1595989,2009,346,https://openalex.org/W4241593357
-3320,Political Science and International Relations,Disentangling and Locating the “Global Right”: Anti-Gender Campaigns in Europe,https://doi.org/10.17645/pag.v6i3.1557,2018,312,https://openalex.org/W2892213024
-2746,Surgery,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4779,https://openalex.org/W2953804067
-2746,Surgery,Clinical Targets for Continuous Glucose Monitoring Data Interpretation: Recommendations From the International Consensus on Time in Range,https://doi.org/10.2337/dci19-0028,2019,3400,https://openalex.org/W2948261890
-2746,Surgery,The Wound Healing Process: An Overview of the Cellular and Molecular Mechanisms,https://doi.org/10.1177/147323000903700531,2009,2288,https://openalex.org/W2078958131
+3320,Political Science and International Relations,Disentangling and Locating the “Global Right”: Anti-Gender Campaigns in Europe,https://doi.org/10.17645/pag.v6i3.1557,2018,315,https://openalex.org/W2892213024
+3320,Political Science and International Relations,"Procedural justice, legitimacy, and prisoner misconduct",https://doi.org/10.1080/10683160802089768,2009,304,https://openalex.org/W2012533908
+3320,Political Science and International Relations,"Procedural Justice, Police Legitimacy, and Helping the Police Fight Crime",https://doi.org/10.1177/1098611108327311,2008,285,https://openalex.org/W2063228956
+3320,Political Science and International Relations,"University ranking using research, educational and environmental indicators",https://doi.org/10.1016/j.jclepro.2009.09.015,2009,272,https://openalex.org/W2040156385
+3320,Political Science and International Relations,Officers as Mirrors,https://doi.org/10.1093/bjc/azu021,2014,271,https://openalex.org/W1981652707
+3320,Political Science and International Relations,"Confronting the State, the Corporation, and the Academy: The Influence of Institutional Targets on Social Movement Repertoires",https://doi.org/10.1086/588737,2008,266,https://openalex.org/W1973710818
+3320,Political Science and International Relations,Lost in Transition,https://doi.org/10.1177/0888325409345140,2009,259,https://openalex.org/W2166061448
+3320,Political Science and International Relations,Institutional quality dataset,https://doi.org/10.1017/s1744137413000192,2013,236,https://openalex.org/W2037072769
+2746,Surgery,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4782,https://openalex.org/W2953804067
+2746,Surgery,Clinical Targets for Continuous Glucose Monitoring Data Interpretation: Recommendations From the International Consensus on Time in Range,https://doi.org/10.2337/dci19-0028,2019,3418,https://openalex.org/W2948261890
+2746,Surgery,The Wound Healing Process: An Overview of the Cellular and Molecular Mechanisms,https://doi.org/10.1177/147323000903700531,2009,2290,https://openalex.org/W2078958131
+2746,Surgery,"Radiotherapy or surgery of the axilla after a positive sentinel node in breast cancer (EORTC 10981-22023 AMAROS): a randomised, multicentre, open-label, phase 3 non-inferiority trial",https://doi.org/10.1016/s1470-2045(14)70460-7,2014,1746,https://openalex.org/W2133865595
+2746,Surgery,The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition,https://doi.org/10.1186/s13054-016-1265-x,2016,1460,https://openalex.org/W2338438098
+2746,Surgery,Capecitabine as Adjuvant Treatment for Stage III Colon Cancer,https://doi.org/10.1056/nejmoa043116,2005,1236,https://openalex.org/W2146161922
+2746,Surgery,Spectrum of gluten-related disorders: consensus on new nomenclature and classification,https://doi.org/10.1186/1741-7015-10-13,2012,1125,https://openalex.org/W2118019845
+2746,Surgery,Updated International Consensus Diagnostic Criteria for Eosinophilic Esophagitis: Proceedings of the AGREE Conference,https://doi.org/10.1053/j.gastro.2018.07.009,2018,1067,https://openalex.org/W2883311417
+2746,Surgery,Prediction of outcome in individuals with diabetic foot ulcers: focus on the differences between individuals with and without peripheral arterial disease. The EURODIALE Study,https://doi.org/10.1007/s00125-008-0940-0,2008,970,https://openalex.org/W2167102581
+2746,Surgery,Management of bleeding and coagulopathy following major trauma: an updated European guideline,https://doi.org/10.1186/cc12685,2013,952,https://openalex.org/W2111374185

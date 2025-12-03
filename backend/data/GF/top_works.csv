@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-2739,"Public Health, Environmental and Occupational Health",Differential Susceptibilities of Aedes aegypti and Aedes albopictus from the Americas to Zika Virus,https://doi.org/10.1371/journal.pntd.0004543,2016,631,https://openalex.org/W2295378318
-2739,"Public Health, Environmental and Occupational Health",Zika Virus Infection — After the Pandemic,https://doi.org/10.1056/nejmra1808246,2019,518,https://openalex.org/W2977494746
+2739,"Public Health, Environmental and Occupational Health",Differential Susceptibilities of Aedes aegypti and Aedes albopictus from the Americas to Zika Virus,https://doi.org/10.1371/journal.pntd.0004543,2016,633,https://openalex.org/W2295378318
+2739,"Public Health, Environmental and Occupational Health",Zika Virus Infection — After the Pandemic,https://doi.org/10.1056/nejmra1808246,2019,521,https://openalex.org/W2977494746
 2739,"Public Health, Environmental and Occupational Health",Resistance of Plasmodium falciparum Field Isolates to In-Vitro Artemether and Point Mutations of the SERCA-Type PfATPase6,https://doi.org/10.1016/s0093-3619(08)70110-2,2006,500,https://openalex.org/W2125397010
-1105,"Ecology, Evolution, Behavior and Systematics",Hyperdominance in the Amazonian Tree Flora,https://doi.org/10.1126/science.1243092,2013,1351,https://openalex.org/W2134105845
-1105,"Ecology, Evolution, Behavior and Systematics",A global meta‐analysis of the relative extent of intraspecific trait variation in plant communities,https://doi.org/10.1111/ele.12508,2015,1038,https://openalex.org/W2124019912
-1105,"Ecology, Evolution, Behavior and Systematics",Plant functional traits have globally consistent effects on competition,https://doi.org/10.1038/nature16476,2015,913,https://openalex.org/W2235415383
-2725,Infectious Diseases,"Real-time, portable genome sequencing for Ebola surveillance",https://doi.org/10.1038/nature16996,2016,1489,https://openalex.org/W2259815689
-2725,Infectious Diseases,Differential Susceptibilities of Aedes aegypti and Aedes albopictus from the Americas to Zika Virus,https://doi.org/10.1371/journal.pntd.0004543,2016,631,https://openalex.org/W2295378318
-2725,Infectious Diseases,Zika Virus Infection — After the Pandemic,https://doi.org/10.1056/nejmra1808246,2019,518,https://openalex.org/W2977494746
-2306,Global and Planetary Change,The FLUXNET2015 dataset and the ONEFlux processing pipeline for eddy covariance data,https://doi.org/10.1038/s41597-020-0534-3,2020,1580,https://openalex.org/W3040739689
-2306,Global and Planetary Change,Positive biodiversity-productivity relationship predominant in global forests,https://doi.org/10.1126/science.aaf8957,2016,1350,https://openalex.org/W2519343095
-2306,Global and Planetary Change,Long-term decline of the Amazon carbon sink,https://doi.org/10.1038/nature14283,2015,1136,https://openalex.org/W2048605790
-2309,Nature and Landscape Conservation,Hyperdominance in the Amazonian Tree Flora,https://doi.org/10.1126/science.1243092,2013,1351,https://openalex.org/W2134105845
-2309,Nature and Landscape Conservation,Positive biodiversity-productivity relationship predominant in global forests,https://doi.org/10.1126/science.aaf8957,2016,1350,https://openalex.org/W2519343095
-2309,Nature and Landscape Conservation,Long-term decline of the Amazon carbon sink,https://doi.org/10.1038/nature14283,2015,1136,https://openalex.org/W2048605790
+2739,"Public Health, Environmental and Occupational Health",International Study to Evaluate PCR Methods for Detection of Trypanosoma cruzi DNA in Blood Samples from Chagas Disease Patients,https://doi.org/10.1371/journal.pntd.0000931,2011,470,https://openalex.org/W2068012504
+2739,"Public Health, Environmental and Occupational Health",High Level of Vector Competence of Aedes aegypti and Aedes albopictus from Ten American Countries as a Crucial Factor in the Spread of Chikungunya Virus,https://doi.org/10.1128/jvi.00370-14,2014,468,https://openalex.org/W2143179253
+2739,"Public Health, Environmental and Occupational Health",Recognition determinants of broadly neutralizing human antibodies against dengue viruses,https://doi.org/10.1038/nature14130,2015,360,https://openalex.org/W2131849805
+2739,"Public Health, Environmental and Occupational Health",Pregnancy Outcomes after ZIKV Infection in French Territories in the Americas,https://doi.org/10.1056/nejmoa1709481,2018,335,https://openalex.org/W2792390442
+2739,"Public Health, Environmental and Occupational Health","Fatal Outbreak of Human Toxoplasmosis along the Maroni River: Epidemiological, Clinical, and Parasitological Aspects",https://doi.org/10.1086/521246,2007,328,https://openalex.org/W2003506359
+2739,"Public Health, Environmental and Occupational Health",Management of insecticide resistance in the major Aedes vectors of arboviruses: Advances and challenges,https://doi.org/10.1371/journal.pntd.0007615,2019,308,https://openalex.org/W2979519051
+2739,"Public Health, Environmental and Occupational Health",Zika virus genome from the Americas,https://doi.org/10.1016/s0140-6736(16)00003-9,2016,265,https://openalex.org/W2229167533
+1105,"Ecology, Evolution, Behavior and Systematics",Hyperdominance in the Amazonian Tree Flora,https://doi.org/10.1126/science.1243092,2013,1354,https://openalex.org/W2134105845
+1105,"Ecology, Evolution, Behavior and Systematics",A global meta‐analysis of the relative extent of intraspecific trait variation in plant communities,https://doi.org/10.1111/ele.12508,2015,1044,https://openalex.org/W2124019912
+1105,"Ecology, Evolution, Behavior and Systematics",Plant functional traits have globally consistent effects on competition,https://doi.org/10.1038/nature16476,2015,914,https://openalex.org/W2235415383
+1105,"Ecology, Evolution, Behavior and Systematics",Rare Species Support Vulnerable Functions in High-Diversity Ecosystems,https://doi.org/10.1371/journal.pbio.1001569,2013,888,https://openalex.org/W2100845728
+1105,"Ecology, Evolution, Behavior and Systematics",Global trait–environment relationships of plant communities,https://doi.org/10.1038/s41559-018-0699-8,2018,671,https://openalex.org/W2898973103
+1105,"Ecology, Evolution, Behavior and Systematics",Persistent effects of pre-Columbian plant domestication on Amazonian forest composition,https://doi.org/10.1126/science.aal0157,2017,652,https://openalex.org/W2594233224
+1105,"Ecology, Evolution, Behavior and Systematics",A global meta-analysis of the relative extent of intraspecific trait variation in plant communities,https://doi.org/10.5167/uzh-123320,2015,650,https://openalex.org/W3008901338
+1105,"Ecology, Evolution, Behavior and Systematics",Genomic architecture and introgression shape a butterfly radiation,https://doi.org/10.1126/science.aaw2090,2019,578,https://openalex.org/W2982348757
+1105,"Ecology, Evolution, Behavior and Systematics",Underestimation of Species Richness in Neotropical Frogs Revealed by mtDNA Analyses,https://doi.org/10.1371/journal.pone.0001109,2007,506,https://openalex.org/W2146562437
+1105,"Ecology, Evolution, Behavior and Systematics",Compositional response of Amazon forests to climate change,https://doi.org/10.1111/gcb.14413,2018,458,https://openalex.org/W2900106581
+2725,Infectious Diseases,"Real-time, portable genome sequencing for Ebola surveillance",https://doi.org/10.1038/nature16996,2016,1491,https://openalex.org/W2259815689
+2725,Infectious Diseases,Differential Susceptibilities of Aedes aegypti and Aedes albopictus from the Americas to Zika Virus,https://doi.org/10.1371/journal.pntd.0004543,2016,633,https://openalex.org/W2295378318
+2725,Infectious Diseases,Zika Virus Infection — After the Pandemic,https://doi.org/10.1056/nejmra1808246,2019,521,https://openalex.org/W2977494746
+2725,Infectious Diseases,Resistance of Plasmodium falciparum Field Isolates to In-Vitro Artemether and Point Mutations of the SERCA-Type PfATPase6,https://doi.org/10.1016/s0093-3619(08)70110-2,2006,500,https://openalex.org/W2125397010
+2725,Infectious Diseases,High Level of Vector Competence of Aedes aegypti and Aedes albopictus from Ten American Countries as a Crucial Factor in the Spread of Chikungunya Virus,https://doi.org/10.1128/jvi.00370-14,2014,468,https://openalex.org/W2143179253
+2725,Infectious Diseases,Recognition determinants of broadly neutralizing human antibodies against dengue viruses,https://doi.org/10.1038/nature14130,2015,360,https://openalex.org/W2131849805
+2725,Infectious Diseases,Pregnancy Outcomes after ZIKV Infection in French Territories in the Americas,https://doi.org/10.1056/nejmoa1709481,2018,335,https://openalex.org/W2792390442
+2725,Infectious Diseases,Re-drawing the Maps for Endemic Mycoses,https://doi.org/10.1007/s11046-020-00431-2,2020,285,https://openalex.org/W3005239418
+2725,Infectious Diseases,Zika virus genome from the Americas,https://doi.org/10.1016/s0140-6736(16)00003-9,2016,265,https://openalex.org/W2229167533
+2725,Infectious Diseases,Evaluation of an Enzyme Immunoassay for Detection of Dengue Virus NS1 Antigen in Human Serum,https://doi.org/10.1128/cvi.00229-06,2006,251,https://openalex.org/W2157227473
+2306,Global and Planetary Change,The FLUXNET2015 dataset and the ONEFlux processing pipeline for eddy covariance data,https://doi.org/10.1038/s41597-020-0534-3,2020,1589,https://openalex.org/W3040739689
+2306,Global and Planetary Change,Positive biodiversity-productivity relationship predominant in global forests,https://doi.org/10.1126/science.aaf8957,2016,1358,https://openalex.org/W2519343095
+2306,Global and Planetary Change,Long-term decline of the Amazon carbon sink,https://doi.org/10.1038/nature14283,2015,1137,https://openalex.org/W2048605790
+2306,Global and Planetary Change,"CO <sub>2</sub> balance of boreal, temperate, and tropical forests derived from a global database",https://doi.org/10.1111/j.1365-2486.2007.01439.x,2007,1028,https://openalex.org/W2126507922
+2306,Global and Planetary Change,Cloudnet,https://doi.org/10.1175/bams-88-6-883,2007,763,https://openalex.org/W2052760356
+2306,Global and Planetary Change,Continental-scale patterns of canopy tree composition and function across Amazonia,https://doi.org/10.1038/nature05134,2006,707,https://openalex.org/W2040792004
+2306,Global and Planetary Change,Persistent effects of pre-Columbian plant domestication on Amazonian forest composition,https://doi.org/10.1126/science.aal0157,2017,652,https://openalex.org/W2594233224
+2306,Global and Planetary Change,Recent Asian origin of chytrid fungi causing global amphibian declines,https://doi.org/10.1126/science.aar1965,2018,576,https://openalex.org/W2799512068
+2306,Global and Planetary Change,Underestimation of Species Richness in Neotropical Frogs Revealed by mtDNA Analyses,https://doi.org/10.1371/journal.pone.0001109,2007,506,https://openalex.org/W2146562437
+2306,Global and Planetary Change,Decoupled leaf and stem economics in rain forest trees,https://doi.org/10.1111/j.1461-0248.2010.01517.x,2010,416,https://openalex.org/W2096985849
+2309,Nature and Landscape Conservation,Positive biodiversity-productivity relationship predominant in global forests,https://doi.org/10.1126/science.aaf8957,2016,1358,https://openalex.org/W2519343095
+2309,Nature and Landscape Conservation,Hyperdominance in the Amazonian Tree Flora,https://doi.org/10.1126/science.1243092,2013,1354,https://openalex.org/W2134105845
+2309,Nature and Landscape Conservation,Long-term decline of the Amazon carbon sink,https://doi.org/10.1038/nature14283,2015,1137,https://openalex.org/W2048605790
+2309,Nature and Landscape Conservation,A global meta‐analysis of the relative extent of intraspecific trait variation in plant communities,https://doi.org/10.1111/ele.12508,2015,1044,https://openalex.org/W2124019912
+2309,Nature and Landscape Conservation,Plant functional traits have globally consistent effects on competition,https://doi.org/10.1038/nature16476,2015,914,https://openalex.org/W2235415383
+2309,Nature and Landscape Conservation,Continental-scale patterns of canopy tree composition and function across Amazonia,https://doi.org/10.1038/nature05134,2006,707,https://openalex.org/W2040792004
+2309,Nature and Landscape Conservation,Global trait–environment relationships of plant communities,https://doi.org/10.1038/s41559-018-0699-8,2018,671,https://openalex.org/W2898973103
+2309,Nature and Landscape Conservation,A global meta-analysis of the relative extent of intraspecific trait variation in plant communities,https://doi.org/10.5167/uzh-123320,2015,650,https://openalex.org/W3008901338
+2309,Nature and Landscape Conservation,Compositional response of Amazon forests to climate change,https://doi.org/10.1111/gcb.14413,2018,458,https://openalex.org/W2900106581
+2309,Nature and Landscape Conservation,Rare species contribute disproportionately to the functional structure of species assemblages,https://doi.org/10.1098/rspb.2016.0084,2016,451,https://openalex.org/W2313974872
 3312,Sociology and Political Science,High Level of Vector Competence of Aedes aegypti and Aedes albopictus from Ten American Countries as a Crucial Factor in the Spread of Chikungunya Virus,https://doi.org/10.1128/jvi.00370-14,2014,468,https://openalex.org/W2143179253
 3312,Sociology and Political Science,- Dengue Hemorrhagic Fever,https://doi.org/10.1201/b15172-31,2013,191,https://openalex.org/W2460790455
-3312,Sociology and Political Science,Zika virus: An updated review of competent or naturally infected mosquitoes,https://doi.org/10.1371/journal.pntd.0005933,2017,143,https://openalex.org/W2770260204
+3312,Sociology and Political Science,Zika virus: An updated review of competent or naturally infected mosquitoes,https://doi.org/10.1371/journal.pntd.0005933,2017,144,https://openalex.org/W2770260204
+3312,Sociology and Political Science,Illegal gold miners in French Guiana: a neglected population with poor health,https://doi.org/10.1186/s12889-017-4557-4,2017,113,https://openalex.org/W2734657368
+3312,Sociology and Political Science,Zika Virus,https://doi.org/10.3390/pathogens9110898,2020,97,https://openalex.org/W4231020630
+3312,Sociology and Political Science,Drinking water quality in areas impacted by oil activities in Ecuador: Associated health risks and social perception of human exposure,https://doi.org/10.1016/j.scitotenv.2019.07.089,2019,77,https://openalex.org/W2958016148
+3312,Sociology and Political Science,Multiple insecticide resistance in Aedes aegypti (Diptera: Culicidae) populations compromises the effectiveness of dengue vector control in French Guiana,https://doi.org/10.1590/s0074-02762011000300015,2011,75,https://openalex.org/W2152514578
+3312,Sociology and Political Science,COVID-19 vaccine hesitancy among persons living in homeless shelters in France,https://doi.org/10.1016/j.vaccine.2021.05.012,2021,66,https://openalex.org/W3163856129
+3312,Sociology and Political Science,Aedes aegypti survival and dengue transmission patterns in French Guiana,https://doi.org/10.3376/1081-1710(2006)31[390:aasadt]2.0.co;2,2006,65,https://openalex.org/W2147606691
+3312,Sociology and Political Science,What is driving the HIV epidemic in French Guiana?,https://doi.org/10.1258/ijsa.2010.009570,2010,57,https://openalex.org/W1997849185
 2713,Epidemiology,International Study to Evaluate PCR Methods for Detection of Trypanosoma cruzi DNA in Blood Samples from Chagas Disease Patients,https://doi.org/10.1371/journal.pntd.0000931,2011,470,https://openalex.org/W2068012504
-2713,Epidemiology,Pregnancy Outcomes after ZIKV Infection in French Territories in the Americas,https://doi.org/10.1056/nejmoa1709481,2018,334,https://openalex.org/W2792390442
+2713,Epidemiology,Pregnancy Outcomes after ZIKV Infection in French Territories in the Americas,https://doi.org/10.1056/nejmoa1709481,2018,335,https://openalex.org/W2792390442
 2713,Epidemiology,"Chromoblastomycosis: an overview of clinical manifestations, diagnosis and treatment",https://doi.org/10.1080/13693780802538001,2008,315,https://openalex.org/W2107221099
-2303,Ecology,"Real-time, portable genome sequencing for Ebola surveillance",https://doi.org/10.1038/nature16996,2016,1489,https://openalex.org/W2259815689
-2303,Ecology,Rare Species Support Vulnerable Functions in High-Diversity Ecosystems,https://doi.org/10.1371/journal.pbio.1001569,2013,883,https://openalex.org/W2100845728
-2303,Ecology,Global trait–environment relationships of plant communities,https://doi.org/10.1038/s41559-018-0699-8,2018,668,https://openalex.org/W2898973103
-1311,Genetics,Genomic architecture and introgression shape a butterfly radiation,https://doi.org/10.1126/science.aaw2090,2019,577,https://openalex.org/W2982348757
-1311,Genetics,Recent Asian origin of chytrid fungi causing global amphibian declines,https://doi.org/10.1126/science.aar1965,2018,573,https://openalex.org/W2799512068
+2713,Epidemiology,Re-drawing the Maps for Endemic Mycoses,https://doi.org/10.1007/s11046-020-00431-2,2020,285,https://openalex.org/W3005239418
+2713,Epidemiology,Genotype of 88<i>Toxoplasma gondii</i>Isolates Associated with Toxoplasmosis in Immunocompromised Patients and Correlation with Clinical Findings,https://doi.org/10.1086/597477,2009,208,https://openalex.org/W2160273971
+2713,Epidemiology,"Severe Acquired Toxoplasmosis Caused by Wild Cycle of<i>Toxoplasma gondii</i>, French Guiana",https://doi.org/10.3201/eid1504.081306,2009,203,https://openalex.org/W1999610341
+2713,Epidemiology,Local emergence in Amazonia of Plasmodium falciparum k13 C580Y mutants associated with in vitro artemisinin resistance,https://doi.org/10.7554/elife.51015,2020,174,https://openalex.org/W3025920658
+2713,Epidemiology,Trypanosoma cruzi I genotypes in different geographical regions and transmission cycles based on a microsatellite motif of the intergenic spacer of spliced-leader genes,https://doi.org/10.1016/j.ijpara.2010.06.006,2010,165,https://openalex.org/W2037147698
+2713,Epidemiology,Development of a Single Nucleotide Polymorphism Barcode to Genotype Plasmodium vivax Infections,https://doi.org/10.1371/journal.pntd.0003539,2015,149,https://openalex.org/W2138424942
+2713,Epidemiology,Maternal-fetal transmission and adverse perinatal outcomes in pregnant women infected with Zika virus: prospective cohort study in French Guiana,https://doi.org/10.1136/bmj.k4431,2018,145,https://openalex.org/W2899044014
+2303,Ecology,"Real-time, portable genome sequencing for Ebola surveillance",https://doi.org/10.1038/nature16996,2016,1491,https://openalex.org/W2259815689
+2303,Ecology,Rare Species Support Vulnerable Functions in High-Diversity Ecosystems,https://doi.org/10.1371/journal.pbio.1001569,2013,888,https://openalex.org/W2100845728
+2303,Ecology,Global trait–environment relationships of plant communities,https://doi.org/10.1038/s41559-018-0699-8,2018,671,https://openalex.org/W2898973103
+2303,Ecology,Rare species contribute disproportionately to the functional structure of species assemblages,https://doi.org/10.1098/rspb.2016.0084,2016,451,https://openalex.org/W2313974872
+2303,Ecology,Rosina – Rosetta Orbiter Spectrometer for Ion and Neutral Analysis,https://doi.org/10.1007/s11214-006-8335-3,2007,384,https://openalex.org/W2135537191
+2303,Ecology,Fine‐scale genetic structure and gene dispersal inferences in 10 Neotropical tree species,https://doi.org/10.1111/j.1365-294x.2005.02785.x,2005,343,https://openalex.org/W2135597298
+2303,Ecology,The global distribution of leaf chlorophyll content,https://doi.org/10.1016/j.rse.2019.111479,2019,250,https://openalex.org/W2989585671
+2303,Ecology,The contribution of insects to global forest deadwood decomposition,https://doi.org/10.1038/s41586-021-03740-8,2021,241,https://openalex.org/W3196689654
+2303,Ecology,Ground-based Network of NDVI measurements for tracking temporal dynamics of canopy structure and vegetation phenology in different biomes,https://doi.org/10.1016/j.rse.2012.03.012,2012,218,https://openalex.org/W2167089131
+2303,Ecology,Unlocking biodiversity and conservation studies in high‐diversity environments using environmental DNA (eDNA): A test with Guianese freshwater fishes,https://doi.org/10.1111/1755-0998.12900,2018,213,https://openalex.org/W2804615759
+1311,Genetics,Genomic architecture and introgression shape a butterfly radiation,https://doi.org/10.1126/science.aaw2090,2019,578,https://openalex.org/W2982348757
+1311,Genetics,Recent Asian origin of chytrid fungi causing global amphibian declines,https://doi.org/10.1126/science.aar1965,2018,576,https://openalex.org/W2799512068
 1311,Genetics,Fine‐scale genetic structure and gene dispersal inferences in 10 Neotropical tree species,https://doi.org/10.1111/j.1365-294x.2005.02785.x,2005,343,https://openalex.org/W2135597298
-1110,Plant Science,Strong coupling of plant and fungal community structure across western Amazonian rainforests,https://doi.org/10.1038/ismej.2013.66,2013,362,https://openalex.org/W2121245583
+1311,Genetics,High Levels of Diversity Uncovered in a Widespread Nominal Taxon: Continental Phylogeography of the Neotropical Tree Frog Dendropsophus minutus,https://doi.org/10.1371/journal.pone.0103958,2014,294,https://openalex.org/W2015787201
+1311,Genetics,<b>entropart</b>: An<i>R</i>Package to Measure and Partition Diversity,https://doi.org/10.18637/jss.v067.i08,2015,283,https://openalex.org/W2097550077
+1311,Genetics,GENETICALLY DEPAUPERATE BUT WIDESPREAD: THE CASE OF AN EMBLEMATIC MEDITERRANEAN PINE,https://doi.org/10.1111/j.1558-5646.2007.00294.x,2008,179,https://openalex.org/W2076709955
+1311,Genetics,The Biochemical Toxin Arsenal from Ant Venoms,https://doi.org/10.3390/toxins8010030,2016,165,https://openalex.org/W2291928206
+1311,Genetics,Revealing cryptic diversity using molecular phylogenetics and phylogeography in frogs of the Scinax ruber and Rhinella margaritifera species groups,https://doi.org/10.1016/j.ympev.2006.12.006,2006,154,https://openalex.org/W2107980438
+1311,Genetics,Impact of selective logging on genetic composition and demographic structure of four tropical tree species,https://doi.org/10.1016/j.biocon.2006.02.014,2006,144,https://openalex.org/W2094505581
+1311,Genetics,Adaptive evolution of malaria parasites in French Guiana: Reversal of chloroquine resistance by acquisition of a mutation in <i>pfcrt</i>,https://doi.org/10.1073/pnas.1507142112,2015,137,https://openalex.org/W1906140483
+1110,Plant Science,Strong coupling of plant and fungal community structure across western Amazonian rainforests,https://doi.org/10.1038/ismej.2013.66,2013,363,https://openalex.org/W2121245583
 1110,Plant Science,Global sampling of plant roots expands the described molecular diversity of arbuscular mycorrhizal fungi,https://doi.org/10.1007/s00572-013-0482-2,2013,341,https://openalex.org/W2042789776
-1110,Plant Science,Management of insecticide resistance in the major Aedes vectors of arboviruses: Advances and challenges,https://doi.org/10.1371/journal.pntd.0007615,2019,307,https://openalex.org/W2979519051
+1110,Plant Science,Management of insecticide resistance in the major Aedes vectors of arboviruses: Advances and challenges,https://doi.org/10.1371/journal.pntd.0007615,2019,308,https://openalex.org/W2979519051
+1110,Plant Science,"Comparison of ecosystem water‐use efficiency among Douglas‐fir forest, aspen forest and grassland using eddy covariance and carbon isotope techniques",https://doi.org/10.1111/j.1365-2486.2005.01103.x,2006,292,https://openalex.org/W2061175526
+1110,Plant Science,Ground-based Network of NDVI measurements for tracking temporal dynamics of canopy structure and vegetation phenology in different biomes,https://doi.org/10.1016/j.rse.2012.03.012,2012,218,https://openalex.org/W2167089131
+1110,Plant Science,Assessing foliar chlorophyll contents with the SPAD-502 chlorophyll meter: a calibration test with thirteen tree species of tropical rainforest in French Guiana,https://doi.org/10.1051/forest/2010020,2010,206,https://openalex.org/W2157287989
+1110,Plant Science,High variation in foliage and leaf litter chemistry among 45 tree species of a neotropical rainforest community,https://doi.org/10.1111/j.1469-8137.2008.02438.x,2008,202,https://openalex.org/W2102319558
+1110,Plant Science,The number of tree species on Earth,https://doi.org/10.1073/pnas.2115329119,2022,193,https://openalex.org/W4210377061
+1110,Plant Science,Body size determines soil community assembly in a tropical forest,https://doi.org/10.1111/mec.14919,2018,186,https://openalex.org/W2899382249
+1110,Plant Science,Estimating nocturnal ecosystem respiration from the vertical turbulent flux and change in storage of CO2,https://doi.org/10.1016/j.agrformet.2009.06.020,2009,116,https://openalex.org/W2158289041

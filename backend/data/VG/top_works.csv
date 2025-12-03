@@ -2,30 +2,100 @@ subfield_id,subfield_name,title,doi,year,cited_by_count,id
 2212,Ocean Engineering,Modeling of Hydraulic Fracture Network Propagation in a Naturally Fractured Formation,https://doi.org/10.2118/140253-ms,2011,585,https://openalex.org/W2107059731
 2212,Ocean Engineering,Stimulating Unconventional Reservoirs: Maximizing Network Growth While Optimizing Fracture Conductivity,https://doi.org/10.2118/114173-pa,2009,410,https://openalex.org/W2162997585
 2212,Ocean Engineering,Operational overview of the first offshore production test of methane hydrates in the Eastern Nankai Trough,https://doi.org/10.4043/25243-ms,2014,361,https://openalex.org/W2011647863
+2212,Ocean Engineering,Results of the Brugge Benchmark Study for Flooding Optimization and History Matching,https://doi.org/10.2118/119094-pa,2010,347,https://openalex.org/W2058488613
+2212,Ocean Engineering,Numerical Modeling of Hydraulic Fractures Interaction in Complex Naturally Fractured Formations,https://doi.org/10.1007/s00603-012-0359-2,2013,333,https://openalex.org/W1984794867
+2212,Ocean Engineering,Evaluation of Production Log Data from Horizontal Wells Drilled in Organic Shales,https://doi.org/10.2118/144326-ms,2011,331,https://openalex.org/W2002321052
+2212,Ocean Engineering,Modeling of Hydraulic-Fracture-Network Propagation in a Naturally Fractured Formation,https://doi.org/10.2118/140253-pa,2011,322,https://openalex.org/W4242628645
+2212,Ocean Engineering,Hydraulic Fracture Crossing Natural Fracture at Nonorthogonal Angles: A Criterion and Its Validation,https://doi.org/10.2118/139984-pa,2012,314,https://openalex.org/W2078036575
+2212,Ocean Engineering,Drift-Flux Modeling of Two-Phase Flow in Wellbores,https://doi.org/10.2118/84228-pa,2005,292,https://openalex.org/W2038297638
+2212,Ocean Engineering,"The Relationship Between Fracture Complexity, Reservoir Properties, and Fracture-Treatment Design",https://doi.org/10.2118/115769-pa,2010,232,https://openalex.org/W2122763259
 2210,Mechanical Engineering,Modeling of Hydraulic Fracture Network Propagation in a Naturally Fractured Formation,https://doi.org/10.2118/140253-ms,2011,585,https://openalex.org/W2107059731
 2210,Mechanical Engineering,Stimulating Unconventional Reservoirs: Maximizing Network Growth While Optimizing Fracture Conductivity,https://doi.org/10.2118/114173-pa,2009,410,https://openalex.org/W2162997585
 2210,Mechanical Engineering,Results of the Brugge Benchmark Study for Flooding Optimization and History Matching,https://doi.org/10.2118/119094-pa,2010,347,https://openalex.org/W2058488613
+2210,Mechanical Engineering,Numerical Modeling of Hydraulic Fractures Interaction in Complex Naturally Fractured Formations,https://doi.org/10.1007/s00603-012-0359-2,2013,333,https://openalex.org/W1984794867
+2210,Mechanical Engineering,Evaluation of Production Log Data from Horizontal Wells Drilled in Organic Shales,https://doi.org/10.2118/144326-ms,2011,331,https://openalex.org/W2002321052
+2210,Mechanical Engineering,Modeling of Hydraulic-Fracture-Network Propagation in a Naturally Fractured Formation,https://doi.org/10.2118/140253-pa,2011,322,https://openalex.org/W4242628645
+2210,Mechanical Engineering,Hydraulic Fracture Crossing Natural Fracture at Nonorthogonal Angles: A Criterion and Its Validation,https://doi.org/10.2118/139984-pa,2012,314,https://openalex.org/W2078036575
+2210,Mechanical Engineering,Drift-Flux Modeling of Two-Phase Flow in Wellbores,https://doi.org/10.2118/84228-pa,2005,292,https://openalex.org/W2038297638
+2210,Mechanical Engineering,"Formation, Removal, and Inhibition of Inorganic Scale in the Oilfield Environment",https://doi.org/10.2118/9781555631406,2008,245,https://openalex.org/W2556020344
+2210,Mechanical Engineering,"The Relationship Between Fracture Complexity, Reservoir Properties, and Fracture-Treatment Design",https://doi.org/10.2118/115769-pa,2010,232,https://openalex.org/W2122763259
 1908,Geophysics,Modeling of Hydraulic Fracture Network Propagation in a Naturally Fractured Formation,https://doi.org/10.2118/140253-ms,2011,585,https://openalex.org/W2107059731
 1908,Geophysics,Stimulating Unconventional Reservoirs: Maximizing Network Growth While Optimizing Fracture Conductivity,https://doi.org/10.2118/114173-pa,2009,410,https://openalex.org/W2162997585
 1908,Geophysics,Modeling of Hydraulic-Fracture-Network Propagation in a Naturally Fractured Formation,https://doi.org/10.2118/140253-pa,2011,322,https://openalex.org/W4242628645
-2211,Mechanics of Materials,Numerical Modeling of Hydraulic Fractures Interaction in Complex Naturally Fractured Formations,https://doi.org/10.1007/s00603-012-0359-2,2013,332,https://openalex.org/W1984794867
+1908,Geophysics,Hydraulic Fracture Crossing Natural Fracture at Nonorthogonal Angles: A Criterion and Its Validation,https://doi.org/10.2118/139984-pa,2012,314,https://openalex.org/W2078036575
+1908,Geophysics,Quantitative analysis of time-lapse seismic monitoring data at the Sleipner CO2 storage operation,https://doi.org/10.1190/1.3304820,2010,257,https://openalex.org/W2011952715
+1908,Geophysics,Seismic-to-Simulation for Unconventional Reservoir Development,https://doi.org/10.2118/146876-ms,2011,214,https://openalex.org/W2079235624
+1908,Geophysics,Modeling of Interaction of Hydraulic Fractures in Complex Fracture Networks,https://doi.org/10.2118/152052-ms,2012,210,https://openalex.org/W3019696665
+1908,Geophysics,Dielectric Dispersion: A New Wireline Petrophysical Measurement,https://doi.org/10.2118/116130-ms,2008,178,https://openalex.org/W1970957283
+1908,Geophysics,Integrating Microseismic Mapping and Complex Fracture Modeling to Characterize Fracture Complexity,https://doi.org/10.2118/140185-ms,2011,174,https://openalex.org/W2071095224
+1908,Geophysics,Anisotropic Stress Models Improve Completion Design in the Baxter Shale,https://doi.org/10.2118/115736-ms,2008,170,https://openalex.org/W2030585704
+2211,Mechanics of Materials,Numerical Modeling of Hydraulic Fractures Interaction in Complex Naturally Fractured Formations,https://doi.org/10.1007/s00603-012-0359-2,2013,333,https://openalex.org/W1984794867
 2211,Mechanics of Materials,Shale Gas Production Decline Trend Comparison over Time and Basins,https://doi.org/10.2118/135555-ms,2010,205,https://openalex.org/W2020931214
 2211,Mechanics of Materials,Coalbed- and Shale-Gas Reservoirs,https://doi.org/10.2118/103514-jpt,2008,181,https://openalex.org/W2043491075
+2211,Mechanics of Materials,A Dictionary Approach to Electron Backscatter Diffraction Indexing,https://doi.org/10.1017/s1431927615000756,2015,162,https://openalex.org/W747114614
+2211,Mechanics of Materials,Injection-Sensitive Mechanics of Hydraulic Fracture Interaction with Discontinuities,https://doi.org/10.1007/s00603-014-0596-7,2014,161,https://openalex.org/W1986699082
+2211,Mechanics of Materials,Improved Petrophysical Core Measurements on Tight Shale Reservoirs Using Retort and Crushed Samples,https://doi.org/10.2118/147456-ms,2011,160,https://openalex.org/W2061101953
+2211,Mechanics of Materials,Criterion For Fractures Crossing Frictional Interfaces At Non-orthogonal Angles,,2010,157,https://openalex.org/W2517492145
+2211,Mechanics of Materials,Imaging Texture and Porosity in Mudstones and Shales: Comparison of Secondary and Ion-Milled Backscatter SEM Methods,https://doi.org/10.2118/138975-ms,2010,153,https://openalex.org/W2070131416
+2211,Mechanics of Materials,NMR <i>T2</i> Distributions in the Eagle Ford Shale: Reflections on Pore Size,https://doi.org/10.2118/164554-ms,2013,133,https://openalex.org/W2085031630
+2211,Mechanics of Materials,Review of the Molecular Structure and Aggregation of Asphaltenes and Petroleomics,https://doi.org/10.2118/95801-pa,2008,122,https://openalex.org/W2090017799
 3106,Nuclear and High Energy Physics,Dielectric Dispersion: A New Wireline Petrophysical Measurement,https://doi.org/10.2118/116130-ms,2008,178,https://openalex.org/W1970957283
-3106,Nuclear and High Energy Physics,Improved Petrophysical Core Measurements on Tight Shale Reservoirs Using Retort and Crushed Samples,https://doi.org/10.2118/147456-ms,2011,159,https://openalex.org/W2061101953
+3106,Nuclear and High Energy Physics,Improved Petrophysical Core Measurements on Tight Shale Reservoirs Using Retort and Crushed Samples,https://doi.org/10.2118/147456-ms,2011,160,https://openalex.org/W2061101953
 3106,Nuclear and High Energy Physics,NMR <i>T2</i> Distributions in the Eagle Ford Shale: Reflections on Pore Size,https://doi.org/10.2118/164554-ms,2013,133,https://openalex.org/W2085031630
+3106,Nuclear and High Energy Physics,New Directional Electromagnetic Tool For Proactive Geosteering And Accurate Formation Evaluation While Drilling,,2005,124,https://openalex.org/W2216518904
+3106,Nuclear and High Energy Physics,Advances in NMR Logging,https://doi.org/10.2118/89177-jpt,2006,102,https://openalex.org/W2039884488
+3106,Nuclear and High Energy Physics,Rock properties in low-porosity/low-permeability sandstones,https://doi.org/10.1190/1.3064146,2009,101,https://openalex.org/W2038972742
+3106,Nuclear and High Energy Physics,Relationships between induced polarization relaxation time and hydraulic properties of sandstone,https://doi.org/10.1111/j.1365-246x.2009.04465.x,2009,94,https://openalex.org/W2127154195
+3106,Nuclear and High Energy Physics,"Lithological and Petrophysical Core-Log Interpretation in CO2SINK, the European CO2 Onshore Research Storage and Verification Project",https://doi.org/10.2118/115247-pa,2010,93,https://openalex.org/W2032906522
+3106,Nuclear and High Energy Physics,New Water Soluble Anionic NVP Acrylamide Terpolymers for Use in Harsh EOR Conditions,https://doi.org/10.2118/169108-ms,2014,76,https://openalex.org/W2032228385
+3106,Nuclear and High Energy Physics,NMR Relaxometry in Shale and Implications for Logging,,2015,75,https://openalex.org/W2442241181
 2205,Civil and Structural Engineering,Criterion For Fractures Crossing Frictional Interfaces At Non-orthogonal Angles,,2010,157,https://openalex.org/W2517492145
 2205,Civil and Structural Engineering,Evaluation of Cement Systems for Oil and Gas-Well Zonal Isolation in a Full-Scale Annular Geometry,https://doi.org/10.2118/87195-pa,2005,138,https://openalex.org/W2122984595
 2205,Civil and Structural Engineering,Mitigation strategies for the risk of CO2 migration through wellbores,https://doi.org/10.2118/98924-ms,2006,127,https://openalex.org/W2081053350
+2205,Civil and Structural Engineering,Image Analysis for the Quantification of a Developing Crack Network on a Drying Soil,https://doi.org/10.1520/gtj102216,2009,104,https://openalex.org/W1985695838
+2205,Civil and Structural Engineering,A Comprehensive Experimental Study on Wellbore Strengthening,https://doi.org/10.2118/167957-ms,2014,75,https://openalex.org/W2042683332
+2205,Civil and Structural Engineering,Increased Rate of Penetration Through Automation,https://doi.org/10.2118/139897-ms,2011,71,https://openalex.org/W1996377693
+2205,Civil and Structural Engineering,Optimizing in Four Steps Composite Lost-Circulation Pills Without Knowing Loss Zone Width,https://doi.org/10.2118/133735-ms,2010,67,https://openalex.org/W2008355173
+2205,Civil and Structural Engineering,The Origin and Mechanism of Severe Stick-Slip,https://doi.org/10.2118/187457-ms,2017,65,https://openalex.org/W2761903240
+2205,Civil and Structural Engineering,"Engineered Solution to Reduce the Impact of Lost Circulation During Drilling and Cementing in Rumaila Field, Iraq",https://doi.org/10.2523/iptc-18245-ms,2015,61,https://openalex.org/W2212966888
+2205,Civil and Structural Engineering,Continuous High Frequency Measurement Improves Understanding of High Frequency Torsional Oscillation in North America Land Drilling,https://doi.org/10.2118/187173-ms,2017,60,https://openalex.org/W2763485500
 1907,Geology,Analyzing the Thermal History of Sedimentary Basins: Methods and Case Studies,https://doi.org/10.2110/sepmsp.103,2012,50,https://openalex.org/W576717911
 1907,Geology,"Presalt Carbonate Evaluation for Santos Basin, Offshore Brazil",,2015,48,https://openalex.org/W2273813251
 1907,Geology,"An integrated high-resolution image log, sequence stratigraphy and palynofacies analysis to reconstruct the Albian – Cenomanian basin depositional setting and cyclicity: Insights from the southern Tethys",https://doi.org/10.1016/j.marpetgeo.2021.105502,2021,20,https://openalex.org/W4200187040
+1907,Geology,"Regional production prediction technology based on gravity and magnetic data from the Eagle Ford formation, Texas, USA",https://doi.org/10.1190/segam2014-0289.1,2014,19,https://openalex.org/W2321000585
+1907,Geology,A Multistage Stimulation Operation to Unlock the Gas Potential of the Turonian Siltstone Formation in Western Siberia,https://doi.org/10.2118/176706-ms,2015,18,https://openalex.org/W2323346474
+1907,Geology,Assessing Reservoir Quality of the Diyab Source Rock in UAE,https://doi.org/10.2118/188433-ms,2017,18,https://openalex.org/W2767665796
+1907,Geology,First Fishbone Well Drilling at Vankorskoe Field (Russian),https://doi.org/10.2118/176510-ru,2015,17,https://openalex.org/W2335073161
+1907,Geology,"Regional Modelling of the Late Devonian Duvernay Formation, Western Alberta, Canada",https://doi.org/10.15530/urtec-2014-1923935,2014,15,https://openalex.org/W2085582151
+1907,Geology,Digitising Svalbard’s Geology: the Festningen Digital Outcrop Model,https://doi.org/10.3997/1365-2397.fb2022021,2022,14,https://openalex.org/W4214515641
+1907,Geology,"Frontier exploration offshore the Zambezi Delta, Mozambique",https://doi.org/10.3997/1365-2397.31.6.69644,2013,13,https://openalex.org/W1582130791
 1702,Artificial Intelligence,Imaging Texture and Porosity in Mudstones and Shales: Comparison of Secondary and Ion-Milled Backscatter SEM Methods,https://doi.org/10.2118/138975-ms,2010,153,https://openalex.org/W2070131416
 1702,Artificial Intelligence,Microseismic: Growth born from success,https://doi.org/10.1190/1.3353732,2010,128,https://openalex.org/W2022567153
 1702,Artificial Intelligence,A New Capture And Inelastic Spectroscopy Tool Takes Geochemical Logging To The Next Level,,2012,92,https://openalex.org/W951392881
-2305,Environmental Engineering,Quantitative analysis of time-lapse seismic monitoring data at the Sleipner CO2 storage operation,https://doi.org/10.1190/1.3304820,2010,256,https://openalex.org/W2011952715
+1702,Artificial Intelligence,Automated Microseismic Event Detection and Location by Continuous Spatial Mapping,https://doi.org/10.2118/95513-ms,2005,81,https://openalex.org/W2087189451
+1702,Artificial Intelligence,Determination of Formation Organic Carbon Content Using a New Neutron-Induced Gamma Ray Spectroscopy Service that Directly Measures Carbon,https://doi.org/10.1190/urtec2013-112,2013,65,https://openalex.org/W2081650063
+1702,Artificial Intelligence,Evaluation and calibration of a Field Portable X-Ray Fluorescence spectrometer for quantitative analysis of siliciclastic soils and sediments,https://doi.org/10.1039/c0ja00133c,2010,64,https://openalex.org/W2116828510
+1702,Artificial Intelligence,Total Organic Carbon and Formation Evaluation with Wireline Logs in the Green River Oil Shale,https://doi.org/10.2118/147184-ms,2011,60,https://openalex.org/W1973276623
+1702,Artificial Intelligence,Nodal land seismic acquisition: The next generation,https://doi.org/10.3997/1365-2397.n0061,2018,45,https://openalex.org/W2782070416
+1702,Artificial Intelligence,"Time-lapse seismic monitoring of CO2 injection into a depleted gas reservoir—Naylor Field, Australia",https://doi.org/10.1190/1.3304819,2010,44,https://openalex.org/W2041204700
+1702,Artificial Intelligence,Machine learning–based method for automated well-log processing and interpretation,https://doi.org/10.1190/segam2018-2996973.1,2018,39,https://openalex.org/W2891093900
+2305,Environmental Engineering,Quantitative analysis of time-lapse seismic monitoring data at the Sleipner CO2 storage operation,https://doi.org/10.1190/1.3304820,2010,257,https://openalex.org/W2011952715
 2305,Environmental Engineering,"The Relationship Between Fracture Complexity, Reservoir Properties, and Fracture-Treatment Design",https://doi.org/10.2118/115769-pa,2010,232,https://openalex.org/W2122763259
 2305,Environmental Engineering,Applicability of the Forchheimer Equation for Non-Darcy Flow in Porous Media,https://doi.org/10.2118/102715-pa,2008,157,https://openalex.org/W1978764314
+2305,Environmental Engineering,Mitigation strategies for the risk of CO2 migration through wellbores,https://doi.org/10.2118/98924-ms,2006,127,https://openalex.org/W2081053350
+2305,Environmental Engineering,Assessing the Uncertainty in Reservoir Description and Performance Predictions With the Ensemble Kalman Filter,https://doi.org/10.2118/95750-pa,2007,124,https://openalex.org/W2152091261
+2305,Environmental Engineering,Experimental Investigation of Fracturing-Fluid Migration Caused by Spontaneous Imbibition in Fractured Low-Permeability Sands,https://doi.org/10.2118/154939-pa,2014,117,https://openalex.org/W2027951933
+2305,Environmental Engineering,"Lithological and Petrophysical Core-Log Interpretation in CO2SINK, the European CO2 Onshore Research Storage and Verification Project",https://doi.org/10.2118/115247-pa,2010,93,https://openalex.org/W2032906522
+2305,Environmental Engineering,An Experimentally Validated Wormhole Model for Self-Diverting and Conventional Acids in Carbonate Rocks under Radial Flow Conditions,https://doi.org/10.2118/107854-ms,2007,80,https://openalex.org/W2074983047
+2305,Environmental Engineering,Pressure-Transient Behavior of Continuously and Discretely Fractured Reservoirs,https://doi.org/10.2118/158096-pa,2014,75,https://openalex.org/W2071738622
+2305,Environmental Engineering,Modeling CO2 Storage in Aquifers: Assessing the Key Contributors to Uncertainty,https://doi.org/10.2118/123582-ms,2009,71,https://openalex.org/W2090198342
 1602,Analytical Chemistry,Review of the Molecular Structure and Aggregation of Asphaltenes and Petroleomics,https://doi.org/10.2118/95801-pa,2008,122,https://openalex.org/W2090017799
 1602,Analytical Chemistry,The Potential Applications in Heavy Oil EOR with the Nanoparticle and Surfactant Stabilized Solvent-Based Emulsion,https://doi.org/10.2118/134613-ms,2010,76,https://openalex.org/W2020824666
 1602,Analytical Chemistry,An Experimental Study at an Abu Dhabi Reservoir of Asphaltene Precipitation Caused By Gas Injection,https://doi.org/10.2118/80261-pa,2005,64,https://openalex.org/W2092668773
+1602,Analytical Chemistry,Model Study of Enhanced Oil Recovery by Flooding with Aqueous Surfactant Solution and Comparison with Theory,https://doi.org/10.1021/la5049612,2015,57,https://openalex.org/W2332052535
+1602,Analytical Chemistry,Comparison of Data-Driven Reconstruction Methods For Fault Detection,https://doi.org/10.1109/tr.2015.2436384,2015,52,https://openalex.org/W1542619214
+1602,Analytical Chemistry,In-Situ Steam Generation A New Technology Application for Heavy Oil Production,https://doi.org/10.2118/184118-ms,2016,52,https://openalex.org/W2560685766
+1602,Analytical Chemistry,Chemistry for Enhancing the Production of Oil and Gas,https://doi.org/10.2118/9781613993170,2013,50,https://openalex.org/W4301357946
+1602,Analytical Chemistry,"A Comprehensive Review Heavy Oil Reservoirs, Latest Techniques, Discoveries, Technologies and Applications in the Oil and Gas Industry",https://doi.org/10.2118/193646-ms,2018,46,https://openalex.org/W2905274236
+1602,Analytical Chemistry,Rheology of Heavy-Oil Emulsions,https://doi.org/10.2118/97886-pa,2007,43,https://openalex.org/W3154557136
+1602,Analytical Chemistry,"Laboratory Studies for Surfactant Flood in Low-Temperature, Low-Salinity Fractured Carbonate Reservoir",https://doi.org/10.2118/164062-ms,2013,42,https://openalex.org/W2044029547

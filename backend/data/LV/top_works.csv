@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
 3320,Political Science and International Relations,Economic Freedom of the World: 2015 Annual Report,,2015,315,https://openalex.org/W3200360062
-3320,Political Science and International Relations,The “Good Governance” Concept Revisited,https://doi.org/10.1177/0002716205282847,2005,280,https://openalex.org/W2111656999
+3320,Political Science and International Relations,The “Good Governance” Concept Revisited,https://doi.org/10.1177/0002716205282847,2005,282,https://openalex.org/W2111656999
 3320,Political Science and International Relations,"Legal Pluralism and Empires, 1500-1850",https://doi.org/10.18574/nyu/9780814771167.001.0001,2016,276,https://openalex.org/W567776950
-3312,Sociology and Political Science,Contextualizing Entrepreneurship—Conceptual Challenges and Ways Forward,https://doi.org/10.1111/j.1540-6520.2010.00427.x,2011,2396,https://openalex.org/W2035713844
-3312,Sociology and Political Science,The Impact of Technostress on Role Stress and Productivity,https://doi.org/10.2753/mis0742-1222240109,2007,1453,https://openalex.org/W2109528448
+3320,Political Science and International Relations,From International Sanitary Conventions to Global Health Security: The New International Health Regulations,https://doi.org/10.1093/chinesejil/jmi029,2005,263,https://openalex.org/W2156392109
+3320,Political Science and International Relations,Two Decades of Russian Business and Management Research: An Institutional Theory Perspective,https://doi.org/10.5465/amp.25.2.21,2011,224,https://openalex.org/W2162988510
+3320,Political Science and International Relations,International Recognition of Victims' Rights,https://doi.org/10.1093/hrlr/ngl009,2006,222,https://openalex.org/W2158508974
+3320,Political Science and International Relations,Europe as Empire: The Nature of the Enlarged European Union,https://doi.org/10.1057/palgrave.jird.1800116,2007,217,https://openalex.org/W2269997344
+3320,Political Science and International Relations,Two Concepts of the Margin of Appreciation,https://doi.org/10.1093/ojls/gql030,2006,192,https://openalex.org/W1971827776
+3320,Political Science and International Relations,European Islamophobia Report 2018,,2019,181,https://openalex.org/W3035608491
+3320,Political Science and International Relations,Barriers and drivers of innovation in higher education: Case study-based evidence across ten European universities,https://doi.org/10.1016/j.ijedudev.2017.06.002,2017,142,https://openalex.org/W2733314714
+3312,Sociology and Political Science,Contextualizing Entrepreneurship—Conceptual Challenges and Ways Forward,https://doi.org/10.1111/j.1540-6520.2010.00427.x,2011,2405,https://openalex.org/W2035713844
+3312,Sociology and Political Science,The Impact of Technostress on Role Stress and Productivity,https://doi.org/10.2753/mis0742-1222240109,2007,1458,https://openalex.org/W2109528448
 3312,Sociology and Political Science,Are the Drivers and Role of Online Trust the Same for All Web Sites and Consumers? A Large-Scale Exploratory Empirical Study,https://doi.org/10.1509/jmkg.2005.69.4.133,2005,1381,https://openalex.org/W3122287309
+3312,Sociology and Political Science,"Sex, Drugs, and Bitcoin: How Much Illegal Activity Is Financed through Cryptocurrencies?",https://doi.org/10.1093/rfs/hhz015,2019,804,https://openalex.org/W3123868249
+3312,Sociology and Political Science,Are All Smiles Created Equal? How Emotional Contagion and Emotional Labor Affect Service Relationships,https://doi.org/10.1509/jmkg.70.3.58,2006,735,https://openalex.org/W2124088225
+3312,Sociology and Political Science,The impact of consumer trust on attitudinal loyalty and purchase intentions in B2C e-marketplaces: Intermediary trust vs. seller trust,https://doi.org/10.1016/j.ijinfomgt.2011.02.001,2011,563,https://openalex.org/W2068731002
+3312,Sociology and Political Science,The Effects of Traditional and Social Earned Media on Sales: A Study of a Microlending Marketplace,https://doi.org/10.1509/jmr.09.0401,2012,552,https://openalex.org/W3125274876
+3312,Sociology and Political Science,The Influence of On-Line Brand Community Characteristics on Community Commitment and Brand Loyalty,https://doi.org/10.2753/jec1086-4415120304,2008,548,https://openalex.org/W2133977168
+3312,Sociology and Political Science,An expanded servicescape perspective,https://doi.org/10.1108/09564231111155088,2011,533,https://openalex.org/W2012469337
+3312,Sociology and Political Science,Are All Smiles Created Equal? How Emotional Contagion and Emotional Labor Affect Service Relationships,https://doi.org/10.1509/jmkg.70.3.058,2006,517,https://openalex.org/W4245652177
 2002,Economics and Econometrics,Availability of evidence of benefits on overall survival and quality of life of cancer drugs approved by European Medicines Agency: retrospective cohort study of drug approvals 2009-13,https://doi.org/10.1136/bmj.j4530,2017,570,https://openalex.org/W2761792472
-2002,Economics and Econometrics,How Does Venture Capital Financing Improve Efficiency in Private Firms? A Look Beneath the Surface,https://doi.org/10.1093/rfs/hhr096,2011,553,https://openalex.org/W3124971833
-2002,Economics and Econometrics,The moderating role of renewable and non-renewable energy in environment-income nexus for ASEAN countries: Evidence from Method of Moments Quantile Regression,https://doi.org/10.1016/j.renene.2020.09.128,2020,436,https://openalex.org/W3089857341
-2208,Electrical and Electronic Engineering,Graphene in lithium ion battery cathode materials: A review,https://doi.org/10.1016/j.jpowsour.2013.03.160,2013,605,https://openalex.org/W2027995880
+2002,Economics and Econometrics,How Does Venture Capital Financing Improve Efficiency in Private Firms? A Look Beneath the Surface,https://doi.org/10.1093/rfs/hhr096,2011,557,https://openalex.org/W3124971833
+2002,Economics and Econometrics,The moderating role of renewable and non-renewable energy in environment-income nexus for ASEAN countries: Evidence from Method of Moments Quantile Regression,https://doi.org/10.1016/j.renene.2020.09.128,2020,437,https://openalex.org/W3089857341
+2002,Economics and Econometrics,Third-Party Product Review and Firm Marketing Strategy,https://doi.org/10.1287/mksc.1040.0089,2005,386,https://openalex.org/W2108908656
+2002,Economics and Econometrics,Journal of Financial Services Research,https://doi.org/10.1007/10693.1573-0735,2013,372,https://openalex.org/W4244630708
+2002,Economics and Econometrics,The Performance of Malaysian Islamic Bank During 1984–1997: An Exploratory Study,https://doi.org/10.2139/ssrn.3263331,2006,348,https://openalex.org/W2924611861
+2002,Economics and Econometrics,INEQUALITY AND GROWTH IN THE UNITED STATES: EVIDENCE FROM A NEW STATE‐LEVEL PANEL OF INCOME INEQUALITY MEASURES,https://doi.org/10.1111/j.1465-7295.2008.00122.x,2009,346,https://openalex.org/W2034958548
+2002,Economics and Econometrics,Incentive-Aligned Conjoint Analysis,https://doi.org/10.1509/jmkr.42.1.67.56890,2005,321,https://openalex.org/W2125037695
+2002,Economics and Econometrics,Microfinance Decision Making: A Field Study of Prosocial Lending,https://doi.org/10.1509/jmkr.48.spl.s130,2011,290,https://openalex.org/W3123751977
+2002,Economics and Econometrics,National identity predicts public health support during a global pandemic,https://doi.org/10.1038/s41467-021-27668-9,2022,262,https://openalex.org/W4225690429
+2208,Electrical and Electronic Engineering,Graphene in lithium ion battery cathode materials: A review,https://doi.org/10.1016/j.jpowsour.2013.03.160,2013,608,https://openalex.org/W2027995880
 2208,Electrical and Electronic Engineering,Sirolimus-Eluting versus Uncoated Stents in Acute Myocardial Infarction,https://doi.org/10.1056/nejmoa062006,2006,562,https://openalex.org/W1994460424
-2208,Electrical and Electronic Engineering,Real time pothole detection using Android smartphones with accelerometers,https://doi.org/10.1109/dcoss.2011.5982206,2011,503,https://openalex.org/W1977324115
-2505,Materials Chemistry,Graphene in lithium ion battery cathode materials: A review,https://doi.org/10.1016/j.jpowsour.2013.03.160,2013,605,https://openalex.org/W2027995880
-2505,Materials Chemistry,Spinel ferrite oxide semiconductor gas sensors,https://doi.org/10.1016/j.snb.2015.08.027,2015,484,https://openalex.org/W1438788548
-2505,Materials Chemistry,Raman scattering in nanosized nickel oxide NiO,https://doi.org/10.1088/1742-6596/93/1/012039,2007,469,https://openalex.org/W2099846497
-2204,Biomedical Engineering,Creation and analysis of biochemical constraint-based models using the COBRA Toolbox v.3.0,https://doi.org/10.1038/s41596-018-0098-2,2019,1265,https://openalex.org/W2762019694
-2204,Biomedical Engineering,Organ printing: Tissue spheroids as building blocks,https://doi.org/10.1016/j.biomaterials.2008.12.084,2009,1210,https://openalex.org/W1991073285
-2204,Biomedical Engineering,Diagnostic Accuracy of Fractional Flow Reserve From Anatomic CT Angiography,https://doi.org/10.1001/2012.jama.11274,2012,1122,https://openalex.org/W2095680098
-1312,Molecular Biology,Biological properties of extracellular vesicles and their physiological functions,https://doi.org/10.3402/jev.v4.27066,2015,5522,https://openalex.org/W2170852633
-1312,Molecular Biology,"Dulaglutide and cardiovascular outcomes in type 2 diabetes (REWIND): a double-blind, randomised placebo-controlled trial",https://doi.org/10.1016/s0140-6736(19)31149-3,2019,2656,https://openalex.org/W2948612418
-1312,Molecular Biology,HMDB 5.0: the Human Metabolome Database for 2022,https://doi.org/10.1093/nar/gkab1062,2021,2013,https://openalex.org/W4206447491
+2208,Electrical and Electronic Engineering,Real time pothole detection using Android smartphones with accelerometers,https://doi.org/10.1109/dcoss.2011.5982206,2011,505,https://openalex.org/W1977324115
+2208,Electrical and Electronic Engineering,Spinel ferrite oxide semiconductor gas sensors,https://doi.org/10.1016/j.snb.2015.08.027,2015,486,https://openalex.org/W1438788548
+2208,Electrical and Electronic Engineering,Diagnosis and Classification of 17 Diseases from 1404 Subjects <i>via</i> Pattern Analysis of Exhaled Molecules,https://doi.org/10.1021/acsnano.6b04930,2016,476,https://openalex.org/W2564083981
+2208,Electrical and Electronic Engineering,Raman scattering in nanosized nickel oxide NiO,https://doi.org/10.1088/1742-6596/93/1/012039,2007,471,https://openalex.org/W2099846497
+2208,Electrical and Electronic Engineering,Temperature- and Magnetic-Field-Dependent Longitudinal Spin Relaxation in Nitrogen-Vacancy Ensembles in Diamond,https://doi.org/10.1103/physrevlett.108.197601,2012,372,https://openalex.org/W2156438123
+2208,Electrical and Electronic Engineering,Cellulose Nanomaterials in Interfacial Evaporators for Desalination: A “Natural” Choice,https://doi.org/10.1002/adma.202000922,2020,252,https://openalex.org/W3035288958
+2208,Electrical and Electronic Engineering,Ultrasensitive Silicon Nanowire for Real-World Gas Sensing: Noninvasive Diagnosis of Cancer from Breath Volatolome,https://doi.org/10.1021/nl504482t,2014,251,https://openalex.org/W2318925497
+2208,Electrical and Electronic Engineering,Single-parameter nonadiabatic quantized charge pumping,https://doi.org/10.1103/physrevb.77.153301,2008,224,https://openalex.org/W2016826363
+2505,Materials Chemistry,Graphene in lithium ion battery cathode materials: A review,https://doi.org/10.1016/j.jpowsour.2013.03.160,2013,608,https://openalex.org/W2027995880
+2505,Materials Chemistry,Spinel ferrite oxide semiconductor gas sensors,https://doi.org/10.1016/j.snb.2015.08.027,2015,486,https://openalex.org/W1438788548
+2505,Materials Chemistry,Raman scattering in nanosized nickel oxide NiO,https://doi.org/10.1088/1742-6596/93/1/012039,2007,471,https://openalex.org/W2099846497
+2505,Materials Chemistry,Sol-gel auto-combustion synthesis of spinel-type ferrite nanomaterials,https://doi.org/10.1007/s11706-012-0167-3,2012,454,https://openalex.org/W2054408555
+2505,Materials Chemistry,Biodegradable Materials and Metallic Implants—A Review,https://doi.org/10.3390/jfb8040044,2017,453,https://openalex.org/W2759891488
+2505,Materials Chemistry,Thermal annealing and transformation of dimer F centers in neutron-irradiated Al2O3 single crystals,https://doi.org/10.1016/j.jnucmat.2020.152600,2020,425,https://openalex.org/W3094544406
+2505,Materials Chemistry,Temperature- and Magnetic-Field-Dependent Longitudinal Spin Relaxation in Nitrogen-Vacancy Ensembles in Diamond,https://doi.org/10.1103/physrevlett.108.197601,2012,372,https://openalex.org/W2156438123
+2505,Materials Chemistry,Composite Material Recycling Technology—State-of-the-Art and Sustainable Development for the 2020s,https://doi.org/10.3390/jcs5010028,2021,346,https://openalex.org/W3117202273
+2505,Materials Chemistry,A review on the thermal stability of calcium apatites,https://doi.org/10.1007/s10973-011-1877-y,2011,331,https://openalex.org/W2072596573
+2505,Materials Chemistry,Structure of fully protonated proteins by proton-detected magic-angle spinning NMR,https://doi.org/10.1073/pnas.1602248113,2016,283,https://openalex.org/W2492152137
+2204,Biomedical Engineering,Creation and analysis of biochemical constraint-based models using the COBRA Toolbox v.3.0,https://doi.org/10.1038/s41596-018-0098-2,2019,1271,https://openalex.org/W2762019694
+2204,Biomedical Engineering,Organ printing: Tissue spheroids as building blocks,https://doi.org/10.1016/j.biomaterials.2008.12.084,2009,1212,https://openalex.org/W1991073285
+2204,Biomedical Engineering,Diagnostic Accuracy of Fractional Flow Reserve From Anatomic CT Angiography,https://doi.org/10.1001/2012.jama.11274,2012,1123,https://openalex.org/W2095680098
+2204,Biomedical Engineering,A Comparative Review of Natural and Synthetic Biopolymer Composite Scaffolds,https://doi.org/10.3390/polym13071105,2021,886,https://openalex.org/W3148531641
+2204,Biomedical Engineering,The multi-factorial nature of clinical multidrug resistance in cancer,https://doi.org/10.1016/j.drup.2019.100645,2019,501,https://openalex.org/W2974459221
+2204,Biomedical Engineering,Diagnosis and Classification of 17 Diseases from 1404 Subjects <i>via</i> Pattern Analysis of Exhaled Molecules,https://doi.org/10.1021/acsnano.6b04930,2016,476,https://openalex.org/W2564083981
+2204,Biomedical Engineering,Biodegradable Materials and Metallic Implants—A Review,https://doi.org/10.3390/jfb8040044,2017,453,https://openalex.org/W2759891488
+2204,Biomedical Engineering,"Expert review document part 2: methodology, terminology and clinical applications of optical coherence tomography for the assessment of interventional procedures",https://doi.org/10.1093/eurheartj/ehs095,2012,389,https://openalex.org/W2050896619
+2204,Biomedical Engineering,Biofabrication: a 21st century manufacturing paradigm,https://doi.org/10.1088/1758-5082/1/2/022001,2009,352,https://openalex.org/W2106130060
+2204,Biomedical Engineering,How to perform Contrast-Enhanced Ultrasound (CEUS),https://doi.org/10.1055/s-0043-123931,2018,351,https://openalex.org/W2787116350
+1312,Molecular Biology,Biological properties of extracellular vesicles and their physiological functions,https://doi.org/10.3402/jev.v4.27066,2015,5548,https://openalex.org/W2170852633
+1312,Molecular Biology,"Dulaglutide and cardiovascular outcomes in type 2 diabetes (REWIND): a double-blind, randomised placebo-controlled trial",https://doi.org/10.1016/s0140-6736(19)31149-3,2019,2678,https://openalex.org/W2948612418
+1312,Molecular Biology,HMDB 5.0: the Human Metabolome Database for 2022,https://doi.org/10.1093/nar/gkab1062,2021,2049,https://openalex.org/W4206447491
+1312,Molecular Biology,Creation and analysis of biochemical constraint-based models using the COBRA Toolbox v.3.0,https://doi.org/10.1038/s41596-018-0098-2,2019,1271,https://openalex.org/W2762019694
+1312,Molecular Biology,Efficiency in Nonenzymatic Kinetic Resolution,https://doi.org/10.1002/anie.200460842,2005,736,https://openalex.org/W2154258755
+1312,Molecular Biology,Two Randomized Trials of Canakinumab in Systemic Juvenile Idiopathic Arthritis,https://doi.org/10.1056/nejmoa1205099,2012,683,https://openalex.org/W2087769239
+1312,Molecular Biology,Mutations in<i>CYP24A1</i>and Idiopathic Infantile Hypercalcemia,https://doi.org/10.1056/nejmoa1103864,2011,654,https://openalex.org/W2125793849
+1312,Molecular Biology,Classification criteria for autoinflammatory recurrent fevers,https://doi.org/10.1136/annrheumdis-2019-215048,2019,501,https://openalex.org/W2940679238
+1312,Molecular Biology,The multi-factorial nature of clinical multidrug resistance in cancer,https://doi.org/10.1016/j.drup.2019.100645,2019,501,https://openalex.org/W2974459221
+1312,Molecular Biology,Effects of Pioglitazone in Patients With Type 2 Diabetes With or Without Previous Stroke,https://doi.org/10.1161/01.str.0000257974.06317.49,2007,468,https://openalex.org/W2008497553
 3308,Law,Urban Lawyers: The New Social Structure of the Bar,,2005,243,https://openalex.org/W295745449
 3308,Law,"Causation and Responsibility: An Essay in Law, Morals, and Metaphysics",,2009,207,https://openalex.org/W1499038673
 3308,Law,Two Concepts of the Margin of Appreciation,https://doi.org/10.1093/ojls/gql030,2006,192,https://openalex.org/W1971827776
-1408,Strategy and Management,"Strategic schemas, strategic flexibility, and firm performance: the moderating role of industry clockspeed",https://doi.org/10.1002/smj.576,2007,798,https://openalex.org/W2010864625
-1408,Strategy and Management,Good soldiers and good actors: Prosocial and impression management motives as interactive predictors of affiliative citizenship behaviors.,https://doi.org/10.1037/a0013770,2009,699,https://openalex.org/W2123373882
+3308,Law,Environmental Protection and Human Rights,https://doi.org/10.1017/cbo9780511974571,2011,141,https://openalex.org/W1813477688
+3308,Law,American balancing and German proportionality: The historical origins,https://doi.org/10.1093/icon/moq004,2010,139,https://openalex.org/W3122031927
+3308,Law,The Need for a Research Culture in the Forensic Sciences,https://doi.org/10.2139/ssrn.1755722,2011,129,https://openalex.org/W1570662337
+3308,Law,Choice of Law in the American Courts in 2009: Twenty-Third Annual Survey,https://doi.org/10.5131/ajcl.2009.0009,2010,123,https://openalex.org/W3121300403
+3308,Law,ACT and Crime: The Philosophy of Action and Its Implications for Criminal Law,,2010,122,https://openalex.org/W1550984351
+3308,Law,Queer Mobilizations: LGBT Activists Confront the Law,,2009,121,https://openalex.org/W598202867
+3308,Law,Alien Language: Immigration Metaphors and the Jurisprudence of Otherness,,2011,115,https://openalex.org/W1605041183
+1408,Strategy and Management,"Strategic schemas, strategic flexibility, and firm performance: the moderating role of industry clockspeed",https://doi.org/10.1002/smj.576,2007,799,https://openalex.org/W2010864625
+1408,Strategy and Management,Good soldiers and good actors: Prosocial and impression management motives as interactive predictors of affiliative citizenship behaviors.,https://doi.org/10.1037/a0013770,2009,701,https://openalex.org/W2123373882
 1408,Strategy and Management,Drivers for the participation of small and medium‐sized suppliers in green supply chain initiatives,https://doi.org/10.1108/13598540810871235,2008,661,https://openalex.org/W2057762674
-2210,Mechanical Engineering,A review of porous lightweight composite materials for electromagnetic interference shielding,https://doi.org/10.1016/j.compositesb.2018.05.027,2018,494,https://openalex.org/W2803867012
-2210,Mechanical Engineering,Composite Material Recycling Technology—State-of-the-Art and Sustainable Development for the 2020s,https://doi.org/10.3390/jcs5010028,2021,343,https://openalex.org/W3117202273
+1408,Strategy and Management,Institutional Environments for Entrepreneurship: Evidence from Emerging Economies in Eastern Europe,https://doi.org/10.1111/j.1540-6520.2007.00222.x,2008,528,https://openalex.org/W1977117367
+1408,Strategy and Management,Zooming In and Out: Connecting Individuals and Collectivities at the Frontiers of Organizational Network Research,https://doi.org/10.1287/orsc.1050.0129,2005,516,https://openalex.org/W2129316697
+1408,Strategy and Management,A model of consumer acceptance of mobile payment,https://doi.org/10.1504/ijmc.2008.015997,2007,516,https://openalex.org/W2014506725
+1408,Strategy and Management,"Resource orchestration in practice: <scp>CEO</scp> emphasis on <scp>SHRM</scp> , commitment‐based <scp>HR</scp> systems, and firm performance",https://doi.org/10.1002/smj.2217,2013,421,https://openalex.org/W1671250292
+1408,Strategy and Management,Stakeholder Pressures as Determinants of CSR Strategic Choice: Why do Firms Choose Symbolic Versus Substantive Self-Regulatory Codes of Conduct?,https://doi.org/10.1007/s10551-012-1419-y,2012,357,https://openalex.org/W2065989605
+1408,Strategy and Management,International regulation without international government: Improving IO performance through orchestration,https://doi.org/10.1007/s11558-010-9092-3,2010,356,https://openalex.org/W2088656885
+1408,Strategy and Management,"Understanding offshoring: A research framework based on disintegration, location and externalization advantages",https://doi.org/10.1016/j.jwb.2008.08.005,2008,343,https://openalex.org/W2005382696
+2210,Mechanical Engineering,A review of porous lightweight composite materials for electromagnetic interference shielding,https://doi.org/10.1016/j.compositesb.2018.05.027,2018,499,https://openalex.org/W2803867012
+2210,Mechanical Engineering,Composite Material Recycling Technology—State-of-the-Art and Sustainable Development for the 2020s,https://doi.org/10.3390/jcs5010028,2021,346,https://openalex.org/W3117202273
 2210,Mechanical Engineering,Evidence for Interfacial-Storage Anomaly in Nanocomposites for Lithium Batteries from First-Principles Simulations,https://doi.org/10.1103/physrevlett.96.058302,2006,219,https://openalex.org/W2016870246
+2210,Mechanical Engineering,The Critical Raw Materials in Cutting Tools for Machining Applications: A Review,https://doi.org/10.3390/ma13061377,2020,198,https://openalex.org/W3011254680
+2210,Mechanical Engineering,"Sustainability evaluation of essential critical raw materials: cobalt, niobium, tungsten and rare earth elements",https://doi.org/10.1088/1361-6463/aaba99,2018,156,https://openalex.org/W2801951963
+2210,Mechanical Engineering,Design Thinking in Pedagogy,https://doi.org/10.15503/jecs20142.63.74,2020,147,https://openalex.org/W2488706365
+2210,Mechanical Engineering,Bio-oil from thermo-chemical hydro-liquefaction of wet sewage sludge,https://doi.org/10.1016/j.biortech.2015.03.093,2015,125,https://openalex.org/W1973277929
+2210,Mechanical Engineering,Stiffness and strength of flax fiber/polymer matrix composites,https://doi.org/10.1002/pc.20184,2006,119,https://openalex.org/W2152147866
+2210,Mechanical Engineering,Neural Network Approach for Characterizing Structural Transformations by X-Ray Absorption Fine Structure Spectroscopy,https://doi.org/10.1103/physrevlett.120.225502,2018,115,https://openalex.org/W2806218200
+2210,Mechanical Engineering,Vanadium sustainability in the context of innovative recycling and sourcing development,https://doi.org/10.1016/j.wasman.2020.04.007,2020,115,https://openalex.org/W3035040547

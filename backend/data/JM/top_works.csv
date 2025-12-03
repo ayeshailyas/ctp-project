@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-3312,Sociology and Political Science,The human imperative of stabilizing global climate change at 1.5°C,https://doi.org/10.1126/science.aaw6974,2019,907,https://openalex.org/W2974545260
+3312,Sociology and Political Science,The human imperative of stabilizing global climate change at 1.5°C,https://doi.org/10.1126/science.aaw6974,2019,918,https://openalex.org/W2974545260
 3312,Sociology and Political Science,Securitization and De-securitization,https://doi.org/10.1007/978-3-319-74319-6_122,2023,313,https://openalex.org/W4320924947
 3312,Sociology and Political Science,EXCEPTIONAL VIOLENCE: EMBODIED CITIZENSHIP IN TRANSNATIONAL JAMAICA,https://doi.org/10.1080/01419870.2012.680023,2012,260,https://openalex.org/W2095250064
-2739,"Public Health, Environmental and Occupational Health",Maternal and child undernutrition and overweight in low-income and middle-income countries,https://doi.org/10.1016/s0140-6736(13)60937-x,2013,7959,https://openalex.org/W2161643046
-2739,"Public Health, Environmental and Occupational Health",The Lancet Global Health Commission on Global Eye Health: vision beyond 2020,https://doi.org/10.1016/s2214-109x(20)30488-5,2021,1264,https://openalex.org/W3130938027
+3312,Sociology and Political Science,Setting Priorities in Global Child Health Research Investments: Guidelines for Implementation of the CHNRI Method,https://doi.org/10.3325/cmj.2008.49.720,2008,254,https://openalex.org/W2143515215
+3312,Sociology and Political Science,Corporate Governance: An Ethical Perspective,https://doi.org/10.1007/s10551-005-7888-5,2005,243,https://openalex.org/W2087582868
+3312,Sociology and Political Science,Sustainability Indicators for Small Tourism Enterprises – An Exploratory Perspective,https://doi.org/10.1080/09669580802159644,2008,217,https://openalex.org/W2108927063
+3312,Sociology and Political Science,African dust clouds are associated with increased paediatric asthma accident and emergency admissions on the Caribbean island of Trinidad,https://doi.org/10.1007/s00484-005-0257-3,2005,196,https://openalex.org/W2009363241
+3312,Sociology and Political Science,Intimate Partner Violence Among Asian Immigrant Communities,https://doi.org/10.1177/1524838009334130,2009,183,https://openalex.org/W2031732817
+3312,Sociology and Political Science,Thinking and talking about the past: Why remember?,https://doi.org/10.1002/acp.1612,2009,180,https://openalex.org/W2096432731
+3312,Sociology and Political Science,Residents׳ perceptions toward tourism development: A factor-cluster approach,https://doi.org/10.1016/j.jdmm.2014.10.001,2015,170,https://openalex.org/W2059067137
+2739,"Public Health, Environmental and Occupational Health",Maternal and child undernutrition and overweight in low-income and middle-income countries,https://doi.org/10.1016/s0140-6736(13)60937-x,2013,7988,https://openalex.org/W2161643046
+2739,"Public Health, Environmental and Occupational Health",The Lancet Global Health Commission on Global Eye Health: vision beyond 2020,https://doi.org/10.1016/s2214-109x(20)30488-5,2021,1282,https://openalex.org/W3130938027
 2739,"Public Health, Environmental and Occupational Health",Zika virus evolution and spread in the Americas,https://doi.org/10.1038/nature22402,2017,409,https://openalex.org/W2620298867
+2739,"Public Health, Environmental and Occupational Health",Towards a new developmental synthesis: adaptive developmental plasticity and human disease,https://doi.org/10.1016/s0140-6736(09)60234-8,2009,397,https://openalex.org/W2156675957
+2739,"Public Health, Environmental and Occupational Health",Constrained Total Energy Expenditure and Metabolic Adaptation to Physical Activity in Adult Humans,https://doi.org/10.1016/j.cub.2015.12.046,2016,289,https://openalex.org/W2252322719
+2739,"Public Health, Environmental and Occupational Health",COVID‐19 pandemic effects on nursing education: looking through the lens of a developing country,https://doi.org/10.1111/inr.12663,2021,220,https://openalex.org/W3121595618
+2739,"Public Health, Environmental and Occupational Health",Stabilization and Destabilization of Nonlinear Differential Equations by Noise,https://doi.org/10.1109/tac.2008.919255,2008,205,https://openalex.org/W2134799554
+2739,"Public Health, Environmental and Occupational Health",Effects of different temperature regimens on the development of Aedes aegypti (L.) (Diptera: Culicidae) mosquitoes,https://doi.org/10.1016/j.actatropica.2011.04.004,2011,203,https://openalex.org/W2137089532
+2739,"Public Health, Environmental and Occupational Health",Curability of Patients With Acute Myeloid Leukemia Who Did Not Undergo Transplantation in First Remission,https://doi.org/10.1200/jco.2011.40.5977,2013,203,https://openalex.org/W2118270328
+2739,"Public Health, Environmental and Occupational Health",An international comparative study of blood pressure in populations of European vs. African descent,https://doi.org/10.1186/1741-7015-3-2,2005,192,https://openalex.org/W1806441430
 2746,Surgery,The management of intra-abdominal infections from a global perspective: 2017 WSES guidelines for management of intra-abdominal infections,https://doi.org/10.1186/s13017-017-0141-6,2017,447,https://openalex.org/W2729161724
-2746,Surgery,Global Retinoblastoma Presentation and Analysis by National Income Level,https://doi.org/10.1001/jamaoncol.2019.6716,2020,341,https://openalex.org/W3008735477
-2746,Surgery,2020 update of the WSES guidelines for the management of acute colonic diverticulitis in the emergency setting,https://doi.org/10.1186/s13017-020-00313-4,2020,337,https://openalex.org/W3021557093
-2713,Epidemiology,Adverse effects of biologics: a network meta-analysis and Cochrane overview,https://doi.org/10.1002/14651858.cd008794.pub2,2011,819,https://openalex.org/W1701993624
+2746,Surgery,Global Retinoblastoma Presentation and Analysis by National Income Level,https://doi.org/10.1001/jamaoncol.2019.6716,2020,342,https://openalex.org/W3008735477
+2746,Surgery,2020 update of the WSES guidelines for the management of acute colonic diverticulitis in the emergency setting,https://doi.org/10.1186/s13017-020-00313-4,2020,340,https://openalex.org/W3021557093
+2746,Surgery,Prospective Observational Study on acute Appendicitis Worldwide (POSAW),https://doi.org/10.1186/s13017-018-0179-0,2018,248,https://openalex.org/W2803280558
+2746,Surgery,Antiphospholipid Antibodies and the Antiphospholipid Syndrome: Pathogenic Mechanisms,https://doi.org/10.1055/s-0028-1082267,2008,217,https://openalex.org/W2074735065
+2746,Surgery,WSES Guidelines for the management of acute left sided colonic diverticulitis in the emergency setting,https://doi.org/10.1186/s13017-016-0095-0,2016,200,https://openalex.org/W2488640039
+2746,Surgery,"Global Burden of Childhood Epilepsy, Intellectual Disability, and Sensory Impairments",https://doi.org/10.1542/peds.2019-2623,2020,196,https://openalex.org/W3035860855
+2746,Surgery,Preoperative Intravenous Fluid Therapy Decreases Postoperative Nausea and Pain in High Risk Patients,https://doi.org/10.1213/01.ane.0000148684.64286.36,2005,181,https://openalex.org/W2057492367
+2746,Surgery,Odontogenic Infections,https://doi.org/10.1016/j.cden.2016.11.004,2017,174,https://openalex.org/W4235072331
+2746,Surgery,UK guidelines on oesophageal dilatation in clinical practice,https://doi.org/10.1136/gutjnl-2017-315414,2018,141,https://openalex.org/W2789498524
+2713,Epidemiology,Adverse effects of biologics: a network meta-analysis and Cochrane overview,https://doi.org/10.1002/14651858.cd008794.pub2,2011,820,https://openalex.org/W1701993624
 2713,Epidemiology,"Genome-Wide Association Study of Coronary Heart Disease and Its Risk Factors in 8,090 African Americans: The NHLBI CARe Project",https://doi.org/10.1371/journal.pgen.1001300,2011,314,https://openalex.org/W2140479040
-2713,Epidemiology,Diabetes Mellitus and Its Metabolic Complications: The Role of Adipose Tissues,https://doi.org/10.3390/ijms22147644,2021,300,https://openalex.org/W3184056898
-1312,Molecular Biology,Multiple Applications of Alamar Blue as an Indicator of Metabolic Function and Cellular Health in Cell Viability Bioassays,https://doi.org/10.3390/s120912347,2012,991,https://openalex.org/W2004602806
-1312,Molecular Biology,Assembly of a pan-genome from deep sequencing of 910 humans of African descent,https://doi.org/10.1038/s41588-018-0273-y,2018,398,https://openalex.org/W2901214479
+2713,Epidemiology,Diabetes Mellitus and Its Metabolic Complications: The Role of Adipose Tissues,https://doi.org/10.3390/ijms22147644,2021,305,https://openalex.org/W3184056898
+2713,Epidemiology,Advancements in nanoparticle-based treatment approaches for skin cancer therapy,https://doi.org/10.1186/s12943-022-01708-4,2023,283,https://openalex.org/W4315700889
+2713,Epidemiology,EXCEPTIONAL VIOLENCE: EMBODIED CITIZENSHIP IN TRANSNATIONAL JAMAICA,https://doi.org/10.1080/01419870.2012.680023,2012,260,https://openalex.org/W2095250064
+2713,Epidemiology,How do delays in treatment affect patient prognosis in head and neck cancer?,https://doi.org/10.1016/j.bjoms.2017.08.058,2017,256,https://openalex.org/W1598865329
+2713,Epidemiology,Global validation of the WSES Sepsis Severity Score for patients with complicated intra-abdominal infections: a prospective multicentre study (WISS Study),https://doi.org/10.1186/s13017-015-0055-0,2015,205,https://openalex.org/W2211367616
+2713,Epidemiology,Synthesizing Plausible Privacy-Preserving Location Traces,https://doi.org/10.1109/sp.2016.39,2016,203,https://openalex.org/W2511693736
+2713,Epidemiology,Odontogenic Infections,https://doi.org/10.1016/j.cden.2016.11.004,2017,174,https://openalex.org/W4235072331
+2713,Epidemiology,Reported Pneumonia in Patients With COPD,https://doi.org/10.1378/chest.09-2992,2010,159,https://openalex.org/W2134492231
+1312,Molecular Biology,Multiple Applications of Alamar Blue as an Indicator of Metabolic Function and Cellular Health in Cell Viability Bioassays,https://doi.org/10.3390/s120912347,2012,995,https://openalex.org/W2004602806
+1312,Molecular Biology,Assembly of a pan-genome from deep sequencing of 910 humans of African descent,https://doi.org/10.1038/s41588-018-0273-y,2018,399,https://openalex.org/W2901214479
 1312,Molecular Biology,"Anthocyanin content, antioxidant, anti-inflammatory and anticancer properties of blackberry and raspberry fruits",https://doi.org/10.1016/j.jfca.2009.08.012,2009,361,https://openalex.org/W2057306510
-3600,General Health Professions,Child and adolescent mental health worldwide: evidence for action,https://doi.org/10.1016/s0140-6736(11)60827-1,2011,2346,https://openalex.org/W2016410988
-3600,General Health Professions,Global health 2035: a world converging within a generation,https://doi.org/10.1016/s0140-6736(13)62105-4,2013,1187,https://openalex.org/W4320288076
+1312,Molecular Biology,"Genome-Wide Association Study of Coronary Heart Disease and Its Risk Factors in 8,090 African Americans: The NHLBI CARe Project",https://doi.org/10.1371/journal.pgen.1001300,2011,314,https://openalex.org/W2140479040
+1312,Molecular Biology,Multiproxy evidence highlights a complex evolutionary legacy of maize in South America,https://doi.org/10.1126/science.aav0207,2018,303,https://openalex.org/W2905453209
+1312,Molecular Biology,Mitochondrial oxidative capacity and NAD+ biosynthesis are reduced in human sarcopenia across ethnicities,https://doi.org/10.1038/s41467-019-13694-1,2019,300,https://openalex.org/W2992356442
+1312,Molecular Biology,"Stem Cells in Skin Regeneration, Wound Healing, and Their Clinical Applications",https://doi.org/10.3390/ijms161025476,2015,297,https://openalex.org/W2115426133
+1312,Molecular Biology,How do delays in treatment affect patient prognosis in head and neck cancer?,https://doi.org/10.1016/j.bjoms.2017.08.058,2017,256,https://openalex.org/W1598865329
+1312,Molecular Biology,"The in vitro anti-denaturation effects induced by natural products and non-steroidal compounds in heat treated (immunogenic) bovine serum albumin is proposed as a screening assay for the detection of anti-inflammatory compounds, without the use of animals, in the early stages of the drug discovery process.",,2008,173,https://openalex.org/W2121892305
+1312,Molecular Biology,Ecdysone signaling underlies the pea aphid transgenerational wing polyphenism,https://doi.org/10.1073/pnas.1617640114,2017,148,https://openalex.org/W2580863186
+3600,General Health Professions,Child and adolescent mental health worldwide: evidence for action,https://doi.org/10.1016/s0140-6736(11)60827-1,2011,2357,https://openalex.org/W2016410988
+3600,General Health Professions,Global health 2035: a world converging within a generation,https://doi.org/10.1016/s0140-6736(13)62105-4,2013,1188,https://openalex.org/W4320288076
 3600,General Health Professions,[Global health 2035: a world converging within a generation].,,2017,945,https://openalex.org/W2149759828
-1110,Plant Science,Assembly of a pan-genome from deep sequencing of 910 humans of African descent,https://doi.org/10.1038/s41588-018-0273-y,2018,398,https://openalex.org/W2901214479
-1110,Plant Science,Catharanthus roseus flower extract has wound-healing activity in Sprague Dawley rats,https://doi.org/10.1186/1472-6882-6-41,2006,298,https://openalex.org/W1532714162
-1110,Plant Science,"Assessment of the potential health risks associated with the aluminium, arsenic, cadmium and lead content in selected fruits and vegetables grown in Jamaica",https://doi.org/10.1016/j.toxrep.2017.03.006,2017,292,https://openalex.org/W2597462464
-2735,"Pediatrics, Perinatology and Child Health",Maternal and child undernutrition and overweight in low-income and middle-income countries,https://doi.org/10.1016/s0140-6736(13)60937-x,2013,7959,https://openalex.org/W2161643046
-2735,"Pediatrics, Perinatology and Child Health",Early childhood development coming of age: science through the life course,https://doi.org/10.1016/s0140-6736(16)31389-7,2016,2722,https://openalex.org/W2528342610
-2735,"Pediatrics, Perinatology and Child Health",Child development: risk factors for adverse outcomes in developing countries,https://doi.org/10.1016/s0140-6736(07)60076-2,2007,2094,https://openalex.org/W2171112462
-3304,Education,Early childhood development coming of age: science through the life course,https://doi.org/10.1016/s0140-6736(16)31389-7,2016,2722,https://openalex.org/W2528342610
-3304,Education,Labor market returns to an early childhood stimulation intervention in Jamaica,https://doi.org/10.1126/science.1251178,2014,750,https://openalex.org/W1975855420
-3304,Education,Early Childhood Stunting Is Associated with Poor Psychological Functioning in Late Adolescence and Effects Are Reduced by Psychosocial Stimulation,https://doi.org/10.1093/jn/137.11.2464,2007,304,https://openalex.org/W1930157607
-2740,Pulmonary and Respiratory Medicine,The global burden of chronic kidney disease,https://doi.org/10.1016/s0140-6736(19)32977-0,2020,733,https://openalex.org/W3005627128
+3600,General Health Professions,The 2023 report of the Lancet Countdown on health and climate change: the imperative for a health-centred response in a world facing irreversible harms,https://doi.org/10.1016/s0140-6736(23)01859-7,2023,841,https://openalex.org/W4388673199
+3600,General Health Professions,The 2024 report of the Lancet Countdown on health and climate change: facing record-breaking threats from delayed action,https://doi.org/10.1016/s0140-6736(24)01822-1,2024,379,https://openalex.org/W4403899685
+3600,General Health Professions,Health status and health services in the occupied Palestinian territory,https://doi.org/10.1016/s0140-6736(09)60107-0,2009,310,https://openalex.org/W2030138696
+3600,General Health Professions,Maternal and child nutrition: building momentum for impact,https://doi.org/10.1016/s0140-6736(13)60988-5,2013,240,https://openalex.org/W2029120486
+3600,General Health Professions,"Knowledge, attitudes and practice of healthcare ethics and law among doctors and nurses in Barbados",https://doi.org/10.1186/1472-6939-7-7,2006,187,https://openalex.org/W1589429275
+3600,General Health Professions,Intimate Partner Violence Among Asian Immigrant Communities,https://doi.org/10.1177/1524838009334130,2009,183,https://openalex.org/W2031732817
+3600,General Health Professions,Reducing the Risk of Cognitive Decline and Dementia: WHO Recommendations,https://doi.org/10.3389/fneur.2021.765584,2022,170,https://openalex.org/W4205237380
+1110,Plant Science,Assembly of a pan-genome from deep sequencing of 910 humans of African descent,https://doi.org/10.1038/s41588-018-0273-y,2018,399,https://openalex.org/W2901214479
+1110,Plant Science,Catharanthus roseus flower extract has wound-healing activity in Sprague Dawley rats,https://doi.org/10.1186/1472-6882-6-41,2006,299,https://openalex.org/W1532714162
+1110,Plant Science,"Assessment of the potential health risks associated with the aluminium, arsenic, cadmium and lead content in selected fruits and vegetables grown in Jamaica",https://doi.org/10.1016/j.toxrep.2017.03.006,2017,293,https://openalex.org/W2597462464
+1110,Plant Science,The Endocannabinoid System: A Potential Target for the Treatment of Various Diseases,https://doi.org/10.3390/ijms22179472,2021,266,https://openalex.org/W3196785030
+1110,Plant Science,Calonectria species and their Cylindrocladium anamorphs: species with clavate vesicles,https://doi.org/10.3114/sim.55.1.213,2006,212,https://openalex.org/W2109085471
+1110,Plant Science,Evaluation of the Wound‐Healing Activity of Ethanolic Extract of <i>Morinda citrifolia</i> L. Leaf,https://doi.org/10.1093/ecam/nem127,2007,206,https://openalex.org/W2138210167
+1110,Plant Science,Effects of different temperature regimens on the development of Aedes aegypti (L.) (Diptera: Culicidae) mosquitoes,https://doi.org/10.1016/j.actatropica.2011.04.004,2011,203,https://openalex.org/W2137089532
+1110,Plant Science,Agriculture-Vision: A Large Aerial Image Database for Agricultural Pattern Analysis,https://doi.org/10.1109/cvpr42600.2020.00290,2020,203,https://openalex.org/W3034534947
+1110,Plant Science,Commercial extract from the brown seaweed Ascophyllum nodosum reduces fungal diseases in greenhouse cucumber,https://doi.org/10.1007/s10811-010-9547-1,2010,185,https://openalex.org/W1980284928
+1110,Plant Science,A global dataset for the projected impacts of climate change on four major crops,https://doi.org/10.1038/s41597-022-01150-7,2022,137,https://openalex.org/W4220809192
+2735,"Pediatrics, Perinatology and Child Health",Maternal and child undernutrition and overweight in low-income and middle-income countries,https://doi.org/10.1016/s0140-6736(13)60937-x,2013,7988,https://openalex.org/W2161643046
+2735,"Pediatrics, Perinatology and Child Health",Early childhood development coming of age: science through the life course,https://doi.org/10.1016/s0140-6736(16)31389-7,2016,2736,https://openalex.org/W2528342610
+2735,"Pediatrics, Perinatology and Child Health",Child development: risk factors for adverse outcomes in developing countries,https://doi.org/10.1016/s0140-6736(07)60076-2,2007,2097,https://openalex.org/W2171112462
+2735,"Pediatrics, Perinatology and Child Health",Inequality in early childhood: risk and protective factors for early child development,https://doi.org/10.1016/s0140-6736(11)60555-2,2011,1719,https://openalex.org/W2093743952
+2735,"Pediatrics, Perinatology and Child Health",The Lancet Global Health Commission on Global Eye Health: vision beyond 2020,https://doi.org/10.1016/s2214-109x(20)30488-5,2021,1282,https://openalex.org/W3130938027
+2735,"Pediatrics, Perinatology and Child Health",Global health 2035: a world converging within a generation,https://doi.org/10.1016/s0140-6736(13)62105-4,2013,1188,https://openalex.org/W4320288076
+2735,"Pediatrics, Perinatology and Child Health",Origins of lifetime health around the time of conception: causes and consequences,https://doi.org/10.1016/s0140-6736(18)30312-x,2018,1045,https://openalex.org/W2787931223
+2735,"Pediatrics, Perinatology and Child Health",COVID-19 and resilience of healthcare systems in ten countries,https://doi.org/10.1038/s41591-022-01750-1,2022,535,https://openalex.org/W4220656655
+2735,"Pediatrics, Perinatology and Child Health",Effects of early childhood psychosocial stimulation and nutritional supplementation on cognition and education in growth-stunted Jamaican children: prospective cohort study,https://doi.org/10.1016/s0140-6736(05)67574-5,2005,479,https://openalex.org/W2145624591
+2735,"Pediatrics, Perinatology and Child Health","The genetics of blood pressure regulation and its target organs from association studies in 342,415 individuals",https://doi.org/10.1038/ng.3667,2016,428,https://openalex.org/W2519445944
+3304,Education,Early childhood development coming of age: science through the life course,https://doi.org/10.1016/s0140-6736(16)31389-7,2016,2736,https://openalex.org/W2528342610
+3304,Education,Labor market returns to an early childhood stimulation intervention in Jamaica,https://doi.org/10.1126/science.1251178,2014,751,https://openalex.org/W1975855420
+3304,Education,Early Childhood Stunting Is Associated with Poor Psychological Functioning in Late Adolescence and Effects Are Reduced by Psychosocial Stimulation,https://doi.org/10.1093/jn/137.11.2464,2007,305,https://openalex.org/W1930157607
+3304,Education,Assessing Adolescents' Motivation to Read,https://doi.org/10.1598/jaal.50.5.5,2007,235,https://openalex.org/W2088360493
+3304,Education,Performance and perception in the flipped classroom,https://doi.org/10.1007/s10639-015-9393-5,2015,197,https://openalex.org/W1967933731
+3304,Education,SDG 4 in higher education: challenges and opportunities,https://doi.org/10.1108/ijshe-12-2019-0353,2020,196,https://openalex.org/W3035761257
+3304,Education,Hierarchical microaggressions in higher education.,https://doi.org/10.1037/a0038464,2014,130,https://openalex.org/W2025893079
+3304,Education,The ‘Write’ Skills and More: A Thesis Writing Group for Doctoral Students,https://doi.org/10.1080/03098260902734968,2009,129,https://openalex.org/W2043799248
+3304,Education,Reducing child conduct problems and promoting social skills in a middle-income country: cluster randomised controlled trial,https://doi.org/10.1192/bjp.bp.111.096834,2012,123,https://openalex.org/W2160000278
+3304,Education,"Students' self-perception of reading ability, enjoyment of reading and reading achievement",https://doi.org/10.1016/j.lindif.2011.04.010,2011,123,https://openalex.org/W2056081136
+2740,Pulmonary and Respiratory Medicine,The global burden of chronic kidney disease,https://doi.org/10.1016/s0140-6736(19)32977-0,2020,738,https://openalex.org/W3005627128
 2740,Pulmonary and Respiratory Medicine,New guidelines for hemorheological laboratory techniques,https://doi.org/10.3233/ch-2009-1202,2009,482,https://openalex.org/W2119536526
 2740,Pulmonary and Respiratory Medicine,The management of intra-abdominal infections from a global perspective: 2017 WSES guidelines for management of intra-abdominal infections,https://doi.org/10.1186/s13017-017-0141-6,2017,447,https://openalex.org/W2729161724
+2740,Pulmonary and Respiratory Medicine,Global Retinoblastoma Presentation and Analysis by National Income Level,https://doi.org/10.1001/jamaoncol.2019.6716,2020,342,https://openalex.org/W3008735477
+2740,Pulmonary and Respiratory Medicine,"Global Burden of Childhood Epilepsy, Intellectual Disability, and Sensory Impairments",https://doi.org/10.1542/peds.2019-2623,2020,196,https://openalex.org/W3035860855
+2740,Pulmonary and Respiratory Medicine,Expert opinion on the use of anthracyclines in patients with advanced breast cancer at cardiac risk,https://doi.org/10.1093/annonc/mdn728,2009,194,https://openalex.org/W2156010010
+2740,Pulmonary and Respiratory Medicine,The role of the open abdomen procedure in managing severe abdominal sepsis: WSES position paper,https://doi.org/10.1186/s13017-015-0032-7,2015,178,https://openalex.org/W2109275292
+2740,Pulmonary and Respiratory Medicine,Reported Pneumonia in Patients With COPD,https://doi.org/10.1378/chest.09-2992,2010,159,https://openalex.org/W2134492231
+2740,Pulmonary and Respiratory Medicine,Cystic Lung Diseases,https://doi.org/10.1016/j.chest.2016.04.026,2016,141,https://openalex.org/W2352690127
+2740,Pulmonary and Respiratory Medicine,Neoplasms Associated with Germline and Somatic <i>NF1</i> Gene Mutations,https://doi.org/10.1634/theoncologist.2010-0181,2012,108,https://openalex.org/W2125398512

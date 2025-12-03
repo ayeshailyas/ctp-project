@@ -1,722 +1,722 @@
 year,id,name,works_count,country,fetch_date
-2005,1910,Oceanography,7,FO,2025-12-01 19:10:45
-2005,2307,"Health, Toxicology and Mutagenesis",7,FO,2025-12-01 19:10:45
-2005,1902,Atmospheric Science,5,FO,2025-12-01 19:10:45
-2005,2306,Global and Planetary Change,4,FO,2025-12-01 19:10:45
-2005,1311,Genetics,3,FO,2025-12-01 19:10:45
-2005,1306,Cancer Research,2,FO,2025-12-01 19:10:45
-2005,1312,Molecular Biology,2,FO,2025-12-01 19:10:45
-2005,2304,Environmental Chemistry,2,FO,2025-12-01 19:10:45
-2005,1104,Aquatic Science,1,FO,2025-12-01 19:10:45
-2005,2303,Ecology,1,FO,2025-12-01 19:10:45
-2005,2309,Nature and Landscape Conservation,1,FO,2025-12-01 19:10:45
-2005,2713,Epidemiology,1,FO,2025-12-01 19:10:45
-2005,2731,Ophthalmology,1,FO,2025-12-01 19:10:45
-2005,2734,Pathology and Forensic Medicine,1,FO,2025-12-01 19:10:45
-2005,2746,Surgery,1,FO,2025-12-01 19:10:45
-2005,2805,Cognitive Neuroscience,1,FO,2025-12-01 19:10:45
-2005,2916,Nutrition and Dietetics,1,FO,2025-12-01 19:10:45
-2005,3312,Sociology and Political Science,1,FO,2025-12-01 19:10:45
-2006,2307,"Health, Toxicology and Mutagenesis",9,FO,2025-12-01 19:10:45
-2006,2306,Global and Planetary Change,4,FO,2025-12-01 19:10:45
-2006,1311,Genetics,3,FO,2025-12-01 19:10:45
-2006,1312,Molecular Biology,3,FO,2025-12-01 19:10:45
-2006,1902,Atmospheric Science,3,FO,2025-12-01 19:10:45
-2006,1910,Oceanography,2,FO,2025-12-01 19:10:45
-2006,2303,Ecology,2,FO,2025-12-01 19:10:45
-2006,1106,Food Science,1,FO,2025-12-01 19:10:45
-2006,1204,Archeology,1,FO,2025-12-01 19:10:45
-2006,1306,Cancer Research,1,FO,2025-12-01 19:10:45
-2006,1911,Paleontology,1,FO,2025-12-01 19:10:45
-2006,2212,Ocean Engineering,1,FO,2025-12-01 19:10:45
-2006,2309,Nature and Landscape Conservation,1,FO,2025-12-01 19:10:45
-2006,2403,Immunology,1,FO,2025-12-01 19:10:45
-2006,2803,Biological Psychiatry,1,FO,2025-12-01 19:10:45
-2006,2804,Cellular and Molecular Neuroscience,1,FO,2025-12-01 19:10:45
-2007,1910,Oceanography,8,FO,2025-12-01 19:10:45
-2007,2306,Global and Planetary Change,5,FO,2025-12-01 19:10:45
-2007,2307,"Health, Toxicology and Mutagenesis",5,FO,2025-12-01 19:10:45
-2007,1902,Atmospheric Science,4,FO,2025-12-01 19:10:45
-2007,1312,Molecular Biology,3,FO,2025-12-01 19:10:45
-2007,2303,Ecology,3,FO,2025-12-01 19:10:45
-2007,2309,Nature and Landscape Conservation,3,FO,2025-12-01 19:10:45
-2007,1308,Clinical Biochemistry,2,FO,2025-12-01 19:10:45
-2007,1311,Genetics,2,FO,2025-12-01 19:10:45
-2007,1104,Aquatic Science,1,FO,2025-12-01 19:10:45
-2007,1106,Food Science,1,FO,2025-12-01 19:10:45
-2007,1303,Biochemistry,1,FO,2025-12-01 19:10:45
-2007,1904,Earth-Surface Processes,1,FO,2025-12-01 19:10:45
-2007,1908,Geophysics,1,FO,2025-12-01 19:10:45
-2007,2308,"Management, Monitoring, Policy and Law",1,FO,2025-12-01 19:10:45
-2007,2916,Nutrition and Dietetics,1,FO,2025-12-01 19:10:45
-2007,3004,Pharmacology,1,FO,2025-12-01 19:10:45
-2008,1910,Oceanography,9,FO,2025-12-01 19:10:45
-2008,1902,Atmospheric Science,8,FO,2025-12-01 19:10:45
-2008,2306,Global and Planetary Change,7,FO,2025-12-01 19:10:45
-2008,2307,"Health, Toxicology and Mutagenesis",6,FO,2025-12-01 19:10:45
-2008,2303,Ecology,5,FO,2025-12-01 19:10:45
-2008,1908,Geophysics,2,FO,2025-12-01 19:10:45
-2008,2304,Environmental Chemistry,2,FO,2025-12-01 19:10:45
-2008,1103,Animal Science and Zoology,1,FO,2025-12-01 19:10:45
-2008,1104,Aquatic Science,1,FO,2025-12-01 19:10:45
-2008,1312,Molecular Biology,1,FO,2025-12-01 19:10:45
-2008,1907,Geology,1,FO,2025-12-01 19:10:45
-2008,1911,Paleontology,1,FO,2025-12-01 19:10:45
-2008,2405,Parasitology,1,FO,2025-12-01 19:10:45
-2009,2306,Global and Planetary Change,13,FO,2025-12-01 19:10:45
-2009,2309,Nature and Landscape Conservation,7,FO,2025-12-01 19:10:45
-2009,1902,Atmospheric Science,6,FO,2025-12-01 19:10:45
-2009,1910,Oceanography,6,FO,2025-12-01 19:10:45
-2009,2303,Ecology,5,FO,2025-12-01 19:10:45
-2009,2307,"Health, Toxicology and Mutagenesis",5,FO,2025-12-01 19:10:45
-2009,1312,Molecular Biology,4,FO,2025-12-01 19:10:45
-2009,2304,Environmental Chemistry,4,FO,2025-12-01 19:10:45
-2009,1110,Plant Science,2,FO,2025-12-01 19:10:45
-2009,1308,Clinical Biochemistry,1,FO,2025-12-01 19:10:45
-2009,1311,Genetics,1,FO,2025-12-01 19:10:45
-2009,1907,Geology,1,FO,2025-12-01 19:10:45
-2009,1908,Geophysics,1,FO,2025-12-01 19:10:45
-2009,1911,Paleontology,1,FO,2025-12-01 19:10:45
-2009,2002,Economics and Econometrics,1,FO,2025-12-01 19:10:45
-2009,2310,Pollution,1,FO,2025-12-01 19:10:45
-2009,2403,Immunology,1,FO,2025-12-01 19:10:45
-2009,2705,Cardiology and Cardiovascular Medicine,1,FO,2025-12-01 19:10:45
-2009,2730,Oncology,1,FO,2025-12-01 19:10:45
-2009,2734,Pathology and Forensic Medicine,1,FO,2025-12-01 19:10:45
-2009,2735,"Pediatrics, Perinatology and Child Health",1,FO,2025-12-01 19:10:45
-2009,3312,Sociology and Political Science,1,FO,2025-12-01 19:10:45
-2009,3600,General Health Professions,1,FO,2025-12-01 19:10:45
-2009,3614,Radiological and Ultrasound Technology,1,FO,2025-12-01 19:10:45
-2010,2307,"Health, Toxicology and Mutagenesis",8,FO,2025-12-01 19:10:45
-2010,1902,Atmospheric Science,7,FO,2025-12-01 19:10:45
-2010,2303,Ecology,6,FO,2025-12-01 19:10:45
-2010,2306,Global and Planetary Change,5,FO,2025-12-01 19:10:45
-2010,1910,Oceanography,4,FO,2025-12-01 19:10:45
-2010,2213,"Safety, Risk, Reliability and Quality",3,FO,2025-12-01 19:10:45
-2010,2309,Nature and Landscape Conservation,3,FO,2025-12-01 19:10:45
-2010,1105,"Ecology, Evolution, Behavior and Systematics",2,FO,2025-12-01 19:10:45
-2010,1312,Molecular Biology,2,FO,2025-12-01 19:10:45
-2010,1904,Earth-Surface Processes,2,FO,2025-12-01 19:10:45
-2010,2304,Environmental Chemistry,2,FO,2025-12-01 19:10:45
-2010,2734,Pathology and Forensic Medicine,2,FO,2025-12-01 19:10:45
-2010,2916,Nutrition and Dietetics,2,FO,2025-12-01 19:10:45
-2010,3614,Radiological and Ultrasound Technology,2,FO,2025-12-01 19:10:45
-2010,1103,Animal Science and Zoology,1,FO,2025-12-01 19:10:45
-2010,1104,Aquatic Science,1,FO,2025-12-01 19:10:45
-2010,1311,Genetics,1,FO,2025-12-01 19:10:45
-2010,1907,Geology,1,FO,2025-12-01 19:10:45
-2010,2305,Environmental Engineering,1,FO,2025-12-01 19:10:45
-2010,2308,"Management, Monitoring, Policy and Law",1,FO,2025-12-01 19:10:45
-2010,2310,Pollution,1,FO,2025-12-01 19:10:45
-2010,2403,Immunology,1,FO,2025-12-01 19:10:45
-2010,2713,Epidemiology,1,FO,2025-12-01 19:10:45
-2010,2731,Ophthalmology,1,FO,2025-12-01 19:10:45
-2010,2735,"Pediatrics, Perinatology and Child Health",1,FO,2025-12-01 19:10:45
-2010,2806,Developmental Neuroscience,1,FO,2025-12-01 19:10:45
-2010,3312,Sociology and Political Science,1,FO,2025-12-01 19:10:45
-2010,3600,General Health Professions,1,FO,2025-12-01 19:10:45
-2011,2306,Global and Planetary Change,13,FO,2025-12-01 19:10:45
-2011,2307,"Health, Toxicology and Mutagenesis",11,FO,2025-12-01 19:10:45
-2011,2303,Ecology,8,FO,2025-12-01 19:10:45
-2011,1902,Atmospheric Science,7,FO,2025-12-01 19:10:45
-2011,1312,Molecular Biology,4,FO,2025-12-01 19:10:45
-2011,2309,Nature and Landscape Conservation,4,FO,2025-12-01 19:10:45
-2011,1311,Genetics,3,FO,2025-12-01 19:10:45
-2011,1104,Aquatic Science,2,FO,2025-12-01 19:10:45
-2011,1910,Oceanography,2,FO,2025-12-01 19:10:45
-2011,2213,"Safety, Risk, Reliability and Quality",2,FO,2025-12-01 19:10:45
-2011,2302,Ecological Modeling,2,FO,2025-12-01 19:10:45
-2011,2712,"Endocrinology, Diabetes and Metabolism",2,FO,2025-12-01 19:10:45
-2011,2716,Genetics,2,FO,2025-12-01 19:10:45
-2011,2746,Surgery,2,FO,2025-12-01 19:10:45
-2011,3614,Radiological and Ultrasound Technology,2,FO,2025-12-01 19:10:45
-2011,1103,Animal Science and Zoology,1,FO,2025-12-01 19:10:45
-2011,1105,"Ecology, Evolution, Behavior and Systematics",1,FO,2025-12-01 19:10:45
-2011,1702,Artificial Intelligence,1,FO,2025-12-01 19:10:45
-2011,1908,Geophysics,1,FO,2025-12-01 19:10:45
-2011,1911,Paleontology,1,FO,2025-12-01 19:10:45
-2011,2304,Environmental Chemistry,1,FO,2025-12-01 19:10:45
-2011,2308,"Management, Monitoring, Policy and Law",1,FO,2025-12-01 19:10:45
-2011,2310,Pollution,1,FO,2025-12-01 19:10:45
-2011,2405,Parasitology,1,FO,2025-12-01 19:10:45
-2011,2505,Materials Chemistry,1,FO,2025-12-01 19:10:45
-2011,2728,Neurology,1,FO,2025-12-01 19:10:45
-2011,2735,"Pediatrics, Perinatology and Child Health",1,FO,2025-12-01 19:10:45
-2011,2737,Physiology,1,FO,2025-12-01 19:10:45
-2011,2806,Developmental Neuroscience,1,FO,2025-12-01 19:10:45
-2011,2808,Neurology,1,FO,2025-12-01 19:10:45
-2011,3203,Clinical Psychology,1,FO,2025-12-01 19:10:45
-2012,2306,Global and Planetary Change,12,FO,2025-12-01 19:10:45
-2012,2309,Nature and Landscape Conservation,8,FO,2025-12-01 19:10:45
-2012,2307,"Health, Toxicology and Mutagenesis",7,FO,2025-12-01 19:10:45
-2012,1902,Atmospheric Science,6,FO,2025-12-01 19:10:45
-2012,1312,Molecular Biology,4,FO,2025-12-01 19:10:45
-2012,1910,Oceanography,4,FO,2025-12-01 19:10:45
-2012,2304,Environmental Chemistry,4,FO,2025-12-01 19:10:45
-2012,2303,Ecology,3,FO,2025-12-01 19:10:45
-2012,2308,"Management, Monitoring, Policy and Law",3,FO,2025-12-01 19:10:45
-2012,1104,Aquatic Science,2,FO,2025-12-01 19:10:45
-2012,2403,Immunology,2,FO,2025-12-01 19:10:45
-2012,1306,Cancer Research,1,FO,2025-12-01 19:10:45
-2012,1308,Clinical Biochemistry,1,FO,2025-12-01 19:10:45
-2012,1314,Physiology,1,FO,2025-12-01 19:10:45
-2012,1908,Geophysics,1,FO,2025-12-01 19:10:45
-2012,2212,Ocean Engineering,1,FO,2025-12-01 19:10:45
-2012,2404,Microbiology,1,FO,2025-12-01 19:10:45
-2012,2711,Emergency Medicine,1,FO,2025-12-01 19:10:45
-2012,2713,Epidemiology,1,FO,2025-12-01 19:10:45
-2012,2728,Neurology,1,FO,2025-12-01 19:10:45
-2012,2732,Orthopedics and Sports Medicine,1,FO,2025-12-01 19:10:45
-2012,2735,"Pediatrics, Perinatology and Child Health",1,FO,2025-12-01 19:10:45
-2012,3600,General Health Professions,1,FO,2025-12-01 19:10:45
-2013,1312,Molecular Biology,9,FO,2025-12-01 19:10:45
-2013,1311,Genetics,8,FO,2025-12-01 19:10:45
-2013,2306,Global and Planetary Change,8,FO,2025-12-01 19:10:45
-2013,1902,Atmospheric Science,7,FO,2025-12-01 19:10:45
-2013,2303,Ecology,7,FO,2025-12-01 19:10:45
-2013,2713,Epidemiology,5,FO,2025-12-01 19:10:45
-2013,2307,"Health, Toxicology and Mutagenesis",4,FO,2025-12-01 19:10:45
-2013,1308,Clinical Biochemistry,3,FO,2025-12-01 19:10:45
-2013,2309,Nature and Landscape Conservation,3,FO,2025-12-01 19:10:45
-2013,2746,Surgery,3,FO,2025-12-01 19:10:45
-2013,1904,Earth-Surface Processes,2,FO,2025-12-01 19:10:45
-2013,1910,Oceanography,2,FO,2025-12-01 19:10:45
-2013,2735,"Pediatrics, Perinatology and Child Health",2,FO,2025-12-01 19:10:45
-2013,1104,Aquatic Science,1,FO,2025-12-01 19:10:45
-2013,1105,"Ecology, Evolution, Behavior and Systematics",1,FO,2025-12-01 19:10:45
-2013,1109,Insect Science,1,FO,2025-12-01 19:10:45
-2013,1307,Cell Biology,1,FO,2025-12-01 19:10:45
-2013,1907,Geology,1,FO,2025-12-01 19:10:45
-2013,1911,Paleontology,1,FO,2025-12-01 19:10:45
-2013,2211,Mechanics of Materials,1,FO,2025-12-01 19:10:45
-2013,2213,"Safety, Risk, Reliability and Quality",1,FO,2025-12-01 19:10:45
-2013,2304,Environmental Chemistry,1,FO,2025-12-01 19:10:45
-2013,2403,Immunology,1,FO,2025-12-01 19:10:45
-2013,2505,Materials Chemistry,1,FO,2025-12-01 19:10:45
-2013,2720,Hematology,1,FO,2025-12-01 19:10:45
-2013,2737,Physiology,1,FO,2025-12-01 19:10:45
-2013,2745,Rheumatology,1,FO,2025-12-01 19:10:45
-2013,2805,Cognitive Neuroscience,1,FO,2025-12-01 19:10:45
-2013,2806,Developmental Neuroscience,1,FO,2025-12-01 19:10:45
-2013,2916,Nutrition and Dietetics,1,FO,2025-12-01 19:10:45
-2013,3314,Anthropology,1,FO,2025-12-01 19:10:45
-2013,3600,General Health Professions,1,FO,2025-12-01 19:10:45
-2014,2303,Ecology,10,FO,2025-12-01 19:10:45
-2014,1312,Molecular Biology,9,FO,2025-12-01 19:10:45
-2014,1311,Genetics,7,FO,2025-12-01 19:10:45
-2014,2306,Global and Planetary Change,7,FO,2025-12-01 19:10:45
-2014,2307,"Health, Toxicology and Mutagenesis",6,FO,2025-12-01 19:10:45
-2014,2713,Epidemiology,5,FO,2025-12-01 19:10:45
-2014,2732,Orthopedics and Sports Medicine,5,FO,2025-12-01 19:10:45
-2014,1105,"Ecology, Evolution, Behavior and Systematics",4,FO,2025-12-01 19:10:45
-2014,1902,Atmospheric Science,4,FO,2025-12-01 19:10:45
-2014,1910,Oceanography,4,FO,2025-12-01 19:10:45
-2014,1104,Aquatic Science,3,FO,2025-12-01 19:10:45
-2014,1308,Clinical Biochemistry,3,FO,2025-12-01 19:10:45
-2014,2309,Nature and Landscape Conservation,3,FO,2025-12-01 19:10:45
-2014,2707,Complementary and alternative medicine,3,FO,2025-12-01 19:10:45
-2014,2746,Surgery,3,FO,2025-12-01 19:10:45
-2014,1103,Animal Science and Zoology,2,FO,2025-12-01 19:10:45
-2014,1309,Developmental Biology,2,FO,2025-12-01 19:10:45
-2014,2304,Environmental Chemistry,2,FO,2025-12-01 19:10:45
-2014,2405,Parasitology,2,FO,2025-12-01 19:10:45
-2014,2705,Cardiology and Cardiovascular Medicine,2,FO,2025-12-01 19:10:45
-2014,2735,"Pediatrics, Perinatology and Child Health",2,FO,2025-12-01 19:10:45
-2014,2737,Physiology,2,FO,2025-12-01 19:10:45
-2014,3609,Occupational Therapy,2,FO,2025-12-01 19:10:45
-2014,1109,Insect Science,1,FO,2025-12-01 19:10:45
-2014,1202,History,1,FO,2025-12-01 19:10:45
-2014,1307,Cell Biology,1,FO,2025-12-01 19:10:45
-2014,1314,Physiology,1,FO,2025-12-01 19:10:45
-2014,1607,Spectroscopy,1,FO,2025-12-01 19:10:45
-2014,1911,Paleontology,1,FO,2025-12-01 19:10:45
-2014,2002,Economics and Econometrics,1,FO,2025-12-01 19:10:45
-2014,2302,Ecological Modeling,1,FO,2025-12-01 19:10:45
-2014,2728,Neurology,1,FO,2025-12-01 19:10:45
-2014,2742,Rehabilitation,1,FO,2025-12-01 19:10:45
-2014,2743,Reproductive Medicine,1,FO,2025-12-01 19:10:45
-2014,2745,Rheumatology,1,FO,2025-12-01 19:10:45
-2014,2808,Neurology,1,FO,2025-12-01 19:10:45
-2014,2916,Nutrition and Dietetics,1,FO,2025-12-01 19:10:45
-2014,3207,Social Psychology,1,FO,2025-12-01 19:10:45
-2014,3318,Gender Studies,1,FO,2025-12-01 19:10:45
-2015,2306,Global and Planetary Change,17,FO,2025-12-01 19:10:45
-2015,2303,Ecology,15,FO,2025-12-01 19:10:45
-2015,2732,Orthopedics and Sports Medicine,11,FO,2025-12-01 19:10:45
-2015,2309,Nature and Landscape Conservation,10,FO,2025-12-01 19:10:45
-2015,1910,Oceanography,9,FO,2025-12-01 19:10:45
-2015,1312,Molecular Biology,8,FO,2025-12-01 19:10:45
-2015,1902,Atmospheric Science,8,FO,2025-12-01 19:10:45
-2015,2304,Environmental Chemistry,8,FO,2025-12-01 19:10:45
-2015,2307,"Health, Toxicology and Mutagenesis",7,FO,2025-12-01 19:10:45
-2015,1104,Aquatic Science,6,FO,2025-12-01 19:10:45
-2015,1307,Cell Biology,6,FO,2025-12-01 19:10:45
-2015,1314,Physiology,6,FO,2025-12-01 19:10:45
-2015,2707,Complementary and alternative medicine,5,FO,2025-12-01 19:10:45
-2015,1311,Genetics,3,FO,2025-12-01 19:10:45
-2015,1110,Plant Science,2,FO,2025-12-01 19:10:45
-2015,1308,Clinical Biochemistry,2,FO,2025-12-01 19:10:45
-2015,1904,Earth-Surface Processes,2,FO,2025-12-01 19:10:45
-2015,2204,Biomedical Engineering,2,FO,2025-12-01 19:10:45
-2015,2308,"Management, Monitoring, Policy and Law",2,FO,2025-12-01 19:10:45
-2015,2728,Neurology,2,FO,2025-12-01 19:10:45
-2015,2735,"Pediatrics, Perinatology and Child Health",2,FO,2025-12-01 19:10:45
-2015,2742,Rehabilitation,2,FO,2025-12-01 19:10:45
-2015,1911,Paleontology,1,FO,2025-12-01 19:10:45
-2015,2002,Economics and Econometrics,1,FO,2025-12-01 19:10:45
-2015,2312,Water Science and Technology,1,FO,2025-12-01 19:10:45
-2015,2403,Immunology,1,FO,2025-12-01 19:10:45
-2015,2404,Microbiology,1,FO,2025-12-01 19:10:45
-2015,2405,Parasitology,1,FO,2025-12-01 19:10:45
-2015,2504,"Electronic, Optical and Magnetic Materials",1,FO,2025-12-01 19:10:45
-2015,2705,Cardiology and Cardiovascular Medicine,1,FO,2025-12-01 19:10:45
-2015,2713,Epidemiology,1,FO,2025-12-01 19:10:45
-2015,2746,Surgery,1,FO,2025-12-01 19:10:45
-2015,2808,Neurology,1,FO,2025-12-01 19:10:45
-2015,3305,"Geography, Planning and Development",1,FO,2025-12-01 19:10:45
-2015,3312,Sociology and Political Science,1,FO,2025-12-01 19:10:45
-2015,3318,Gender Studies,1,FO,2025-12-01 19:10:45
-2015,3320,Political Science and International Relations,1,FO,2025-12-01 19:10:45
-2016,2306,Global and Planetary Change,14,FO,2025-12-01 19:10:45
-2016,2303,Ecology,10,FO,2025-12-01 19:10:45
-2016,2307,"Health, Toxicology and Mutagenesis",10,FO,2025-12-01 19:10:45
-2016,2309,Nature and Landscape Conservation,9,FO,2025-12-01 19:10:45
-2016,2304,Environmental Chemistry,8,FO,2025-12-01 19:10:45
-2016,1312,Molecular Biology,6,FO,2025-12-01 19:10:45
-2016,2403,Immunology,6,FO,2025-12-01 19:10:45
-2016,1311,Genetics,5,FO,2025-12-01 19:10:45
-2016,2732,Orthopedics and Sports Medicine,5,FO,2025-12-01 19:10:45
-2016,1104,Aquatic Science,4,FO,2025-12-01 19:10:45
-2016,1910,Oceanography,4,FO,2025-12-01 19:10:45
-2016,2308,"Management, Monitoring, Policy and Law",4,FO,2025-12-01 19:10:45
-2016,1902,Atmospheric Science,3,FO,2025-12-01 19:10:45
-2016,2737,Physiology,3,FO,2025-12-01 19:10:45
-2016,1105,"Ecology, Evolution, Behavior and Systematics",2,FO,2025-12-01 19:10:45
-2016,1314,Physiology,2,FO,2025-12-01 19:10:45
-2016,1904,Earth-Surface Processes,2,FO,2025-12-01 19:10:45
-2016,1908,Geophysics,2,FO,2025-12-01 19:10:45
-2016,2002,Economics and Econometrics,2,FO,2025-12-01 19:10:45
-2016,2312,Water Science and Technology,2,FO,2025-12-01 19:10:45
-2016,2707,Complementary and alternative medicine,2,FO,2025-12-01 19:10:45
-2016,2713,Epidemiology,2,FO,2025-12-01 19:10:45
-2016,2736,Pharmacology,2,FO,2025-12-01 19:10:45
-2016,1109,Insect Science,1,FO,2025-12-01 19:10:45
-2016,1110,Plant Science,1,FO,2025-12-01 19:10:45
-2016,1305,Biotechnology,1,FO,2025-12-01 19:10:45
-2016,1602,Analytical Chemistry,1,FO,2025-12-01 19:10:45
-2016,1705,Computer Networks and Communications,1,FO,2025-12-01 19:10:45
-2016,1907,Geology,1,FO,2025-12-01 19:10:45
-2016,2000,"General Economics, Econometrics and Finance",1,FO,2025-12-01 19:10:45
-2016,2204,Biomedical Engineering,1,FO,2025-12-01 19:10:45
-2016,2210,Mechanical Engineering,1,FO,2025-12-01 19:10:45
-2016,2310,Pollution,1,FO,2025-12-01 19:10:45
-2016,2405,Parasitology,1,FO,2025-12-01 19:10:45
-2016,2725,Infectious Diseases,1,FO,2025-12-01 19:10:45
-2016,2735,"Pediatrics, Perinatology and Child Health",1,FO,2025-12-01 19:10:45
-2016,2739,"Public Health, Environmental and Occupational Health",1,FO,2025-12-01 19:10:45
-2016,2740,Pulmonary and Respiratory Medicine,1,FO,2025-12-01 19:10:45
-2016,2806,Developmental Neuroscience,1,FO,2025-12-01 19:10:45
-2016,3107,"Atomic and Molecular Physics, and Optics",1,FO,2025-12-01 19:10:45
-2016,3109,Statistical and Nonlinear Physics,1,FO,2025-12-01 19:10:45
-2016,3600,General Health Professions,1,FO,2025-12-01 19:10:45
-2017,2303,Ecology,23,FO,2025-12-01 19:10:45
-2017,1910,Oceanography,15,FO,2025-12-01 19:10:45
-2017,2306,Global and Planetary Change,13,FO,2025-12-01 19:10:45
-2017,1902,Atmospheric Science,9,FO,2025-12-01 19:10:45
-2017,2309,Nature and Landscape Conservation,9,FO,2025-12-01 19:10:45
-2017,1311,Genetics,8,FO,2025-12-01 19:10:45
-2017,1312,Molecular Biology,8,FO,2025-12-01 19:10:45
-2017,2304,Environmental Chemistry,8,FO,2025-12-01 19:10:45
-2017,2307,"Health, Toxicology and Mutagenesis",8,FO,2025-12-01 19:10:45
-2017,2713,Epidemiology,7,FO,2025-12-01 19:10:45
-2017,2732,Orthopedics and Sports Medicine,6,FO,2025-12-01 19:10:45
-2017,1105,"Ecology, Evolution, Behavior and Systematics",4,FO,2025-12-01 19:10:45
-2017,2707,Complementary and alternative medicine,4,FO,2025-12-01 19:10:45
-2017,2735,"Pediatrics, Perinatology and Child Health",4,FO,2025-12-01 19:10:45
-2017,1109,Insect Science,3,FO,2025-12-01 19:10:45
-2017,1110,Plant Science,2,FO,2025-12-01 19:10:45
-2017,1307,Cell Biology,2,FO,2025-12-01 19:10:45
-2017,1308,Clinical Biochemistry,2,FO,2025-12-01 19:10:45
-2017,2405,Parasitology,2,FO,2025-12-01 19:10:45
-2017,2739,"Public Health, Environmental and Occupational Health",2,FO,2025-12-01 19:10:45
-2017,2745,Rheumatology,2,FO,2025-12-01 19:10:45
-2017,2746,Surgery,2,FO,2025-12-01 19:10:45
-2017,1103,Animal Science and Zoology,1,FO,2025-12-01 19:10:45
-2017,1104,Aquatic Science,1,FO,2025-12-01 19:10:45
-2017,1306,Cancer Research,1,FO,2025-12-01 19:10:45
-2017,1310,Endocrinology,1,FO,2025-12-01 19:10:45
-2017,1314,Physiology,1,FO,2025-12-01 19:10:45
-2017,1803,Management Science and Operations Research,1,FO,2025-12-01 19:10:45
-2017,1906,Geochemistry and Petrology,1,FO,2025-12-01 19:10:45
-2017,1907,Geology,1,FO,2025-12-01 19:10:45
-2017,1908,Geophysics,1,FO,2025-12-01 19:10:45
-2017,2002,Economics and Econometrics,1,FO,2025-12-01 19:10:45
-2017,2202,Aerospace Engineering,1,FO,2025-12-01 19:10:45
-2017,2204,Biomedical Engineering,1,FO,2025-12-01 19:10:45
-2017,2205,Civil and Structural Engineering,1,FO,2025-12-01 19:10:45
-2017,2212,Ocean Engineering,1,FO,2025-12-01 19:10:45
-2017,2302,Ecological Modeling,1,FO,2025-12-01 19:10:45
-2017,2308,"Management, Monitoring, Policy and Law",1,FO,2025-12-01 19:10:45
-2017,2403,Immunology,1,FO,2025-12-01 19:10:45
-2017,2728,Neurology,1,FO,2025-12-01 19:10:45
-2017,2729,Obstetrics and Gynecology,1,FO,2025-12-01 19:10:45
-2017,2730,Oncology,1,FO,2025-12-01 19:10:45
-2017,2734,Pathology and Forensic Medicine,1,FO,2025-12-01 19:10:45
-2017,2737,Physiology,1,FO,2025-12-01 19:10:45
-2017,3103,Astronomy and Astrophysics,1,FO,2025-12-01 19:10:45
-2017,3312,Sociology and Political Science,1,FO,2025-12-01 19:10:45
-2017,3318,Gender Studies,1,FO,2025-12-01 19:10:45
-2017,3404,Small Animals,1,FO,2025-12-01 19:10:45
-2017,3600,General Health Professions,1,FO,2025-12-01 19:10:45
-2018,2303,Ecology,16,FO,2025-12-01 19:10:45
-2018,2304,Environmental Chemistry,14,FO,2025-12-01 19:10:45
-2018,2307,"Health, Toxicology and Mutagenesis",12,FO,2025-12-01 19:10:45
-2018,1910,Oceanography,11,FO,2025-12-01 19:10:45
-2018,1312,Molecular Biology,10,FO,2025-12-01 19:10:45
-2018,1902,Atmospheric Science,10,FO,2025-12-01 19:10:45
-2018,2306,Global and Planetary Change,10,FO,2025-12-01 19:10:45
-2018,1311,Genetics,9,FO,2025-12-01 19:10:45
-2018,2732,Orthopedics and Sports Medicine,8,FO,2025-12-01 19:10:45
-2018,2713,Epidemiology,6,FO,2025-12-01 19:10:45
-2018,2746,Surgery,5,FO,2025-12-01 19:10:45
-2018,2309,Nature and Landscape Conservation,4,FO,2025-12-01 19:10:45
-2018,1104,Aquatic Science,3,FO,2025-12-01 19:10:45
-2018,2735,"Pediatrics, Perinatology and Child Health",3,FO,2025-12-01 19:10:45
-2018,2737,Physiology,3,FO,2025-12-01 19:10:45
-2018,1106,Food Science,2,FO,2025-12-01 19:10:45
-2018,1110,Plant Science,2,FO,2025-12-01 19:10:45
-2018,1308,Clinical Biochemistry,2,FO,2025-12-01 19:10:45
-2018,2705,Cardiology and Cardiovascular Medicine,2,FO,2025-12-01 19:10:45
-2018,2720,Hematology,2,FO,2025-12-01 19:10:45
-2018,2734,Pathology and Forensic Medicine,2,FO,2025-12-01 19:10:45
-2018,2739,"Public Health, Environmental and Occupational Health",2,FO,2025-12-01 19:10:45
-2018,2742,Rehabilitation,2,FO,2025-12-01 19:10:45
-2018,2745,Rheumatology,2,FO,2025-12-01 19:10:45
-2018,3312,Sociology and Political Science,2,FO,2025-12-01 19:10:45
-2018,3600,General Health Professions,2,FO,2025-12-01 19:10:45
-2018,1103,Animal Science and Zoology,1,FO,2025-12-01 19:10:45
-2018,1109,Insect Science,1,FO,2025-12-01 19:10:45
-2018,1307,Cell Biology,1,FO,2025-12-01 19:10:45
-2018,1607,Spectroscopy,1,FO,2025-12-01 19:10:45
-2018,1800,General Decision Sciences,1,FO,2025-12-01 19:10:45
-2018,1904,Earth-Surface Processes,1,FO,2025-12-01 19:10:45
-2018,1907,Geology,1,FO,2025-12-01 19:10:45
-2018,2215,Building and Construction,1,FO,2025-12-01 19:10:45
-2018,2302,Ecological Modeling,1,FO,2025-12-01 19:10:45
-2018,2308,"Management, Monitoring, Policy and Law",1,FO,2025-12-01 19:10:45
-2018,2311,Industrial and Manufacturing Engineering,1,FO,2025-12-01 19:10:45
-2018,2403,Immunology,1,FO,2025-12-01 19:10:45
-2018,2404,Microbiology,1,FO,2025-12-01 19:10:45
-2018,2405,Parasitology,1,FO,2025-12-01 19:10:45
-2018,2706,Critical Care and Intensive Care Medicine,1,FO,2025-12-01 19:10:45
-2018,2707,Complementary and alternative medicine,1,FO,2025-12-01 19:10:45
-2018,2712,"Endocrinology, Diabetes and Metabolism",1,FO,2025-12-01 19:10:45
-2018,2740,Pulmonary and Respiratory Medicine,1,FO,2025-12-01 19:10:45
-2018,2805,Cognitive Neuroscience,1,FO,2025-12-01 19:10:45
-2018,3003,Pharmaceutical Science,1,FO,2025-12-01 19:10:45
-2018,3204,Developmental and Educational Psychology,1,FO,2025-12-01 19:10:45
-2018,3612,"Physical Therapy, Sports Therapy and Rehabilitation",1,FO,2025-12-01 19:10:45
-2019,1312,Molecular Biology,14,FO,2025-12-01 19:10:45
-2019,1311,Genetics,11,FO,2025-12-01 19:10:45
-2019,1910,Oceanography,11,FO,2025-12-01 19:10:45
-2019,2304,Environmental Chemistry,11,FO,2025-12-01 19:10:45
-2019,2307,"Health, Toxicology and Mutagenesis",10,FO,2025-12-01 19:10:45
-2019,2303,Ecology,9,FO,2025-12-01 19:10:45
-2019,2306,Global and Planetary Change,8,FO,2025-12-01 19:10:45
-2019,1902,Atmospheric Science,6,FO,2025-12-01 19:10:45
-2019,2732,Orthopedics and Sports Medicine,6,FO,2025-12-01 19:10:45
-2019,2202,Aerospace Engineering,4,FO,2025-12-01 19:10:45
-2019,2713,Epidemiology,4,FO,2025-12-01 19:10:45
-2019,1307,Cell Biology,3,FO,2025-12-01 19:10:45
-2019,2308,"Management, Monitoring, Policy and Law",3,FO,2025-12-01 19:10:45
-2019,2403,Immunology,3,FO,2025-12-01 19:10:45
-2019,3103,Astronomy and Astrophysics,3,FO,2025-12-01 19:10:45
-2019,1103,Animal Science and Zoology,2,FO,2025-12-01 19:10:45
-2019,1308,Clinical Biochemistry,2,FO,2025-12-01 19:10:45
-2019,1908,Geophysics,2,FO,2025-12-01 19:10:45
-2019,2204,Biomedical Engineering,2,FO,2025-12-01 19:10:45
-2019,2735,"Pediatrics, Perinatology and Child Health",2,FO,2025-12-01 19:10:45
-2019,3204,Developmental and Educational Psychology,2,FO,2025-12-01 19:10:45
-2019,3312,Sociology and Political Science,2,FO,2025-12-01 19:10:45
-2019,1104,Aquatic Science,1,FO,2025-12-01 19:10:45
-2019,1306,Cancer Research,1,FO,2025-12-01 19:10:45
-2019,1904,Earth-Surface Processes,1,FO,2025-12-01 19:10:45
-2019,1906,Geochemistry and Petrology,1,FO,2025-12-01 19:10:45
-2019,1907,Geology,1,FO,2025-12-01 19:10:45
-2019,2002,Economics and Econometrics,1,FO,2025-12-01 19:10:45
-2019,2105,"Renewable Energy, Sustainability and the Environment",1,FO,2025-12-01 19:10:45
-2019,2302,Ecological Modeling,1,FO,2025-12-01 19:10:45
-2019,2305,Environmental Engineering,1,FO,2025-12-01 19:10:45
-2019,2309,Nature and Landscape Conservation,1,FO,2025-12-01 19:10:45
-2019,2312,Water Science and Technology,1,FO,2025-12-01 19:10:45
-2019,2405,Parasitology,1,FO,2025-12-01 19:10:45
-2019,2707,Complementary and alternative medicine,1,FO,2025-12-01 19:10:45
-2019,2712,"Endocrinology, Diabetes and Metabolism",1,FO,2025-12-01 19:10:45
-2019,2720,Hematology,1,FO,2025-12-01 19:10:45
-2019,2725,Infectious Diseases,1,FO,2025-12-01 19:10:45
-2019,2734,Pathology and Forensic Medicine,1,FO,2025-12-01 19:10:45
-2019,2737,Physiology,1,FO,2025-12-01 19:10:45
-2019,2739,"Public Health, Environmental and Occupational Health",1,FO,2025-12-01 19:10:45
-2019,2742,Rehabilitation,1,FO,2025-12-01 19:10:45
-2019,2746,Surgery,1,FO,2025-12-01 19:10:45
-2019,2748,Urology,1,FO,2025-12-01 19:10:45
-2019,2804,Cellular and Molecular Neuroscience,1,FO,2025-12-01 19:10:45
-2019,2805,Cognitive Neuroscience,1,FO,2025-12-01 19:10:45
-2019,2916,Nutrition and Dietetics,1,FO,2025-12-01 19:10:45
-2019,3107,"Atomic and Molecular Physics, and Optics",1,FO,2025-12-01 19:10:45
-2019,3600,General Health Professions,1,FO,2025-12-01 19:10:45
-2020,2306,Global and Planetary Change,28,FO,2025-12-01 19:10:45
-2020,2303,Ecology,23,FO,2025-12-01 19:10:45
-2020,1311,Genetics,16,FO,2025-12-01 19:10:45
-2020,1902,Atmospheric Science,13,FO,2025-12-01 19:10:45
-2020,1910,Oceanography,10,FO,2025-12-01 19:10:45
-2020,2304,Environmental Chemistry,10,FO,2025-12-01 19:10:45
-2020,2309,Nature and Landscape Conservation,10,FO,2025-12-01 19:10:45
-2020,1312,Molecular Biology,9,FO,2025-12-01 19:10:45
-2020,2732,Orthopedics and Sports Medicine,7,FO,2025-12-01 19:10:45
-2020,2307,"Health, Toxicology and Mutagenesis",5,FO,2025-12-01 19:10:45
-2020,2310,Pollution,4,FO,2025-12-01 19:10:45
-2020,2713,Epidemiology,4,FO,2025-12-01 19:10:45
-2020,2746,Surgery,4,FO,2025-12-01 19:10:45
-2020,1105,"Ecology, Evolution, Behavior and Systematics",3,FO,2025-12-01 19:10:45
-2020,2403,Immunology,3,FO,2025-12-01 19:10:45
-2020,3204,Developmental and Educational Psychology,3,FO,2025-12-01 19:10:45
-2020,1103,Animal Science and Zoology,2,FO,2025-12-01 19:10:45
-2020,1110,Plant Science,2,FO,2025-12-01 19:10:45
-2020,1907,Geology,2,FO,2025-12-01 19:10:45
-2020,2302,Ecological Modeling,2,FO,2025-12-01 19:10:45
-2020,2404,Microbiology,2,FO,2025-12-01 19:10:45
-2020,1104,Aquatic Science,1,FO,2025-12-01 19:10:45
-2020,1202,History,1,FO,2025-12-01 19:10:45
-2020,1307,Cell Biology,1,FO,2025-12-01 19:10:45
-2020,1314,Physiology,1,FO,2025-12-01 19:10:45
-2020,1908,Geophysics,1,FO,2025-12-01 19:10:45
-2020,2105,"Renewable Energy, Sustainability and the Environment",1,FO,2025-12-01 19:10:45
-2020,2204,Biomedical Engineering,1,FO,2025-12-01 19:10:45
-2020,2208,Electrical and Electronic Engineering,1,FO,2025-12-01 19:10:45
-2020,2211,Mechanics of Materials,1,FO,2025-12-01 19:10:45
-2020,2305,Environmental Engineering,1,FO,2025-12-01 19:10:45
-2020,2311,Industrial and Manufacturing Engineering,1,FO,2025-12-01 19:10:45
-2020,2312,Water Science and Technology,1,FO,2025-12-01 19:10:45
-2020,2707,Complementary and alternative medicine,1,FO,2025-12-01 19:10:45
-2020,2728,Neurology,1,FO,2025-12-01 19:10:45
-2020,2734,Pathology and Forensic Medicine,1,FO,2025-12-01 19:10:45
-2020,2737,Physiology,1,FO,2025-12-01 19:10:45
-2020,2740,Pulmonary and Respiratory Medicine,1,FO,2025-12-01 19:10:45
-2020,2742,Rehabilitation,1,FO,2025-12-01 19:10:45
-2020,2804,Cellular and Molecular Neuroscience,1,FO,2025-12-01 19:10:45
-2020,3303,Development,1,FO,2025-12-01 19:10:45
-2020,3600,General Health Professions,1,FO,2025-12-01 19:10:45
-2021,2303,Ecology,20,FO,2025-12-01 19:10:45
-2021,1910,Oceanography,19,FO,2025-12-01 19:10:45
-2021,2306,Global and Planetary Change,16,FO,2025-12-01 19:10:45
-2021,1902,Atmospheric Science,13,FO,2025-12-01 19:10:45
-2021,2304,Environmental Chemistry,12,FO,2025-12-01 19:10:45
-2021,2307,"Health, Toxicology and Mutagenesis",10,FO,2025-12-01 19:10:45
-2021,2732,Orthopedics and Sports Medicine,10,FO,2025-12-01 19:10:45
-2021,1311,Genetics,9,FO,2025-12-01 19:10:45
-2021,1312,Molecular Biology,8,FO,2025-12-01 19:10:45
-2021,1307,Cell Biology,4,FO,2025-12-01 19:10:45
-2021,2735,"Pediatrics, Perinatology and Child Health",4,FO,2025-12-01 19:10:45
-2021,2202,Aerospace Engineering,3,FO,2025-12-01 19:10:45
-2021,2302,Ecological Modeling,3,FO,2025-12-01 19:10:45
-2021,2309,Nature and Landscape Conservation,3,FO,2025-12-01 19:10:45
-2021,2403,Immunology,3,FO,2025-12-01 19:10:45
-2021,2705,Cardiology and Cardiovascular Medicine,3,FO,2025-12-01 19:10:45
-2021,2742,Rehabilitation,3,FO,2025-12-01 19:10:45
-2021,2707,Complementary and alternative medicine,2,FO,2025-12-01 19:10:45
-2021,2737,Physiology,2,FO,2025-12-01 19:10:45
-2021,1103,Animal Science and Zoology,1,FO,2025-12-01 19:10:45
-2021,1104,Aquatic Science,1,FO,2025-12-01 19:10:45
-2021,1314,Physiology,1,FO,2025-12-01 19:10:45
-2021,1904,Earth-Surface Processes,1,FO,2025-12-01 19:10:45
-2021,1911,Paleontology,1,FO,2025-12-01 19:10:45
-2021,2205,Civil and Structural Engineering,1,FO,2025-12-01 19:10:45
-2021,2212,Ocean Engineering,1,FO,2025-12-01 19:10:45
-2021,2308,"Management, Monitoring, Policy and Law",1,FO,2025-12-01 19:10:45
-2021,2405,Parasitology,1,FO,2025-12-01 19:10:45
-2021,2713,Epidemiology,1,FO,2025-12-01 19:10:45
-2021,2725,Infectious Diseases,1,FO,2025-12-01 19:10:45
-2021,2729,Obstetrics and Gynecology,1,FO,2025-12-01 19:10:45
-2021,2730,Oncology,1,FO,2025-12-01 19:10:45
-2021,2739,"Public Health, Environmental and Occupational Health",1,FO,2025-12-01 19:10:45
-2021,2740,Pulmonary and Respiratory Medicine,1,FO,2025-12-01 19:10:45
-2021,2746,Surgery,1,FO,2025-12-01 19:10:45
-2021,2804,Cellular and Molecular Neuroscience,1,FO,2025-12-01 19:10:45
-2021,2916,Nutrition and Dietetics,1,FO,2025-12-01 19:10:45
-2021,3103,Astronomy and Astrophysics,1,FO,2025-12-01 19:10:45
-2021,3312,Sociology and Political Science,1,FO,2025-12-01 19:10:45
-2021,3600,General Health Professions,1,FO,2025-12-01 19:10:45
-2021,3609,Occupational Therapy,1,FO,2025-12-01 19:10:45
-2022,2303,Ecology,18,FO,2025-12-01 19:10:45
-2022,2306,Global and Planetary Change,16,FO,2025-12-01 19:10:45
-2022,2732,Orthopedics and Sports Medicine,16,FO,2025-12-01 19:10:45
-2022,2307,"Health, Toxicology and Mutagenesis",13,FO,2025-12-01 19:10:45
-2022,1910,Oceanography,11,FO,2025-12-01 19:10:45
-2022,1311,Genetics,10,FO,2025-12-01 19:10:45
-2022,1312,Molecular Biology,10,FO,2025-12-01 19:10:45
-2022,1902,Atmospheric Science,10,FO,2025-12-01 19:10:45
-2022,2309,Nature and Landscape Conservation,9,FO,2025-12-01 19:10:45
-2022,1307,Cell Biology,6,FO,2025-12-01 19:10:45
-2022,2707,Complementary and alternative medicine,6,FO,2025-12-01 19:10:45
-2022,2202,Aerospace Engineering,5,FO,2025-12-01 19:10:45
-2022,2304,Environmental Chemistry,4,FO,2025-12-01 19:10:45
-2022,2305,Environmental Engineering,4,FO,2025-12-01 19:10:45
-2022,2310,Pollution,4,FO,2025-12-01 19:10:45
-2022,3103,Astronomy and Astrophysics,4,FO,2025-12-01 19:10:45
-2022,1907,Geology,2,FO,2025-12-01 19:10:45
-2022,2203,Automotive Engineering,2,FO,2025-12-01 19:10:45
-2022,2705,Cardiology and Cardiovascular Medicine,2,FO,2025-12-01 19:10:45
-2022,2737,Physiology,2,FO,2025-12-01 19:10:45
-2022,2740,Pulmonary and Respiratory Medicine,2,FO,2025-12-01 19:10:45
-2022,3600,General Health Professions,2,FO,2025-12-01 19:10:45
-2022,1102,Agronomy and Crop Science,1,FO,2025-12-01 19:10:45
-2022,1103,Animal Science and Zoology,1,FO,2025-12-01 19:10:45
-2022,1104,Aquatic Science,1,FO,2025-12-01 19:10:45
-2022,1105,"Ecology, Evolution, Behavior and Systematics",1,FO,2025-12-01 19:10:45
-2022,1106,Food Science,1,FO,2025-12-01 19:10:45
-2022,1109,Insect Science,1,FO,2025-12-01 19:10:45
-2022,1110,Plant Science,1,FO,2025-12-01 19:10:45
-2022,1306,Cancer Research,1,FO,2025-12-01 19:10:45
-2022,1908,Geophysics,1,FO,2025-12-01 19:10:45
-2022,1911,Paleontology,1,FO,2025-12-01 19:10:45
-2022,2311,Industrial and Manufacturing Engineering,1,FO,2025-12-01 19:10:45
-2022,2403,Immunology,1,FO,2025-12-01 19:10:45
-2022,2713,Epidemiology,1,FO,2025-12-01 19:10:45
-2022,2716,Genetics,1,FO,2025-12-01 19:10:45
-2022,2735,"Pediatrics, Perinatology and Child Health",1,FO,2025-12-01 19:10:45
-2022,2739,"Public Health, Environmental and Occupational Health",1,FO,2025-12-01 19:10:45
-2022,2742,Rehabilitation,1,FO,2025-12-01 19:10:45
-2022,3312,Sociology and Political Science,1,FO,2025-12-01 19:10:45
-2023,2303,Ecology,20,FO,2025-12-01 19:10:45
-2023,2306,Global and Planetary Change,19,FO,2025-12-01 19:10:45
-2023,2732,Orthopedics and Sports Medicine,12,FO,2025-12-01 19:10:45
-2023,2304,Environmental Chemistry,11,FO,2025-12-01 19:10:45
-2023,1902,Atmospheric Science,10,FO,2025-12-01 19:10:45
-2023,1311,Genetics,9,FO,2025-12-01 19:10:45
-2023,1910,Oceanography,8,FO,2025-12-01 19:10:45
-2023,2307,"Health, Toxicology and Mutagenesis",8,FO,2025-12-01 19:10:45
-2023,1312,Molecular Biology,7,FO,2025-12-01 19:10:45
-2023,2707,Complementary and alternative medicine,7,FO,2025-12-01 19:10:45
-2023,2737,Physiology,6,FO,2025-12-01 19:10:45
-2023,2705,Cardiology and Cardiovascular Medicine,5,FO,2025-12-01 19:10:45
-2023,1105,"Ecology, Evolution, Behavior and Systematics",4,FO,2025-12-01 19:10:45
-2023,2405,Parasitology,4,FO,2025-12-01 19:10:45
-2023,2308,"Management, Monitoring, Policy and Law",3,FO,2025-12-01 19:10:45
-2023,2725,Infectious Diseases,3,FO,2025-12-01 19:10:45
-2023,2204,Biomedical Engineering,2,FO,2025-12-01 19:10:45
-2023,2215,Building and Construction,2,FO,2025-12-01 19:10:45
-2023,2302,Ecological Modeling,2,FO,2025-12-01 19:10:45
-2023,2309,Nature and Landscape Conservation,2,FO,2025-12-01 19:10:45
-2023,2310,Pollution,2,FO,2025-12-01 19:10:45
-2023,2311,Industrial and Manufacturing Engineering,2,FO,2025-12-01 19:10:45
-2023,2312,Water Science and Technology,2,FO,2025-12-01 19:10:45
-2023,2713,Epidemiology,2,FO,2025-12-01 19:10:45
-2023,2742,Rehabilitation,2,FO,2025-12-01 19:10:45
-2023,2746,Surgery,2,FO,2025-12-01 19:10:45
-2023,1109,Insect Science,1,FO,2025-12-01 19:10:45
-2023,1307,Cell Biology,1,FO,2025-12-01 19:10:45
-2023,1308,Clinical Biochemistry,1,FO,2025-12-01 19:10:45
-2023,1702,Artificial Intelligence,1,FO,2025-12-01 19:10:45
-2023,1904,Earth-Surface Processes,1,FO,2025-12-01 19:10:45
-2023,2000,"General Economics, Econometrics and Finance",1,FO,2025-12-01 19:10:45
-2023,2202,Aerospace Engineering,1,FO,2025-12-01 19:10:45
-2023,2403,Immunology,1,FO,2025-12-01 19:10:45
-2023,2712,"Endocrinology, Diabetes and Metabolism",1,FO,2025-12-01 19:10:45
-2023,2728,Neurology,1,FO,2025-12-01 19:10:45
-2023,2729,Obstetrics and Gynecology,1,FO,2025-12-01 19:10:45
-2023,2735,"Pediatrics, Perinatology and Child Health",1,FO,2025-12-01 19:10:45
-2023,2805,Cognitive Neuroscience,1,FO,2025-12-01 19:10:45
-2023,2916,Nutrition and Dietetics,1,FO,2025-12-01 19:10:45
-2023,3103,Astronomy and Astrophysics,1,FO,2025-12-01 19:10:45
-2023,3305,"Geography, Planning and Development",1,FO,2025-12-01 19:10:45
-2023,3312,Sociology and Political Science,1,FO,2025-12-01 19:10:45
-2023,3404,Small Animals,1,FO,2025-12-01 19:10:45
-2023,3609,Occupational Therapy,1,FO,2025-12-01 19:10:45
-2024,2303,Ecology,21,FO,2025-12-01 19:10:45
-2024,2732,Orthopedics and Sports Medicine,17,FO,2025-12-01 19:10:45
-2024,2307,"Health, Toxicology and Mutagenesis",15,FO,2025-12-01 19:10:45
-2024,2306,Global and Planetary Change,9,FO,2025-12-01 19:10:45
-2024,1311,Genetics,8,FO,2025-12-01 19:10:45
-2024,2309,Nature and Landscape Conservation,8,FO,2025-12-01 19:10:45
-2024,1312,Molecular Biology,6,FO,2025-12-01 19:10:45
-2024,1902,Atmospheric Science,6,FO,2025-12-01 19:10:45
-2024,1104,Aquatic Science,5,FO,2025-12-01 19:10:45
-2024,2304,Environmental Chemistry,5,FO,2025-12-01 19:10:45
-2024,2707,Complementary and alternative medicine,5,FO,2025-12-01 19:10:45
-2024,1307,Cell Biology,4,FO,2025-12-01 19:10:45
-2024,1910,Oceanography,4,FO,2025-12-01 19:10:45
-2024,2204,Biomedical Engineering,4,FO,2025-12-01 19:10:45
-2024,2302,Ecological Modeling,4,FO,2025-12-01 19:10:45
-2024,3600,General Health Professions,4,FO,2025-12-01 19:10:45
-2024,2713,Epidemiology,3,FO,2025-12-01 19:10:45
-2024,2737,Physiology,3,FO,2025-12-01 19:10:45
-2024,1908,Geophysics,2,FO,2025-12-01 19:10:45
-2024,2310,Pollution,2,FO,2025-12-01 19:10:45
-2024,2705,Cardiology and Cardiovascular Medicine,2,FO,2025-12-01 19:10:45
-2024,2739,"Public Health, Environmental and Occupational Health",2,FO,2025-12-01 19:10:45
-2024,2746,Surgery,2,FO,2025-12-01 19:10:45
-2024,3609,Occupational Therapy,2,FO,2025-12-01 19:10:45
-2024,1103,Animal Science and Zoology,1,FO,2025-12-01 19:10:45
-2024,1306,Cancer Research,1,FO,2025-12-01 19:10:45
-2024,1702,Artificial Intelligence,1,FO,2025-12-01 19:10:45
-2024,1711,Signal Processing,1,FO,2025-12-01 19:10:45
-2024,1803,Management Science and Operations Research,1,FO,2025-12-01 19:10:45
-2024,2002,Economics and Econometrics,1,FO,2025-12-01 19:10:45
-2024,2311,Industrial and Manufacturing Engineering,1,FO,2025-12-01 19:10:45
-2024,2312,Water Science and Technology,1,FO,2025-12-01 19:10:45
-2024,2712,"Endocrinology, Diabetes and Metabolism",1,FO,2025-12-01 19:10:45
-2024,2734,Pathology and Forensic Medicine,1,FO,2025-12-01 19:10:45
-2024,2742,Rehabilitation,1,FO,2025-12-01 19:10:45
-2024,2745,Rheumatology,1,FO,2025-12-01 19:10:45
-2024,2807,Endocrine and Autonomic Systems,1,FO,2025-12-01 19:10:45
-2024,3612,"Physical Therapy, Sports Therapy and Rehabilitation",1,FO,2025-12-01 19:10:45
-2025,2303,Ecology,16,FO,2025-12-01 19:10:45
-2025,1311,Genetics,15,FO,2025-12-01 19:10:45
-2025,2306,Global and Planetary Change,11,FO,2025-12-01 19:10:45
-2025,1312,Molecular Biology,10,FO,2025-12-01 19:10:45
-2025,2732,Orthopedics and Sports Medicine,10,FO,2025-12-01 19:10:45
-2025,2309,Nature and Landscape Conservation,9,FO,2025-12-01 19:10:45
-2025,1910,Oceanography,7,FO,2025-12-01 19:10:45
-2025,2737,Physiology,5,FO,2025-12-01 19:10:45
-2025,2307,"Health, Toxicology and Mutagenesis",4,FO,2025-12-01 19:10:45
-2025,1902,Atmospheric Science,3,FO,2025-12-01 19:10:45
-2025,2707,Complementary and alternative medicine,3,FO,2025-12-01 19:10:45
-2025,2713,Epidemiology,3,FO,2025-12-01 19:10:45
-2025,3600,General Health Professions,3,FO,2025-12-01 19:10:45
-2025,1105,"Ecology, Evolution, Behavior and Systematics",2,FO,2025-12-01 19:10:45
-2025,1307,Cell Biology,2,FO,2025-12-01 19:10:45
-2025,2212,Ocean Engineering,2,FO,2025-12-01 19:10:45
-2025,2304,Environmental Chemistry,2,FO,2025-12-01 19:10:45
-2025,2308,"Management, Monitoring, Policy and Law",2,FO,2025-12-01 19:10:45
-2025,2734,Pathology and Forensic Medicine,2,FO,2025-12-01 19:10:45
-2025,2735,"Pediatrics, Perinatology and Child Health",2,FO,2025-12-01 19:10:45
-2025,2742,Rehabilitation,2,FO,2025-12-01 19:10:45
-2025,2746,Surgery,2,FO,2025-12-01 19:10:45
-2025,3204,Developmental and Educational Psychology,2,FO,2025-12-01 19:10:45
-2025,1103,Animal Science and Zoology,1,FO,2025-12-01 19:10:45
-2025,1109,Insect Science,1,FO,2025-12-01 19:10:45
-2025,1110,Plant Science,1,FO,2025-12-01 19:10:45
-2025,1306,Cancer Research,1,FO,2025-12-01 19:10:45
-2025,1309,Developmental Biology,1,FO,2025-12-01 19:10:45
-2025,1907,Geology,1,FO,2025-12-01 19:10:45
-2025,1908,Geophysics,1,FO,2025-12-01 19:10:45
-2025,1911,Paleontology,1,FO,2025-12-01 19:10:45
-2025,2002,Economics and Econometrics,1,FO,2025-12-01 19:10:45
-2025,2202,Aerospace Engineering,1,FO,2025-12-01 19:10:45
-2025,2204,Biomedical Engineering,1,FO,2025-12-01 19:10:45
-2025,2205,Civil and Structural Engineering,1,FO,2025-12-01 19:10:45
-2025,2302,Ecological Modeling,1,FO,2025-12-01 19:10:45
-2025,2305,Environmental Engineering,1,FO,2025-12-01 19:10:45
-2025,2403,Immunology,1,FO,2025-12-01 19:10:45
-2025,2405,Parasitology,1,FO,2025-12-01 19:10:45
-2025,2705,Cardiology and Cardiovascular Medicine,1,FO,2025-12-01 19:10:45
-2025,2712,"Endocrinology, Diabetes and Metabolism",1,FO,2025-12-01 19:10:45
-2025,2721,Hepatology,1,FO,2025-12-01 19:10:45
-2025,2725,Infectious Diseases,1,FO,2025-12-01 19:10:45
-2025,2738,Psychiatry and Mental health,1,FO,2025-12-01 19:10:45
-2025,2739,"Public Health, Environmental and Occupational Health",1,FO,2025-12-01 19:10:45
-2025,2740,Pulmonary and Respiratory Medicine,1,FO,2025-12-01 19:10:45
-2025,2803,Biological Psychiatry,1,FO,2025-12-01 19:10:45
-2025,3203,Clinical Psychology,1,FO,2025-12-01 19:10:45
-2025,3603,Complementary and Manual Therapy,1,FO,2025-12-01 19:10:45
+2005,1910,Oceanography,7,FO,2025-12-03 12:47:55
+2005,2307,"Health, Toxicology and Mutagenesis",7,FO,2025-12-03 12:47:55
+2005,1902,Atmospheric Science,5,FO,2025-12-03 12:47:55
+2005,2306,Global and Planetary Change,4,FO,2025-12-03 12:47:55
+2005,1311,Genetics,3,FO,2025-12-03 12:47:55
+2005,1306,Cancer Research,2,FO,2025-12-03 12:47:55
+2005,1312,Molecular Biology,2,FO,2025-12-03 12:47:55
+2005,2304,Environmental Chemistry,2,FO,2025-12-03 12:47:55
+2005,1104,Aquatic Science,1,FO,2025-12-03 12:47:55
+2005,2303,Ecology,1,FO,2025-12-03 12:47:55
+2005,2309,Nature and Landscape Conservation,1,FO,2025-12-03 12:47:55
+2005,2713,Epidemiology,1,FO,2025-12-03 12:47:55
+2005,2731,Ophthalmology,1,FO,2025-12-03 12:47:55
+2005,2734,Pathology and Forensic Medicine,1,FO,2025-12-03 12:47:55
+2005,2746,Surgery,1,FO,2025-12-03 12:47:55
+2005,2805,Cognitive Neuroscience,1,FO,2025-12-03 12:47:55
+2005,2916,Nutrition and Dietetics,1,FO,2025-12-03 12:47:55
+2005,3312,Sociology and Political Science,1,FO,2025-12-03 12:47:55
+2006,2307,"Health, Toxicology and Mutagenesis",9,FO,2025-12-03 12:47:55
+2006,2306,Global and Planetary Change,4,FO,2025-12-03 12:47:55
+2006,1311,Genetics,3,FO,2025-12-03 12:47:55
+2006,1312,Molecular Biology,3,FO,2025-12-03 12:47:55
+2006,1902,Atmospheric Science,3,FO,2025-12-03 12:47:55
+2006,1910,Oceanography,2,FO,2025-12-03 12:47:55
+2006,2303,Ecology,2,FO,2025-12-03 12:47:55
+2006,1106,Food Science,1,FO,2025-12-03 12:47:55
+2006,1204,Archeology,1,FO,2025-12-03 12:47:55
+2006,1306,Cancer Research,1,FO,2025-12-03 12:47:55
+2006,1911,Paleontology,1,FO,2025-12-03 12:47:55
+2006,2212,Ocean Engineering,1,FO,2025-12-03 12:47:55
+2006,2309,Nature and Landscape Conservation,1,FO,2025-12-03 12:47:55
+2006,2403,Immunology,1,FO,2025-12-03 12:47:55
+2006,2803,Biological Psychiatry,1,FO,2025-12-03 12:47:55
+2006,2804,Cellular and Molecular Neuroscience,1,FO,2025-12-03 12:47:55
+2007,1910,Oceanography,8,FO,2025-12-03 12:47:55
+2007,2306,Global and Planetary Change,5,FO,2025-12-03 12:47:55
+2007,2307,"Health, Toxicology and Mutagenesis",5,FO,2025-12-03 12:47:55
+2007,1902,Atmospheric Science,4,FO,2025-12-03 12:47:55
+2007,1312,Molecular Biology,3,FO,2025-12-03 12:47:55
+2007,2303,Ecology,3,FO,2025-12-03 12:47:55
+2007,2309,Nature and Landscape Conservation,3,FO,2025-12-03 12:47:55
+2007,1308,Clinical Biochemistry,2,FO,2025-12-03 12:47:55
+2007,1311,Genetics,2,FO,2025-12-03 12:47:55
+2007,1104,Aquatic Science,1,FO,2025-12-03 12:47:55
+2007,1106,Food Science,1,FO,2025-12-03 12:47:55
+2007,1303,Biochemistry,1,FO,2025-12-03 12:47:55
+2007,1904,Earth-Surface Processes,1,FO,2025-12-03 12:47:55
+2007,1908,Geophysics,1,FO,2025-12-03 12:47:55
+2007,2308,"Management, Monitoring, Policy and Law",1,FO,2025-12-03 12:47:55
+2007,2916,Nutrition and Dietetics,1,FO,2025-12-03 12:47:55
+2007,3004,Pharmacology,1,FO,2025-12-03 12:47:55
+2008,1910,Oceanography,9,FO,2025-12-03 12:47:55
+2008,1902,Atmospheric Science,8,FO,2025-12-03 12:47:55
+2008,2306,Global and Planetary Change,7,FO,2025-12-03 12:47:55
+2008,2307,"Health, Toxicology and Mutagenesis",6,FO,2025-12-03 12:47:55
+2008,2303,Ecology,5,FO,2025-12-03 12:47:55
+2008,1908,Geophysics,2,FO,2025-12-03 12:47:55
+2008,2304,Environmental Chemistry,2,FO,2025-12-03 12:47:55
+2008,1103,Animal Science and Zoology,1,FO,2025-12-03 12:47:55
+2008,1104,Aquatic Science,1,FO,2025-12-03 12:47:55
+2008,1312,Molecular Biology,1,FO,2025-12-03 12:47:55
+2008,1907,Geology,1,FO,2025-12-03 12:47:55
+2008,1911,Paleontology,1,FO,2025-12-03 12:47:55
+2008,2405,Parasitology,1,FO,2025-12-03 12:47:55
+2009,2306,Global and Planetary Change,13,FO,2025-12-03 12:47:55
+2009,2309,Nature and Landscape Conservation,7,FO,2025-12-03 12:47:55
+2009,1902,Atmospheric Science,6,FO,2025-12-03 12:47:55
+2009,1910,Oceanography,6,FO,2025-12-03 12:47:55
+2009,2303,Ecology,5,FO,2025-12-03 12:47:55
+2009,2307,"Health, Toxicology and Mutagenesis",5,FO,2025-12-03 12:47:55
+2009,1312,Molecular Biology,4,FO,2025-12-03 12:47:55
+2009,2304,Environmental Chemistry,4,FO,2025-12-03 12:47:55
+2009,1110,Plant Science,2,FO,2025-12-03 12:47:55
+2009,1308,Clinical Biochemistry,1,FO,2025-12-03 12:47:55
+2009,1311,Genetics,1,FO,2025-12-03 12:47:55
+2009,1907,Geology,1,FO,2025-12-03 12:47:55
+2009,1908,Geophysics,1,FO,2025-12-03 12:47:55
+2009,1911,Paleontology,1,FO,2025-12-03 12:47:55
+2009,2002,Economics and Econometrics,1,FO,2025-12-03 12:47:55
+2009,2310,Pollution,1,FO,2025-12-03 12:47:55
+2009,2403,Immunology,1,FO,2025-12-03 12:47:55
+2009,2705,Cardiology and Cardiovascular Medicine,1,FO,2025-12-03 12:47:55
+2009,2730,Oncology,1,FO,2025-12-03 12:47:55
+2009,2734,Pathology and Forensic Medicine,1,FO,2025-12-03 12:47:55
+2009,2735,"Pediatrics, Perinatology and Child Health",1,FO,2025-12-03 12:47:55
+2009,3312,Sociology and Political Science,1,FO,2025-12-03 12:47:55
+2009,3600,General Health Professions,1,FO,2025-12-03 12:47:55
+2009,3614,Radiological and Ultrasound Technology,1,FO,2025-12-03 12:47:55
+2010,2307,"Health, Toxicology and Mutagenesis",8,FO,2025-12-03 12:47:55
+2010,1902,Atmospheric Science,7,FO,2025-12-03 12:47:55
+2010,2303,Ecology,6,FO,2025-12-03 12:47:55
+2010,2306,Global and Planetary Change,5,FO,2025-12-03 12:47:55
+2010,1910,Oceanography,4,FO,2025-12-03 12:47:55
+2010,2213,"Safety, Risk, Reliability and Quality",3,FO,2025-12-03 12:47:55
+2010,2309,Nature and Landscape Conservation,3,FO,2025-12-03 12:47:55
+2010,1105,"Ecology, Evolution, Behavior and Systematics",2,FO,2025-12-03 12:47:55
+2010,1312,Molecular Biology,2,FO,2025-12-03 12:47:55
+2010,1904,Earth-Surface Processes,2,FO,2025-12-03 12:47:55
+2010,2304,Environmental Chemistry,2,FO,2025-12-03 12:47:55
+2010,2734,Pathology and Forensic Medicine,2,FO,2025-12-03 12:47:55
+2010,2916,Nutrition and Dietetics,2,FO,2025-12-03 12:47:55
+2010,3614,Radiological and Ultrasound Technology,2,FO,2025-12-03 12:47:55
+2010,1103,Animal Science and Zoology,1,FO,2025-12-03 12:47:55
+2010,1104,Aquatic Science,1,FO,2025-12-03 12:47:55
+2010,1311,Genetics,1,FO,2025-12-03 12:47:55
+2010,1907,Geology,1,FO,2025-12-03 12:47:55
+2010,2305,Environmental Engineering,1,FO,2025-12-03 12:47:55
+2010,2308,"Management, Monitoring, Policy and Law",1,FO,2025-12-03 12:47:55
+2010,2310,Pollution,1,FO,2025-12-03 12:47:55
+2010,2403,Immunology,1,FO,2025-12-03 12:47:55
+2010,2713,Epidemiology,1,FO,2025-12-03 12:47:55
+2010,2731,Ophthalmology,1,FO,2025-12-03 12:47:55
+2010,2735,"Pediatrics, Perinatology and Child Health",1,FO,2025-12-03 12:47:55
+2010,2806,Developmental Neuroscience,1,FO,2025-12-03 12:47:55
+2010,3312,Sociology and Political Science,1,FO,2025-12-03 12:47:55
+2010,3600,General Health Professions,1,FO,2025-12-03 12:47:55
+2011,2306,Global and Planetary Change,13,FO,2025-12-03 12:47:55
+2011,2307,"Health, Toxicology and Mutagenesis",11,FO,2025-12-03 12:47:55
+2011,2303,Ecology,8,FO,2025-12-03 12:47:55
+2011,1902,Atmospheric Science,7,FO,2025-12-03 12:47:55
+2011,1312,Molecular Biology,4,FO,2025-12-03 12:47:55
+2011,2309,Nature and Landscape Conservation,4,FO,2025-12-03 12:47:55
+2011,1311,Genetics,3,FO,2025-12-03 12:47:55
+2011,1104,Aquatic Science,2,FO,2025-12-03 12:47:55
+2011,1910,Oceanography,2,FO,2025-12-03 12:47:55
+2011,2213,"Safety, Risk, Reliability and Quality",2,FO,2025-12-03 12:47:55
+2011,2302,Ecological Modeling,2,FO,2025-12-03 12:47:55
+2011,2712,"Endocrinology, Diabetes and Metabolism",2,FO,2025-12-03 12:47:55
+2011,2716,Genetics,2,FO,2025-12-03 12:47:55
+2011,2746,Surgery,2,FO,2025-12-03 12:47:55
+2011,3614,Radiological and Ultrasound Technology,2,FO,2025-12-03 12:47:55
+2011,1103,Animal Science and Zoology,1,FO,2025-12-03 12:47:55
+2011,1105,"Ecology, Evolution, Behavior and Systematics",1,FO,2025-12-03 12:47:55
+2011,1702,Artificial Intelligence,1,FO,2025-12-03 12:47:55
+2011,1908,Geophysics,1,FO,2025-12-03 12:47:55
+2011,1911,Paleontology,1,FO,2025-12-03 12:47:55
+2011,2304,Environmental Chemistry,1,FO,2025-12-03 12:47:55
+2011,2308,"Management, Monitoring, Policy and Law",1,FO,2025-12-03 12:47:55
+2011,2310,Pollution,1,FO,2025-12-03 12:47:55
+2011,2405,Parasitology,1,FO,2025-12-03 12:47:55
+2011,2505,Materials Chemistry,1,FO,2025-12-03 12:47:55
+2011,2728,Neurology,1,FO,2025-12-03 12:47:55
+2011,2735,"Pediatrics, Perinatology and Child Health",1,FO,2025-12-03 12:47:55
+2011,2737,Physiology,1,FO,2025-12-03 12:47:55
+2011,2806,Developmental Neuroscience,1,FO,2025-12-03 12:47:55
+2011,2808,Neurology,1,FO,2025-12-03 12:47:55
+2011,3203,Clinical Psychology,1,FO,2025-12-03 12:47:55
+2012,2306,Global and Planetary Change,12,FO,2025-12-03 12:47:55
+2012,2309,Nature and Landscape Conservation,8,FO,2025-12-03 12:47:55
+2012,2307,"Health, Toxicology and Mutagenesis",7,FO,2025-12-03 12:47:55
+2012,1902,Atmospheric Science,6,FO,2025-12-03 12:47:55
+2012,1312,Molecular Biology,4,FO,2025-12-03 12:47:55
+2012,1910,Oceanography,4,FO,2025-12-03 12:47:55
+2012,2304,Environmental Chemistry,4,FO,2025-12-03 12:47:55
+2012,2303,Ecology,3,FO,2025-12-03 12:47:55
+2012,2308,"Management, Monitoring, Policy and Law",3,FO,2025-12-03 12:47:55
+2012,1104,Aquatic Science,2,FO,2025-12-03 12:47:55
+2012,2403,Immunology,2,FO,2025-12-03 12:47:55
+2012,1306,Cancer Research,1,FO,2025-12-03 12:47:55
+2012,1308,Clinical Biochemistry,1,FO,2025-12-03 12:47:55
+2012,1314,Physiology,1,FO,2025-12-03 12:47:55
+2012,1908,Geophysics,1,FO,2025-12-03 12:47:55
+2012,2212,Ocean Engineering,1,FO,2025-12-03 12:47:55
+2012,2404,Microbiology,1,FO,2025-12-03 12:47:55
+2012,2711,Emergency Medicine,1,FO,2025-12-03 12:47:55
+2012,2713,Epidemiology,1,FO,2025-12-03 12:47:55
+2012,2728,Neurology,1,FO,2025-12-03 12:47:55
+2012,2732,Orthopedics and Sports Medicine,1,FO,2025-12-03 12:47:55
+2012,2735,"Pediatrics, Perinatology and Child Health",1,FO,2025-12-03 12:47:55
+2012,3600,General Health Professions,1,FO,2025-12-03 12:47:55
+2013,1312,Molecular Biology,9,FO,2025-12-03 12:47:55
+2013,1311,Genetics,8,FO,2025-12-03 12:47:55
+2013,2306,Global and Planetary Change,8,FO,2025-12-03 12:47:55
+2013,1902,Atmospheric Science,7,FO,2025-12-03 12:47:55
+2013,2303,Ecology,7,FO,2025-12-03 12:47:55
+2013,2713,Epidemiology,5,FO,2025-12-03 12:47:55
+2013,2307,"Health, Toxicology and Mutagenesis",4,FO,2025-12-03 12:47:55
+2013,1308,Clinical Biochemistry,3,FO,2025-12-03 12:47:55
+2013,2309,Nature and Landscape Conservation,3,FO,2025-12-03 12:47:55
+2013,2746,Surgery,3,FO,2025-12-03 12:47:55
+2013,1904,Earth-Surface Processes,2,FO,2025-12-03 12:47:55
+2013,1910,Oceanography,2,FO,2025-12-03 12:47:55
+2013,2735,"Pediatrics, Perinatology and Child Health",2,FO,2025-12-03 12:47:55
+2013,1104,Aquatic Science,1,FO,2025-12-03 12:47:55
+2013,1105,"Ecology, Evolution, Behavior and Systematics",1,FO,2025-12-03 12:47:55
+2013,1109,Insect Science,1,FO,2025-12-03 12:47:55
+2013,1307,Cell Biology,1,FO,2025-12-03 12:47:55
+2013,1907,Geology,1,FO,2025-12-03 12:47:55
+2013,1911,Paleontology,1,FO,2025-12-03 12:47:55
+2013,2211,Mechanics of Materials,1,FO,2025-12-03 12:47:55
+2013,2213,"Safety, Risk, Reliability and Quality",1,FO,2025-12-03 12:47:55
+2013,2304,Environmental Chemistry,1,FO,2025-12-03 12:47:55
+2013,2403,Immunology,1,FO,2025-12-03 12:47:55
+2013,2505,Materials Chemistry,1,FO,2025-12-03 12:47:55
+2013,2720,Hematology,1,FO,2025-12-03 12:47:55
+2013,2737,Physiology,1,FO,2025-12-03 12:47:55
+2013,2745,Rheumatology,1,FO,2025-12-03 12:47:55
+2013,2805,Cognitive Neuroscience,1,FO,2025-12-03 12:47:55
+2013,2806,Developmental Neuroscience,1,FO,2025-12-03 12:47:55
+2013,2916,Nutrition and Dietetics,1,FO,2025-12-03 12:47:55
+2013,3314,Anthropology,1,FO,2025-12-03 12:47:55
+2013,3600,General Health Professions,1,FO,2025-12-03 12:47:55
+2014,2303,Ecology,10,FO,2025-12-03 12:47:55
+2014,1312,Molecular Biology,9,FO,2025-12-03 12:47:55
+2014,1311,Genetics,7,FO,2025-12-03 12:47:55
+2014,2306,Global and Planetary Change,7,FO,2025-12-03 12:47:55
+2014,2307,"Health, Toxicology and Mutagenesis",6,FO,2025-12-03 12:47:55
+2014,2713,Epidemiology,5,FO,2025-12-03 12:47:55
+2014,2732,Orthopedics and Sports Medicine,5,FO,2025-12-03 12:47:55
+2014,1105,"Ecology, Evolution, Behavior and Systematics",4,FO,2025-12-03 12:47:55
+2014,1902,Atmospheric Science,4,FO,2025-12-03 12:47:55
+2014,1910,Oceanography,4,FO,2025-12-03 12:47:55
+2014,1104,Aquatic Science,3,FO,2025-12-03 12:47:55
+2014,1308,Clinical Biochemistry,3,FO,2025-12-03 12:47:55
+2014,2309,Nature and Landscape Conservation,3,FO,2025-12-03 12:47:55
+2014,2707,Complementary and alternative medicine,3,FO,2025-12-03 12:47:55
+2014,2746,Surgery,3,FO,2025-12-03 12:47:55
+2014,1103,Animal Science and Zoology,2,FO,2025-12-03 12:47:55
+2014,1309,Developmental Biology,2,FO,2025-12-03 12:47:55
+2014,2304,Environmental Chemistry,2,FO,2025-12-03 12:47:55
+2014,2405,Parasitology,2,FO,2025-12-03 12:47:55
+2014,2705,Cardiology and Cardiovascular Medicine,2,FO,2025-12-03 12:47:55
+2014,2735,"Pediatrics, Perinatology and Child Health",2,FO,2025-12-03 12:47:55
+2014,2737,Physiology,2,FO,2025-12-03 12:47:55
+2014,3609,Occupational Therapy,2,FO,2025-12-03 12:47:55
+2014,1109,Insect Science,1,FO,2025-12-03 12:47:55
+2014,1202,History,1,FO,2025-12-03 12:47:55
+2014,1307,Cell Biology,1,FO,2025-12-03 12:47:55
+2014,1314,Physiology,1,FO,2025-12-03 12:47:55
+2014,1607,Spectroscopy,1,FO,2025-12-03 12:47:55
+2014,1911,Paleontology,1,FO,2025-12-03 12:47:55
+2014,2002,Economics and Econometrics,1,FO,2025-12-03 12:47:55
+2014,2302,Ecological Modeling,1,FO,2025-12-03 12:47:55
+2014,2728,Neurology,1,FO,2025-12-03 12:47:55
+2014,2742,Rehabilitation,1,FO,2025-12-03 12:47:55
+2014,2743,Reproductive Medicine,1,FO,2025-12-03 12:47:55
+2014,2745,Rheumatology,1,FO,2025-12-03 12:47:55
+2014,2808,Neurology,1,FO,2025-12-03 12:47:55
+2014,2916,Nutrition and Dietetics,1,FO,2025-12-03 12:47:55
+2014,3207,Social Psychology,1,FO,2025-12-03 12:47:55
+2014,3318,Gender Studies,1,FO,2025-12-03 12:47:55
+2015,2306,Global and Planetary Change,17,FO,2025-12-03 12:47:55
+2015,2303,Ecology,15,FO,2025-12-03 12:47:55
+2015,2732,Orthopedics and Sports Medicine,11,FO,2025-12-03 12:47:55
+2015,2309,Nature and Landscape Conservation,10,FO,2025-12-03 12:47:55
+2015,1910,Oceanography,9,FO,2025-12-03 12:47:55
+2015,1312,Molecular Biology,8,FO,2025-12-03 12:47:55
+2015,1902,Atmospheric Science,8,FO,2025-12-03 12:47:55
+2015,2304,Environmental Chemistry,8,FO,2025-12-03 12:47:55
+2015,2307,"Health, Toxicology and Mutagenesis",7,FO,2025-12-03 12:47:55
+2015,1104,Aquatic Science,6,FO,2025-12-03 12:47:55
+2015,1307,Cell Biology,6,FO,2025-12-03 12:47:55
+2015,1314,Physiology,6,FO,2025-12-03 12:47:55
+2015,2707,Complementary and alternative medicine,5,FO,2025-12-03 12:47:55
+2015,1311,Genetics,3,FO,2025-12-03 12:47:55
+2015,1110,Plant Science,2,FO,2025-12-03 12:47:55
+2015,1308,Clinical Biochemistry,2,FO,2025-12-03 12:47:55
+2015,1904,Earth-Surface Processes,2,FO,2025-12-03 12:47:55
+2015,2204,Biomedical Engineering,2,FO,2025-12-03 12:47:55
+2015,2308,"Management, Monitoring, Policy and Law",2,FO,2025-12-03 12:47:55
+2015,2728,Neurology,2,FO,2025-12-03 12:47:55
+2015,2735,"Pediatrics, Perinatology and Child Health",2,FO,2025-12-03 12:47:55
+2015,2742,Rehabilitation,2,FO,2025-12-03 12:47:55
+2015,1911,Paleontology,1,FO,2025-12-03 12:47:55
+2015,2002,Economics and Econometrics,1,FO,2025-12-03 12:47:55
+2015,2312,Water Science and Technology,1,FO,2025-12-03 12:47:55
+2015,2403,Immunology,1,FO,2025-12-03 12:47:55
+2015,2404,Microbiology,1,FO,2025-12-03 12:47:55
+2015,2405,Parasitology,1,FO,2025-12-03 12:47:55
+2015,2504,"Electronic, Optical and Magnetic Materials",1,FO,2025-12-03 12:47:55
+2015,2705,Cardiology and Cardiovascular Medicine,1,FO,2025-12-03 12:47:55
+2015,2713,Epidemiology,1,FO,2025-12-03 12:47:55
+2015,2746,Surgery,1,FO,2025-12-03 12:47:55
+2015,2808,Neurology,1,FO,2025-12-03 12:47:55
+2015,3305,"Geography, Planning and Development",1,FO,2025-12-03 12:47:55
+2015,3312,Sociology and Political Science,1,FO,2025-12-03 12:47:55
+2015,3318,Gender Studies,1,FO,2025-12-03 12:47:55
+2015,3320,Political Science and International Relations,1,FO,2025-12-03 12:47:55
+2016,2306,Global and Planetary Change,14,FO,2025-12-03 12:47:55
+2016,2303,Ecology,10,FO,2025-12-03 12:47:55
+2016,2307,"Health, Toxicology and Mutagenesis",10,FO,2025-12-03 12:47:55
+2016,2309,Nature and Landscape Conservation,9,FO,2025-12-03 12:47:55
+2016,2304,Environmental Chemistry,8,FO,2025-12-03 12:47:55
+2016,1312,Molecular Biology,6,FO,2025-12-03 12:47:55
+2016,2403,Immunology,6,FO,2025-12-03 12:47:55
+2016,1311,Genetics,5,FO,2025-12-03 12:47:55
+2016,2732,Orthopedics and Sports Medicine,5,FO,2025-12-03 12:47:55
+2016,1104,Aquatic Science,4,FO,2025-12-03 12:47:55
+2016,1910,Oceanography,4,FO,2025-12-03 12:47:55
+2016,2308,"Management, Monitoring, Policy and Law",4,FO,2025-12-03 12:47:55
+2016,1902,Atmospheric Science,3,FO,2025-12-03 12:47:55
+2016,2737,Physiology,3,FO,2025-12-03 12:47:55
+2016,1105,"Ecology, Evolution, Behavior and Systematics",2,FO,2025-12-03 12:47:55
+2016,1314,Physiology,2,FO,2025-12-03 12:47:55
+2016,1904,Earth-Surface Processes,2,FO,2025-12-03 12:47:55
+2016,1908,Geophysics,2,FO,2025-12-03 12:47:55
+2016,2002,Economics and Econometrics,2,FO,2025-12-03 12:47:55
+2016,2312,Water Science and Technology,2,FO,2025-12-03 12:47:55
+2016,2707,Complementary and alternative medicine,2,FO,2025-12-03 12:47:55
+2016,2713,Epidemiology,2,FO,2025-12-03 12:47:55
+2016,2736,Pharmacology,2,FO,2025-12-03 12:47:55
+2016,1109,Insect Science,1,FO,2025-12-03 12:47:55
+2016,1110,Plant Science,1,FO,2025-12-03 12:47:55
+2016,1305,Biotechnology,1,FO,2025-12-03 12:47:55
+2016,1602,Analytical Chemistry,1,FO,2025-12-03 12:47:55
+2016,1705,Computer Networks and Communications,1,FO,2025-12-03 12:47:55
+2016,1907,Geology,1,FO,2025-12-03 12:47:55
+2016,2000,"General Economics, Econometrics and Finance",1,FO,2025-12-03 12:47:55
+2016,2204,Biomedical Engineering,1,FO,2025-12-03 12:47:55
+2016,2210,Mechanical Engineering,1,FO,2025-12-03 12:47:55
+2016,2310,Pollution,1,FO,2025-12-03 12:47:55
+2016,2405,Parasitology,1,FO,2025-12-03 12:47:55
+2016,2725,Infectious Diseases,1,FO,2025-12-03 12:47:55
+2016,2735,"Pediatrics, Perinatology and Child Health",1,FO,2025-12-03 12:47:55
+2016,2739,"Public Health, Environmental and Occupational Health",1,FO,2025-12-03 12:47:55
+2016,2740,Pulmonary and Respiratory Medicine,1,FO,2025-12-03 12:47:55
+2016,2806,Developmental Neuroscience,1,FO,2025-12-03 12:47:55
+2016,3107,"Atomic and Molecular Physics, and Optics",1,FO,2025-12-03 12:47:55
+2016,3109,Statistical and Nonlinear Physics,1,FO,2025-12-03 12:47:55
+2016,3600,General Health Professions,1,FO,2025-12-03 12:47:55
+2017,2303,Ecology,23,FO,2025-12-03 12:47:55
+2017,1910,Oceanography,15,FO,2025-12-03 12:47:55
+2017,2306,Global and Planetary Change,13,FO,2025-12-03 12:47:55
+2017,1902,Atmospheric Science,9,FO,2025-12-03 12:47:55
+2017,2309,Nature and Landscape Conservation,9,FO,2025-12-03 12:47:55
+2017,1311,Genetics,8,FO,2025-12-03 12:47:55
+2017,1312,Molecular Biology,8,FO,2025-12-03 12:47:55
+2017,2304,Environmental Chemistry,8,FO,2025-12-03 12:47:55
+2017,2307,"Health, Toxicology and Mutagenesis",8,FO,2025-12-03 12:47:55
+2017,2713,Epidemiology,7,FO,2025-12-03 12:47:55
+2017,2732,Orthopedics and Sports Medicine,6,FO,2025-12-03 12:47:55
+2017,1105,"Ecology, Evolution, Behavior and Systematics",4,FO,2025-12-03 12:47:55
+2017,2707,Complementary and alternative medicine,4,FO,2025-12-03 12:47:55
+2017,2735,"Pediatrics, Perinatology and Child Health",4,FO,2025-12-03 12:47:55
+2017,1109,Insect Science,3,FO,2025-12-03 12:47:55
+2017,1110,Plant Science,2,FO,2025-12-03 12:47:55
+2017,1307,Cell Biology,2,FO,2025-12-03 12:47:55
+2017,1308,Clinical Biochemistry,2,FO,2025-12-03 12:47:55
+2017,2405,Parasitology,2,FO,2025-12-03 12:47:55
+2017,2739,"Public Health, Environmental and Occupational Health",2,FO,2025-12-03 12:47:55
+2017,2745,Rheumatology,2,FO,2025-12-03 12:47:55
+2017,2746,Surgery,2,FO,2025-12-03 12:47:55
+2017,1103,Animal Science and Zoology,1,FO,2025-12-03 12:47:55
+2017,1104,Aquatic Science,1,FO,2025-12-03 12:47:55
+2017,1306,Cancer Research,1,FO,2025-12-03 12:47:55
+2017,1310,Endocrinology,1,FO,2025-12-03 12:47:55
+2017,1314,Physiology,1,FO,2025-12-03 12:47:55
+2017,1803,Management Science and Operations Research,1,FO,2025-12-03 12:47:55
+2017,1906,Geochemistry and Petrology,1,FO,2025-12-03 12:47:55
+2017,1907,Geology,1,FO,2025-12-03 12:47:55
+2017,1908,Geophysics,1,FO,2025-12-03 12:47:55
+2017,2002,Economics and Econometrics,1,FO,2025-12-03 12:47:55
+2017,2202,Aerospace Engineering,1,FO,2025-12-03 12:47:55
+2017,2204,Biomedical Engineering,1,FO,2025-12-03 12:47:55
+2017,2205,Civil and Structural Engineering,1,FO,2025-12-03 12:47:55
+2017,2212,Ocean Engineering,1,FO,2025-12-03 12:47:55
+2017,2302,Ecological Modeling,1,FO,2025-12-03 12:47:55
+2017,2308,"Management, Monitoring, Policy and Law",1,FO,2025-12-03 12:47:55
+2017,2403,Immunology,1,FO,2025-12-03 12:47:55
+2017,2728,Neurology,1,FO,2025-12-03 12:47:55
+2017,2729,Obstetrics and Gynecology,1,FO,2025-12-03 12:47:55
+2017,2730,Oncology,1,FO,2025-12-03 12:47:55
+2017,2734,Pathology and Forensic Medicine,1,FO,2025-12-03 12:47:55
+2017,2737,Physiology,1,FO,2025-12-03 12:47:55
+2017,3103,Astronomy and Astrophysics,1,FO,2025-12-03 12:47:55
+2017,3312,Sociology and Political Science,1,FO,2025-12-03 12:47:55
+2017,3318,Gender Studies,1,FO,2025-12-03 12:47:55
+2017,3404,Small Animals,1,FO,2025-12-03 12:47:55
+2017,3600,General Health Professions,1,FO,2025-12-03 12:47:55
+2018,2303,Ecology,16,FO,2025-12-03 12:47:55
+2018,2304,Environmental Chemistry,14,FO,2025-12-03 12:47:55
+2018,2307,"Health, Toxicology and Mutagenesis",12,FO,2025-12-03 12:47:55
+2018,1910,Oceanography,11,FO,2025-12-03 12:47:55
+2018,1312,Molecular Biology,10,FO,2025-12-03 12:47:55
+2018,1902,Atmospheric Science,10,FO,2025-12-03 12:47:55
+2018,2306,Global and Planetary Change,10,FO,2025-12-03 12:47:55
+2018,1311,Genetics,9,FO,2025-12-03 12:47:55
+2018,2732,Orthopedics and Sports Medicine,8,FO,2025-12-03 12:47:55
+2018,2713,Epidemiology,6,FO,2025-12-03 12:47:55
+2018,2746,Surgery,5,FO,2025-12-03 12:47:55
+2018,2309,Nature and Landscape Conservation,4,FO,2025-12-03 12:47:55
+2018,1104,Aquatic Science,3,FO,2025-12-03 12:47:55
+2018,2735,"Pediatrics, Perinatology and Child Health",3,FO,2025-12-03 12:47:55
+2018,2737,Physiology,3,FO,2025-12-03 12:47:55
+2018,1106,Food Science,2,FO,2025-12-03 12:47:55
+2018,1110,Plant Science,2,FO,2025-12-03 12:47:55
+2018,1308,Clinical Biochemistry,2,FO,2025-12-03 12:47:55
+2018,2705,Cardiology and Cardiovascular Medicine,2,FO,2025-12-03 12:47:55
+2018,2720,Hematology,2,FO,2025-12-03 12:47:55
+2018,2734,Pathology and Forensic Medicine,2,FO,2025-12-03 12:47:55
+2018,2739,"Public Health, Environmental and Occupational Health",2,FO,2025-12-03 12:47:55
+2018,2742,Rehabilitation,2,FO,2025-12-03 12:47:55
+2018,2745,Rheumatology,2,FO,2025-12-03 12:47:55
+2018,3312,Sociology and Political Science,2,FO,2025-12-03 12:47:55
+2018,3600,General Health Professions,2,FO,2025-12-03 12:47:55
+2018,1103,Animal Science and Zoology,1,FO,2025-12-03 12:47:55
+2018,1109,Insect Science,1,FO,2025-12-03 12:47:55
+2018,1307,Cell Biology,1,FO,2025-12-03 12:47:55
+2018,1607,Spectroscopy,1,FO,2025-12-03 12:47:55
+2018,1800,General Decision Sciences,1,FO,2025-12-03 12:47:55
+2018,1904,Earth-Surface Processes,1,FO,2025-12-03 12:47:55
+2018,1907,Geology,1,FO,2025-12-03 12:47:55
+2018,2215,Building and Construction,1,FO,2025-12-03 12:47:55
+2018,2302,Ecological Modeling,1,FO,2025-12-03 12:47:55
+2018,2308,"Management, Monitoring, Policy and Law",1,FO,2025-12-03 12:47:55
+2018,2311,Industrial and Manufacturing Engineering,1,FO,2025-12-03 12:47:55
+2018,2403,Immunology,1,FO,2025-12-03 12:47:55
+2018,2404,Microbiology,1,FO,2025-12-03 12:47:55
+2018,2405,Parasitology,1,FO,2025-12-03 12:47:55
+2018,2706,Critical Care and Intensive Care Medicine,1,FO,2025-12-03 12:47:55
+2018,2707,Complementary and alternative medicine,1,FO,2025-12-03 12:47:55
+2018,2712,"Endocrinology, Diabetes and Metabolism",1,FO,2025-12-03 12:47:55
+2018,2740,Pulmonary and Respiratory Medicine,1,FO,2025-12-03 12:47:55
+2018,2805,Cognitive Neuroscience,1,FO,2025-12-03 12:47:55
+2018,3003,Pharmaceutical Science,1,FO,2025-12-03 12:47:55
+2018,3204,Developmental and Educational Psychology,1,FO,2025-12-03 12:47:55
+2018,3612,"Physical Therapy, Sports Therapy and Rehabilitation",1,FO,2025-12-03 12:47:55
+2019,1312,Molecular Biology,14,FO,2025-12-03 12:47:55
+2019,1311,Genetics,11,FO,2025-12-03 12:47:55
+2019,1910,Oceanography,11,FO,2025-12-03 12:47:55
+2019,2304,Environmental Chemistry,11,FO,2025-12-03 12:47:55
+2019,2307,"Health, Toxicology and Mutagenesis",10,FO,2025-12-03 12:47:55
+2019,2303,Ecology,9,FO,2025-12-03 12:47:55
+2019,2306,Global and Planetary Change,8,FO,2025-12-03 12:47:55
+2019,1902,Atmospheric Science,6,FO,2025-12-03 12:47:55
+2019,2732,Orthopedics and Sports Medicine,6,FO,2025-12-03 12:47:55
+2019,2202,Aerospace Engineering,4,FO,2025-12-03 12:47:55
+2019,2713,Epidemiology,4,FO,2025-12-03 12:47:55
+2019,1307,Cell Biology,3,FO,2025-12-03 12:47:55
+2019,2308,"Management, Monitoring, Policy and Law",3,FO,2025-12-03 12:47:55
+2019,2403,Immunology,3,FO,2025-12-03 12:47:55
+2019,3103,Astronomy and Astrophysics,3,FO,2025-12-03 12:47:55
+2019,1103,Animal Science and Zoology,2,FO,2025-12-03 12:47:55
+2019,1308,Clinical Biochemistry,2,FO,2025-12-03 12:47:55
+2019,1908,Geophysics,2,FO,2025-12-03 12:47:55
+2019,2204,Biomedical Engineering,2,FO,2025-12-03 12:47:55
+2019,2735,"Pediatrics, Perinatology and Child Health",2,FO,2025-12-03 12:47:55
+2019,3204,Developmental and Educational Psychology,2,FO,2025-12-03 12:47:55
+2019,3312,Sociology and Political Science,2,FO,2025-12-03 12:47:55
+2019,1104,Aquatic Science,1,FO,2025-12-03 12:47:55
+2019,1306,Cancer Research,1,FO,2025-12-03 12:47:55
+2019,1904,Earth-Surface Processes,1,FO,2025-12-03 12:47:55
+2019,1906,Geochemistry and Petrology,1,FO,2025-12-03 12:47:55
+2019,1907,Geology,1,FO,2025-12-03 12:47:55
+2019,2002,Economics and Econometrics,1,FO,2025-12-03 12:47:55
+2019,2105,"Renewable Energy, Sustainability and the Environment",1,FO,2025-12-03 12:47:55
+2019,2302,Ecological Modeling,1,FO,2025-12-03 12:47:55
+2019,2305,Environmental Engineering,1,FO,2025-12-03 12:47:55
+2019,2309,Nature and Landscape Conservation,1,FO,2025-12-03 12:47:55
+2019,2312,Water Science and Technology,1,FO,2025-12-03 12:47:55
+2019,2405,Parasitology,1,FO,2025-12-03 12:47:55
+2019,2707,Complementary and alternative medicine,1,FO,2025-12-03 12:47:55
+2019,2712,"Endocrinology, Diabetes and Metabolism",1,FO,2025-12-03 12:47:55
+2019,2720,Hematology,1,FO,2025-12-03 12:47:55
+2019,2725,Infectious Diseases,1,FO,2025-12-03 12:47:55
+2019,2734,Pathology and Forensic Medicine,1,FO,2025-12-03 12:47:55
+2019,2737,Physiology,1,FO,2025-12-03 12:47:55
+2019,2739,"Public Health, Environmental and Occupational Health",1,FO,2025-12-03 12:47:55
+2019,2742,Rehabilitation,1,FO,2025-12-03 12:47:55
+2019,2746,Surgery,1,FO,2025-12-03 12:47:55
+2019,2748,Urology,1,FO,2025-12-03 12:47:55
+2019,2804,Cellular and Molecular Neuroscience,1,FO,2025-12-03 12:47:55
+2019,2805,Cognitive Neuroscience,1,FO,2025-12-03 12:47:55
+2019,2916,Nutrition and Dietetics,1,FO,2025-12-03 12:47:55
+2019,3107,"Atomic and Molecular Physics, and Optics",1,FO,2025-12-03 12:47:55
+2019,3600,General Health Professions,1,FO,2025-12-03 12:47:55
+2020,2306,Global and Planetary Change,28,FO,2025-12-03 12:47:55
+2020,2303,Ecology,23,FO,2025-12-03 12:47:55
+2020,1311,Genetics,16,FO,2025-12-03 12:47:55
+2020,1902,Atmospheric Science,13,FO,2025-12-03 12:47:55
+2020,1910,Oceanography,10,FO,2025-12-03 12:47:55
+2020,2304,Environmental Chemistry,10,FO,2025-12-03 12:47:55
+2020,2309,Nature and Landscape Conservation,10,FO,2025-12-03 12:47:55
+2020,1312,Molecular Biology,9,FO,2025-12-03 12:47:55
+2020,2732,Orthopedics and Sports Medicine,7,FO,2025-12-03 12:47:55
+2020,2307,"Health, Toxicology and Mutagenesis",5,FO,2025-12-03 12:47:55
+2020,2310,Pollution,4,FO,2025-12-03 12:47:55
+2020,2713,Epidemiology,4,FO,2025-12-03 12:47:55
+2020,2746,Surgery,4,FO,2025-12-03 12:47:55
+2020,1105,"Ecology, Evolution, Behavior and Systematics",3,FO,2025-12-03 12:47:55
+2020,2403,Immunology,3,FO,2025-12-03 12:47:55
+2020,3204,Developmental and Educational Psychology,3,FO,2025-12-03 12:47:55
+2020,1103,Animal Science and Zoology,2,FO,2025-12-03 12:47:55
+2020,1110,Plant Science,2,FO,2025-12-03 12:47:55
+2020,1907,Geology,2,FO,2025-12-03 12:47:55
+2020,2302,Ecological Modeling,2,FO,2025-12-03 12:47:55
+2020,2404,Microbiology,2,FO,2025-12-03 12:47:55
+2020,1104,Aquatic Science,1,FO,2025-12-03 12:47:55
+2020,1202,History,1,FO,2025-12-03 12:47:55
+2020,1307,Cell Biology,1,FO,2025-12-03 12:47:55
+2020,1314,Physiology,1,FO,2025-12-03 12:47:55
+2020,1908,Geophysics,1,FO,2025-12-03 12:47:55
+2020,2105,"Renewable Energy, Sustainability and the Environment",1,FO,2025-12-03 12:47:55
+2020,2204,Biomedical Engineering,1,FO,2025-12-03 12:47:55
+2020,2208,Electrical and Electronic Engineering,1,FO,2025-12-03 12:47:55
+2020,2211,Mechanics of Materials,1,FO,2025-12-03 12:47:55
+2020,2305,Environmental Engineering,1,FO,2025-12-03 12:47:55
+2020,2311,Industrial and Manufacturing Engineering,1,FO,2025-12-03 12:47:55
+2020,2312,Water Science and Technology,1,FO,2025-12-03 12:47:55
+2020,2707,Complementary and alternative medicine,1,FO,2025-12-03 12:47:55
+2020,2728,Neurology,1,FO,2025-12-03 12:47:55
+2020,2734,Pathology and Forensic Medicine,1,FO,2025-12-03 12:47:55
+2020,2737,Physiology,1,FO,2025-12-03 12:47:55
+2020,2740,Pulmonary and Respiratory Medicine,1,FO,2025-12-03 12:47:55
+2020,2742,Rehabilitation,1,FO,2025-12-03 12:47:55
+2020,2804,Cellular and Molecular Neuroscience,1,FO,2025-12-03 12:47:55
+2020,3303,Development,1,FO,2025-12-03 12:47:55
+2020,3600,General Health Professions,1,FO,2025-12-03 12:47:55
+2021,2303,Ecology,20,FO,2025-12-03 12:47:55
+2021,1910,Oceanography,19,FO,2025-12-03 12:47:55
+2021,2306,Global and Planetary Change,16,FO,2025-12-03 12:47:55
+2021,1902,Atmospheric Science,13,FO,2025-12-03 12:47:55
+2021,2304,Environmental Chemistry,12,FO,2025-12-03 12:47:55
+2021,2307,"Health, Toxicology and Mutagenesis",10,FO,2025-12-03 12:47:55
+2021,2732,Orthopedics and Sports Medicine,10,FO,2025-12-03 12:47:55
+2021,1311,Genetics,9,FO,2025-12-03 12:47:55
+2021,1312,Molecular Biology,8,FO,2025-12-03 12:47:55
+2021,1307,Cell Biology,4,FO,2025-12-03 12:47:55
+2021,2735,"Pediatrics, Perinatology and Child Health",4,FO,2025-12-03 12:47:55
+2021,2202,Aerospace Engineering,3,FO,2025-12-03 12:47:55
+2021,2302,Ecological Modeling,3,FO,2025-12-03 12:47:55
+2021,2309,Nature and Landscape Conservation,3,FO,2025-12-03 12:47:55
+2021,2403,Immunology,3,FO,2025-12-03 12:47:55
+2021,2705,Cardiology and Cardiovascular Medicine,3,FO,2025-12-03 12:47:55
+2021,2742,Rehabilitation,3,FO,2025-12-03 12:47:55
+2021,2707,Complementary and alternative medicine,2,FO,2025-12-03 12:47:55
+2021,2737,Physiology,2,FO,2025-12-03 12:47:55
+2021,1103,Animal Science and Zoology,1,FO,2025-12-03 12:47:55
+2021,1104,Aquatic Science,1,FO,2025-12-03 12:47:55
+2021,1314,Physiology,1,FO,2025-12-03 12:47:55
+2021,1904,Earth-Surface Processes,1,FO,2025-12-03 12:47:55
+2021,1911,Paleontology,1,FO,2025-12-03 12:47:55
+2021,2205,Civil and Structural Engineering,1,FO,2025-12-03 12:47:55
+2021,2212,Ocean Engineering,1,FO,2025-12-03 12:47:55
+2021,2308,"Management, Monitoring, Policy and Law",1,FO,2025-12-03 12:47:55
+2021,2405,Parasitology,1,FO,2025-12-03 12:47:55
+2021,2713,Epidemiology,1,FO,2025-12-03 12:47:55
+2021,2725,Infectious Diseases,1,FO,2025-12-03 12:47:55
+2021,2729,Obstetrics and Gynecology,1,FO,2025-12-03 12:47:55
+2021,2730,Oncology,1,FO,2025-12-03 12:47:55
+2021,2739,"Public Health, Environmental and Occupational Health",1,FO,2025-12-03 12:47:55
+2021,2740,Pulmonary and Respiratory Medicine,1,FO,2025-12-03 12:47:55
+2021,2746,Surgery,1,FO,2025-12-03 12:47:55
+2021,2804,Cellular and Molecular Neuroscience,1,FO,2025-12-03 12:47:55
+2021,2916,Nutrition and Dietetics,1,FO,2025-12-03 12:47:55
+2021,3103,Astronomy and Astrophysics,1,FO,2025-12-03 12:47:55
+2021,3312,Sociology and Political Science,1,FO,2025-12-03 12:47:55
+2021,3600,General Health Professions,1,FO,2025-12-03 12:47:55
+2021,3609,Occupational Therapy,1,FO,2025-12-03 12:47:55
+2022,2303,Ecology,18,FO,2025-12-03 12:47:55
+2022,2306,Global and Planetary Change,16,FO,2025-12-03 12:47:55
+2022,2732,Orthopedics and Sports Medicine,16,FO,2025-12-03 12:47:55
+2022,2307,"Health, Toxicology and Mutagenesis",13,FO,2025-12-03 12:47:55
+2022,1910,Oceanography,11,FO,2025-12-03 12:47:55
+2022,1311,Genetics,10,FO,2025-12-03 12:47:55
+2022,1312,Molecular Biology,10,FO,2025-12-03 12:47:55
+2022,1902,Atmospheric Science,10,FO,2025-12-03 12:47:55
+2022,2309,Nature and Landscape Conservation,9,FO,2025-12-03 12:47:55
+2022,1307,Cell Biology,6,FO,2025-12-03 12:47:55
+2022,2707,Complementary and alternative medicine,6,FO,2025-12-03 12:47:55
+2022,2202,Aerospace Engineering,5,FO,2025-12-03 12:47:55
+2022,2304,Environmental Chemistry,4,FO,2025-12-03 12:47:55
+2022,2305,Environmental Engineering,4,FO,2025-12-03 12:47:55
+2022,2310,Pollution,4,FO,2025-12-03 12:47:55
+2022,3103,Astronomy and Astrophysics,4,FO,2025-12-03 12:47:55
+2022,1907,Geology,2,FO,2025-12-03 12:47:55
+2022,2203,Automotive Engineering,2,FO,2025-12-03 12:47:55
+2022,2705,Cardiology and Cardiovascular Medicine,2,FO,2025-12-03 12:47:55
+2022,2737,Physiology,2,FO,2025-12-03 12:47:55
+2022,2740,Pulmonary and Respiratory Medicine,2,FO,2025-12-03 12:47:55
+2022,3600,General Health Professions,2,FO,2025-12-03 12:47:55
+2022,1102,Agronomy and Crop Science,1,FO,2025-12-03 12:47:55
+2022,1103,Animal Science and Zoology,1,FO,2025-12-03 12:47:55
+2022,1104,Aquatic Science,1,FO,2025-12-03 12:47:55
+2022,1105,"Ecology, Evolution, Behavior and Systematics",1,FO,2025-12-03 12:47:55
+2022,1106,Food Science,1,FO,2025-12-03 12:47:55
+2022,1109,Insect Science,1,FO,2025-12-03 12:47:55
+2022,1110,Plant Science,1,FO,2025-12-03 12:47:55
+2022,1306,Cancer Research,1,FO,2025-12-03 12:47:55
+2022,1908,Geophysics,1,FO,2025-12-03 12:47:55
+2022,1911,Paleontology,1,FO,2025-12-03 12:47:55
+2022,2311,Industrial and Manufacturing Engineering,1,FO,2025-12-03 12:47:55
+2022,2403,Immunology,1,FO,2025-12-03 12:47:55
+2022,2713,Epidemiology,1,FO,2025-12-03 12:47:55
+2022,2716,Genetics,1,FO,2025-12-03 12:47:55
+2022,2735,"Pediatrics, Perinatology and Child Health",1,FO,2025-12-03 12:47:55
+2022,2739,"Public Health, Environmental and Occupational Health",1,FO,2025-12-03 12:47:55
+2022,2742,Rehabilitation,1,FO,2025-12-03 12:47:55
+2022,3312,Sociology and Political Science,1,FO,2025-12-03 12:47:55
+2023,2303,Ecology,20,FO,2025-12-03 12:47:55
+2023,2306,Global and Planetary Change,19,FO,2025-12-03 12:47:55
+2023,2732,Orthopedics and Sports Medicine,12,FO,2025-12-03 12:47:55
+2023,2304,Environmental Chemistry,11,FO,2025-12-03 12:47:55
+2023,1902,Atmospheric Science,10,FO,2025-12-03 12:47:55
+2023,1311,Genetics,9,FO,2025-12-03 12:47:55
+2023,1910,Oceanography,8,FO,2025-12-03 12:47:55
+2023,2307,"Health, Toxicology and Mutagenesis",8,FO,2025-12-03 12:47:55
+2023,1312,Molecular Biology,7,FO,2025-12-03 12:47:55
+2023,2707,Complementary and alternative medicine,7,FO,2025-12-03 12:47:55
+2023,2737,Physiology,6,FO,2025-12-03 12:47:55
+2023,2705,Cardiology and Cardiovascular Medicine,5,FO,2025-12-03 12:47:55
+2023,1105,"Ecology, Evolution, Behavior and Systematics",4,FO,2025-12-03 12:47:55
+2023,2405,Parasitology,4,FO,2025-12-03 12:47:55
+2023,2308,"Management, Monitoring, Policy and Law",3,FO,2025-12-03 12:47:55
+2023,2725,Infectious Diseases,3,FO,2025-12-03 12:47:55
+2023,2204,Biomedical Engineering,2,FO,2025-12-03 12:47:55
+2023,2215,Building and Construction,2,FO,2025-12-03 12:47:55
+2023,2302,Ecological Modeling,2,FO,2025-12-03 12:47:55
+2023,2309,Nature and Landscape Conservation,2,FO,2025-12-03 12:47:55
+2023,2310,Pollution,2,FO,2025-12-03 12:47:55
+2023,2311,Industrial and Manufacturing Engineering,2,FO,2025-12-03 12:47:55
+2023,2312,Water Science and Technology,2,FO,2025-12-03 12:47:55
+2023,2713,Epidemiology,2,FO,2025-12-03 12:47:55
+2023,2742,Rehabilitation,2,FO,2025-12-03 12:47:55
+2023,2746,Surgery,2,FO,2025-12-03 12:47:55
+2023,1109,Insect Science,1,FO,2025-12-03 12:47:55
+2023,1307,Cell Biology,1,FO,2025-12-03 12:47:55
+2023,1308,Clinical Biochemistry,1,FO,2025-12-03 12:47:55
+2023,1702,Artificial Intelligence,1,FO,2025-12-03 12:47:55
+2023,1904,Earth-Surface Processes,1,FO,2025-12-03 12:47:55
+2023,2000,"General Economics, Econometrics and Finance",1,FO,2025-12-03 12:47:55
+2023,2202,Aerospace Engineering,1,FO,2025-12-03 12:47:55
+2023,2403,Immunology,1,FO,2025-12-03 12:47:55
+2023,2712,"Endocrinology, Diabetes and Metabolism",1,FO,2025-12-03 12:47:55
+2023,2728,Neurology,1,FO,2025-12-03 12:47:55
+2023,2729,Obstetrics and Gynecology,1,FO,2025-12-03 12:47:55
+2023,2735,"Pediatrics, Perinatology and Child Health",1,FO,2025-12-03 12:47:55
+2023,2805,Cognitive Neuroscience,1,FO,2025-12-03 12:47:55
+2023,2916,Nutrition and Dietetics,1,FO,2025-12-03 12:47:55
+2023,3103,Astronomy and Astrophysics,1,FO,2025-12-03 12:47:55
+2023,3305,"Geography, Planning and Development",1,FO,2025-12-03 12:47:55
+2023,3312,Sociology and Political Science,1,FO,2025-12-03 12:47:55
+2023,3404,Small Animals,1,FO,2025-12-03 12:47:55
+2023,3609,Occupational Therapy,1,FO,2025-12-03 12:47:55
+2024,2303,Ecology,21,FO,2025-12-03 12:47:55
+2024,2732,Orthopedics and Sports Medicine,17,FO,2025-12-03 12:47:55
+2024,2307,"Health, Toxicology and Mutagenesis",15,FO,2025-12-03 12:47:55
+2024,2306,Global and Planetary Change,9,FO,2025-12-03 12:47:55
+2024,1311,Genetics,8,FO,2025-12-03 12:47:55
+2024,2309,Nature and Landscape Conservation,8,FO,2025-12-03 12:47:55
+2024,1312,Molecular Biology,6,FO,2025-12-03 12:47:55
+2024,1902,Atmospheric Science,6,FO,2025-12-03 12:47:55
+2024,1104,Aquatic Science,5,FO,2025-12-03 12:47:55
+2024,2304,Environmental Chemistry,5,FO,2025-12-03 12:47:55
+2024,2707,Complementary and alternative medicine,5,FO,2025-12-03 12:47:55
+2024,1307,Cell Biology,4,FO,2025-12-03 12:47:55
+2024,1910,Oceanography,4,FO,2025-12-03 12:47:55
+2024,2204,Biomedical Engineering,4,FO,2025-12-03 12:47:55
+2024,2302,Ecological Modeling,4,FO,2025-12-03 12:47:55
+2024,3600,General Health Professions,4,FO,2025-12-03 12:47:55
+2024,2713,Epidemiology,3,FO,2025-12-03 12:47:55
+2024,2737,Physiology,3,FO,2025-12-03 12:47:55
+2024,1908,Geophysics,2,FO,2025-12-03 12:47:55
+2024,2310,Pollution,2,FO,2025-12-03 12:47:55
+2024,2705,Cardiology and Cardiovascular Medicine,2,FO,2025-12-03 12:47:55
+2024,2739,"Public Health, Environmental and Occupational Health",2,FO,2025-12-03 12:47:55
+2024,2746,Surgery,2,FO,2025-12-03 12:47:55
+2024,3609,Occupational Therapy,2,FO,2025-12-03 12:47:55
+2024,1103,Animal Science and Zoology,1,FO,2025-12-03 12:47:55
+2024,1306,Cancer Research,1,FO,2025-12-03 12:47:55
+2024,1702,Artificial Intelligence,1,FO,2025-12-03 12:47:55
+2024,1711,Signal Processing,1,FO,2025-12-03 12:47:55
+2024,1803,Management Science and Operations Research,1,FO,2025-12-03 12:47:55
+2024,2002,Economics and Econometrics,1,FO,2025-12-03 12:47:55
+2024,2311,Industrial and Manufacturing Engineering,1,FO,2025-12-03 12:47:55
+2024,2312,Water Science and Technology,1,FO,2025-12-03 12:47:55
+2024,2712,"Endocrinology, Diabetes and Metabolism",1,FO,2025-12-03 12:47:55
+2024,2734,Pathology and Forensic Medicine,1,FO,2025-12-03 12:47:55
+2024,2742,Rehabilitation,1,FO,2025-12-03 12:47:55
+2024,2745,Rheumatology,1,FO,2025-12-03 12:47:55
+2024,2807,Endocrine and Autonomic Systems,1,FO,2025-12-03 12:47:55
+2024,3612,"Physical Therapy, Sports Therapy and Rehabilitation",1,FO,2025-12-03 12:47:55
+2025,2303,Ecology,16,FO,2025-12-03 12:47:55
+2025,1311,Genetics,15,FO,2025-12-03 12:47:55
+2025,2306,Global and Planetary Change,11,FO,2025-12-03 12:47:55
+2025,1312,Molecular Biology,10,FO,2025-12-03 12:47:55
+2025,2732,Orthopedics and Sports Medicine,10,FO,2025-12-03 12:47:55
+2025,2309,Nature and Landscape Conservation,9,FO,2025-12-03 12:47:55
+2025,1910,Oceanography,7,FO,2025-12-03 12:47:55
+2025,2737,Physiology,5,FO,2025-12-03 12:47:55
+2025,2307,"Health, Toxicology and Mutagenesis",4,FO,2025-12-03 12:47:55
+2025,1902,Atmospheric Science,3,FO,2025-12-03 12:47:55
+2025,2707,Complementary and alternative medicine,3,FO,2025-12-03 12:47:55
+2025,2713,Epidemiology,3,FO,2025-12-03 12:47:55
+2025,3600,General Health Professions,3,FO,2025-12-03 12:47:55
+2025,1105,"Ecology, Evolution, Behavior and Systematics",2,FO,2025-12-03 12:47:55
+2025,1307,Cell Biology,2,FO,2025-12-03 12:47:55
+2025,2212,Ocean Engineering,2,FO,2025-12-03 12:47:55
+2025,2304,Environmental Chemistry,2,FO,2025-12-03 12:47:55
+2025,2308,"Management, Monitoring, Policy and Law",2,FO,2025-12-03 12:47:55
+2025,2734,Pathology and Forensic Medicine,2,FO,2025-12-03 12:47:55
+2025,2735,"Pediatrics, Perinatology and Child Health",2,FO,2025-12-03 12:47:55
+2025,2742,Rehabilitation,2,FO,2025-12-03 12:47:55
+2025,2746,Surgery,2,FO,2025-12-03 12:47:55
+2025,3204,Developmental and Educational Psychology,2,FO,2025-12-03 12:47:55
+2025,1103,Animal Science and Zoology,1,FO,2025-12-03 12:47:55
+2025,1109,Insect Science,1,FO,2025-12-03 12:47:55
+2025,1110,Plant Science,1,FO,2025-12-03 12:47:55
+2025,1306,Cancer Research,1,FO,2025-12-03 12:47:55
+2025,1309,Developmental Biology,1,FO,2025-12-03 12:47:55
+2025,1907,Geology,1,FO,2025-12-03 12:47:55
+2025,1908,Geophysics,1,FO,2025-12-03 12:47:55
+2025,1911,Paleontology,1,FO,2025-12-03 12:47:55
+2025,2002,Economics and Econometrics,1,FO,2025-12-03 12:47:55
+2025,2202,Aerospace Engineering,1,FO,2025-12-03 12:47:55
+2025,2204,Biomedical Engineering,1,FO,2025-12-03 12:47:55
+2025,2205,Civil and Structural Engineering,1,FO,2025-12-03 12:47:55
+2025,2302,Ecological Modeling,1,FO,2025-12-03 12:47:55
+2025,2305,Environmental Engineering,1,FO,2025-12-03 12:47:55
+2025,2403,Immunology,1,FO,2025-12-03 12:47:55
+2025,2405,Parasitology,1,FO,2025-12-03 12:47:55
+2025,2705,Cardiology and Cardiovascular Medicine,1,FO,2025-12-03 12:47:55
+2025,2712,"Endocrinology, Diabetes and Metabolism",1,FO,2025-12-03 12:47:55
+2025,2721,Hepatology,1,FO,2025-12-03 12:47:55
+2025,2725,Infectious Diseases,1,FO,2025-12-03 12:47:55
+2025,2738,Psychiatry and Mental health,1,FO,2025-12-03 12:47:55
+2025,2739,"Public Health, Environmental and Occupational Health",1,FO,2025-12-03 12:47:55
+2025,2740,Pulmonary and Respiratory Medicine,1,FO,2025-12-03 12:47:55
+2025,2803,Biological Psychiatry,1,FO,2025-12-03 12:47:55
+2025,3203,Clinical Psychology,1,FO,2025-12-03 12:47:55
+2025,3603,Complementary and Manual Therapy,1,FO,2025-12-03 12:47:55

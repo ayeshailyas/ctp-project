@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-2505,Materials Chemistry,Recent developments in emerging two-dimensional materials and their applications,https://doi.org/10.1039/c9tc04187g,2019,802,https://openalex.org/W2991619303
-2505,Materials Chemistry,Electronic Properties of Bulk and Monolayer TMDs: Theoretical Study Within DFT Framework (GVJ‐2e Method),https://doi.org/10.1002/pssa.201700218,2017,426,https://openalex.org/W2757160197
-2505,Materials Chemistry,Molecules with a sense of logic: a progress report,https://doi.org/10.1039/c4cs00342j,2014,419,https://openalex.org/W2023630598
+2505,Materials Chemistry,Recent developments in emerging two-dimensional materials and their applications,https://doi.org/10.1039/c9tc04187g,2019,812,https://openalex.org/W2991619303
+2505,Materials Chemistry,Electronic Properties of Bulk and Monolayer TMDs: Theoretical Study Within DFT Framework (GVJ‐2e Method),https://doi.org/10.1002/pssa.201700218,2017,428,https://openalex.org/W2757160197
+2505,Materials Chemistry,Molecules with a sense of logic: a progress report,https://doi.org/10.1039/c4cs00342j,2014,420,https://openalex.org/W2023630598
+2505,Materials Chemistry,Rational design of two-dimensional nanomaterials for lithium–sulfur batteries,https://doi.org/10.1039/c9ee02049g,2019,378,https://openalex.org/W2991020032
+2505,Materials Chemistry,"Antibacterial Nanomaterials: Mechanisms, Impacts on Antimicrobial Resistance and Design Principles",https://doi.org/10.1002/anie.202217345,2023,374,https://openalex.org/W4318592281
+2505,Materials Chemistry,Triazole and thiazole derivatives as corrosion inhibitors for AA2024 aluminium alloy,https://doi.org/10.1016/j.corsci.2005.05.040,2005,374,https://openalex.org/W2013473960
+2505,Materials Chemistry,Polarization origin and iron positions in indium doped barium hexaferrites,https://doi.org/10.1016/j.ceramint.2017.09.172,2017,347,https://openalex.org/W2759866403
+2505,Materials Chemistry,Nanoporous titania interlayer as reservoir of corrosion inhibitors for coatings with self-healing ability,https://doi.org/10.1016/j.porgcoat.2006.08.029,2006,302,https://openalex.org/W2073450771
+2505,Materials Chemistry,Tannic acid-based metal phenolic networks for bio-applications: a review,https://doi.org/10.1039/d1tb00383f,2021,296,https://openalex.org/W3154117322
+2505,Materials Chemistry,Recent advances in two-dimensional materials and their nanocomposites in sustainable energy conversion applications,https://doi.org/10.1039/c9nr05919a,2019,274,https://openalex.org/W2983142983
 2208,Electrical and Electronic Engineering,Nonlinear Fiber Optics,https://doi.org/10.1016/b978-0-12-369516-1.x5000-6,2006,2078,https://openalex.org/W4237970860
-2208,Electrical and Electronic Engineering,Recent developments in emerging two-dimensional materials and their applications,https://doi.org/10.1039/c9tc04187g,2019,802,https://openalex.org/W2991619303
+2208,Electrical and Electronic Engineering,Recent developments in emerging two-dimensional materials and their applications,https://doi.org/10.1039/c9tc04187g,2019,812,https://openalex.org/W2991619303
 2208,Electrical and Electronic Engineering,Active magneto-plasmonics in hybrid metal–ferromagnet structures,https://doi.org/10.1038/nphoton.2009.265,2010,481,https://openalex.org/W2074811577
+2208,Electrical and Electronic Engineering,The 2022 Plasma Roadmap: low temperature plasma science and technology,https://doi.org/10.1088/1361-6463/ac5e1c,2022,430,https://openalex.org/W4283816760
+2208,Electrical and Electronic Engineering,Introduction to Nanophotonics,https://doi.org/10.1017/cbo9780511750502,2010,383,https://openalex.org/W3015586612
+2208,Electrical and Electronic Engineering,Rational design of two-dimensional nanomaterials for lithium–sulfur batteries,https://doi.org/10.1039/c9ee02049g,2019,378,https://openalex.org/W2991020032
+2208,Electrical and Electronic Engineering,Advances in nanostructures fabricated<i>via</i>spray pyrolysis and their applications in energy storage and conversion,https://doi.org/10.1039/c8cs00904j,2019,369,https://openalex.org/W2945424693
+2208,Electrical and Electronic Engineering,Monolithic lithium niobate photonic circuits for Kerr frequency comb generation and modulation,https://doi.org/10.1038/s41467-019-08969-6,2019,344,https://openalex.org/W2891657045
+2208,Electrical and Electronic Engineering,Evaluation of the Efficiency of Detection and Capture of Manganese in Aqueous Solutions of FeCeOx Nanocomposites Doped with Nb2O5,https://doi.org/10.3390/s20174851,2020,307,https://openalex.org/W3082108234
+2208,Electrical and Electronic Engineering,Recent advances in two-dimensional materials and their nanocomposites in sustainable energy conversion applications,https://doi.org/10.1039/c9nr05919a,2019,274,https://openalex.org/W2983142983
 2210,Mechanical Engineering,Evaluation of the Efficiency of Detection and Capture of Manganese in Aqueous Solutions of FeCeOx Nanocomposites Doped with Nb2O5,https://doi.org/10.3390/s20174851,2020,307,https://openalex.org/W3082108234
 2210,Mechanical Engineering,Enhanced pyroelectric and piezoelectric properties of PZT with aligned porosity for energy harvesting applications,https://doi.org/10.1039/c7ta00967d,2017,239,https://openalex.org/W2594242811
 2210,Mechanical Engineering,Micro and miniature heat pipes – Electronic component coolers,https://doi.org/10.1016/j.applthermaleng.2006.02.023,2006,222,https://openalex.org/W1984642224
+2210,Mechanical Engineering,"Flexible and active self-powered pressure, shear sensors based on freeze casting ceramic–polymer composites",https://doi.org/10.1039/c8ee01551a,2018,180,https://openalex.org/W2819144043
+2210,Mechanical Engineering,Adhesion and surface forces in polymer tribology—A review,https://doi.org/10.1007/s40544-018-0203-0,2018,163,https://openalex.org/W2793021867
+2210,Mechanical Engineering,Loop heat pipe for cooling of high-power electronic components,https://doi.org/10.1016/j.ijheatmasstransfer.2008.06.016,2008,148,https://openalex.org/W2043322285
+2210,Mechanical Engineering,Magnetic anisotropy of the graphite nanoplatelet–epoxy and MWCNT–epoxy composites with aligned barium ferrite filler,https://doi.org/10.1007/s10853-017-0776-4,2017,139,https://openalex.org/W2582466054
+2210,Mechanical Engineering,Free-Convective Heat Transfer,https://doi.org/10.1007/3-540-28498-2,2005,136,https://openalex.org/W4236041876
+2210,Mechanical Engineering,Electrophysical properties of epoxy-based composites with graphite nanoplatelets and magnetically aligned magnetite,https://doi.org/10.1080/15421406.2018.1460243,2018,131,https://openalex.org/W2803584876
+2210,Mechanical Engineering,Improved mechanical properties and microstructural development of microwave sintered copper and nickel steel PM parts,https://doi.org/10.1179/003258905x37657,2005,129,https://openalex.org/W1963630175
 3107,"Atomic and Molecular Physics, and Optics",Nonlinear Fiber Optics,https://doi.org/10.1016/b978-0-12-369516-1.x5000-6,2006,2078,https://openalex.org/W4237970860
-3107,"Atomic and Molecular Physics, and Optics",RIPL – Reference Input Parameter Library for Calculation of Nuclear Reactions and Nuclear Data Evaluations,https://doi.org/10.1016/j.nds.2009.10.004,2009,1331,https://openalex.org/W2066217039
-3107,"Atomic and Molecular Physics, and Optics",Atomic force microscopy probing of cell elasticity,https://doi.org/10.1016/j.micron.2007.06.011,2007,767,https://openalex.org/W1971030181
-2204,Biomedical Engineering,Ultrasound Elastography: Review of Techniques and Clinical Applications,https://doi.org/10.7150/thno.18650,2017,1666,https://openalex.org/W2595709438
-2204,Biomedical Engineering,Bioethanol Production from Renewable Raw Materials and its Separation and Purification: a Review,https://doi.org/10.17113/ftb.56.03.18.5546,2018,561,https://openalex.org/W2805201537
-2204,Biomedical Engineering,Experimental Vapor Pressures of 1-Alkyl-3-methylimidazolium Bis(trifluoromethylsulfonyl)imides and a Correlation Scheme for Estimation of Vaporization Enthalpies of Ionic Liquids,https://doi.org/10.1021/jp060896f,2006,553,https://openalex.org/W2009619152
-1312,Molecular Biology,Association analysis identifies 65 new breast cancer risk loci,https://doi.org/10.1038/nature24284,2017,1519,https://openalex.org/W2765253743
-1312,Molecular Biology,Polygenic Risk Scores for Prediction of Breast Cancer and Breast Cancer Subtypes,https://doi.org/10.1016/j.ajhg.2018.11.002,2018,1070,https://openalex.org/W2901952863
-1312,Molecular Biology,Mechanisms of oxidative stress in plants: From classical chemistry to cell biology,https://doi.org/10.1016/j.envexpbot.2014.06.021,2014,901,https://openalex.org/W2084295877
-2211,Mechanics of Materials,The 2022 Plasma Roadmap: low temperature plasma science and technology,https://doi.org/10.1088/1361-6463/ac5e1c,2022,427,https://openalex.org/W4283816760
+3107,"Atomic and Molecular Physics, and Optics",RIPL – Reference Input Parameter Library for Calculation of Nuclear Reactions and Nuclear Data Evaluations,https://doi.org/10.1016/j.nds.2009.10.004,2009,1335,https://openalex.org/W2066217039
+3107,"Atomic and Molecular Physics, and Optics",Atomic force microscopy probing of cell elasticity,https://doi.org/10.1016/j.micron.2007.06.011,2007,766,https://openalex.org/W1971030181
+3107,"Atomic and Molecular Physics, and Optics",Introduction to Nanophotonics,https://doi.org/10.1017/cbo9780511750502,2010,383,https://openalex.org/W3015586612
+3107,"Atomic and Molecular Physics, and Optics",Monolithic lithium niobate photonic circuits for Kerr frequency comb generation and modulation,https://doi.org/10.1038/s41467-019-08969-6,2019,344,https://openalex.org/W2891657045
+3107,"Atomic and Molecular Physics, and Optics",Exciton-Plasmon-Photon Conversion in Plasmonic Nanostructures,https://doi.org/10.1103/physrevlett.99.136802,2007,315,https://openalex.org/W1981608542
+3107,"Atomic and Molecular Physics, and Optics",Solitary wave solutions of the short pulse equation,https://doi.org/10.1088/0305-4470/39/22/l03,2006,281,https://openalex.org/W2139412508
+3107,"Atomic and Molecular Physics, and Optics",Physics of Fast Processes in Scintillators,https://doi.org/10.1007/978-3-030-21966-6,2020,250,https://openalex.org/W3011117110
+3107,"Atomic and Molecular Physics, and Optics",Theory of optical scattering by achiral carbon nanotubes and their potential as optical nanoantennas,https://doi.org/10.1103/physrevb.73.195416,2006,190,https://openalex.org/W2069053436
+3107,"Atomic and Molecular Physics, and Optics",Generating superpositions of higher–order Bessel beams,https://doi.org/10.1364/oe.17.023389,2009,180,https://openalex.org/W2106022448
+2204,Biomedical Engineering,Ultrasound Elastography: Review of Techniques and Clinical Applications,https://doi.org/10.7150/thno.18650,2017,1677,https://openalex.org/W2595709438
+2204,Biomedical Engineering,Bioethanol Production from Renewable Raw Materials and its Separation and Purification: a Review,https://doi.org/10.17113/ftb.56.03.18.5546,2018,564,https://openalex.org/W2805201537
+2204,Biomedical Engineering,Experimental Vapor Pressures of 1-Alkyl-3-methylimidazolium Bis(trifluoromethylsulfonyl)imides and a Correlation Scheme for Estimation of Vaporization Enthalpies of Ionic Liquids,https://doi.org/10.1021/jp060896f,2006,554,https://openalex.org/W2009619152
+2204,Biomedical Engineering,Active magneto-plasmonics in hybrid metal–ferromagnet structures,https://doi.org/10.1038/nphoton.2009.265,2010,481,https://openalex.org/W2074811577
+2204,Biomedical Engineering,A novel route in bone tissue engineering: Magnetic biomimetic scaffolds,https://doi.org/10.1016/j.actbio.2009.09.017,2009,369,https://openalex.org/W2055246086
+2204,Biomedical Engineering,Plasmonic Nanobubbles as Transient Vapor Nanobubbles Generated around Plasmonic Nanoparticles,https://doi.org/10.1021/nn1000222,2010,368,https://openalex.org/W2088050949
+2204,Biomedical Engineering,Noninvasive Coronary Angiography with 64-Section CT: Effect of Average Heart Rate and Heart Rate Variability on Image Quality,https://doi.org/10.1148/radiol.2412051384,2006,322,https://openalex.org/W2040774967
+2204,Biomedical Engineering,Exciton-Plasmon-Photon Conversion in Plasmonic Nanostructures,https://doi.org/10.1103/physrevlett.99.136802,2007,315,https://openalex.org/W1981608542
+2204,Biomedical Engineering,Tannic acid-based metal phenolic networks for bio-applications: a review,https://doi.org/10.1039/d1tb00383f,2021,296,https://openalex.org/W3154117322
+2204,Biomedical Engineering,Bianisotropic metasurfaces: physics and applications,https://doi.org/10.1515/nanoph-2017-0132,2018,250,https://openalex.org/W2808295928
+1312,Molecular Biology,Association analysis identifies 65 new breast cancer risk loci,https://doi.org/10.1038/nature24284,2017,1524,https://openalex.org/W2765253743
+1312,Molecular Biology,Polygenic Risk Scores for Prediction of Breast Cancer and Breast Cancer Subtypes,https://doi.org/10.1016/j.ajhg.2018.11.002,2018,1078,https://openalex.org/W2901952863
+1312,Molecular Biology,Mechanisms of oxidative stress in plants: From classical chemistry to cell biology,https://doi.org/10.1016/j.envexpbot.2014.06.021,2014,903,https://openalex.org/W2084295877
+1312,Molecular Biology,Stress-induced electrolyte leakage: the role of K+-permeable channels and involvement in programmed cell death and metabolic adjustment,https://doi.org/10.1093/jxb/eru004,2014,739,https://openalex.org/W2128211003
+1312,Molecular Biology,The MLL recombinome of acute leukemias in 2017,https://doi.org/10.1038/leu.2017.213,2017,664,https://openalex.org/W2916162780
+1312,Molecular Biology,MicroRNA Related Polymorphisms and Breast Cancer Risk,https://doi.org/10.1371/journal.pone.0109973,2014,637,https://openalex.org/W2063408296
+1312,Molecular Biology,Bioethanol Production from Renewable Raw Materials and its Separation and Purification: a Review,https://doi.org/10.17113/ftb.56.03.18.5546,2018,564,https://openalex.org/W2805201537
+1312,Molecular Biology,Genome-wide association study identifies 32 novel breast cancer susceptibility loci from overall and subtype-specific analyses,https://doi.org/10.1038/s41588-020-0609-2,2020,525,https://openalex.org/W3024294833
+1312,Molecular Biology,Identification of 12 new susceptibility loci for different histotypes of epithelial ovarian cancer,https://doi.org/10.1038/ng.3826,2017,523,https://openalex.org/W2601822003
+1312,Molecular Biology,The MLL recombinome of acute leukemias in 2013,https://doi.org/10.1038/leu.2013.135,2013,505,https://openalex.org/W2101782876
+2211,Mechanics of Materials,The 2022 Plasma Roadmap: low temperature plasma science and technology,https://doi.org/10.1088/1361-6463/ac5e1c,2022,430,https://openalex.org/W4283816760
 2211,Mechanics of Materials,Optical excitation and detection of vapor bubbles around plasmonic nanoparticles,https://doi.org/10.1364/oe.17.002538,2009,229,https://openalex.org/W2030390857
 2211,Mechanics of Materials,Preoperative assessment of meningioma stiffness using magnetic resonance elastography,https://doi.org/10.3171/2012.9.jns12519,2012,175,https://openalex.org/W1900769294
+2211,Mechanics of Materials,Adhesion and surface forces in polymer tribology—A review,https://doi.org/10.1007/s40544-018-0203-0,2018,163,https://openalex.org/W2793021867
+2211,Mechanics of Materials,Laser-Controllable Coatings for Corrosion Protection,https://doi.org/10.1021/nn900347x,2009,157,https://openalex.org/W2062411554
+2211,Mechanics of Materials,Synthesis of nanosized particles during laser ablation of gold in water,https://doi.org/10.1016/j.apsusc.2005.07.150,2005,137,https://openalex.org/W2157802988
+2211,Mechanics of Materials,Resonant magnetoelectric coupling in trilayers of ferromagnetic alloys and piezoelectric lead zirconate titanate: The influence of bias magnetic field,https://doi.org/10.1103/physrevb.71.184423,2005,121,https://openalex.org/W2056254814
+2211,Mechanics of Materials,The Effect of Heat Treatment on the Microstructure and Mechanical Properties of 2D Nanostructured Au/NiFe System,https://doi.org/10.3390/nano10061077,2020,113,https://openalex.org/W3032599213
+2211,Mechanics of Materials,Detonation onset following shock wave focusing,https://doi.org/10.1016/j.actaastro.2016.09.014,2016,99,https://openalex.org/W2538850428
+2211,Mechanics of Materials,Surface alloying of stainless steel 316 with copper using pulsed electron-beam melting of film–substrate system,https://doi.org/10.1016/j.surfcoat.2005.11.007,2005,98,https://openalex.org/W1971637089
 1605,Organic Chemistry,Vapor pressure and thermal stability of ionic liquid 1-butyl-3-methylimidazolium Bis(trifluoromethylsulfonyl)amide,https://doi.org/10.1016/j.tca.2005.08.035,2005,247,https://openalex.org/W2095357548
 1605,Organic Chemistry,Metal derivatives of tetrazoles,https://doi.org/10.1070/rc2006v075n06abeh003601,2006,192,https://openalex.org/W2018599637
 1605,Organic Chemistry,Macroheterocyclic Compounds - a Key Building Block in New Functional Materials and Molecular Devices,https://doi.org/10.6060/mhc200814k,2020,163,https://openalex.org/W3119685262
+1605,Organic Chemistry,Enhanced adsorption and reduction performance of nitrate by Fe–Pd–Fe3O4 embedded multi-walled carbon nanotubes,https://doi.org/10.1016/j.chemosphere.2021.130718,2021,162,https://openalex.org/W3161012766
+1605,Organic Chemistry,Thermodynamic Properties of [C<sub>6</sub>mim][NTf<sub>2</sub>] in the Condensed State,https://doi.org/10.1021/je060094d,2006,159,https://openalex.org/W2318854692
+1605,Organic Chemistry,"Metallacyclopentadienes: synthesis, structure and reactivity",https://doi.org/10.1039/c6cs00525j,2017,157,https://openalex.org/W2580714394
+1605,Organic Chemistry,Improved mechanical properties and microstructural development of microwave sintered copper and nickel steel PM parts,https://doi.org/10.1179/003258905x37657,2005,129,https://openalex.org/W1963630175
+1605,Organic Chemistry,Dendrimers and hyperbranched structures for biomedical applications,https://doi.org/10.1016/j.eurpolymj.2019.07.013,2019,128,https://openalex.org/W2962011273
+1605,Organic Chemistry,"Physicochemical Properties, Structure, and Conformations of 1-Butyl-3-methylimidazolium Bis(trifluoromethanesulfonyl)imide [C<sub>4</sub>mim]NTf<sub>2</sub> Ionic Liquid",https://doi.org/10.1021/jp710872s,2008,127,https://openalex.org/W2081728986
+1605,Organic Chemistry,Carbodiimide-based synthesis of N-heterocycles: moving from two classical reactive sites to chemical bond breaking/forming reaction,https://doi.org/10.1039/c9cs00478e,2020,124,https://openalex.org/W3041573490
 2504,"Electronic, Optical and Magnetic Materials",Perfect control of reflection and refraction using spatially dispersive metasurfaces,https://doi.org/10.1103/physrevb.94.075142,2016,535,https://openalex.org/W2384823607
 2504,"Electronic, Optical and Magnetic Materials",Active magneto-plasmonics in hybrid metal–ferromagnet structures,https://doi.org/10.1038/nphoton.2009.265,2010,481,https://openalex.org/W2074811577
+2504,"Electronic, Optical and Magnetic Materials",Advances in nanostructures fabricated<i>via</i>spray pyrolysis and their applications in energy storage and conversion,https://doi.org/10.1039/c8cs00904j,2019,369,https://openalex.org/W2945424693
 2504,"Electronic, Optical and Magnetic Materials",Plasmonic Nanobubbles as Transient Vapor Nanobubbles Generated around Plasmonic Nanoparticles,https://doi.org/10.1021/nn1000222,2010,368,https://openalex.org/W2088050949
+2504,"Electronic, Optical and Magnetic Materials",Polarization origin and iron positions in indium doped barium hexaferrites,https://doi.org/10.1016/j.ceramint.2017.09.172,2017,347,https://openalex.org/W2759866403
+2504,"Electronic, Optical and Magnetic Materials",Exciton-Plasmon-Photon Conversion in Plasmonic Nanostructures,https://doi.org/10.1103/physrevlett.99.136802,2007,315,https://openalex.org/W1981608542
+2504,"Electronic, Optical and Magnetic Materials",Bianisotropic metasurfaces: physics and applications,https://doi.org/10.1515/nanoph-2017-0132,2018,250,https://openalex.org/W2808295928
+2504,"Electronic, Optical and Magnetic Materials",Optical excitation and detection of vapor bubbles around plasmonic nanoparticles,https://doi.org/10.1364/oe.17.002538,2009,229,https://openalex.org/W2030390857
+2504,"Electronic, Optical and Magnetic Materials",Investigation of AC-Measurements of Epoxy/Ferrite Composites,https://doi.org/10.3390/nano10030492,2020,189,https://openalex.org/W3009669017
+2504,"Electronic, Optical and Magnetic Materials",Broadband Reflectionless Metasheets: Frequency-Selective Transmission and Perfect Absorption,https://doi.org/10.1103/physrevx.5.031005,2015,188,https://openalex.org/W1537339421
 2206,Computational Mechanics,Three-dimensional micromachining of glass using femtosecond laser for lab-on-a-chip device manufacture,https://doi.org/10.1007/s00339-005-3225-1,2005,192,https://openalex.org/W2048640151
-2206,Computational Mechanics,Loop heat pipe for cooling of high-power electronic components,https://doi.org/10.1016/j.ijheatmasstransfer.2008.06.016,2008,147,https://openalex.org/W2043322285
+2206,Computational Mechanics,Loop heat pipe for cooling of high-power electronic components,https://doi.org/10.1016/j.ijheatmasstransfer.2008.06.016,2008,148,https://openalex.org/W2043322285
 2206,Computational Mechanics,On-line temperature monitoring in selective laser sintering/melting,https://doi.org/10.1016/j.phpro.2010.08.079,2010,122,https://openalex.org/W2034567503
+2206,Computational Mechanics,Onset of detonation in hydrogen-air mixtures due to shock wave reflection inside a combustion chamber,https://doi.org/10.1016/j.actaastro.2018.05.024,2018,115,https://openalex.org/W2803256556
+2206,Computational Mechanics,Nano-aquarium for dynamic observation of living cells fabricated by femtosecond laser direct writing of photostructurable glass,https://doi.org/10.1007/s10544-007-9149-0,2007,112,https://openalex.org/W1989883432
+2206,Computational Mechanics,Detonation onset following shock wave focusing,https://doi.org/10.1016/j.actaastro.2016.09.014,2016,99,https://openalex.org/W2538850428
+2206,Computational Mechanics,Surface alloying of stainless steel 316 with copper using pulsed electron-beam melting of film–substrate system,https://doi.org/10.1016/j.surfcoat.2005.11.007,2005,98,https://openalex.org/W1971637089
+2206,Computational Mechanics,On relaxed constant rank regularity condition in mathematical programming,https://doi.org/10.1080/02331930902971377,2011,92,https://openalex.org/W2086194488
+2206,Computational Mechanics,Ultrafast laser inscribed Yb:KGd(WO_4)_2 and Yb:KY(WO_4)_2 channel waveguide lasers,https://doi.org/10.1364/oe.17.022417,2009,89,https://openalex.org/W2084716301
+2206,Computational Mechanics,High energy ion beam irradiation of polymers for electronic applications,https://doi.org/10.1016/j.nimb.2005.03.243,2005,73,https://openalex.org/W2007025173

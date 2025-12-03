@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-2303,Ecology,Beaked Whales Respond to Simulated and Actual Navy Sonar,https://doi.org/10.1371/journal.pone.0017009,2011,335,https://openalex.org/W1968217553
-2303,Ecology,Global status and conservation potential of reef sharks,https://doi.org/10.1038/s41586-020-2519-y,2020,287,https://openalex.org/W3044165755
-2303,Ecology,Developing a deeper understanding of animal movements and spatial dynamics through novel application of network analyses,https://doi.org/10.1111/j.2041-210x.2012.00187.x,2012,169,https://openalex.org/W2103555331
-3312,Sociology and Political Science,"Standards of Care for the Health of Transgender and Gender Diverse People, Version 8",https://doi.org/10.1080/26895269.2022.2100644,2022,2076,https://openalex.org/W4294732694
-3312,Sociology and Political Science,The human imperative of stabilizing global climate change at 1.5°C,https://doi.org/10.1126/science.aaw6974,2019,907,https://openalex.org/W2974545260
-3312,Sociology and Political Science,A systematic global stocktake of evidence on human adaptation to climate change,https://doi.org/10.1038/s41558-021-01170-y,2021,514,https://openalex.org/W3210895846
-2309,Nature and Landscape Conservation,What's the ‘buzz’ about? The ecology and evolutionary significance of buzz-pollination,https://doi.org/10.1016/j.pbi.2013.05.002,2013,380,https://openalex.org/W1985041956
-2309,Nature and Landscape Conservation,Global spatial risk assessment of sharks under the footprint of fisheries,https://doi.org/10.1038/s41586-019-1444-4,2019,368,https://openalex.org/W2962981403
-2309,Nature and Landscape Conservation,Global status and conservation potential of reef sharks,https://doi.org/10.1038/s41586-020-2519-y,2020,287,https://openalex.org/W3044165755
-2306,Global and Planetary Change,The human imperative of stabilizing global climate change at 1.5°C,https://doi.org/10.1126/science.aaw6974,2019,907,https://openalex.org/W2974545260
-2306,Global and Planetary Change,A systematic global stocktake of evidence on human adaptation to climate change,https://doi.org/10.1038/s41558-021-01170-y,2021,514,https://openalex.org/W3210895846
-2306,Global and Planetary Change,Global spatial risk assessment of sharks under the footprint of fisheries,https://doi.org/10.1038/s41586-019-1444-4,2019,368,https://openalex.org/W2962981403
-3316,Cultural Studies,Push and Pull Factors of Migration,https://doi.org/10.38024/arpe.119,2010,132,https://openalex.org/W3197353415
+2303,Ecology,Beaked Whales Respond to Simulated and Actual Navy Sonar,https://doi.org/10.1371/journal.pone.0017009,2011,336,https://openalex.org/W1968217553
+2303,Ecology,Global status and conservation potential of reef sharks,https://doi.org/10.1038/s41586-020-2519-y,2020,288,https://openalex.org/W3044165755
+2303,Ecology,Developing a deeper understanding of animal movements and spatial dynamics through novel application of network analyses,https://doi.org/10.1111/j.2041-210x.2012.00187.x,2012,171,https://openalex.org/W2103555331
+2303,Ecology,"Biological effects, conservation potential, and research priorities of shark diving tourism",https://doi.org/10.1016/j.biocon.2015.02.007,2015,157,https://openalex.org/W2111863628
+2303,Ecology,Environmental DNA reveals tropical shark diversity in contrasting levels of anthropogenic impact,https://doi.org/10.1038/s41598-017-17150-2,2017,157,https://openalex.org/W2769372721
+2303,Ecology,"The Functional Value of Caribbean Coral Reef, Seagrass and Mangrove Habitats to Ecosystem Processes",https://doi.org/10.1016/s0065-2881(05)50002-6,2006,149,https://openalex.org/W2102346176
+2303,Ecology,Linking removal targets to the ecological effects of invaders: a predictive model and field test,https://doi.org/10.1890/13-0979.1,2013,147,https://openalex.org/W2149410636
+2303,Ecology,"Physiological disturbance and recovery dynamics of bonefish (Albula vulpes), a tropical marine fish, in response to variable exercise and exposure to air",https://doi.org/10.1016/j.cbpa.2007.08.018,2007,141,https://openalex.org/W2105154633
+2303,Ecology,A global perspective on the trophic geography of sharks,https://doi.org/10.1038/s41559-017-0432-z,2018,127,https://openalex.org/W2782608448
+2303,Ecology,Echolocation behaviour adapted to prey in foraging Blainville's beaked whale (<i>Mesoplodon densirostris</i>),https://doi.org/10.1098/rspb.2007.1190,2007,111,https://openalex.org/W2099334720
+3312,Sociology and Political Science,"Standards of Care for the Health of Transgender and Gender Diverse People, Version 8",https://doi.org/10.1080/26895269.2022.2100644,2022,2095,https://openalex.org/W4294732694
+3312,Sociology and Political Science,The human imperative of stabilizing global climate change at 1.5°C,https://doi.org/10.1126/science.aaw6974,2019,918,https://openalex.org/W2974545260
+3312,Sociology and Political Science,A systematic global stocktake of evidence on human adaptation to climate change,https://doi.org/10.1038/s41558-021-01170-y,2021,526,https://openalex.org/W3210895846
+3312,Sociology and Political Science,Climate Change and Small Island Developing States,https://doi.org/10.1146/annurev-environ-012320-083355,2020,247,https://openalex.org/W3024649417
+3312,Sociology and Political Science,Early evolution of the ossicular chain in Cetacea: into the middle ear gears of a semi-aquatic protocetid whale,https://doi.org/10.6084/m9,2019,192,https://openalex.org/W4288144163
+3312,Sociology and Political Science,Loss and Damage and limits to adaptation: recent IPCC insights and implications for climate science and policy,https://doi.org/10.1007/s11625-020-00807-9,2020,141,https://openalex.org/W3022674365
+3312,Sociology and Political Science,"Double Environmental Injustice — Climate Change, Hurricane Dorian, and the Bahamas",https://doi.org/10.1056/nejmp1912965,2019,140,https://openalex.org/W2996345365
+3312,Sociology and Political Science,Push and Pull Factors of Migration,https://doi.org/10.38024/arpe.119,2010,134,https://openalex.org/W3197353415
+3312,Sociology and Political Science,Global evidence of constraints and limits to human adaptation,https://doi.org/10.1007/s10113-021-01808-9,2021,128,https://openalex.org/W3197989882
+3312,Sociology and Political Science,A hierarchical model of technology adoption for small owner-managed travel firms: An organizational decision-making and leadership perspective,https://doi.org/10.1016/j.tourman.2011.11.011,2011,124,https://openalex.org/W2035764810
+2309,Nature and Landscape Conservation,What's the ‘buzz’ about? The ecology and evolutionary significance of buzz-pollination,https://doi.org/10.1016/j.pbi.2013.05.002,2013,383,https://openalex.org/W1985041956
+2309,Nature and Landscape Conservation,Global spatial risk assessment of sharks under the footprint of fisheries,https://doi.org/10.1038/s41586-019-1444-4,2019,369,https://openalex.org/W2962981403
+2309,Nature and Landscape Conservation,Global status and conservation potential of reef sharks,https://doi.org/10.1038/s41586-020-2519-y,2020,288,https://openalex.org/W3044165755
+2309,Nature and Landscape Conservation,Developing a deeper understanding of animal movements and spatial dynamics through novel application of network analyses,https://doi.org/10.1111/j.2041-210x.2012.00187.x,2012,171,https://openalex.org/W2103555331
+2309,Nature and Landscape Conservation,"Biological effects, conservation potential, and research priorities of shark diving tourism",https://doi.org/10.1016/j.biocon.2015.02.007,2015,157,https://openalex.org/W2111863628
+2309,Nature and Landscape Conservation,"Validating the use of baited remote underwater video surveys for assessing the diversity, distribution and abundance of sharks in the Bahamas",https://doi.org/10.3354/esr00331,2011,145,https://openalex.org/W2097581755
+2309,Nature and Landscape Conservation,Deep danger: intra-specific predation risk influences habitat use and aggregation formation of juvenile lemon sharks Negaprion brevirostris,https://doi.org/10.3354/meps09423,2011,129,https://openalex.org/W2146198571
+2309,Nature and Landscape Conservation,A global perspective on the trophic geography of sharks,https://doi.org/10.1038/s41559-017-0432-z,2018,127,https://openalex.org/W2782608448
+2309,Nature and Landscape Conservation,Long‐term natal site‐fidelity by immature lemon sharks (<i>Negaprion brevirostris</i>) at a subtropical island,https://doi.org/10.1111/j.1365-294x.2009.04289.x,2009,119,https://openalex.org/W2018813160
+2309,Nature and Landscape Conservation,"Effects of large-scale anthropogenic development on juvenile lemon shark (Negaprion brevirostris) populations of Bimini, Bahamas",https://doi.org/10.1007/s10641-008-9357-3,2008,105,https://openalex.org/W2077866865
+2306,Global and Planetary Change,The human imperative of stabilizing global climate change at 1.5°C,https://doi.org/10.1126/science.aaw6974,2019,918,https://openalex.org/W2974545260
+2306,Global and Planetary Change,A systematic global stocktake of evidence on human adaptation to climate change,https://doi.org/10.1038/s41558-021-01170-y,2021,526,https://openalex.org/W3210895846
+2306,Global and Planetary Change,Global spatial risk assessment of sharks under the footprint of fisheries,https://doi.org/10.1038/s41586-019-1444-4,2019,369,https://openalex.org/W2962981403
+2306,Global and Planetary Change,Global status and conservation potential of reef sharks,https://doi.org/10.1038/s41586-020-2519-y,2020,288,https://openalex.org/W3044165755
+2306,Global and Planetary Change,Evaluating the Potential Efficacy of Invasive Lionfish (Pterois volitans) Removals,https://doi.org/10.1371/journal.pone.0019666,2011,188,https://openalex.org/W2012613333
+2306,Global and Planetary Change,"Biological effects, conservation potential, and research priorities of shark diving tourism",https://doi.org/10.1016/j.biocon.2015.02.007,2015,157,https://openalex.org/W2111863628
+2306,Global and Planetary Change,Environmental DNA reveals tropical shark diversity in contrasting levels of anthropogenic impact,https://doi.org/10.1038/s41598-017-17150-2,2017,157,https://openalex.org/W2769372721
+2306,Global and Planetary Change,"The Functional Value of Caribbean Coral Reef, Seagrass and Mangrove Habitats to Ecosystem Processes",https://doi.org/10.1016/s0065-2881(05)50002-6,2006,149,https://openalex.org/W2102346176
+2306,Global and Planetary Change,Linking removal targets to the ecological effects of invaders: a predictive model and field test,https://doi.org/10.1890/13-0979.1,2013,147,https://openalex.org/W2149410636
+2306,Global and Planetary Change,"Validating the use of baited remote underwater video surveys for assessing the diversity, distribution and abundance of sharks in the Bahamas",https://doi.org/10.3354/esr00331,2011,145,https://openalex.org/W2097581755
+3316,Cultural Studies,Push and Pull Factors of Migration,https://doi.org/10.38024/arpe.119,2010,134,https://openalex.org/W3197353415
 3316,Cultural Studies,Jamaican Creole,https://doi.org/10.1017/s002510030600243x,2006,69,https://openalex.org/W4252007532
 3316,Cultural Studies,THE PROPERTIES OF CITIZENS,https://doi.org/10.1017/s1742058x13000209,2013,39,https://openalex.org/W2038510690
+3316,Cultural Studies,"Theater in the Bush: Art, Politics, and Community in the Bahamas",,2007,31,https://openalex.org/W132260520
+3316,Cultural Studies,"Obeah, Orisa, and Religious Identity in Trinidad, Volume II, Orisa",https://doi.org/10.1215/9781478022152,2022,22,https://openalex.org/W4297842155
+3316,Cultural Studies,A Tale of Two Tragedies: Forgetting and Remembering Kingston (1907) and Port-au-Prince (2010),https://doi.org/10.16993/karib.50,2019,20,https://openalex.org/W2972213844
+3316,Cultural Studies,Bahamian English or Bahamian Creole? A Socio-Historical Investigation,https://doi.org/10.15362/ijbs.v8i0.21,2008,20,https://openalex.org/W1992216255
+3316,Cultural Studies,"The Stigma of Being ""Haitian"" in The Bahamas",https://doi.org/10.15362/ijbs.v14i0.97,2008,19,https://openalex.org/W2096246333
+3316,Cultural Studies,"Giving Directions in Spanish Town, Jamaica",https://doi.org/10.1177/0096144209336514,2009,16,https://openalex.org/W2051293620
+3316,Cultural Studies,The Resort to Emergency Policing to Control Gang Violence in Jamaica: Making the Exception the Rule,https://doi.org/10.1017/s0022216x24000075,2024,13,https://openalex.org/W4392812356
 3304,Education,A pilot study of the Incredible Years Teacher Training programme and a curriculum unit on social and emotional skills in community pre‐schools in Jamaica,https://doi.org/10.1111/j.1365-2214.2009.00964.x,2009,115,https://openalex.org/W2153013351
-3304,Education,Graduate Employability of Business Students,https://doi.org/10.3390/admsci12030072,2022,67,https://openalex.org/W4283331498
-3304,Education,Transforming the Classroom at Traditionally White Institutions to Make Black Lives Matter,https://doi.org/10.1002/tia2.20071,2018,45,https://openalex.org/W3194519099
+3304,Education,Graduate Employability of Business Students,https://doi.org/10.3390/admsci12030072,2022,68,https://openalex.org/W4283331498
+3304,Education,Transforming the Classroom at Traditionally White Institutions to Make Black Lives Matter,https://doi.org/10.1002/tia2.20071,2018,46,https://openalex.org/W3194519099
+3304,Education,Use of Gadgets by Early Childhood in the Digital Age to Increase Learning Interest,https://doi.org/10.55849/scientechno.v2i1.58,2023,40,https://openalex.org/W4379526151
+3304,Education,"Academic achievement, pupil participation and integration of group work skills in secondary school classrooms in Trinidad and Barbados",https://doi.org/10.1016/j.ijedudev.2007.01.001,2007,34,https://openalex.org/W2102910734
+3304,Education,Demystifying the Mystery of Second Career Teachers’ Motivation to Teach,https://doi.org/10.46743/2160-3715/2015.2267,2015,29,https://openalex.org/W1475926099
+3304,Education,Breaking the Silence of Mainstream Teachers' Attitude towards Inclusive Education in the Bahamas: High School Teachers' Perceptions,https://doi.org/10.46743/2160-3715/2014.1099,2014,29,https://openalex.org/W1509841422
+3304,Education,The Value of a Qualitative Pilot Study in a Multi-Phase Mixed Methods Research,https://doi.org/10.46743/2160-3715/2019.3833,2019,24,https://openalex.org/W2946276167
+3304,Education,"Co-operating Teachers, School Placement and the Implications for Quality",https://doi.org/10.14221/ajte.2017v42n6.3,2017,20,https://openalex.org/W2721719915
+3304,Education,FACTORS INFLUENCING STUDENTS' ABSENTEEISM IN PRIMARY SCHOOLS IN JAMAICA Perspectives of Community Members,,2010,19,https://openalex.org/W2155458345
 1311,Genetics,ECOLOGICAL SPECIATION IN GAMBUSIA FISHES,https://doi.org/10.1111/j.1558-5646.2007.00171.x,2007,276,https://openalex.org/W2136070411
-1311,Genetics,A genetic history of the pre-contact Caribbean,https://doi.org/10.1038/s41586-020-03053-2,2020,109,https://openalex.org/W3116245514
+1311,Genetics,A genetic history of the pre-contact Caribbean,https://doi.org/10.1038/s41586-020-03053-2,2020,110,https://openalex.org/W3116245514
 1311,Genetics,"Cholera in Haiti and Other Caribbean Regions, 19th Century",https://doi.org/10.3201/eid1711.110958,2011,77,https://openalex.org/W2026343446
-3600,General Health Professions,The Lancet Commission on global mental health and sustainable development,https://doi.org/10.1016/s0140-6736(18)31612-x,2018,2912,https://openalex.org/W2897623369
+1311,Genetics,A high prevalence of BRCA1 mutations among breast cancer patients from the Bahamas,https://doi.org/10.1007/s10549-010-1156-9,2010,72,https://openalex.org/W2021833052
+1311,Genetics,Gene Sequencing for Pathogenic Variants Among Adults With Breast and Ovarian Cancer in the Caribbean,https://doi.org/10.1001/jamanetworkopen.2021.0307,2021,67,https://openalex.org/W3135730904
+1311,Genetics,Does body size predict the buzz‐pollination frequencies used by bees?,https://doi.org/10.1002/ece3.5092,2019,61,https://openalex.org/W2923069412
+1311,Genetics,The spectrum of <i><scp>BRCA1</scp></i> and <i><scp>BRCA2</scp></i> mutations in breast cancer patients in the Bahamas,https://doi.org/10.1111/cge.12132,2013,58,https://openalex.org/W2150496383
+1311,Genetics,Sites for priority biodiversity conservation in the Caribbean Islands Biodiversity Hotspot,https://doi.org/10.11609/jott.o2996.2806-44,2012,53,https://openalex.org/W2144302302
+1311,Genetics,A genetic history of the pre-contact Caribbean,https://doi.org/10.1101/2020.06.01.126730,2020,44,https://openalex.org/W3032565533
+1311,Genetics,"Characteristics of Owned Dogs on the Island of New Providence, The Bahamas",https://doi.org/10.1207/s15327604jaws0804_2,2005,43,https://openalex.org/W2054619158
+3600,General Health Professions,The Lancet Commission on global mental health and sustainable development,https://doi.org/10.1016/s0140-6736(18)31612-x,2018,2945,https://openalex.org/W2897623369
 3600,General Health Professions,Effects Through 24 Months of an HIV/AIDS Prevention Intervention Program Based on Protection Motivation Theory Among Preadolescents in the Bahamas,https://doi.org/10.1542/peds.2008-2363,2009,86,https://openalex.org/W2154900952
 3600,General Health Professions,The Impact of Parent Involvement in an Effective Adolescent Risk Reduction Intervention on Sexual Risk Communication and Adolescent Outcomes,https://doi.org/10.1521/aeap.2014.26.6.500,2014,70,https://openalex.org/W2133502495
-1910,Oceanography,Beaked Whales Respond to Simulated and Actual Navy Sonar,https://doi.org/10.1371/journal.pone.0017009,2011,335,https://openalex.org/W1968217553
+3600,General Health Professions,A Cluster Randomized Controlled Trial of an Adolescent HIV Prevention Program Among Bahamian Youth: Effect at 12 Months Post-Intervention,https://doi.org/10.1007/s10461-008-9511-0,2008,68,https://openalex.org/W2043623539
+3600,General Health Professions,Effects on condom use of an HIV prevention programme 36 months postintervention: a cluster randomized controlled trial among Bahamian youth,https://doi.org/10.1258/ijsa.2010.010039,2010,63,https://openalex.org/W1971304424
+3600,General Health Professions,"“Mad, Sick, Head Nuh Good”: Mental Illness Stigma in Jamaican Communities",https://doi.org/10.1177/1363461510368912,2010,61,https://openalex.org/W2064745026
+3600,General Health Professions,Reduction in Human Immunodeficiency Virus Risk Among Youth in Developing Countries,https://doi.org/10.1001/archpedi.161.12.1130,2007,56,https://openalex.org/W2087491868
+3600,General Health Professions,Condom-use Skills Checklist: A Proxy for Assessing Condom-use Knowledge and Skills When Direct Observation Is Not Possible,https://doi.org/10.3329/jhpn.v27i3.3383,2009,47,https://openalex.org/W2115044604
+3600,General Health Professions,Use of Mobile Phone Apps for Contact Tracing to Control the COVID-19 Pandemic: A Literature Review,https://doi.org/10.2139/ssrn.3641961,2020,46,https://openalex.org/W4242542321
+3600,General Health Professions,Factors influencing implementation dose and fidelity thereof and related student outcomes of an evidence-based national HIV prevention program,https://doi.org/10.1186/s13012-015-0236-y,2015,43,https://openalex.org/W2080449404
+1910,Oceanography,Beaked Whales Respond to Simulated and Actual Navy Sonar,https://doi.org/10.1371/journal.pone.0017009,2011,336,https://openalex.org/W1968217553
 1910,Oceanography,"The Functional Value of Caribbean Coral Reef, Seagrass and Mangrove Habitats to Ecosystem Processes",https://doi.org/10.1016/s0065-2881(05)50002-6,2006,149,https://openalex.org/W2102346176
+1910,Oceanography,Loss and damage implications of sea-level rise on Small Island Developing States,https://doi.org/10.1016/j.cosust.2021.05.001,2021,112,https://openalex.org/W3171814762
 1910,Oceanography,Echolocation behaviour adapted to prey in foraging Blainville's beaked whale (<i>Mesoplodon densirostris</i>),https://doi.org/10.1098/rspb.2007.1190,2007,111,https://openalex.org/W2099334720
-2002,Economics and Econometrics,The human imperative of stabilizing global climate change at 1.5°C,https://doi.org/10.1126/science.aaw6974,2019,907,https://openalex.org/W2974545260
-2002,Economics and Econometrics,Loss and Damage and limits to adaptation: recent IPCC insights and implications for climate science and policy,https://doi.org/10.1007/s11625-020-00807-9,2020,139,https://openalex.org/W3022674365
+1910,Oceanography,"A Blueprint for an Inclusive, Global Deep-Sea Ocean Decade Field Program",https://doi.org/10.3389/fmars.2020.584861,2020,77,https://openalex.org/W3108568155
+1910,Oceanography,A decade to study deep-sea life,https://doi.org/10.1038/s41559-020-01352-5,2020,67,https://openalex.org/W3107157315
+1910,Oceanography,Field recordings of Gervais’ beaked whales <i>Mesoplodon europaeus</i> from the Bahamas,https://doi.org/10.1121/1.3110832,2009,61,https://openalex.org/W2167515928
+1910,Oceanography,Future Directions in Research on Beaked Whales,https://doi.org/10.3389/fmars.2018.00514,2019,59,https://openalex.org/W2914307410
+1910,Oceanography,Tiger sharks support the characterization of the world’s largest seagrass ecosystem,https://doi.org/10.1038/s41467-022-33926-1,2022,41,https://openalex.org/W4308027983
+1910,Oceanography,Spatial and Temporal Patterns of Stony Coral Tissue Loss Disease Outbreaks in The Bahamas,https://doi.org/10.3389/fmars.2021.682114,2021,38,https://openalex.org/W3182185558
+2002,Economics and Econometrics,The human imperative of stabilizing global climate change at 1.5°C,https://doi.org/10.1126/science.aaw6974,2019,918,https://openalex.org/W2974545260
+2002,Economics and Econometrics,Loss and Damage and limits to adaptation: recent IPCC insights and implications for climate science and policy,https://doi.org/10.1007/s11625-020-00807-9,2020,141,https://openalex.org/W3022674365
 2002,Economics and Econometrics,Reduction in Human Immunodeficiency Virus Risk Among Youth in Developing Countries,https://doi.org/10.1001/archpedi.161.12.1130,2007,56,https://openalex.org/W2087491868
+2002,Economics and Econometrics,Debt-for-climate swaps for small islands,https://doi.org/10.1038/s41558-021-01194-4,2021,36,https://openalex.org/W3205963851
+2002,Economics and Econometrics,Stakeholder Mapping for Recreation Planning of a Bahamian National Park,https://doi.org/10.1080/08941920802191696,2009,32,https://openalex.org/W2001294952
+2002,Economics and Econometrics,Introduction to special issue on island tourism resilience,https://doi.org/10.1080/14616688.2021.1898672,2021,29,https://openalex.org/W3155436892
+2002,Economics and Econometrics,A perspective on the next generation of Earth system model scenarios: towards representative emission pathways (REPs),https://doi.org/10.5194/gmd-17-4533-2024,2024,24,https://openalex.org/W4399375141
+2002,Economics and Econometrics,The Global Adaptation Mapping Initiative (GAMI): Part 3 – Coding protocol,https://doi.org/10.21203/rs.3.pex-1242/v1,2021,18,https://openalex.org/W4232010724
+2002,Economics and Econometrics,"Determinants of access to childhood cancer medicines: a comparative, mixed-methods analysis of four Caribbean countries",https://doi.org/10.1016/s2214-109x(21)00287-4,2021,17,https://openalex.org/W3194340912
+2002,Economics and Econometrics,Adaptation constraints in scenarios of socio-economic development,https://doi.org/10.1038/s41598-023-46931-1,2023,12,https://openalex.org/W4388972751

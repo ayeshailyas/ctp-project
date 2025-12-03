@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-2505,Materials Chemistry,QSAR Modeling: Where Have You Been? Where Are You Going To?,https://doi.org/10.1021/jm4004285,2013,1874,https://openalex.org/W2033757486
+2505,Materials Chemistry,QSAR Modeling: Where Have You Been? Where Are You Going To?,https://doi.org/10.1021/jm4004285,2013,1886,https://openalex.org/W2033757486
 2505,Materials Chemistry,Unconventional Integer Quantum Hall Effect in Graphene,https://doi.org/10.1103/physrevlett.95.146801,2005,1342,https://openalex.org/W2155422709
-2505,Materials Chemistry,"High electron mobility, quantum Hall effect and anomalous optical response in atomically thin InSe",https://doi.org/10.1038/nnano.2016.242,2016,1246,https://openalex.org/W2508979391
-2002,Economics and Econometrics,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4779,https://openalex.org/W2953804067
-2002,Economics and Econometrics,The marker quantification of the Shared Socioeconomic Pathway 2: A middle-of-the-road scenario for the 21st century,https://doi.org/10.1016/j.gloenvcha.2016.06.004,2016,1002,https://openalex.org/W2473101521
+2505,Materials Chemistry,"High electron mobility, quantum Hall effect and anomalous optical response in atomically thin InSe",https://doi.org/10.1038/nnano.2016.242,2016,1250,https://openalex.org/W2508979391
+2505,Materials Chemistry,Optical far-infrared properties of a graphene monolayer and multilayer,https://doi.org/10.1103/physrevb.76.153410,2007,931,https://openalex.org/W2084199949
+2505,Materials Chemistry,ZINC20—A Free Ultralarge-Scale Chemical Database for Ligand Discovery,https://doi.org/10.1021/acs.jcim.0c00675,2020,885,https://openalex.org/W3094640617
+2505,Materials Chemistry,Electron Tunneling through Ultrathin Boron Nitride Crystalline Barriers,https://doi.org/10.1021/nl3002205,2012,883,https://openalex.org/W2018765018
+2505,Materials Chemistry,Rare earth nanoparticles prevent retinal degeneration induced by intracellular peroxides,https://doi.org/10.1038/nnano.2006.91,2006,867,https://openalex.org/W2083516894
+2505,Materials Chemistry,Compound Copper Chalcogenide Nanocrystals,https://doi.org/10.1021/acs.chemrev.6b00376,2017,853,https://openalex.org/W2606675993
+2505,Materials Chemistry,Graphene: Exploring carbon flatland,https://doi.org/10.1063/1.2774096,2007,846,https://openalex.org/W2130694919
+2505,Materials Chemistry,Magneto-optical conductivity in graphene,https://doi.org/10.1088/0953-8984/19/2/026222,2006,820,https://openalex.org/W2095238241
+2002,Economics and Econometrics,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4782,https://openalex.org/W2953804067
+2002,Economics and Econometrics,The marker quantification of the Shared Socioeconomic Pathway 2: A middle-of-the-road scenario for the 21st century,https://doi.org/10.1016/j.gloenvcha.2016.06.004,2016,1008,https://openalex.org/W2473101521
 2002,Economics and Econometrics,Entrepreneurs' gender and financial constraints: Evidence from international data,https://doi.org/10.1016/j.jce.2008.12.001,2008,494,https://openalex.org/W1970088745
-2210,Mechanical Engineering,Effect of Mn and V on structure and mechanical properties of high-entropy alloys based on CoCrFeNi system,https://doi.org/10.1016/j.jallcom.2013.12.210,2014,649,https://openalex.org/W2060666874
+2002,Economics and Econometrics,Statistical theory of the boundary friction of atomically flat solid surfaces in the presence of a lubricant layer,https://doi.org/10.3367/ufne.0182.201210f.1081,2012,351,https://openalex.org/W1990932995
+2002,Economics and Econometrics,"Conceptual Framework for Financial Reporting: 1989, 2010, 2018",https://doi.org/10.2139/ssrn.3797624,2020,287,https://openalex.org/W3163011075
+2002,Economics and Econometrics,Persistence in the cryptocurrency market,https://doi.org/10.1016/j.ribaf.2018.01.002,2018,284,https://openalex.org/W2778382768
+2002,Economics and Econometrics,MANAGEMENT CONTROL IN NON-PROFIT ORGANIZATIONS,https://doi.org/10.32702/2306-6806.2019.2.53,2019,259,https://openalex.org/W2918537240
+2002,Economics and Econometrics,Reducing greenhouse gas emissions in agriculture without compromising food security?,https://doi.org/10.1088/1748-9326/aa8c83,2017,258,https://openalex.org/W2621220489
+2002,Economics and Econometrics,Területfejlesztés és innováció 2023,,2023,249,https://openalex.org/W2143456384
+2002,Economics and Econometrics,Point and Interval Forecasting of Spot Electricity Prices: Linear vs. Non-Linear Time Series Models,https://doi.org/10.2202/1558-3708.1362,2006,233,https://openalex.org/W2117101278
+2210,Mechanical Engineering,Effect of Mn and V on structure and mechanical properties of high-entropy alloys based on CoCrFeNi system,https://doi.org/10.1016/j.jallcom.2013.12.210,2014,652,https://openalex.org/W2060666874
 2210,Mechanical Engineering,Tough Stimuli-Responsive Supramolecular Hydrogels with Hydrogen-Bonding Network Junctions,https://doi.org/10.1021/ja500205v,2014,593,https://openalex.org/W1997947373
-2210,Mechanical Engineering,Photoalignment of liquid crystals: basics and current trends,https://doi.org/10.1039/c1jm13485j,2011,514,https://openalex.org/W2116135228
+2210,Mechanical Engineering,Photoalignment of liquid crystals: basics and current trends,https://doi.org/10.1039/c1jm13485j,2011,515,https://openalex.org/W2116135228
+2210,Mechanical Engineering,Nanomaterials by severe plastic deformation: review of historical developments and recent advances,https://doi.org/10.1080/21663831.2022.2029779,2022,474,https://openalex.org/W4213192013
+2210,Mechanical Engineering,Structure and mechanical properties of a light-weight AlNbTiV high entropy alloy,https://doi.org/10.1016/j.matlet.2014.11.162,2014,457,https://openalex.org/W2064834257
+2210,Mechanical Engineering,Modelling of the temperature distribution during field assisted sintering,https://doi.org/10.1016/j.actamat.2005.05.042,2005,428,https://openalex.org/W2135454342
+2210,Mechanical Engineering,Effect of V content on microstructure and mechanical properties of the CoCrFeMnNiVx high entropy alloys,https://doi.org/10.1016/j.jallcom.2014.12.157,2015,403,https://openalex.org/W2078319694
+2210,Mechanical Engineering,Effect of cryo-deformation on structure and properties of CoCrFeNiMn high-entropy alloy,https://doi.org/10.1016/j.intermet.2014.12.004,2014,384,https://openalex.org/W1977728257
+2210,Mechanical Engineering,Magnetism in curved geometries,https://doi.org/10.1088/0022-3727/49/36/363001,2016,339,https://openalex.org/W2516435291
+2210,Mechanical Engineering,"Structure and mechanical properties of the AlCrxNbTiV (x = 0, 0.5, 1, 1.5) high entropy alloys",https://doi.org/10.1016/j.jallcom.2015.08.224,2015,332,https://openalex.org/W1215338346
 2000,"General Economics, Econometrics and Finance","NATIONAL HEALTH EXPENDITURE TRENDS, 2000 TO 2019",https://doi.org/10.36740/wlek202205116,2022,386,https://openalex.org/W4286844177
 2000,"General Economics, Econometrics and Finance",MANAGEMENT CONTROL IN NON-PROFIT ORGANIZATIONS,https://doi.org/10.32702/2306-6806.2019.2.53,2019,259,https://openalex.org/W2918537240
 2000,"General Economics, Econometrics and Finance",A Systemic Philosophical Analysis of the Contemporary Society and the Human: New Potential,https://doi.org/10.18662/po/11.4/235,2020,230,https://openalex.org/W3114389132
-2208,Electrical and Electronic Engineering,Nanoimprint Lithography: Methods and Material Requirements,https://doi.org/10.1002/adma.200600882,2007,1750,https://openalex.org/W2143287675
-2208,Electrical and Electronic Engineering,Operation of a free-electron laser from the extreme ultraviolet to the water window,https://doi.org/10.1038/nphoton.2007.76,2007,1594,https://openalex.org/W1987683430
-2208,Electrical and Electronic Engineering,Primary contribution to zebrafish heart regeneration by gata4+ cardiomyocytes,https://doi.org/10.1038/nature08804,2010,1030,https://openalex.org/W2149161770
-2308,"Management, Monitoring, Policy and Law",The Gulf: A young sea in decline,https://doi.org/10.1016/j.marpolbul.2009.10.017,2009,739,https://openalex.org/W1973885930
-2308,"Management, Monitoring, Policy and Law",Patterns and drivers of post-socialist farmland abandonment in Western Ukraine,https://doi.org/10.1016/j.landusepol.2010.11.003,2010,427,https://openalex.org/W2071252970
-2308,"Management, Monitoring, Policy and Law",Exploring Google Earth Engine Platform for Big Data Processing: Classification of Multi-Temporal Satellite Imagery for Crop Mapping,https://doi.org/10.3389/feart.2017.00017,2017,414,https://openalex.org/W2591129009
-3107,"Atomic and Molecular Physics, and Optics",Nanoimprint Lithography: Methods and Material Requirements,https://doi.org/10.1002/adma.200600882,2007,1750,https://openalex.org/W2143287675
-3107,"Atomic and Molecular Physics, and Optics",Operation of a free-electron laser from the extreme ultraviolet to the water window,https://doi.org/10.1038/nphoton.2007.76,2007,1594,https://openalex.org/W1987683430
+2000,"General Economics, Econometrics and Finance","Social Safety of Society for Developing Countries to Meet Sustainable Development Standards: Indicators, Level, Strategic Benchmarks (with Calculations Based on the Case Study of Ukraine)",https://doi.org/10.3390/su12218953,2020,227,https://openalex.org/W3097084827
+2000,"General Economics, Econometrics and Finance",Green Economy in Sustainable Development and Improvement of Resource Efficiency,https://doi.org/10.18267/j.cebr.252,2020,194,https://openalex.org/W3114113539
+2000,"General Economics, Econometrics and Finance",A model for estimating social and economic indicators of sustainable development,https://doi.org/10.9770/jesi.2019.6.4(21),2019,158,https://openalex.org/W2951389910
+2000,"General Economics, Econometrics and Finance",National Security Strategy of Ukraine,https://doi.org/10.31297/hkju.20.4.4,2020,158,https://openalex.org/W3118060104
+2000,"General Economics, Econometrics and Finance",Neural networks performance in exchange rate prediction,https://doi.org/10.1016/j.neucom.2015.03.100,2015,158,https://openalex.org/W1069790386
+2000,"General Economics, Econometrics and Finance",The Impact of Migration of Highly Skilled Workers on The Country’s Competitiveness and Economic Growth,https://doi.org/10.14254/1800-5845/2021.17-3.1,2021,139,https://openalex.org/W3183380451
+2000,"General Economics, Econometrics and Finance",The Systemic Approach for Estimating and Strategizing Energy Security: The Case of Ukraine,https://doi.org/10.3390/en14082126,2021,123,https://openalex.org/W3155582590
+2208,Electrical and Electronic Engineering,Nanoimprint Lithography: Methods and Material Requirements,https://doi.org/10.1002/adma.200600882,2007,1754,https://openalex.org/W2143287675
+2208,Electrical and Electronic Engineering,Operation of a free-electron laser from the extreme ultraviolet to the water window,https://doi.org/10.1038/nphoton.2007.76,2007,1597,https://openalex.org/W1987683430
+2208,Electrical and Electronic Engineering,Primary contribution to zebrafish heart regeneration by gata4+ cardiomyocytes,https://doi.org/10.1038/nature08804,2010,1032,https://openalex.org/W2149161770
+2208,Electrical and Electronic Engineering,Light‐Emitting Polythiophenes,https://doi.org/10.1002/adma.200500461,2005,896,https://openalex.org/W2022495988
+2208,Electrical and Electronic Engineering,Electron Tunneling through Ultrathin Boron Nitride Crystalline Barriers,https://doi.org/10.1021/nl3002205,2012,883,https://openalex.org/W2018765018
+2208,Electrical and Electronic Engineering,"Thieno[3,2-<i>b</i>]thiophene−Diketopyrrolopyrrole-Containing Polymers for High-Performance Organic Field-Effect Transistors and Organic Photovoltaic Devices",https://doi.org/10.1021/ja110619k,2011,879,https://openalex.org/W2084149954
+2208,Electrical and Electronic Engineering,Compound Copper Chalcogenide Nanocrystals,https://doi.org/10.1021/acs.chemrev.6b00376,2017,853,https://openalex.org/W2606675993
+2208,Electrical and Electronic Engineering,Ultrafast heating as a sufficient stimulus for magnetization reversal in a ferrimagnet,https://doi.org/10.1038/ncomms1666,2012,733,https://openalex.org/W1993098662
+2208,Electrical and Electronic Engineering,"Conservation of Angular Momentum, Transverse Shift, and Spin Hall Effect in Reflection and Refraction of an Electromagnetic Wave Packet",https://doi.org/10.1103/physrevlett.96.073903,2006,695,https://openalex.org/W2026955211
+2208,Electrical and Electronic Engineering,Theory and Calculation of the Phosphorescence Phenomenon,https://doi.org/10.1021/acs.chemrev.7b00060,2017,650,https://openalex.org/W2604592701
+2308,"Management, Monitoring, Policy and Law",The Gulf: A young sea in decline,https://doi.org/10.1016/j.marpolbul.2009.10.017,2009,747,https://openalex.org/W1973885930
+2308,"Management, Monitoring, Policy and Law",Patterns and drivers of post-socialist farmland abandonment in Western Ukraine,https://doi.org/10.1016/j.landusepol.2010.11.003,2010,429,https://openalex.org/W2071252970
+2308,"Management, Monitoring, Policy and Law",Exploring Google Earth Engine Platform for Big Data Processing: Classification of Multi-Temporal Satellite Imagery for Crop Mapping,https://doi.org/10.3389/feart.2017.00017,2017,416,https://openalex.org/W2591129009
+2308,"Management, Monitoring, Policy and Law","An overview of ecological status, vulnerability and future perspectives of European large shallow, semi-enclosed coastal systems, lagoons and transitional waters",https://doi.org/10.1016/j.ecss.2013.05.023,2013,378,https://openalex.org/W2128061307
+2308,"Management, Monitoring, Policy and Law",The origins and spread of domestic horses from the Western Eurasian steppes,https://doi.org/10.1038/s41586-021-04018-9,2021,341,https://openalex.org/W3206272465
+2308,"Management, Monitoring, Policy and Law",Cross-border Comparison of Post-socialist Farmland Abandonment in the Carpathians,https://doi.org/10.1007/s10021-008-9146-z,2008,314,https://openalex.org/W1989374343
+2308,"Management, Monitoring, Policy and Law",MANAGEMENT CONTROL IN NON-PROFIT ORGANIZATIONS,https://doi.org/10.32702/2306-6806.2019.2.53,2019,259,https://openalex.org/W2918537240
+2308,"Management, Monitoring, Policy and Law","Social Safety of Society for Developing Countries to Meet Sustainable Development Standards: Indicators, Level, Strategic Benchmarks (with Calculations Based on the Case Study of Ukraine)",https://doi.org/10.3390/su12218953,2020,227,https://openalex.org/W3097084827
+2308,"Management, Monitoring, Policy and Law","Sustainable Economic Development and Greenhouse Gas Emissions: The Dynamic Impact of Renewable Energy Consumption, GDP, and Corruption",https://doi.org/10.3390/en12173289,2019,225,https://openalex.org/W2969782066
+2308,"Management, Monitoring, Policy and Law",Addressing climate change with behavioral science: A global intervention tournament in 63 countries,https://doi.org/10.1126/sciadv.adj5778,2024,194,https://openalex.org/W4391629219
+3107,"Atomic and Molecular Physics, and Optics",Nanoimprint Lithography: Methods and Material Requirements,https://doi.org/10.1002/adma.200600882,2007,1754,https://openalex.org/W2143287675
+3107,"Atomic and Molecular Physics, and Optics",Operation of a free-electron laser from the extreme ultraviolet to the water window,https://doi.org/10.1038/nphoton.2007.76,2007,1597,https://openalex.org/W1987683430
 3107,"Atomic and Molecular Physics, and Optics",A ‘missing’ family of classical orthogonal polynomials,https://doi.org/10.1088/1751-8113/44/8/085201,2011,1555,https://openalex.org/W2044803677
+3107,"Atomic and Molecular Physics, and Optics",Unconventional Integer Quantum Hall Effect in Graphene,https://doi.org/10.1103/physrevlett.95.146801,2005,1342,https://openalex.org/W2155422709
+3107,"Atomic and Molecular Physics, and Optics",RIPL – Reference Input Parameter Library for Calculation of Nuclear Reactions and Nuclear Data Evaluations,https://doi.org/10.1016/j.nds.2009.10.004,2009,1335,https://openalex.org/W2066217039
+3107,"Atomic and Molecular Physics, and Optics","High electron mobility, quantum Hall effect and anomalous optical response in atomically thin InSe",https://doi.org/10.1038/nnano.2016.242,2016,1250,https://openalex.org/W2508979391
+3107,"Atomic and Molecular Physics, and Optics",Bose–Einstein condensation of quasi-equilibrium magnons at room temperature under pumping,https://doi.org/10.1038/nature05117,2006,888,https://openalex.org/W2047049884
+3107,"Atomic and Molecular Physics, and Optics",Polarizable Water Model for the Coarse-Grained MARTINI Force Field,https://doi.org/10.1371/journal.pcbi.1000810,2010,880,https://openalex.org/W2073765675
+3107,"Atomic and Molecular Physics, and Optics",Magneto-optical conductivity in graphene,https://doi.org/10.1088/0953-8984/19/2/026222,2006,820,https://openalex.org/W2095238241
+3107,"Atomic and Molecular Physics, and Optics",Asymmetric Propagation of Electromagnetic Waves through a Planar Chiral Structure,https://doi.org/10.1103/physrevlett.97.167401,2006,794,https://openalex.org/W1488007836
 3320,Political Science and International Relations,Gender Quotas and Women's Political Leadership,https://doi.org/10.1017/s0003055415000611,2016,265,https://openalex.org/W3122368890
+3320,Political Science and International Relations,National Identity in Ukraine: Impact of Euromaidan and the War,https://doi.org/10.1080/09668136.2016.1174980,2016,188,https://openalex.org/W2410353768
 3320,Political Science and International Relations,How cyber-attacks in Ukraine show the vulnerability of the U.S. power grid,https://doi.org/10.1016/j.tej.2017.02.006,2017,185,https://openalex.org/W2601924125
-3320,Political Science and International Relations,National Identity in Ukraine: Impact of Euromaidan and the War,https://doi.org/10.1080/09668136.2016.1174980,2016,185,https://openalex.org/W2410353768
-2204,Biomedical Engineering,Nanoimprint Lithography: Methods and Material Requirements,https://doi.org/10.1002/adma.200600882,2007,1750,https://openalex.org/W2143287675
-2204,Biomedical Engineering,Optical far-infrared properties of a graphene monolayer and multilayer,https://doi.org/10.1103/physrevb.76.153410,2007,928,https://openalex.org/W2084199949
-2204,Biomedical Engineering,Polarizable Water Model for the Coarse-Grained MARTINI Force Field,https://doi.org/10.1371/journal.pcbi.1000810,2010,878,https://openalex.org/W2073765675
+3320,Political Science and International Relations,European Islamophobia Report 2018,,2019,181,https://openalex.org/W3035608491
+3320,Political Science and International Relations,Ukraine's revolution of dignity: The dynamics of Euromaidan,https://doi.org/10.1016/j.euras.2015.10.007,2015,119,https://openalex.org/W2188391559
+3320,Political Science and International Relations,"Shedding Russianness, recasting Ukrainianness: the post-Euromaidan dynamics of ethnonational identifications in Ukraine",https://doi.org/10.1080/1060586x.2018.1451232,2018,113,https://openalex.org/W2795305656
+3320,Political Science and International Relations,Recultivation of abandoned agricultural lands in Ukraine: Patterns and drivers,https://doi.org/10.1016/j.gloenvcha.2016.02.009,2016,107,https://openalex.org/W2298381869
+3320,Political Science and International Relations,"The logic of competitive influence-seeking: Russia, Ukraine, and the conflict in Donbas",https://doi.org/10.1080/1060586x.2018.1425083,2018,95,https://openalex.org/W2792195751
+3320,Political Science and International Relations,Factors of the development of international e-commerce under the conditions of globalization,https://doi.org/10.1051/shsconf/20196504016,2019,89,https://openalex.org/W2947710832
+3320,Political Science and International Relations,Two decades of semi-presidentialism: issues of intra-executive conflict in Central and Eastern Europe 1991–2011,https://doi.org/10.1080/21599165.2012.748662,2013,87,https://openalex.org/W1966485644
+2204,Biomedical Engineering,Nanoimprint Lithography: Methods and Material Requirements,https://doi.org/10.1002/adma.200600882,2007,1754,https://openalex.org/W2143287675
+2204,Biomedical Engineering,Optical far-infrared properties of a graphene monolayer and multilayer,https://doi.org/10.1103/physrevb.76.153410,2007,931,https://openalex.org/W2084199949
+2204,Biomedical Engineering,Polarizable Water Model for the Coarse-Grained MARTINI Force Field,https://doi.org/10.1371/journal.pcbi.1000810,2010,880,https://openalex.org/W2073765675
+2204,Biomedical Engineering,Lasing spaser,https://doi.org/10.1038/nphoton.2008.82,2008,655,https://openalex.org/W2154043902
+2204,Biomedical Engineering,Tough Stimuli-Responsive Supramolecular Hydrogels with Hydrogen-Bonding Network Junctions,https://doi.org/10.1021/ja500205v,2014,593,https://openalex.org/W1997947373
+2204,Biomedical Engineering,Observation of a periodic array of flux-closure quadrants in strained ferroelectric PbTiO <sub>3</sub> films,https://doi.org/10.1126/science.1259869,2015,581,https://openalex.org/W2094072249
+2204,Biomedical Engineering,The Widom line as the crossover between liquid-like and gas-like behaviour in supercritical fluids,https://doi.org/10.1038/nphys1683,2010,536,https://openalex.org/W2076947448
+2204,Biomedical Engineering,Recent trends of ceramic humidity sensors development: A review,https://doi.org/10.1016/j.snb.2016.01.015,2016,512,https://openalex.org/W2334904126
+2204,Biomedical Engineering,Edge and waveguide terahertz surface plasmon modes in graphene microribbons,https://doi.org/10.1103/physrevb.84.161407,2011,504,https://openalex.org/W2064734217
+2204,Biomedical Engineering,Adult mice generated from induced pluripotent stem cells,https://doi.org/10.1038/nature08310,2009,464,https://openalex.org/W2026273242
 1710,Information Systems,Fake news detection using naive Bayes classifier,https://doi.org/10.1109/ukrcon.2017.8100379,2017,560,https://openalex.org/W2769470793
-1710,Information Systems,Scopus: A system for the evaluation of scientific journals,https://doi.org/10.1007/s10778-009-0189-4,2009,290,https://openalex.org/W2029025845
+1710,Information Systems,Scopus: A system for the evaluation of scientific journals,https://doi.org/10.1007/s10778-009-0189-4,2009,291,https://openalex.org/W2029025845
 1710,Information Systems,Persistence in the cryptocurrency market,https://doi.org/10.1016/j.ribaf.2018.01.002,2018,284,https://openalex.org/W2778382768
+1710,Information Systems,"Sustainable Economic Development and Greenhouse Gas Emissions: The Dynamic Impact of Renewable Energy Consumption, GDP, and Corruption",https://doi.org/10.3390/en12173289,2019,225,https://openalex.org/W2969782066
+1710,Information Systems,Fog Vehicular Computing: Augmentation of Fog Computing Using Vehicular Cloud Computing,https://doi.org/10.1109/mvt.2017.2667499,2017,188,https://openalex.org/W2741692976
+1710,Information Systems,How cyber-attacks in Ukraine show the vulnerability of the U.S. power grid,https://doi.org/10.1016/j.tej.2017.02.006,2017,185,https://openalex.org/W2601924125
+1710,Information Systems,Soil legacy data rescue via GlobalSoilMap and other international and national initiatives,https://doi.org/10.1016/j.grj.2017.06.001,2017,160,https://openalex.org/W2626828989
+1710,Information Systems,Implementation of adaptive learning at higher education institutions by means of Moodle LMS,https://doi.org/10.1088/1742-6596/1840/1/012062,2021,139,https://openalex.org/W3156498772
+1710,Information Systems,The day of the week effect in the cryptocurrency market,https://doi.org/10.1016/j.frl.2018.11.012,2018,132,https://openalex.org/W2901487042
+1710,Information Systems,Blockchain-Empowered Framework for Decentralized Network Management in 6G,https://doi.org/10.1109/mcom.001.2000175,2020,128,https://openalex.org/W3091778097

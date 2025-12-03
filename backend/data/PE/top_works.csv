@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-3304,Education,Developmental potential in the first 5 years for children in developing countries,https://doi.org/10.1016/s0140-6736(07)60032-4,2007,3501,https://openalex.org/W2071937436
-3304,Education,Investigación cualitativa: Método fenomenológico hermenéutico,https://doi.org/10.20511/pyr2019.v7n1.267,2019,505,https://openalex.org/W2909539792
-3304,Education,Fundamentos Epistémicos de la Investigación Cualitativa y Cuantitativa: Consensos y Disensos,https://doi.org/10.19083/ridu.2019.644,2019,390,https://openalex.org/W2952846235
-3312,Sociology and Political Science,Preexposure Chemoprophylaxis for HIV Prevention in Men Who Have Sex with Men,https://doi.org/10.1056/nejmoa1011205,2010,4984,https://openalex.org/W2103920597
-3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2957,https://openalex.org/W2161411308
+3304,Education,Developmental potential in the first 5 years for children in developing countries,https://doi.org/10.1016/s0140-6736(07)60032-4,2007,3511,https://openalex.org/W2071937436
+3304,Education,Investigación cualitativa: Método fenomenológico hermenéutico,https://doi.org/10.20511/pyr2019.v7n1.267,2019,512,https://openalex.org/W2909539792
+3304,Education,Fundamentos Epistémicos de la Investigación Cualitativa y Cuantitativa: Consensos y Disensos,https://doi.org/10.19083/ridu.2019.644,2019,393,https://openalex.org/W2952846235
+3304,Education,El muestreo en la investigación cualitativa,https://doi.org/10.15381/is.v4i5.6851,2014,224,https://openalex.org/W1690552911
+3304,Education,Derecho penal : parte especial,https://doi.org/10.18800/9786123173012,2017,215,https://openalex.org/W4312494528
+3304,Education,One Laptop per Child at Home: Short-Term Impacts from a Randomized Experiment in Peru,https://doi.org/10.1257/app.20130267,2015,212,https://openalex.org/W2040588499
+3304,Education,"Postinfancy growth, schooling, and cognitive achievement: Young Lives",https://doi.org/10.3945/ajcn.113.067561,2013,210,https://openalex.org/W2109995893
+3304,Education,Technocracy and Democracy in Latin America,https://doi.org/10.1017/cbo9781107446663,2014,199,https://openalex.org/W2753197250
+3304,Education,Repercusiones de las clases virtuales en los estudiantes universitarios en el contexto de la cuarentena por COVID-19: El caso de la PUCP,https://doi.org/10.20511/pyr2020.v8nspe3.588,2020,182,https://openalex.org/W3107783887
+3304,Education,International Epidemiology of Child and Adolescent Psychopathology II: Integration and Applications of Dimensional Findings From 44 Societies,https://doi.org/10.1016/j.jaac.2012.09.012,2012,179,https://openalex.org/W2064006303
+3312,Sociology and Political Science,Preexposure Chemoprophylaxis for HIV Prevention in Men Who Have Sex with Men,https://doi.org/10.1056/nejmoa1011205,2010,4990,https://openalex.org/W2103920597
+3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2973,https://openalex.org/W2161411308
 3312,Sociology and Political Science,Contrasting Computational Models of Mate Preference Integration Across 45 Countries,https://doi.org/10.1038/s41598-019-52748-8,2019,1773,https://openalex.org/W2983201012
-2002,Economics and Econometrics,Grand challenges in global mental health,https://doi.org/10.1038/475027a,2011,1996,https://openalex.org/W2148602524
-2002,Economics and Econometrics,The global burden of women’s cancers: a grand challenge in global health,https://doi.org/10.1016/s0140-6736(16)31392-7,2016,1070,https://openalex.org/W2548000951
-2002,Economics and Econometrics,Multimorbidity,https://doi.org/10.1038/s41572-022-00376-4,2022,1035,https://openalex.org/W4285390610
-3600,General Health Professions,The 2020 report of The Lancet Countdown on health and climate change: responding to converging crises,https://doi.org/10.1016/s0140-6736(20)32290-x,2020,1720,https://openalex.org/W3110437710
-3600,General Health Professions,The 2022 report of the Lancet Countdown on health and climate change: health at the mercy of fossil fuels,https://doi.org/10.1016/s0140-6736(22)01540-9,2022,1439,https://openalex.org/W4307402605
-3600,General Health Professions,The 2021 report of the Lancet Countdown on health and climate change: code red for a healthy future,https://doi.org/10.1016/s0140-6736(21)01787-6,2021,1392,https://openalex.org/W3211328827
-2739,"Public Health, Environmental and Occupational Health",Health professionals for a new century: transforming education to strengthen health systems in an interdependent world,https://doi.org/10.1016/s0140-6736(10)61854-5,2010,5471,https://openalex.org/W1981665776
-2739,"Public Health, Environmental and Occupational Health",Global and regional effects of potentially modifiable risk factors associated with acute stroke in 32 countries (INTERSTROKE): a case-control study,https://doi.org/10.1016/s0140-6736(16)30506-2,2016,2070,https://openalex.org/W2463406035
-2739,"Public Health, Environmental and Occupational Health",Impending extinction crisis of the world’s primates: Why primates matter,https://doi.org/10.1126/sciadv.1600946,2017,1376,https://openalex.org/W2581828022
-3320,Political Science and International Relations,Mining and Social Movements: Struggles Over Livelihood and Rural Territorial Development in the Andes,https://doi.org/10.1016/j.worlddev.2007.11.016,2008,523,https://openalex.org/W3123315369
-3320,Political Science and International Relations,Varieties of Clientelism: Machine Politics during Elections,https://doi.org/10.1111/ajps.12058,2013,378,https://openalex.org/W2324070777
-3320,Political Science and International Relations,"Defining, researching and struggling for water justice: some conceptual building blocks for research and action",https://doi.org/10.1080/02508060.2014.891168,2014,326,https://openalex.org/W2148605782
-1710,Information Systems,The inefficiency of Bitcoin revisited: A dynamic approach,https://doi.org/10.1016/j.econlet.2017.09.013,2017,578,https://openalex.org/W2758991599
-1710,Information Systems,Impacto de las TIC en la educación: Retos y Perspectivas,https://doi.org/10.20511/pyr2017.v5n1.149,2017,356,https://openalex.org/W2605676843
+3312,Sociology and Political Science,The UCL–Lancet Commission on Migration and Health: the health of a world on the move,https://doi.org/10.1016/s0140-6736(18)32114-7,2018,846,https://openalex.org/W2902040088
+3312,Sociology and Political Science,Contention and Ambiguity: Mining and the Possibilities of Development,https://doi.org/10.1111/j.1467-7660.2008.00517.x,2008,542,https://openalex.org/W2156659366
+3312,Sociology and Political Science,A systematic global stocktake of evidence on human adaptation to climate change,https://doi.org/10.1038/s41558-021-01170-y,2021,526,https://openalex.org/W3210895846
+3312,Sociology and Political Science,Beyond the ‘east–west’ dichotomy: Global variation in cultural models of selfhood.,https://doi.org/10.1037/xge0000175,2016,525,https://openalex.org/W2474075425
+3312,Sociology and Political Science,Mining and Social Movements: Struggles Over Livelihood and Rural Territorial Development in the Andes,https://doi.org/10.1016/j.worlddev.2007.11.016,2008,524,https://openalex.org/W3123315369
+3312,Sociology and Political Science,An expectation-confirmation model of continuance intention to use mobile instant messaging,https://doi.org/10.1016/j.tele.2015.05.006,2015,517,https://openalex.org/W2156477355
+3312,Sociology and Political Science,Health systems and the right to health: an assessment of 194 countries,https://doi.org/10.1016/s0140-6736(08)61781-x,2008,483,https://openalex.org/W2013294005
+2002,Economics and Econometrics,Grand challenges in global mental health,https://doi.org/10.1038/475027a,2011,1998,https://openalex.org/W2148602524
+2002,Economics and Econometrics,The global burden of women’s cancers: a grand challenge in global health,https://doi.org/10.1016/s0140-6736(16)31392-7,2016,1073,https://openalex.org/W2548000951
+2002,Economics and Econometrics,Multimorbidity,https://doi.org/10.1038/s41572-022-00376-4,2022,1050,https://openalex.org/W4285390610
+2002,Economics and Econometrics,Hard choices: Making trade-offs between biodiversity conservation and human well-being,https://doi.org/10.1016/j.biocon.2010.04.038,2010,870,https://openalex.org/W1971961969
+2002,Economics and Econometrics,The Economics of Microfinance,https://doi.org/10.18800/economia.200902.008,2009,766,https://openalex.org/W2344991172
+2002,Economics and Econometrics,"A Review of Tools for Incorporating Community Knowledge, Preferences, and Values into Decision Making in Natural Resources Management",https://doi.org/10.5751/es-01987-120105,2007,728,https://openalex.org/W61562365
+2002,Economics and Econometrics,Teaching Entrepreneurship: Impact of Business Training on Microfinance Clients and Institutions,https://doi.org/10.1162/rest_a_00074,2010,700,https://openalex.org/W3123071755
+2002,Economics and Econometrics,The inefficiency of Bitcoin revisited: A dynamic approach,https://doi.org/10.1016/j.econlet.2017.09.013,2017,580,https://openalex.org/W2758991599
+2002,Economics and Econometrics,"Knowledge, attitude, and practice regarding COVID-19 outbreak in Bangladesh: An online-based cross-sectional study",https://doi.org/10.1371/journal.pone.0239254,2020,574,https://openalex.org/W3091894475
+2002,Economics and Econometrics,What is the impact of COVID-19 disease on agriculture?,https://doi.org/10.17268/sci.agropecu.2020.01.00,2020,496,https://openalex.org/W3015036039
+3600,General Health Professions,The 2020 report of The Lancet Countdown on health and climate change: responding to converging crises,https://doi.org/10.1016/s0140-6736(20)32290-x,2020,1732,https://openalex.org/W3110437710
+3600,General Health Professions,The 2022 report of the Lancet Countdown on health and climate change: health at the mercy of fossil fuels,https://doi.org/10.1016/s0140-6736(22)01540-9,2022,1454,https://openalex.org/W4307402605
+3600,General Health Professions,The 2021 report of the Lancet Countdown on health and climate change: code red for a healthy future,https://doi.org/10.1016/s0140-6736(21)01787-6,2021,1402,https://openalex.org/W3211328827
+3600,General Health Professions,The 2019 report of The Lancet Countdown on health and climate change: ensuring that the health of a child born today is not defined by a changing climate,https://doi.org/10.1016/s0140-6736(19)32596-6,2019,1391,https://openalex.org/W2987568643
+3600,General Health Professions,The epidemiology of traumatic event exposure worldwide: results from the World Mental Health Survey Consortium,https://doi.org/10.1017/s0033291715001981,2015,1256,https://openalex.org/W1848819387
+3600,General Health Professions,The burden of heat-related mortality attributable to recent human-induced climate change,https://doi.org/10.1038/s41558-021-01058-x,2021,1141,https://openalex.org/W3171801815
+3600,General Health Professions,Multimorbidity,https://doi.org/10.1038/s41572-022-00376-4,2022,1050,https://openalex.org/W4285390610
+3600,General Health Professions,How can we achieve and maintain high-quality performance of health workers in low-resource settings?,https://doi.org/10.1016/s0140-6736(05)67028-6,2005,1013,https://openalex.org/W2111819007
+3600,General Health Professions,Indigenous and tribal peoples' health (The Lancet–Lowitja Institute Global Collaboration): a population study,https://doi.org/10.1016/s0140-6736(16)00345-7,2016,944,https://openalex.org/W2337611556
+3600,General Health Professions,The 2018 report of the Lancet Countdown on health and climate change: shaping the health of nations for centuries to come,https://doi.org/10.1016/s0140-6736(18)32594-7,2018,865,https://openalex.org/W2902153713
+2739,"Public Health, Environmental and Occupational Health",Health professionals for a new century: transforming education to strengthen health systems in an interdependent world,https://doi.org/10.1016/s0140-6736(10)61854-5,2010,5493,https://openalex.org/W1981665776
+2739,"Public Health, Environmental and Occupational Health",Global and regional effects of potentially modifiable risk factors associated with acute stroke in 32 countries (INTERSTROKE): a case-control study,https://doi.org/10.1016/s0140-6736(16)30506-2,2016,2073,https://openalex.org/W2463406035
+2739,"Public Health, Environmental and Occupational Health",Impending extinction crisis of the world’s primates: Why primates matter,https://doi.org/10.1126/sciadv.1600946,2017,1380,https://openalex.org/W2581828022
+2739,"Public Health, Environmental and Occupational Health","Epidemiology of maternal depression, risk factors, and child outcomes in low-income and middle-income countries",https://doi.org/10.1016/s2215-0366(16)30284-x,2016,1082,https://openalex.org/W2520629525
+2739,"Public Health, Environmental and Occupational Health",The epidemiological burden of obesity in childhood: a worldwide epidemic requiring urgent action,https://doi.org/10.1186/s12916-019-1449-8,2019,1037,https://openalex.org/W2982806384
+2739,"Public Health, Environmental and Occupational Health",Undertreatment of people with major depressive disorder in 21 countries,https://doi.org/10.1192/bjp.bp.116.188078,2016,1007,https://openalex.org/W2559328180
+2739,"Public Health, Environmental and Occupational Health",Global burden of cancer attributable to high body-mass index in 2012: a population-based study,https://doi.org/10.1016/s1470-2045(14)71123-4,2014,966,https://openalex.org/W2170585132
+2739,"Public Health, Environmental and Occupational Health",The World Health Organization and the Transition From “International” to “Global” Public Health,https://doi.org/10.2105/ajph.2004.050831,2005,893,https://openalex.org/W2151953803
+2739,"Public Health, Environmental and Occupational Health",Genetic Characterization of Zika Virus Strains: Geographic Expansion of the Asian Lineage,https://doi.org/10.1371/journal.pntd.0001477,2012,750,https://openalex.org/W2073049582
+2739,"Public Health, Environmental and Occupational Health",Biased efficacy estimates in phase-III dengue vaccine trials due to heterogeneous exposure and differential detectability of primary infections across trial arms,https://doi.org/10.1371/journal.pone.0210041,2019,718,https://openalex.org/W2912652602
+3320,Political Science and International Relations,Mining and Social Movements: Struggles Over Livelihood and Rural Territorial Development in the Andes,https://doi.org/10.1016/j.worlddev.2007.11.016,2008,524,https://openalex.org/W3123315369
+3320,Political Science and International Relations,Varieties of Clientelism: Machine Politics during Elections,https://doi.org/10.1111/ajps.12058,2013,379,https://openalex.org/W2324070777
+3320,Political Science and International Relations,"Defining, researching and struggling for water justice: some conceptual building blocks for research and action",https://doi.org/10.1080/02508060.2014.891168,2014,328,https://openalex.org/W2148605782
+3320,Political Science and International Relations,"Cultural politics and the hydrosocial cycle: Water, power and identity in the Andean highlands",https://doi.org/10.1016/j.geoforum.2013.02.008,2013,308,https://openalex.org/W2107030911
+3320,Political Science and International Relations,Technocracy and Democracy in Latin America,https://doi.org/10.1017/cbo9781107446663,2014,199,https://openalex.org/W2753197250
+3320,Political Science and International Relations,La Compraventa Internacional,,2016,173,https://openalex.org/W2517947372
+3320,Political Science and International Relations,Messiness of forest governance: How technical approaches suppress politics in REDD+ and conservation projects,https://doi.org/10.1016/j.gloenvcha.2018.02.015,2018,164,https://openalex.org/W2794117236
+3320,Political Science and International Relations,Technocracy and Democracy in Latin America: The Experts Running Government,https://doi.org/10.1017/cbo9781107446663,2014,143,https://openalex.org/W564932332
+3320,Political Science and International Relations,The Conservative Backlash against Gender in Latin America,https://doi.org/10.1017/s1743923x20000045,2020,142,https://openalex.org/W3014945357
+3320,Political Science and International Relations,"Water reform governmentality in Ecuador: Neoliberalism, centralization, and the restraining of polycentric authority and community rule-making",https://doi.org/10.1016/j.geoforum.2013.07.005,2013,134,https://openalex.org/W1986095484
+1710,Information Systems,The inefficiency of Bitcoin revisited: A dynamic approach,https://doi.org/10.1016/j.econlet.2017.09.013,2017,580,https://openalex.org/W2758991599
+1710,Information Systems,Impacto de las TIC en la educación: Retos y Perspectivas,https://doi.org/10.20511/pyr2017.v5n1.149,2017,358,https://openalex.org/W2605676843
 1710,Information Systems,Inteligencia artificial y sus implicaciones en la educación superior,https://doi.org/10.20511/pyr2019.v7n2.274,2019,300,https://openalex.org/W2914662753
+1710,Information Systems,One Laptop per Child at Home: Short-Term Impacts from a Randomized Experiment in Peru,https://doi.org/10.1257/app.20130267,2015,212,https://openalex.org/W2040588499
+1710,Information Systems,Repercusiones de las clases virtuales en los estudiantes universitarios en el contexto de la cuarentena por COVID-19: El caso de la PUCP,https://doi.org/10.20511/pyr2020.v8nspe3.588,2020,182,https://openalex.org/W3107783887
+1710,Information Systems,A Review of Software Quality Models for the Evaluation of Software Products,https://doi.org/10.5121/ijsea.2014.5603,2014,182,https://openalex.org/W2059857303
+1710,Information Systems,Competencias digitales y educación,https://doi.org/10.20511/pyr2019.v7n2.329,2019,172,https://openalex.org/W2945798773
+1710,Information Systems,"Natural resources, green innovation, fintech, and sustainability: A fresh insight from BRICS",https://doi.org/10.1016/j.resourpol.2022.103119,2022,168,https://openalex.org/W4313378847
+1710,Information Systems,An analysis of cryptocurrencies conditional cross correlations,https://doi.org/10.1016/j.frl.2019.04.019,2019,137,https://openalex.org/W2900717462
+1710,Information Systems,El Aprendizaje Basado en Problemas (ABP) en el desarrollo de la inteligencia emocional de estudiantes universitarios,https://doi.org/10.20511/pyr2019.v7n2.288,2019,136,https://openalex.org/W2914112485
 3308,Law,Derecho penal : parte especial,https://doi.org/10.18800/9786123173012,2017,215,https://openalex.org/W4312494528
 3308,Law,La Compraventa Internacional,,2016,173,https://openalex.org/W2517947372
 3308,Law,Derecho internacional privado,https://doi.org/10.18800/9786123172923,2017,92,https://openalex.org/W4382393893
-3207,Social Psychology,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2957,https://openalex.org/W2161411308
-3207,Social Psychology,"Basic psychological need satisfaction, need frustration, and need strength across four cultures",https://doi.org/10.1007/s11031-014-9450-1,2014,2138,https://openalex.org/W2084716978
-3207,Social Psychology,Grand challenges in global mental health,https://doi.org/10.1038/475027a,2011,1996,https://openalex.org/W2148602524
-1106,Food Science,Genome sequence and analysis of the tuber crop potato,https://doi.org/10.1038/nature10158,2011,2063,https://openalex.org/W2012331775
-1106,Food Science,"World Health Organization Estimates of the Global and Regional Disease Burden of 22 Foodborne Bacterial, Protozoal, and Viral Diseases, 2010: A Data Synthesis",https://doi.org/10.1371/journal.pmed.1001921,2015,1615,https://openalex.org/W2184405267
+3308,Law,Los derechos fundamentales,https://doi.org/10.18800/9786123172312,2017,75,https://openalex.org/W4312524066
+3308,Law,A study of the parrot trade in Peru and the potential importance of internal trade for threatened species,https://doi.org/10.1017/s0959270910000249,2010,66,https://openalex.org/W2035023625
+3308,Law,El nuevo tratamiento del régimen de la capacidad en el Código Civil peruano,https://doi.org/10.4067/s1726-569x2019000200199,2019,63,https://openalex.org/W2994449176
+3308,Law,La mitigación de daños en la responsabilidad por incumplimiento contractual: breve análisis comparado en el derecho civil de Argentina y Perú,https://doi.org/10.18800/derechopucp.201801.004,2018,59,https://openalex.org/W2807692882
+3308,Law,La Inteligencia Artificial en el contexto de la formación educativa,https://doi.org/10.35381/e.k.v6i12.2547,2023,52,https://openalex.org/W4385378027
+3308,Law,La buena fe contractual,,2005,51,https://openalex.org/W1878905826
+3308,Law,Medicación prehospitalaria en pacientes hospitalizados por COVID-19 en un hospital público de Lima-Perú,https://doi.org/10.35663/amp.2020.373.1277,2020,42,https://openalex.org/W3084116408
+3207,Social Psychology,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2973,https://openalex.org/W2161411308
+3207,Social Psychology,"Basic psychological need satisfaction, need frustration, and need strength across four cultures",https://doi.org/10.1007/s11031-014-9450-1,2014,2160,https://openalex.org/W2084716978
+3207,Social Psychology,Grand challenges in global mental health,https://doi.org/10.1038/475027a,2011,1998,https://openalex.org/W2148602524
+3207,Social Psychology,Erosion of Lizard Diversity by Climate Change and Altered Thermal Niches,https://doi.org/10.1126/science.1184695,2010,1806,https://openalex.org/W2017677393
+3207,Social Psychology,Impending extinction crisis of the world’s primates: Why primates matter,https://doi.org/10.1126/sciadv.1600946,2017,1380,https://openalex.org/W2581828022
+3207,Social Psychology,Undertreatment of people with major depressive disorder in 21 countries,https://doi.org/10.1192/bjp.bp.116.188078,2016,1007,https://openalex.org/W2559328180
+3207,Social Psychology,The conservation status of the world’s reptiles,https://doi.org/10.1016/j.biocon.2012.07.015,2012,888,https://openalex.org/W2007847179
+3207,Social Psychology,Treatment gap for anxiety disorders is global: Results of the World Mental Health Surveys in 21 countries,https://doi.org/10.1002/da.22711,2018,600,https://openalex.org/W2792585108
+3207,Social Psychology,Anxious and non-anxious major depressive disorder in the World Health Organization World Mental Health Surveys,https://doi.org/10.1017/s2045796015000189,2015,581,https://openalex.org/W1974820251
+3207,Social Psychology,Ongoing declines for the world’s amphibians in the face of emerging threats,https://doi.org/10.1038/s41586-023-06578-4,2023,569,https://openalex.org/W4387344519
+1106,Food Science,Genome sequence and analysis of the tuber crop potato,https://doi.org/10.1038/nature10158,2011,2065,https://openalex.org/W2012331775
+1106,Food Science,"World Health Organization Estimates of the Global and Regional Disease Burden of 22 Foodborne Bacterial, Protozoal, and Viral Diseases, 2010: A Data Synthesis",https://doi.org/10.1371/journal.pmed.1001921,2015,1621,https://openalex.org/W2184405267
 1106,Food Science,Potatoes for Sustainable Global Food Security,https://doi.org/10.1007/s11540-014-9265-1,2014,435,https://openalex.org/W2047299675
+1106,Food Science,"Flavonoids and other phenolic compounds in Andean indigenous grains: Quinoa (Chenopodium quinoa), kañiwa (Chenopodium pallidicaule) and kiwicha (Amaranthus caudatus)",https://doi.org/10.1016/j.foodchem.2009.09.087,2009,383,https://openalex.org/W2050992416
+1106,Food Science,High proportion of cactus species threatened with extinction,https://doi.org/10.1038/nplants.2015.142,2015,350,https://openalex.org/W2283941717
+1106,Food Science,Crop genetic erosion: understanding and responding to loss of crop diversity,https://doi.org/10.1111/nph.17733,2021,343,https://openalex.org/W3201222371
+1106,Food Science,"Systematics, Diversity, Genetics, and Evolution of Wild and Cultivated Potatoes",https://doi.org/10.1007/s12229-014-9146-y,2014,317,https://openalex.org/W2092766998
+1106,Food Science,Microencapsulation of flax oil with zein using spray and freeze drying,https://doi.org/10.1016/j.lwt.2011.01.005,2011,314,https://openalex.org/W2033152942
+1106,Food Science,Optimization of extraction conditions of antioxidant phenolic compounds from mashua (Tropaeolum tuberosum Ruíz &amp; Pavón) tubers,https://doi.org/10.1016/j.seppur.2006.12.005,2006,306,https://openalex.org/W1987347109
+1106,Food Science,Andean Potato Cultivars (<i>Solanum tuberosum</i>L.) as a Source of Antioxidant and Mineral Micronutrients,https://doi.org/10.1021/jf062740i,2006,293,https://openalex.org/W2013227956

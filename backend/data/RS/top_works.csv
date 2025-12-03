@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-2208,Electrical and Electronic Engineering,Plasma–liquid interactions: a review and roadmap,https://doi.org/10.1088/0963-0252/25/5/053002,2016,1501,https://openalex.org/W2488528762
-2208,Electrical and Electronic Engineering,The 2017 Plasma Roadmap: Low temperature plasma science and technology,https://doi.org/10.1088/1361-6463/aa76f5,2017,901,https://openalex.org/W2734710772
-2208,Electrical and Electronic Engineering,Dynamic stability of active sites in hydr(oxy)oxides for the oxygen evolution reaction,https://doi.org/10.1038/s41560-020-0576-y,2020,896,https://openalex.org/W3012236500
-1312,Molecular Biology,Biological properties of extracellular vesicles and their physiological functions,https://doi.org/10.3402/jev.v4.27066,2015,5522,https://openalex.org/W2170852633
-1312,Molecular Biology,"Temsirolimus, Interferon Alfa, or Both for Advanced Renal-Cell Carcinoma",https://doi.org/10.1056/nejmoa066838,2007,3623,https://openalex.org/W2153867442
-1312,Molecular Biology,"Lifestyle, Oxidative Stress, and Antioxidants: Back and Forth in the Pathophysiology of Chronic Diseases",https://doi.org/10.3389/fphys.2020.00694,2020,1761,https://openalex.org/W3039077710
-1110,Plant Science,Acetylcholinesterase Inhibitors: Pharmacology and Toxicology,https://doi.org/10.2174/1570159x11311030006,2013,2400,https://openalex.org/W2085907924
-1110,Plant Science,Deep Neural Networks Based Recognition of Plant Diseases by Leaf Image Classification,https://doi.org/10.1155/2016/3289801,2016,1741,https://openalex.org/W2470368200
-1110,Plant Science,Use of complementary and alternative medicine in cancer patients: a European survey,https://doi.org/10.1093/annonc/mdi110,2005,1120,https://openalex.org/W2122202911
-2002,Economics and Econometrics,"Global, Regional, and National Burden of Cardiovascular Diseases for 10 Causes, 1990 to 2015",https://doi.org/10.1016/j.jacc.2017.04.052,2017,3699,https://openalex.org/W2614578122
-2002,Economics and Econometrics,"Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-Years for 29 Cancer Groups, 1990 to 2016",https://doi.org/10.1001/jamaoncol.2018.2706,2018,1490,https://openalex.org/W2991564522
+2208,Electrical and Electronic Engineering,Plasma–liquid interactions: a review and roadmap,https://doi.org/10.1088/0963-0252/25/5/053002,2016,1512,https://openalex.org/W2488528762
+2208,Electrical and Electronic Engineering,Dynamic stability of active sites in hydr(oxy)oxides for the oxygen evolution reaction,https://doi.org/10.1038/s41560-020-0576-y,2020,907,https://openalex.org/W3012236500
+2208,Electrical and Electronic Engineering,The 2017 Plasma Roadmap: Low temperature plasma science and technology,https://doi.org/10.1088/1361-6463/aa76f5,2017,903,https://openalex.org/W2734710772
+2208,Electrical and Electronic Engineering,FCC-ee: The Lepton Collider,https://doi.org/10.1140/epjst/e2019-900045-4,2019,832,https://openalex.org/W2908825166
+2208,Electrical and Electronic Engineering,"Recent advances in polyaniline research: Polymerization mechanisms, structural aspects, properties and applications",https://doi.org/10.1016/j.synthmet.2013.06.004,2013,738,https://openalex.org/W1988517589
+2208,Electrical and Electronic Engineering,SmartSantander: IoT experimentation over a smart city testbed,https://doi.org/10.1016/j.bjp.2013.12.020,2014,666,https://openalex.org/W2043510950
+2208,Electrical and Electronic Engineering,"Mn<sup>2+</sup>and Mn<sup>4+</sup>red phosphors: synthesis, luminescence and applications in WLEDs. A review",https://doi.org/10.1039/c8tc00251g,2018,660,https://openalex.org/W2788861441
+2208,Electrical and Electronic Engineering,FCC-hh: The Hadron Collider,https://doi.org/10.1140/epjst/e2019-900087-0,2019,590,https://openalex.org/W3200934665
+2208,Electrical and Electronic Engineering,Trends in luminescence thermometry,https://doi.org/10.1063/5.0014825,2020,506,https://openalex.org/W3043910183
+2208,Electrical and Electronic Engineering,"Semiconductor Gas Sensors: Materials, Technology, Design, and Application",https://doi.org/10.3390/s20226694,2020,504,https://openalex.org/W3109385342
+1312,Molecular Biology,Biological properties of extracellular vesicles and their physiological functions,https://doi.org/10.3402/jev.v4.27066,2015,5548,https://openalex.org/W2170852633
+1312,Molecular Biology,"Temsirolimus, Interferon Alfa, or Both for Advanced Renal-Cell Carcinoma",https://doi.org/10.1056/nejmoa066838,2007,3625,https://openalex.org/W2153867442
+1312,Molecular Biology,"Lifestyle, Oxidative Stress, and Antioxidants: Back and Forth in the Pathophysiology of Chronic Diseases",https://doi.org/10.3389/fphys.2020.00694,2020,1772,https://openalex.org/W3039077710
+1312,Molecular Biology,A global genetic interaction network maps a wiring diagram of cellular function,https://doi.org/10.1126/science.aaf1420,2016,1328,https://openalex.org/W2522417827
+1312,Molecular Biology,Mitochondrial H2O2 emission and cellular redox state link excess fat intake to insulin resistance in both rodents and humans,https://doi.org/10.1172/jci37048,2009,1227,https://openalex.org/W2161479914
+1312,Molecular Biology,The first 1000 cultured species of the human gastrointestinal microbiota,https://doi.org/10.1111/1574-6976.12075,2014,1146,https://openalex.org/W2126295648
+1312,Molecular Biology,Global and Deep Molecular Analysis of Microbiota Signatures in Fecal Samples From Patients With Irritable Bowel Syndrome,https://doi.org/10.1053/j.gastro.2011.07.043,2011,1000,https://openalex.org/W2123812491
+1312,Molecular Biology,Diagnosis and treatment of cardiac amyloidosis: a position statement of the ESC Working Group on Myocardial and Pericardial Diseases,https://doi.org/10.1093/eurheartj/ehab072,2021,994,https://openalex.org/W3145296972
+1312,Molecular Biology,Aggregated neutrophil extracellular traps limit inflammation by degrading cytokines and chemokines,https://doi.org/10.1038/nm.3547,2014,926,https://openalex.org/W2068992138
+1312,Molecular Biology,The Significance of Reactive Oxygen Species and Antioxidant Defense System in Plants: A Concise Overview,https://doi.org/10.3389/fpls.2020.552969,2021,856,https://openalex.org/W3119010472
+1110,Plant Science,Acetylcholinesterase Inhibitors: Pharmacology and Toxicology,https://doi.org/10.2174/1570159x11311030006,2013,2416,https://openalex.org/W2085907924
+1110,Plant Science,Deep Neural Networks Based Recognition of Plant Diseases by Leaf Image Classification,https://doi.org/10.1155/2016/3289801,2016,1748,https://openalex.org/W2470368200
+1110,Plant Science,Use of complementary and alternative medicine in cancer patients: a European survey,https://doi.org/10.1093/annonc/mdi110,2005,1121,https://openalex.org/W2122202911
+1110,Plant Science,The Significance of Reactive Oxygen Species and Antioxidant Defense System in Plants: A Concise Overview,https://doi.org/10.3389/fpls.2020.552969,2021,856,https://openalex.org/W3119010472
+1110,Plant Science,Biological control of plant pathogens by Bacillus species,https://doi.org/10.1016/j.jbiotec.2018.07.044,2018,814,https://openalex.org/W2888942859
+1110,Plant Science,Antioxidant and anti-inflammatory activities of quercetin and its derivatives,https://doi.org/10.1016/j.jff.2017.10.047,2017,794,https://openalex.org/W2765689799
+1110,Plant Science,Characterization of the Volatile Composition of Essential Oils of Some Lamiaceae Spices and the Antimicrobial and Antioxidant Activities of the Entire Oils,https://doi.org/10.1021/jf051922u,2006,782,https://openalex.org/W2065375709
+1110,Plant Science,Antibacterial Effects of the Essential Oils of Commonly Consumed Medicinal Herbs Using an In Vitro Model,https://doi.org/10.3390/molecules15117532,2010,640,https://openalex.org/W2097583519
+1110,Plant Science,Crop pests and predators exhibit inconsistent responses to surrounding landscape composition,https://doi.org/10.1073/pnas.1800042115,2018,604,https://openalex.org/W2887713204
+1110,Plant Science,The interplay of landscape composition and configuration: new pathways to manage functional biodiversity and agroecosystem services across Europe,https://doi.org/10.1111/ele.13265,2019,574,https://openalex.org/W2937730115
+2002,Economics and Econometrics,"Global, Regional, and National Burden of Cardiovascular Diseases for 10 Causes, 1990 to 2015",https://doi.org/10.1016/j.jacc.2017.04.052,2017,3710,https://openalex.org/W2614578122
+2002,Economics and Econometrics,"Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-Years for 29 Cancer Groups, 1990 to 2016",https://doi.org/10.1001/jamaoncol.2018.2706,2018,1492,https://openalex.org/W2991564522
 2002,Economics and Econometrics,"Global, regional, and national incidence and mortality for HIV, tuberculosis, and malaria during 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(14)60844-8,2014,966,https://openalex.org/W2128886090
-2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5316,https://openalex.org/W2993259418
-2746,Surgery,Chemotherapy with Preoperative Radiotherapy in Rectal Cancer,https://doi.org/10.1056/nejmoa060829,2006,2675,https://openalex.org/W2124886112
-2746,Surgery,Fractional Flow Reserve–Guided PCI versus Medical Therapy in Stable Coronary Disease,https://doi.org/10.1056/nejmoa1205361,2012,2624,https://openalex.org/W2133924558
+2002,Economics and Econometrics,Position paper Statin intolerance – an attempt at a unified definition. Position paper from an International Lipid Expert Panel,https://doi.org/10.5114/aoms.2015.49807,2015,370,https://openalex.org/W1511974464
+2002,Economics and Econometrics,Policies for biosimilar uptake in Europe: An overview,https://doi.org/10.1371/journal.pone.0190147,2017,344,https://openalex.org/W2778747082
+2002,Economics and Econometrics,Random Forest Spatial Interpolation,https://doi.org/10.3390/rs12101687,2020,313,https://openalex.org/W3027312415
+2002,Economics and Econometrics,Replicating patterns of prospect theory for decision under risk,https://doi.org/10.1038/s41562-020-0886-x,2020,302,https://openalex.org/W3024532045
+2002,Economics and Econometrics,National identity predicts public health support during a global pandemic,https://doi.org/10.1038/s41467-021-27668-9,2022,262,https://openalex.org/W4225690429
+2002,Economics and Econometrics,Impacts of COVID-19 and social isolation on academic staff and students at universities: a cross-sectional study,https://doi.org/10.1186/s12889-021-11040-z,2021,261,https://openalex.org/W3169014226
+2002,Economics and Econometrics,Will we have the same employees in hospitality after all? The impact of COVID-19 on employees’ work attitudes and turnover intentions,https://doi.org/10.1016/j.ijhm.2020.102754,2020,246,https://openalex.org/W3104990048
+2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5319,https://openalex.org/W2993259418
+2746,Surgery,Chemotherapy with Preoperative Radiotherapy in Rectal Cancer,https://doi.org/10.1056/nejmoa060829,2006,2676,https://openalex.org/W2124886112
+2746,Surgery,Fractional Flow Reserve–Guided PCI versus Medical Therapy in Stable Coronary Disease,https://doi.org/10.1056/nejmoa1205361,2012,2631,https://openalex.org/W2133924558
+2746,Surgery,"Cisplatin, Fluorouracil, and Docetaxel in Unresectable Head and Neck Cancer",https://doi.org/10.1056/nejmoa071028,2007,1674,https://openalex.org/W1983970003
+2746,Surgery,How to diagnose heart failure with preserved ejection fraction: the HFA–PEFF diagnostic algorithm: a consensus recommendation from the Heart Failure Association (HFA) of the European Society of Cardiology (ESC),https://doi.org/10.1093/eurheartj/ehz641,2019,1621,https://openalex.org/W2971111962
+2746,Surgery,European Resuscitation Council Guidelines for Resuscitation 2010 Section 2. Adult basic life support and use of automated external defibrillators,https://doi.org/10.1016/j.resuscitation.2010.08.009,2010,1557,https://openalex.org/W2037283453
+2746,Surgery,Avelumab Maintenance Therapy for Advanced or Metastatic Urothelial Carcinoma,https://doi.org/10.1056/nejmoa2002788,2020,1369,https://openalex.org/W3087464965
+2746,Surgery,Epidemiology of pancreatic cancer,https://doi.org/10.3748/wjg.v22.i44.9694,2016,1298,https://openalex.org/W2554987853
+2746,Surgery,Coronary-Artery Bypass Surgery in Patients with Left Ventricular Dysfunction,https://doi.org/10.1056/nejmoa1100356,2011,1252,https://openalex.org/W2138512778
+2746,Surgery,The first 1000 cultured species of the human gastrointestinal microbiota,https://doi.org/10.1111/1574-6976.12075,2014,1146,https://openalex.org/W2126295648
 2204,Biomedical Engineering,European Resuscitation Council Guidelines for Resuscitation 2010 Section 2. Adult basic life support and use of automated external defibrillators,https://doi.org/10.1016/j.resuscitation.2010.08.009,2010,1557,https://openalex.org/W2037283453
-2204,Biomedical Engineering,Active Packaging Applications for Food,https://doi.org/10.1111/1541-4337.12322,2017,884,https://openalex.org/W2769188897
-2204,Biomedical Engineering,Advanced heart failure: a position statement of the Heart Failure Association of the European Society of Cardiology,https://doi.org/10.1002/ejhf.1236,2018,799,https://openalex.org/W2805115770
-2505,Materials Chemistry,Bandgap opening in graphene induced by patterned hydrogen adsorption,https://doi.org/10.1038/nmat2710,2010,1478,https://openalex.org/W2143729162
-2505,Materials Chemistry,A forgotten topological index,https://doi.org/10.1007/s10910-015-0480-z,2015,893,https://openalex.org/W2000076674
-2505,Materials Chemistry,The synergistic action and interplay of hydrogen embrittlement mechanisms in steels and iron: Localized plasticity and decohesion,https://doi.org/10.1016/j.engfracmech.2019.106528,2019,662,https://openalex.org/W2954556503
-2210,Mechanical Engineering,"Virtual laboratories for education in science, technology, and engineering: A review",https://doi.org/10.1016/j.compedu.2016.02.002,2016,929,https://openalex.org/W2253312808
-2210,Mechanical Engineering,Biodiesel production from non-edible plant oils,https://doi.org/10.1016/j.rser.2012.03.002,2012,501,https://openalex.org/W1964658017
-2210,Mechanical Engineering,Bolted shear connectors vs. headed studs behaviour in push-out tests,https://doi.org/10.1016/j.jcsr.2013.05.003,2013,474,https://openalex.org/W2031355862
-3312,Sociology and Political Science,Mosquitoes and Their Control,https://doi.org/10.1007/978-3-540-92874-4,2010,1285,https://openalex.org/W1841057661
-3312,Sociology and Political Science,Analyzing reaction times,https://doi.org/10.21500/20112084.807,2010,1081,https://openalex.org/W1955927543
-3312,Sociology and Political Science,Many Labs 2: Investigating Variation in Replicability Across Samples and Settings,https://doi.org/10.1177/2515245918810225,2018,983,https://openalex.org/W2776961836
-2740,Pulmonary and Respiratory Medicine,"Temsirolimus, Interferon Alfa, or Both for Advanced Renal-Cell Carcinoma",https://doi.org/10.1056/nejmoa066838,2007,3623,https://openalex.org/W2153867442
-2740,Pulmonary and Respiratory Medicine,Recent developments in Geant4,https://doi.org/10.1016/j.nima.2016.06.125,2016,3621,https://openalex.org/W1990869665
-2740,Pulmonary and Respiratory Medicine,Chemotherapy with Preoperative Radiotherapy in Rectal Cancer,https://doi.org/10.1056/nejmoa060829,2006,2675,https://openalex.org/W2124886112
+2204,Biomedical Engineering,Active Packaging Applications for Food,https://doi.org/10.1111/1541-4337.12322,2017,887,https://openalex.org/W2769188897
+2204,Biomedical Engineering,Advanced heart failure: a position statement of the Heart Failure Association of the European Society of Cardiology,https://doi.org/10.1002/ejhf.1236,2018,805,https://openalex.org/W2805115770
+2204,Biomedical Engineering,Assessing and grading congestion in acute heart failure: a scientific statement from the Acute Heart Failure Committee of the Heart Failure Association of the European Society of Cardiology and endorsed by the European Society of Intensive Care Medicine,https://doi.org/10.1093/eurjhf/hfq045,2010,719,https://openalex.org/W2052953200
+2204,Biomedical Engineering,Contemporary management of acute right ventricular failure: a statement from the Heart Failure Association and the Working Group on Pulmonary Circulation and Right Ventricular Function of the European Society of Cardiology,https://doi.org/10.1002/ejhf.478,2016,654,https://openalex.org/W2301761598
+2204,Biomedical Engineering,Simplifying the Star Excursion Balance Test: Analyses of Subjects With and Without Chronic Ankle Instability,https://doi.org/10.2519/jospt.2006.36.3.131,2006,622,https://openalex.org/W2000408663
+2204,Biomedical Engineering,FCC-hh: The Hadron Collider,https://doi.org/10.1140/epjst/e2019-900087-0,2019,590,https://openalex.org/W3200934665
+2204,Biomedical Engineering,In vitro comparison of the photothermal anticancer activity of graphene nanoparticles and carbon nanotubes,https://doi.org/10.1016/j.biomaterials.2010.10.030,2010,554,https://openalex.org/W2028085568
+2204,Biomedical Engineering,"Synthesis, characterization and antimicrobial activity of copper and zinc-doped hydroxyapatite nanopowders",https://doi.org/10.1016/j.apsusc.2010.03.124,2010,525,https://openalex.org/W1993600146
+2204,Biomedical Engineering,Nanosized hydroxyapatite and other calcium phosphates: Chemistry of formation and application as drug and gene delivery agents,https://doi.org/10.1002/jbm.b.31746,2010,519,https://openalex.org/W1964156573
+2505,Materials Chemistry,Bandgap opening in graphene induced by patterned hydrogen adsorption,https://doi.org/10.1038/nmat2710,2010,1480,https://openalex.org/W2143729162
+2505,Materials Chemistry,A forgotten topological index,https://doi.org/10.1007/s10910-015-0480-z,2015,896,https://openalex.org/W2000076674
+2505,Materials Chemistry,The synergistic action and interplay of hydrogen embrittlement mechanisms in steels and iron: Localized plasticity and decohesion,https://doi.org/10.1016/j.engfracmech.2019.106528,2019,668,https://openalex.org/W2954556503
+2505,Materials Chemistry,"Mn<sup>2+</sup>and Mn<sup>4+</sup>red phosphors: synthesis, luminescence and applications in WLEDs. A review",https://doi.org/10.1039/c8tc00251g,2018,660,https://openalex.org/W2788861441
+2505,Materials Chemistry,Copper Corrosion Inhibitors. A review,https://doi.org/10.1016/s1452-3981(23)15441-1,2008,621,https://openalex.org/W3216186527
+2505,Materials Chemistry,Recent developments in the Inorganic Crystal Structure Database: theoretical crystal structure data and related features,https://doi.org/10.1107/s160057671900997x,2019,564,https://openalex.org/W2975270375
+2505,Materials Chemistry,Trends in luminescence thermometry,https://doi.org/10.1063/5.0014825,2020,506,https://openalex.org/W3043910183
+2505,Materials Chemistry,"Ecotoxicological effects of microplastics: Examination of biomarkers, current state and future perspectives",https://doi.org/10.1016/j.trac.2018.12.001,2018,501,https://openalex.org/W2903835006
+2505,Materials Chemistry,Biomedical potential of the reactive oxygen species generation and quenching by fullerenes (C60),https://doi.org/10.1016/j.biomaterials.2008.05.005,2008,448,https://openalex.org/W2097585673
+2505,Materials Chemistry,Phonon dispersion of graphite by inelastic x-ray scattering,https://doi.org/10.1103/physrevb.76.035439,2007,448,https://openalex.org/W2036334583
+2210,Mechanical Engineering,"Virtual laboratories for education in science, technology, and engineering: A review",https://doi.org/10.1016/j.compedu.2016.02.002,2016,931,https://openalex.org/W2253312808
+2210,Mechanical Engineering,Biodiesel production from non-edible plant oils,https://doi.org/10.1016/j.rser.2012.03.002,2012,502,https://openalex.org/W1964658017
+2210,Mechanical Engineering,Bolted shear connectors vs. headed studs behaviour in push-out tests,https://doi.org/10.1016/j.jcsr.2013.05.003,2013,478,https://openalex.org/W2031355862
+2210,Mechanical Engineering,Potential benefits of a non-linear stiffness in an energy harvesting device,https://doi.org/10.1007/s11071-009-9561-5,2009,422,https://openalex.org/W2034729333
+2210,Mechanical Engineering,Fast Fourier Transform IR Characterization of Epoxy GY Systems Crosslinked with Aliphatic and Cycloaliphatic EH Polyamine Adducts,https://doi.org/10.3390/s100100684,2010,396,https://openalex.org/W2088914411
+2210,Mechanical Engineering,Recent advances on hydrometallurgical recovery of critical and precious elements from end of life electronic wastes - a review,https://doi.org/10.1080/10643389.2018.1540760,2019,363,https://openalex.org/W2910383994
+2210,Mechanical Engineering,A review of recent developments in the synthesis procedures of lithium iron phosphate powders,https://doi.org/10.1016/j.jpowsour.2009.01.074,2009,345,https://openalex.org/W1998378183
+2210,Mechanical Engineering,Calcium oxide as a promising heterogeneous catalyst for biodiesel production: Current state and perspectives,https://doi.org/10.1016/j.rser.2015.12.007,2015,337,https://openalex.org/W2210584304
+2210,Mechanical Engineering,The production of biodiesel from waste frying oils: A comparison of different purification steps,https://doi.org/10.1016/j.fuel.2008.07.003,2008,326,https://openalex.org/W1982100864
+2210,Mechanical Engineering,Removal of Co2+ from aqueous solutions by hydroxyapatite,https://doi.org/10.1016/j.watres.2006.04.031,2006,311,https://openalex.org/W2074889805
+3312,Sociology and Political Science,Mosquitoes and Their Control,https://doi.org/10.1007/978-3-540-92874-4,2010,1289,https://openalex.org/W1841057661
+3312,Sociology and Political Science,Analyzing reaction times,https://doi.org/10.21500/20112084.807,2010,1085,https://openalex.org/W1955927543
+3312,Sociology and Political Science,Many Labs 2: Investigating Variation in Replicability Across Samples and Settings,https://doi.org/10.1177/2515245918810225,2018,986,https://openalex.org/W2776961836
+3312,Sociology and Political Science,"Goodbye Washington Consensus, hello Washington confusion?: A review of the World Bank's 'Economic growth in the 1990s: Learning from a decade of reform'",https://doi.org/10.2298/pan0802135r,2008,941,https://openalex.org/W2097480477
+3312,Sociology and Political Science,A SEM-neural network approach for predicting antecedents of m-commerce acceptance,https://doi.org/10.1016/j.ijinfomgt.2016.10.008,2016,520,https://openalex.org/W2561131998
+3312,Sociology and Political Science,Using the sustainable development goals towards a better understanding of sustainability challenges,https://doi.org/10.1080/13504509.2018.1505674,2018,511,https://openalex.org/W2885416708
+3312,Sociology and Political Science,Online Social Networking and Mental Health,https://doi.org/10.1089/cyber.2014.0070,2014,507,https://openalex.org/W2031193130
+3312,Sociology and Political Science,Predicting the determinants of mobile payment acceptance: A hybrid SEM-neural network approach,https://doi.org/10.1016/j.techfore.2017.12.015,2017,459,https://openalex.org/W2778468755
+3312,Sociology and Political Science,Preferred Interpersonal Distances: A Global Comparison,https://doi.org/10.1177/0022022117698039,2017,434,https://openalex.org/W2601252140
+3312,Sociology and Political Science,From the traditional understanding of tourism destination to the smart tourism destination,https://doi.org/10.1080/13683500.2017.1313203,2017,412,https://openalex.org/W2606875775
+2740,Pulmonary and Respiratory Medicine,Recent developments in Geant4,https://doi.org/10.1016/j.nima.2016.06.125,2016,3648,https://openalex.org/W1990869665
+2740,Pulmonary and Respiratory Medicine,"Temsirolimus, Interferon Alfa, or Both for Advanced Renal-Cell Carcinoma",https://doi.org/10.1056/nejmoa066838,2007,3625,https://openalex.org/W2153867442
+2740,Pulmonary and Respiratory Medicine,Chemotherapy with Preoperative Radiotherapy in Rectal Cancer,https://doi.org/10.1056/nejmoa060829,2006,2676,https://openalex.org/W2124886112
+2740,Pulmonary and Respiratory Medicine,Comprehensive genomic profiles of small cell lung cancer,https://doi.org/10.1038/nature14664,2015,2247,https://openalex.org/W1903523058
+2740,Pulmonary and Respiratory Medicine,Atezolizumab for First-Line Treatment of PD-L1–Selected Patients with NSCLC,https://doi.org/10.1056/nejmoa1917346,2020,1577,https://openalex.org/W3091399767
+2740,Pulmonary and Respiratory Medicine,European Respiratory Society guidelines for the management of adult bronchiectasis,https://doi.org/10.1183/13993003.00629-2017,2017,1242,https://openalex.org/W2752498201
+2740,Pulmonary and Respiratory Medicine,Update of EULAR recommendations for the treatment of systemic sclerosis,https://doi.org/10.1136/annrheumdis-2016-209909,2016,1072,https://openalex.org/W2549071917
+2740,Pulmonary and Respiratory Medicine,"Cilengitide combined with standard treatment for patients with newly diagnosed glioblastoma with methylated MGMT promoter (CENTRIC EORTC 26071-22072 study): a multicentre, randomised, open-label, phase 3 trial",https://doi.org/10.1016/s1470-2045(14)70379-1,2014,981,https://openalex.org/W2101922439
+2740,Pulmonary and Respiratory Medicine,The use of diuretics in heart failure with congestion — a position statement from the Heart Failure Association of the European Society of Cardiology,https://doi.org/10.1002/ejhf.1369,2019,980,https://openalex.org/W2907983377
+2740,Pulmonary and Respiratory Medicine,Aggregated neutrophil extracellular traps limit inflammation by degrading cytokines and chemokines,https://doi.org/10.1038/nm.3547,2014,926,https://openalex.org/W2068992138

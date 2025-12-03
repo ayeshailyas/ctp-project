@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-1312,Molecular Biology,Research electronic data capture (REDCap)—A metadata-driven methodology and workflow process for providing translational research informatics support,https://doi.org/10.1016/j.jbi.2008.08.010,2008,47043,https://openalex.org/W2093274439
-1312,Molecular Biology,Human gut microbiome viewed across age and geography,https://doi.org/10.1038/nature11053,2012,7526,https://openalex.org/W2162088497
-1312,Molecular Biology,Delivery mode shapes the acquisition and structure of the initial microbiota across multiple body habitats in newborns,https://doi.org/10.1073/pnas.1002601107,2010,4526,https://openalex.org/W2023506796
-3312,Sociology and Political Science,Novel ecosystems: theoretical and management aspects of the new ecological world order,https://doi.org/10.1111/j.1466-822x.2006.00212.x,2006,2029,https://openalex.org/W2124696785
-3312,Sociology and Political Science,Scientific procedures and rationales for systematic literature reviews (SPAR‐4‐SLR),https://doi.org/10.1111/ijcs.12695,2021,1614,https://openalex.org/W3154271163
-3312,Sociology and Political Science,Reviving tourism industry post-COVID-19: A resilience-based framework,https://doi.org/10.1016/j.tmp.2020.100786,2020,837,https://openalex.org/W3117139749
-2505,Materials Chemistry,Atomically Thin Arsenene and Antimonene: Semimetal–Semiconductor and Indirect–Direct Band‐Gap Transitions,https://doi.org/10.1002/anie.201411246,2015,1491,https://openalex.org/W2103291130
-2505,Materials Chemistry,Single Mo Atom Supported on Defective Boron Nitride Monolayer as an Efficient Electrocatalyst for Nitrogen Fixation: A Computational Study,https://doi.org/10.1021/jacs.7b05213,2017,1192,https://openalex.org/W2744886316
-2505,Materials Chemistry,Emerging memories: resistive switching mechanisms and current status,https://doi.org/10.1088/0034-4885/75/7/076502,2012,1056,https://openalex.org/W1994319933
-2746,Surgery,Epidemiology and Natural History of Human Papillomavirus Infections and Type-Specific Implications in Cervical Neoplasia,https://doi.org/10.1016/j.vaccine.2008.05.064,2008,833,https://openalex.org/W1987045012
+1312,Molecular Biology,Research electronic data capture (REDCap)—A metadata-driven methodology and workflow process for providing translational research informatics support,https://doi.org/10.1016/j.jbi.2008.08.010,2008,47274,https://openalex.org/W2093274439
+1312,Molecular Biology,Human gut microbiome viewed across age and geography,https://doi.org/10.1038/nature11053,2012,7542,https://openalex.org/W2162088497
+1312,Molecular Biology,Delivery mode shapes the acquisition and structure of the initial microbiota across multiple body habitats in newborns,https://doi.org/10.1073/pnas.1002601107,2010,4540,https://openalex.org/W2023506796
+1312,Molecular Biology,Treatment of HCV Infection by Targeting MicroRNA,https://doi.org/10.1056/nejmoa1209026,2013,2140,https://openalex.org/W2157916750
+1312,Molecular Biology,Müller cells in the healthy and diseased retina,https://doi.org/10.1016/j.preteyeres.2006.05.003,2006,1612,https://openalex.org/W2044914889
+1312,Molecular Biology,Skeletal Muscle: A Brief Review of Structure and Function,https://doi.org/10.1007/s00223-014-9915-y,2014,1533,https://openalex.org/W2165869751
+1312,Molecular Biology,Optimization of a GCaMP Calcium Indicator for Neural Activity Imaging,https://doi.org/10.1523/jneurosci.2601-12.2012,2012,1261,https://openalex.org/W2080092859
+1312,Molecular Biology,The Marine Microbial Eukaryote Transcriptome Sequencing Project (MMETSP): Illuminating the Functional Diversity of Eukaryotic Life in the Oceans through Transcriptome Sequencing,https://doi.org/10.1371/journal.pbio.1001889,2014,1069,https://openalex.org/W2019619926
+1312,Molecular Biology,Transcriptome-wide Mapping Reveals Widespread Dynamic-Regulated Pseudouridylation of ncRNA and mRNA,https://doi.org/10.1016/j.cell.2014.08.028,2014,978,https://openalex.org/W2085928743
+1312,Molecular Biology,Partial restoration of the microbiota of cesarean-born infants via vaginal microbial transfer,https://doi.org/10.1038/nm.4039,2016,971,https://openalex.org/W2262659360
+3312,Sociology and Political Science,Novel ecosystems: theoretical and management aspects of the new ecological world order,https://doi.org/10.1111/j.1466-822x.2006.00212.x,2006,2030,https://openalex.org/W2124696785
+3312,Sociology and Political Science,Scientific procedures and rationales for systematic literature reviews (SPAR‐4‐SLR),https://doi.org/10.1111/ijcs.12695,2021,1635,https://openalex.org/W3154271163
+3312,Sociology and Political Science,Reviving tourism industry post-COVID-19: A resilience-based framework,https://doi.org/10.1016/j.tmp.2020.100786,2020,840,https://openalex.org/W3117139749
+3312,Sociology and Political Science,"CROSS‐NATIONAL DIFFERENCES IN RELATIONSHIPS OF WORK DEMANDS, JOB SATISFACTION, AND TURNOVER INTENTIONS WITH WORK–FAMILY CONFLICT",https://doi.org/10.1111/j.1744-6570.2007.00092.x,2007,471,https://openalex.org/W2145326460
+3312,Sociology and Political Science,Immigrant entrepreneurship: A review and research agenda,https://doi.org/10.1016/j.jbusres.2020.03.013,2020,465,https://openalex.org/W3013121990
+3312,Sociology and Political Science,National Character Does Not Reflect Mean Personality Trait Levels in 49 Cultures,https://doi.org/10.1126/science.1117199,2005,452,https://openalex.org/W2145099378
+3312,Sociology and Political Science,Culturally centered psychosocial interventions,https://doi.org/10.1002/jcop.20096,2006,440,https://openalex.org/W2111107167
+3312,Sociology and Political Science,The influence of family tradition and psychological traits on entrepreneurial intention,https://doi.org/10.1016/j.ijhm.2011.07.007,2011,333,https://openalex.org/W2076987598
+3312,Sociology and Political Science,Two decades of research on nation branding: a review and future research agenda,https://doi.org/10.1108/imr-01-2019-0028,2019,289,https://openalex.org/W2971067225
+3312,Sociology and Political Science,The Law of Armed Conflict,https://doi.org/10.1017/cbo9780511757839,2010,270,https://openalex.org/W3156220618
+2505,Materials Chemistry,Atomically Thin Arsenene and Antimonene: Semimetal–Semiconductor and Indirect–Direct Band‐Gap Transitions,https://doi.org/10.1002/anie.201411246,2015,1492,https://openalex.org/W2103291130
+2505,Materials Chemistry,Single Mo Atom Supported on Defective Boron Nitride Monolayer as an Efficient Electrocatalyst for Nitrogen Fixation: A Computational Study,https://doi.org/10.1021/jacs.7b05213,2017,1195,https://openalex.org/W2744886316
+2505,Materials Chemistry,Emerging memories: resistive switching mechanisms and current status,https://doi.org/10.1088/0034-4885/75/7/076502,2012,1059,https://openalex.org/W1994319933
+2505,Materials Chemistry,Recent progress in 2D group-VA semiconductors: from theory to experiment,https://doi.org/10.1039/c7cs00125h,2017,827,https://openalex.org/W2775062543
+2505,Materials Chemistry,Semiconducting Group 15 Monolayers: A Broad Range of Band Gaps and High Carrier Mobilities,https://doi.org/10.1002/anie.201507568,2015,792,https://openalex.org/W2221415887
+2505,Materials Chemistry,Titanium Nanomaterial Removal and Release from Wastewater Treatment Plants,https://doi.org/10.1021/es901102n,2009,779,https://openalex.org/W2066799695
+2505,Materials Chemistry,Metallic VS<sub>2</sub> Monolayer: A Promising 2D Anode Material for Lithium Ion Batteries,https://doi.org/10.1021/jp410969u,2013,686,https://openalex.org/W2332707434
+2505,Materials Chemistry,"Promises, facts and challenges for graphene in biomedical applications",https://doi.org/10.1039/c7cs00363c,2017,682,https://openalex.org/W2737364956
+2505,Materials Chemistry,Temperature-Dependent Raman Studies and Thermal Conductivity of Few-Layer MoS<sub>2</sub>,https://doi.org/10.1021/jp402509w,2013,682,https://openalex.org/W2043184042
+2505,Materials Chemistry,Graphene-related nanomaterials: tuning properties by functionalization,https://doi.org/10.1039/c3nr33218g,2013,664,https://openalex.org/W2021484192
+2746,Surgery,Epidemiology and Natural History of Human Papillomavirus Infections and Type-Specific Implications in Cervical Neoplasia,https://doi.org/10.1016/j.vaccine.2008.05.064,2008,834,https://openalex.org/W1987045012
 2746,Surgery,Human Bone Marrow–Derived Mesenchymal Stem Cells Do Not Undergo Transformation after Long-term<i>In vitro</i>Culture and Do Not Exhibit Telomere Maintenance Mechanisms,https://doi.org/10.1158/0008-5472.can-06-4690,2007,696,https://openalex.org/W2035065708
+2746,Surgery,Futibatinib for <i>FGFR2</i> -Rearranged Intrahepatic Cholangiocarcinoma,https://doi.org/10.1056/nejmoa2206834,2023,431,https://openalex.org/W4317355154
 2746,Surgery,The AAST prospective Aortic Occlusion for Resuscitation in Trauma and Acute Care Surgery (AORTA) registry,https://doi.org/10.1097/ta.0000000000001079,2016,429,https://openalex.org/W2336049657
-2208,Electrical and Electronic Engineering,"Defect-rich and ultrathin N doped carbon nanosheets as advanced trifunctional metal-free electrocatalysts for the ORR, OER and HER",https://doi.org/10.1039/c8ee03276a,2018,1349,https://openalex.org/W2900486057
-2208,Electrical and Electronic Engineering,Emerging memories: resistive switching mechanisms and current status,https://doi.org/10.1088/0034-4885/75/7/076502,2012,1056,https://openalex.org/W1994319933
-2208,Electrical and Electronic Engineering,A Survey on Platoon-Based Vehicular Cyber-Physical Systems,https://doi.org/10.1109/comst.2015.2410831,2015,742,https://openalex.org/W2089910489
-2713,Epidemiology,"Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(15)60692-4,2015,6348,https://openalex.org/W2098082628
-2713,Epidemiology,Delivery mode shapes the acquisition and structure of the initial microbiota across multiple body habitats in newborns,https://doi.org/10.1073/pnas.1002601107,2010,4526,https://openalex.org/W2023506796
-2713,Epidemiology,Association of Trypanolytic ApoL1 Variants with Kidney Disease in African Americans,https://doi.org/10.1126/science.1193032,2010,1965,https://openalex.org/W2124641083
-2739,"Public Health, Environmental and Occupational Health","Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(15)60692-4,2015,6348,https://openalex.org/W2098082628
+2746,Surgery,Development of the Human Gastrointestinal Microbiota and Insights From High-Throughput Sequencing,https://doi.org/10.1053/j.gastro.2011.02.011,2011,419,https://openalex.org/W1987625100
+2746,Surgery,Intravascular Imaging–Guided or Angiography-Guided Complex PCI,https://doi.org/10.1056/nejmoa2216607,2023,411,https://openalex.org/W4323262082
+2746,Surgery,Treatment of Anal High-Grade Squamous Intraepithelial Lesions to Prevent Anal Cancer,https://doi.org/10.1056/nejmoa2201048,2022,410,https://openalex.org/W4282974371
+2746,Surgery,"Epidemiology of Human Papillomavirus Infection in Men, Cancers other than Cervical and Benign Conditions",https://doi.org/10.1016/j.vaccine.2008.06.021,2008,395,https://openalex.org/W1968890438
+2746,Surgery,Expression Signature of <i>E2F1</i> and Its Associated Genes Predict Superficial to Invasive Progression of Bladder Tumors,https://doi.org/10.1200/jco.2009.25.0977,2010,340,https://openalex.org/W2114299743
+2746,Surgery,Cumulative Incidence of Cancer Among Persons With HIV in North America,https://doi.org/10.7326/m14-2768,2015,317,https://openalex.org/W1855726770
+2208,Electrical and Electronic Engineering,"Defect-rich and ultrathin N doped carbon nanosheets as advanced trifunctional metal-free electrocatalysts for the ORR, OER and HER",https://doi.org/10.1039/c8ee03276a,2018,1352,https://openalex.org/W2900486057
+2208,Electrical and Electronic Engineering,Emerging memories: resistive switching mechanisms and current status,https://doi.org/10.1088/0034-4885/75/7/076502,2012,1059,https://openalex.org/W1994319933
+2208,Electrical and Electronic Engineering,A Survey on Platoon-Based Vehicular Cyber-Physical Systems,https://doi.org/10.1109/comst.2015.2410831,2015,745,https://openalex.org/W2089910489
+2208,Electrical and Electronic Engineering,Metallic VS<sub>2</sub> Monolayer: A Promising 2D Anode Material for Lithium Ion Batteries,https://doi.org/10.1021/jp410969u,2013,686,https://openalex.org/W2332707434
+2208,Electrical and Electronic Engineering,Graphene-related nanomaterials: tuning properties by functionalization,https://doi.org/10.1039/c3nr33218g,2013,664,https://openalex.org/W2021484192
+2208,Electrical and Electronic Engineering,In Search of the Active Site in Nitrogen-Doped Carbon Nanotube Electrodes for the Oxygen Reduction Reaction,https://doi.org/10.1021/jz100971v,2010,625,https://openalex.org/W2093669265
+2208,Electrical and Electronic Engineering,Recent advances in ZnO nanostructures and thin films for biosensor applications: Review,https://doi.org/10.1016/j.aca.2012.05.048,2012,561,https://openalex.org/W2078723411
+2208,Electrical and Electronic Engineering,Proton exchange membrane fuel cell from low temperature to high temperature: Material challenges,https://doi.org/10.1016/j.jpowsour.2007.02.065,2007,558,https://openalex.org/W2065189559
+2208,Electrical and Electronic Engineering,Spin Gapless Semiconductor−Metal−Half-Metal Properties in Nitrogen-Doped Zigzag Graphene Nanoribbons,https://doi.org/10.1021/nn9003428,2009,535,https://openalex.org/W2088585280
+2208,Electrical and Electronic Engineering,"Review of: ""Graphene molecular nanomemories show unique electronic properties, and their small dimensions, structural strength, and high performance make them a charge storage medium for Nano memory applications""",https://doi.org/10.32388/a6k2u7,2024,478,https://openalex.org/W4390482881
+2713,Epidemiology,"Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(15)60692-4,2015,6355,https://openalex.org/W2098082628
+2713,Epidemiology,Delivery mode shapes the acquisition and structure of the initial microbiota across multiple body habitats in newborns,https://doi.org/10.1073/pnas.1002601107,2010,4540,https://openalex.org/W2023506796
+2713,Epidemiology,Association of Trypanolytic ApoL1 Variants with Kidney Disease in African Americans,https://doi.org/10.1126/science.1193032,2010,1967,https://openalex.org/W2124641083
+2713,Epidemiology,Sofosbuvir for Previously Untreated Chronic Hepatitis C Infection,https://doi.org/10.1056/nejmoa1214853,2013,1775,https://openalex.org/W2078251659
+2713,Epidemiology,Is vitamin D deficiency a major global public health problem?,https://doi.org/10.1016/j.jsbmb.2013.11.003,2013,1193,https://openalex.org/W2000422963
+2713,Epidemiology,Sofosbuvir for Hepatitis C Genotype 2 or 3 in Patients without Treatment Options,https://doi.org/10.1056/nejmoa1214854,2013,1079,https://openalex.org/W2120733999
+2713,Epidemiology,Mapping the human genetic architecture of COVID-19,https://doi.org/10.1038/s41586-021-03767-x,2021,1053,https://openalex.org/W3182807823
+2713,Epidemiology,Partial restoration of the microbiota of cesarean-born infants via vaginal microbial transfer,https://doi.org/10.1038/nm.4039,2016,971,https://openalex.org/W2262659360
+2713,Epidemiology,Early Surgery versus Conventional Treatment for Infective Endocarditis,https://doi.org/10.1056/nejmoa1112843,2012,869,https://openalex.org/W2166377714
+2713,Epidemiology,Epidemiology and Natural History of Human Papillomavirus Infections and Type-Specific Implications in Cervical Neoplasia,https://doi.org/10.1016/j.vaccine.2008.05.064,2008,834,https://openalex.org/W1987045012
+2739,"Public Health, Environmental and Occupational Health","Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(15)60692-4,2015,6355,https://openalex.org/W2098082628
 2739,"Public Health, Environmental and Occupational Health",How many steps/day are enough? For older adults and special populations,https://doi.org/10.1186/1479-5868-8-80,2011,1063,https://openalex.org/W2164613013
 2739,"Public Health, Environmental and Occupational Health",Efficacy of a Tetravalent Dengue Vaccine in Children in Latin America,https://doi.org/10.1056/nejmoa1411037,2014,920,https://openalex.org/W2164079841
-2303,Ecology,A communal catalogue reveals Earth’s multiscale microbial diversity,https://doi.org/10.1038/nature24621,2017,2629,https://openalex.org/W2766358903
-2303,Ecology,Novel ecosystems: theoretical and management aspects of the new ecological world order,https://doi.org/10.1111/j.1466-822x.2006.00212.x,2006,2029,https://openalex.org/W2124696785
-2303,Ecology,The Impact of Conservation on the Status of the World’s Vertebrates,https://doi.org/10.1126/science.1194442,2010,1509,https://openalex.org/W2111760270
-1110,Plant Science,Consumer behavior and purchase intention for organic food: A review and research agenda,https://doi.org/10.1016/j.jretconser.2017.06.004,2017,939,https://openalex.org/W2627035078
-1110,Plant Science,"Hidden Fungi, Emergent Properties: Endophytes and Microbiomes",https://doi.org/10.1146/annurev-phyto-080508-081831,2011,933,https://openalex.org/W2137980120
+2739,"Public Health, Environmental and Occupational Health",Association between Body-Mass Index and Risk of Death in More Than 1 Million Asians,https://doi.org/10.1056/nejmoa1010679,2011,871,https://openalex.org/W2155458338
+2739,"Public Health, Environmental and Occupational Health",Early Surgery versus Conventional Treatment for Infective Endocarditis,https://doi.org/10.1056/nejmoa1112843,2012,869,https://openalex.org/W2166377714
+2739,"Public Health, Environmental and Occupational Health",Vitamin D supplementation for women during pregnancy,https://doi.org/10.1002/14651858.cd008873.pub3,2016,738,https://openalex.org/W1848443055
+2739,"Public Health, Environmental and Occupational Health",Race and Genetic Ancestry in Medicine — A Time for Reckoning with Racism,https://doi.org/10.1056/nejmms2029562,2021,599,https://openalex.org/W3120196678
+2739,"Public Health, Environmental and Occupational Health",Impact of human mobility on the emergence of dengue epidemics in Pakistan,https://doi.org/10.1073/pnas.1504964112,2015,501,https://openalex.org/W2162301084
+2739,"Public Health, Environmental and Occupational Health",Persistence of Zika Virus in Body Fluids — Final Report,https://doi.org/10.1056/nejmoa1613108,2017,469,https://openalex.org/W2588207387
+2739,"Public Health, Environmental and Occupational Health","Intake of Fruit, Vegetables, and Fruit Juices and Risk of Diabetes in Women",https://doi.org/10.2337/dc08-0080,2008,431,https://openalex.org/W2126386728
+2303,Ecology,A communal catalogue reveals Earth’s multiscale microbial diversity,https://doi.org/10.1038/nature24621,2017,2644,https://openalex.org/W2766358903
+2303,Ecology,Novel ecosystems: theoretical and management aspects of the new ecological world order,https://doi.org/10.1111/j.1466-822x.2006.00212.x,2006,2030,https://openalex.org/W2124696785
+2303,Ecology,The Impact of Conservation on the Status of the World’s Vertebrates,https://doi.org/10.1126/science.1194442,2010,1510,https://openalex.org/W2111760270
+2303,Ecology,The Amazon basin in transition,https://doi.org/10.1038/nature10717,2012,1238,https://openalex.org/W1963799937
+2303,Ecology,The Circumpolar Arctic vegetation map,https://doi.org/10.1111/j.1654-1103.2005.tb02365.x,2005,1078,https://openalex.org/W2316175344
+2303,Ecology,The Marine Microbial Eukaryote Transcriptome Sequencing Project (MMETSP): Illuminating the Functional Diversity of Eukaryotic Life in the Oceans through Transcriptome Sequencing,https://doi.org/10.1371/journal.pbio.1001889,2014,1069,https://openalex.org/W2019619926
+2303,Ecology,Restoration Success: How Is It Being Measured?,https://doi.org/10.1111/j.1526-100x.2005.00072.x,2005,1059,https://openalex.org/W2153054285
+2303,Ecology,Don't judge species on their origins,https://doi.org/10.1038/474153a,2011,1042,https://openalex.org/W2129849322
+2303,Ecology,"Caribbean Corals in Crisis: Record Thermal Stress, Bleaching, and Mortality in 2005",https://doi.org/10.1371/journal.pone.0013969,2010,889,https://openalex.org/W2156568771
+2303,Ecology,The Potential for Species Conservation in Tropical Secondary Forests,https://doi.org/10.1111/j.1523-1739.2009.01338.x,2009,657,https://openalex.org/W2000338728
+1110,Plant Science,Consumer behavior and purchase intention for organic food: A review and research agenda,https://doi.org/10.1016/j.jretconser.2017.06.004,2017,945,https://openalex.org/W2627035078
+1110,Plant Science,"Hidden Fungi, Emergent Properties: Endophytes and Microbiomes",https://doi.org/10.1146/annurev-phyto-080508-081831,2011,936,https://openalex.org/W2137980120
 1110,Plant Science,Pseudomonas syringae pv. tomato hijacks the Arabidopsis abscisic acid signalling pathway to cause disease,https://doi.org/10.1038/sj.emboj.7601575,2007,540,https://openalex.org/W2115876683
+1110,Plant Science,Major clades of Agaricales: a multilocus phylogenetic overview,https://doi.org/10.3852/mycologia.98.6.982,2006,498,https://openalex.org/W2142274926
+1110,Plant Science,A molecular phylogeny of the Solanaceae,https://doi.org/10.1002/tax.574010,2008,465,https://openalex.org/W120901874
+1110,Plant Science,Major clades of Agaricales: a multilocus phylogenetic overview,https://doi.org/10.1080/15572536.2006.11832627,2006,389,https://openalex.org/W4247466629
+1110,Plant Science,Enzyme activities as affected by soil properties and land use in a tropical watershed,https://doi.org/10.1016/j.apsoil.2006.05.012,2006,353,https://openalex.org/W1987052208
+1110,Plant Science,The BioCassava Plus Program: Biofortification of Cassava for Sub-Saharan Africa,https://doi.org/10.1146/annurev-arplant-042110-103751,2011,311,https://openalex.org/W2105551788
+1110,Plant Science,Monitoring daily evapotranspiration over two California vineyards using Landsat 8 in a multi-sensor data fusion approach,https://doi.org/10.1016/j.rse.2015.10.025,2015,264,https://openalex.org/W2110832913
+1110,Plant Science,Preserving Accuracy in GenBank,https://doi.org/10.1126/science.319.5870.1616a,2008,256,https://openalex.org/W2124200821
 2204,Biomedical Engineering,A benchmark study on the thermal conductivity of nanofluids,https://doi.org/10.1063/1.3245330,2014,1090,https://openalex.org/W1603751942
-2204,Biomedical Engineering,Scaffold Design for Bone Regeneration,https://doi.org/10.1166/jnn.2014.9127,2014,940,https://openalex.org/W2005463566
-2204,Biomedical Engineering,Orbital Angular Momentum in Radio—A System Study,https://doi.org/10.1109/tap.2009.2037701,2009,868,https://openalex.org/W2169481269
+2204,Biomedical Engineering,Scaffold Design for Bone Regeneration,https://doi.org/10.1166/jnn.2014.9127,2014,943,https://openalex.org/W2005463566
+2204,Biomedical Engineering,Orbital Angular Momentum in Radio—A System Study,https://doi.org/10.1109/tap.2009.2037701,2009,871,https://openalex.org/W2169481269
+2204,Biomedical Engineering,Anytime Motion Planning using the RRT*,https://doi.org/10.1109/icra.2011.5980479,2011,837,https://openalex.org/W2112271657
+2204,Biomedical Engineering,"Promises, facts and challenges for graphene in biomedical applications",https://doi.org/10.1039/c7cs00363c,2017,682,https://openalex.org/W2737364956
+2204,Biomedical Engineering,Graphene-related nanomaterials: tuning properties by functionalization,https://doi.org/10.1039/c3nr33218g,2013,664,https://openalex.org/W2021484192
+2204,Biomedical Engineering,Nanomaterials and the environment: A review for the biennium 2008–2010,https://doi.org/10.1016/j.jhazmat.2010.11.020,2010,577,https://openalex.org/W2004948899
+2204,Biomedical Engineering,A Broadly Implementable Research Course in Phage Discovery and Genomics for First-Year Undergraduate Students,https://doi.org/10.1128/mbio.01051-13,2014,501,https://openalex.org/W2110153690
+2204,Biomedical Engineering,Degradation of volatile organic compounds with thermally activated persulfate oxidation,https://doi.org/10.1016/j.chemosphere.2005.02.032,2005,445,https://openalex.org/W2085693924
+2204,Biomedical Engineering,Exposure of engineered nanomaterials to plants: Insights into the physiological and biochemical responses-A review,https://doi.org/10.1016/j.plaphy.2016.05.037,2016,415,https://openalex.org/W2404337049

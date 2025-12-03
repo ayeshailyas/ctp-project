@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-1312,Molecular Biology,Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines,https://doi.org/10.1080/20013078.2018.1535750,2018,10297,https://openalex.org/W2900756811
-1312,Molecular Biology,"The mutational constraint spectrum quantified from variation in 141,456 humans",https://doi.org/10.1038/s41586-020-2308-7,2020,9280,https://openalex.org/W3029661147
-1312,Molecular Biology,The International Scientific Association for Probiotics and Prebiotics consensus statement on the scope and appropriate use of the term probiotic,https://doi.org/10.1038/nrgastro.2014.66,2014,8329,https://openalex.org/W2149074973
-2208,Electrical and Electronic Engineering,"A Vision of 6G Wireless Systems: Applications, Trends, Technologies, and Open Research Problems",https://doi.org/10.1109/mnet.001.1900287,2019,4115,https://openalex.org/W2981096252
-2208,Electrical and Electronic Engineering,CP2K: An electronic structure and molecular dynamics software package - Quickstep: Efficient and accurate electronic structure calculations,https://doi.org/10.1063/5.0007045,2020,3368,https://openalex.org/W3027308092
-2208,Electrical and Electronic Engineering,Structural Defects in Graphene,https://doi.org/10.1021/nn102598m,2010,3214,https://openalex.org/W2007328737
+1312,Molecular Biology,Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines,https://doi.org/10.1080/20013078.2018.1535750,2018,10328,https://openalex.org/W2900756811
+1312,Molecular Biology,"The mutational constraint spectrum quantified from variation in 141,456 humans",https://doi.org/10.1038/s41586-020-2308-7,2020,9315,https://openalex.org/W3029661147
+1312,Molecular Biology,The International Scientific Association for Probiotics and Prebiotics consensus statement on the scope and appropriate use of the term probiotic,https://doi.org/10.1038/nrgastro.2014.66,2014,8369,https://openalex.org/W2149074973
+1312,Molecular Biology,"The STRING database in 2021: customizable protein–protein networks, and functional characterization of user-uploaded gene/measurement sets",https://doi.org/10.1093/nar/gkaa1074,2020,7963,https://openalex.org/W3107527779
+1312,Molecular Biology,The STRING database in 2023: protein–protein association networks and functional enrichment analyses for any sequenced genome of interest,https://doi.org/10.1093/nar/gkac1000,2022,6605,https://openalex.org/W4308834893
+1312,Molecular Biology,Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes,https://doi.org/10.1056/nejmoa1607141,2016,5940,https://openalex.org/W2519510391
+1312,Molecular Biology,Biological properties of extracellular vesicles and their physiological functions,https://doi.org/10.3402/jev.v4.27066,2015,5548,https://openalex.org/W2170852633
+1312,Molecular Biology,Nivolumab in Previously Untreated Melanoma without <i>BRAF</i> Mutation,https://doi.org/10.1056/nejmoa1412082,2014,5226,https://openalex.org/W2128035403
+1312,Molecular Biology,Expert consensus document: The International Scientific Association for Probiotics and Prebiotics (ISAPP) consensus statement on the definition and scope of prebiotics,https://doi.org/10.1038/nrgastro.2017.75,2017,4877,https://openalex.org/W2627092521
+1312,Molecular Biology,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4851,https://openalex.org/W2110375946
+2208,Electrical and Electronic Engineering,"A Vision of 6G Wireless Systems: Applications, Trends, Technologies, and Open Research Problems",https://doi.org/10.1109/mnet.001.1900287,2019,4129,https://openalex.org/W2981096252
+2208,Electrical and Electronic Engineering,CP2K: An electronic structure and molecular dynamics software package - Quickstep: Efficient and accurate electronic structure calculations,https://doi.org/10.1063/5.0007045,2020,3411,https://openalex.org/W3027308092
+2208,Electrical and Electronic Engineering,Structural Defects in Graphene,https://doi.org/10.1021/nn102598m,2010,3217,https://openalex.org/W2007328737
+2208,Electrical and Electronic Engineering,"Smart Radio Environments Empowered by Reconfigurable Intelligent Surfaces: How it Works, State of Research, and Road Ahead",https://doi.org/10.1109/jsac.2020.3007211,2021,2777,https://openalex.org/W3043220753
+2208,Electrical and Electronic Engineering,"A tutorial on UAVs for wireless networks:applications, challenges, and open problems",,2019,2604,https://openalex.org/W2962691117
+2208,Electrical and Electronic Engineering,Surface chemistry of atomic layer deposition: A case study for the trimethylaluminum/water process,https://doi.org/10.1063/1.1940727,2005,2513,https://openalex.org/W1995191254
+2208,Electrical and Electronic Engineering,Inkjet Printing—Process and Its Applications,https://doi.org/10.1002/adma.200901141,2009,2272,https://openalex.org/W2125795420
+2208,Electrical and Electronic Engineering,Electronic structure calculations with GPAW: a real-space implementation of the projector augmented-wave method,https://doi.org/10.1088/0953-8984/22/25/253202,2010,2249,https://openalex.org/W1967853451
+2208,Electrical and Electronic Engineering,In-Band Full-Duplex Wireless: Challenges and Opportunities,https://doi.org/10.1109/jsac.2014.2330193,2014,2227,https://openalex.org/W2049516452
+2208,Electrical and Electronic Engineering,Tomographic imaging using the nonlinear response of magnetic particles,https://doi.org/10.1038/nature03808,2005,1896,https://openalex.org/W1983277479
 3312,Sociology and Political Science,Interviews – Learning the Craft of Qualitative Research Interviewing,https://doi.org/10.1080/09638180.2012.675165,2012,4563,https://openalex.org/W2050762386
-3312,Sociology and Political Science,Does Gamification Work? -- A Literature Review of Empirical Studies on Gamification,https://doi.org/10.1109/hicss.2014.377,2014,4474,https://openalex.org/W1998933811
-3312,Sociology and Political Science,The Dynamics of Social Practice: Everyday Life and How it Changes,https://doi.org/10.4135/9781446250655,2012,3460,https://openalex.org/W86961873
+3312,Sociology and Political Science,Does Gamification Work? -- A Literature Review of Empirical Studies on Gamification,https://doi.org/10.1109/hicss.2014.377,2014,4492,https://openalex.org/W1998933811
+3312,Sociology and Political Science,The Dynamics of Social Practice: Everyday Life and How it Changes,https://doi.org/10.4135/9781446250655,2012,3467,https://openalex.org/W86961873
+3312,Sociology and Political Science,The sharing economy: Why people participate in collaborative consumption,https://doi.org/10.1002/asi.23552,2015,3190,https://openalex.org/W3041188046
+3312,Sociology and Political Science,Systematic methodological review: developing a framework for a qualitative semi‐structured interview guide,https://doi.org/10.1111/jan.13031,2016,3046,https://openalex.org/W2396339611
+3312,Sociology and Political Science,Refining the theory of basic individual values.,https://doi.org/10.1037/a0029393,2012,2391,https://openalex.org/W1997102788
+3312,Sociology and Political Science,Setting the future of digital and social media marketing research: Perspectives and research propositions,https://doi.org/10.1016/j.ijinfomgt.2020.102168,2020,2159,https://openalex.org/W3035686316
+3312,Sociology and Political Science,"STROCSS 2021: Strengthening the reporting of cohort, cross-sectional and case-control studies in surgery",https://doi.org/10.1016/j.ijsu.2021.106165,2021,2051,https://openalex.org/W3212282753
+3312,Sociology and Political Science,Handbook of theories of social psychology,https://doi.org/10.5860/choice.49-5135,2012,1924,https://openalex.org/W631150038
+3312,Sociology and Political Science,"Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission",https://doi.org/10.1016/s0140-6736(24)01296-0,2024,1809,https://openalex.org/W4401164724
 2204,Biomedical Engineering,Sensitivity and False Alarm Rate of a Fall Sensor in Long-Term Fall Detection in the Elderly,https://doi.org/10.1159/000362720,2014,18940,https://openalex.org/W2008854521
-2204,Biomedical Engineering,Image Denoising by Sparse 3-D Transform-Domain Collaborative Filtering,https://doi.org/10.1109/tip.2007.901238,2007,8777,https://openalex.org/W2056370875
-2204,Biomedical Engineering,Structural Defects in Graphene,https://doi.org/10.1021/nn102598m,2010,3214,https://openalex.org/W2007328737
-2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5316,https://openalex.org/W2993259418
-2746,Surgery,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4779,https://openalex.org/W2953804067
-2746,Surgery,"Biological, clinical and population relevance of 95 loci for blood lipids",https://doi.org/10.1038/nature09270,2010,3620,https://openalex.org/W2115801316
-1702,Artificial Intelligence,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.1038/s41592-019-0686-2,2020,32755,https://openalex.org/W3003257820
-1702,Artificial Intelligence,Array programming with NumPy,https://doi.org/10.1038/s41586-020-2649-2,2020,18707,https://openalex.org/W3035965352
+2204,Biomedical Engineering,Image Denoising by Sparse 3-D Transform-Domain Collaborative Filtering,https://doi.org/10.1109/tip.2007.901238,2007,8800,https://openalex.org/W2056370875
+2204,Biomedical Engineering,Structural Defects in Graphene,https://doi.org/10.1021/nn102598m,2010,3217,https://openalex.org/W2007328737
+2204,Biomedical Engineering,A survey on concept drift adaptation,https://doi.org/10.1145/2523813,2014,2939,https://openalex.org/W2099419573
+2204,Biomedical Engineering,Kubios HRV – Heart rate variability analysis software,https://doi.org/10.1016/j.cmpb.2013.07.024,2013,2502,https://openalex.org/W1972200139
+2204,Biomedical Engineering,Nonlinear plasmonics,https://doi.org/10.1038/nphoton.2012.244,2012,2410,https://openalex.org/W4211085660
+2204,Biomedical Engineering,Inkjet Printing—Process and Its Applications,https://doi.org/10.1002/adma.200901141,2009,2272,https://openalex.org/W2125795420
+2204,Biomedical Engineering,Neuropilin-1 facilitates SARS-CoV-2 cell entry and infectivity,https://doi.org/10.1126/science.abd2985,2020,1946,https://openalex.org/W3093867667
+2204,Biomedical Engineering,Status and Future of High-Power Light-Emitting Diodes for Solid-State Lighting,https://doi.org/10.1109/jdt.2007.895339,2007,1907,https://openalex.org/W2138308105
+2204,Biomedical Engineering,Tomographic imaging using the nonlinear response of magnetic particles,https://doi.org/10.1038/nature03808,2005,1896,https://openalex.org/W1983277479
+2746,Surgery,European Position Paper on Rhinosinusitis and Nasal Polyps 2020,https://doi.org/10.4193/rhin20.600,2020,5319,https://openalex.org/W2993259418
+2746,Surgery,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4782,https://openalex.org/W2953804067
+2746,Surgery,"Biological, clinical and population relevance of 95 loci for blood lipids",https://doi.org/10.1038/nature09270,2010,3623,https://openalex.org/W2115801316
+2746,Surgery,"Low-density lipoproteins cause atherosclerotic cardiovascular disease. 1. Evidence from genetic, epidemiologic, and clinical studies. A consensus statement from the European Atherosclerosis Society Consensus Panel",https://doi.org/10.1093/eurheartj/ehx144,2017,3479,https://openalex.org/W2609543937
+2746,Surgery,"2017 ESC Guidelines on the Diagnosis and Treatment of Peripheral Arterial Diseases, in collaboration with the European Society for Vascular Surgery (ESVS)",https://doi.org/10.1093/eurheartj/ehx095,2017,3114,https://openalex.org/W2975859535
+2746,Surgery,"Prevention of cardiovascular events with an antihypertensive regimen of amlodipine adding perindopril as required versus atenolol adding bendroflumethiazide as required, in the Anglo-Scandinavian Cardiac Outcomes Trial-Blood Pressure Lowering Arm (ASCOT-BPLA): a multicentre randomised controlled trial",https://doi.org/10.1016/s0140-6736(05)67185-1,2005,2894,https://openalex.org/W2129991662
+2746,Surgery,Familial hypercholesterolaemia is underdiagnosed and undertreated in the general population: guidance for clinicians to prevent coronary heart disease: Consensus Statement of the European Atherosclerosis Society,https://doi.org/10.1093/eurheartj/eht273,2013,2626,https://openalex.org/W2165624352
+2746,Surgery,The effects of lowering LDL cholesterol with simvastatin plus ezetimibe in patients with chronic kidney disease (Study of Heart and Renal Protection): a randomised placebo-controlled trial,https://doi.org/10.1016/s0140-6736(11)60739-3,2011,2405,https://openalex.org/W2134120087
+2746,Surgery,EAU Guidelines on Non–Muscle-invasive Urothelial Carcinoma of the Bladder: Update 2016,https://doi.org/10.1016/j.eururo.2016.05.041,2016,2245,https://openalex.org/W2916183155
+2746,Surgery,New genetic loci implicated in fasting glucose homeostasis and their impact on type 2 diabetes risk,https://doi.org/10.1038/ng.520,2010,2198,https://openalex.org/W2159422401
+1702,Artificial Intelligence,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.1038/s41592-019-0686-2,2020,32978,https://openalex.org/W3003257820
+1702,Artificial Intelligence,Array programming with NumPy,https://doi.org/10.1038/s41586-020-2649-2,2020,18864,https://openalex.org/W3035965352
 1702,Artificial Intelligence,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.17863/cam.64134,2019,11500,https://openalex.org/W3103145119
-1311,Genetics,"Analysis of protein-coding genetic variation in 60,706 humans",https://doi.org/10.1038/nature19057,2016,10052,https://openalex.org/W2256016639
-1311,Genetics,"The mutational constraint spectrum quantified from variation in 141,456 humans",https://doi.org/10.1038/s41586-020-2308-7,2020,9280,https://openalex.org/W3029661147
-1311,Genetics,Biological insights from 108 schizophrenia-associated genetic loci,https://doi.org/10.1038/nature13595,2014,7891,https://openalex.org/W2101357408
-3304,Education,Content analysis and thematic analysis: Implications for conducting a qualitative descriptive study,https://doi.org/10.1111/nhs.12048,2013,7789,https://openalex.org/W1924618820
+1702,Artificial Intelligence,Review of Particle Physics,https://doi.org/10.1093/ptep/ptac097,2022,5925,https://openalex.org/W2963002078
+1702,Artificial Intelligence,The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS),https://doi.org/10.1109/tmi.2014.2377694,2014,5913,https://openalex.org/W1641498739
+1702,Artificial Intelligence,Review of Particle Physics,https://doi.org/10.1016/j.physletb.2008.07.018,2008,4908,https://openalex.org/W266195994
+1702,Artificial Intelligence,Practical Bayesian model evaluation using leave-one-out cross-validation and WAIC,https://doi.org/10.1007/s11222-016-9696-4,2016,4863,https://openalex.org/W2203714058
+1702,Artificial Intelligence,Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer,https://doi.org/10.1001/jama.2017.14585,2017,3072,https://openalex.org/W2772723798
+1702,Artificial Intelligence,A survey on concept drift adaptation,https://doi.org/10.1145/2523813,2014,2939,https://openalex.org/W2099419573
+1702,Artificial Intelligence,Deep Learning for Generic Object Detection: A Survey,https://doi.org/10.1007/s11263-019-01247-4,2019,2604,https://openalex.org/W2988916019
+1311,Genetics,"Analysis of protein-coding genetic variation in 60,706 humans",https://doi.org/10.1038/nature19057,2016,10070,https://openalex.org/W2256016639
+1311,Genetics,"The mutational constraint spectrum quantified from variation in 141,456 humans",https://doi.org/10.1038/s41586-020-2308-7,2020,9315,https://openalex.org/W3029661147
+1311,Genetics,Biological insights from 108 schizophrenia-associated genetic loci,https://doi.org/10.1038/nature13595,2014,7902,https://openalex.org/W2101357408
+1311,Genetics,Genetic studies of body mass index yield new insights for obesity biology,https://doi.org/10.1038/nature14177,2015,4726,https://openalex.org/W2039153962
+1311,Genetics,"Biological, clinical and population relevance of 95 loci for blood lipids",https://doi.org/10.1038/nature09270,2010,3623,https://openalex.org/W2115801316
+1311,Genetics,FinnGen provides genetic insights from a well-phenotyped isolated population,https://doi.org/10.1038/s41586-022-05473-8,2023,3455,https://openalex.org/W4317390883
+1311,Genetics,The repertoire of mutational signatures in human cancer,https://doi.org/10.1038/s41586-020-1943-3,2020,3386,https://openalex.org/W3004480399
+1311,Genetics,Discovery and refinement of loci associated with lipid levels,https://doi.org/10.1038/ng.2797,2013,3214,https://openalex.org/W2153118028
+1311,Genetics,"A reference panel of 64,976 haplotypes for genotype imputation",https://doi.org/10.1038/ng.3643,2016,3124,https://openalex.org/W2511515754
+1311,Genetics,"Genetic meta-analysis of diagnosed Alzheimer’s disease identifies new risk loci and implicates Aβ, tau, immunity and lipid processing",https://doi.org/10.1038/s41588-019-0358-2,2019,2963,https://openalex.org/W2916749909
+3304,Education,Content analysis and thematic analysis: Implications for conducting a qualitative descriptive study,https://doi.org/10.1111/nhs.12048,2013,7820,https://openalex.org/W1924618820
 3304,Education,Interviews – Learning the Craft of Qualitative Research Interviewing,https://doi.org/10.1080/09638180.2012.675165,2012,4563,https://openalex.org/W2050762386
-3304,Education,Qualitative Content Analysis,https://doi.org/10.1177/2158244014522633,2014,3968,https://openalex.org/W2119366833
-2505,Materials Chemistry,Dali server: conservation mapping in 3D,https://doi.org/10.1093/nar/gkq366,2010,3699,https://openalex.org/W2030517878
-2505,Materials Chemistry,Structural Defects in Graphene,https://doi.org/10.1021/nn102598m,2010,3214,https://openalex.org/W2007328737
-2505,Materials Chemistry,Surface chemistry of atomic layer deposition: A case study for the trimethylaluminum/water process,https://doi.org/10.1063/1.1940727,2005,2509,https://openalex.org/W1995191254
-2713,Epidemiology,Thrombolysis with Alteplase 3 to 4.5 Hours after Acute Ischemic Stroke,https://doi.org/10.1056/nejmoa0804656,2008,6403,https://openalex.org/W2159233098
-2713,Epidemiology,A new definition for metabolic dysfunction-associated fatty liver disease: An international expert consensus statement,https://doi.org/10.1016/j.jhep.2020.03.039,2020,3917,https://openalex.org/W3015579983
-2713,Epidemiology,Mitochondria: In Sickness and in Health,https://doi.org/10.1016/j.cell.2012.02.035,2012,3217,https://openalex.org/W2131415852
+3304,Education,Qualitative Content Analysis,https://doi.org/10.1177/2158244014522633,2014,3984,https://openalex.org/W2119366833
+3304,Education,"Studies of expansive learning: Foundations, findings and future challenges",https://doi.org/10.1016/j.edurev.2009.12.002,2010,1546,https://openalex.org/W2168353148
+3304,Education,Perspectives into learning at the workplace,https://doi.org/10.1016/j.edurev.2007.12.001,2008,1069,https://openalex.org/W2043670866
+3304,Education,Entrepreneurial Motivations: What Do We Still Need to Know?,https://doi.org/10.1111/j.1540-627x.2010.00312.x,2010,1002,https://openalex.org/W1917038169
+3304,Education,"Project-Based Learning in Post-Secondary Education – Theory, Practice and Rubber Sling Shots",https://doi.org/10.1007/s10734-004-6386-5,2006,776,https://openalex.org/W2075275270
+3304,Education,The snakes and ladders of user involvement: Moving beyond Arnstein,https://doi.org/10.1016/j.healthpol.2005.05.008,2005,763,https://openalex.org/W2161436779
+3304,Education,Orthographic Depth and Its Impact on Universal Predictors of Reading,https://doi.org/10.1177/0956797610363406,2010,754,https://openalex.org/W2108394838
+3304,Education,Postdigital science and education,https://doi.org/10.1080/00131857.2018.1454000,2018,737,https://openalex.org/W2794749827
+2505,Materials Chemistry,Dali server: conservation mapping in 3D,https://doi.org/10.1093/nar/gkq366,2010,3701,https://openalex.org/W2030517878
+2505,Materials Chemistry,Structural Defects in Graphene,https://doi.org/10.1021/nn102598m,2010,3217,https://openalex.org/W2007328737
+2505,Materials Chemistry,Surface chemistry of atomic layer deposition: A case study for the trimethylaluminum/water process,https://doi.org/10.1063/1.1940727,2005,2513,https://openalex.org/W1995191254
+2505,Materials Chemistry,Magnetic hysteresis up to 80 kelvin in a dysprosium metallocene single-molecule magnet,https://doi.org/10.1126/science.aav0652,2018,1781,https://openalex.org/W2896968078
+2505,Materials Chemistry,A unified view of ligand-protected gold clusters as superatom complexes,https://doi.org/10.1073/pnas.0801001105,2008,1664,https://openalex.org/W2108299472
+2505,Materials Chemistry,The gold–sulfur interface at the nanoscale,https://doi.org/10.1038/nchem.1352,2012,1635,https://openalex.org/W2107834451
+2505,Materials Chemistry,Reproducibility in density functional theory calculations of solids,https://doi.org/10.1126/science.aad3000,2016,1512,https://openalex.org/W2310703973
+2505,Materials Chemistry,Optical modulators with 2D layered materials,https://doi.org/10.1038/nphoton.2016.15,2016,1468,https://openalex.org/W2271673449
+2505,Materials Chemistry,Crystallinity of inorganic films grown by atomic layer deposition: Overview and general trends,https://doi.org/10.1063/1.4757907,2013,1377,https://openalex.org/W2035931858
+2505,Materials Chemistry,Artificial intelligence: A powerful paradigm for scientific research,https://doi.org/10.1016/j.xinn.2021.100179,2021,1357,https://openalex.org/W3210165781
+2713,Epidemiology,Thrombolysis with Alteplase 3 to 4.5 Hours after Acute Ischemic Stroke,https://doi.org/10.1056/nejmoa0804656,2008,6417,https://openalex.org/W2159233098
+2713,Epidemiology,A new definition for metabolic dysfunction-associated fatty liver disease: An international expert consensus statement,https://doi.org/10.1016/j.jhep.2020.03.039,2020,3951,https://openalex.org/W3015579983
+2713,Epidemiology,Mitochondria: In Sickness and in Health,https://doi.org/10.1016/j.cell.2012.02.035,2012,3231,https://openalex.org/W2131415852
+2713,Epidemiology,Beige Adipocytes Are a Distinct Type of Thermogenic Fat Cell in Mouse and Human,https://doi.org/10.1016/j.cell.2012.05.016,2012,3207,https://openalex.org/W2027753197
+2713,Epidemiology,Social Contacts and Mixing Patterns Relevant to the Spread of Infectious Diseases,https://doi.org/10.1371/journal.pmed.0050074,2008,3057,https://openalex.org/W2159301256
+2713,Epidemiology,REVEL: An Ensemble Method for Predicting the Pathogenicity of Rare Missense Variants,https://doi.org/10.1016/j.ajhg.2016.08.016,2016,2653,https://openalex.org/W2521967673
+2713,Epidemiology,"European Society for Pediatric Gastroenterology, Hepatology, and Nutrition Guidelines for the Diagnosis of Coeliac Disease",https://doi.org/10.1097/mpg.0b013e31821a23d0,2011,2614,https://openalex.org/W2100548379
+2713,Epidemiology,"Effect of treatment delay, age, and stroke severity on the effects of intravenous thrombolysis with alteplase for acute ischaemic stroke: a meta-analysis of individual patient data from randomised trials",https://doi.org/10.1016/s0140-6736(14)60584-5,2014,2595,https://openalex.org/W2165568749
+2713,Epidemiology,Guidelines for the use and interpretation of assays for monitoring autophagy (4th edition)<sup>1</sup>,https://doi.org/10.1080/15548627.2020.1797280,2021,2364,https://openalex.org/W3108936441
+2713,Epidemiology,Thrombolysis with alteplase for acute ischaemic stroke in the Safe Implementation of Thrombolysis in Stroke-Monitoring Study (SITS-MOST): an observational study,https://doi.org/10.1016/s0140-6736(07)60149-4,2007,2305,https://openalex.org/W2164763924

@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-3320,Political Science and International Relations,Detonative propulsion,https://doi.org/10.1016/j.proci.2012.10.005,2012,976,https://openalex.org/W4211084575
+3320,Political Science and International Relations,Detonative propulsion,https://doi.org/10.1016/j.proci.2012.10.005,2012,985,https://openalex.org/W4211084575
 3320,Political Science and International Relations,Advances in Cryptology – EUROCRYPT 2022,https://doi.org/10.1007/978-3-031-07085-3,2022,607,https://openalex.org/W2502627125
-3320,Political Science and International Relations,Gender as “Ebola from Brussels”: The Anticolonial Frame and the Rise of Illiberal Populism,https://doi.org/10.1086/696691,2018,489,https://openalex.org/W2801662618
-1312,Molecular Biology,Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines,https://doi.org/10.1080/20013078.2018.1535750,2018,10297,https://openalex.org/W2900756811
-1312,Molecular Biology,Combined Nivolumab and Ipilimumab or Monotherapy in Untreated Melanoma,https://doi.org/10.1056/nejmoa1504030,2015,7895,https://openalex.org/W2166662937
-1312,Molecular Biology,Sunitinib versus Interferon Alfa in Metastatic Renal-Cell Carcinoma,https://doi.org/10.1056/nejmoa065044,2007,5687,https://openalex.org/W2149456801
-2210,Mechanical Engineering,<i>Fityk</i> : a general-purpose peak fitting program,https://doi.org/10.1107/s0021889810030499,2010,2580,https://openalex.org/W2088732846
-2210,Mechanical Engineering,Phase change materials for thermal energy storage,https://doi.org/10.1016/j.pmatsci.2014.03.005,2014,1934,https://openalex.org/W2053448154
-2210,Mechanical Engineering,Chemistry of persulfates in water and wastewater treatment: A review,https://doi.org/10.1016/j.cej.2017.07.132,2017,1744,https://openalex.org/W2736371272
-1110,Plant Science,TRY – a global database of plant traits,https://doi.org/10.1111/j.1365-2486.2011.02451.x,2011,2593,https://openalex.org/W2162584119
-1110,Plant Science,Hybridization and speciation,https://doi.org/10.1111/j.1420-9101.2012.02599.x,2013,2187,https://openalex.org/W1980190786
-1110,Plant Science,Genome sequence and analysis of the tuber crop potato,https://doi.org/10.1038/nature10158,2011,2063,https://openalex.org/W2012331775
-2505,Materials Chemistry,cclib: A library for package‐independent computational chemistry algorithms,https://doi.org/10.1002/jcc.20823,2007,5820,https://openalex.org/W2106824077
-2505,Materials Chemistry,How To Correctly Determine the Band Gap Energy of Modified Semiconductor Photocatalysts Based on UV–Vis Spectra,https://doi.org/10.1021/acs.jpclett.8b02892,2018,4175,https://openalex.org/W2902386805
-2505,Materials Chemistry,Ionic liquids as electrolytes,https://doi.org/10.1016/j.electacta.2006.03.016,2006,2605,https://openalex.org/W3146116847
-2002,Economics and Econometrics,Recommendations for examining and interpreting funnel plot asymmetry in meta-analyses of randomised controlled trials,https://doi.org/10.1136/bmj.d4002,2011,6785,https://openalex.org/W2119605658
-2002,Economics and Econometrics,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4779,https://openalex.org/W2953804067
-2002,Economics and Econometrics,Forecasting the Impact of Heart Failure in the United States,https://doi.org/10.1161/hhf.0b013e318291329a,2013,2689,https://openalex.org/W2126617656
-2208,Electrical and Electronic Engineering,Single-Junction Organic Solar Cell with over 15% Efficiency Using Fused-Ring Acceptor with Electron-Deficient Core,https://doi.org/10.1016/j.joule.2019.01.004,2019,5373,https://openalex.org/W2909990379
-2208,Electrical and Electronic Engineering,How To Correctly Determine the Band Gap Energy of Modified Semiconductor Photocatalysts Based on UV–Vis Spectra,https://doi.org/10.1021/acs.jpclett.8b02892,2018,4175,https://openalex.org/W2902386805
-2208,Electrical and Electronic Engineering,Survey of Wireless Indoor Positioning Techniques and Systems,https://doi.org/10.1109/tsmcc.2007.905750,2007,4008,https://openalex.org/W2100989187
-1408,Strategy and Management,Designing the Business Models for Circular Economy—Towards the Conceptual Framework,https://doi.org/10.3390/su8010043,2016,1438,https://openalex.org/W2264050319
-1408,Strategy and Management,Tuberous sclerosis,https://doi.org/10.1016/s0140-6736(08)61279-9,2008,1057,https://openalex.org/W4210953366
-1408,Strategy and Management,An extended TODIM multi-criteria group decision making method for green supplier selection in interval type-2 fuzzy environment,https://doi.org/10.1016/j.ejor.2016.09.059,2016,586,https://openalex.org/W2530583575
-2204,Biomedical Engineering,Photodynamic therapy of cancer: An update,https://doi.org/10.3322/caac.20114,2011,4991,https://openalex.org/W2151734986
-2204,Biomedical Engineering,Biochar physicochemical properties: pyrolysis temperature and feedstock kind effects,https://doi.org/10.1007/s11157-020-09523-3,2020,2272,https://openalex.org/W3004850069
-2204,Biomedical Engineering,Formation of droplets and bubbles in a microfluidic T-junction—scaling and mechanism of break-up,https://doi.org/10.1039/b510841a,2006,2200,https://openalex.org/W2142423992
-3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2957,https://openalex.org/W2161411308
-3312,Sociology and Political Science,Refining the theory of basic individual values.,https://doi.org/10.1037/a0029393,2012,2376,https://openalex.org/W1997102788
-3312,Sociology and Political Science,Place attachment: How far have we come in the last 40 years?,https://doi.org/10.1016/j.jenvp.2010.10.001,2010,2346,https://openalex.org/W1985363405
+3320,Political Science and International Relations,Gender as “Ebola from Brussels”: The Anticolonial Frame and the Rise of Illiberal Populism,https://doi.org/10.1086/696691,2018,490,https://openalex.org/W2801662618
+3320,Political Science and International Relations,When Left Is Right: Party Ideology and Policy in Post-Communist Europe,https://doi.org/10.1017/s0003055409990220,2009,358,https://openalex.org/W2070424625
+3320,Political Science and International Relations,Kodeks cywilny. Komentarz,,2018,323,https://openalex.org/W2625912609
+3320,Political Science and International Relations,Uprooted but Stable: Chilean Parties and the Concept of Party System Institutionalization,https://doi.org/10.1111/j.1548-2456.2011.00115.x,2011,316,https://openalex.org/W2152457699
+3320,Political Science and International Relations,The gendered modus operandi of the illiberal transformation in Hungary and Poland,https://doi.org/10.1016/j.wsif.2017.12.001,2018,256,https://openalex.org/W2792391684
+3320,Political Science and International Relations,The European rescue of the Washington Consensus? EU and IMF lending to Central and Eastern European countries,https://doi.org/10.1080/09692290.2012.747104,2013,250,https://openalex.org/W2136959306
+3320,Political Science and International Relations,The role of information and communication technologies in socioeconomic development: towards a multi-dimensional framework,https://doi.org/10.1080/02681102.2019.1596654,2019,243,https://openalex.org/W2943662762
+3320,Political Science and International Relations,"Informing, engaging, mobilizing or interacting: Searching for a European model of web campaigning",https://doi.org/10.1177/0267323111416182,2011,241,https://openalex.org/W2034466487
+1312,Molecular Biology,Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines,https://doi.org/10.1080/20013078.2018.1535750,2018,10328,https://openalex.org/W2900756811
+1312,Molecular Biology,Combined Nivolumab and Ipilimumab or Monotherapy in Untreated Melanoma,https://doi.org/10.1056/nejmoa1504030,2015,7911,https://openalex.org/W2166662937
+1312,Molecular Biology,Sunitinib versus Interferon Alfa in Metastatic Renal-Cell Carcinoma,https://doi.org/10.1056/nejmoa065044,2007,5690,https://openalex.org/W2149456801
+1312,Molecular Biology,Nivolumab in Previously Untreated Melanoma without <i>BRAF</i> Mutation,https://doi.org/10.1056/nejmoa1412082,2014,5226,https://openalex.org/W2128035403
+1312,Molecular Biology,Sorafenib in Advanced Clear-Cell Renal-Cell Carcinoma,https://doi.org/10.1056/nejmoa060655,2007,4730,https://openalex.org/W1999966467
+1312,Molecular Biology,Cardiovascular and Renal Outcomes with Empagliflozin in Heart Failure,https://doi.org/10.1056/nejmoa2022190,2020,4550,https://openalex.org/W3081830235
+1312,Molecular Biology,Natural products in drug discovery: advances and opportunities,https://doi.org/10.1038/s41573-020-00114-z,2021,4316,https://openalex.org/W3119952098
+1312,Molecular Biology,Secondary prevention of macrovascular events in patients with type 2 diabetes in the PROactive Study (PROspective pioglitAzone Clinical Trial In macroVascular Events): a randomised controlled trial,https://doi.org/10.1016/s0140-6736(05)67528-9,2005,4090,https://openalex.org/W2159969745
+1312,Molecular Biology,"Temsirolimus, Interferon Alfa, or Both for Advanced Renal-Cell Carcinoma",https://doi.org/10.1056/nejmoa066838,2007,3625,https://openalex.org/W2153867442
+1312,Molecular Biology,Five-Year Survival with Combined Nivolumab and Ipilimumab in Advanced Melanoma,https://doi.org/10.1056/nejmoa1910836,2019,3491,https://openalex.org/W3043703771
+2210,Mechanical Engineering,<i>Fityk</i> : a general-purpose peak fitting program,https://doi.org/10.1107/s0021889810030499,2010,2588,https://openalex.org/W2088732846
+2210,Mechanical Engineering,Phase change materials for thermal energy storage,https://doi.org/10.1016/j.pmatsci.2014.03.005,2014,1947,https://openalex.org/W2053448154
+2210,Mechanical Engineering,Chemistry of persulfates in water and wastewater treatment: A review,https://doi.org/10.1016/j.cej.2017.07.132,2017,1749,https://openalex.org/W2736371272
+2210,Mechanical Engineering,Redefining fine roots improves understanding of below‐ground contributions to terrestrial biosphere processes,https://doi.org/10.1111/nph.13363,2015,1322,https://openalex.org/W2160542921
+2210,Mechanical Engineering,Advanced monitoring of machining operations,https://doi.org/10.1016/j.cirp.2010.05.010,2010,1254,https://openalex.org/W2000304567
+2210,Mechanical Engineering,Hallmarks of mechanochemistry: from nanoparticles to technology,https://doi.org/10.1039/c3cs35468g,2013,1182,https://openalex.org/W2071082437
+2210,Mechanical Engineering,Theoretical models of sorption kinetics including a surface reaction mechanism: A review,https://doi.org/10.1016/j.cis.2009.07.009,2009,929,https://openalex.org/W1996822951
+2210,Mechanical Engineering,Progress Report on Natural Fiber Reinforced Composites,https://doi.org/10.1002/mame.201300008,2013,924,https://openalex.org/W2096769811
+2210,Mechanical Engineering,"Synthesis methods, chemical structures and phase structures of linear polyurethanes. Properties and applications of linear polyurethanes in polyurethane elastomers, copolymers and ionomers",https://doi.org/10.1016/j.pmatsci.2006.11.001,2006,888,https://openalex.org/W2063204062
+2210,Mechanical Engineering,Trends in NO abatement: A review,https://doi.org/10.1016/j.scitotenv.2010.06.001,2010,847,https://openalex.org/W1975208468
+1110,Plant Science,TRY – a global database of plant traits,https://doi.org/10.1111/j.1365-2486.2011.02451.x,2011,2595,https://openalex.org/W2162584119
+1110,Plant Science,Hybridization and speciation,https://doi.org/10.1111/j.1420-9101.2012.02599.x,2013,2193,https://openalex.org/W1980190786
+1110,Plant Science,Genome sequence and analysis of the tuber crop potato,https://doi.org/10.1038/nature10158,2011,2065,https://openalex.org/W2012331775
+1110,Plant Science,Genome sequencing and analysis of the model grass Brachypodium distachyon,https://doi.org/10.1038/nature08747,2010,1933,https://openalex.org/W1972171731
+1110,Plant Science,Diversity and heritability of the maize rhizosphere microbiome under field conditions,https://doi.org/10.1073/pnas.1302837110,2013,1726,https://openalex.org/W2052504406
+1110,Plant Science,The Paleozoic Origin of Enzymatic Lignin Decomposition Reconstructed from 31 Fungal Genomes,https://doi.org/10.1126/science.1221748,2012,1721,https://openalex.org/W2165876708
+1110,Plant Science,Three-dimensional Epigenome Statistical Model: Genome-wide Chromatin Looping Prediction,https://doi.org/10.1038/s41598-018-23276-8,2018,1655,https://openalex.org/W2795091386
+1110,Plant Science,"Vegetation of Europe: hierarchical floristic classification system of vascular plant, bryophyte, lichen, and algal communities",https://doi.org/10.1111/avsc.12257,2016,1411,https://openalex.org/W2521173605
+1110,Plant Science,Improving photosynthesis and crop productivity by accelerating recovery from photoprotection,https://doi.org/10.1126/science.aai8878,2016,1254,https://openalex.org/W2555544367
+1110,Plant Science,Chlorophyll a fluorescence as a tool to monitor physiological status of plants under abiotic stress conditions,https://doi.org/10.1007/s11738-016-2113-y,2016,1171,https://openalex.org/W2321443763
+2505,Materials Chemistry,cclib: A library for package‐independent computational chemistry algorithms,https://doi.org/10.1002/jcc.20823,2007,5837,https://openalex.org/W2106824077
+2505,Materials Chemistry,How To Correctly Determine the Band Gap Energy of Modified Semiconductor Photocatalysts Based on UV–Vis Spectra,https://doi.org/10.1021/acs.jpclett.8b02892,2018,4212,https://openalex.org/W2902386805
+2505,Materials Chemistry,Ionic liquids as electrolytes,https://doi.org/10.1016/j.electacta.2006.03.016,2006,2611,https://openalex.org/W3146116847
+2505,Materials Chemistry,<i>Fityk</i> : a general-purpose peak fitting program,https://doi.org/10.1107/s0021889810030499,2010,2588,https://openalex.org/W2088732846
+2505,Materials Chemistry,Zinc Oxide—From Synthesis to Application: A Review,https://doi.org/10.3390/ma7042833,2014,2290,https://openalex.org/W2141918308
+2505,Materials Chemistry,Automated exploration of the low-energy chemical space with fast quantum chemical methods,https://doi.org/10.1039/c9cp06869d,2020,2013,https://openalex.org/W3006234984
+2505,Materials Chemistry,Carbon materials for supercapacitor application,https://doi.org/10.1039/b618139m,2007,1983,https://openalex.org/W2031004145
+2505,Materials Chemistry,"A look at the density functional theory zoo with the advanced GMTKN55 database for general main group thermochemistry, kinetics and noncovalent interactions",https://doi.org/10.1039/c7cp04913g,2017,1772,https://openalex.org/W2766033847
+2505,Materials Chemistry,"Graphene oxide and reduced graphene oxide studied by the XRD, TEM and electron spectroscopy methods",https://doi.org/10.1016/j.elspec.2014.07.003,2014,1759,https://openalex.org/W1976073956
+2505,Materials Chemistry,Valley filter and valley valve in graphene,https://doi.org/10.1038/nphys547,2007,1640,https://openalex.org/W2049923364
+2002,Economics and Econometrics,Recommendations for examining and interpreting funnel plot asymmetry in meta-analyses of randomised controlled trials,https://doi.org/10.1136/bmj.d4002,2011,6821,https://openalex.org/W2119605658
+2002,Economics and Econometrics,2019 ESC/EAS guidelines for the management of dyslipidaemias: Lipid modification to reduce cardiovascular risk,https://doi.org/10.1016/j.atherosclerosis.2019.08.014,2019,4782,https://openalex.org/W2953804067
+2002,Economics and Econometrics,Forecasting the Impact of Heart Failure in the United States,https://doi.org/10.1161/hhf.0b013e318291329a,2013,2690,https://openalex.org/W2126617656
+2002,Economics and Econometrics,Avelumab plus Axitinib versus Sunitinib for Advanced Renal-Cell Carcinoma,https://doi.org/10.1056/nejmoa1816047,2019,2436,https://openalex.org/W2911812451
+2002,Economics and Econometrics,The effects of lowering LDL cholesterol with simvastatin plus ezetimibe in patients with chronic kidney disease (Study of Heart and Renal Protection): a randomised placebo-controlled trial,https://doi.org/10.1016/s0140-6736(11)60739-3,2011,2405,https://openalex.org/W2134120087
+2002,Economics and Econometrics,Interim Scoring for the EQ-5D-5L: Mapping the EQ-5D-5L to EQ-5D-3L Value Sets,https://doi.org/10.1016/j.jval.2012.02.008,2012,2055,https://openalex.org/W2013564592
+2002,Economics and Econometrics,Heart failure: preventing disease and death worldwide,https://doi.org/10.1002/ehf2.12005,2014,1657,https://openalex.org/W2152865365
+2002,Economics and Econometrics,Measurement properties of the EQ-5D-5L compared to the EQ-5D-3L across eight patient groups: a multi-country study,https://doi.org/10.1007/s11136-012-0322-4,2012,1492,https://openalex.org/W2089165963
+2002,Economics and Econometrics,The positive impact of lockdown in Wuhan on containing the COVID-19 outbreak in China,https://doi.org/10.1093/jtm/taaa037,2020,1354,https://openalex.org/W3011800583
+2002,Economics and Econometrics,Dietary Choices and Habits during COVID-19 Lockdown: Experience from Poland,https://doi.org/10.3390/nu12061657,2020,1105,https://openalex.org/W3033487540
+2208,Electrical and Electronic Engineering,Single-Junction Organic Solar Cell with over 15% Efficiency Using Fused-Ring Acceptor with Electron-Deficient Core,https://doi.org/10.1016/j.joule.2019.01.004,2019,5392,https://openalex.org/W2909990379
+2208,Electrical and Electronic Engineering,How To Correctly Determine the Band Gap Energy of Modified Semiconductor Photocatalysts Based on UV–Vis Spectra,https://doi.org/10.1021/acs.jpclett.8b02892,2018,4212,https://openalex.org/W2902386805
+2208,Electrical and Electronic Engineering,Survey of Wireless Indoor Positioning Techniques and Systems,https://doi.org/10.1109/tsmcc.2007.905750,2007,4012,https://openalex.org/W2100989187
+2208,Electrical and Electronic Engineering,Recent Advances and Industrial Applications of Multilevel Converters,https://doi.org/10.1109/tie.2010.2049719,2010,3731,https://openalex.org/W2139772385
+2208,Electrical and Electronic Engineering,Carbons and Electrolytes for Advanced Supercapacitors,https://doi.org/10.1002/adma.201304137,2014,2520,https://openalex.org/W1978126078
+2208,Electrical and Electronic Engineering,Zinc Oxide—From Synthesis to Application: A Review,https://doi.org/10.3390/ma7042833,2014,2290,https://openalex.org/W2141918308
+2208,Electrical and Electronic Engineering,A Survey on Cascaded Multilevel Inverters,https://doi.org/10.1109/tie.2009.2030767,2009,2270,https://openalex.org/W2154211756
+2208,Electrical and Electronic Engineering,Learning from imbalanced data: open challenges and future directions,https://doi.org/10.1007/s13748-016-0094-0,2016,2235,https://openalex.org/W2338318698
+2208,Electrical and Electronic Engineering,Formation of droplets and bubbles in a microfluidic T-junction—scaling and mechanism of break-up,https://doi.org/10.1039/b510841a,2006,2204,https://openalex.org/W2142423992
+2208,Electrical and Electronic Engineering,Review on the science and technology of water desalination by capacitive deionization,https://doi.org/10.1016/j.pmatsci.2013.03.005,2013,2020,https://openalex.org/W2074868396
+1408,Strategy and Management,Designing the Business Models for Circular Economy—Towards the Conceptual Framework,https://doi.org/10.3390/su8010043,2016,1446,https://openalex.org/W2264050319
+1408,Strategy and Management,Tuberous sclerosis,https://doi.org/10.1016/s0140-6736(08)61279-9,2008,1058,https://openalex.org/W4210953366
+1408,Strategy and Management,An extended TODIM multi-criteria group decision making method for green supplier selection in interval type-2 fuzzy environment,https://doi.org/10.1016/j.ejor.2016.09.059,2016,587,https://openalex.org/W2530583575
+1408,Strategy and Management,"Tuberous sclerosis complex: Advances in diagnosis, genetics, and management",https://doi.org/10.1016/j.jaad.2007.05.004,2007,374,https://openalex.org/W2125056188
+1408,Strategy and Management,Role of Social and Technological Challenges in Achieving a Sustainable Competitive Advantage and Sustainable Business Performance,https://doi.org/10.3390/su11143811,2019,364,https://openalex.org/W2960780621
+1408,Strategy and Management,A systematic review for measuring circular economy: The 61 indicators,https://doi.org/10.1016/j.jclepro.2020.124942,2020,356,https://openalex.org/W3095213003
+1408,Strategy and Management,Assessing the quality of corporate social responsibility reports: the case of reporting practices in selected European Union member states,https://doi.org/10.1007/s11135-014-0155-z,2015,344,https://openalex.org/W2058364624
+1408,Strategy and Management,Green organizational climates and employee pro-environmental behaviour in the hotel industry,https://doi.org/10.1080/09669582.2016.1206554,2016,342,https://openalex.org/W2468063588
+1408,Strategy and Management,Selection of resilient supply portfolio under disruption risks,https://doi.org/10.1016/j.omega.2012.05.003,2012,335,https://openalex.org/W1967188039
+1408,Strategy and Management,A novel hybrid method using fuzzy decision making and multi-objective programming for sustainable-reliable supplier selection in two-echelon supply chain design,https://doi.org/10.1016/j.jclepro.2019.119517,2019,318,https://openalex.org/W2990291506
+2204,Biomedical Engineering,Photodynamic therapy of cancer: An update,https://doi.org/10.3322/caac.20114,2011,4996,https://openalex.org/W2151734986
+2204,Biomedical Engineering,Biochar physicochemical properties: pyrolysis temperature and feedstock kind effects,https://doi.org/10.1007/s11157-020-09523-3,2020,2302,https://openalex.org/W3004850069
+2204,Biomedical Engineering,Formation of droplets and bubbles in a microfluidic T-junction—scaling and mechanism of break-up,https://doi.org/10.1039/b510841a,2006,2204,https://openalex.org/W2142423992
+2204,Biomedical Engineering,Review on the science and technology of water desalination by capacitive deionization,https://doi.org/10.1016/j.pmatsci.2013.03.005,2013,2020,https://openalex.org/W2074868396
+2204,Biomedical Engineering,"Photodynamic therapy – mechanisms, photosensitizers and combinations",https://doi.org/10.1016/j.biopha.2018.07.049,2018,1968,https://openalex.org/W2884145325
+2204,Biomedical Engineering,A new tool for the evaluation of the analytical procedure: Green Analytical Procedure Index,https://doi.org/10.1016/j.talanta.2018.01.013,2018,1932,https://openalex.org/W2781931056
+2204,Biomedical Engineering,"Multifunctional Inorganic Nanoparticles for Imaging, Targeting, and Drug Delivery",https://doi.org/10.1021/nn800072t,2008,1893,https://openalex.org/W3023255929
+2204,Biomedical Engineering,"Stem cells: past, present, and future",https://doi.org/10.1186/s13287-019-1165-5,2019,1699,https://openalex.org/W2923614429
+2204,Biomedical Engineering,Particle swarm optimization (PSO). A tutorial,https://doi.org/10.1016/j.chemolab.2015.08.020,2015,1602,https://openalex.org/W1786686177
+2204,Biomedical Engineering,Introduction to Radiomics,https://doi.org/10.2967/jnumed.118.222893,2020,1510,https://openalex.org/W3006104185
+3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2973,https://openalex.org/W2161411308
+3312,Sociology and Political Science,Refining the theory of basic individual values.,https://doi.org/10.1037/a0029393,2012,2391,https://openalex.org/W1997102788
+3312,Sociology and Political Science,Place attachment: How far have we come in the last 40 years?,https://doi.org/10.1016/j.jenvp.2010.10.001,2010,2357,https://openalex.org/W1985363405
+3312,Sociology and Political Science,Interim Scoring for the EQ-5D-5L: Mapping the EQ-5D-5L to EQ-5D-3L Value Sets,https://doi.org/10.1016/j.jval.2012.02.008,2012,2055,https://openalex.org/W2013564592
+3312,Sociology and Political Science,Contrasting Computational Models of Mate Preference Integration Across 45 Countries,https://doi.org/10.1038/s41598-019-52748-8,2019,1773,https://openalex.org/W2983201012
+3312,Sociology and Political Science,Measurement properties of the EQ-5D-5L compared to the EQ-5D-3L across eight patient groups: a multi-country study,https://doi.org/10.1007/s11136-012-0322-4,2012,1492,https://openalex.org/W2089165963
+3312,Sociology and Political Science,Investigating Variation in Replicability,https://doi.org/10.1027/1864-9335/a000178,2014,1205,https://openalex.org/W1941783251
+3312,Sociology and Political Science,Agency and communion from the perspective of self versus others.,https://doi.org/10.1037/0022-3514.93.5.751,2007,1198,https://openalex.org/W2120349889
+3312,Sociology and Political Science,National differences in gender–science stereotypes predict national sex differences in science and math achievement,https://doi.org/10.1073/pnas.0809921106,2009,999,https://openalex.org/W2108193005
+3312,Sociology and Political Science,Many Labs 2: Investigating Variation in Replicability Across Samples and Settings,https://doi.org/10.1177/2515245918810225,2018,986,https://openalex.org/W2776961836

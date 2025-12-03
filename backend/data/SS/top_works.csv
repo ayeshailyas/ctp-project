@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-3312,Sociology and Political Science,Beyond misinformation: Understanding and coping with the “post-truth” era.,https://doi.org/10.1016/j.jarmac.2017.07.008,2017,1712,https://openalex.org/W2760944227
-3312,Sociology and Political Science,Beyond Consciousness?,https://doi.org/10.1177/0038038505058372,2005,568,https://openalex.org/W2015420829
-3312,Sociology and Political Science,A Matter of Life or Death: How Extreme Context Research Matters for Management and Organization Studies,https://doi.org/10.5465/annals.2016.0017,2017,446,https://openalex.org/W2762064429
+3312,Sociology and Political Science,Beyond misinformation: Understanding and coping with the “post-truth” era.,https://doi.org/10.1016/j.jarmac.2017.07.008,2017,1726,https://openalex.org/W2760944227
+3312,Sociology and Political Science,Beyond Consciousness?,https://doi.org/10.1177/0038038505058372,2005,570,https://openalex.org/W2015420829
+3312,Sociology and Political Science,A Matter of Life or Death: How Extreme Context Research Matters for Management and Organization Studies,https://doi.org/10.5465/annals.2016.0017,2017,451,https://openalex.org/W2762064429
+3312,Sociology and Political Science,"Navigating the social world: Toward an integrated framework for evaluating self, individuals, and groups.",https://doi.org/10.1037/rev0000262,2020,319,https://openalex.org/W3087250496
+3312,Sociology and Political Science,Beyond dis-identification: A discursive approach to self-alienation in contemporary organizations,https://doi.org/10.1177/0018726708101041,2009,266,https://openalex.org/W2128826950
+3312,Sociology and Political Science,CCTV surveillance for crime prevention,https://doi.org/10.1111/1745-9133.12419,2019,260,https://openalex.org/W2931081117
+3312,Sociology and Political Science,"Indigenous Storytelling, Truth-telling, and Community Approaches to Reconciliation",https://doi.org/10.1353/esc.0.0163,2009,254,https://openalex.org/W2046491285
+3312,Sociology and Political Science,Are Restorative Justice Conferences Effective in Reducing Repeat Offending? Findings from a Campbell Systematic Review,https://doi.org/10.1007/s10940-014-9222-9,2014,206,https://openalex.org/W2076183196
+3312,Sociology and Political Science,The power few: experimental criminology and the reduction of harm,https://doi.org/10.1007/s11292-007-9044-y,2007,175,https://openalex.org/W1572246188
+3312,Sociology and Political Science,Poverty and Equity,https://doi.org/10.1007/0-387-33318-5,2006,170,https://openalex.org/W4244111693
 3304,Education,Prevalence of autism-spectrum conditions: UK school-based population study,https://doi.org/10.1192/bjp.bp.108.059345,2009,910,https://openalex.org/W2161063401
 3304,Education,Enhancing Emotion Recognition in Children with Autism Spectrum Conditions: An Intervention Using Animated Vehicles with Real Emotional Faces,https://doi.org/10.1007/s10803-009-0862-9,2009,427,https://openalex.org/W2065357653
 3304,Education,Mathematical Talent is Linked to Autism,https://doi.org/10.1007/s12110-007-9014-0,2007,152,https://openalex.org/W2037921259
-1312,Molecular Biology,Secondary nucleation in amyloid formation,https://doi.org/10.1039/c8cc02204f,2018,455,https://openalex.org/W2817784260
+3304,Education,Relational matters: A review of the impact of school experience on mental health in early adolescence,https://doi.org/10.53841/bpsecp.2010.27.1.91,2010,146,https://openalex.org/W2102840233
+3304,Education,"Anxiety, Self-Efficacy, and College Exam Grades",https://doi.org/10.13189/ujer.2013.010310,2013,124,https://openalex.org/W2142793868
+3304,Education,Apprenticeship,https://doi.org/10.1016/b978-0-444-53429-3.00011-9,2011,120,https://openalex.org/W2748823006
+3304,Education,Sample Size for Interview in Qualitative Research in Social Sciences: A Guide to Novice Researchers,https://doi.org/10.46303/repam.2022.3,2022,114,https://openalex.org/W4296457529
+3304,Education,A Conceptual Framework for the Development of Debriefing Skills,https://doi.org/10.1097/sih.0000000000000398,2019,86,https://openalex.org/W2986473997
+3304,Education,"Relationships matter: Supporting Aboriginal graduate students in British Columbia, Canada",https://doi.org/10.47678/cjhe.v44i1.2311,2014,86,https://openalex.org/W1927731015
+3304,Education,The Big Picture: Storytelling Ability in Adults with Autism Spectrum Conditions,https://doi.org/10.1007/s10803-011-1388-5,2011,84,https://openalex.org/W2049228279
+1312,Molecular Biology,Secondary nucleation in amyloid formation,https://doi.org/10.1039/c8cc02204f,2018,457,https://openalex.org/W2817784260
 1312,Molecular Biology,Analysis of Interconnected Oscillators by Dissipativity Theory,https://doi.org/10.1109/tac.2006.890471,2007,301,https://openalex.org/W2110216011
-1312,Molecular Biology,Pharmacological inhibition of myostatin suppresses systemic inflammation and muscle atrophy in mice with chronic kidney disease,https://doi.org/10.1096/fj.10-176917,2011,294,https://openalex.org/W2085098316
-3320,Political Science and International Relations,Lively Infrastructure,https://doi.org/10.1177/0263276414548490,2014,550,https://openalex.org/W4238054955
-3320,Political Science and International Relations,The New Intergovernmentalism: <scp>E</scp>uropean Integration in the Post‐Maastricht Era,https://doi.org/10.1111/jcms.12212,2014,537,https://openalex.org/W1837903746
+1312,Molecular Biology,Pharmacological inhibition of myostatin suppresses systemic inflammation and muscle atrophy in mice with chronic kidney disease,https://doi.org/10.1096/fj.10-176917,2011,296,https://openalex.org/W2085098316
+1312,Molecular Biology,Psychological Stress and Mitochondria: A Conceptual Framework,https://doi.org/10.1097/psy.0000000000000544,2018,257,https://openalex.org/W2791325895
+1312,Molecular Biology,Treatment failure in osteoporosis,https://doi.org/10.1007/s00198-012-2093-8,2012,217,https://openalex.org/W2111000907
+1312,Molecular Biology,Molecular genetics of coronary artery disease,https://doi.org/10.1097/01.hco.0000160373.77190.f1,2005,192,https://openalex.org/W2056451271
+1312,Molecular Biology,Towards discipline-independent argumentative zoning,https://doi.org/10.3115/1699648.1699696,2009,161,https://openalex.org/W2120587524
+1312,Molecular Biology,Small Amounts of Sub-Visible Aggregates Enhance the Immunogenic Potential of Monoclonal Antibody Therapeutics,https://doi.org/10.1007/s11095-014-1541-x,2014,154,https://openalex.org/W1993511309
+1312,Molecular Biology,"Diabetes mellitus, insulin treatment, diabetes duration, and risk of biliary tract cancer and hepatocellular carcinoma in a European cohort",https://doi.org/10.1093/annonc/mdt204,2013,137,https://openalex.org/W2101356050
+1312,Molecular Biology,The human cell count and size distribution,https://doi.org/10.1073/pnas.2303077120,2023,130,https://openalex.org/W4386824148
+3320,Political Science and International Relations,Lively Infrastructure,https://doi.org/10.1177/0263276414548490,2014,556,https://openalex.org/W4238054955
+3320,Political Science and International Relations,The New Intergovernmentalism: <scp>E</scp>uropean Integration in the Post‐Maastricht Era,https://doi.org/10.1111/jcms.12212,2014,555,https://openalex.org/W1837903746
 3320,Political Science and International Relations,OECD Journal on Budgeting,https://doi.org/10.1787/16812336,2024,321,https://openalex.org/W2903052580
-2002,Economics and Econometrics,"Sovereign Risk, Fiscal Policy, and Macroeconomic Stability",https://doi.org/10.1111/ecoj.12013,2012,361,https://openalex.org/W2142721878
+3320,Political Science and International Relations,No Norm Needed: on the Aim of Belief,https://doi.org/10.1111/j.1467-9213.2006.455.x,2006,238,https://openalex.org/W1969146774
+3320,Political Science and International Relations,The Paradox of Political Representation,https://doi.org/10.1111/j.1467-9760.2007.00266.x,2007,174,https://openalex.org/W2130600992
+3320,Political Science and International Relations,The Political Economy of Oligarchy and the Reorganization of Power in Indonesia,https://doi.org/10.1353/ind.2013.0023,2013,167,https://openalex.org/W2156710123
+3320,Political Science and International Relations,Why Has Productivity Growth Stagnated in Most Latin American Countries Since the Neo-Liberal Reforms?,https://doi.org/10.1093/oxfordhb/9780199571048.013.0023,2011,132,https://openalex.org/W2397237093
+3320,Political Science and International Relations,You Spin Me Round: The Realist Turn in Organization and Management Studies*,https://doi.org/10.1111/j.1467-6486.2005.00560.x,2005,104,https://openalex.org/W2118797706
+3320,Political Science and International Relations,Knowing More from Less: How the Information Environment Increases Knowledge of Party Positions,https://doi.org/10.1017/s0007123415000204,2015,102,https://openalex.org/W2218552225
+3320,Political Science and International Relations,Pour une sociologie des situations révolutionnaires : retour sur les révoltes arabes,https://doi.org/10.3917/rfsp.625.767,2012,100,https://openalex.org/W2001224521
+2002,Economics and Econometrics,"Sovereign Risk, Fiscal Policy, and Macroeconomic Stability",https://doi.org/10.1111/ecoj.12013,2012,362,https://openalex.org/W2142721878
 2002,Economics and Econometrics,OECD Journal on Budgeting,https://doi.org/10.1787/16812336,2024,321,https://openalex.org/W2903052580
 2002,Economics and Econometrics,TESTING FOR TREND,https://doi.org/10.1017/s0266466608080055,2007,250,https://openalex.org/W3121991441
+2002,Economics and Econometrics,Will Services be the New Engine of Indian Economic Growth?,https://doi.org/10.1111/j.0012-155x.2005.00449.x,2005,199,https://openalex.org/W1583480155
+2002,Economics and Econometrics,The Demarcation of Land and the Role of Coordinating Property Institutions,https://doi.org/10.1086/660842,2011,193,https://openalex.org/W2209600992
+2002,Economics and Econometrics,Skill Dispersion and Firm Productivity: An Analysis with Employer‐Employee Matched Data,https://doi.org/10.1086/587091,2008,175,https://openalex.org/W3124419758
+2002,Economics and Econometrics,"Creative Destruction in Economics: Nietzsche, Sombart, Schumpeter",https://doi.org/10.1007/978-0-387-32980-2_4,2006,169,https://openalex.org/W2200233269
+2002,Economics and Econometrics,RECYCLING IN MULTIFAMILY DWELLINGS: DOES CONVENIENCE MATTER?,https://doi.org/10.1093/ei/cbi029,2005,133,https://openalex.org/W2005136680
+2002,Economics and Econometrics,Successes and Failures of Pay for Performance in the United Kingdom,https://doi.org/10.1056/nejmhpr1316051,2014,122,https://openalex.org/W2318671944
+2002,Economics and Econometrics,Apprenticeship,https://doi.org/10.1016/b978-0-444-53429-3.00011-9,2011,120,https://openalex.org/W2748823006
 2204,Biomedical Engineering,Bridging the Gaps between Engineering Education and Practice,https://doi.org/10.7208/chicago/9780226468471.003.0005,2018,172,https://openalex.org/W2395717703
 2204,Biomedical Engineering,Structural analysis of herpes simplex virus by optical super-resolution imaging,https://doi.org/10.1038/ncomms6980,2015,153,https://openalex.org/W2100991326
 2204,Biomedical Engineering,Respiration Signals from Photoplethysmography,https://doi.org/10.1213/ane.0b013e31828098b2,2013,124,https://openalex.org/W2075792780
+2204,Biomedical Engineering,"Airframe Design for ""Silent Aircraft""",https://doi.org/10.2514/6.2007-453,2007,115,https://openalex.org/W2319330442
+2204,Biomedical Engineering,A Landau Primer for Ferroelectrics,https://doi.org/10.1007/978-3-540-34591-6_3,2007,113,https://openalex.org/W1612944689
+2204,Biomedical Engineering,Siloxane crosslinks with dynamic bond exchange enable shape programming in liquid-crystalline elastomers,https://doi.org/10.1038/s41598-020-63508-4,2020,113,https://openalex.org/W2995751494
+2204,Biomedical Engineering,Clinical Anatomy: Applied Anatomy for Students and Junior Doctors,https://doi.org/10.1177/1750458919877625,2019,110,https://openalex.org/W2978126458
+2204,Biomedical Engineering,JUMPING: POWER OR IMPULSE?,https://doi.org/10.1249/01.mss.0000155703.50713.26,2005,107,https://openalex.org/W1966484813
+2204,Biomedical Engineering,Nitroreductase-triggered activation of a novel caged fluorescent probe obtained from methylene blue,https://doi.org/10.1039/c5cc03824c,2015,103,https://openalex.org/W1925663683
+2204,Biomedical Engineering,4D printing of a self-morphing polymer driven by a swellable guest medium,https://doi.org/10.1039/c7sm01796k,2017,96,https://openalex.org/W2772417212
 2210,Mechanical Engineering,Development of a Design Audit Tool for SMEs<sup>*</sup>,https://doi.org/10.1111/j.1540-5885.2007.00255.x,2007,147,https://openalex.org/W2020484790
-2210,Mechanical Engineering,Siloxane crosslinks with dynamic bond exchange enable shape programming in liquid-crystalline elastomers,https://doi.org/10.1038/s41598-020-63508-4,2020,112,https://openalex.org/W2995751494
+2210,Mechanical Engineering,Siloxane crosslinks with dynamic bond exchange enable shape programming in liquid-crystalline elastomers,https://doi.org/10.1038/s41598-020-63508-4,2020,113,https://openalex.org/W2995751494
 2210,Mechanical Engineering,"Pipe/Soil Interaction Behavior During Lateral Buckling, Including Large-Amplitude Cyclic Displacement Tests by the Safebuck JIP",https://doi.org/10.4043/17944-ms,2006,98,https://openalex.org/W2067733042
-2208,Electrical and Electronic Engineering,A Fourth-Order Runge–Kutta in the Interaction Picture Method for Simulating Supercontinuum Generation in Optical Fibers,https://doi.org/10.1109/jlt.2007.909373,2007,371,https://openalex.org/W2101105924
-2208,Electrical and Electronic Engineering,Charge-tuneable biexciton complexes in monolayer WSe2,https://doi.org/10.1038/s41467-018-05632-4,2018,244,https://openalex.org/W2800973194
+2210,Mechanical Engineering,4D printing of a self-morphing polymer driven by a swellable guest medium,https://doi.org/10.1039/c7sm01796k,2017,96,https://openalex.org/W2772417212
+2210,Mechanical Engineering,Design and Applications of Single-Site Heterogeneous Catalysts,https://doi.org/10.1142/p857,2012,79,https://openalex.org/W4234957434
+2210,Mechanical Engineering,The FFC-Cambridge Process for Titanium Metal Winning,https://doi.org/10.4028/www.scientific.net/kem.436.13,2010,77,https://openalex.org/W2021845633
+2210,Mechanical Engineering,Pipe-Soil Interaction during Lateral Buckling and Pipeline Walking — The SAFEBUCK JIP,https://doi.org/10.2118/19589-ms,2007,70,https://openalex.org/W2333700651
+2210,Mechanical Engineering,Pipe-Soil Interaction With Flowlines During Lateral Buckling and Pipeline Walking - The SAFEBUCK JIP,https://doi.org/10.4043/19589-ms,2008,65,https://openalex.org/W1985772939
+2210,Mechanical Engineering,Intelligent Transportation Systems,https://doi.org/10.1109/mprv.2006.77,2006,64,https://openalex.org/W1963608014
+2210,Mechanical Engineering,Sensitivity of friction-induced vibration in idealised systems,https://doi.org/10.1016/j.jsv.2008.05.034,2008,50,https://openalex.org/W2070220012
+2208,Electrical and Electronic Engineering,A Fourth-Order Runge–Kutta in the Interaction Picture Method for Simulating Supercontinuum Generation in Optical Fibers,https://doi.org/10.1109/jlt.2007.909373,2007,372,https://openalex.org/W2101105924
+2208,Electrical and Electronic Engineering,Charge-tuneable biexciton complexes in monolayer WSe2,https://doi.org/10.1038/s41467-018-05632-4,2018,246,https://openalex.org/W2800973194
 2208,Electrical and Electronic Engineering,Template-assisted synthesis of CoP nanotubes to efficiently catalyze hydrogen-evolving reaction,https://doi.org/10.1039/c4ta02368d,2014,150,https://openalex.org/W2126378377
+2208,Electrical and Electronic Engineering,Tungsten-Based SOI Microhotplates for Smart Gas Sensors,https://doi.org/10.1109/jmems.2008.2007228,2008,140,https://openalex.org/W2102382343
+2208,Electrical and Electronic Engineering,Carbene metal amide photoemitters: tailoring conformationally flexible amides for full color range emissions including white-emitting OLED,https://doi.org/10.1039/c9sc04589a,2019,139,https://openalex.org/W2987357836
+2208,Electrical and Electronic Engineering,"Thin film field-effect transistors of 2,6-diphenyl anthracene (DPA)",https://doi.org/10.1039/c4cc10348c,2015,133,https://openalex.org/W1832686128
+2208,Electrical and Electronic Engineering,Highly efficient blue organic light-emitting diodes based on carbene-metal-amides,https://doi.org/10.1038/s41467-020-15369-8,2020,108,https://openalex.org/W2964909598
+2208,Electrical and Electronic Engineering,Highly photoluminescent copper carbene complexes based on prompt rather than delayed fluorescence,https://doi.org/10.1039/c6cc02349e,2016,97,https://openalex.org/W2340352356
+2208,Electrical and Electronic Engineering,Graphene nanoribbon blends with P3HT for organic electronics,https://doi.org/10.1039/c4nr00256c,2014,92,https://openalex.org/W2112116868
+2208,Electrical and Electronic Engineering,High-Performance Low-Cost Rogowski Transducers and Accompanying Circuitry,https://doi.org/10.1109/tim.2007.894801,2007,77,https://openalex.org/W1982102002
 1702,Artificial Intelligence,Hierarchical Bayesian nonparametric models with applications,https://doi.org/10.1017/cbo9780511802478.006,2010,322,https://openalex.org/W166614460
 1702,Artificial Intelligence,Smoothing algorithms for state–space models,https://doi.org/10.1007/s10463-009-0236-2,2009,294,https://openalex.org/W2146485022
 1702,Artificial Intelligence,"Federated Deep Learning for Cyber Security in the Internet of Things: Concepts, Applications, and Experimental Analysis",https://doi.org/10.1109/access.2021.3118642,2021,269,https://openalex.org/W3203932036
-3600,General Health Professions,The common sense model of self-regulation: Meta-analysis and test of a process model.,https://doi.org/10.1037/bul0000118,2017,520,https://openalex.org/W2747963773
-3600,General Health Professions,The State of Evidence-Based Practice in US Nurses,https://doi.org/10.1097/nna.0b013e3182664e0a,2012,487,https://openalex.org/W2334045214
+1702,Artificial Intelligence,Learning Image Embeddings using Convolutional Neural Networks for Improved Multi-Modal Semantics,https://doi.org/10.3115/v1/d14-1005,2014,229,https://openalex.org/W2145056192
+1702,Artificial Intelligence,SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models,https://doi.org/10.18653/v1/2023.emnlp-main.557,2023,216,https://openalex.org/W4389520749
+1702,Artificial Intelligence,Black Holes and White Rabbits: Metaphor Identification with Visual Features,https://doi.org/10.18653/v1/n16-1020,2016,212,https://openalex.org/W2470413457
+1702,Artificial Intelligence,Additive Gaussian Processes,https://doi.org/10.48550/arxiv.1112.4394,2011,202,https://openalex.org/W2130283669
+1702,Artificial Intelligence,Gaussian Process Training with Input Noise,,2011,183,https://openalex.org/W2105813220
+1702,Artificial Intelligence,Practical taint-based protection using demand emulation,https://doi.org/10.1145/1217935.1217939,2006,181,https://openalex.org/W2006419855
+1702,Artificial Intelligence,Modeling Dyadic Data with Binary Latent Factors,https://doi.org/10.7551/mitpress/7503.003.0127,2007,178,https://openalex.org/W2106813372
+3600,General Health Professions,The common sense model of self-regulation: Meta-analysis and test of a process model.,https://doi.org/10.1037/bul0000118,2017,522,https://openalex.org/W2747963773
+3600,General Health Professions,The State of Evidence-Based Practice in US Nurses,https://doi.org/10.1097/nna.0b013e3182664e0a,2012,488,https://openalex.org/W2334045214
 3600,General Health Professions,"Trauma, Mental Health, Distrust, and Stigma Among HIV-Positive Persons: Implications for Effective Care",https://doi.org/10.1097/psy.0b013e31817749dc,2008,356,https://openalex.org/W2060884394
+3600,General Health Professions,Reflections on Depression as a Cardiac Risk Factor,https://doi.org/10.1097/01.psy.0000162253.07959.db,2005,256,https://openalex.org/W2051813374
+3600,General Health Professions,"Association Among Socioeconomic Status, Health Behaviors, and All-Cause Mortality in the United States",https://doi.org/10.1097/ede.0000000000000038,2014,232,https://openalex.org/W1990749085
+3600,General Health Professions,Burnout and Risk of Coronary Heart Disease,https://doi.org/10.1097/psy.0b013e31826c3174,2012,211,https://openalex.org/W2335428038
+3600,General Health Professions,Promising Practices in Employer Health and Productivity Management Efforts: Findings From a Benchmarking Study,https://doi.org/10.1097/jom.0b013e31802ec6a3,2007,184,https://openalex.org/W2032832020
+3600,General Health Professions,Just health: meeting health needs fairly,https://doi.org/10.2471/blt.08.054601,2008,181,https://openalex.org/W2033596827
+3600,General Health Professions,Costs of Juvenile Crime in Urban Areas,https://doi.org/10.1177/1541204007308427,2007,126,https://openalex.org/W2147002040
+3600,General Health Professions,Successes and Failures of Pay for Performance in the United Kingdom,https://doi.org/10.1056/nejmhpr1316051,2014,122,https://openalex.org/W2318671944

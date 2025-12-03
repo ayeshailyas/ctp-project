@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-2208,Electrical and Electronic Engineering,"Aggregation-Induced Emission: Together We Shine, United We Soar!",https://doi.org/10.1021/acs.chemrev.5b00263,2015,7682,https://openalex.org/W2177603935
-2208,Electrical and Electronic Engineering,Single-Junction Organic Solar Cell with over 15% Efficiency Using Fused-Ring Acceptor with Electron-Deficient Core,https://doi.org/10.1016/j.joule.2019.01.004,2019,5373,https://openalex.org/W2909990379
-2208,Electrical and Electronic Engineering,A Survey on Mobile Edge Computing: The Communication Perspective,https://doi.org/10.1109/comst.2017.2745201,2017,4986,https://openalex.org/W2624989916
-1312,Molecular Biology,PLINK: A Tool Set for Whole-Genome Association and Population-Based Linkage Analyses,https://doi.org/10.1086/519795,2007,34041,https://openalex.org/W2161633633
-1312,Molecular Biology,A global reference for human genetic variation,https://doi.org/10.1038/nature15393,2015,18620,https://openalex.org/W2104549677
-1312,Molecular Biology,"The mutational constraint spectrum quantified from variation in 141,456 humans",https://doi.org/10.1038/s41586-020-2308-7,2020,9280,https://openalex.org/W3029661147
-2505,Materials Chemistry,"Aggregation-Induced Emission: Together We Shine, United We Soar!",https://doi.org/10.1021/acs.chemrev.5b00263,2015,7682,https://openalex.org/W2177603935
-2505,Materials Chemistry,Aggregation-induced emission,https://doi.org/10.1039/c1cs15113d,2011,6067,https://openalex.org/W2159182565
-2505,Materials Chemistry,Layer-dependent ferromagnetism in a van der Waals crystal down to the monolayer limit,https://doi.org/10.1038/nature22391,2017,5398,https://openalex.org/W2606397457
-2204,Biomedical Engineering,Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition,https://doi.org/10.1609/aaai.v32i1.12328,2018,4418,https://openalex.org/W2963076818
-2204,Biomedical Engineering,Dispersion and functionalization of carbon nanotubes for polymer-based nanocomposites: A review,https://doi.org/10.1016/j.compositesa.2010.07.003,2010,3267,https://openalex.org/W2094021556
-2204,Biomedical Engineering,An overview of current status of carbon dioxide capture and storage technologies,https://doi.org/10.1016/j.rser.2014.07.093,2014,2963,https://openalex.org/W2026277606
-1702,Artificial Intelligence,A Survey on Transfer Learning,https://doi.org/10.1109/tkde.2009.191,2009,21912,https://openalex.org/W2165698076
-1702,Artificial Intelligence,The Graph Neural Network Model,https://doi.org/10.1109/tnn.2008.2005605,2008,8315,https://openalex.org/W2116341502
-1702,Artificial Intelligence,Top 10 algorithms in data mining,https://doi.org/10.1007/s10115-007-0114-2,2007,5586,https://openalex.org/W2142827986
-3312,Sociology and Political Science,Consumer Acceptance and Use of Information Technology: Extending the Unified Theory of Acceptance and Use of Technology1,https://doi.org/10.2307/41410412,2012,13008,https://openalex.org/W3125976894
-3312,Sociology and Political Science,Progress in information technology and tourism management: 20 years on and 10 years after the Internet—The state of eTourism research,https://doi.org/10.1016/j.tourman.2008.01.005,2008,3546,https://openalex.org/W2041711461
-3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2957,https://openalex.org/W2161411308
-1707,Computer Vision and Pattern Recognition,Pyramid Scene Parsing Network,https://doi.org/10.1109/cvpr.2017.660,2017,14536,https://openalex.org/W2560023338
-1707,Computer Vision and Pattern Recognition,Image Super-Resolution Using Deep Convolutional Networks,https://doi.org/10.1109/tpami.2015.2439281,2015,9228,https://openalex.org/W1885185971
-1707,Computer Vision and Pattern Recognition,The Graph Neural Network Model,https://doi.org/10.1109/tnn.2008.2005605,2008,8315,https://openalex.org/W2116341502
-2746,Surgery,2016 European Guidelines on cardiovascular disease prevention in clinical practice,https://doi.org/10.1093/eurheartj/ehw106,2016,6280,https://openalex.org/W2402599050
-2746,Surgery,2021 ESC Guidelines on cardiovascular disease prevention in clinical practice,https://doi.org/10.1093/eurheartj/ehab484,2021,5394,https://openalex.org/W3197233987
-2746,Surgery,Head and neck squamous cell carcinoma,https://doi.org/10.1038/s41572-020-00224-3,2020,3532,https://openalex.org/W3107533236
-1705,Computer Networks and Communications,Fog computing and its role in the internet of things,https://doi.org/10.1145/2342509.2342513,2012,5824,https://openalex.org/W2114623221
-1705,Computer Networks and Communications,A Survey on Mobile Edge Computing: The Communication Perspective,https://doi.org/10.1109/comst.2017.2745201,2017,4986,https://openalex.org/W2624989916
-1705,Computer Networks and Communications,Synchronization in complex networks,https://doi.org/10.1016/j.physrep.2008.09.002,2008,3476,https://openalex.org/W261461018
-2713,Epidemiology,"Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia",https://doi.org/10.1056/nejmoa2001316,2020,17713,https://openalex.org/W3003668884
-2713,Epidemiology,"IDF Diabetes Atlas: Global, regional and country-level diabetes prevalence estimates for 2021 and projections for 2045",https://doi.org/10.1016/j.diabres.2021.109119,2021,8351,https://openalex.org/W4200026682
-2713,Epidemiology,Worldwide incidence and prevalence of inflammatory bowel disease in the 21st century: a systematic review of population-based studies,https://doi.org/10.1016/s0140-6736(17)32448-0,2017,5470,https://openalex.org/W2766046358
+2208,Electrical and Electronic Engineering,"Aggregation-Induced Emission: Together We Shine, United We Soar!",https://doi.org/10.1021/acs.chemrev.5b00263,2015,7701,https://openalex.org/W2177603935
+2208,Electrical and Electronic Engineering,Single-Junction Organic Solar Cell with over 15% Efficiency Using Fused-Ring Acceptor with Electron-Deficient Core,https://doi.org/10.1016/j.joule.2019.01.004,2019,5392,https://openalex.org/W2909990379
+2208,Electrical and Electronic Engineering,A Survey on Mobile Edge Computing: The Communication Perspective,https://doi.org/10.1109/comst.2017.2745201,2017,5001,https://openalex.org/W2624989916
+2208,Electrical and Electronic Engineering,"Coupled Spin and Valley Physics in Monolayers of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:msub><mml:mi>MoS</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:math>and Other Group-VI Dichalcogenides",https://doi.org/10.1103/physrevlett.108.196802,2012,4801,https://openalex.org/W2034932701
+2208,Electrical and Electronic Engineering,VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator,https://doi.org/10.1109/tro.2018.2853729,2018,4016,https://openalex.org/W2745859992
+2208,Electrical and Electronic Engineering,Recent Advances in Electrocatalysts for Oxygen Reduction Reaction,https://doi.org/10.1021/acs.chemrev.5b00462,2016,3721,https://openalex.org/W2274258295
+2208,Electrical and Electronic Engineering,Valley polarization in MoS2 monolayers by optical pumping,https://doi.org/10.1038/nnano.2012.95,2012,3553,https://openalex.org/W2092711669
+2208,Electrical and Electronic Engineering,Aggregation and morphology control enables multiple cases of high-efficiency polymer solar cells,https://doi.org/10.1038/ncomms6293,2014,3059,https://openalex.org/W2039618794
+2208,Electrical and Electronic Engineering,Non-fullerene acceptors for organic solar cells,https://doi.org/10.1038/natrevmats.2018.3,2018,2586,https://openalex.org/W2792783390
+2208,Electrical and Electronic Engineering,Intelligent Reflecting Surface-Aided Wireless Communications: A Tutorial,https://doi.org/10.1109/tcomm.2021.3051897,2021,2511,https://openalex.org/W3129486236
+1312,Molecular Biology,PLINK: A Tool Set for Whole-Genome Association and Population-Based Linkage Analyses,https://doi.org/10.1086/519795,2007,34148,https://openalex.org/W2161633633
+1312,Molecular Biology,A global reference for human genetic variation,https://doi.org/10.1038/nature15393,2015,18697,https://openalex.org/W2104549677
+1312,Molecular Biology,"The mutational constraint spectrum quantified from variation in 141,456 humans",https://doi.org/10.1038/s41586-020-2308-7,2020,9315,https://openalex.org/W3029661147
+1312,Molecular Biology,MEGAHIT: an ultra-fast single-node solution for large and complex metagenomics assembly via succinct <i>de Bruijn</i> graph,https://doi.org/10.1093/bioinformatics/btv033,2015,8444,https://openalex.org/W2113679889
+1312,Molecular Biology,A metagenome-wide association study of gut microbiota in type 2 diabetes,https://doi.org/10.1038/nature11450,2012,6643,https://openalex.org/W2071841602
+1312,Molecular Biology,SOAPdenovo2: an empirically improved memory-efficient short-read <i>de novo</i> assembler,https://doi.org/10.1186/2047-217x-1-18,2012,5434,https://openalex.org/W2129933858
+1312,Molecular Biology,Intensive versus Conventional Glucose Control in Critically Ill Patients,https://doi.org/10.1056/nejmoa0810625,2009,4976,https://openalex.org/W2145053281
+1312,Molecular Biology,<scp>ggtree</scp> : an <scp>r</scp> package for visualization and annotation of phylogenetic trees with their covariates and other associated data,https://doi.org/10.1111/2041-210x.12628,2016,4663,https://openalex.org/W2513727910
+1312,Molecular Biology,A second generation human haplotype map of over 3.1 million SNPs,https://doi.org/10.1038/nature06258,2007,4530,https://openalex.org/W2119279196
+1312,Molecular Biology,<i>MET</i> Amplification Leads to Gefitinib Resistance in Lung Cancer by Activating ERBB3 Signaling,https://doi.org/10.1126/science.1141478,2007,4399,https://openalex.org/W1998971866
+2505,Materials Chemistry,"Aggregation-Induced Emission: Together We Shine, United We Soar!",https://doi.org/10.1021/acs.chemrev.5b00263,2015,7701,https://openalex.org/W2177603935
+2505,Materials Chemistry,Aggregation-induced emission,https://doi.org/10.1039/c1cs15113d,2011,6080,https://openalex.org/W2159182565
+2505,Materials Chemistry,Layer-dependent ferromagnetism in a van der Waals crystal down to the monolayer limit,https://doi.org/10.1038/nature22391,2017,5425,https://openalex.org/W2606397457
+2505,Materials Chemistry,"Coupled Spin and Valley Physics in Monolayers of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:msub><mml:mi>MoS</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:math>and Other Group-VI Dichalcogenides",https://doi.org/10.1103/physrevlett.108.196802,2012,4801,https://openalex.org/W2034932701
+2505,Materials Chemistry,A review and recent developments in photocatalytic water-splitting using TiO2 for hydrogen production,https://doi.org/10.1016/j.rser.2005.01.009,2005,4081,https://openalex.org/W1965296958
+2505,Materials Chemistry,"Aggregation-induced emission: phenomenon, mechanism and applications",https://doi.org/10.1039/b904665h,2009,3944,https://openalex.org/W1984990803
+2505,Materials Chemistry,Recent Advances in Electrocatalysts for Oxygen Reduction Reaction,https://doi.org/10.1021/acs.chemrev.5b00462,2016,3721,https://openalex.org/W2274258295
+2505,Materials Chemistry,Valley polarization in MoS2 monolayers by optical pumping,https://doi.org/10.1038/nnano.2012.95,2012,3553,https://openalex.org/W2092711669
+2505,Materials Chemistry,Dispersion and functionalization of carbon nanotubes for polymer-based nanocomposites: A review,https://doi.org/10.1016/j.compositesa.2010.07.003,2010,3271,https://openalex.org/W2094021556
+2505,Materials Chemistry,Aggregation‐Induced Emission: The Whole Is More Brilliant than the Parts,https://doi.org/10.1002/adma.201401356,2014,3221,https://openalex.org/W1994724903
+2204,Biomedical Engineering,Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition,https://doi.org/10.1609/aaai.v32i1.12328,2018,4444,https://openalex.org/W2963076818
+2204,Biomedical Engineering,Dispersion and functionalization of carbon nanotubes for polymer-based nanocomposites: A review,https://doi.org/10.1016/j.compositesa.2010.07.003,2010,3271,https://openalex.org/W2094021556
+2204,Biomedical Engineering,An overview of current status of carbon dioxide capture and storage technologies,https://doi.org/10.1016/j.rser.2014.07.093,2014,2981,https://openalex.org/W2026277606
+2204,Biomedical Engineering,Scalable molecular dynamics on CPU and GPU architectures with NAMD,https://doi.org/10.1063/5.0014475,2020,2886,https://openalex.org/W3046751266
+2204,Biomedical Engineering,High-entropy alloy: challenges and prospects,https://doi.org/10.1016/j.mattod.2015.11.026,2015,2685,https://openalex.org/W2201563651
+2204,Biomedical Engineering,A review on biodiesel production using catalyzed transesterification,https://doi.org/10.1016/j.apenergy.2009.10.006,2009,2444,https://openalex.org/W2014063491
+2204,Biomedical Engineering,Graphene in Mice: Ultrahigh In Vivo Tumor Uptake and Efficient Photothermal Therapy,https://doi.org/10.1021/nl100996u,2010,2364,https://openalex.org/W1977791081
+2204,Biomedical Engineering,H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation From CT Volumes,https://doi.org/10.1109/tmi.2018.2845918,2018,2296,https://openalex.org/W2964227007
+2204,Biomedical Engineering,Valorization of Biomass: Deriving More Value from Waste,https://doi.org/10.1126/science.1218930,2012,2075,https://openalex.org/W2002752790
+2204,Biomedical Engineering,Physico–chemical treatment techniques for wastewater laden with heavy metals,https://doi.org/10.1016/j.cej.2006.01.015,2006,1972,https://openalex.org/W2022778259
+1702,Artificial Intelligence,A Survey on Transfer Learning,https://doi.org/10.1109/tkde.2009.191,2009,21976,https://openalex.org/W2165698076
+1702,Artificial Intelligence,The Graph Neural Network Model,https://doi.org/10.1109/tnn.2008.2005605,2008,8364,https://openalex.org/W2116341502
+1702,Artificial Intelligence,Top 10 algorithms in data mining,https://doi.org/10.1007/s10115-007-0114-2,2007,5594,https://openalex.org/W2142827986
+1702,Artificial Intelligence,Federated Machine Learning,https://doi.org/10.1145/3298981,2019,5118,https://openalex.org/W2912213068
+1702,Artificial Intelligence,Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions,https://doi.org/10.1109/iccv48922.2021.00061,2021,4216,https://openalex.org/W3131500599
+1702,Artificial Intelligence,"Behavioral Intention Formation in Knowledge Sharing: Examining the Roles of Extrinsic Motivators, Social-Psychological Forces, and Organizational Climate1",https://doi.org/10.2307/25148669,2005,4173,https://openalex.org/W2146125869
+1702,Artificial Intelligence,"Artificial intelligence in healthcare: past, present and future",https://doi.org/10.1136/svn-2017-000101,2017,4104,https://openalex.org/W2664267452
+1702,Artificial Intelligence,SOAP2: an improved ultrafast tool for short read alignment,https://doi.org/10.1093/bioinformatics/btp336,2009,3830,https://openalex.org/W2097341408
+1702,Artificial Intelligence,Residual Attention Network for Image Classification,https://doi.org/10.1109/cvpr.2017.683,2017,3644,https://openalex.org/W2963495494
+1702,Artificial Intelligence,Unsupervised Feature Learning via Non-parametric Instance Discrimination,https://doi.org/10.1109/cvpr.2018.00393,2018,3429,https://openalex.org/W2798991696
+3312,Sociology and Political Science,Consumer Acceptance and Use of Information Technology: Extending the Unified Theory of Acceptance and Use of Technology1,https://doi.org/10.2307/41410412,2012,13068,https://openalex.org/W3125976894
+3312,Sociology and Political Science,Progress in information technology and tourism management: 20 years on and 10 years after the Internet—The state of eTourism research,https://doi.org/10.1016/j.tourman.2008.01.005,2008,3552,https://openalex.org/W2041711461
+3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2973,https://openalex.org/W2161411308
+3312,Sociology and Political Science,Suicide and Suicidal Behavior,https://doi.org/10.1093/epirev/mxn002,2008,2755,https://openalex.org/W2123612404
+3312,Sociology and Political Science,Contributing Knowledge to Electronic Knowledge Repositories: An Empirical Investigation1,https://doi.org/10.2307/25148670,2005,2742,https://openalex.org/W2134049161
+3312,Sociology and Political Science,Methods and Data Analysis for Cross-Cultural Research,https://doi.org/10.1017/9781107415188,2021,2584,https://openalex.org/W1821066201
+3312,Sociology and Political Science,How Habit Limits the Predictive Power of Intention: The Case of Information Systems Continuance1,https://doi.org/10.2307/25148817,2007,2125,https://openalex.org/W2160123621
+3312,Sociology and Political Science,"STROCSS 2021: Strengthening the reporting of cohort, cross-sectional and case-control studies in surgery",https://doi.org/10.1016/j.ijsu.2021.106165,2021,2051,https://openalex.org/W3212282753
+3312,Sociology and Political Science,Unified Theory of Acceptance and Use of Technology: A Synthesis and the Road Ahead,https://doi.org/10.17705/1jais.00428,2016,2035,https://openalex.org/W3122947385
+3312,Sociology and Political Science,Contrasting Computational Models of Mate Preference Integration Across 45 Countries,https://doi.org/10.1038/s41598-019-52748-8,2019,1773,https://openalex.org/W2983201012
+1707,Computer Vision and Pattern Recognition,Pyramid Scene Parsing Network,https://doi.org/10.1109/cvpr.2017.660,2017,14592,https://openalex.org/W2560023338
+1707,Computer Vision and Pattern Recognition,Image Super-Resolution Using Deep Convolutional Networks,https://doi.org/10.1109/tpami.2015.2439281,2015,9260,https://openalex.org/W1885185971
+1707,Computer Vision and Pattern Recognition,The Graph Neural Network Model,https://doi.org/10.1109/tnn.2008.2005605,2008,8364,https://openalex.org/W2116341502
+1707,Computer Vision and Pattern Recognition,Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising,https://doi.org/10.1109/tip.2017.2662206,2017,8168,https://openalex.org/W2508457857
+1707,Computer Vision and Pattern Recognition,Path Aggregation Network for Instance Segmentation,https://doi.org/10.1109/cvpr.2018.00913,2018,7941,https://openalex.org/W2963857746
+1707,Computer Vision and Pattern Recognition,Deep Learning Face Attributes in the Wild,https://doi.org/10.1109/iccv.2015.425,2015,7353,https://openalex.org/W1834627138
+1707,Computer Vision and Pattern Recognition,Single Image Haze Removal Using Dark Channel Prior,https://doi.org/10.1109/tpami.2010.168,2010,5702,https://openalex.org/W2128254161
+1707,Computer Vision and Pattern Recognition,Top 10 algorithms in data mining,https://doi.org/10.1007/s10115-007-0114-2,2007,5594,https://openalex.org/W2142827986
+1707,Computer Vision and Pattern Recognition,Learning a Deep Convolutional Network for Image Super-Resolution,https://doi.org/10.1007/978-3-319-10593-2_13,2014,5375,https://openalex.org/W54257720
+1707,Computer Vision and Pattern Recognition,Guided Image Filtering,https://doi.org/10.1109/tpami.2012.213,2012,5195,https://openalex.org/W2125188192
+2746,Surgery,2016 European Guidelines on cardiovascular disease prevention in clinical practice,https://doi.org/10.1093/eurheartj/ehw106,2016,6291,https://openalex.org/W2402599050
+2746,Surgery,2021 ESC Guidelines on cardiovascular disease prevention in clinical practice,https://doi.org/10.1093/eurheartj/ehab484,2021,5443,https://openalex.org/W3197233987
+2746,Surgery,Head and neck squamous cell carcinoma,https://doi.org/10.1038/s41572-020-00224-3,2020,3564,https://openalex.org/W3107533236
+2746,Surgery,"Optimally estimating the sample mean from the sample size, median, mid-range, and/or mid-quartile range",https://doi.org/10.1177/0962280216669183,2016,3363,https://openalex.org/W1534181333
+2746,Surgery,Crizotinib versus Chemotherapy in Advanced <i>ALK</i> -Positive Lung Cancer,https://doi.org/10.1056/nejmoa1214886,2013,3351,https://openalex.org/W2050249255
+2746,Surgery,Global Prevalence of Helicobacter pylori Infection: Systematic Review and Meta-Analysis,https://doi.org/10.1053/j.gastro.2017.04.022,2017,3150,https://openalex.org/W2609752905
+2746,Surgery,Consensus statement on the pathology of IgG4-related disease,https://doi.org/10.1038/modpathol.2012.72,2012,2482,https://openalex.org/W2153400655
+2746,Surgery,Effects of Once-Weekly Exenatide on Cardiovascular Outcomes in Type 2 Diabetes,https://doi.org/10.1056/nejmoa1612917,2017,2000,https://openalex.org/W2754041380
+2746,Surgery,Deep Learning Techniques for Automatic MRI Cardiac Multi-Structures Segmentation and Diagnosis: Is the Problem Solved?,https://doi.org/10.1109/tmi.2018.2837502,2018,1926,https://openalex.org/W2804047627
+2746,Surgery,Quadrivalent Vaccine against Human Papillomavirus to Prevent Anogenital Diseases,https://doi.org/10.1056/nejmoa061760,2007,1870,https://openalex.org/W2126246455
+1705,Computer Networks and Communications,Fog computing and its role in the internet of things,https://doi.org/10.1145/2342509.2342513,2012,5833,https://openalex.org/W2114623221
+1705,Computer Networks and Communications,A Survey on Mobile Edge Computing: The Communication Perspective,https://doi.org/10.1109/comst.2017.2745201,2017,5001,https://openalex.org/W2624989916
+1705,Computer Networks and Communications,Synchronization in complex networks,https://doi.org/10.1016/j.physrep.2008.09.002,2008,3484,https://openalex.org/W261461018
+1705,Computer Networks and Communications,Consensus of Multiagent Systems and Synchronization of Complex Networks: A Unified Viewpoint,https://doi.org/10.1109/tcsi.2009.2023937,2009,2365,https://openalex.org/W2166103243
+1705,Computer Networks and Communications,An Overview of Recent Progress in the Study of Distributed Multi-Agent Coordination,https://doi.org/10.1109/tii.2012.2219061,2012,2323,https://openalex.org/W2012812921
+1705,Computer Networks and Communications,Testing Mediation and Suppression Effects of Latent Variables,https://doi.org/10.1177/1094428107300343,2007,1846,https://openalex.org/W2132605910
+1705,Computer Networks and Communications,Emergent Behavior in Flocks,https://doi.org/10.1109/tac.2007.895842,2007,1720,https://openalex.org/W2103714988
+1705,Computer Networks and Communications,Dynamic Computation Offloading for Mobile-Edge Computing With Energy Harvesting Devices,https://doi.org/10.1109/jsac.2016.2611964,2016,1628,https://openalex.org/W2400861403
+1705,Computer Networks and Communications,A survey on the security of blockchain systems,https://doi.org/10.1016/j.future.2017.08.020,2017,1610,https://openalex.org/W2963264685
+1705,Computer Networks and Communications,Hot topic,https://doi.org/10.1145/1161089.1161129,2006,1524,https://openalex.org/W1975099099
+2713,Epidemiology,"Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia",https://doi.org/10.1056/nejmoa2001316,2020,17721,https://openalex.org/W3003668884
+2713,Epidemiology,"IDF Diabetes Atlas: Global, regional and country-level diabetes prevalence estimates for 2021 and projections for 2045",https://doi.org/10.1016/j.diabres.2021.109119,2021,8408,https://openalex.org/W4200026682
+2713,Epidemiology,Worldwide incidence and prevalence of inflammatory bowel disease in the 21st century: a systematic review of population-based studies,https://doi.org/10.1016/s0140-6736(17)32448-0,2017,5503,https://openalex.org/W2766046358
+2713,Epidemiology,SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients,https://doi.org/10.1056/nejmc2001737,2020,5135,https://openalex.org/W3006961006
+2713,Epidemiology,Neuroimaging standards for research into small vessel disease and its contribution to ageing and neurodegeneration,https://doi.org/10.1016/s1474-4422(13)70124-8,2013,5082,https://openalex.org/W2158742097
+2713,Epidemiology,Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021,https://doi.org/10.1007/s00134-021-06506-y,2021,4246,https://openalex.org/W3202964273
+2713,Epidemiology,A new definition for metabolic dysfunction-associated fatty liver disease: An international expert consensus statement,https://doi.org/10.1016/j.jhep.2020.03.039,2020,3951,https://openalex.org/W3015579983
+2713,Epidemiology,Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study,https://doi.org/10.1016/s1473-3099(20)30196-1,2020,3343,https://openalex.org/W3012756997
+2713,Epidemiology,First-Line Atezolizumab plus Chemotherapy in Extensive-Stage Small-Cell Lung Cancer,https://doi.org/10.1056/nejmoa1809064,2018,3257,https://openalex.org/W2893960509
+2713,Epidemiology,Estimates of global seasonal influenza-associated respiratory mortality: a modelling study,https://doi.org/10.1016/s0140-6736(17)33293-2,2017,2792,https://openalex.org/W2775569101

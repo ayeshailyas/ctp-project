@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-2505,Materials Chemistry,Two-dimensional gas of massless Dirac fermions in graphene,https://doi.org/10.1038/nature04233,2005,20951,https://openalex.org/W2125284466
-2505,Materials Chemistry,Two-dimensional atomic crystals,https://doi.org/10.1073/pnas.0502848102,2005,11309,https://openalex.org/W2134233006
-2505,Materials Chemistry,Detection of individual gas molecules adsorbed on graphene,https://doi.org/10.1038/nmat1967,2007,7814,https://openalex.org/W2088321686
-2208,Electrical and Electronic Engineering,Detection of individual gas molecules adsorbed on graphene,https://doi.org/10.1038/nmat1967,2007,7814,https://openalex.org/W2088321686
-2208,Electrical and Electronic Engineering,Trends in the Exchange Current for Hydrogen Evolution,https://doi.org/10.1149/1.1856988,2005,5399,https://openalex.org/W2022714449
-2208,Electrical and Electronic Engineering,Control of Graphene's Properties by Reversible Hydrogenation: Evidence for Graphane,https://doi.org/10.1126/science.1167130,2009,4091,https://openalex.org/W2126421651
-2210,Mechanical Engineering,Principles of equal-channel angular pressing as a processing tool for grain refinement,https://doi.org/10.1016/j.pmatsci.2006.02.003,2006,4050,https://openalex.org/W1963681996
-2210,Mechanical Engineering,Using high-pressure torsion for metal processing: Fundamentals and applications,https://doi.org/10.1016/j.pmatsci.2008.03.002,2008,2901,https://openalex.org/W2038210910
-2210,Mechanical Engineering,"Dynamic and post-dynamic recrystallization under hot, cold and severe plastic deformation conditions",https://doi.org/10.1016/j.pmatsci.2013.09.002,2013,2510,https://openalex.org/W2013289273
-3107,"Atomic and Molecular Physics, and Optics",Two-dimensional gas of massless Dirac fermions in graphene,https://doi.org/10.1038/nature04233,2005,20951,https://openalex.org/W2125284466
-3107,"Atomic and Molecular Physics, and Optics",LOBSTER: A tool to extract chemical bonding from plane‐wave based DFT,https://doi.org/10.1002/jcc.24300,2016,3011,https://openalex.org/W2282942319
-3107,"Atomic and Molecular Physics, and Optics",Crystal Orbital Hamilton Population (COHP) Analysis As Projected from Plane-Wave Basis Sets,https://doi.org/10.1021/jp202489s,2011,2825,https://openalex.org/W2322232911
-1312,Molecular Biology,SPAdes: A New Genome Assembly Algorithm and Its Applications to Single-Cell Sequencing,https://doi.org/10.1089/cmb.2012.0021,2012,25240,https://openalex.org/W2120902911
-1312,Molecular Biology,A method and server for predicting damaging missense mutations,https://doi.org/10.1038/nmeth0410-248,2010,13175,https://openalex.org/W2059145105
-1312,Molecular Biology,QUAST: quality assessment tool for genome assemblies,https://doi.org/10.1093/bioinformatics/btt086,2013,10055,https://openalex.org/W2107772251
-2204,Biomedical Engineering,Domain-Adversarial Training of Neural Networks,https://doi.org/10.1007/978-3-319-58347-1_10,2017,7395,https://openalex.org/W1731081199
-2204,Biomedical Engineering,Alternative Plasmonic Materials: Beyond Gold and Silver,https://doi.org/10.1002/adma.201205076,2013,2216,https://openalex.org/W2115607954
-2204,Biomedical Engineering,Gold nanoparticles in biomedical applications: recent advances and perspectives,https://doi.org/10.1039/c1cs15166e,2011,1864,https://openalex.org/W2129998516
-2211,Mechanics of Materials,"Dynamic and post-dynamic recrystallization under hot, cold and severe plastic deformation conditions",https://doi.org/10.1016/j.pmatsci.2013.09.002,2013,2510,https://openalex.org/W2013289273
-2211,Mechanics of Materials,Extreme grain refinement by severe plastic deformation: A wealth of challenging science,https://doi.org/10.1016/j.actamat.2012.10.038,2013,1761,https://openalex.org/W2040395615
-2211,Mechanics of Materials,Estimations of Clarkes for Carbonaceous biolithes: World averages for trace element contents in black shales and coals,https://doi.org/10.1016/j.coal.2009.01.002,2009,1360,https://openalex.org/W2093750105
-1605,Organic Chemistry,Improved Overall Survival in Melanoma with Combined Dabrafenib and Trametinib,https://doi.org/10.1056/nejmoa1412690,2014,2571,https://openalex.org/W1965370740
-1605,Organic Chemistry,"Transition-Metal-Catalyzed C−S, C−Se, and C−Te Bond Formation via Cross-Coupling and Atom-Economic Addition Reactions",https://doi.org/10.1021/cr100347k,2011,1619,https://openalex.org/W1975170017
-1605,Organic Chemistry,Adsorption of heavy metals on conventional and nanostructured materials for wastewater treatment purposes: A review,https://doi.org/10.1016/j.ecoenv.2017.11.034,2017,1525,https://openalex.org/W2770385631
-3106,Nuclear and High Energy Physics,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.1038/s41592-019-0686-2,2020,32755,https://openalex.org/W3003257820
-3106,Nuclear and High Energy Physics,Observation of Gravitational Waves from a Binary Black Hole Merger,https://doi.org/10.1103/physrevlett.116.061102,2016,13370,https://openalex.org/W2252795400
+2505,Materials Chemistry,Two-dimensional gas of massless Dirac fermions in graphene,https://doi.org/10.1038/nature04233,2005,20973,https://openalex.org/W2125284466
+2505,Materials Chemistry,Two-dimensional atomic crystals,https://doi.org/10.1073/pnas.0502848102,2005,11326,https://openalex.org/W2134233006
+2505,Materials Chemistry,Detection of individual gas molecules adsorbed on graphene,https://doi.org/10.1038/nmat1967,2007,7825,https://openalex.org/W2088321686
+2505,Materials Chemistry,Control of Graphene's Properties by Reversible Hydrogenation: Evidence for Graphane,https://doi.org/10.1126/science.1167130,2009,4095,https://openalex.org/W2126421651
+2505,Materials Chemistry,Principles of equal-channel angular pressing as a processing tool for grain refinement,https://doi.org/10.1016/j.pmatsci.2006.02.003,2006,4054,https://openalex.org/W1963681996
+2505,Materials Chemistry,"Multiferroic magnetoelectric composites: Historical perspective, status, and future directions",https://doi.org/10.1063/1.2836410,2008,3635,https://openalex.org/W2040027486
+2505,Materials Chemistry,Giant Intrinsic Carrier Mobilities in Graphene and Its Bilayer,https://doi.org/10.1103/physrevlett.100.016602,2008,3366,https://openalex.org/W2080880982
+2505,Materials Chemistry,LOBSTER: A tool to extract chemical bonding from plane‐wave based DFT,https://doi.org/10.1002/jcc.24300,2016,3040,https://openalex.org/W2282942319
+2505,Materials Chemistry,Using high-pressure torsion for metal processing: Fundamentals and applications,https://doi.org/10.1016/j.pmatsci.2008.03.002,2008,2906,https://openalex.org/W2038210910
+2505,Materials Chemistry,Crystal Orbital Hamilton Population (COHP) Analysis As Projected from Plane-Wave Basis Sets,https://doi.org/10.1021/jp202489s,2011,2845,https://openalex.org/W2322232911
+2208,Electrical and Electronic Engineering,Detection of individual gas molecules adsorbed on graphene,https://doi.org/10.1038/nmat1967,2007,7825,https://openalex.org/W2088321686
+2208,Electrical and Electronic Engineering,Trends in the Exchange Current for Hydrogen Evolution,https://doi.org/10.1149/1.1856988,2005,5427,https://openalex.org/W2022714449
+2208,Electrical and Electronic Engineering,Control of Graphene's Properties by Reversible Hydrogenation: Evidence for Graphane,https://doi.org/10.1126/science.1167130,2009,4095,https://openalex.org/W2126421651
+2208,Electrical and Electronic Engineering,Speed/Accuracy Trade-Offs for Modern Convolutional Object Detectors,https://doi.org/10.1109/cvpr.2017.351,2017,2603,https://openalex.org/W2557728737
+2208,Electrical and Electronic Engineering,Field-Effect Tunneling Transistor Based on Vertical Graphene Heterostructures,https://doi.org/10.1126/science.1218461,2012,2508,https://openalex.org/W2039211361
+2208,Electrical and Electronic Engineering,Electronic structure calculations with GPAW: a real-space implementation of the projector augmented-wave method,https://doi.org/10.1088/0953-8984/22/25/253202,2010,2249,https://openalex.org/W1967853451
+2208,Electrical and Electronic Engineering,Applied Plasma Medicine,https://doi.org/10.1002/ppap.200700154,2008,2005,https://openalex.org/W2017103564
+2208,Electrical and Electronic Engineering,Temporal solitons in optical microresonators,https://doi.org/10.1038/nphoton.2013.343,2013,1992,https://openalex.org/W2023155169
+2208,Electrical and Electronic Engineering,A review of classification algorithms for EEG-based brain–computer interfaces: a 10 year update,https://doi.org/10.1088/1741-2552/aab2f2,2018,1919,https://openalex.org/W2794345050
+2208,Electrical and Electronic Engineering,Perspectives for electrochemical capacitors and related devices,https://doi.org/10.1038/s41563-020-0747-z,2020,1897,https://openalex.org/W3046546345
+2210,Mechanical Engineering,Principles of equal-channel angular pressing as a processing tool for grain refinement,https://doi.org/10.1016/j.pmatsci.2006.02.003,2006,4054,https://openalex.org/W1963681996
+2210,Mechanical Engineering,Using high-pressure torsion for metal processing: Fundamentals and applications,https://doi.org/10.1016/j.pmatsci.2008.03.002,2008,2906,https://openalex.org/W2038210910
+2210,Mechanical Engineering,"Dynamic and post-dynamic recrystallization under hot, cold and severe plastic deformation conditions",https://doi.org/10.1016/j.pmatsci.2013.09.002,2013,2518,https://openalex.org/W2013289273
+2210,Mechanical Engineering,Hyperbolic metamaterials,https://doi.org/10.1038/nphoton.2013.243,2013,1997,https://openalex.org/W4211115775
+2210,Mechanical Engineering,Extreme grain refinement by severe plastic deformation: A wealth of challenging science,https://doi.org/10.1016/j.actamat.2012.10.038,2013,1763,https://openalex.org/W2040395615
+2210,Mechanical Engineering,Global Carbon Budget 2019,https://doi.org/10.5194/essd-11-1783-2019,2019,1659,https://openalex.org/W2979653715
+2210,Mechanical Engineering,Producing bulk ultrafine-grained materials by severe plastic deformation,https://doi.org/10.1007/s11837-006-0213-7,2006,1571,https://openalex.org/W2033125870
+2210,Mechanical Engineering,Polymeric Gas Separation Membranes,https://doi.org/10.1021/ma300213b,2012,1229,https://openalex.org/W2105677359
+2210,Mechanical Engineering,Hallmarks of mechanochemistry: from nanoparticles to technology,https://doi.org/10.1039/c3cs35468g,2013,1182,https://openalex.org/W2071082437
+2210,Mechanical Engineering,Review on superior strength and enhanced ductility of metallic nanomaterials,https://doi.org/10.1016/j.pmatsci.2018.02.002,2018,923,https://openalex.org/W2792964017
+3107,"Atomic and Molecular Physics, and Optics",Two-dimensional gas of massless Dirac fermions in graphene,https://doi.org/10.1038/nature04233,2005,20973,https://openalex.org/W2125284466
+3107,"Atomic and Molecular Physics, and Optics",LOBSTER: A tool to extract chemical bonding from plane‐wave based DFT,https://doi.org/10.1002/jcc.24300,2016,3040,https://openalex.org/W2282942319
+3107,"Atomic and Molecular Physics, and Optics",Crystal Orbital Hamilton Population (COHP) Analysis As Projected from Plane-Wave Basis Sets,https://doi.org/10.1021/jp202489s,2011,2845,https://openalex.org/W2322232911
+3107,"Atomic and Molecular Physics, and Optics",The Universe in a Helium Droplet,https://doi.org/10.1093/acprof:oso/9780199564842.001.0001,2009,2636,https://openalex.org/W1491881499
+3107,"Atomic and Molecular Physics, and Optics",Probabilistic and Statistical Aspects of Quantum Theory,https://doi.org/10.1007/978-88-7642-378-9,2011,2518,https://openalex.org/W3143400115
+3107,"Atomic and Molecular Physics, and Optics",Field-Effect Tunneling Transistor Based on Vertical Graphene Heterostructures,https://doi.org/10.1126/science.1218461,2012,2508,https://openalex.org/W2039211361
+3107,"Atomic and Molecular Physics, and Optics",WannierTools: An open-source software package for novel topological materials,https://doi.org/10.1016/j.cpc.2017.09.033,2017,2407,https://openalex.org/W2598009386
+3107,"Atomic and Molecular Physics, and Optics",Electronic structure calculations with GPAW: a real-space implementation of the projector augmented-wave method,https://doi.org/10.1088/0953-8984/22/25/253202,2010,2249,https://openalex.org/W1967853451
+3107,"Atomic and Molecular Physics, and Optics",The Einstein Telescope: a third-generation gravitational wave observatory,https://doi.org/10.1088/0264-9381/27/19/194002,2010,2183,https://openalex.org/W2061083933
+3107,"Atomic and Molecular Physics, and Optics",The Photodetector Array Camera and Spectrometer (PACS) on the <i>Herschel</i>Space Observatory,https://doi.org/10.1051/0004-6361/201014535,2010,2128,https://openalex.org/W2097350628
+1312,Molecular Biology,SPAdes: A New Genome Assembly Algorithm and Its Applications to Single-Cell Sequencing,https://doi.org/10.1089/cmb.2012.0021,2012,25324,https://openalex.org/W2120902911
+1312,Molecular Biology,A method and server for predicting damaging missense mutations,https://doi.org/10.1038/nmeth0410-248,2010,13203,https://openalex.org/W2059145105
+1312,Molecular Biology,QUAST: quality assessment tool for genome assemblies,https://doi.org/10.1093/bioinformatics/btt086,2013,10108,https://openalex.org/W2107772251
+1312,Molecular Biology,Antiinflammatory Therapy with Canakinumab for Atherosclerotic Disease,https://doi.org/10.1056/nejmoa1707914,2017,8419,https://openalex.org/W2748400555
+1312,Molecular Biology,Circulating microRNAs as stable blood-based markers for cancer detection,https://doi.org/10.1073/pnas.0804549105,2008,7797,https://openalex.org/W2115093090
+1312,Molecular Biology,Molecular mechanisms of cell death: recommendations of the Nomenclature Committee on Cell Death 2018,https://doi.org/10.1038/s41418-017-0012-4,2018,6049,https://openalex.org/W2788640168
+1312,Molecular Biology,Mitochondrial Reactive Oxygen Species (ROS) and ROS-Induced ROS Release,https://doi.org/10.1152/physrev.00026.2013,2014,4837,https://openalex.org/W2076598575
+1312,Molecular Biology,metaSPAdes: a new versatile metagenomic assembler,https://doi.org/10.1101/gr.213959.116,2017,4340,https://openalex.org/W2599417231
+1312,Molecular Biology,Core Signaling Pathways in Human Pancreatic Cancers Revealed by Global Genomic Analyses,https://doi.org/10.1126/science.1164368,2008,3993,https://openalex.org/W2138155367
+1312,Molecular Biology,Medical Management of Hyperglycemia in Type 2 Diabetes: A Consensus Algorithm for the Initiation and Adjustment of Therapy,https://doi.org/10.2337/dc08-9025,2008,3807,https://openalex.org/W2146901298
+2204,Biomedical Engineering,Domain-Adversarial Training of Neural Networks,https://doi.org/10.1007/978-3-319-58347-1_10,2017,7398,https://openalex.org/W1731081199
+2204,Biomedical Engineering,Alternative Plasmonic Materials: Beyond Gold and Silver,https://doi.org/10.1002/adma.201205076,2013,2225,https://openalex.org/W2115607954
+2204,Biomedical Engineering,Gold nanoparticles in biomedical applications: recent advances and perspectives,https://doi.org/10.1039/c1cs15166e,2011,1866,https://openalex.org/W2129998516
+2204,Biomedical Engineering,Fano resonances in photonics,https://doi.org/10.1038/nphoton.2017.142,2017,1811,https://openalex.org/W2753486779
+2204,Biomedical Engineering,"Asymmetric Metasurfaces with High-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>Q</mml:mi></mml:math> Resonances Governed by Bound States in the Continuum",https://doi.org/10.1103/physrevlett.121.193903,2018,1708,https://openalex.org/W2891036947
+2204,Biomedical Engineering,Adsorption of heavy metals on conventional and nanostructured materials for wastewater treatment purposes: A review,https://doi.org/10.1016/j.ecoenv.2017.11.034,2017,1528,https://openalex.org/W2770385631
+2204,Biomedical Engineering,Microbial production of fatty-acid-derived fuels and chemicals from plant biomass,https://doi.org/10.1038/nature08721,2010,1329,https://openalex.org/W2074893062
+2204,Biomedical Engineering,Plasmonic Surface Lattice Resonances: A Review of Properties and Applications,https://doi.org/10.1021/acs.chemrev.8b00243,2018,1313,https://openalex.org/W2807198354
+2204,Biomedical Engineering,Fluorographene: A Two‐Dimensional Counterpart of Teflon,https://doi.org/10.1002/smll.201001555,2010,1291,https://openalex.org/W2135724087
+2204,Biomedical Engineering,A Review of Indocyanine Green Fluorescent Imaging in Surgery,https://doi.org/10.1155/2012/940585,2012,1267,https://openalex.org/W2031871723
+2211,Mechanics of Materials,"Dynamic and post-dynamic recrystallization under hot, cold and severe plastic deformation conditions",https://doi.org/10.1016/j.pmatsci.2013.09.002,2013,2518,https://openalex.org/W2013289273
+2211,Mechanics of Materials,Extreme grain refinement by severe plastic deformation: A wealth of challenging science,https://doi.org/10.1016/j.actamat.2012.10.038,2013,1763,https://openalex.org/W2040395615
+2211,Mechanics of Materials,Estimations of Clarkes for Carbonaceous biolithes: World averages for trace element contents in black shales and coals,https://doi.org/10.1016/j.coal.2009.01.002,2009,1365,https://openalex.org/W2093750105
+2211,Mechanics of Materials,Polymeric Gas Separation Membranes,https://doi.org/10.1021/ma300213b,2012,1229,https://openalex.org/W2105677359
+2211,Mechanics of Materials,Mathematical Aspects of Classical and Celestial Mechanics,https://doi.org/10.1007/978-3-540-48926-9,2006,1072,https://openalex.org/W3118861594
+2211,Mechanics of Materials,Continuous Spin Detonations,https://doi.org/10.2514/1.17656,2006,770,https://openalex.org/W2084631373
+2211,Mechanics of Materials,Nanostructural hierarchy increases the strength of aluminium alloys,https://doi.org/10.1038/ncomms1062,2010,704,https://openalex.org/W1993227822
+2211,Mechanics of Materials,Thermal decomposition of ammonium perchlorate,https://doi.org/10.1016/j.tca.2005.11.038,2006,645,https://openalex.org/W2159964678
+2211,Mechanics of Materials,Siberian gas venting and the end-Permian environmental crisis,https://doi.org/10.1016/j.epsl.2008.11.015,2008,641,https://openalex.org/W2114710766
+2211,Mechanics of Materials,Application of Fractional Calculus for Dynamic Problems of Solid Mechanics: Novel Trends and Recent Results,https://doi.org/10.1115/1.4000563,2009,615,https://openalex.org/W2080296395
+1605,Organic Chemistry,Improved Overall Survival in Melanoma with Combined Dabrafenib and Trametinib,https://doi.org/10.1056/nejmoa1412690,2014,2575,https://openalex.org/W1965370740
+1605,Organic Chemistry,"Transition-Metal-Catalyzed C−S, C−Se, and C−Te Bond Formation via Cross-Coupling and Atom-Economic Addition Reactions",https://doi.org/10.1021/cr100347k,2011,1621,https://openalex.org/W1975170017
+1605,Organic Chemistry,Adsorption of heavy metals on conventional and nanostructured materials for wastewater treatment purposes: A review,https://doi.org/10.1016/j.ecoenv.2017.11.034,2017,1528,https://openalex.org/W2770385631
+1605,Organic Chemistry,Metal–organic frameworks: versatile heterogeneous catalysts for efficient catalytic organic transformations,https://doi.org/10.1039/c4cs00395k,2015,1352,https://openalex.org/W2130283800
+1605,Organic Chemistry,"Dabrafenib and trametinib versus dabrafenib and placebo for Val600 BRAF-mutant melanoma: a multicentre, double-blind, phase 3 randomised controlled trial",https://doi.org/10.1016/s0140-6736(15)60898-4,2015,1346,https://openalex.org/W2160766792
+1605,Organic Chemistry,Recent developments in the general atomic and molecular electronic structure system,https://doi.org/10.1063/5.0005188,2020,1322,https://openalex.org/W3017260797
+1605,Organic Chemistry,Five-Year Outcomes with Dabrafenib plus Trametinib in Metastatic Melanoma,https://doi.org/10.1056/nejmoa1904059,2019,1283,https://openalex.org/W2948155539
+1605,Organic Chemistry,Prediction of the Biological Activity Spectra of Organic Compounds Using the Pass Online Web Resource,https://doi.org/10.1007/s10593-014-1496-1,2014,1156,https://openalex.org/W1997872815
+1605,Organic Chemistry,Physiology and Pathophysiology of Carnosine,https://doi.org/10.1152/physrev.00039.2012,2013,1030,https://openalex.org/W2111370164
+1605,Organic Chemistry,Symbol Nomenclature for Graphical Representations of Glycans,https://doi.org/10.1093/glycob/cwv091,2015,1017,https://openalex.org/W2190199302
+3106,Nuclear and High Energy Physics,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.1038/s41592-019-0686-2,2020,32978,https://openalex.org/W3003257820
+3106,Nuclear and High Energy Physics,Observation of Gravitational Waves from a Binary Black Hole Merger,https://doi.org/10.1103/physrevlett.116.061102,2016,13398,https://openalex.org/W2252795400
 3106,Nuclear and High Energy Physics,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.17863/cam.64134,2019,11500,https://openalex.org/W3103145119
-3312,Sociology and Political Science,Why Are There Still So Many Jobs? The History and Future of Workplace Automation,https://doi.org/10.1257/jep.29.3.3,2015,3126,https://openalex.org/W1821977771
-3312,Sociology and Political Science,The benefits of playing video games.,https://doi.org/10.1037/a0034857,2013,2257,https://openalex.org/W2063077274
-3312,Sociology and Political Science,"Trump, Brexit, and the Rise of Populism: Economic Have-Nots and Cultural Backlash",https://doi.org/10.2139/ssrn.2818659,2016,1812,https://openalex.org/W2483961605
+3106,Nuclear and High Energy Physics,Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC,https://doi.org/10.1016/j.physletb.2012.08.020,2012,10288,https://openalex.org/W1858542512
+3106,Nuclear and High Energy Physics,GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral,https://doi.org/10.1103/physrevlett.119.161101,2017,8968,https://openalex.org/W2765081049
+3106,Nuclear and High Energy Physics,Review of Particle Physics,https://doi.org/10.1103/physrevd.98.030001,2018,6998,https://openalex.org/W2899140785
+3106,Nuclear and High Energy Physics,Geant4 developments and applications,https://doi.org/10.1109/tns.2006.869826,2006,6553,https://openalex.org/W2128881154
+3106,Nuclear and High Energy Physics,Review of Particle Physics,https://doi.org/10.1093/ptep/ptac097,2022,5925,https://openalex.org/W2963002078
+3106,Nuclear and High Energy Physics,Review of Particle Physics,https://doi.org/10.1103/physrevd.86.010001,2012,5840,https://openalex.org/W1581228648
+3106,Nuclear and High Energy Physics,Review of Particle Physics,https://doi.org/10.1093/ptep/ptaa104,2020,5069,https://openalex.org/W3108284800
+3312,Sociology and Political Science,Why Are There Still So Many Jobs? The History and Future of Workplace Automation,https://doi.org/10.1257/jep.29.3.3,2015,3149,https://openalex.org/W1821977771
+3312,Sociology and Political Science,The benefits of playing video games.,https://doi.org/10.1037/a0034857,2013,2265,https://openalex.org/W2063077274
+3312,Sociology and Political Science,"Trump, Brexit, and the Rise of Populism: Economic Have-Nots and Cultural Backlash",https://doi.org/10.2139/ssrn.2818659,2016,1815,https://openalex.org/W2483961605
+3312,Sociology and Political Science,Contrasting Computational Models of Mate Preference Integration Across 45 Countries,https://doi.org/10.1038/s41598-019-52748-8,2019,1773,https://openalex.org/W2983201012
+3312,Sociology and Political Science,The Credibility Revolution in Empirical Economics: How Better Research Design is Taking the Con out of Econometrics,https://doi.org/10.1257/jep.24.2.3,2010,1484,https://openalex.org/W3123293195
+3312,Sociology and Political Science,The Corporate Governance Role of the Media: Evidence from Russia,https://doi.org/10.1111/j.1540-6261.2008.01353.x,2008,1206,https://openalex.org/W3126130034
+3312,Sociology and Political Science,COVID-19 vaccine acceptance and hesitancy in low- and middle-income countries,https://doi.org/10.1038/s41591-021-01454-y,2021,1090,https://openalex.org/W3182978015
+3312,Sociology and Political Science,"Modernization, cultural change, and democracy",,2005,1046,https://openalex.org/W2222843863
+3312,Sociology and Political Science,Mind and Heart of the Negotiator,,2015,827,https://openalex.org/W1576273487
+3312,Sociology and Political Science,How General Is Trust in “Most People”? Solving the Radius of Trust Problem,https://doi.org/10.1177/0003122411420817,2011,774,https://openalex.org/W2090699109

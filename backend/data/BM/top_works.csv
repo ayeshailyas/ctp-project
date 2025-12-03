@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-1910,Oceanography,"Climatological mean and decadal change in surface ocean pCO<sub>2</sub>, and net sea-air CO<sub>2</sub> flux over the global oceans",https://doi.org/10.1016/j.dsr2.2008.12.009,2009,2440,https://openalex.org/W2063534846
-1910,Oceanography,Eddy/Wind Interactions Stimulate Extraordinary Mid-Ocean Plankton Blooms,https://doi.org/10.1126/science.1136256,2007,863,https://openalex.org/W2083524788
-1910,Oceanography,Phytoplankton in the ocean use non-phosphorus lipids in response to phosphorus scarcity,https://doi.org/10.1038/nature07659,2009,815,https://openalex.org/W2019807560
-2303,Ecology,Minor revision to V4 region SSU rRNA 806R gene primer greatly increases detection of SAR11 bacterioplankton,https://doi.org/10.3354/ame01753,2015,2602,https://openalex.org/W2091627137
-2303,Ecology,The Marine Viromes of Four Oceanic Regions,https://doi.org/10.1371/journal.pbio.0040368,2006,936,https://openalex.org/W1995614275
-2303,Ecology,"Caribbean Corals in Crisis: Record Thermal Stress, Bleaching, and Mortality in 2005",https://doi.org/10.1371/journal.pone.0013969,2010,882,https://openalex.org/W2156568771
-2306,Global and Planetary Change,"Climatological mean and decadal change in surface ocean pCO<sub>2</sub>, and net sea-air CO<sub>2</sub> flux over the global oceans",https://doi.org/10.1016/j.dsr2.2008.12.009,2009,2440,https://openalex.org/W2063534846
-2306,Global and Planetary Change,Global Carbon Budget 2020,https://doi.org/10.5194/essd-12-3269-2020,2020,2406,https://openalex.org/W3093432062
-2306,Global and Planetary Change,Global Carbon Budget 2022,https://doi.org/10.5194/essd-14-4811-2022,2022,1592,https://openalex.org/W4308697725
-1902,Atmospheric Science,Global Carbon Budget 2020,https://doi.org/10.5194/essd-12-3269-2020,2020,2406,https://openalex.org/W3093432062
-1902,Atmospheric Science,Global Carbon Budget 2022,https://doi.org/10.5194/essd-14-4811-2022,2022,1592,https://openalex.org/W4308697725
-1902,Atmospheric Science,Global Carbon Budget 2021,https://doi.org/10.5194/essd-14-1917-2022,2022,1500,https://openalex.org/W4225004802
+1910,Oceanography,"Climatological mean and decadal change in surface ocean pCO<sub>2</sub>, and net sea-air CO<sub>2</sub> flux over the global oceans",https://doi.org/10.1016/j.dsr2.2008.12.009,2009,2446,https://openalex.org/W2063534846
+1910,Oceanography,Eddy/Wind Interactions Stimulate Extraordinary Mid-Ocean Plankton Blooms,https://doi.org/10.1126/science.1136256,2007,866,https://openalex.org/W2083524788
+1910,Oceanography,Phytoplankton in the ocean use non-phosphorus lipids in response to phosphorus scarcity,https://doi.org/10.1038/nature07659,2009,816,https://openalex.org/W2019807560
+1910,Oceanography,Massive Phytoplankton Blooms Under Arctic Sea Ice,https://doi.org/10.1126/science.1215065,2012,752,https://openalex.org/W1986021413
+1910,Oceanography,A multi-decade record of high-quality <i>f</i> CO <sub>2</sub> data in version 3 of the Surface Ocean CO <sub>2</sub> Atlas (SOCAT),https://doi.org/10.5194/essd-8-383-2016,2016,694,https://openalex.org/W2395026888
+1910,Oceanography,Decreased abundance of crustose coralline algae due to ocean acidification,https://doi.org/10.1038/ngeo100,2007,553,https://openalex.org/W2111901538
+1910,Oceanography,Strong latitudinal patterns in the elemental ratios of marine plankton and organic matter,https://doi.org/10.1038/ngeo1757,2013,542,https://openalex.org/W2125402987
+1910,Oceanography,A Time-Series View of Changing Ocean Chemistry Due to Ocean Uptake of Anthropogenic CO2 and Ocean Acidification,https://doi.org/10.5670/oceanog.2014.16,2014,540,https://openalex.org/W2126154479
+1910,Oceanography,Photosynthetic symbioses in animals,https://doi.org/10.1093/jxb/erm328,2008,427,https://openalex.org/W2140532230
+1910,Oceanography,Ocean acidification and calcifying reef organisms: a mesocosm investigation,https://doi.org/10.1007/s00338-008-0380-9,2008,395,https://openalex.org/W2170275218
+2303,Ecology,Minor revision to V4 region SSU rRNA 806R gene primer greatly increases detection of SAR11 bacterioplankton,https://doi.org/10.3354/ame01753,2015,2619,https://openalex.org/W2091627137
+2303,Ecology,The Marine Viromes of Four Oceanic Regions,https://doi.org/10.1371/journal.pbio.0040368,2006,937,https://openalex.org/W1995614275
+2303,Ecology,"Caribbean Corals in Crisis: Record Thermal Stress, Bleaching, and Mortality in 2005",https://doi.org/10.1371/journal.pone.0013969,2010,889,https://openalex.org/W2156568771
+2303,Ecology,"Repeated, long-distance migrations by a philopatric predator targeting highly contrasting ecosystems",https://doi.org/10.1038/srep11202,2015,850,https://openalex.org/W1946143552
+2303,Ecology,Phytoplankton in the ocean use non-phosphorus lipids in response to phosphorus scarcity,https://doi.org/10.1038/nature07659,2009,816,https://openalex.org/W2019807560
+2303,Ecology,Decreased abundance of crustose coralline algae due to ocean acidification,https://doi.org/10.1038/ngeo100,2007,553,https://openalex.org/W2111901538
+2303,Ecology,Strong latitudinal patterns in the elemental ratios of marine plankton and organic matter,https://doi.org/10.1038/ngeo1757,2013,542,https://openalex.org/W2125402987
+2303,Ecology,Photosynthetic symbioses in animals,https://doi.org/10.1093/jxb/erm328,2008,427,https://openalex.org/W2140532230
+2303,Ecology,Ocean acidification and calcifying reef organisms: a mesocosm investigation,https://doi.org/10.1007/s00338-008-0380-9,2008,395,https://openalex.org/W2170275218
+2303,Ecology,"Life on the margin: implications of ocean acidification on Mg-calcite, high latitude and cold-water marine calcifiers",https://doi.org/10.3354/meps07639,2008,384,https://openalex.org/W2038746245
+2306,Global and Planetary Change,"Climatological mean and decadal change in surface ocean pCO<sub>2</sub>, and net sea-air CO<sub>2</sub> flux over the global oceans",https://doi.org/10.1016/j.dsr2.2008.12.009,2009,2446,https://openalex.org/W2063534846
+2306,Global and Planetary Change,Global Carbon Budget 2020,https://doi.org/10.5194/essd-12-3269-2020,2020,2407,https://openalex.org/W3093432062
+2306,Global and Planetary Change,Global Carbon Budget 2022,https://doi.org/10.5194/essd-14-4811-2022,2022,1597,https://openalex.org/W4308697725
+2306,Global and Planetary Change,Global Carbon Budget 2021,https://doi.org/10.5194/essd-14-1917-2022,2022,1501,https://openalex.org/W4225004802
+2306,Global and Planetary Change,"Caribbean Corals in Crisis: Record Thermal Stress, Bleaching, and Mortality in 2005",https://doi.org/10.1371/journal.pone.0013969,2010,889,https://openalex.org/W2156568771
+2306,Global and Planetary Change,"Repeated, long-distance migrations by a philopatric predator targeting highly contrasting ecosystems",https://doi.org/10.1038/srep11202,2015,850,https://openalex.org/W1946143552
+2306,Global and Planetary Change,A multi-decade record of high-quality <i>f</i> CO <sub>2</sub> data in version 3 of the Surface Ocean CO <sub>2</sub> Atlas (SOCAT),https://doi.org/10.5194/essd-8-383-2016,2016,694,https://openalex.org/W2395026888
+2306,Global and Planetary Change,The GEOTRACES Intermediate Data Product 2017,https://doi.org/10.1016/j.chemgeo.2018.05.040,2018,394,https://openalex.org/W2915363558
+2306,Global and Planetary Change,"Life on the margin: implications of ocean acidification on Mg-calcite, high latitude and cold-water marine calcifiers",https://doi.org/10.3354/meps07639,2008,384,https://openalex.org/W2038746245
+2306,Global and Planetary Change,Revisiting metazoan phylogeny with genomic sampling of all phyla,https://doi.org/10.1098/rspb.2019.0831,2019,377,https://openalex.org/W2957892651
+1902,Atmospheric Science,Global Carbon Budget 2020,https://doi.org/10.5194/essd-12-3269-2020,2020,2407,https://openalex.org/W3093432062
+1902,Atmospheric Science,Global Carbon Budget 2022,https://doi.org/10.5194/essd-14-4811-2022,2022,1597,https://openalex.org/W4308697725
+1902,Atmospheric Science,Global Carbon Budget 2021,https://doi.org/10.5194/essd-14-1917-2022,2022,1501,https://openalex.org/W4225004802
+1902,Atmospheric Science,Massive Phytoplankton Blooms Under Arctic Sea Ice,https://doi.org/10.1126/science.1215065,2012,752,https://openalex.org/W1986021413
+1902,Atmospheric Science,North Atlantic ocean circulation and abrupt climate change during the last glaciation,https://doi.org/10.1126/science.aaf5529,2016,503,https://openalex.org/W2460928081
+1902,Atmospheric Science,"The Arctic Ocean marine carbon cycle: evaluation of air-sea CO <sub>2</sub> exchanges, ocean acidification impacts and potential feedbacks",https://doi.org/10.5194/bg-6-2433-2009,2009,378,https://openalex.org/W2111167715
+1902,Atmospheric Science,A globally consistent reanalysis of hurricane variability and trends,https://doi.org/10.1029/2006gl028836,2007,336,https://openalex.org/W2075141805
+1902,Atmospheric Science,Impact of anthropogenic combustion emissions on the fractional solubility of aerosol iron: Evidence from the Sargasso Sea,https://doi.org/10.1029/2007gc001586,2007,336,https://openalex.org/W1655820209
+1902,Atmospheric Science,NASA's surface biology and geology designated observable: A perspective on surface imaging algorithms,https://doi.org/10.1016/j.rse.2021.112349,2021,297,https://openalex.org/W3133407985
+1902,Atmospheric Science,Phytoplankton blooms beneath the sea ice in the Chukchi sea,https://doi.org/10.1016/j.dsr2.2014.03.018,2014,238,https://openalex.org/W1998994604
 1705,Computer Networks and Communications,Data integration: the teenage years,https://doi.org/10.5555/1182635.1164130,2006,539,https://openalex.org/W2142151675
 1705,Computer Networks and Communications,Amassing and indexing a large sample of version control systems: Towards the census of public source code history,https://doi.org/10.1109/msr.2009.5069476,2009,106,https://openalex.org/W2099677903
 1705,Computer Networks and Communications,High-impact defects,https://doi.org/10.1145/2025113.2025155,2011,85,https://openalex.org/W2098673848
-1710,Information Systems,A large-scale empirical study of just-in-time quality assurance,https://doi.org/10.1109/tse.2012.70,2012,653,https://openalex.org/W2147386665
-1710,Information Systems,Quantifying the Effect of Code Smells on Maintenance Effort,https://doi.org/10.1109/tse.2012.89,2013,305,https://openalex.org/W2014418158
+1705,Computer Networks and Communications,,https://doi.org/10.1002/wcm.v8:4,2008,67,https://openalex.org/W1995467022
+1705,Computer Networks and Communications,Velocity-Assisted Predictive Mobility and Location-Aware Routing Protocols for Mobile<i>Ad Hoc</i>Networks,https://doi.org/10.1109/tvt.2007.901897,2008,57,https://openalex.org/W2135438011
+1705,Computer Networks and Communications,Taking on webRTC in an enterprise,https://doi.org/10.1109/mcom.2013.6495760,2013,56,https://openalex.org/W2066151069
+1705,Computer Networks and Communications,Cloud-based Performance Testing of Network Management Systems,https://doi.org/10.1109/camad.2009.5161466,2009,38,https://openalex.org/W2117285062
+1705,Computer Networks and Communications,Web services for communication over IP,https://doi.org/10.1109/mcom.2008.4463784,2008,31,https://openalex.org/W2000815938
+1705,Computer Networks and Communications,TA-RE,https://doi.org/10.1145/1137983.1137990,2006,29,https://openalex.org/W2133464983
+1705,Computer Networks and Communications,Insider threat detection using situation-aware MAS,,2008,26,https://openalex.org/W1545902494
+1710,Information Systems,A large-scale empirical study of just-in-time quality assurance,https://doi.org/10.1109/tse.2012.70,2012,654,https://openalex.org/W2147386665
+1710,Information Systems,Quantifying the Effect of Code Smells on Maintenance Effort,https://doi.org/10.1109/tse.2012.89,2013,306,https://openalex.org/W2014418158
 1710,Information Systems,Petri Net Modeling of Cyber-Physical Attacks on Smart Grid,https://doi.org/10.1109/tsg.2011.2160000,2011,247,https://openalex.org/W2143665444
-1312,Molecular Biology,Minor revision to V4 region SSU rRNA 806R gene primer greatly increases detection of SAR11 bacterioplankton,https://doi.org/10.3354/ame01753,2015,2602,https://openalex.org/W2091627137
+1710,Information Systems,Large-Scale Code Reuse in Open Source Software,https://doi.org/10.1109/floss.2007.10,2007,131,https://openalex.org/W2132944054
+1710,Information Systems,Architecture Reviews: Practice and Experience,https://doi.org/10.1109/ms.2005.28,2005,119,https://openalex.org/W2092099049
+1710,Information Systems,Organizational volatility and its effects on software defects,https://doi.org/10.1145/1882291.1882311,2010,113,https://openalex.org/W2093125667
+1710,Information Systems,What make long term contributors: willingness and opportunity in OSS community,https://doi.org/10.5555/2337223.2337284,2012,109,https://openalex.org/W2122704901
+1710,Information Systems,Amassing and indexing a large sample of version control systems: Towards the census of public source code history,https://doi.org/10.1109/msr.2009.5069476,2009,106,https://openalex.org/W2099677903
+1710,Information Systems,Test coverage and post-verification defects: A multiple case study,https://doi.org/10.1109/esem.2009.5315981,2009,99,https://openalex.org/W2089175932
+1710,Information Systems,Developer fluency,https://doi.org/10.1145/1882291.1882313,2010,95,https://openalex.org/W2082638814
+1312,Molecular Biology,Minor revision to V4 region SSU rRNA 806R gene primer greatly increases detection of SAR11 bacterioplankton,https://doi.org/10.3354/ame01753,2015,2619,https://openalex.org/W2091627137
 1312,Molecular Biology,Revisiting metazoan phylogeny with genomic sampling of all phyla,https://doi.org/10.1098/rspb.2019.0831,2019,377,https://openalex.org/W2957892651
 1312,Molecular Biology,An obligately photosynthetic bacterial anaerobe from a deep-sea hydrothermal vent,https://doi.org/10.1073/pnas.0503674102,2005,349,https://openalex.org/W2169289406
-2309,Nature and Landscape Conservation,"Repeated, long-distance migrations by a philopatric predator targeting highly contrasting ecosystems",https://doi.org/10.1038/srep11202,2015,849,https://openalex.org/W1946143552
+1312,Molecular Biology,Evolution of Saxitoxin Synthesis in Cyanobacteria and Dinoflagellates,https://doi.org/10.1093/molbev/mss142,2012,177,https://openalex.org/W2120862378
+1312,Molecular Biology,Origin of Saxitoxin Biosynthetic Genes in Cyanobacteria,https://doi.org/10.1371/journal.pone.0005758,2009,131,https://openalex.org/W2127767299
+1312,Molecular Biology,Toward a global reference database of COI barcodes for marine zooplankton,https://doi.org/10.1007/s00227-021-03887-y,2021,131,https://openalex.org/W3159449754
+1312,Molecular Biology,Changes in partitioning of carbon amongst photosynthetic pico- and nano-plankton groups in the Sargasso Sea in response to changes in the North Atlantic Oscillation,https://doi.org/10.1016/j.dsr2.2013.02.002,2013,78,https://openalex.org/W2016923768
+1312,Molecular Biology,"New spicular skeletons in Turbellaria, and the occurrence of spicules in marine meiofauna1",https://doi.org/10.1111/j.1439-0469.1975.tb00509.x,2009,77,https://openalex.org/W1987621374
+1312,Molecular Biology,Pangenomics Analysis Reveals Diversification of Enzyme Families and Niche Specialization in Globally Abundant SAR202 Bacteria,https://doi.org/10.1128/mbio.02975-19,2020,63,https://openalex.org/W2999564444
+1312,Molecular Biology,DNA-based molecular fingerprinting of eukaryotic protists and cyanobacteria contributing to sinking particle flux at the Bermuda Atlantic time-series study,https://doi.org/10.1016/j.dsr2.2013.01.001,2013,50,https://openalex.org/W2071431777
+2309,Nature and Landscape Conservation,"Repeated, long-distance migrations by a philopatric predator targeting highly contrasting ecosystems",https://doi.org/10.1038/srep11202,2015,850,https://openalex.org/W1946143552
 2309,Nature and Landscape Conservation,Deep reefs are not universal refuges: Reseeding potential varies among coral species,https://doi.org/10.1126/sciadv.1602373,2017,245,https://openalex.org/W2588640296
-2309,Nature and Landscape Conservation,Impact of climate on eel populations of the Northern Hemisphere,https://doi.org/10.3354/meps07696,2008,135,https://openalex.org/W2079475278
-2304,Environmental Chemistry,Massive Phytoplankton Blooms Under Arctic Sea Ice,https://doi.org/10.1126/science.1215065,2012,750,https://openalex.org/W1986021413
-2304,Environmental Chemistry,North Atlantic ocean circulation and abrupt climate change during the last glaciation,https://doi.org/10.1126/science.aaf5529,2016,499,https://openalex.org/W2460928081
+2309,Nature and Landscape Conservation,Impact of climate on eel populations of the Northern Hemisphere,https://doi.org/10.3354/meps07696,2008,136,https://openalex.org/W2079475278
+2309,Nature and Landscape Conservation,Upper and lower mesophotic coral reef fish communities evaluated by underwater visual censuses in two Caribbean locations,https://doi.org/10.1007/s00338-015-1381-0,2015,132,https://openalex.org/W2236115864
+2309,Nature and Landscape Conservation,The Ecology and Migrations of Sea Turtles 8. Tests of the Developmental Habitat Hypothesis,https://doi.org/10.1206/357.1,2011,128,https://openalex.org/W2150883581
+2309,Nature and Landscape Conservation,Somatic growth dynamics of West Atlantic hawksbill sea turtles: a spatio‐temporal perspective,https://doi.org/10.1002/ecs2.1279,2016,125,https://openalex.org/W2398148449
+2309,Nature and Landscape Conservation,"Light, Temperature, Photosynthesis, Heterotrophy, and the Lower Depth Limits of Mesophotic Coral Ecosystems",https://doi.org/10.1007/978-3-319-92735-0_42,2019,125,https://openalex.org/W2946233760
+2309,Nature and Landscape Conservation,"Coral bleaching, bleaching-induced mortality, and the adaptive significance of the bleaching response",https://doi.org/10.1007/s00227-007-0900-0,2008,119,https://openalex.org/W2073960444
+2309,Nature and Landscape Conservation,Ecological regime shift drives declining growth rates of sea turtles throughout the West Atlantic,https://doi.org/10.1111/gcb.13712,2017,79,https://openalex.org/W2604698963
+2309,Nature and Landscape Conservation,Spectral Diversity and Regulation of Coral Fluorescence in a Mesophotic Reef Habitat in the Red Sea,https://doi.org/10.1371/journal.pone.0128697,2015,72,https://openalex.org/W840345126
+2304,Environmental Chemistry,Massive Phytoplankton Blooms Under Arctic Sea Ice,https://doi.org/10.1126/science.1215065,2012,752,https://openalex.org/W1986021413
+2304,Environmental Chemistry,North Atlantic ocean circulation and abrupt climate change during the last glaciation,https://doi.org/10.1126/science.aaf5529,2016,503,https://openalex.org/W2460928081
 2304,Environmental Chemistry,The GEOTRACES Intermediate Data Product 2017,https://doi.org/10.1016/j.chemgeo.2018.05.040,2018,394,https://openalex.org/W2915363558
+2304,Environmental Chemistry,"The Arctic Ocean marine carbon cycle: evaluation of air-sea CO <sub>2</sub> exchanges, ocean acidification impacts and potential feedbacks",https://doi.org/10.5194/bg-6-2433-2009,2009,378,https://openalex.org/W2111167715
+2304,Environmental Chemistry,An obligately photosynthetic bacterial anaerobe from a deep-sea hydrothermal vent,https://doi.org/10.1073/pnas.0503674102,2005,349,https://openalex.org/W2169289406
+2304,Environmental Chemistry,Phytoplankton blooms beneath the sea ice in the Chukchi sea,https://doi.org/10.1016/j.dsr2.2014.03.018,2014,238,https://openalex.org/W1998994604
+2304,Environmental Chemistry,Microbial metabolites in the marine carbon cycle,https://doi.org/10.1038/s41564-022-01090-3,2022,206,https://openalex.org/W4220757897
+2304,Environmental Chemistry,Factors regulating the Great Calcite Belt in the Southern Ocean and its biogeochemical significance,https://doi.org/10.1002/2016gb005414,2016,177,https://openalex.org/W2556425461
+2304,Environmental Chemistry,Evolution of Saxitoxin Synthesis in Cyanobacteria and Dinoflagellates,https://doi.org/10.1093/molbev/mss142,2012,177,https://openalex.org/W2120862378
+2304,Environmental Chemistry,An increasing CO<sub>2</sub> sink in the Arctic Ocean due to sea‐ice loss,https://doi.org/10.1029/2006gl027028,2006,176,https://openalex.org/W1968973672
 1702,Artificial Intelligence,ET-LDA: Joint Topic Modeling for Aligning Events and their Twitter Feedback,https://doi.org/10.1609/aaai.v26i1.8106,2021,62,https://openalex.org/W2244191099
 1702,Artificial Intelligence,Refactoring for Changeability: A Way to Go?,https://doi.org/10.1109/metrics.2005.40,2005,47,https://openalex.org/W2137203524
 1702,Artificial Intelligence,AVAYA: Sentiment Analysis on Twitter with Self-Training and Polarity Lexicon Expansion,,2013,41,https://openalex.org/W2154436402
+1702,Artificial Intelligence,Towards an agent-oriented approach to conceptualization,https://doi.org/10.1016/j.asoc.2006.11.009,2007,40,https://openalex.org/W2138744777
+1702,Artificial Intelligence,Web services for communication over IP,https://doi.org/10.1109/mcom.2008.4463784,2008,31,https://openalex.org/W2000815938
+1702,Artificial Intelligence,Who Had the Upper Hand? Ranking Participants of Interactions Based on Their Relative Power,,2013,23,https://openalex.org/W2250299432
+1702,Artificial Intelligence,Software Product Line Hall of Fame,https://doi.org/10.1109/spline.2006.1691614,2006,20,https://openalex.org/W1525931189
+1702,Artificial Intelligence,Online Search Scope Reconstruction by Connectivity Inference,https://doi.org/10.1109/wi.2007.39,2007,18,https://openalex.org/W2015389769
+1702,Artificial Intelligence,A Novel Learning Method for Hidden Markov Models in Speech and Audio Processing,https://doi.org/10.1109/mmsp.2006.285273,2006,18,https://openalex.org/W1982073070
+1702,Artificial Intelligence,"Environmental assessment of metal exposure to corals living in Castle Harbour, Bermuda",https://doi.org/10.1016/j.marchem.2013.05.002,2013,17,https://openalex.org/W1973219474

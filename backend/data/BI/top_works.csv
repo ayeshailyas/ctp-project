@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
 1702,Artificial Intelligence,Quantum computation and quantum information,https://doi.org/10.1017/s0960129507006317,2007,1884,https://openalex.org/W2170608991
-1702,Artificial Intelligence,On Ideal Lattices and Learning with Errors over Rings,https://doi.org/10.1145/2535925,2013,769,https://openalex.org/W2071825329
+1702,Artificial Intelligence,On Ideal Lattices and Learning with Errors over Rings,https://doi.org/10.1145/2535925,2013,776,https://openalex.org/W2071825329
 1702,Artificial Intelligence,Supervised Dictionary Learning,https://doi.org/10.48550/arxiv.0809.3083,2008,734,https://openalex.org/W2128638419
-3312,Sociology and Political Science,Sociologie pragmatique : mode d'emploi,https://doi.org/10.3917/pox.103.0173,2014,248,https://openalex.org/W2132748399
+1702,Artificial Intelligence,"Searchable Encryption Revisited: Consistency Properties, Relation to Anonymous IBE, and Extensions",https://doi.org/10.1007/11535218_13,2005,593,https://openalex.org/W2120976781
+1702,Artificial Intelligence,"Fault Injection Attacks on Cryptographic Devices: Theory, Practice, and Countermeasures",https://doi.org/10.1109/jproc.2012.2188769,2012,556,https://openalex.org/W2085992264
+1702,Artificial Intelligence,Fully Homomorphic Encryption over the Integers with Shorter Public Keys,https://doi.org/10.1007/978-3-642-22792-9_28,2011,464,https://openalex.org/W1497981337
+1702,Artificial Intelligence,SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly\n Convex Composite Objectives,https://doi.org/10.48550/arxiv.1407.0202,2014,445,https://openalex.org/W2135482703
+1702,Artificial Intelligence,A method for finding codewords of small weight,https://doi.org/10.1007/bfb0019850,2006,432,https://openalex.org/W1536493828
+1702,Artificial Intelligence,OPERATIONAL EARTHQUAKE FORECASTING. State of Knowledge and Guidelines for Utilization,https://doi.org/10.4401/ag-5350,2011,423,https://openalex.org/W1546652107
+1702,Artificial Intelligence,A Toolkit for Ring-LWE Cryptography,https://doi.org/10.1007/978-3-642-38348-9_3,2013,381,https://openalex.org/W31130112
+3312,Sociology and Political Science,Sociologie pragmatique : mode d'emploi,https://doi.org/10.3917/pox.103.0173,2014,250,https://openalex.org/W2132748399
 3312,Sociology and Political Science,"Multiple Infections, Immune Dynamics, and the Evolution of Virulence",https://doi.org/10.1086/590958,2008,165,https://openalex.org/W1985693980
-3312,Sociology and Political Science,Social network analysis of multi-stakeholder platforms in agricultural research for development: Opportunities and constraints for innovation and scaling,https://doi.org/10.1371/journal.pone.0169634,2017,159,https://openalex.org/W2586210789
-3107,"Atomic and Molecular Physics, and Optics","Phase recovery, MaxCut and complex semidefinite programming",https://doi.org/10.1007/s10107-013-0738-9,2013,564,https://openalex.org/W2145080587
+3312,Sociology and Political Science,Social network analysis of multi-stakeholder platforms in agricultural research for development: Opportunities and constraints for innovation and scaling,https://doi.org/10.1371/journal.pone.0169634,2017,161,https://openalex.org/W2586210789
+3312,Sociology and Political Science,Cascading extinctions and ecosystem functioning: contrasting effects of diversity depending on food web structure,https://doi.org/10.1111/j.2006.0030-1299.15007.x,2006,121,https://openalex.org/W2099889779
+3312,Sociology and Political Science,Hitler’s American Model: The United States and the Making of Nazi Race Law,https://doi.org/10.1080/21567689.2017.1360238,2017,111,https://openalex.org/W2742323302
+3312,Sociology and Political Science,Do Countries Falsify Economic Data Strategically? Some Evidence That They Might,https://doi.org/10.1162/rest_a_00274,2012,103,https://openalex.org/W2272318487
+3312,Sociology and Political Science,Evolution of Local Facilitation in Arid Ecosystems,https://doi.org/10.1086/588066,2008,77,https://openalex.org/W1997483424
+3312,Sociology and Political Science,Predation and Disturbance Interact to Shape Prey Species Diversity,https://doi.org/10.1086/518567,2007,76,https://openalex.org/W1969490093
+3312,Sociology and Political Science,Retour critique sur les répertoires de l'action collective ( XVIIIe - XXIe siècles),https://doi.org/10.3917/pox.081.0181,2008,75,https://openalex.org/W2074576409
+3312,Sociology and Political Science,Patrimónios individuais de disposições: para uma sociologia à escala individual,,2005,64,https://openalex.org/W1542138005
+3107,"Atomic and Molecular Physics, and Optics","Phase recovery, MaxCut and complex semidefinite programming",https://doi.org/10.1007/s10107-013-0738-9,2013,565,https://openalex.org/W2145080587
 3107,"Atomic and Molecular Physics, and Optics",Introduction to Quantum Optics,https://doi.org/10.1017/cbo9780511778261,2010,370,https://openalex.org/W4292339501
-3107,"Atomic and Molecular Physics, and Optics",Quantum information processing and communication,https://doi.org/10.1140/epjd/e2005-00251-1,2005,343,https://openalex.org/W2106502150
-1312,Molecular Biology,Baseline gut microbiota predicts clinical response and colitis in metastatic melanoma patients treated with ipilimumab,https://doi.org/10.1093/annonc/mdx108,2017,1211,https://openalex.org/W2601055810
-1312,Molecular Biology,A method for finding codewords of small weight,https://doi.org/10.1007/bfb0019850,2006,431,https://openalex.org/W1536493828
+3107,"Atomic and Molecular Physics, and Optics",Quantum information processing and communication,https://doi.org/10.1140/epjd/e2005-00251-1,2005,345,https://openalex.org/W2106502150
+3107,"Atomic and Molecular Physics, and Optics",Introduction to Quantum Optics: From the Semi-classical Approach to Quantized Light,https://doi.org/10.1017/cbo9780511778261,2010,282,https://openalex.org/W272876515
+3107,"Atomic and Molecular Physics, and Optics",Practical Quantum Oblivious Transfer,https://doi.org/10.1007/3-540-46766-1_29,2007,231,https://openalex.org/W1599837121
+3107,"Atomic and Molecular Physics, and Optics",Ultra-cold polarized Fermi gases,https://doi.org/10.1088/0034-4885/73/11/112401,2010,198,https://openalex.org/W2051860142
+3107,"Atomic and Molecular Physics, and Optics",Strong saturation absorption imaging of dense clouds of ultracold atoms,https://doi.org/10.1364/ol.32.003143,2007,194,https://openalex.org/W2146295624
+3107,"Atomic and Molecular Physics, and Optics",Transport in out-of-equilibrium XXZ chains: Nonballistic behavior and correlation functions,https://doi.org/10.1103/physrevb.96.115124,2017,193,https://openalex.org/W2620732689
+3107,"Atomic and Molecular Physics, and Optics",Electron quantum optics in ballistic chiral conductors,https://doi.org/10.1002/andp.201300181,2013,188,https://openalex.org/W2953199620
+3107,"Atomic and Molecular Physics, and Optics",Position-controlled quantum emitters with reproducible emission wavelength in hexagonal boron nitride,https://doi.org/10.1038/s41467-021-24019-6,2021,175,https://openalex.org/W3107567211
+1312,Molecular Biology,Baseline gut microbiota predicts clinical response and colitis in metastatic melanoma patients treated with ipilimumab,https://doi.org/10.1093/annonc/mdx108,2017,1216,https://openalex.org/W2601055810
+1312,Molecular Biology,A method for finding codewords of small weight,https://doi.org/10.1007/bfb0019850,2006,432,https://openalex.org/W1536493828
 1312,Molecular Biology,Rule-Based Modelling of Cellular Signalling,https://doi.org/10.1007/978-3-540-74407-8_3,2007,280,https://openalex.org/W2144063122
+1312,Molecular Biology,Accuracy of dementia diagnosis--a direct comparison between radiologists and a computerized method,https://doi.org/10.1093/brain/awn239,2008,267,https://openalex.org/W2105037799
+1312,Molecular Biology,Antimicrobial and antioxidant activity of kaempferol rhamnoside derivatives from Bryophyllum pinnatum,https://doi.org/10.1186/1756-0500-5-158,2012,247,https://openalex.org/W1964398531
+1312,Molecular Biology,Increasing the Content of High-Content Screening: An Overview,https://doi.org/10.1177/1087057114528537,2014,209,https://openalex.org/W2128026414
+1312,Molecular Biology,A <i>Rhodococcus qsdA</i> -Encoded Enzyme Defines a Novel Class of Large-Spectrum Quorum-Quenching Lactonases,https://doi.org/10.1128/aem.02014-07,2008,188,https://openalex.org/W2105446670
+1312,Molecular Biology,The Narrow Escape Problem,https://doi.org/10.1137/120898395,2014,160,https://openalex.org/W2031042504
+1312,Molecular Biology,Single quantum dot tracking based on perceptual Grouping using minimal paths in a spatiotemporal volume,https://doi.org/10.1109/tip.2005.852794,2005,143,https://openalex.org/W2127510560
+1312,Molecular Biology,Genetic Diversity and the Structure of Genealogies in Rapidly Adapting Populations,https://doi.org/10.1534/genetics.112.147157,2012,131,https://openalex.org/W2104895468
 1703,Computational Theory and Mathematics,Quantum computation and quantum information,https://doi.org/10.1017/s0960129507006317,2007,1884,https://openalex.org/W2170608991
-1703,Computational Theory and Mathematics,On Ideal Lattices and Learning with Errors over Rings,https://doi.org/10.1145/2535925,2013,769,https://openalex.org/W2071825329
+1703,Computational Theory and Mathematics,On Ideal Lattices and Learning with Errors over Rings,https://doi.org/10.1145/2535925,2013,776,https://openalex.org/W2071825329
 1703,Computational Theory and Mathematics,"Searchable Encryption Revisited: Consistency Properties, Relation to Anonymous IBE, and Extensions",https://doi.org/10.1007/11535218_13,2005,593,https://openalex.org/W2120976781
+1703,Computational Theory and Mathematics,Fully Homomorphic Encryption over the Integers with Shorter Public Keys,https://doi.org/10.1007/978-3-642-22792-9_28,2011,464,https://openalex.org/W1497981337
+1703,Computational Theory and Mathematics,Apron: A Library of Numerical Abstract Domains for Static Analysis,https://doi.org/10.1007/978-3-642-02658-4_52,2009,440,https://openalex.org/W1518247129
+1703,Computational Theory and Mathematics,Convex Optimization with Sparsity-Inducing Norms,https://doi.org/10.7551/mitpress/8996.003.0004,2011,301,https://openalex.org/W2625093932
+1703,Computational Theory and Mathematics,Convergence Rates of Inexact Proximal-Gradient Methods for Convex Optimization,https://doi.org/10.48550/arxiv.1109.2415,2011,266,https://openalex.org/W2168914046
+1703,Computational Theory and Mathematics,Fully Collusion Secure Dynamic Broadcast Encryption with Constant-Size Ciphertexts or Decryption Keys,https://doi.org/10.1007/978-3-540-73489-5_4,2007,261,https://openalex.org/W1534748576
+1703,Computational Theory and Mathematics,Increasing the Content of High-Content Screening: An Overview,https://doi.org/10.1177/1087057114528537,2014,209,https://openalex.org/W2128026414
+1703,Computational Theory and Mathematics,Scale-Invariant Fully Homomorphic Encryption over the Integers,https://doi.org/10.1007/978-3-642-54631-0_18,2014,176,https://openalex.org/W116648389
 3320,Political Science and International Relations,Hitler’s American Model: The United States and the Making of Nazi Race Law,https://doi.org/10.1080/21567689.2017.1360238,2017,111,https://openalex.org/W2742323302
 3320,Political Science and International Relations,Reexamination of the Bare Preterite Base in the Jewish Neo-Aramaic Dialect of Zakho,https://doi.org/10.1163/147783508x371286,2008,72,https://openalex.org/W2046418110
 3320,Political Science and International Relations,The Effect of Tracking Students by Ability into Different Schools: A Natural Experiment,https://doi.org/10.1353/jhr.2012.0022,2012,51,https://openalex.org/W2118050098
+3320,Political Science and International Relations,Trajectories of Immigrants' Children in Secondary Education in France: Differentiation and Polarization,https://doi.org/10.3917/pope.903.0507,2009,37,https://openalex.org/W2021741844
+3320,Political Science and International Relations,La perception de la pauvreté en Europe depuis le milieu des années 1970. Analyse des variations structurelles et conjoncturelles,https://doi.org/10.3406/estat.2005.7203,2005,30,https://openalex.org/W2170774107
+3320,Political Science and International Relations,"Fourth industrial revolution concepts in the automotive sector: performativity, work and employment",https://doi.org/10.1007/s40812-019-00119-9,2019,30,https://openalex.org/W2955017011
+3320,Political Science and International Relations,Belief and aims,https://doi.org/10.1007/s11098-011-9728-z,2011,28,https://openalex.org/W1985123429
+3320,Political Science and International Relations,"Sending peacekeepers abroad, sharing power at home: Burundi in Somalia",https://doi.org/10.1080/17531055.2015.1018498,2015,26,https://openalex.org/W1973908492
+3320,Political Science and International Relations,La détermination du champ juridique à la lumière de travaux récents d'histoire du droit,https://doi.org/10.3917/drs.081.0403,2012,21,https://openalex.org/W1716429454
+3320,Political Science and International Relations,Proceedings of the 13th International Conference on Practice and Theory in Public Key Cryptography (PKC '10),,2010,20,https://openalex.org/W2620831093
 2002,Economics and Econometrics,Gaussian multiplicative chaos and applications: A review,https://doi.org/10.1214/13-ps218,2014,375,https://openalex.org/W1973766190
 2002,Economics and Econometrics,Determinants of smallholder farmers' participation in banana markets in Central Africa: the role of transaction costs,https://doi.org/10.1111/j.1574-0862.2009.00429.x,2010,146,https://openalex.org/W1966490370
 2002,Economics and Econometrics,Does Confidence Use a Common Currency Across Two Visual Tasks?,https://doi.org/10.1177/0956797614528956,2014,145,https://openalex.org/W2051463757
+2002,Economics and Econometrics,Do Countries Falsify Economic Data Strategically? Some Evidence That They Might,https://doi.org/10.1162/rest_a_00274,2012,103,https://openalex.org/W2272318487
+2002,Economics and Econometrics,Phase diagram of a Schelling segregation model,https://doi.org/10.1140/epjb/e2009-00234-0,2009,94,https://openalex.org/W2112848633
+2002,Economics and Econometrics,Threshold effects of public debt on economic growth in Africa: a new evidence,https://doi.org/10.1108/jed-01-2020-0001,2020,91,https://openalex.org/W3022720168
+2002,Economics and Econometrics,Choice-Based Elicitation and Decomposition of Decision Weights for Gains and Losses Under Uncertainty,https://doi.org/10.1287/mnsc.1050.0388,2005,89,https://openalex.org/W2107392085
+2002,Economics and Econometrics,The injustice of unfit clinical practice guidelines in low-resource realities,https://doi.org/10.1016/s2214-109x(21)00059-0,2021,86,https://openalex.org/W3138408894
+2002,Economics and Econometrics,Introduction Of Performance-Based Financing In Burundi Was Associated With Improvements In Care And Quality,https://doi.org/10.1377/hlthaff.2014.0081,2014,86,https://openalex.org/W2076682914
+2002,Economics and Econometrics,Longevity and environmental quality in an OLG model,https://doi.org/10.1007/s00712-010-0142-3,2010,72,https://openalex.org/W2113808099
 1211,Philosophy,Sense of agency,https://doi.org/10.1016/j.cub.2012.02.040,2012,391,https://openalex.org/W2011841102
-1211,Philosophy,Sociologie pragmatique : mode d'emploi,https://doi.org/10.3917/pox.103.0173,2014,248,https://openalex.org/W2132748399
+1211,Philosophy,Sociologie pragmatique : mode d'emploi,https://doi.org/10.3917/pox.103.0173,2014,250,https://openalex.org/W2132748399
 1211,Philosophy,Children's Knowledge of Free Choice Inferences and Scalar Implicatures,https://doi.org/10.1093/jos/ffv001,2015,174,https://openalex.org/W2320823424
-3314,Anthropology,The Pan-African Belt,https://doi.org/10.1007/978-3-540-77076-3_2,2008,169,https://openalex.org/W1503387270
+1211,Philosophy,Bergson ou les deux sens de la vie,https://doi.org/10.3917/puf.worm.2013.01,2013,156,https://openalex.org/W1528364370
+1211,Philosophy,Bare Numerals and Scalar Implicatures,https://doi.org/10.1111/lnc3.12018,2013,118,https://openalex.org/W1743382491
+1211,Philosophy,Explanation in Linguistics,https://doi.org/10.1111/phc3.12225,2015,100,https://openalex.org/W1526800475
+1211,Philosophy,"Metrics on permutations, a survey",,2012,96,https://openalex.org/W1499300513
+1211,Philosophy,<i>Scène</i> and Contemporaneity,https://doi.org/10.1162/dram.2007.51.2.124,2007,77,https://openalex.org/W2040975992
+1211,Philosophy,Inexact Knowledge with Introspection,https://doi.org/10.1007/s10992-008-9087-1,2008,75,https://openalex.org/W2114822521
+1211,Philosophy,Can Folk Aesthetics Ground Aesthetic Realism?,https://doi.org/10.5840/monist201295214,2012,70,https://openalex.org/W2083934025
+3314,Anthropology,The Pan-African Belt,https://doi.org/10.1007/978-3-540-77076-3_2,2008,171,https://openalex.org/W1503387270
 3314,Anthropology,Bergson ou les deux sens de la vie,https://doi.org/10.3917/puf.worm.2013.01,2013,156,https://openalex.org/W1528364370
 3314,Anthropology,The dangers of anonymity,https://doi.org/10.14318/hau2.2.012,2012,70,https://openalex.org/W2046108209
-3109,Statistical and Nonlinear Physics,Transport in out-of-equilibrium XXZ chains: Nonballistic behavior and correlation functions,https://doi.org/10.1103/physrevb.96.115124,2017,193,https://openalex.org/W2620732689
-3109,Statistical and Nonlinear Physics,The Narrow Escape Problem,https://doi.org/10.1137/120898395,2014,159,https://openalex.org/W2031042504
-3109,Statistical and Nonlinear Physics,The analytic functional bootstrap. Part II. Natural bases for the crossing equation,https://doi.org/10.1007/jhep02(2019)163,2019,108,https://openalex.org/W2903305773
+3314,Anthropology,Le vocabulaire de Bergson,,2013,46,https://openalex.org/W1542531619
+3314,Anthropology,"Comment écrit-on l’histoire intellectuelle des Lumières? Spinozisme, radicalisme et philosophie",https://doi.org/10.1017/s0395264900028614,2009,30,https://openalex.org/W2139870924
+3314,Anthropology,"Revolutionizing transport: modern infrastructure, agriculture and development in Ghana",,2012,17,https://openalex.org/W44194410
+3314,Anthropology,The First Phases of the <i>Theoricæ Planetarum</i> Printed Tradition (1474–1535): The Evolution of a Genre Observed through its Images,https://doi.org/10.1177/002182861204300102,2012,15,https://openalex.org/W275942053
+3314,Anthropology,Les collectionneurs juifs parisiens sous la Troisième République (1870-1940),https://doi.org/10.3917/aj.421.0084,2009,14,https://openalex.org/W1523459632
+3314,Anthropology,"Déplacés et réfugiés au Cameroun: profils, itinéraires et expériences à partir des crises nigériane et centrafricaine",https://doi.org/10.1080/00083968.2021.1880948,2021,11,https://openalex.org/W3198489019
+3314,Anthropology,Le paradoxe de l’invisibilité d’une minorité visible : immigrés et descendants d’immigrés chinois en France,https://doi.org/10.3917/migra.183.0019,2021,11,https://openalex.org/W3153986571
+1105,"Ecology, Evolution, Behavior and Systematics",Sustainable intensification and the African smallholder farmer,https://doi.org/10.1016/j.cosust.2014.06.001,2014,345,https://openalex.org/W2073878527
+1105,"Ecology, Evolution, Behavior and Systematics",Trophic Interactions and the Relationship between Species Diversity and Ecosystem Stability,https://doi.org/10.1086/444403,2005,204,https://openalex.org/W1970676573
+1105,"Ecology, Evolution, Behavior and Systematics",Sustainable intensification of agricultural systems in the Central African Highlands: The need for institutional innovation,https://doi.org/10.1016/j.agsy.2016.03.005,2016,147,https://openalex.org/W2320120457
+1105,"Ecology, Evolution, Behavior and Systematics",Cascading extinctions and ecosystem functioning: contrasting effects of diversity depending on food web structure,https://doi.org/10.1111/j.2006.0030-1299.15007.x,2006,121,https://openalex.org/W2099889779
+1105,"Ecology, Evolution, Behavior and Systematics",Lack of conservation effort rapidly increases African great ape extinction risk,https://doi.org/10.1111/j.1755-263x.2011.00211.x,2011,101,https://openalex.org/W1502754016
+1105,"Ecology, Evolution, Behavior and Systematics",Predation and Disturbance Interact to Shape Prey Species Diversity,https://doi.org/10.1086/518567,2007,76,https://openalex.org/W1969490093
+1105,"Ecology, Evolution, Behavior and Systematics",Realising the potential of herbarium records for conservation biology,https://doi.org/10.1016/j.sajb.2016.03.017,2016,70,https://openalex.org/W2401488336
+1105,"Ecology, Evolution, Behavior and Systematics",How big is the potato (Solanum tuberosum L.) yield gap in Sub-Saharan Africa and why? A participatory approach,https://doi.org/10.1515/opag-2018-0019,2018,64,https://openalex.org/W2871077393
+1105,"Ecology, Evolution, Behavior and Systematics",“Selfish worker policing” controls reproduction in a Temnothorax ant,https://doi.org/10.1007/s00265-007-0377-3,2007,59,https://openalex.org/W1993035151
+1105,"Ecology, Evolution, Behavior and Systematics",Connecting the multiple dimensions of global soil fungal diversity,https://doi.org/10.1126/sciadv.adj8016,2023,56,https://openalex.org/W4389127782

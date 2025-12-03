@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-2208,Electrical and Electronic Engineering,A review of electrode materials for electrochemical supercapacitors,https://doi.org/10.1039/c1cs15060j,2011,8744,https://openalex.org/W2037502361
-2208,Electrical and Electronic Engineering,Black phosphorus field-effect transistors,https://doi.org/10.1038/nnano.2014.35,2014,8096,https://openalex.org/W2041311241
-2208,Electrical and Electronic Engineering,"Aggregation-Induced Emission: Together We Shine, United We Soar!",https://doi.org/10.1021/acs.chemrev.5b00263,2015,7682,https://openalex.org/W2177603935
-1312,Molecular Biology,The Sequence Alignment/Map format and SAMtools,https://doi.org/10.1093/bioinformatics/btp352,2009,63002,https://openalex.org/W2108234281
-1312,Molecular Biology,clusterProfiler: an R Package for Comparing Biological Themes Among Gene Clusters,https://doi.org/10.1089/omi.2011.0118,2012,34386,https://openalex.org/W2035618305
-1312,Molecular Biology,"Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2",https://doi.org/10.1038/s41587-019-0209-9,2019,20865,https://openalex.org/W2963276645
-2505,Materials Chemistry,Dye-Sensitized Solar Cells,https://doi.org/10.1021/cr900356p,2010,8723,https://openalex.org/W2116327492
-2505,Materials Chemistry,Black phosphorus field-effect transistors,https://doi.org/10.1038/nnano.2014.35,2014,8096,https://openalex.org/W2041311241
-2505,Materials Chemistry,"Aggregation-Induced Emission: Together We Shine, United We Soar!",https://doi.org/10.1021/acs.chemrev.5b00263,2015,7682,https://openalex.org/W2177603935
-2204,Biomedical Engineering,Piezoelectric Nanogenerators Based on Zinc Oxide Nanowire Arrays,https://doi.org/10.1126/science.1124005,2006,7589,https://openalex.org/W1993378267
-2204,Biomedical Engineering,"Characteristics of hemicellulose, cellulose and lignin pyrolysis",https://doi.org/10.1016/j.fuel.2006.12.013,2007,7376,https://openalex.org/W1992469412
-2204,Biomedical Engineering,Intrinsic peroxidase-like activity of ferromagnetic nanoparticles,https://doi.org/10.1038/nnano.2007.260,2007,6690,https://openalex.org/W2170913114
-2210,Mechanical Engineering,Piezoelectric Nanogenerators Based on Zinc Oxide Nanowire Arrays,https://doi.org/10.1126/science.1124005,2006,7589,https://openalex.org/W1993378267
-2210,Mechanical Engineering,Microstructures and properties of high-entropy alloys,https://doi.org/10.1016/j.pmatsci.2013.10.001,2013,6393,https://openalex.org/W2039061417
-2210,Mechanical Engineering,Friction stir welding and processing,https://doi.org/10.1016/j.mser.2005.07.001,2005,6392,https://openalex.org/W4292245070
-2207,Control and Systems Engineering,Isolation Forest,https://doi.org/10.1109/icdm.2008.17,2008,4810,https://openalex.org/W2296719434
-2207,Control and Systems Engineering,Traffic Flow Prediction With Big Data: A Deep Learning Approach,https://doi.org/10.1109/tits.2014.2345663,2014,2904,https://openalex.org/W2036785686
-2207,Control and Systems Engineering,Particle swarm optimization algorithm: an overview,https://doi.org/10.1007/s00500-016-2474-6,2017,2779,https://openalex.org/W2573137292
-1702,Artificial Intelligence,Densely Connected Convolutional Networks,https://doi.org/10.1109/cvpr.2017.243,2017,41973,https://openalex.org/W2963446712
-1702,Artificial Intelligence,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,https://doi.org/10.1109/iccv48922.2021.00986,2021,25449,https://openalex.org/W3138516171
-1702,Artificial Intelligence,Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification,https://doi.org/10.1109/iccv.2015.123,2015,18107,https://openalex.org/W1677182931
-2211,Mechanics of Materials,"Effects of particle size, particle/matrix interface adhesion and particle loading on mechanical properties of particulate–polymer composites",https://doi.org/10.1016/j.compositesb.2008.01.002,2008,3257,https://openalex.org/W2126863855
-2211,Mechanics of Materials,CALYPSO: A method for crystal structure prediction,https://doi.org/10.1016/j.cpc.2012.05.008,2012,2641,https://openalex.org/W2006102096
-2211,Mechanics of Materials,Strengthening Materials by Engineering Coherent Internal Boundaries at the Nanoscale,https://doi.org/10.1126/science.1159610,2009,2377,https://openalex.org/W1971260269
-2202,Aerospace Engineering,Deformable Convolutional Networks,https://doi.org/10.1109/iccv.2017.89,2017,6405,https://openalex.org/W2601564443
-2202,Aerospace Engineering,Microstructures and properties of high-entropy alloys,https://doi.org/10.1016/j.pmatsci.2013.10.001,2013,6393,https://openalex.org/W2039061417
-2202,Aerospace Engineering,Friction stir welding and processing,https://doi.org/10.1016/j.mser.2005.07.001,2005,6392,https://openalex.org/W4292245070
-1707,Computer Vision and Pattern Recognition,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks,https://doi.org/10.1109/tpami.2016.2577031,2016,50386,https://openalex.org/W639708223
-1707,Computer Vision and Pattern Recognition,Densely Connected Convolutional Networks,https://doi.org/10.1109/cvpr.2017.243,2017,41973,https://openalex.org/W2963446712
-1707,Computer Vision and Pattern Recognition,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,https://doi.org/10.1109/iccv48922.2021.00986,2021,25449,https://openalex.org/W3138516171
+2208,Electrical and Electronic Engineering,A review of electrode materials for electrochemical supercapacitors,https://doi.org/10.1039/c1cs15060j,2011,8766,https://openalex.org/W2037502361
+2208,Electrical and Electronic Engineering,Black phosphorus field-effect transistors,https://doi.org/10.1038/nnano.2014.35,2014,8117,https://openalex.org/W2041311241
+2208,Electrical and Electronic Engineering,"Aggregation-Induced Emission: Together We Shine, United We Soar!",https://doi.org/10.1021/acs.chemrev.5b00263,2015,7701,https://openalex.org/W2177603935
+2208,Electrical and Electronic Engineering,Li-ion battery materials: present and future,https://doi.org/10.1016/j.mattod.2014.10.040,2014,6809,https://openalex.org/W2065077785
+2208,Electrical and Electronic Engineering,TiO2 photocatalysis and related surface phenomena,https://doi.org/10.1016/j.surfrep.2008.10.001,2008,6357,https://openalex.org/W2145274462
+2208,Electrical and Electronic Engineering,Electrocatalysis for the oxygen evolution reaction: recent development and future perspectives,https://doi.org/10.1039/c6cs00328a,2017,5806,https://openalex.org/W2575823937
+2208,Electrical and Electronic Engineering,Toward Safe Lithium Metal Anode in Rechargeable Batteries: A Review,https://doi.org/10.1021/acs.chemrev.7b00115,2017,5716,https://openalex.org/W2742075475
+2208,Electrical and Electronic Engineering,Single-Junction Organic Solar Cell with over 15% Efficiency Using Fused-Ring Acceptor with Electron-Deficient Core,https://doi.org/10.1016/j.joule.2019.01.004,2019,5392,https://openalex.org/W2909990379
+2208,Electrical and Electronic Engineering,Design of electrocatalysts for oxygen- and hydrogen-involving energy conversion reactions,https://doi.org/10.1039/c4cs00470a,2015,5126,https://openalex.org/W1973891115
+2208,Electrical and Electronic Engineering,The reduction of graphene oxide,https://doi.org/10.1016/j.carbon.2011.11.010,2011,4894,https://openalex.org/W2123830103
+1312,Molecular Biology,The Sequence Alignment/Map format and SAMtools,https://doi.org/10.1093/bioinformatics/btp352,2009,63175,https://openalex.org/W2108234281
+1312,Molecular Biology,clusterProfiler: an R Package for Comparing Biological Themes Among Gene Clusters,https://doi.org/10.1089/omi.2011.0118,2012,34565,https://openalex.org/W2035618305
+1312,Molecular Biology,"Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2",https://doi.org/10.1038/s41587-019-0209-9,2019,21046,https://openalex.org/W2963276645
+1312,Molecular Biology,A global reference for human genetic variation,https://doi.org/10.1038/nature15393,2015,18697,https://openalex.org/W2104549677
+1312,Molecular Biology,Repertoires of Autophagy in the Pathogenesis of Ocular Diseases,https://doi.org/10.1159/000373980,2015,16331,https://openalex.org/W1523693806
+1312,Molecular Biology,Multiplex Genome Engineering Using CRISPR/Cas Systems,https://doi.org/10.1126/science.1231143,2013,15196,https://openalex.org/W2064815984
+1312,Molecular Biology,TBtools: An Integrative Toolkit Developed for Interactive Analyses of Big Biological Data,https://doi.org/10.1016/j.molp.2020.06.009,2020,14023,https://openalex.org/W3036319615
+1312,Molecular Biology,Squeeze-and-Excitation Networks,https://doi.org/10.1109/tpami.2019.2913372,2019,12013,https://openalex.org/W2963420686
+1312,Molecular Biology,clusterProfiler 4.0: A universal enrichment tool for interpreting omics data,https://doi.org/10.1016/j.xinn.2021.100141,2021,11660,https://openalex.org/W3175752499
+1312,Molecular Biology,A human gut microbial gene catalogue established by metagenomic sequencing,https://doi.org/10.1038/nature08821,2010,11278,https://openalex.org/W2125826054
+2505,Materials Chemistry,Dye-Sensitized Solar Cells,https://doi.org/10.1021/cr900356p,2010,8731,https://openalex.org/W2116327492
+2505,Materials Chemistry,Black phosphorus field-effect transistors,https://doi.org/10.1038/nnano.2014.35,2014,8117,https://openalex.org/W2041311241
+2505,Materials Chemistry,"Aggregation-Induced Emission: Together We Shine, United We Soar!",https://doi.org/10.1021/acs.chemrev.5b00263,2015,7701,https://openalex.org/W2177603935
+2505,Materials Chemistry,Semiconductor-based Photocatalytic Hydrogen Generation,https://doi.org/10.1021/cr1001645,2010,7565,https://openalex.org/W2154903153
+2505,Materials Chemistry,Single-atom catalysis of CO oxidation using Pt1/FeOx,https://doi.org/10.1038/nchem.1095,2011,6749,https://openalex.org/W2134716155
+2505,Materials Chemistry,Intrinsic peroxidase-like activity of ferromagnetic nanoparticles,https://doi.org/10.1038/nnano.2007.260,2007,6724,https://openalex.org/W2170913114
+2505,Materials Chemistry,Aggregation-induced emission,https://doi.org/10.1039/c1cs15113d,2011,6080,https://openalex.org/W2159182565
+2505,Materials Chemistry,"Topological insulators in Bi2Se3, Bi2Te3 and Sb2Te3 with a single Dirac cone on the surface",https://doi.org/10.1038/nphys1270,2009,6061,https://openalex.org/W2001755358
+2505,Materials Chemistry,VASPKIT: A user-friendly interface facilitating high-throughput computing and analysis using VASP code,https://doi.org/10.1016/j.cpc.2021.108033,2021,5845,https://openalex.org/W3038025793
+2505,Materials Chemistry,Understanding TiO<sub>2</sub>Photocatalysis: Mechanisms and Materials,https://doi.org/10.1021/cr5001892,2014,5546,https://openalex.org/W2324576880
+2204,Biomedical Engineering,Piezoelectric Nanogenerators Based on Zinc Oxide Nanowire Arrays,https://doi.org/10.1126/science.1124005,2006,7599,https://openalex.org/W1993378267
+2204,Biomedical Engineering,"Characteristics of hemicellulose, cellulose and lignin pyrolysis",https://doi.org/10.1016/j.fuel.2006.12.013,2007,7406,https://openalex.org/W1992469412
+2204,Biomedical Engineering,Intrinsic peroxidase-like activity of ferromagnetic nanoparticles,https://doi.org/10.1038/nnano.2007.260,2007,6724,https://openalex.org/W2170913114
+2204,Biomedical Engineering,Microstructures and properties of high-entropy alloys,https://doi.org/10.1016/j.pmatsci.2013.10.001,2013,6443,https://openalex.org/W2039061417
+2204,Biomedical Engineering,Flexible triboelectric generator,https://doi.org/10.1016/j.nanoen.2012.01.004,2012,6142,https://openalex.org/W2168100296
+2204,Biomedical Engineering,Deep High-Resolution Representation Learning for Human Pose Estimation,https://doi.org/10.1109/cvpr.2019.00584,2019,5177,https://openalex.org/W2916798096
+2204,Biomedical Engineering,The reduction of graphene oxide,https://doi.org/10.1016/j.carbon.2011.11.010,2011,4894,https://openalex.org/W2123830103
+2204,Biomedical Engineering,Epidermal Electronics,https://doi.org/10.1126/science.1206157,2011,4415,https://openalex.org/W4213360791
+2204,Biomedical Engineering,Terabit free-space data transmission employing orbital angular momentum multiplexing,https://doi.org/10.1038/nphoton.2012.138,2012,4357,https://openalex.org/W2013674306
+2204,Biomedical Engineering,"Electrospinning and Electrospun Nanofibers: Methods, Materials, and Applications",https://doi.org/10.1021/acs.chemrev.8b00593,2019,4343,https://openalex.org/W2929722587
+2210,Mechanical Engineering,Piezoelectric Nanogenerators Based on Zinc Oxide Nanowire Arrays,https://doi.org/10.1126/science.1124005,2006,7599,https://openalex.org/W1993378267
+2210,Mechanical Engineering,Microstructures and properties of high-entropy alloys,https://doi.org/10.1016/j.pmatsci.2013.10.001,2013,6443,https://openalex.org/W2039061417
+2210,Mechanical Engineering,Friction stir welding and processing,https://doi.org/10.1016/j.mser.2005.07.001,2005,6406,https://openalex.org/W4292245070
+2210,Mechanical Engineering,Flexible triboelectric generator,https://doi.org/10.1016/j.nanoen.2012.01.004,2012,6142,https://openalex.org/W2168100296
+2210,Mechanical Engineering,Activation of persulfate (PS) and peroxymonosulfate (PMS) and application for the degradation of emerging contaminants,https://doi.org/10.1016/j.cej.2017.11.059,2017,3668,https://openalex.org/W2770125280
+2210,Mechanical Engineering,Recent advances in transition metal phosphide nanomaterials: synthesis and applications in hydrogen evolution reaction,https://doi.org/10.1039/c5cs00434a,2016,3137,https://openalex.org/W2272232474
+2210,Mechanical Engineering,Solid‐Solution Phase Formation Rules for Multi‐component Alloys,https://doi.org/10.1002/adem.200700240,2008,3075,https://openalex.org/W2068415766
+2210,Mechanical Engineering,"Laser additive manufacturing of metallic components: materials, processes and mechanisms",https://doi.org/10.1179/1743280411y.0000000014,2012,3041,https://openalex.org/W2089783281
+2210,Mechanical Engineering,Two-dimensional digital image correlation for in-plane displacement and strain measurement: a review,https://doi.org/10.1088/0957-0233/20/6/062001,2009,2899,https://openalex.org/W2081887802
+2210,Mechanical Engineering,Enhanced Mechanical Properties of Nanocomposites at Low Graphene Content,https://doi.org/10.1021/nn9010472,2009,2749,https://openalex.org/W2000105557
+2207,Control and Systems Engineering,Isolation Forest,https://doi.org/10.1109/icdm.2008.17,2008,4850,https://openalex.org/W2296719434
+2207,Control and Systems Engineering,Traffic Flow Prediction With Big Data: A Deep Learning Approach,https://doi.org/10.1109/tits.2014.2345663,2014,2908,https://openalex.org/W2036785686
+2207,Control and Systems Engineering,Particle swarm optimization algorithm: an overview,https://doi.org/10.1007/s00500-016-2474-6,2017,2801,https://openalex.org/W2573137292
+2207,Control and Systems Engineering,Disturbance-Observer-Based Control and Related Methods—An Overview,https://doi.org/10.1109/tie.2015.2478397,2015,2671,https://openalex.org/W2230652337
+2207,Control and Systems Engineering,Continuous finite-time control for robotic manipulators with terminal sliding mode,https://doi.org/10.1016/j.automatica.2005.07.001,2005,2530,https://openalex.org/W2129275525
+2207,Control and Systems Engineering,Applications of machine learning to machine fault diagnosis: A review and roadmap,https://doi.org/10.1016/j.ymssp.2019.106587,2020,2370,https://openalex.org/W2998506103
+2207,Control and Systems Engineering,Some geometric aggregation operators based on intuitionistic fuzzy sets,https://doi.org/10.1080/03081070600574353,2006,2292,https://openalex.org/W1981107087
+2207,Control and Systems Engineering,Fractional-order Systems and Controls,https://doi.org/10.1007/978-1-84996-335-0,2010,2178,https://openalex.org/W2477921776
+2207,Control and Systems Engineering,Machinery health prognostics: A systematic review from data acquisition to RUL prediction,https://doi.org/10.1016/j.ymssp.2017.11.016,2017,2156,https://openalex.org/W2773549135
+2207,Control and Systems Engineering,Long short-term memory neural network for traffic speed prediction using remote microwave sensor data,https://doi.org/10.1016/j.trc.2015.03.014,2015,2010,https://openalex.org/W2004353783
+1702,Artificial Intelligence,Densely Connected Convolutional Networks,https://doi.org/10.1109/cvpr.2017.243,2017,42101,https://openalex.org/W2963446712
+1702,Artificial Intelligence,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,https://doi.org/10.1109/iccv48922.2021.00986,2021,25718,https://openalex.org/W3138516171
+1702,Artificial Intelligence,Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification,https://doi.org/10.1109/iccv.2015.123,2015,18140,https://openalex.org/W1677182931
+1702,Artificial Intelligence,Efficient Estimation of Word Representations in Vector Space,https://doi.org/10.48550/arxiv.1301.3781,2013,18005,https://openalex.org/W1614298861
+1702,Artificial Intelligence,Squeeze-and-Excitation Networks,https://doi.org/10.1109/tpami.2019.2913372,2019,12013,https://openalex.org/W2963420686
+1702,Artificial Intelligence,Efficient Estimation of Word Representations in Vector Space,,2013,11711,https://openalex.org/W2950577311
+1702,Artificial Intelligence,Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition,https://doi.org/10.1109/tpami.2015.2389824,2015,10910,https://openalex.org/W2109255472
+1702,Artificial Intelligence,Identity Mappings in Deep Residual Networks,https://doi.org/10.1007/978-3-319-46493-0_38,2016,9748,https://openalex.org/W2302255633
+1702,Artificial Intelligence,LightGBM: A Highly Efficient Gradient Boosting Decision Tree,,2017,9477,https://openalex.org/W2768348081
+1702,Artificial Intelligence,ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks,https://doi.org/10.1109/cvpr42600.2020.01155,2020,6916,https://openalex.org/W3034552520
+2211,Mechanics of Materials,"Effects of particle size, particle/matrix interface adhesion and particle loading on mechanical properties of particulate–polymer composites",https://doi.org/10.1016/j.compositesb.2008.01.002,2008,3266,https://openalex.org/W2126863855
+2211,Mechanics of Materials,CALYPSO: A method for crystal structure prediction,https://doi.org/10.1016/j.cpc.2012.05.008,2012,2655,https://openalex.org/W2006102096
+2211,Mechanics of Materials,Strengthening Materials by Engineering Coherent Internal Boundaries at the Nanoscale,https://doi.org/10.1126/science.1159610,2009,2384,https://openalex.org/W1971260269
+2211,Mechanics of Materials,Machinery health prognostics: A systematic review from data acquisition to RUL prediction,https://doi.org/10.1016/j.ymssp.2017.11.016,2017,2156,https://openalex.org/W2773549135
+2211,Mechanics of Materials,Directional water collection on wetted spider silk,https://doi.org/10.1038/nature08729,2010,2063,https://openalex.org/W2006933189
+2211,Mechanics of Materials,Formation of the 1300-km-wide intracontinental orogen and postorogenic magmatic province in Mesozoic South China: A flat-slab subduction model,https://doi.org/10.1130/g23193a.1,2007,2007,https://openalex.org/W2003954276
+2211,Mechanics of Materials,Design and Creation of Superwetting/Antiwetting Surfaces,https://doi.org/10.1002/adma.200501961,2006,2003,https://openalex.org/W2022550044
+2211,Mechanics of Materials,Bioinspired Surfaces with Special Wettability,https://doi.org/10.1021/ar040224c,2005,2002,https://openalex.org/W2115779567
+2211,Mechanics of Materials,Revealing the Maximum Strength in Nanotwinned Copper,https://doi.org/10.1126/science.1167641,2009,1983,https://openalex.org/W1999570928
+2211,Mechanics of Materials,Artificial intelligence for fault diagnosis of rotating machinery: A review,https://doi.org/10.1016/j.ymssp.2018.02.016,2018,1961,https://openalex.org/W2791694051
+2202,Aerospace Engineering,Microstructures and properties of high-entropy alloys,https://doi.org/10.1016/j.pmatsci.2013.10.001,2013,6443,https://openalex.org/W2039061417
+2202,Aerospace Engineering,Deformable Convolutional Networks,https://doi.org/10.1109/iccv.2017.89,2017,6435,https://openalex.org/W2601564443
+2202,Aerospace Engineering,Friction stir welding and processing,https://doi.org/10.1016/j.mser.2005.07.001,2005,6406,https://openalex.org/W4292245070
+2202,Aerospace Engineering,"Coding metamaterials, digital metamaterials and programmable metamaterials",https://doi.org/10.1038/lsa.2014.99,2014,3353,https://openalex.org/W2082432933
+2202,Aerospace Engineering,SECOND: Sparsely Embedded Convolutional Detection,https://doi.org/10.3390/s18103337,2018,2909,https://openalex.org/W2897529137
+2202,Aerospace Engineering,Prediction of high-entropy stabilized solid-solution in multi-component alloys,https://doi.org/10.1016/j.matchemphys.2011.11.021,2012,2552,https://openalex.org/W2020462182
+2202,Aerospace Engineering,A precipitation-hardened high-entropy alloy with outstanding tensile properties,https://doi.org/10.1016/j.actamat.2015.08.076,2015,2460,https://openalex.org/W1886626438
+2202,Aerospace Engineering,An Overview of Recent Progress in the Study of Distributed Multi-Agent Coordination,https://doi.org/10.1109/tii.2012.2219061,2012,2323,https://openalex.org/W2012812921
+2202,Aerospace Engineering,A Point Set Generation Network for 3D Object Reconstruction from a Single Image,https://doi.org/10.1109/cvpr.2017.264,2017,2314,https://openalex.org/W2560722161
+2202,Aerospace Engineering,"6G Wireless Networks: Vision, Requirements, Architecture, and Key Technologies",https://doi.org/10.1109/mvt.2019.2921208,2019,2258,https://openalex.org/W2964005248
+1707,Computer Vision and Pattern Recognition,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks,https://doi.org/10.1109/tpami.2016.2577031,2016,50606,https://openalex.org/W639708223
+1707,Computer Vision and Pattern Recognition,Densely Connected Convolutional Networks,https://doi.org/10.1109/cvpr.2017.243,2017,42101,https://openalex.org/W2963446712
+1707,Computer Vision and Pattern Recognition,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,https://doi.org/10.1109/iccv48922.2021.00986,2021,25718,https://openalex.org/W3138516171
+1707,Computer Vision and Pattern Recognition,Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification,https://doi.org/10.1109/iccv.2015.123,2015,18140,https://openalex.org/W1677182931
+1707,Computer Vision and Pattern Recognition,Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition,https://doi.org/10.1109/tpami.2015.2389824,2015,10910,https://openalex.org/W2109255472
+1707,Computer Vision and Pattern Recognition,Identity Mappings in Deep Residual Networks,https://doi.org/10.1007/978-3-319-46493-0_38,2016,9748,https://openalex.org/W2302255633
+1707,Computer Vision and Pattern Recognition,LightGBM: A Highly Efficient Gradient Boosting Decision Tree,,2017,9477,https://openalex.org/W2768348081
+1707,Computer Vision and Pattern Recognition,Image Super-Resolution Using Deep Convolutional Networks,https://doi.org/10.1109/tpami.2015.2439281,2015,9260,https://openalex.org/W1885185971
+1707,Computer Vision and Pattern Recognition,Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising,https://doi.org/10.1109/tip.2017.2662206,2017,8168,https://openalex.org/W2508457857
+1707,Computer Vision and Pattern Recognition,Path Aggregation Network for Instance Segmentation,https://doi.org/10.1109/cvpr.2018.00913,2018,7941,https://openalex.org/W2963857746

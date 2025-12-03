@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-1312,Molecular Biology,Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2,https://doi.org/10.1186/s13059-014-0550-8,2014,90778,https://openalex.org/W2179438025
-1312,Molecular Biology,A short history of<i>SHELX</i>,https://doi.org/10.1107/s0108767307043930,2007,86379,https://openalex.org/W2131350133
-1312,Molecular Biology,Fiji: an open-source platform for biological-image analysis,https://doi.org/10.1038/nmeth.2019,2012,65110,https://openalex.org/W2167279371
-2208,Electrical and Electronic Engineering,QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials,https://doi.org/10.1088/0953-8984/21/39/395502,2009,27468,https://openalex.org/W2120145199
-2208,Electrical and Electronic Engineering,A metal-free polymeric photocatalyst for hydrogen production from water under visible light,https://doi.org/10.1038/nmat2317,2008,11929,https://openalex.org/W2150399639
-2208,Electrical and Electronic Engineering,Sequential deposition as a route to high-performance perovskite-sensitized solar cells,https://doi.org/10.1038/nature12340,2013,9288,https://openalex.org/W2114118829
-2505,Materials Chemistry,A short history of<i>SHELX</i>,https://doi.org/10.1107/s0108767307043930,2007,86379,https://openalex.org/W2131350133
-2505,Materials Chemistry,Crystal structure refinement with<i>SHELXL</i>,https://doi.org/10.1107/s2053229614024218,2014,39910,https://openalex.org/W1969360633
-2505,Materials Chemistry,"Balanced basis sets of split valence, triple zeta valence and quadruple zeta valence quality for H to Rn: Design and assessment of accuracy",https://doi.org/10.1039/b508541a,2005,27454,https://openalex.org/W1988091937
-2746,Surgery,The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3),https://doi.org/10.1001/jama.2016.0287,2016,25256,https://openalex.org/W2280404143
-2746,Surgery,Minimal criteria for defining multipotent mesenchymal stromal cells. The International Society for Cellular Therapy position statement,https://doi.org/10.1080/14653240600855905,2006,17147,https://openalex.org/W2025371271
+1312,Molecular Biology,Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2,https://doi.org/10.1186/s13059-014-0550-8,2014,91177,https://openalex.org/W2179438025
+1312,Molecular Biology,A short history of<i>SHELX</i>,https://doi.org/10.1107/s0108767307043930,2007,86426,https://openalex.org/W2131350133
+1312,Molecular Biology,Fiji: an open-source platform for biological-image analysis,https://doi.org/10.1038/nmeth.2019,2012,65479,https://openalex.org/W2167279371
+1312,Molecular Biology,Trimmomatic: a flexible trimmer for Illumina sequence data,https://doi.org/10.1093/bioinformatics/btu170,2014,64124,https://openalex.org/W2131271579
+1312,Molecular Biology,Cutadapt removes adapter sequences from high-throughput sequencing reads,https://doi.org/10.14806/ej.17.1.200,2011,32835,https://openalex.org/W2036897871
+1312,Molecular Biology,RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies,https://doi.org/10.1093/bioinformatics/btu033,2014,32642,https://openalex.org/W2141052558
+1312,Molecular Biology,The SILVA ribosomal RNA gene database project: improved data processing and web-based tools,https://doi.org/10.1093/nar/gks1219,2012,31142,https://openalex.org/W2034285706
+1312,Molecular Biology,Clustal W and Clustal X version 2.0,https://doi.org/10.1093/bioinformatics/btm404,2007,28472,https://openalex.org/W2137015675
+1312,Molecular Biology,HTSeq—a Python framework to work with high-throughput sequencing data,https://doi.org/10.1093/bioinformatics/btu638,2014,21442,https://openalex.org/W2134526812
+1312,Molecular Biology,"Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2",https://doi.org/10.1038/s41587-019-0209-9,2019,21046,https://openalex.org/W2963276645
+2208,Electrical and Electronic Engineering,QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials,https://doi.org/10.1088/0953-8984/21/39/395502,2009,27516,https://openalex.org/W2120145199
+2208,Electrical and Electronic Engineering,A metal-free polymeric photocatalyst for hydrogen production from water under visible light,https://doi.org/10.1038/nmat2317,2008,11955,https://openalex.org/W2150399639
+2208,Electrical and Electronic Engineering,Sequential deposition as a route to high-performance perovskite-sensitized solar cells,https://doi.org/10.1038/nature12340,2013,9294,https://openalex.org/W2114118829
+2208,Electrical and Electronic Engineering,A roadmap for graphene,https://doi.org/10.1038/nature11458,2012,8927,https://openalex.org/W2163980958
+2208,Electrical and Electronic Engineering,Advanced capabilities for materials modelling with Quantum ESPRESSO,https://doi.org/10.1088/1361-648x/aa8f79,2017,6740,https://openalex.org/W2757803490
+2208,Electrical and Electronic Engineering,Long-Range Balanced Electron- and Hole-Transport Lengths in Organic-Inorganic CH <sub>3</sub> NH <sub>3</sub> PbI <sub>3</sub>,https://doi.org/10.1126/science.1243167,2013,6610,https://openalex.org/W2129970907
+2208,Electrical and Electronic Engineering,Microbial Fuel Cells:  Methodology and Technology,https://doi.org/10.1021/es0605016,2006,5829,https://openalex.org/W1970377394
+2208,Electrical and Electronic Engineering,Trends in the Exchange Current for Hydrogen Evolution,https://doi.org/10.1149/1.1856988,2005,5427,https://openalex.org/W2022714449
+2208,Electrical and Electronic Engineering,New tools for automated high-resolution cryo-EM structure determination in RELION-3,https://doi.org/10.7554/elife.42166,2018,5239,https://openalex.org/W2899714098
+2208,Electrical and Electronic Engineering,Graphene transistors,https://doi.org/10.1038/nnano.2010.89,2010,5054,https://openalex.org/W4211172053
+2505,Materials Chemistry,A short history of<i>SHELX</i>,https://doi.org/10.1107/s0108767307043930,2007,86426,https://openalex.org/W2131350133
+2505,Materials Chemistry,Crystal structure refinement with<i>SHELXL</i>,https://doi.org/10.1107/s2053229614024218,2014,40051,https://openalex.org/W1969360633
+2505,Materials Chemistry,"Balanced basis sets of split valence, triple zeta valence and quadruple zeta valence quality for H to Rn: Design and assessment of accuracy",https://doi.org/10.1039/b508541a,2005,27607,https://openalex.org/W1988091937
+2505,Materials Chemistry,<i>SHELXT</i>– Integrated space-group and crystal-structure determination,https://doi.org/10.1107/s2053273314026370,2014,26568,https://openalex.org/W2132454074
+2505,Materials Chemistry,<i>XDS</i>,https://doi.org/10.1107/s0907444909047337,2010,16175,https://openalex.org/W4248872320
+2505,Materials Chemistry,"GROMACS 4:  Algorithms for Highly Efficient, Load-Balanced, and Scalable Molecular Simulation",https://doi.org/10.1021/ct700301q,2008,15590,https://openalex.org/W1966078827
+2505,Materials Chemistry,Visualization and analysis of atomistic simulation data with OVITO–the Open Visualization Tool,https://doi.org/10.1088/0965-0393/18/1/015012,2009,14689,https://openalex.org/W2047968138
+2505,Materials Chemistry,Raman Spectrum of Graphene and Graphene Layers,https://doi.org/10.1103/physrevlett.97.187401,2006,14565,https://openalex.org/W2136334331
+2505,Materials Chemistry,A metal-free polymeric photocatalyst for hydrogen production from water under visible light,https://doi.org/10.1038/nmat2317,2008,11955,https://openalex.org/W2150399639
+2505,Materials Chemistry,Open Babel: An open chemical toolbox,https://doi.org/10.1186/1758-2946-3-33,2011,10145,https://openalex.org/W2169678694
+2746,Surgery,The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3),https://doi.org/10.1001/jama.2016.0287,2016,25385,https://openalex.org/W2280404143
+2746,Surgery,Minimal criteria for defining multipotent mesenchymal stromal cells. The International Society for Cellular Therapy position statement,https://doi.org/10.1080/14653240600855905,2006,17180,https://openalex.org/W2025371271
 2746,Surgery,Down-Regulation of Na<sup>+</sup>/K<sup>+</sup>ATPase Activity by Human Parvovirus B19 Capsid Protein VP1,https://doi.org/10.1159/000350083,2013,8695,https://openalex.org/W2015426350
-3107,"Atomic and Molecular Physics, and Optics",A consistent and accurate<i>ab initio</i>parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu,https://doi.org/10.1063/1.3382344,2010,51230,https://openalex.org/W2092157292
-3107,"Atomic and Molecular Physics, and Optics",Semiempirical GGA‐type density functional constructed with a long‐range dispersion correction,https://doi.org/10.1002/jcc.20495,2006,29182,https://openalex.org/W2044591029
-3107,"Atomic and Molecular Physics, and Optics",QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials,https://doi.org/10.1088/0953-8984/21/39/395502,2009,27468,https://openalex.org/W2120145199
-2204,Biomedical Engineering,Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria,https://doi.org/10.1016/s1474-4422(17)30470-2,2017,7275,https://openalex.org/W2777074421
-2204,Biomedical Engineering,Cellulose: Fascinating Biopolymer and Sustainable Raw Material,https://doi.org/10.1002/anie.200460587,2005,7054,https://openalex.org/W2139413502
-2204,Biomedical Engineering,The atomic simulation environment—a Python library for working with atoms,https://doi.org/10.1088/1361-648x/aa680e,2017,4142,https://openalex.org/W2601081289
-3312,Sociology and Political Science,From game design elements to gamefulness,https://doi.org/10.1145/2181037.2181040,2011,7190,https://openalex.org/W2023718959
-3312,Sociology and Political Science,"The Shared Socioeconomic Pathways and their energy, land use, and greenhouse gas emissions implications: An overview",https://doi.org/10.1016/j.gloenvcha.2016.05.009,2016,5775,https://openalex.org/W2410390527
-3312,Sociology and Political Science,Super-diversity and its implications,https://doi.org/10.1080/01419870701599465,2007,5168,https://openalex.org/W2005637604
-1605,Organic Chemistry,Free radicals and antioxidants in normal physiological functions and human disease,https://doi.org/10.1016/j.biocel.2006.07.001,2006,13803,https://openalex.org/W2165201727
-1605,Organic Chemistry,"Magnetic Nanoparticles: Synthesis, Protection, Functionalization, and Application",https://doi.org/10.1002/anie.200602866,2007,6559,https://openalex.org/W2084871302
-1605,Organic Chemistry,Accurate Molecular Van Der Waals Interactions from Ground-State Electron Density and Free-Atom Reference Data,https://doi.org/10.1103/physrevlett.102.073005,2009,5954,https://openalex.org/W2059885388
-2740,Pulmonary and Respiratory Medicine,Radiotherapy plus Concomitant and Adjuvant Temozolomide for Glioblastoma,https://doi.org/10.1056/nejmoa043330,2005,20678,https://openalex.org/W2096287682
-2740,Pulmonary and Respiratory Medicine,"Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease",https://doi.org/10.1164/rccm.201204-0596pp,2012,15998,https://openalex.org/W2127951128
-2740,Pulmonary and Respiratory Medicine,The 2016 World Health Organization Classification of Tumors of the Central Nervous System: a summary,https://doi.org/10.1007/s00401-016-1545-1,2016,15320,https://openalex.org/W2366536035
-2210,Mechanical Engineering,UMAP: Uniform Manifold Approximation and Projection,https://doi.org/10.21105/joss.00861,2018,8385,https://openalex.org/W2889326414
-2210,Mechanical Engineering,Handbook of Heterogeneous Catalysis,https://doi.org/10.1002/9783527610044,2008,5505,https://openalex.org/W1504362703
-2210,Mechanical Engineering,Additive manufacturing of metals,https://doi.org/10.1016/j.actamat.2016.07.019,2016,4212,https://openalex.org/W2503161491
+2746,Surgery,European Guidelines on cardiovascular disease prevention in clinical practice (version 2012): The Fifth Joint Task Force of the European Society of Cardiology and Other Societies on Cardiovascular Disease Prevention in Clinical Practice (constituted by representatives of nine societies and by invited experts) * Developed with the special contribution of the European Association for Cardiovascular Prevention &amp; Rehabilitation (EACPR),https://doi.org/10.1093/eurheartj/ehs092,2012,8482,https://openalex.org/W3021842026
+2746,Surgery,Liraglutide and Cardiovascular Outcomes in Type 2 Diabetes,https://doi.org/10.1056/nejmoa1603827,2016,6748,https://openalex.org/W2425644022
+2746,Surgery,Rosuvastatin to Prevent Vascular Events in Men and Women with Elevated C-Reactive Protein,https://doi.org/10.1056/nejmoa0807646,2008,6443,https://openalex.org/W2137983259
+2746,Surgery,2016 European Guidelines on cardiovascular disease prevention in clinical practice,https://doi.org/10.1093/eurheartj/ehw106,2016,6291,https://openalex.org/W2402599050
+2746,Surgery,Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction,https://doi.org/10.1056/nejmoa1911303,2019,6229,https://openalex.org/W2974260792
+2746,Surgery,2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines,https://doi.org/10.1161/cir.0000000000000625,2019,6018,https://openalex.org/W2900034165
+2746,Surgery,2021 ESC Guidelines on cardiovascular disease prevention in clinical practice,https://doi.org/10.1093/eurheartj/ehab484,2021,5443,https://openalex.org/W3197233987
+3107,"Atomic and Molecular Physics, and Optics",A consistent and accurate<i>ab initio</i>parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu,https://doi.org/10.1063/1.3382344,2010,51550,https://openalex.org/W2092157292
+3107,"Atomic and Molecular Physics, and Optics",Semiempirical GGA‐type density functional constructed with a long‐range dispersion correction,https://doi.org/10.1002/jcc.20495,2006,29280,https://openalex.org/W2044591029
+3107,"Atomic and Molecular Physics, and Optics","Balanced basis sets of split valence, triple zeta valence and quadruple zeta valence quality for H to Rn: Design and assessment of accuracy",https://doi.org/10.1039/b508541a,2005,27607,https://openalex.org/W1988091937
+3107,"Atomic and Molecular Physics, and Optics",QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials,https://doi.org/10.1088/0953-8984/21/39/395502,2009,27516,https://openalex.org/W2120145199
+3107,"Atomic and Molecular Physics, and Optics",Effect of the damping function in dispersion corrected density functional theory,https://doi.org/10.1002/jcc.21759,2011,24342,https://openalex.org/W2096747776
+3107,"Atomic and Molecular Physics, and Optics","GROMACS: Fast, flexible, and free",https://doi.org/10.1002/jcc.20291,2005,17837,https://openalex.org/W2171268876
+3107,"Atomic and Molecular Physics, and Optics",Visualization and analysis of atomistic simulation data with OVITO–the Open Visualization Tool,https://doi.org/10.1088/0965-0393/18/1/015012,2009,14689,https://openalex.org/W2047968138
+3107,"Atomic and Molecular Physics, and Optics",The ORCA program system,https://doi.org/10.1002/wcms.81,2011,12100,https://openalex.org/W2067718414
+3107,"Atomic and Molecular Physics, and Optics",Double-slit photoelectron interference in strong-field ionization of the neon dimer,https://doi.org/10.15488/5174,2019,8246,https://openalex.org/W3105982350
+3107,"Atomic and Molecular Physics, and Optics",Double-slit photoelectron interference in strong-field ionization of the neon dimer,https://doi.org/10.1038/s41467-018-07882-8,2018,8068,https://openalex.org/W2790756470
+2204,Biomedical Engineering,Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria,https://doi.org/10.1016/s1474-4422(17)30470-2,2017,7310,https://openalex.org/W2777074421
+2204,Biomedical Engineering,Cellulose: Fascinating Biopolymer and Sustainable Raw Material,https://doi.org/10.1002/anie.200460587,2005,7068,https://openalex.org/W2139413502
+2204,Biomedical Engineering,The atomic simulation environment—a Python library for working with atoms,https://doi.org/10.1088/1361-648x/aa680e,2017,4157,https://openalex.org/W2601081289
+2204,Biomedical Engineering,Electrospinning: A Fascinating Method for the Preparation of Ultrathin Fibers,https://doi.org/10.1002/anie.200604646,2007,4083,https://openalex.org/W2008805549
+2204,Biomedical Engineering,Deep tissue two-photon microscopy,https://doi.org/10.1038/nmeth818,2005,4056,https://openalex.org/W2147607085
+2204,Biomedical Engineering,Advanced Oxidation Processes for Organic Contaminant Destruction Based on the Fenton Reaction and Related Chemistry,https://doi.org/10.1080/10643380500326564,2006,3819,https://openalex.org/W1983228601
+2204,Biomedical Engineering,The Fano resonance in plasmonic nanostructures and metamaterials,https://doi.org/10.1038/nmat2810,2010,3777,https://openalex.org/W2058541903
+2204,Biomedical Engineering,Metastable high-entropy dual-phase alloys overcome the strength–ductility trade-off,https://doi.org/10.1038/nature17981,2016,3662,https://openalex.org/W2408247608
+2204,Biomedical Engineering,<i>ShelXle</i>: a Qt graphical user interface for<i>SHELXL</i>,https://doi.org/10.1107/s0021889811043202,2011,3553,https://openalex.org/W2146426024
+2204,Biomedical Engineering,Polymers for 3D Printing and Customized Additive Manufacturing,https://doi.org/10.1021/acs.chemrev.7b00074,2017,3394,https://openalex.org/W2741181432
+3312,Sociology and Political Science,From game design elements to gamefulness,https://doi.org/10.1145/2181037.2181040,2011,7223,https://openalex.org/W2023718959
+3312,Sociology and Political Science,"The Shared Socioeconomic Pathways and their energy, land use, and greenhouse gas emissions implications: An overview",https://doi.org/10.1016/j.gloenvcha.2016.05.009,2016,5804,https://openalex.org/W2410390527
+3312,Sociology and Political Science,Super-diversity and its implications,https://doi.org/10.1080/01419870701599465,2007,5189,https://openalex.org/W2005637604
+3312,Sociology and Political Science,The Patient-Reported Outcomes Measurement Information System (PROMIS) developed and tested its first wave of adult self-reported health outcome item banks: 2005–2008,https://doi.org/10.1016/j.jclinepi.2010.04.011,2010,4738,https://openalex.org/W2162420979
+3312,Sociology and Political Science,"INDIVIDUAL RISK ATTITUDES: MEASUREMENT, DETERMINANTS, AND BEHAVIORAL CONSEQUENCES",https://doi.org/10.1111/j.1542-4774.2011.01015.x,2011,3763,https://openalex.org/W2106098322
+3312,Sociology and Political Science,Heuristic Decision Making,https://doi.org/10.1146/annurev-psych-120709-145346,2010,3637,https://openalex.org/W2096016260
+3312,Sociology and Political Science,Beyond Continuity: Institutional Change in Advanced Political Economies,,2005,3442,https://openalex.org/W1529223067
+3312,Sociology and Political Science,The roads ahead: Narratives for shared socioeconomic pathways describing world futures in the 21st century,https://doi.org/10.1016/j.gloenvcha.2015.01.004,2015,3040,https://openalex.org/W1992193293
+3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2973,https://openalex.org/W2161411308
+3312,Sociology and Political Science,Measuring User Influence in Twitter: The Million Follower Fallacy,https://doi.org/10.1609/icwsm.v4i1.14033,2010,2963,https://openalex.org/W1814023381
+1605,Organic Chemistry,Free radicals and antioxidants in normal physiological functions and human disease,https://doi.org/10.1016/j.biocel.2006.07.001,2006,13817,https://openalex.org/W2165201727
+1605,Organic Chemistry,"Magnetic Nanoparticles: Synthesis, Protection, Functionalization, and Application",https://doi.org/10.1002/anie.200602866,2007,6566,https://openalex.org/W2084871302
+1605,Organic Chemistry,Accurate Molecular Van Der Waals Interactions from Ground-State Electron Density and Free-Atom Reference Data,https://doi.org/10.1103/physrevlett.102.073005,2009,5971,https://openalex.org/W2059885388
+1605,Organic Chemistry,ICTAC Kinetics Committee recommendations for performing kinetic computations on thermal analysis data,https://doi.org/10.1016/j.tca.2011.03.034,2011,5383,https://openalex.org/W2012257367
+1605,Organic Chemistry,An overview of N-heterocyclic carbenes,https://doi.org/10.1038/nature13384,2014,4040,https://openalex.org/W2003555872
+1605,Organic Chemistry,Nucleus-Independent Chemical Shifts (NICS) as an Aromaticity Criterion,https://doi.org/10.1021/cr030088+,2005,3668,https://openalex.org/W2053248916
+1605,Organic Chemistry,Trastuzumab Emtansine for HER2-Positive Advanced Breast Cancer,https://doi.org/10.1056/nejmoa1209124,2012,3624,https://openalex.org/W2159967578
+1605,Organic Chemistry,Gold Catalysis,https://doi.org/10.1002/anie.200602454,2006,3365,https://openalex.org/W4211044815
+1605,Organic Chemistry,Carboxylate-Assisted Transition-Metal-Catalyzed C−H Bond Functionalizations: Mechanism and Scope,https://doi.org/10.1021/cr100412j,2011,3304,https://openalex.org/W2331452414
+1605,Organic Chemistry,Polymeric Graphitic Carbon Nitride as a Heterogeneous Organocatalyst: From Photochemistry to Multipurpose Catalysis to Sustainable Chemistry,https://doi.org/10.1002/anie.201101182,2011,3242,https://openalex.org/W2154439556
+2740,Pulmonary and Respiratory Medicine,Radiotherapy plus Concomitant and Adjuvant Temozolomide for Glioblastoma,https://doi.org/10.1056/nejmoa043330,2005,20744,https://openalex.org/W2096287682
+2740,Pulmonary and Respiratory Medicine,"Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease",https://doi.org/10.1164/rccm.201204-0596pp,2012,16007,https://openalex.org/W2127951128
+2740,Pulmonary and Respiratory Medicine,The 2016 World Health Organization Classification of Tumors of the Central Nervous System: a summary,https://doi.org/10.1007/s00401-016-1545-1,2016,15343,https://openalex.org/W2366536035
+2740,Pulmonary and Respiratory Medicine,The 2021 WHO Classification of Tumors of the Central Nervous System: a summary,https://doi.org/10.1093/neuonc/noab106,2021,10214,https://openalex.org/W3174246647
+2740,Pulmonary and Respiratory Medicine,Pembrolizumab versus Chemotherapy for PD-L1–Positive Non–Small-Cell Lung Cancer,https://doi.org/10.1056/nejmoa1606774,2016,9640,https://openalex.org/W2527905628
+2740,Pulmonary and Respiratory Medicine,Surviving Sepsis Campaign,https://doi.org/10.1097/ccm.0b013e31827e83af,2013,9629,https://openalex.org/W3023757607
+2740,Pulmonary and Respiratory Medicine,Nivolumab versus Docetaxel in Advanced Nonsquamous Non–Small-Cell Lung Cancer,https://doi.org/10.1056/nejmoa1507643,2015,9221,https://openalex.org/W2104347254
+2740,Pulmonary and Respiratory Medicine,Nivolumab versus Docetaxel in Advanced Squamous-Cell Non–Small-Cell Lung Cancer,https://doi.org/10.1056/nejmoa1504627,2015,8350,https://openalex.org/W2156353875
+2740,Pulmonary and Respiratory Medicine,Effects of radiotherapy with concomitant and adjuvant temozolomide versus radiotherapy alone on survival in glioblastoma in a randomised phase III study: 5-year analysis of the EORTC-NCIC trial,https://doi.org/10.1016/s1470-2045(09)70025-7,2009,7602,https://openalex.org/W2158681922
+2740,Pulmonary and Respiratory Medicine,"Surviving Sepsis Campaign: International Guidelines for Management of Severe Sepsis and Septic Shock, 2012",https://doi.org/10.1007/s00134-012-2769-8,2013,7252,https://openalex.org/W2442246762
+2210,Mechanical Engineering,UMAP: Uniform Manifold Approximation and Projection,https://doi.org/10.21105/joss.00861,2018,8448,https://openalex.org/W2889326414
+2210,Mechanical Engineering,Handbook of Heterogeneous Catalysis,https://doi.org/10.1002/9783527610044,2008,5506,https://openalex.org/W1504362703
+2210,Mechanical Engineering,Additive manufacturing of metals,https://doi.org/10.1016/j.actamat.2016.07.019,2016,4253,https://openalex.org/W2503161491
+2210,Mechanical Engineering,High-entropy alloys,https://doi.org/10.1038/s41578-019-0121-4,2019,4122,https://openalex.org/W2951539866
+2210,Mechanical Engineering,Carbon capture and storage (CCS): the way forward,https://doi.org/10.1039/c7ee02342a,2018,3786,https://openalex.org/W2784350055
+2210,Mechanical Engineering,Metastable high-entropy dual-phase alloys overcome the strength–ductility trade-off,https://doi.org/10.1038/nature17981,2016,3662,https://openalex.org/W2408247608
+2210,Mechanical Engineering,Ageing mechanisms in lithium-ion batteries,https://doi.org/10.1016/j.jpowsour.2005.01.006,2005,3608,https://openalex.org/W2077937117
+2210,Mechanical Engineering,Gold Catalysis,https://doi.org/10.1002/anie.200602454,2006,3365,https://openalex.org/W4211044815
+2210,Mechanical Engineering,Gold-Catalyzed Organic Reactions,https://doi.org/10.1021/cr000436x,2007,3200,https://openalex.org/W2121970136
+2210,Mechanical Engineering,The influences of temperature and microstructure on the tensile properties of a CoCrFeMnNi high-entropy alloy,https://doi.org/10.1016/j.actamat.2013.06.018,2013,3070,https://openalex.org/W2066578528

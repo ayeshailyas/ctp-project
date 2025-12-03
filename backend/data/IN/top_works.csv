@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-2208,Electrical and Electronic Engineering,Graphene: The New Two‐Dimensional Nanomaterial,https://doi.org/10.1002/anie.200901678,2009,3889,https://openalex.org/W2072214543
-2208,Electrical and Electronic Engineering,Recent Advances and Industrial Applications of Multilevel Converters,https://doi.org/10.1109/tie.2010.2049719,2010,3729,https://openalex.org/W2139772385
-2208,Electrical and Electronic Engineering,Quantum dot–induced phase stabilization of α-CsPbI <sub>3</sub> perovskite for high-efficiency photovoltaics,https://doi.org/10.1126/science.aag2700,2016,2644,https://openalex.org/W2527913842
-1312,Molecular Biology,Antiinflammatory Therapy with Canakinumab for Atherosclerotic Disease,https://doi.org/10.1056/nejmoa1707914,2017,8381,https://openalex.org/W2748400555
-1312,Molecular Biology,Intratumor Heterogeneity and Branched Evolution Revealed by Multiregion Sequencing,https://doi.org/10.1056/nejmoa1113205,2012,7539,https://openalex.org/W2150575159
-1312,Molecular Biology,Improved side‐chain torsion potentials for the Amber ff99SB protein force field,https://doi.org/10.1002/prot.22711,2010,5873,https://openalex.org/W2161605421
-2505,Materials Chemistry,Nano based drug delivery systems: recent developments and future prospects,https://doi.org/10.1186/s12951-018-0392-8,2018,6031,https://openalex.org/W2890167612
-2505,Materials Chemistry,Improved side‐chain torsion potentials for the Amber ff99SB protein force field,https://doi.org/10.1002/prot.22711,2010,5873,https://openalex.org/W2161605421
-2505,Materials Chemistry,Silver nanoparticles as a new generation of antimicrobials,https://doi.org/10.1016/j.biotechadv.2008.09.002,2008,5765,https://openalex.org/W2061073363
-2204,Biomedical Engineering,Silver nanoparticles as a new generation of antimicrobials,https://doi.org/10.1016/j.biotechadv.2008.09.002,2008,5765,https://openalex.org/W2061073363
-2204,Biomedical Engineering,"Ti based biomaterials, the ultimate choice for orthopaedic implants – A review",https://doi.org/10.1016/j.pmatsci.2008.06.004,2008,5055,https://openalex.org/W2008158617
-2204,Biomedical Engineering,Electrospinning: A fascinating fiber fabrication technique,https://doi.org/10.1016/j.biotechadv.2010.01.004,2010,4729,https://openalex.org/W2106727463
-1110,Plant Science,"Reactive Oxygen Species, Oxidative Damage, and Antioxidative Defense Mechanism in Plants under Stressful Conditions",https://doi.org/10.1155/2012/217037,2012,5254,https://openalex.org/W2041493424
-1110,Plant Science,Impact of pesticides use in agriculture: their benefits and hazards,https://doi.org/10.2478/v10102-009-0001-7,2009,3342,https://openalex.org/W2158809385
-1110,Plant Science,Shifting the limits in wheat research and breeding using a fully annotated reference genome,https://doi.org/10.1126/science.aar7191,2018,3210,https://openalex.org/W2886785109
-2746,Surgery,"2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines",https://doi.org/10.1161/hyp.0000000000000065,2017,7224,https://openalex.org/W2770837559
-2746,Surgery,Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction,https://doi.org/10.1056/nejmoa1911303,2019,6201,https://openalex.org/W2974260792
-2746,Surgery,The SCARE 2020 Guideline: Updating Consensus Surgical CAse REport (SCARE) Guidelines,https://doi.org/10.1016/j.ijsu.2020.10.034,2020,5533,https://openalex.org/W3103171760
-1605,Organic Chemistry,Application of low-cost adsorbents for dye removal – A review,https://doi.org/10.1016/j.jenvman.2008.11.017,2009,3666,https://openalex.org/W2027624111
-1605,Organic Chemistry,"Core/Shell Nanoparticles: Classes, Properties, Synthesis Mechanisms, Characterization, and Applications",https://doi.org/10.1021/cr100449n,2011,3476,https://openalex.org/W2027283694
-1605,Organic Chemistry,Supramolecular Coordination: Self-Assembly of Finite Two- and Three-Dimensional Ensembles,https://doi.org/10.1021/cr200077m,2011,2852,https://openalex.org/W1965743698
-1702,Artificial Intelligence,GAN（Generative Adversarial Nets）,https://doi.org/10.3156/jsoft.29.5_177_2,2017,21711,https://openalex.org/W2099471712
-1702,Artificial Intelligence,Astropy: A community Python package for astronomy,https://doi.org/10.1051/0004-6361/201322068,2013,12940,https://openalex.org/W2135625048
+2208,Electrical and Electronic Engineering,Graphene: The New Two‐Dimensional Nanomaterial,https://doi.org/10.1002/anie.200901678,2009,3892,https://openalex.org/W2072214543
+2208,Electrical and Electronic Engineering,Recent Advances and Industrial Applications of Multilevel Converters,https://doi.org/10.1109/tie.2010.2049719,2010,3731,https://openalex.org/W2139772385
+2208,Electrical and Electronic Engineering,Quantum dot–induced phase stabilization of α-CsPbI <sub>3</sub> perovskite for high-efficiency photovoltaics,https://doi.org/10.1126/science.aag2700,2016,2647,https://openalex.org/W2527913842
+2208,Electrical and Electronic Engineering,A Survey of 5G Network: Architecture and Emerging Technologies,https://doi.org/10.1109/access.2015.2461602,2015,2343,https://openalex.org/W2128145324
+2208,Electrical and Electronic Engineering,"Niraparib Maintenance Therapy in Platinum-Sensitive, Recurrent Ovarian Cancer",https://doi.org/10.1056/nejmoa1611310,2016,2315,https://openalex.org/W2528228811
+2208,Electrical and Electronic Engineering,A Survey on Cascaded Multilevel Inverters,https://doi.org/10.1109/tie.2009.2030767,2009,2270,https://openalex.org/W2154211756
+2208,Electrical and Electronic Engineering,A review on fundamentals and applications of electrophoretic deposition (EPD),https://doi.org/10.1016/j.pmatsci.2006.07.001,2006,2132,https://openalex.org/W1976697629
+2208,Electrical and Electronic Engineering,Semiconductor metal oxide gas sensors: A review,https://doi.org/10.1016/j.mseb.2017.12.036,2018,2117,https://openalex.org/W2781764043
+2208,Electrical and Electronic Engineering,THE<i>NUCLEAR SPECTROSCOPIC TELESCOPE ARRAY</i>(<i>NuSTAR</i>) HIGH-ENERGY X-RAY MISSION,https://doi.org/10.1088/0004-637x/770/2/103,2013,2080,https://openalex.org/W2074347757
+2208,Electrical and Electronic Engineering,Niraparib in Patients with Newly Diagnosed Advanced Ovarian Cancer,https://doi.org/10.1056/nejmoa1910962,2019,2058,https://openalex.org/W2975141952
+1312,Molecular Biology,Antiinflammatory Therapy with Canakinumab for Atherosclerotic Disease,https://doi.org/10.1056/nejmoa1707914,2017,8419,https://openalex.org/W2748400555
+1312,Molecular Biology,Intratumor Heterogeneity and Branched Evolution Revealed by Multiregion Sequencing,https://doi.org/10.1056/nejmoa1113205,2012,7558,https://openalex.org/W2150575159
+1312,Molecular Biology,Improved side‐chain torsion potentials for the Amber ff99SB protein force field,https://doi.org/10.1002/prot.22711,2010,5896,https://openalex.org/W2161605421
+1312,Molecular Biology,Flavonoids: an overview,https://doi.org/10.1017/jns.2016.41,2016,4655,https://openalex.org/W2565383127
+1312,Molecular Biology,Cardiovascular and Renal Outcomes with Empagliflozin in Heart Failure,https://doi.org/10.1056/nejmoa2022190,2020,4550,https://openalex.org/W3081830235
+1312,Molecular Biology,<i>g_mmpbsa</i>—A GROMACS Tool for High-Throughput MM-PBSA Calculations,https://doi.org/10.1021/ci500020m,2014,4417,https://openalex.org/W2044172327
+1312,Molecular Biology,Visualizing and interpreting cancer genomics data via the Xena platform,https://doi.org/10.1038/s41587-020-0546-8,2020,4318,https://openalex.org/W3028304854
+1312,Molecular Biology,Natural products in drug discovery: advances and opportunities,https://doi.org/10.1038/s41573-020-00114-z,2021,4316,https://openalex.org/W3119952098
+1312,Molecular Biology,Five-Year Survival with Combined Nivolumab and Ipilimumab in Advanced Melanoma,https://doi.org/10.1056/nejmoa1910836,2019,3491,https://openalex.org/W3043703771
+1312,Molecular Biology,Present and Future of Surface-Enhanced Raman Scattering,https://doi.org/10.1021/acsnano.9b04224,2019,3421,https://openalex.org/W2971763914
+2505,Materials Chemistry,Nano based drug delivery systems: recent developments and future prospects,https://doi.org/10.1186/s12951-018-0392-8,2018,6074,https://openalex.org/W2890167612
+2505,Materials Chemistry,Improved side‐chain torsion potentials for the Amber ff99SB protein force field,https://doi.org/10.1002/prot.22711,2010,5896,https://openalex.org/W2161605421
+2505,Materials Chemistry,Silver nanoparticles as a new generation of antimicrobials,https://doi.org/10.1016/j.biotechadv.2008.09.002,2008,5780,https://openalex.org/W2061073363
+2505,Materials Chemistry,"Ti based biomaterials, the ultimate choice for orthopaedic implants – A review",https://doi.org/10.1016/j.pmatsci.2008.06.004,2008,5068,https://openalex.org/W2008158617
+2505,Materials Chemistry,High-performance bulk thermoelectrics with all-scale hierarchical architectures,https://doi.org/10.1038/nature11439,2012,4442,https://openalex.org/W2076218685
+2505,Materials Chemistry,Graphene: The New Two‐Dimensional Nanomaterial,https://doi.org/10.1002/anie.200901678,2009,3892,https://openalex.org/W2072214543
+2505,Materials Chemistry,Monitoring dopants by Raman scattering in an electrochemically top-gated graphene transistor,https://doi.org/10.1038/nnano.2008.67,2008,3491,https://openalex.org/W2110835769
+2505,Materials Chemistry,"Core/Shell Nanoparticles: Classes, Properties, Synthesis Mechanisms, Characterization, and Applications",https://doi.org/10.1021/cr100449n,2011,3483,https://openalex.org/W2027283694
+2505,Materials Chemistry,Present and Future of Surface-Enhanced Raman Scattering,https://doi.org/10.1021/acsnano.9b04224,2019,3421,https://openalex.org/W2971763914
+2505,Materials Chemistry,Mechanical behavior of amorphous alloys,https://doi.org/10.1016/j.actamat.2007.01.052,2007,3239,https://openalex.org/W2118142066
+2204,Biomedical Engineering,Silver nanoparticles as a new generation of antimicrobials,https://doi.org/10.1016/j.biotechadv.2008.09.002,2008,5780,https://openalex.org/W2061073363
+2204,Biomedical Engineering,"Ti based biomaterials, the ultimate choice for orthopaedic implants – A review",https://doi.org/10.1016/j.pmatsci.2008.06.004,2008,5068,https://openalex.org/W2008158617
+2204,Biomedical Engineering,Electrospinning: A fascinating fiber fabrication technique,https://doi.org/10.1016/j.biotechadv.2010.01.004,2010,4742,https://openalex.org/W2106727463
+2204,Biomedical Engineering,A Direct Measurement of the Radiation Sensitivity of Normal Mouse Bone Marrow Cells<sup>1</sup>,https://doi.org/10.1667/rrxx28.1,2010,4062,https://openalex.org/W2103546044
+2204,Biomedical Engineering,Hydrodynamics of soft active matter,https://doi.org/10.1103/revmodphys.85.1143,2013,3844,https://openalex.org/W2074574519
+2204,Biomedical Engineering,Production of first and second generation biofuels: A comprehensive review,https://doi.org/10.1016/j.rser.2009.10.003,2009,3114,https://openalex.org/W2128836283
+2204,Biomedical Engineering,Biofuels (alcohols and biodiesel) applications as fuels for internal combustion engines,https://doi.org/10.1016/j.pecs.2006.08.003,2006,3073,https://openalex.org/W2029850555
+2204,Biomedical Engineering,Heart rate variability: a review,https://doi.org/10.1007/s11517-006-0119-0,2006,2717,https://openalex.org/W2026699230
+2204,Biomedical Engineering,Interparticle Coupling Effect on the Surface Plasmon Resonance of Gold Nanoparticles:  From Theory to Applications,https://doi.org/10.1021/cr0680282,2007,2688,https://openalex.org/W2137864764
+2204,Biomedical Engineering,‘Green’ synthesis of metals and their oxide nanoparticles: applications for environmental remediation,https://doi.org/10.1186/s12951-018-0408-4,2018,2356,https://openalex.org/W2899246795
+1110,Plant Science,"Reactive Oxygen Species, Oxidative Damage, and Antioxidative Defense Mechanism in Plants under Stressful Conditions",https://doi.org/10.1155/2012/217037,2012,5266,https://openalex.org/W2041493424
+1110,Plant Science,Impact of pesticides use in agriculture: their benefits and hazards,https://doi.org/10.2478/v10102-009-0001-7,2009,3354,https://openalex.org/W2158809385
+1110,Plant Science,Shifting the limits in wheat research and breeding using a fully annotated reference genome,https://doi.org/10.1126/science.aar7191,2018,3224,https://openalex.org/W2886785109
+1110,Plant Science,Reactive oxygen species (ROS) and response of antioxidants as ROS-scavengers during environmental stress in plants,https://doi.org/10.3389/fenvs.2014.00053,2014,2970,https://openalex.org/W2080843596
+1110,Plant Science,The complete sequence of a human genome,https://doi.org/10.1126/science.abj6987,2022,2955,https://openalex.org/W4220999759
+1110,Plant Science,Plant growth-promoting rhizobacteria (PGPR): emergence in agriculture,https://doi.org/10.1007/s11274-011-0979-9,2011,2642,https://openalex.org/W2147897291
+1110,Plant Science,Soil salinity: A serious environmental issue and plant growth promoting bacteria as one of the tools for its alleviation,https://doi.org/10.1016/j.sjbs.2014.12.001,2014,2634,https://openalex.org/W2095478872
+1110,Plant Science,Role of proline under changing environments,https://doi.org/10.4161/psb.21949,2012,2574,https://openalex.org/W2008951912
+1110,Plant Science,Synthesis of metallic nanoparticles using plant extracts,https://doi.org/10.1016/j.biotechadv.2013.01.003,2013,2428,https://openalex.org/W2033069724
+1110,Plant Science,Influence of abiotic stress signals on secondary metabolites in plants,https://doi.org/10.4161/psb.6.11.17613,2011,2361,https://openalex.org/W2085587146
+2746,Surgery,"2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines",https://doi.org/10.1161/hyp.0000000000000065,2017,7229,https://openalex.org/W2770837559
+2746,Surgery,Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction,https://doi.org/10.1056/nejmoa1911303,2019,6229,https://openalex.org/W2974260792
+2746,Surgery,The SCARE 2020 Guideline: Updating Consensus Surgical CAse REport (SCARE) Guidelines,https://doi.org/10.1016/j.ijsu.2020.10.034,2020,5537,https://openalex.org/W3103171760
+2746,Surgery,"Ti based biomaterials, the ultimate choice for orthopaedic implants – A review",https://doi.org/10.1016/j.pmatsci.2008.06.004,2008,5068,https://openalex.org/W2008158617
+2746,Surgery,Cardiovascular and Renal Outcomes with Empagliflozin in Heart Failure,https://doi.org/10.1056/nejmoa2022190,2020,4550,https://openalex.org/W3081830235
+2746,Surgery,Cisplatin plus Gemcitabine versus Gemcitabine for Biliary Tract Cancer,https://doi.org/10.1056/nejmoa0908721,2010,4208,https://openalex.org/W2115261608
+2746,Surgery,The 2016 update of the International Study Group (ISGPS) definition and grading of postoperative pancreatic fistula: 11 Years After,https://doi.org/10.1016/j.surg.2016.11.014,2016,3818,https://openalex.org/W2565595087
+2746,Surgery,Clinical Targets for Continuous Glucose Monitoring Data Interpretation: Recommendations From the International Consensus on Time in Range,https://doi.org/10.2337/dci19-0028,2019,3418,https://openalex.org/W2948261890
+2746,Surgery,Methods for the determination of limit of detection and limit of quantitation of the analytical methods,https://doi.org/10.4103/2229-5186.79345,2011,2990,https://openalex.org/W2024703652
+2746,Surgery,Global burden of acute lower respiratory infections due to respiratory syncytial virus in young children: a systematic review and meta-analysis,https://doi.org/10.1016/s0140-6736(10)60206-1,2010,2737,https://openalex.org/W2120949068
+1605,Organic Chemistry,Application of low-cost adsorbents for dye removal – A review,https://doi.org/10.1016/j.jenvman.2008.11.017,2009,3670,https://openalex.org/W2027624111
+1605,Organic Chemistry,"Core/Shell Nanoparticles: Classes, Properties, Synthesis Mechanisms, Characterization, and Applications",https://doi.org/10.1021/cr100449n,2011,3483,https://openalex.org/W2027283694
+1605,Organic Chemistry,Supramolecular Coordination: Self-Assembly of Finite Two- and Three-Dimensional Ensembles,https://doi.org/10.1021/cr200077m,2011,2857,https://openalex.org/W1965743698
+1605,Organic Chemistry,"Free Radicals: Properties, Sources, Targets, and Their Implication in Various Diseases",https://doi.org/10.1007/s12291-014-0446-0,2014,2730,https://openalex.org/W2023695511
+1605,Organic Chemistry,‘Green’ synthesis of metals and their oxide nanoparticles: applications for environmental remediation,https://doi.org/10.1186/s12951-018-0408-4,2018,2356,https://openalex.org/W2899246795
+1605,Organic Chemistry,Supramolecular gels: Functions and uses,https://doi.org/10.1039/b417081b,2005,2004,https://openalex.org/W2333988885
+1605,Organic Chemistry,"Free radicals, natural antioxidants, and their reaction mechanisms",https://doi.org/10.1039/c4ra13315c,2015,1984,https://openalex.org/W2037880347
+1605,Organic Chemistry,Genesis and development of DPPH method of antioxidant assay,https://doi.org/10.1007/s13197-011-0251-1,2011,1958,https://openalex.org/W2069789444
+1605,Organic Chemistry,DPPH antioxidant assay revisited,https://doi.org/10.1016/j.foodchem.2008.08.008,2008,1852,https://openalex.org/W1983176088
+1605,Organic Chemistry,Definition of the halogen bond (IUPAC Recommendations 2013),https://doi.org/10.1351/pac-rec-12-05-10,2013,1831,https://openalex.org/W2094742663
+1702,Artificial Intelligence,GAN（Generative Adversarial Nets）,https://doi.org/10.3156/jsoft.29.5_177_2,2017,21714,https://openalex.org/W2099471712
+1702,Artificial Intelligence,Astropy: A community Python package for astronomy,https://doi.org/10.1051/0004-6361/201322068,2013,13020,https://openalex.org/W2135625048
 1702,Artificial Intelligence,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.17863/cam.64134,2019,11500,https://openalex.org/W3103145119
-2210,Mechanical Engineering,"Additive manufacturing of metallic components – Process, structure and properties",https://doi.org/10.1016/j.pmatsci.2017.10.001,2017,7269,https://openalex.org/W2762367303
-2210,Mechanical Engineering,Review on thermal energy storage with phase change materials and applications,https://doi.org/10.1016/j.rser.2007.10.005,2008,5422,https://openalex.org/W2151080396
-2210,Mechanical Engineering,Mechanical behavior of amorphous alloys,https://doi.org/10.1016/j.actamat.2007.01.052,2007,3232,https://openalex.org/W2118142066
-1705,Computer Networks and Communications,The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package<sup>*</sup>,https://doi.org/10.3847/1538-3881/aabc4f,2018,6288,https://openalex.org/W2888532099
-1705,Computer Networks and Communications,Likert Scale: Explored and Explained,https://doi.org/10.9734/bjast/2015/14975,2015,3137,https://openalex.org/W2327678559
+1702,Artificial Intelligence,Calibrating Noise to Sensitivity in Private Data Analysis,https://doi.org/10.1007/11681878_14,2006,6720,https://openalex.org/W1873763122
+1702,Artificial Intelligence,The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package<sup>*</sup>,https://doi.org/10.3847/1538-3881/aabc4f,2018,6351,https://openalex.org/W2888532099
+1702,Artificial Intelligence,"An Evolutionary Many-Objective Optimization Algorithm Using Reference-Point-Based Nondominated Sorting Approach, Part I: Solving Problems With Box Constraints",https://doi.org/10.1109/tevc.2013.2281535,2013,6155,https://openalex.org/W2022485595
+1702,Artificial Intelligence,Review of Particle Physics,https://doi.org/10.1093/ptep/ptac097,2022,5925,https://openalex.org/W2963002078
+1702,Artificial Intelligence,Differential Evolution: A Survey of the State-of-the-Art,https://doi.org/10.1109/tevc.2010.2059031,2010,4994,https://openalex.org/W2156194072
+1702,Artificial Intelligence,Review of Particle Physics,https://doi.org/10.1016/j.physletb.2008.07.018,2008,4908,https://openalex.org/W266195994
+1702,Artificial Intelligence,Teaching–learning-based optimization: A novel method for constrained mechanical design optimization problems,https://doi.org/10.1016/j.cad.2010.12.015,2011,4835,https://openalex.org/W1999284878
+2210,Mechanical Engineering,"Additive manufacturing of metallic components – Process, structure and properties",https://doi.org/10.1016/j.pmatsci.2017.10.001,2017,7333,https://openalex.org/W2762367303
+2210,Mechanical Engineering,Review on thermal energy storage with phase change materials and applications,https://doi.org/10.1016/j.rser.2007.10.005,2008,5441,https://openalex.org/W2151080396
+2210,Mechanical Engineering,Mechanical behavior of amorphous alloys,https://doi.org/10.1016/j.actamat.2007.01.052,2007,3239,https://openalex.org/W2118142066
+2210,Mechanical Engineering,Perspectives on Titanium Science and Technology,https://doi.org/10.1016/j.actamat.2012.10.043,2013,2702,https://openalex.org/W2009691576
+2210,Mechanical Engineering,"Recent Trends and Perspectives in Electrochemical Water Splitting with an Emphasis on Sulfide, Selenide, and Phosphide Catalysts of Fe, Co, and Ni: A Review",https://doi.org/10.1021/acscatal.6b02479,2016,2373,https://openalex.org/W2534928601
+2210,Mechanical Engineering,Heat transfer augmentation in a two-sided lid-driven differentially heated square cavity utilizing nanofluids,https://doi.org/10.1016/j.ijheatmasstransfer.2006.09.034,2006,2336,https://openalex.org/W2093717036
+2210,Mechanical Engineering,"Rare earth elements: A review of applications, occurrence, exploration, analysis, recycling, and environmental impact",https://doi.org/10.1016/j.gsf.2018.12.005,2019,1795,https://openalex.org/W2921571282
+2210,Mechanical Engineering,"Fiber-Reinforced Polymer Composites: Manufacturing, Properties, and Applications",https://doi.org/10.3390/polym11101667,2019,1447,https://openalex.org/W2979363123
+2210,Mechanical Engineering,Pretreatments of natural fibers and their application as reinforcing material in polymer composites—A review,https://doi.org/10.1002/pen.21328,2009,1378,https://openalex.org/W2009388318
+2210,Mechanical Engineering,Recent developments in phase change materials for energy storage applications: A review,https://doi.org/10.1016/j.ijheatmasstransfer.2018.09.126,2018,1362,https://openalex.org/W2895295357
+1705,Computer Networks and Communications,The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package<sup>*</sup>,https://doi.org/10.3847/1538-3881/aabc4f,2018,6351,https://openalex.org/W2888532099
+1705,Computer Networks and Communications,Likert Scale: Explored and Explained,https://doi.org/10.9734/bjast/2015/14975,2015,3168,https://openalex.org/W2327678559
 1705,Computer Networks and Communications,"Latent Class and Latent Transition Analysis: With Applications in the Social, Behavioral, and Health Sciences",,2009,2574,https://openalex.org/W1497939657
+1705,Computer Networks and Communications,Dryad,https://doi.org/10.1145/1272996.1273005,2007,2446,https://openalex.org/W2100830825
+1705,Computer Networks and Communications,A Survey of 5G Network: Architecture and Emerging Technologies,https://doi.org/10.1109/access.2015.2461602,2015,2343,https://openalex.org/W2128145324
+1705,Computer Networks and Communications,Efficient Architecture-Aware Acceleration of BWA-MEM for Multicore Systems,https://doi.org/10.1109/ipdps.2019.00041,2019,2296,https://openalex.org/W2971559821
+1705,Computer Networks and Communications,Real-time status: How often should one update?,https://doi.org/10.1109/infcom.2012.6195689,2012,2245,https://openalex.org/W1993918491
+1705,Computer Networks and Communications,Response surface methodology,https://doi.org/10.1002/wics.73,2010,1959,https://openalex.org/W2107845890
+1705,Computer Networks and Communications,Energy Harvesting Sensor Nodes: Survey and Implications,https://doi.org/10.1109/surv.2011.060710.00094,2010,1947,https://openalex.org/W2046672513
+1705,Computer Networks and Communications,Internet of Things (IoT): A Literature Review,https://doi.org/10.4236/jcc.2015.35021,2015,1919,https://openalex.org/W1548644355

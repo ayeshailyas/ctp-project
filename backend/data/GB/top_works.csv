@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-1312,Molecular Biology,The Sequence Alignment/Map format and SAMtools,https://doi.org/10.1093/bioinformatics/btp352,2009,63002,https://openalex.org/W2108234281
-1312,Molecular Biology,Fast and accurate short read alignment with Burrows–Wheeler transform,https://doi.org/10.1093/bioinformatics/btp324,2009,59322,https://openalex.org/W2103441770
-1312,Molecular Biology,Highly accurate protein structure prediction with AlphaFold,https://doi.org/10.1038/s41586-021-03819-2,2021,39232,https://openalex.org/W3177828909
-3312,Sociology and Political Science,Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement,https://doi.org/10.1136/bmj.b2535,2009,81874,https://openalex.org/W2156098321
-3312,Sociology and Political Science,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1136/bmj.n71,2021,75073,https://openalex.org/W3118615836
-3312,Sociology and Political Science,PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation,https://doi.org/10.7326/m18-0850,2018,33210,https://openalex.org/W2891378911
-2746,Surgery,The PRISMA Statement for Reporting Systematic Reviews and Meta-Analyses of Studies That Evaluate Health Care Interventions: Explanation and Elaboration,https://doi.org/10.1371/journal.pmed.1000100,2009,27244,https://openalex.org/W3022903699
-2746,Surgery,The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3),https://doi.org/10.1001/jama.2016.0287,2016,25256,https://openalex.org/W2280404143
-2746,Surgery,The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate health care interventions: explanation and elaboration,https://doi.org/10.1016/j.jclinepi.2009.06.006,2009,10051,https://openalex.org/W2576440140
-2208,Electrical and Electronic Engineering,The rise of graphene,https://doi.org/10.1038/nmat1849,2007,38518,https://openalex.org/W2014935324
-2208,Electrical and Electronic Engineering,The electronic properties of graphene,https://doi.org/10.1103/revmodphys.81.109,2009,23781,https://openalex.org/W2105685140
-2208,Electrical and Electronic Engineering,Efficient Hybrid Solar Cells Based on Meso-Superstructured Organometal Halide Perovskites,https://doi.org/10.1126/science.1228604,2012,10335,https://openalex.org/W1965464747
-2713,Epidemiology,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1136/bmj.n71,2021,75073,https://openalex.org/W3118615836
-2713,Epidemiology,"Cancer incidence and mortality worldwide: Sources, methods and major patterns in GLOBOCAN 2012",https://doi.org/10.1002/ijc.29210,2014,28622,https://openalex.org/W1757407923
-2713,Epidemiology,The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3),https://doi.org/10.1001/jama.2016.0287,2016,25256,https://openalex.org/W2280404143
-3600,General Health Professions,Using thematic analysis in psychology,https://doi.org/10.1191/1478088706qp063oa,2006,160977,https://openalex.org/W1979290264
-3600,General Health Professions,Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement,https://doi.org/10.1136/bmj.b2535,2009,81874,https://openalex.org/W2156098321
-3600,General Health Professions,Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement,https://doi.org/10.1371/journal.pmed.1000097,2009,60254,https://openalex.org/W4294215472
-2739,"Public Health, Environmental and Occupational Health",Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement,https://doi.org/10.1371/journal.pmed.1000097,2009,60254,https://openalex.org/W4294215472
-2739,"Public Health, Environmental and Occupational Health",Cochrane Handbook for Systematic Reviews of Interventions,https://doi.org/10.1002/9780470712184,2008,24790,https://openalex.org/W1598602811
-2739,"Public Health, Environmental and Occupational Health",CONSORT 2010 Statement: updated guidelines for reporting parallel group randomised trials,https://doi.org/10.1186/1741-7015-8-18,2010,13237,https://openalex.org/W2108696783
-2740,Pulmonary and Respiratory Medicine,New response evaluation criteria in solid tumours: Revised RECIST guideline (version 1.1),https://doi.org/10.1016/j.ejca.2008.10.026,2008,27873,https://openalex.org/W2019607817
-2740,Pulmonary and Respiratory Medicine,"Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease",https://doi.org/10.1164/rccm.201204-0596pp,2012,15998,https://openalex.org/W2127951128
-2740,Pulmonary and Respiratory Medicine,Surviving Sepsis Campaign,https://doi.org/10.1097/ccm.0b013e31827e83af,2013,9621,https://openalex.org/W3023757607
-2002,Economics and Econometrics,PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation,https://doi.org/10.7326/m18-0850,2018,33210,https://openalex.org/W2891378911
-2002,Economics and Econometrics,The Cochrane Collaboration's tool for assessing risk of bias in randomised trials,https://doi.org/10.1136/bmj.d5928,2011,32221,https://openalex.org/W2098923148
-2002,Economics and Econometrics,RoB 2: a revised tool for assessing risk of bias in randomised trials,https://doi.org/10.1136/bmj.l4898,2019,25597,https://openalex.org/W2970684805
-2204,Biomedical Engineering,Particle swarm optimization,https://doi.org/10.1007/s11721-007-0002-0,2007,21175,https://openalex.org/W2543580944
-2204,Biomedical Engineering,Computer Simulation of Liquids,https://doi.org/10.1093/oso/9780198803195.001.0001,2017,20627,https://openalex.org/W2041902442
-2204,Biomedical Engineering,"Physisorption of gases, with special reference to the evaluation of surface area and pore size distribution (IUPAC Technical Report)",https://doi.org/10.1515/pac-2014-1117,2015,17641,https://openalex.org/W843007777
+1312,Molecular Biology,The Sequence Alignment/Map format and SAMtools,https://doi.org/10.1093/bioinformatics/btp352,2009,63175,https://openalex.org/W2108234281
+1312,Molecular Biology,Fast and accurate short read alignment with Burrows–Wheeler transform,https://doi.org/10.1093/bioinformatics/btp324,2009,59522,https://openalex.org/W2103441770
+1312,Molecular Biology,Highly accurate protein structure prediction with AlphaFold,https://doi.org/10.1038/s41586-021-03819-2,2021,39503,https://openalex.org/W3177828909
+1312,Molecular Biology,PLINK: A Tool Set for Whole-Genome Association and Population-Based Linkage Analyses,https://doi.org/10.1086/519795,2007,34148,https://openalex.org/W2161633633
+1312,Molecular Biology,Clustal W and Clustal X version 2.0,https://doi.org/10.1093/bioinformatics/btm404,2007,28472,https://openalex.org/W2137015675
+1312,Molecular Biology,Features and development of <i>Coot</i>,https://doi.org/10.1107/s0907444910007493,2010,28103,https://openalex.org/W2124026197
+1312,Molecular Biology,<i>PHENIX</i>: a comprehensive Python-based system for macromolecular structure solution,https://doi.org/10.1107/s0907444909052925,2010,23707,https://openalex.org/W2180229411
+1312,Molecular Biology,"Introducing mothur: Open-Source, Platform-Independent, Community-Supported Software for Describing and Comparing Microbial Communities",https://doi.org/10.1128/aem.01541-09,2009,21009,https://openalex.org/W2108718991
+1312,Molecular Biology,<i>Phaser</i>crystallographic software,https://doi.org/10.1107/s0021889807021206,2007,20271,https://openalex.org/W2163341755
+1312,Molecular Biology,A global reference for human genetic variation,https://doi.org/10.1038/nature15393,2015,18697,https://openalex.org/W2104549677
+3312,Sociology and Political Science,Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement,https://doi.org/10.1136/bmj.b2535,2009,81934,https://openalex.org/W2156098321
+3312,Sociology and Political Science,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1136/bmj.n71,2021,76049,https://openalex.org/W3118615836
+3312,Sociology and Political Science,PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation,https://doi.org/10.7326/m18-0850,2018,33616,https://openalex.org/W2891378911
+3312,Sociology and Political Science,RoB 2: a revised tool for assessing risk of bias in randomised trials,https://doi.org/10.1136/bmj.l4898,2019,25866,https://openalex.org/W2970684805
+3312,Sociology and Political Science,Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement,https://doi.org/10.1186/2046-4053-4-1,2015,24669,https://openalex.org/W2161374186
+3312,Sociology and Political Science,The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) Statement: Guidelines for Reporting Observational Studies,https://doi.org/10.1371/journal.pmed.0040296,2007,20860,https://openalex.org/W2599076725
+3312,Sociology and Political Science,The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate healthcare interventions: explanation and elaboration,https://doi.org/10.1136/bmj.b2700,2009,16825,https://openalex.org/W2134833483
+3312,Sociology and Political Science,The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) Statement: Guidelines for Reporting Observational Studies,https://doi.org/10.7326/0003-4819-147-8-200710160-00010,2007,16164,https://openalex.org/W2059796825
+3312,Sociology and Political Science,The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies,https://doi.org/10.1016/s0140-6736(07)61602-x,2007,16130,https://openalex.org/W2275737843
+3312,Sociology and Political Science,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1186/s13643-021-01626-4,2021,12400,https://openalex.org/W3144543375
+2746,Surgery,The PRISMA Statement for Reporting Systematic Reviews and Meta-Analyses of Studies That Evaluate Health Care Interventions: Explanation and Elaboration,https://doi.org/10.1371/journal.pmed.1000100,2009,27271,https://openalex.org/W3022903699
+2746,Surgery,The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3),https://doi.org/10.1001/jama.2016.0287,2016,25385,https://openalex.org/W2280404143
+2746,Surgery,The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate health care interventions: explanation and elaboration,https://doi.org/10.1016/j.jclinepi.2009.06.006,2009,10078,https://openalex.org/W2576440140
+2746,Surgery,COVID-19: consider cytokine storm syndromes and immunosuppression,https://doi.org/10.1016/s0140-6736(20)30628-0,2020,9992,https://openalex.org/W3012421327
+2746,Surgery,Canagliflozin and Cardiovascular and Renal Events in Type 2 Diabetes,https://doi.org/10.1056/nejmoa1611925,2017,7379,https://openalex.org/W2626446274
+2746,Surgery,General Cardiovascular Risk Profile for Use in Primary Care,https://doi.org/10.1161/circulationaha.107.699579,2008,7053,https://openalex.org/W2148092884
+2746,Surgery,Liraglutide and Cardiovascular Outcomes in Type 2 Diabetes,https://doi.org/10.1056/nejmoa1603827,2016,6748,https://openalex.org/W2425644022
+2746,Surgery,Classification of acute pancreatitis—2012: revision of the Atlanta classification and definitions by international consensus,https://doi.org/10.1136/gutjnl-2012-302779,2012,6531,https://openalex.org/W2145758369
+2746,Surgery,Rosuvastatin to Prevent Vascular Events in Men and Women with Elevated C-Reactive Protein,https://doi.org/10.1056/nejmoa0807646,2008,6443,https://openalex.org/W2137983259
+2746,Surgery,Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction,https://doi.org/10.1056/nejmoa1911303,2019,6229,https://openalex.org/W2974260792
+2208,Electrical and Electronic Engineering,The rise of graphene,https://doi.org/10.1038/nmat1849,2007,38572,https://openalex.org/W2014935324
+2208,Electrical and Electronic Engineering,The electronic properties of graphene,https://doi.org/10.1103/revmodphys.81.109,2009,23807,https://openalex.org/W2105685140
+2208,Electrical and Electronic Engineering,Efficient Hybrid Solar Cells Based on Meso-Superstructured Organometal Halide Perovskites,https://doi.org/10.1126/science.1228604,2012,10347,https://openalex.org/W1965464747
+2208,Electrical and Electronic Engineering,Electron-Hole Diffusion Lengths Exceeding 1 Micrometer in an Organometal Trihalide Perovskite Absorber,https://doi.org/10.1126/science.1243982,2013,9977,https://openalex.org/W2073726416
+2208,Electrical and Electronic Engineering,Li–O2 and Li–S batteries with high energy storage,https://doi.org/10.1038/nmat3191,2011,9160,https://openalex.org/W2151207643
+2208,Electrical and Electronic Engineering,A roadmap for graphene,https://doi.org/10.1038/nature11458,2012,8927,https://openalex.org/W2163980958
+2208,Electrical and Electronic Engineering,Fine Structure Constant Defines Visual Transparency of Graphene,https://doi.org/10.1126/science.1156965,2008,8802,https://openalex.org/W2123510746
+2208,Electrical and Electronic Engineering,Nanostructured materials for advanced energy conversion and storage devices,https://doi.org/10.1038/nmat1368,2005,8664,https://openalex.org/W2142841029
+2208,Electrical and Electronic Engineering,"Nanocrystals of Cesium Lead Halide Perovskites (CsPbX<sub>3</sub>, X = Cl, Br, and I): Novel Optoelectronic Materials Showing Bright Emission with Wide Color Gamut",https://doi.org/10.1021/nl5048779,2015,8495,https://openalex.org/W1963721320
+2208,Electrical and Electronic Engineering,Detection of individual gas molecules adsorbed on graphene,https://doi.org/10.1038/nmat1967,2007,7825,https://openalex.org/W2088321686
+2713,Epidemiology,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1136/bmj.n71,2021,76049,https://openalex.org/W3118615836
+2713,Epidemiology,"Cancer incidence and mortality worldwide: Sources, methods and major patterns in GLOBOCAN 2012",https://doi.org/10.1002/ijc.29210,2014,28637,https://openalex.org/W1757407923
+2713,Epidemiology,The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3),https://doi.org/10.1001/jama.2016.0287,2016,25385,https://openalex.org/W2280404143
+2713,Epidemiology,Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement,https://doi.org/10.1186/2046-4053-4-1,2015,24669,https://openalex.org/W2161374186
+2713,Epidemiology,Estimates of worldwide burden of cancer in 2008: GLOBOCAN 2008,https://doi.org/10.1002/ijc.25516,2010,21298,https://openalex.org/W1981989535
+2713,Epidemiology,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1186/s13643-021-01626-4,2021,12400,https://openalex.org/W3144543375
+2713,Epidemiology,The PRISMA 2020 statement: An updated guideline for reporting systematic reviews,https://doi.org/10.1016/j.ijsu.2021.105906,2021,10606,https://openalex.org/W3146142859
+2713,Epidemiology,Surviving Sepsis Campaign,https://doi.org/10.1097/ccm.0b013e31827e83af,2013,9629,https://openalex.org/W3023757607
+2713,Epidemiology,PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews,https://doi.org/10.1136/bmj.n160,2021,9394,https://openalex.org/W3123893780
+2713,Epidemiology,The metabolic syndrome—a new worldwide definition,https://doi.org/10.1016/s0140-6736(05)67402-8,2005,9124,https://openalex.org/W2107732097
+3600,General Health Professions,Using thematic analysis in psychology,https://doi.org/10.1191/1478088706qp063oa,2006,161992,https://openalex.org/W1979290264
+3600,General Health Professions,Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement,https://doi.org/10.1136/bmj.b2535,2009,81934,https://openalex.org/W2156098321
+3600,General Health Professions,Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement,https://doi.org/10.1371/journal.pmed.1000097,2009,60417,https://openalex.org/W4294215472
+3600,General Health Professions,Preferred reporting items for systematic reviews and meta-analyses: the PRISMA Statement.,,2009,45119,https://openalex.org/W2991792334
+3600,General Health Professions,The Cochrane Collaboration's tool for assessing risk of bias in randomised trials,https://doi.org/10.1136/bmj.d5928,2011,32317,https://openalex.org/W2098923148
+3600,General Health Professions,Scoping studies: towards a methodological framework,https://doi.org/10.1080/1364557032000119616,2005,31246,https://openalex.org/W2075950485
+3600,General Health Professions,The PRISMA Statement for Reporting Systematic Reviews and Meta-Analyses of Studies That Evaluate Health Care Interventions: Explanation and Elaboration,https://doi.org/10.1371/journal.pmed.1000100,2009,27271,https://openalex.org/W3022903699
+3600,General Health Professions,Cochrane Handbook for Systematic Reviews of Interventions,https://doi.org/10.1002/9780470712184,2008,24811,https://openalex.org/W1598602811
+3600,General Health Professions,Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement,https://doi.org/10.1016/j.jclinepi.2009.06.005,2009,19487,https://openalex.org/W2468996569
+3600,General Health Professions,ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions,https://doi.org/10.1136/bmj.i4919,2016,16563,https://openalex.org/W2531269403
+2739,"Public Health, Environmental and Occupational Health",Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement,https://doi.org/10.1371/journal.pmed.1000097,2009,60417,https://openalex.org/W4294215472
+2739,"Public Health, Environmental and Occupational Health",Cochrane Handbook for Systematic Reviews of Interventions,https://doi.org/10.1002/9780470712184,2008,24811,https://openalex.org/W1598602811
+2739,"Public Health, Environmental and Occupational Health",CONSORT 2010 Statement: updated guidelines for reporting parallel group randomised trials,https://doi.org/10.1186/1741-7015-8-18,2010,13254,https://openalex.org/W2108696783
+2739,"Public Health, Environmental and Occupational Health",Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015: elaboration and explanation,https://doi.org/10.1136/bmj.g7647,2015,12355,https://openalex.org/W2169205464
+2739,"Public Health, Environmental and Occupational Health","A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010",https://doi.org/10.1016/s0140-6736(12)61766-8,2012,11843,https://openalex.org/W2110052313
+2739,"Public Health, Environmental and Occupational Health","Global, regional, and national prevalence of overweight and obesity in children and adults during 1980–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(14)60460-8,2014,11837,https://openalex.org/W2163710303
+2739,"Public Health, Environmental and Occupational Health",The global distribution and burden of dengue,https://doi.org/10.1038/nature12060,2013,9659,https://openalex.org/W2131222241
+2739,"Public Health, Environmental and Occupational Health",Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems,https://doi.org/10.1016/s0140-6736(18)31788-4,2019,9538,https://openalex.org/W2909678677
+2739,"Public Health, Environmental and Occupational Health",World Health Organization 2020 guidelines on physical activity and sedentary behaviour,https://doi.org/10.1136/bjsports-2020-102955,2020,9291,https://openalex.org/W3108106255
+2739,"Public Health, Environmental and Occupational Health",Introduction to Meta‐Analysis,https://doi.org/10.1002/9781119558378,2021,9219,https://openalex.org/W71228264
+2740,Pulmonary and Respiratory Medicine,New response evaluation criteria in solid tumours: Revised RECIST guideline (version 1.1),https://doi.org/10.1016/j.ejca.2008.10.026,2008,27977,https://openalex.org/W2019607817
+2740,Pulmonary and Respiratory Medicine,"Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease",https://doi.org/10.1164/rccm.201204-0596pp,2012,16007,https://openalex.org/W2127951128
+2740,Pulmonary and Respiratory Medicine,Pembrolizumab versus Chemotherapy for PD-L1–Positive Non–Small-Cell Lung Cancer,https://doi.org/10.1056/nejmoa1606774,2016,9640,https://openalex.org/W2527905628
+2740,Pulmonary and Respiratory Medicine,Surviving Sepsis Campaign,https://doi.org/10.1097/ccm.0b013e31827e83af,2013,9629,https://openalex.org/W3023757607
+2740,Pulmonary and Respiratory Medicine,Acute Respiratory Distress Syndrome,https://doi.org/10.1001/jama.2012.5669,2012,8643,https://openalex.org/W1803784511
+2740,Pulmonary and Respiratory Medicine,Gefitinib or Carboplatin–Paclitaxel in Pulmonary Adenocarcinoma,https://doi.org/10.1056/nejmoa0810699,2009,8109,https://openalex.org/W2166084034
+2740,Pulmonary and Respiratory Medicine,Dexamethasone in Hospitalized Patients with Covid-19.,https://doi.org/10.17863/cam.57006,2020,8025,https://openalex.org/W4210642183
+2740,Pulmonary and Respiratory Medicine,"Surviving Sepsis Campaign: International Guidelines for Management of Severe Sepsis and Septic Shock, 2012",https://doi.org/10.1007/s00134-012-2769-8,2013,7252,https://openalex.org/W2442246762
+2740,Pulmonary and Respiratory Medicine,An Official ATS/ERS/JRS/ALAT Statement: Idiopathic Pulmonary Fibrosis: Evidence-based Guidelines for Diagnosis and Management,https://doi.org/10.1164/rccm.2009-040gl,2011,7051,https://openalex.org/W2167383172
+2740,Pulmonary and Respiratory Medicine,Geant4 developments and applications,https://doi.org/10.1109/tns.2006.869826,2006,6553,https://openalex.org/W2128881154
+2002,Economics and Econometrics,PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation,https://doi.org/10.7326/m18-0850,2018,33616,https://openalex.org/W2891378911
+2002,Economics and Econometrics,The Cochrane Collaboration's tool for assessing risk of bias in randomised trials,https://doi.org/10.1136/bmj.d5928,2011,32317,https://openalex.org/W2098923148
+2002,Economics and Econometrics,RoB 2: a revised tool for assessing risk of bias in randomised trials,https://doi.org/10.1136/bmj.l4898,2019,25866,https://openalex.org/W2970684805
+2002,Economics and Econometrics,Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement,https://doi.org/10.1016/j.jclinepi.2009.06.005,2009,19487,https://openalex.org/W2468996569
+2002,Economics and Econometrics,The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate healthcare interventions: explanation and elaboration,https://doi.org/10.1136/bmj.b2700,2009,16825,https://openalex.org/W2134833483
+2002,Economics and Econometrics,ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions,https://doi.org/10.1136/bmj.i4919,2016,16563,https://openalex.org/W2531269403
+2002,Economics and Econometrics,Mastering the game of Go with deep neural networks and tree search,https://doi.org/10.1038/nature16961,2016,15204,https://openalex.org/W2257979135
+2002,Economics and Econometrics,QUADAS-2: A Revised Tool for the Quality Assessment of Diagnostic Accuracy Studies,https://doi.org/10.7326/0003-4819-155-8-201110180-00009,2011,12894,https://openalex.org/W2107638293
+2002,Economics and Econometrics,A simple panel unit root test in the presence of cross‐section dependence,https://doi.org/10.1002/jae.951,2007,10960,https://openalex.org/W3124091918
+2002,Economics and Econometrics,The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate health care interventions: explanation and elaboration,https://doi.org/10.1016/j.jclinepi.2009.06.006,2009,10078,https://openalex.org/W2576440140
+2204,Biomedical Engineering,Particle swarm optimization,https://doi.org/10.1007/s11721-007-0002-0,2007,21187,https://openalex.org/W2543580944
+2204,Biomedical Engineering,Computer Simulation of Liquids,https://doi.org/10.1093/oso/9780198803195.001.0001,2017,20639,https://openalex.org/W2041902442
+2204,Biomedical Engineering,"Physisorption of gases, with special reference to the evaluation of surface area and pore size distribution (IUPAC Technical Report)",https://doi.org/10.1515/pac-2014-1117,2015,17758,https://openalex.org/W843007777
+2204,Biomedical Engineering,Graphene: Status and Prospects,https://doi.org/10.1126/science.1158877,2009,13587,https://openalex.org/W2078792724
+2204,Biomedical Engineering,Large-scale pattern growth of graphene films for stretchable transparent electrodes,https://doi.org/10.1038/nature07719,2009,10336,https://openalex.org/W2099779584
+2204,Biomedical Engineering,Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria,https://doi.org/10.1016/s1474-4422(17)30470-2,2017,7310,https://openalex.org/W2777074421
+2204,Biomedical Engineering,High-yield production of graphene by liquid-phase exfoliation of graphite,https://doi.org/10.1038/nnano.2008.215,2008,6074,https://openalex.org/W2125612486
+2204,Biomedical Engineering,The Path Forward for Biofuels and Biomaterials,https://doi.org/10.1126/science.1114736,2006,5561,https://openalex.org/W2105503244
+2204,Biomedical Engineering,The mathematical Theory of Plasticity,https://doi.org/10.1002/9780470694626.ch6,2008,4866,https://openalex.org/W1574793313
+2204,Biomedical Engineering,A New Metaheuristic Bat-Inspired Algorithm,https://doi.org/10.1007/978-3-642-12538-6_6,2010,4640,https://openalex.org/W2963103847

@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-3312,Sociology and Political Science,Global prevalence of dementia: a Delphi consensus study,https://doi.org/10.1016/s0140-6736(05)67889-0,2005,5277,https://openalex.org/W2014886338
-3312,Sociology and Political Science,Preexposure Chemoprophylaxis for HIV Prevention in Men Who Have Sex with Men,https://doi.org/10.1056/nejmoa1011205,2010,4984,https://openalex.org/W2103920597
+3312,Sociology and Political Science,Global prevalence of dementia: a Delphi consensus study,https://doi.org/10.1016/s0140-6736(05)67889-0,2005,5281,https://openalex.org/W2014886338
+3312,Sociology and Political Science,Preexposure Chemoprophylaxis for HIV Prevention in Men Who Have Sex with Men,https://doi.org/10.1056/nejmoa1011205,2010,4990,https://openalex.org/W2103920597
 3312,Sociology and Political Science,Desenvolvimento como liberdade,https://doi.org/10.5433/2178-8189.2013v17n2p231,2013,3497,https://openalex.org/W1988078420
-3304,Education,Revisão integrativa: método de pesquisa para a incorporação de evidências na saúde e na enfermagem,https://doi.org/10.1590/s0104-07072008000400018,2008,3995,https://openalex.org/W2086129194
-3304,Education,Integrative review: what is it? How to do it?,https://doi.org/10.1590/s1679-45082010rw1134,2010,3362,https://openalex.org/W205310263
-3304,Education,Global Prevalence of Autism and Other Pervasive Developmental Disorders,https://doi.org/10.1002/aur.239,2012,2533,https://openalex.org/W2098251401
-1110,Plant Science,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4839,https://openalex.org/W2110375946
-1110,Plant Science,TRY – a global database of plant traits,https://doi.org/10.1111/j.1365-2486.2011.02451.x,2011,2593,https://openalex.org/W2162584119
-1110,Plant Science,Global assessment of nitrogen deposition effects on terrestrial plant diversity: a synthesis,https://doi.org/10.1890/08-1140.1,2010,2591,https://openalex.org/W2112148277
-3600,General Health Professions,Guidance for conducting systematic scoping reviews,https://doi.org/10.1097/xeb.0000000000000050,2015,6713,https://openalex.org/W2105321265
-3600,General Health Professions,The global prevalence of dementia: A systematic review and metaanalysis,https://doi.org/10.1016/j.jalz.2012.11.007,2013,4756,https://openalex.org/W2149450071
-3600,General Health Professions,Revisão integrativa: método de pesquisa para a incorporação de evidências na saúde e na enfermagem,https://doi.org/10.1590/s0104-07072008000400018,2008,3995,https://openalex.org/W2086129194
-1312,Molecular Biology,Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines,https://doi.org/10.1080/20013078.2018.1535750,2018,10297,https://openalex.org/W2900756811
-1312,Molecular Biology,P<scp>ACKMOL</scp>: A package for building initial configurations for molecular dynamics simulations,https://doi.org/10.1002/jcc.21224,2009,8382,https://openalex.org/W2003949305
-1312,Molecular Biology,Antiinflammatory Therapy with Canakinumab for Atherosclerotic Disease,https://doi.org/10.1056/nejmoa1707914,2017,8381,https://openalex.org/W2748400555
-2739,"Public Health, Environmental and Occupational Health","Global, regional, and national prevalence of overweight and obesity in children and adults during 1980–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(14)60460-8,2014,11822,https://openalex.org/W2163710303
-2739,"Public Health, Environmental and Occupational Health",Maternal and child undernutrition and overweight in low-income and middle-income countries,https://doi.org/10.1016/s0140-6736(13)60937-x,2013,7959,https://openalex.org/W2161643046
-2739,"Public Health, Environmental and Occupational Health",An Official ATS/ERS/JRS/ALAT Statement: Idiopathic Pulmonary Fibrosis: Evidence-based Guidelines for Diagnosis and Management,https://doi.org/10.1164/rccm.2009-040gl,2011,7038,https://openalex.org/W2167383172
+3312,Sociology and Political Science,Developing a framework for responsible innovation,https://doi.org/10.1016/j.respol.2013.05.008,2013,2722,https://openalex.org/W2100967449
+3312,Sociology and Political Science,Novel ecosystems: theoretical and management aspects of the new ecological world order,https://doi.org/10.1111/j.1466-822x.2006.00212.x,2006,2030,https://openalex.org/W2124696785
+3312,Sociology and Political Science,"Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission",https://doi.org/10.1016/s0140-6736(24)01296-0,2024,1809,https://openalex.org/W4401164724
+3312,Sociology and Political Science,Contrasting Computational Models of Mate Preference Integration Across 45 Countries,https://doi.org/10.1038/s41598-019-52748-8,2019,1773,https://openalex.org/W2983201012
+3312,Sociology and Political Science,Aprendizagem significativa: a teoria de David Ausubel,https://doi.org/10.5335/rep.v25i2.8180,2018,1651,https://openalex.org/W2805706548
+3312,Sociology and Political Science,The Prevalence and Correlates of Binge Eating Disorder in the World Health Organization World Mental Health Surveys,https://doi.org/10.1016/j.biopsych.2012.11.020,2013,1312,https://openalex.org/W1978365558
+3312,Sociology and Political Science,PROFESSORES: IMAGENS DO FUTURO PRESENTE,https://doi.org/10.13058/raep.2014.v15n2.40,2014,1303,https://openalex.org/W1474158200
+3304,Education,Revisão integrativa: método de pesquisa para a incorporação de evidências na saúde e na enfermagem,https://doi.org/10.1590/s0104-07072008000400018,2008,4023,https://openalex.org/W2086129194
+3304,Education,Integrative review: what is it? How to do it?,https://doi.org/10.1590/s1679-45082010rw1134,2010,3378,https://openalex.org/W205310263
+3304,Education,Global Prevalence of Autism and Other Pervasive Developmental Disorders,https://doi.org/10.1002/aur.239,2012,2538,https://openalex.org/W2098251401
+3304,Education,O desafio do conhecimento: pesquisa qualitativa em saúde,https://doi.org/10.1590/s1413-81232007000400030,2007,2370,https://openalex.org/W2082203016
+3304,Education,Policies That Support Professional Development in an Era of Reform,https://doi.org/10.1177/003172171109200622,2011,2041,https://openalex.org/W1976657177
+3304,Education,Aprendizagem significativa: a teoria de David Ausubel,https://doi.org/10.5335/rep.v25i2.8180,2018,1651,https://openalex.org/W2805706548
+3304,Education,Metodologia de pesquisa,,2009,1527,https://openalex.org/W1925793024
+3304,Education,Professores do Brasil: impasses e desafios,https://doi.org/10.1590/s0100-15742010000100018,2010,1440,https://openalex.org/W2078286778
+3304,Education,PROFESSORES: IMAGENS DO FUTURO PRESENTE,https://doi.org/10.13058/raep.2014.v15n2.40,2014,1303,https://openalex.org/W1474158200
+3304,Education,Validade de conteúdo nos processos de construção e adaptação de instrumentos de medidas,https://doi.org/10.1590/s1413-81232011000800006,2011,1179,https://openalex.org/W2044873844
+1110,Plant Science,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4851,https://openalex.org/W2110375946
+1110,Plant Science,Global assessment of nitrogen deposition effects on terrestrial plant diversity: a synthesis,https://doi.org/10.1890/08-1140.1,2010,2596,https://openalex.org/W2112148277
+1110,Plant Science,TRY – a global database of plant traits,https://doi.org/10.1111/j.1365-2486.2011.02451.x,2011,2595,https://openalex.org/W2162584119
+1110,Plant Science,"The rhizosphere microbiome: significance of plant beneficial, plant pathogenic, and human pathogenic microorganisms",https://doi.org/10.1111/1574-6976.12028,2013,2572,https://openalex.org/W2043103313
+1110,Plant Science,Effects of textile dyes on health and the environment and bioremediation potential of living organisms,https://doi.org/10.1016/j.biori.2019.09.001,2019,2470,https://openalex.org/W2980182901
+1110,Plant Science,"Plant biostimulants: Definition, concept, main categories and regulation",https://doi.org/10.1016/j.scienta.2015.09.021,2015,2408,https://openalex.org/W1886677716
+1110,Plant Science,Quantitative Genetics in Maize Breeding,https://doi.org/10.1007/978-1-4419-0766-0,2010,1949,https://openalex.org/W4230921330
+1110,Plant Science,Genome sequencing and analysis of the model grass Brachypodium distachyon,https://doi.org/10.1038/nature08747,2010,1933,https://openalex.org/W1972171731
+1110,Plant Science,TRY plant trait database – enhanced coverage and open access,https://doi.org/10.1111/gcb.14904,2019,1865,https://openalex.org/W2983606184
+1110,Plant Science,Global inputs of biological nitrogen fixation in agricultural systems,https://doi.org/10.1007/s11104-008-9668-3,2008,1660,https://openalex.org/W2120700991
+3600,General Health Professions,Guidance for conducting systematic scoping reviews,https://doi.org/10.1097/xeb.0000000000000050,2015,6757,https://openalex.org/W2105321265
+3600,General Health Professions,The global prevalence of dementia: A systematic review and metaanalysis,https://doi.org/10.1016/j.jalz.2012.11.007,2013,4759,https://openalex.org/W2149450071
+3600,General Health Professions,Revisão integrativa: método de pesquisa para a incorporação de evidências na saúde e na enfermagem,https://doi.org/10.1590/s0104-07072008000400018,2008,4023,https://openalex.org/W2086129194
+3600,General Health Professions,Maternal and child undernutrition: consequences for adult health and human capital,https://doi.org/10.1016/s0140-6736(07)61692-4,2008,3784,https://openalex.org/W2075623847
+3600,General Health Professions,Integrative review: what is it? How to do it?,https://doi.org/10.1590/s1679-45082010rw1134,2010,3378,https://openalex.org/W205310263
+3600,General Health Professions,Fair Allocation of Scarce Medical Resources in the Time of Covid-19,https://doi.org/10.1056/nejmsb2005114,2020,3153,https://openalex.org/W3012690896
+3600,General Health Professions,Child and adolescent mental health worldwide: evidence for action,https://doi.org/10.1016/s0140-6736(11)60827-1,2011,2357,https://openalex.org/W2016410988
+3600,General Health Professions,"The Brazilian health system: history, advances, and challenges",https://doi.org/10.1016/s0140-6736(11)60054-8,2011,2282,https://openalex.org/W1965673962
+3600,General Health Professions,The PICO strategy for the research question construction and evidence search,https://doi.org/10.1590/s0104-11692007000300023,2007,2187,https://openalex.org/W1994682895
+3600,General Health Professions,Effects of COVID-19 Home Confinement on Eating Behaviour and Physical Activity: Results of the ECLB-COVID19 International Online Survey,https://doi.org/10.3390/nu12061583,2020,2027,https://openalex.org/W3029840069
+1312,Molecular Biology,Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines,https://doi.org/10.1080/20013078.2018.1535750,2018,10328,https://openalex.org/W2900756811
+1312,Molecular Biology,P<scp>ACKMOL</scp>: A package for building initial configurations for molecular dynamics simulations,https://doi.org/10.1002/jcc.21224,2009,8443,https://openalex.org/W2003949305
+1312,Molecular Biology,Antiinflammatory Therapy with Canakinumab for Atherosclerotic Disease,https://doi.org/10.1056/nejmoa1707914,2017,8419,https://openalex.org/W2748400555
+1312,Molecular Biology,Enrichr: interactive and collaborative HTML5 gene list enrichment analysis tool,https://doi.org/10.1186/1471-2105-14-128,2013,7779,https://openalex.org/W2070050178
+1312,Molecular Biology,Linking Long-Term Dietary Patterns with Gut Microbial Enterotypes,https://doi.org/10.1126/science.1208344,2011,6312,https://openalex.org/W1968105193
+1312,Molecular Biology,Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes,https://doi.org/10.1056/nejmoa1607141,2016,5940,https://openalex.org/W2519510391
+1312,Molecular Biology,Response surface methodology (RSM) as a tool for optimization in analytical chemistry,https://doi.org/10.1016/j.talanta.2008.05.019,2008,5568,https://openalex.org/W2088376206
+1312,Molecular Biology,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4851,https://openalex.org/W2110375946
+1312,Molecular Biology,Cardiovascular and Renal Outcomes with Empagliflozin in Heart Failure,https://doi.org/10.1056/nejmoa2022190,2020,4550,https://openalex.org/W3081830235
+1312,Molecular Biology,TCGAbiolinks: an R/Bioconductor package for integrative analysis of TCGA data,https://doi.org/10.1093/nar/gkv1507,2015,4131,https://openalex.org/W2230320310
+2739,"Public Health, Environmental and Occupational Health","Global, regional, and national prevalence of overweight and obesity in children and adults during 1980–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(14)60460-8,2014,11837,https://openalex.org/W2163710303
+2739,"Public Health, Environmental and Occupational Health",Maternal and child undernutrition and overweight in low-income and middle-income countries,https://doi.org/10.1016/s0140-6736(13)60937-x,2013,7988,https://openalex.org/W2161643046
+2739,"Public Health, Environmental and Occupational Health",An Official ATS/ERS/JRS/ALAT Statement: Idiopathic Pulmonary Fibrosis: Evidence-based Guidelines for Diagnosis and Management,https://doi.org/10.1164/rccm.2009-040gl,2011,7051,https://openalex.org/W2167383172
+2739,"Public Health, Environmental and Occupational Health",Guidance for conducting systematic scoping reviews,https://doi.org/10.1097/xeb.0000000000000050,2015,6757,https://openalex.org/W2105321265
+2739,"Public Health, Environmental and Occupational Health",Linking Long-Term Dietary Patterns with Gut Microbial Enterotypes,https://doi.org/10.1126/science.1208344,2011,6312,https://openalex.org/W1968105193
+2739,"Public Health, Environmental and Occupational Health","Global physical activity levels: surveillance progress, pitfalls, and prospects",https://doi.org/10.1016/s0140-6736(12)60646-1,2012,5645,https://openalex.org/W2114538920
+2739,"Public Health, Environmental and Occupational Health",Correlates of physical activity: why are some people physically active and others not?,https://doi.org/10.1016/s0140-6736(12)60735-1,2012,3918,https://openalex.org/W2143696727
+2739,"Public Health, Environmental and Occupational Health",Annual Research Review: A meta‐analysis of the worldwide prevalence of mental disorders in children and adolescents,https://doi.org/10.1111/jcpp.12381,2015,3693,https://openalex.org/W2170219130
+2739,"Public Health, Environmental and Occupational Health",In situ immune response and mechanisms of cell damage in central nervous system of fatal cases microcephaly by Zika virus,https://doi.org/10.1038/s41598-017-17765-5,2018,3488,https://openalex.org/W2782327081
+2739,"Public Health, Environmental and Occupational Health","Global Surgery 2030: evidence and solutions for achieving health, welfare, and economic development",https://doi.org/10.1016/s0140-6736(15)60160-x,2015,3440,https://openalex.org/W2043861297
 2308,"Management, Monitoring, Policy and Law",Desenvolvimento como liberdade,https://doi.org/10.5433/2178-8189.2013v17n2p231,2013,3497,https://openalex.org/W1988078420
-2308,"Management, Monitoring, Policy and Law",The IPBES Conceptual Framework — connecting nature and people,https://doi.org/10.1016/j.cosust.2014.11.002,2014,2413,https://openalex.org/W2097686432
-2308,"Management, Monitoring, Policy and Law",Global Biodiversity Conservation Priorities,https://doi.org/10.1126/science.1127609,2006,2276,https://openalex.org/W2064270042
-1802,Information Systems and Management,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.1038/s41592-019-0686-2,2020,32755,https://openalex.org/W3003257820
-1802,Information Systems and Management,The FAIR Guiding Principles for scientific data management and stewardship,https://doi.org/10.1038/sdata.2016.18,2016,15791,https://openalex.org/W2302501749
+2308,"Management, Monitoring, Policy and Law",The IPBES Conceptual Framework — connecting nature and people,https://doi.org/10.1016/j.cosust.2014.11.002,2014,2431,https://openalex.org/W2097686432
+2308,"Management, Monitoring, Policy and Law",Global Biodiversity Conservation Priorities,https://doi.org/10.1126/science.1127609,2006,2285,https://openalex.org/W2064270042
+2308,"Management, Monitoring, Policy and Law",Ideias para adiar o fim do mundo,https://doi.org/10.14295/remea.v38i2.12761,2021,1725,https://openalex.org/W3194591033
+2308,"Management, Monitoring, Policy and Law",O mito moderno da natureza intocada,https://doi.org/10.20873/rtg.v10n20p273-277,2021,1288,https://openalex.org/W3158162711
+2308,"Management, Monitoring, Policy and Law",SoilGrids1km — Global Soil Information Based on Automated Mapping,https://doi.org/10.1371/journal.pone.0105992,2014,1252,https://openalex.org/W2130560194
+2308,"Management, Monitoring, Policy and Law","Deforestation in Brazilian Amazonia: History, Rates, and Consequences",https://doi.org/10.1111/j.1523-1739.2005.00697.x,2005,1205,https://openalex.org/W2002266515
+2308,"Management, Monitoring, Policy and Law",Averting biodiversity collapse in tropical forest protected areas,https://doi.org/10.1038/nature11318,2012,1160,https://openalex.org/W2098816950
+2308,"Management, Monitoring, Policy and Law",Contabilidade de Custos,https://doi.org/10.23925/cafi.v5i1.57651,2022,1146,https://openalex.org/W4293236393
+2308,"Management, Monitoring, Policy and Law",Combatting global grassland degradation,https://doi.org/10.1038/s43017-021-00207-2,2021,1125,https://openalex.org/W3198537305
+1802,Information Systems and Management,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.1038/s41592-019-0686-2,2020,32978,https://openalex.org/W3003257820
+1802,Information Systems and Management,The FAIR Guiding Principles for scientific data management and stewardship,https://doi.org/10.1038/sdata.2016.18,2016,15866,https://openalex.org/W2302501749
 1802,Information Systems and Management,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.17863/cam.64134,2019,11500,https://openalex.org/W3103145119
+1802,Information Systems and Management,"Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",https://doi.org/10.1016/j.ijinfomgt.2022.102542,2022,2285,https://openalex.org/W4285585446
+1802,Information Systems and Management,Bioconda: sustainable and comprehensive software distribution for the life sciences,https://doi.org/10.1038/s41592-018-0046-7,2018,1651,https://openalex.org/W2765745983
+1802,Information Systems and Management,Metodologia de pesquisa,,2009,1527,https://openalex.org/W1925793024
+1802,Information Systems and Management,"Yin, Robert K. Estudo de caso - Planejamento e metodos. Porto Alegre, Bookman, 2005",,2008,1455,https://openalex.org/W1270954905
+1802,Information Systems and Management,Validade de conteúdo nos processos de construção e adaptação de instrumentos de medidas,https://doi.org/10.1590/s1413-81232011000800006,2011,1179,https://openalex.org/W2044873844
+1802,Information Systems and Management,Propriedades psicométricas na avaliação de instrumentos: avaliação da confiabilidade e da validade,https://doi.org/10.5123/s1679-49742017000300022,2017,1120,https://openalex.org/W3169216392
+1802,Information Systems and Management,Modelagem de Equações Estruturais com Utilização do Smartpls,https://doi.org/10.5585/remark.v13i2.2717,2014,1079,https://openalex.org/W1513295268
 1208,Literature and Literary Theory,O discurso: estrutura ou acontecimento,https://doi.org/10.22456/2594-8962.55535,2015,1362,https://openalex.org/W2289310891
 1208,Literature and Literary Theory,Base Nacional Comum Curricular,https://doi.org/10.15448/1984-7726.2022.1.43543,2022,1047,https://openalex.org/W4310988544
 1208,Literature and Literary Theory,Oxford Dictionary of National Biography,https://doi.org/10.5860/choice.52-0005,2014,935,https://openalex.org/W1607896740
+1208,Literature and Literary Theory,Bakhtin: conceitos-chave,https://doi.org/10.1590/s1413-24782007000100016,2007,693,https://openalex.org/W1987333705
+1208,Literature and Literary Theory,Pesquisa qualitativa: análise de discurso versus análise de conteúdo,https://doi.org/10.1590/s0104-07072006000400017,2006,437,https://openalex.org/W1977260013
+1208,Literature and Literary Theory,Memory practices in the sciences,https://doi.org/10.3395/reciis.v1i2.910,2007,437,https://openalex.org/W2128136878
+1208,Literature and Literary Theory,Os princípios das metodologias ativas de ensino: uma abordagem teórica,https://doi.org/10.15536/thema.14.2017.268-288.404,2017,367,https://openalex.org/W2590571270
+1208,Literature and Literary Theory,Is there science beyond English?,https://doi.org/10.1038/sj.embor.7400906,2007,340,https://openalex.org/W2058180517
+1208,Literature and Literary Theory,Análise textual discursiva: processo reconstrutivo de múltiplas faces,https://doi.org/10.1590/s1516-73132006000100009,2006,320,https://openalex.org/W2028923333
+1208,Literature and Literary Theory,Classroom discourse analysis: a functional perspective,https://doi.org/10.1590/s0102-44502006000100012,2006,315,https://openalex.org/W2027137571
 1211,Philosophy,Entre o passado e o futuro,https://doi.org/10.46391/alceu.v17.ed34.2017.137,2017,1811,https://openalex.org/W3096317602
 1211,Philosophy,Philosophy of Mathematics Education,https://doi.org/10.1142/9789811287152_0080,2024,880,https://openalex.org/W2067822693
 1211,Philosophy,Um corpo estranho: ensaios sobre sexualidade e teoria queer,https://doi.org/10.1590/s0104-40602007000200017,2007,874,https://openalex.org/W1987804055
+1211,Philosophy,Depression: causes and treatment,https://doi.org/10.1590/s0103-166x2013000200016,2013,837,https://openalex.org/W2093974670
+1211,Philosophy,"Innovations and changes in the ICD‐11 classification of mental, behavioural and neurodevelopmental disorders",https://doi.org/10.1002/wps.20611,2019,734,https://openalex.org/W2908444276
+1211,Philosophy,"World Federation of Societies of Biological Psychiatry (WFSBP) Guidelines for Biological Treatment of Schizophrenia, Part 1: Update 2012 on the acute treatment of schizophrenia and the management of treatment resistance",https://doi.org/10.3109/15622975.2012.696143,2012,610,https://openalex.org/W2157369969
+1211,Philosophy,Psychotic Experiences in the General Population,https://doi.org/10.1001/jamapsychiatry.2015.0575,2015,583,https://openalex.org/W1881223776
+1211,Philosophy,The Philosophical Investigations,https://doi.org/10.1057/9781137316592_6,2013,420,https://openalex.org/W2490041476
+1211,Philosophy,"World Federation of Societies of Biological Psychiatry (WFSBP) Guidelines for Biological Treatment of Schizophrenia, Part 2: Update 2012 on the long-term treatment of schizophrenia and management of antipsychotic-induced side effects",https://doi.org/10.3109/15622975.2012.739708,2012,405,https://openalex.org/W2107201157
+1211,Philosophy,Marking time: on the anthropology of the contemporary,https://doi.org/10.5860/choice.45-6874,2008,395,https://openalex.org/W1542349742

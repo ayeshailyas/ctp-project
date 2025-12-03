@@ -1,31 +1,101 @@
 subfield_id,subfield_name,title,doi,year,cited_by_count,id
-1312,Molecular Biology,g:Profiler: a web server for functional enrichment analysis and conversions of gene lists (2019 update),https://doi.org/10.1093/nar/gkz369,2019,5041,https://openalex.org/W2944545583
-1312,Molecular Biology,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4839,https://openalex.org/W2110375946
-1312,Molecular Biology,Secondary prevention of macrovascular events in patients with type 2 diabetes in the PROactive Study (PROspective pioglitAzone Clinical Trial In macroVascular Events): a randomised controlled trial,https://doi.org/10.1016/s0140-6736(05)67528-9,2005,4086,https://openalex.org/W2159969745
-2208,Electrical and Electronic Engineering,Grid-Connected Photovoltaic Systems: An Overview of Recent Research and Emerging PV Converter Technology,https://doi.org/10.1109/mie.2014.2376976,2015,1141,https://openalex.org/W2001356449
-2208,Electrical and Electronic Engineering,"Mn<sup>2+</sup>and Mn<sup>4+</sup>red phosphors: synthesis, luminescence and applications in WLEDs. A review",https://doi.org/10.1039/c8tc00251g,2018,659,https://openalex.org/W2788861441
-2208,Electrical and Electronic Engineering,Raman scattering in nanosized nickel oxide NiO,https://doi.org/10.1088/1742-6596/93/1/012039,2007,469,https://openalex.org/W2099846497
-3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2957,https://openalex.org/W2161411308
-3312,Sociology and Political Science,Novel ecosystems: theoretical and management aspects of the new ecological world order,https://doi.org/10.1111/j.1466-822x.2006.00212.x,2006,2029,https://openalex.org/W2124696785
+1312,Molecular Biology,g:Profiler: a web server for functional enrichment analysis and conversions of gene lists (2019 update),https://doi.org/10.1093/nar/gkz369,2019,5065,https://openalex.org/W2944545583
+1312,Molecular Biology,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4851,https://openalex.org/W2110375946
+1312,Molecular Biology,Secondary prevention of macrovascular events in patients with type 2 diabetes in the PROactive Study (PROspective pioglitAzone Clinical Trial In macroVascular Events): a randomised controlled trial,https://doi.org/10.1016/s0140-6736(05)67528-9,2005,4090,https://openalex.org/W2159969745
+1312,Molecular Biology,ClustVis: a web tool for visualizing clustering of multivariate data using Principal Component Analysis and heatmap,https://doi.org/10.1093/nar/gkv468,2015,3692,https://openalex.org/W1617495083
+1312,Molecular Biology,Discovery and refinement of loci associated with lipid levels,https://doi.org/10.1038/ng.2797,2013,3214,https://openalex.org/W2153118028
+1312,Molecular Biology,Enhancements and modifications of primer design program Primer3,https://doi.org/10.1093/bioinformatics/btm091,2007,2605,https://openalex.org/W2100303227
+1312,Molecular Biology,A higher-level phylogenetic classification of the Fungi,https://doi.org/10.1016/j.mycres.2007.03.004,2007,2352,https://openalex.org/W2140682278
+1312,Molecular Biology,Structure and function of the global topsoil microbiome,https://doi.org/10.1038/s41586-018-0386-6,2018,2238,https://openalex.org/W2887136521
+1312,Molecular Biology,Defining the role of common variation in the genomic and biological architecture of adult human height,https://doi.org/10.1038/ng.3097,2014,2050,https://openalex.org/W2139852278
+1312,Molecular Biology,Large-scale association analysis provides insights into the genetic architecture and pathophysiology of type 2 diabetes,https://doi.org/10.1038/ng.2383,2012,1975,https://openalex.org/W2045017910
+2208,Electrical and Electronic Engineering,Grid-Connected Photovoltaic Systems: An Overview of Recent Research and Emerging PV Converter Technology,https://doi.org/10.1109/mie.2014.2376976,2015,1142,https://openalex.org/W2001356449
+2208,Electrical and Electronic Engineering,"Mn<sup>2+</sup>and Mn<sup>4+</sup>red phosphors: synthesis, luminescence and applications in WLEDs. A review",https://doi.org/10.1039/c8tc00251g,2018,660,https://openalex.org/W2788861441
+2208,Electrical and Electronic Engineering,Raman scattering in nanosized nickel oxide NiO,https://doi.org/10.1088/1742-6596/93/1/012039,2007,471,https://openalex.org/W2099846497
+2208,Electrical and Electronic Engineering,MXene as a novel intercalation-type pseudocapacitive cathode and anode for capacitive deionization,https://doi.org/10.1039/c6ta07833h,2016,449,https://openalex.org/W2546971341
+2208,Electrical and Electronic Engineering,Accurate GSM Indoor Localization,https://doi.org/10.1007/11551201_9,2005,445,https://openalex.org/W2132110947
+2208,Electrical and Electronic Engineering,Electrocatalysis of oxygen reduction on heteroatom-doped nanocarbons and transition metal–nitrogen–carbon catalysts for alkaline membrane fuel cells,https://doi.org/10.1039/c7ta08690c,2017,417,https://openalex.org/W2771259291
+2208,Electrical and Electronic Engineering,"Droplet microfluidics for microbiology: techniques, applications and challenges",https://doi.org/10.1039/c6lc00367b,2016,407,https://openalex.org/W2345850129
+2208,Electrical and Electronic Engineering,50th anniversary of the Judd–Ofelt theory: An experimentalist's view of the formalism and its application,https://doi.org/10.1016/j.jlumin.2012.10.035,2012,404,https://openalex.org/W2094044837
+2208,Electrical and Electronic Engineering,Quasi-Z-Source-Based Isolated DC/DC Converters for Distributed Power Generation,https://doi.org/10.1109/tie.2009.2039460,2010,390,https://openalex.org/W2078108796
+2208,Electrical and Electronic Engineering,Cu<sub>2</sub>Zn<sub>1–<i>x</i></sub>Cd<i><sub>x</sub></i> Sn(Se<sub>1–<i>y</i></sub>S<i><sub>y</sub></i>)<sub>4</sub> solid solutions as absorber materials for solar cells,https://doi.org/10.1002/pssa.200776839,2008,356,https://openalex.org/W2088279415
+3312,Sociology and Political Science,Differences Between Tight and Loose Cultures: A 33-Nation Study,https://doi.org/10.1126/science.1197754,2011,2973,https://openalex.org/W2161411308
+3312,Sociology and Political Science,Novel ecosystems: theoretical and management aspects of the new ecological world order,https://doi.org/10.1111/j.1466-822x.2006.00212.x,2006,2030,https://openalex.org/W2124696785
 3312,Sociology and Political Science,Contrasting Computational Models of Mate Preference Integration Across 45 Countries,https://doi.org/10.1038/s41598-019-52748-8,2019,1773,https://openalex.org/W2983201012
-2505,Materials Chemistry,"Toxicity of nanosized and bulk ZnO, CuO and TiO2 to bacteria Vibrio fischeri and crustaceans Daphnia magna and Thamnocephalus platyurus",https://doi.org/10.1016/j.chemosphere.2007.11.047,2008,1497,https://openalex.org/W2093792053
+3312,Sociology and Political Science,Simultaneous Administration of the Rosenberg Self-Esteem Scale in 53 Nations: Exploring the Universal and Culture-Specific Features of Global Self-Esteem.,https://doi.org/10.1037/0022-3514.89.4.623,2005,1589,https://openalex.org/W2114304147
+3312,Sociology and Political Science,Intelligence and socioeconomic success: A meta-analytic review of longitudinal research,https://doi.org/10.1016/j.intell.2006.09.004,2006,946,https://openalex.org/W1968530262
+3312,Sociology and Political Science,Prevalence of pathological internet use among adolescents in <scp>E</scp>urope: demographic and social factors,https://doi.org/10.1111/j.1360-0443.2012.03946.x,2012,659,https://openalex.org/W2130475706
+3312,Sociology and Political Science,How are cities planning to respond to climate change? Assessment of local climate plans from 885 cities in the EU-28,https://doi.org/10.1016/j.jclepro.2018.03.220,2018,611,https://openalex.org/W2795308205
+3312,Sociology and Political Science,Polygenic prediction of educational attainment within and between families from genome-wide association analyses in 3 million individuals,https://doi.org/10.1038/s41588-022-01016-z,2022,608,https://openalex.org/W4220711675
+3312,Sociology and Political Science,Beyond the ‘east–west’ dichotomy: Global variation in cultural models of selfhood.,https://doi.org/10.1037/xge0000175,2016,525,https://openalex.org/W2474075425
+3312,Sociology and Political Science,Tourism and wellbeing,https://doi.org/10.1016/j.annals.2017.05.006,2017,488,https://openalex.org/W2624130542
+2505,Materials Chemistry,"Toxicity of nanosized and bulk ZnO, CuO and TiO2 to bacteria Vibrio fischeri and crustaceans Daphnia magna and Thamnocephalus platyurus",https://doi.org/10.1016/j.chemosphere.2007.11.047,2008,1498,https://openalex.org/W2093792053
 2505,Materials Chemistry,"Toxicity of nanoparticles of CuO, ZnO and TiO2 to microalgae Pseudokirchneriella subcapitata",https://doi.org/10.1016/j.scitotenv.2008.10.053,2008,1236,https://openalex.org/W2077349746
-2505,Materials Chemistry,"Toxicity of Ag, CuO and ZnO nanoparticles to selected environmentally relevant test organisms and mammalian cells in vitro: a critical review",https://doi.org/10.1007/s00204-013-1079-4,2013,1201,https://openalex.org/W2049136420
-1110,Plant Science,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4839,https://openalex.org/W2110375946
-1110,Plant Science,FUNGuild: An open annotation tool for parsing fungal community datasets by ecological guild,https://doi.org/10.1016/j.funeco.2015.06.006,2015,4031,https://openalex.org/W1005007408
-1110,Plant Science,Towards a unified paradigm for sequence‐based identification of fungi,https://doi.org/10.1111/mec.12481,2013,3483,https://openalex.org/W2160947363
-1702,Artificial Intelligence,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.1038/s41592-019-0686-2,2020,32755,https://openalex.org/W3003257820
-1702,Artificial Intelligence,Array programming with NumPy,https://doi.org/10.1038/s41586-020-2649-2,2020,18707,https://openalex.org/W3035965352
+2505,Materials Chemistry,"Toxicity of Ag, CuO and ZnO nanoparticles to selected environmentally relevant test organisms and mammalian cells in vitro: a critical review",https://doi.org/10.1007/s00204-013-1079-4,2013,1204,https://openalex.org/W2049136420
+2505,Materials Chemistry,Recent functional insights into the role of (p)ppGpp in bacterial physiology,https://doi.org/10.1038/nrmicro3448,2015,788,https://openalex.org/W2004252769
+2505,Materials Chemistry,From ecotoxicology to nanoecotoxicology,https://doi.org/10.1016/j.tox.2009.08.016,2009,760,https://openalex.org/W2076003978
+2505,Materials Chemistry,A review of methods for leakage management in pipe networks,https://doi.org/10.1080/15730621003610878,2010,677,https://openalex.org/W2048523204
+2505,Materials Chemistry,"Mn<sup>2+</sup>and Mn<sup>4+</sup>red phosphors: synthesis, luminescence and applications in WLEDs. A review",https://doi.org/10.1039/c8tc00251g,2018,660,https://openalex.org/W2788861441
+2505,Materials Chemistry,"Toxicity of nanoparticles of ZnO, CuO and TiO2 to yeast Saccharomyces cerevisiae",https://doi.org/10.1016/j.tiv.2009.05.015,2009,613,https://openalex.org/W2072252010
+2505,Materials Chemistry,Toxicity Mechanisms in Escherichia coli Vary for Silver Nanoparticles and Differ from Ionic Silver,https://doi.org/10.1021/nn4044047,2013,572,https://openalex.org/W1969181076
+2505,Materials Chemistry,"Size-Dependent Toxicity of Silver Nanoparticles to Bacteria, Yeast, Algae, Crustaceans and Mammalian Cells In Vitro",https://doi.org/10.1371/journal.pone.0102108,2014,556,https://openalex.org/W2100593340
+1110,Plant Science,Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <i>Fungi</i>,https://doi.org/10.1073/pnas.1117018109,2012,4851,https://openalex.org/W2110375946
+1110,Plant Science,FUNGuild: An open annotation tool for parsing fungal community datasets by ecological guild,https://doi.org/10.1016/j.funeco.2015.06.006,2015,4062,https://openalex.org/W1005007408
+1110,Plant Science,Towards a unified paradigm for sequence‐based identification of fungi,https://doi.org/10.1111/mec.12481,2013,3494,https://openalex.org/W2160947363
+1110,Plant Science,Global diversity and geography of soil fungi,https://doi.org/10.1126/science.1256688,2014,3384,https://openalex.org/W2145840889
+1110,Plant Science,The UNITE database for molecular identification of fungi: handling dark taxa and parallel taxonomic classifications,https://doi.org/10.1093/nar/gky1022,2018,3261,https://openalex.org/W2900030356
+1110,Plant Science,Causes and consequences of variation in leaf mass per area (LMA): a meta‐analysis,https://doi.org/10.1111/j.1469-8137.2009.02830.x,2009,2732,https://openalex.org/W2117329063
+1110,Plant Science,TRY – a global database of plant traits,https://doi.org/10.1111/j.1365-2486.2011.02451.x,2011,2595,https://openalex.org/W2162584119
+1110,Plant Science,A higher-level phylogenetic classification of the Fungi,https://doi.org/10.1016/j.mycres.2007.03.004,2007,2352,https://openalex.org/W2140682278
+1110,Plant Science,The UNITE database for molecular identification of fungi – recent updates and future perspectives,https://doi.org/10.1111/j.1469-8137.2009.03160.x,2010,1892,https://openalex.org/W2061177996
+1110,Plant Science,TRY plant trait database – enhanced coverage and open access,https://doi.org/10.1111/gcb.14904,2019,1865,https://openalex.org/W2983606184
+1702,Artificial Intelligence,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.1038/s41592-019-0686-2,2020,32978,https://openalex.org/W3003257820
+1702,Artificial Intelligence,Array programming with NumPy,https://doi.org/10.1038/s41586-020-2649-2,2020,18864,https://openalex.org/W3035965352
 1702,Artificial Intelligence,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.17863/cam.64134,2019,11500,https://openalex.org/W3103145119
-2303,Ecology,European phenological response to climate change matches the warming pattern,https://doi.org/10.1111/j.1365-2486.2006.01193.x,2006,3057,https://openalex.org/W2029411945
-2303,Ecology,Enhancements and modifications of primer design program Primer3,https://doi.org/10.1093/bioinformatics/btm091,2007,2597,https://openalex.org/W2100303227
-2303,Ecology,Structure and function of the global topsoil microbiome,https://doi.org/10.1038/s41586-018-0386-6,2018,2220,https://openalex.org/W2887136521
-1311,Genetics,Genetic studies of body mass index yield new insights for obesity biology,https://doi.org/10.1038/nature14177,2015,4722,https://openalex.org/W2039153962
-1311,Genetics,FinnGen provides genetic insights from a well-phenotyped isolated population,https://doi.org/10.1038/s41586-022-05473-8,2023,3384,https://openalex.org/W4317390883
-1311,Genetics,Discovery and refinement of loci associated with lipid levels,https://doi.org/10.1038/ng.2797,2013,3201,https://openalex.org/W2153118028
-3320,Political Science and International Relations,How unstable? Volatility and the genuinely new parties in Eastern Europe,https://doi.org/10.1111/j.1475-6765.2005.00232.x,2005,404,https://openalex.org/W2077636920
+1702,Artificial Intelligence,Author Correction: SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.1038/s41592-020-0772-5,2020,1412,https://openalex.org/W3008003211
+1702,Artificial Intelligence,Robust rank aggregation for gene list integration and meta-analysis,https://doi.org/10.1093/bioinformatics/btr709,2012,1191,https://openalex.org/W2146511318
+1702,Artificial Intelligence,Sharemind: A Framework for Fast Privacy-Preserving Computations,https://doi.org/10.1007/978-3-540-88313-5_13,2008,676,https://openalex.org/W1485800369
+1702,Artificial Intelligence,Similarity of business process models: Metrics and evaluation,https://doi.org/10.1016/j.is.2010.09.006,2010,592,https://openalex.org/W2042759024
+1702,Artificial Intelligence,maxLik: A package for maximum likelihood estimation in R,https://doi.org/10.1007/s00180-010-0217-1,2010,586,https://openalex.org/W2023219679
+1702,Artificial Intelligence,Findings of the 2018 Conference on Machine Translation (WMT18),https://doi.org/10.18653/v1/w18-6401,2018,553,https://openalex.org/W2903193068
+1702,Artificial Intelligence,Findings of the 2019 Conference on Machine Translation (WMT19),https://doi.org/10.18653/v1/w19-5301,2019,468,https://openalex.org/W2970279348
+2303,Ecology,European phenological response to climate change matches the warming pattern,https://doi.org/10.1111/j.1365-2486.2006.01193.x,2006,3062,https://openalex.org/W2029411945
+2303,Ecology,Enhancements and modifications of primer design program Primer3,https://doi.org/10.1093/bioinformatics/btm091,2007,2605,https://openalex.org/W2100303227
+2303,Ecology,Structure and function of the global topsoil microbiome,https://doi.org/10.1038/s41586-018-0386-6,2018,2238,https://openalex.org/W2887136521
+2303,Ecology,Novel ecosystems: theoretical and management aspects of the new ecological world order,https://doi.org/10.1111/j.1466-822x.2006.00212.x,2006,2030,https://openalex.org/W2124696785
+2303,Ecology,Microbiome definition re-visited: old concepts and new challenges,https://doi.org/10.1186/s40168-020-00875-0,2020,1950,https://openalex.org/W3040245690
+2303,Ecology,A global inventory of lakes based on high-resolution satellite imagery,https://doi.org/10.1002/2014gl060641,2014,1457,https://openalex.org/W2078860594
+2303,Ecology,"Wetlands, carbon, and climate change",https://doi.org/10.1007/s10980-012-9758-8,2012,1098,https://openalex.org/W1971832606
+2303,Ecology,Bottom-up effects of plant diversity on multitrophic interactions in a biodiversity experiment,https://doi.org/10.1038/nature09492,2010,1037,https://openalex.org/W2135911378
+2303,Ecology,Warmer climates boost cyanobacterial dominance in shallow lakes,https://doi.org/10.1111/j.1365-2486.2011.02488.x,2011,861,https://openalex.org/W2060920717
+2303,Ecology,Modulation of leaf economic traits and trait relationships by climate,https://doi.org/10.1111/j.1466-822x.2005.00172.x,2005,839,https://openalex.org/W2138240373
+1311,Genetics,Genetic studies of body mass index yield new insights for obesity biology,https://doi.org/10.1038/nature14177,2015,4726,https://openalex.org/W2039153962
+1311,Genetics,FinnGen provides genetic insights from a well-phenotyped isolated population,https://doi.org/10.1038/s41586-022-05473-8,2023,3455,https://openalex.org/W4317390883
+1311,Genetics,Discovery and refinement of loci associated with lipid levels,https://doi.org/10.1038/ng.2797,2013,3214,https://openalex.org/W2153118028
+1311,Genetics,Genome-wide association analyses identify 44 risk variants and refine the genetic architecture of major depression,https://doi.org/10.1038/s41588-018-0090-3,2018,3128,https://openalex.org/W2738082385
+1311,Genetics,"Association analyses of 249,796 individuals reveal 18 new loci associated with body mass index",https://doi.org/10.1038/ng.686,2010,2932,https://openalex.org/W2147311167
+1311,Genetics,Autoantibodies against type I IFNs in patients with life-threatening COVID-19,https://doi.org/10.1126/science.abd4585,2020,2741,https://openalex.org/W3088256443
+1311,Genetics,Gene discovery and polygenic prediction from a genome-wide association study of educational attainment in 1.1 million individuals,https://doi.org/10.1038/s41588-018-0147-3,2018,2715,https://openalex.org/W2883573930
+1311,Genetics,TRY – a global database of plant traits,https://doi.org/10.1111/j.1365-2486.2011.02451.x,2011,2595,https://openalex.org/W2162584119
+1311,Genetics,Meta-analysis of genome-wide association studies for height and body mass index in ∼700000 individuals of European ancestry,https://doi.org/10.1093/hmg/ddy271,2018,2330,https://openalex.org/W2952883732
+1311,Genetics,Defining the role of common variation in the genomic and biological architecture of adult human height,https://doi.org/10.1038/ng.3097,2014,2050,https://openalex.org/W2139852278
+3320,Political Science and International Relations,How unstable? Volatility and the genuinely new parties in Eastern Europe,https://doi.org/10.1111/j.1475-6765.2005.00232.x,2005,405,https://openalex.org/W2077636920
 3320,Political Science and International Relations,The Memory Politics of Becoming European: The East European Subalterns and the Collective Memory of Europe,https://doi.org/10.1177/1354066109345049,2009,329,https://openalex.org/W2140333103
-3320,Political Science and International Relations,The potential impacts of digital technologies on co-production and co-creation,https://doi.org/10.1080/14719037.2019.1619807,2019,293,https://openalex.org/W2952677210
-2204,Biomedical Engineering,Neuropilin-1 facilitates SARS-CoV-2 cell entry and infectivity,https://doi.org/10.1126/science.abd2985,2020,1938,https://openalex.org/W3093867667
-2204,Biomedical Engineering,"Toxicity of Ag, CuO and ZnO nanoparticles to selected environmentally relevant test organisms and mammalian cells in vitro: a critical review",https://doi.org/10.1007/s00204-013-1079-4,2013,1201,https://openalex.org/W2049136420
-2204,Biomedical Engineering,A review of mineral carbonation technologies to sequester CO<sub>2</sub>,https://doi.org/10.1039/c4cs00035h,2014,994,https://openalex.org/W1966260411
+3320,Political Science and International Relations,The potential impacts of digital technologies on co-production and co-creation,https://doi.org/10.1080/14719037.2019.1619807,2019,296,https://openalex.org/W2952677210
+3320,Political Science and International Relations,"Global Financial Crisis, Public Administration and Governance: Do New Problems Require New Solutions?",https://doi.org/10.1007/s11115-010-0148-x,2010,184,https://openalex.org/W2130671441
+3320,Political Science and International Relations,Extensive Farming in Estonia Started through a Sex-Biased Migration from the Steppe,https://doi.org/10.1016/j.cub.2017.06.022,2017,179,https://openalex.org/W2735469373
+3320,Political Science and International Relations,Thinking Relationships Through Water,https://doi.org/10.1080/08941920.2016.1151714,2016,174,https://openalex.org/W2332184058
+3320,Political Science and International Relations,China’s Belt and Road Initiative: Views from the ground,https://doi.org/10.1016/j.polgeo.2020.102225,2020,172,https://openalex.org/W3047436054
+3320,Political Science and International Relations,Explaining trust in political institutions: Some illustrations from the Baltic states,https://doi.org/10.1016/j.postcomstud.2006.09.001,2006,158,https://openalex.org/W1963811564
+3320,Political Science and International Relations,Russian Approaches to International Law,https://doi.org/10.1093/acprof:oso/9780198723042.001.0001,2015,154,https://openalex.org/W874202133
+3320,Political Science and International Relations,"Smart city governance from an innovation management perspective: Theoretical framing, review of current practices, and future research agenda",https://doi.org/10.1016/j.technovation.2023.102717,2023,140,https://openalex.org/W4319335065
+2204,Biomedical Engineering,Neuropilin-1 facilitates SARS-CoV-2 cell entry and infectivity,https://doi.org/10.1126/science.abd2985,2020,1946,https://openalex.org/W3093867667
+2204,Biomedical Engineering,"Toxicity of Ag, CuO and ZnO nanoparticles to selected environmentally relevant test organisms and mammalian cells in vitro: a critical review",https://doi.org/10.1007/s00204-013-1079-4,2013,1204,https://openalex.org/W2049136420
+2204,Biomedical Engineering,A review of mineral carbonation technologies to sequester CO<sub>2</sub>,https://doi.org/10.1039/c4cs00035h,2014,1004,https://openalex.org/W1966260411
+2204,Biomedical Engineering,Two-photon absorption properties of fluorescent proteins,https://doi.org/10.1038/nmeth.1596,2011,680,https://openalex.org/W2075701819
+2204,Biomedical Engineering,Off-Pump or On-Pump Coronary-Artery Bypass Grafting at 30 Days,https://doi.org/10.1056/nejmoa1200388,2012,676,https://openalex.org/W2132547422
+2204,Biomedical Engineering,Molecular Characterization of the Cytotoxic Mechanism of Multiwall Carbon Nanotubes and Nano-Onions on Human Skin Fibroblast,https://doi.org/10.1021/nl051748o,2005,540,https://openalex.org/W2099433022
+2204,Biomedical Engineering,MXene as a novel intercalation-type pseudocapacitive cathode and anode for capacitive deionization,https://doi.org/10.1039/c6ta07833h,2016,449,https://openalex.org/W2546971341
+2204,Biomedical Engineering,Effects of Off-Pump and On-Pump Coronary-Artery Bypass Grafting at 1 Year,https://doi.org/10.1056/nejmoa1301228,2013,441,https://openalex.org/W2107706993
+2204,Biomedical Engineering,Ecotoxicity of nanoparticles of CuO and ZnO in natural water,https://doi.org/10.1016/j.envpol.2009.08.017,2009,423,https://openalex.org/W2036923349
+2204,Biomedical Engineering,Development of a portable MIP-based electrochemical sensor for detection of SARS-CoV-2 antigen,https://doi.org/10.1016/j.bios.2021.113029,2021,420,https://openalex.org/W3123452171

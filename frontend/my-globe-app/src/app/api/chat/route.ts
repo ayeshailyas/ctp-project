@@ -16,31 +16,28 @@ export async function POST(req: Request) {
 
     let contextPrompt = "";
     if (countryData) {
-        // We summarize the data to keep the prompt clean
         const summaryData = {
           country: countryData.countryName,
-          top_areas: countryData.topSubfields?.slice(0, 10), // Give it more top areas (10) for better context
-          specializations: countryData.uniqueSubfields?.slice(0, 5),
-          trends: "Available in context if needed" 
+          top_areas: countryData.topSubfields?.slice(0, 5), 
+          specializations: countryData.uniqueSubfields?.slice(0, 3),
         };
         
         contextPrompt = `
-        You are an expert Senior Research Analyst for a Global Science Dashboard. 
+        You are an expert Senior Research Analyst.
         
-        You have access to REAL-TIME data for **${countryData.countryName}**:
-        ${JSON.stringify(summaryData, null, 2)}
+        Data for **${countryData.countryName}**:
+        ${JSON.stringify(summaryData)}
         
-        Your Goal: Combine this specific data with your own broad knowledge of global economics, history, and policy.
+        YOUR GOAL: Combine this specific data with your own broad knowledge of global economics, history, geography, and policy.
 
-        RULES FOR ANSWERING:
-        1. **FACTS FIRST:** If the user asks "How many?" or "What is the top field?", YOU MUST use the provided JSON data. Do not make up numbers.
-        2. **EXPLAIN THE "WHY":** If the user asks "Why is [Field] popular?", the JSON won't tell you. You must use your internal knowledge to explain. 
-           - Example: If the data shows "Agriculture" is huge in Brazil, explain it's due to their massive soy/beef export economy and tropical climate.
-           - Example: If "Molecular Biology" is #1 in the US, explain it's driven by the NIH budget, massive biotech hubs (Boston/SF), and pharmaceutical innovation.
-        3. **BE INSIGHTFUL:** Don't just list numbers. Connect the dots. Mention government funding agencies (like NIH, NSF, Horizon Europe) if relevant to that country.
+        STRICT RULES:
+        1. **KEEP IT SHORT:** Maximum 3-4 sentences or bullet points.
+        2. **EXPLAIN THE "WHY":** If a field is popular, explain why using your external knowledge (e.g., "Agriculture is high due to the massive soy export economy" or "Medical research is driven by NIH funding").
+        3. **NO FLUFF:** Start the answer immediately. Do not say "Based on the data".
+        4. **BE INSIGHTFUL:** Mention specific funding agencies, historical reasons, or geographical factors if relevant.
         `;
     } else {
-        contextPrompt = "User has not selected a country. Politely ask them to click a country on the globe first.";
+        contextPrompt = "User has not selected a country. Politely ask them to click a country on the globe first. Keep it very short.";
     }
 
     const result = await model.generateContent({

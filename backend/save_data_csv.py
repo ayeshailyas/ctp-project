@@ -114,7 +114,7 @@ def fetch_top_works_for_subfields(country_code: str, subfields: List[Dict], coun
     """
     For each top subfield, fetch the top 3 most cited papers from the last 20 years.
     """
-    print(f"    > Fetching Top 3 Papers for {len(subfields)} subfields...")
+    print(f"    > Fetching Top 10 Papers for {len(subfields)} subfields...")
     
     current_year = datetime.now().year
     start_date = f"{current_year - YEARS_BACK}-01-01"
@@ -142,7 +142,7 @@ def fetch_top_works_for_subfields(country_code: str, subfields: List[Dict], coun
         ])
 
         # ADDED per_page=3 here
-        works = safe_get(query, per_page=3)
+        works = safe_get(query, per_page=10)
 
         for w in works:
             all_top_works.append({
