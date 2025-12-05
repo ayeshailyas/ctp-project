@@ -17,7 +17,7 @@ interface Message {
 const SUGGESTIONS = [
   "What drives this research output?",
   "What makes this country unique?",
-  "Summarize the growth trends",
+  "Summarize the growth trends.",
   "Any notable recent papers?",
 ]
 
