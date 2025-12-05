@@ -18,6 +18,8 @@
 
 ## 📖 About The Project
 
+![Demo](/demo.gif)
+
 **Research Flow** is a cinematic data visualization platform that bridges the gap between raw bibliometric data and accessible insights. Powered by the **OpenAlex API** and **Google Gemini AI**, it allows researchers, policy-makers, and curious minds to explore what countries are researching, how they compare globally, and which papers are leading the charge.
 
 The application features a seamless transition from a "Cinematic Intro" to a fully interactive dashboard, utilizing GPU-accelerated transitions and memoized 3D rendering for high performance.
