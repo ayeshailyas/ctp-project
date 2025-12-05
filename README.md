@@ -10,7 +10,7 @@
 
 **Explore the scientific output of nations through an immersive, interactive 3D experience.**
 
-![View Website](https://research-flow-ctp.vercel.app/)
+[View Website](https://research-flow-ctp.vercel.app/)
 
 </div>
 
