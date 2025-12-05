@@ -7,12 +7,6 @@ DATA_DIR = "data"
 OUTPUT_FILE = "src/data/generated-data.json"
 
 def get_global_averages(data_dir):
-    """
-    Pass 1: Sum up works from ALL countries to find the 'Global Standard'.
-    Returns:
-        global_subfield_volumes: {'Artificial Intelligence': 500000, ...}
-        total_global_works: 15000000
-    """
     print("  Calculating global averages...")
     global_subfield_volumes = {}
     total_global_works = 0
@@ -23,16 +17,13 @@ def get_global_averages(data_dir):
             if os.path.exists(subfields_file):
                 try:
                     df = pd.read_csv(subfields_file)
-                    # Sum up volumes
                     for _, row in df.iterrows():
                         name = row['name']
                         count = row['works_count']
-                        
                         global_subfield_volumes[name] = global_subfield_volumes.get(name, 0) + count
                         total_global_works += count
                 except:
                     pass
-                    
     return global_subfield_volumes, total_global_works
 
 def get_country_stats(country_code, global_volumes, global_total):
@@ -40,14 +31,28 @@ def get_country_stats(country_code, global_volumes, global_total):
     
     subfields_file = os.path.join(country_path, "top_subfields_all_time.csv")
     yearly_subfields_file = os.path.join(country_path, "yearly_subfields.csv")
+    top_works_file = os.path.join(country_path, "top_works.csv") # <--- NEW FILE
     
     stats = {
         "countryCode": country_code,
         "countryName": country_code,
         "topSubfields": [],
-        "uniqueSubfields": [], # <--- NEW SECTION
+        "uniqueSubfields": [], 
         "trends": {}
     }
+
+    # Helper: Load Top Papers Map
+    papers_map = {} # { "Subfield Name": [ {paper1}, {paper2} ] }
+    if os.path.exists(top_works_file):
+        try:
+            works_df = pd.read_csv(top_works_file)
+            # Group by subfield name
+            for sf_name, group in works_df.groupby('subfield_name'):
+                # Convert top 3 papers to list of dicts
+                papers = group[['title', 'doi', 'year', 'cited_by_count']].fillna('').to_dict('records')
+                papers_map[sf_name] = papers
+        except Exception as e:
+            print(f"  Warning: could not read top works for {country_code}: {e}")
 
     # 1. Process Top Subfields & Calculate Uniqueness
     top_names = []
@@ -57,11 +62,16 @@ def get_country_stats(country_code, global_volumes, global_total):
             
             # A. Basic Top 10 (Volume)
             top_10 = df.head(10).rename(columns={'name': 'name', 'works_count': 'totalWorks'})
-            stats["topSubfields"] = top_10[['name', 'totalWorks']].to_dict('records')
+            top_subfields_list = top_10[['name', 'totalWorks']].to_dict('records')
+
+            # Attach Papers to Top Subfields
+            for item in top_subfields_list:
+                item['topPapers'] = papers_map.get(item['name'], [])
+
+            stats["topSubfields"] = top_subfields_list
             top_names = top_10['name'].tolist()
 
             # B. Calculate Uniqueness (RCA Score)
-            # Formula: (Country_Share_of_Topic) / (Global_Share_of_Topic)
             country_total_works = df['works_count'].sum()
             
             uniqueness_list = []
@@ -69,25 +79,21 @@ def get_country_stats(country_code, global_volumes, global_total):
                 topic_name = row['name']
                 topic_vol = row['works_count']
                 
-                # 1. How much does THIS country care about this topic?
                 country_share = topic_vol / country_total_works if country_total_works > 0 else 0
-                
-                # 2. How much does the WORLD care about this topic?
                 world_vol = global_volumes.get(topic_name, 0)
                 world_share = world_vol / global_total if global_total > 0 else 1
                 
-                # 3. The Score (Higher = More Unique to this country)
-                # Avoid divide by zero
                 if world_share == 0: world_share = 0.00001
                 score = country_share / world_share
                 
                 uniqueness_list.append({
                     'name': topic_name,
                     'totalWorks': topic_vol,
-                    'score': round(score, 2)
+                    'score': round(score, 2),
+                    # Attach Papers to Unique Subfields too
+                    'topPapers': papers_map.get(topic_name, []) 
                 })
             
-            # Sort by SCORE (Highest first) and take top 5
             uniqueness_list.sort(key=lambda x: x['score'], reverse=True)
             stats["uniqueSubfields"] = uniqueness_list[:5]
 
@@ -113,18 +119,15 @@ def get_country_stats(country_code, global_volumes, global_total):
     return stats
 
 def main():
-    print("Generating interactive JSON data with Uniqueness Scores...")
+    print("Generating interactive JSON data with Top Papers...")
     
-    # PASS 1: Calculate Global Totals
     global_volumes, global_total = get_global_averages(DATA_DIR)
     print(f"  ✓ Global analysis complete ({global_total:,} total works processed)")
     
-    # PASS 2: Process Each Country
     all_data = {}
     if os.path.exists(DATA_DIR):
         for item in os.listdir(DATA_DIR):
             if os.path.isdir(os.path.join(DATA_DIR, item)):
-                # Pass the global stats into the function
                 country_data = get_country_stats(item, global_volumes, global_total)
                 if country_data:
                     all_data[item] = country_data

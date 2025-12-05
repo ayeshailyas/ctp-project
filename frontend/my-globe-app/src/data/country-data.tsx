@@ -1,22 +1,34 @@
 import generatedData from './generated-data.json';
 
-// Define the shape of our data (Types)
+export interface Paper {
+  id: string;
+  title: string;
+  doi: string;
+  year: number;
+  cited_by_count: number;
+}
+
 export interface TopicTrend {
   year: number;
   topicName: string;
   volume: number;
 }
 
+export interface SubfieldData {
+  name: string;
+  totalWorks: number;
+  score?: number; 
+  topPapers?: Paper[];
+}
+
 export interface CountryStats {
   countryName: string;
   countryCode: string;
-  topSubfields: { name: string; totalWorks: number }[];
-  uniqueSubfields: { name: string; totalWorks: number; score: number }[];
+  topSubfields: SubfieldData[];
+  uniqueSubfields: SubfieldData[];
   trends: Record<string, { year: number; volume: number }[]>;
 }
 
-// 1. Cast the imported JSON to our Type
-// We use a "Record" type because the JSON is an object where keys are country codes (e.g. "US": {...})
 const countryData: Record<string, CountryStats> = generatedData as unknown as Record<string, CountryStats>;
 
 const countryFlags: Record<string, string> = {
@@ -25,7 +37,6 @@ const countryFlags: Record<string, string> = {
   RU: "🇷🇺", KR: "🇰🇷", AU: "🇦🇺", ES: "🇪🇸", MX: "🇲🇽",
   ID: "🇮🇩", TR: "🇹🇷", NL: "🇳🇱", SA: "🇸🇦", CH: "🇨🇭",
   SE: "🇸🇪", PL: "🇵🇱", BE: "🇧🇪", AR: "🇦🇷", NO: "🇳🇴",
-  // Add more flags if you like, or it defaults to the globe icon
 };
 
 export function getCountryData(countryCode: string): CountryStats | null {
