@@ -54,67 +54,9 @@ The application features a seamless transition from a "Cinematic Intro" to a ful
 
 ---
 
-## 🚀 Getting Started
+## 🧠 How It Works
 
-Follow these steps to set up the project locally.
-
-### Prerequisites
-* Node.js (v18+)
-* Python 3.8+ (for data pipeline)
-* API Keys for Google Gemini
-
-### Installation
-
-1.  **Clone the repository**
-    ```bash
-    git clone [https://github.com/yourusername/global-research-trends.git](https://github.com/yourusername/global-research-trends.git)
-    cd global-research-trends
-    ```
-
-2.  **Install Frontend Dependencies**
-    ```bash
-    npm install
-    # or
-    yarn install
-    ```
-
-3.  **Set up Environment Variables**
-    Create a `.env.local` file in the root directory:
-    ```env
-    GEMINI_API_KEY=your_google_gemini_key_here
-    OPENALEX_EMAIL=your_email@example.com (Optional, for faster API rate limits)
-    ```
-
-4.  **Run the Development Server**
-    ```bash
-    npm run dev
-    ```
-    Open [http://localhost:3000](http://localhost:3000) to view the app.
-
----
-
-## 🐍 Data Pipeline (Python)
-
-This project relies on a pre-generated JSON dataset to ensure instant load times on the frontend. The data is fetched via Python scripts included in the repository.
-
-**Location:** `/src/data/` (or root, depending on your structure)
-
-1.  **Install Python Requirements:**
-    ```bash
-    pip install pyalex pandas python-dotenv
-    ```
-
-2.  **Fetch Raw Data (Top Works & Trends):**
-    This script hits the OpenAlex API to get the top subfields, yearly trends, and top 10 papers per field.
-    ```bash
-    python save_data_csv.py
-    ```
-
-3.  **Process & Calculate Scores:**
-    This script calculates the "Specialization Score" (RCA) and combines everything into one optimized JSON file.
-    ```bash
-    python convert_to_json.py
-    ```
-    *Output:* `src/data/generated-data.json`
-
----
+### The Specialization Score (RCA)
+While most dashboards show volume (e.g., "US has the most papers"), this dashboard calculates Relative Comparative Advantage.
+**Formula:** (Country's Share of Topic X) / (Global Share of Topic X)
+This reveals that while a small country might not produce many papers, they might be the world's leading experts in "Marine Biology" relative to their size.
