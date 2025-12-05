@@ -57,6 +57,6 @@ The application features a seamless transition from a "Cinematic Intro" to a ful
 ## 🧠 How It Works
 
 ### The Specialization Score (RCA)
-While most dashboards show volume (e.g., "US has the most papers"), this dashboard calculates Relative Comparative Advantage.
-**Formula:** (Country's Share of Topic X) / (Global Share of Topic X)
-This reveals that while a small country might not produce many papers, they might be the world's leading experts in "Marine Biology" relative to their size.
+While most dashboards show volume (e.g., "US has the most papers"), this dashboard calculates Relative Comparative Advantage. |
+**Formula:** (Country's Share of Topic X) / (Global Share of Topic X) |
+This reveals that while a small country might not produce many papers, they might be the world's leading experts in "Marine Biology" relative to their size. |
